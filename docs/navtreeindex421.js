@@ -1,5 +1,9 @@
 var NAVTREEINDEX421 =
 {
+"df/da7/classBattleground.html#a2a485e27a9bc9333b4ee8cdc03af1fa5":[7,0,330,180],
+"df/da7/classBattleground.html#a2a95a5fd228a54ee854d0e08218c8a4e":[7,0,330,161],
+"df/da7/classBattleground.html#a2bbc8ae075114a7dc4ea98de75519686":[7,0,330,61],
+"df/da7/classBattleground.html#a2d94449beae1a37ad2d7c9e3fee2c718":[7,0,330,36],
 "df/da7/classBattleground.html#a2def9e5daf5fcb029686b8000111ba5f":[7,0,330,70],
 "df/da7/classBattleground.html#a2df3cf46606f74e086f700501a71f2ec":[7,0,330,111],
 "df/da7/classBattleground.html#a2e8dba8916e56d3e3a569f2ed18d6b94":[7,0,330,130],
@@ -245,9 +249,5 @@ var NAVTREEINDEX421 =
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a1fd3a4d7d16bb93be68d8b135546ab1e":[7,0,2109,0,6],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a4ac57f4ffe0886f463378b42525e2e4d":[7,0,2109,0,7],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a90dff89c652339ecf7479d2c9233962a":[7,0,2109,0,0],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a9ecb9771140d1248c08c56886c8d4ca9":[7,0,2109,0,4],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#ab752e504c7cf463a4447a07fbb67211c":[7,0,2109,0,8],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#adafed6974cbd70ccfc0f9ee83732d162":[7,0,2109,0,3],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#af59e24c588861fe7d1bcd456780f571a":[7,0,2109,0,5],
-"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html":[7,0,2260,0]
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a9ecb9771140d1248c08c56886c8d4ca9":[7,0,2109,0,4]
 };

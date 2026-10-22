@@ -1,5 +1,9 @@
 var NAVTREEINDEX417 =
 {
+"df/d7d/transport__zeppelin_8h.html#ab056b3dcfb6a8a0900235d92e3b5677a":[8,0,0,0,1,3,10,20,3],
+"df/d7d/transport__zeppelin_8h.html#ab056b3dcfb6a8a0900235d92e3b5677aa263fae717f9aaa910f37e7aebcda407d":[8,0,0,0,1,3,10,20,3,0],
+"df/d7d/transport__zeppelin_8h.html#ab326c00672be06c22ee74bd2dc7a3ce0":[8,0,0,0,1,3,10,20,4],
+"df/d7e/structnpc__pet__trainer_1_1npc__pet__trainerAI.html":[7,0,2089,0],
 "df/d7e/structnpc__pet__trainer_1_1npc__pet__trainerAI.html#a6768c8f8f5e37058f85cb40d35caad72":[7,0,2089,0,1],
 "df/d7e/structnpc__pet__trainer_1_1npc__pet__trainerAI.html#aa5c01fd7cf2b9fad15a3059b4fe38d13":[7,0,2089,0,0],
 "df/d7f/structContainerMapList_3_01TypeNull_01_4.html":[7,0,933],
@@ -45,10 +49,10 @@ var NAVTREEINDEX417 =
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[7,0,444,6],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[7,0,13,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,34,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[7,0,13,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[7,0,13,6,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[7,0,13,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[7,0,13,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,34,6,36,1],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[7,0,13,6,36,1],
 "df/d86/classnpc__professor__phizzlethorpe.html":[7,0,2115],
@@ -244,10 +248,6 @@ var NAVTREEINDEX417 =
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[7,0,0,57],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[5,0,0,69,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[7,0,0,57,0],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,0,69,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[7,0,0,57,6],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[7,0,0,57,2],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[5,0,0,69,2],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[5,0,0,69,5],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[7,0,0,57,5]
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,0,69,6]
 };

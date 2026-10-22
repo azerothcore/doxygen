@@ -1,5 +1,6 @@
 var NAVTREEINDEX70 =
 {
+"d2/d73/classScriptMgr.html#ac4dc7cc2d86009c3f5689a39752b726a":[7,0,2582,215],
 "d2/d73/classScriptMgr.html#ac59b00f34040fae7801cfe3304bc2ecb":[7,0,2582,261],
 "d2/d73/classScriptMgr.html#ac5c04cb586d4ee8cf8e0e41d504ed420":[7,0,2582,480],
 "d2/d73/classScriptMgr.html#ac5f50a8d50aa5db26b84f3eb79a68d3a":[7,0,2582,230],
@@ -195,8 +196,10 @@ var NAVTREEINDEX70 =
 "d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#a8ef6c480846d08d8a6225a7124320cbf":[7,0,2051,0,5],
 "d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#adc86ecd4ed7b4b7b42968a0e09fa29a0":[7,0,2051,0,1],
 "d2/d7a/structboss__yoggsaron__corruptor__tentacle.html":[7,0,808],
-"d2/d7a/structboss__yoggsaron__corruptor__tentacle.html#a2f8911a615d32689088a6c358ac80d3f":[7,0,808,3],
-"d2/d7a/structboss__yoggsaron__corruptor__tentacle.html#a8b868941372af612e269e013594a5c14":[7,0,808,2],
+"d2/d7a/structboss__yoggsaron__corruptor__tentacle.html#a14ae968505923f98ee6b29f608b11fa4":[7,0,808,5],
+"d2/d7a/structboss__yoggsaron__corruptor__tentacle.html#a8b868941372af612e269e013594a5c14":[7,0,808,4],
+"d2/d7a/structboss__yoggsaron__corruptor__tentacle.html#a9f4f2791d8a65303332fead986dfb377":[7,0,808,2],
+"d2/d7a/structboss__yoggsaron__corruptor__tentacle.html#aaa49aab0068c520a6039b7ea9c19aa20":[7,0,808,3],
 "d2/d7a/structboss__yoggsaron__corruptor__tentacle.html#adf9489b954cc83a26263ffffe4ef2dd5":[7,0,808,1],
 "d2/d7a/structboss__yoggsaron__corruptor__tentacle.html#afc092be8079630b1214c98b8896a22c3":[7,0,808,0],
 "d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html":[7,0,2216,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d7d/classGroupReference.html#a6f8f406f1209dd7060904d40f5424b41":[7,0,1270,3],
 "d2/d7d/classGroupReference.html#a8217ca810bc251005dfe8a2e3b810e1e":[7,0,1270,2],
 "d2/d7d/classGroupReference.html#aa7c8acd113fefc7b6d2b9dff94bb047c":[7,0,1270,7],
-"d2/d7d/classGroupReference.html#ab1a008e85d413c67696d4d568a98bde7":[7,0,1270,0],
-"d2/d7d/classGroupReference.html#ab586405a850b0985e6b9f08cc6bdf32e":[7,0,1270,1],
-"d2/d7d/classGroupReference.html#ac913ec0703c28cda068375d01c9cd72d":[7,0,1270,4],
-"d2/d7d/classspell__winter__veil__mistletoe.html":[7,0,4422]
+"d2/d7d/classGroupReference.html#ab1a008e85d413c67696d4d568a98bde7":[7,0,1270,0]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX281 =
 {
+"da/da3/classgroup__commandscript.html":[7,0,1267],
+"da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94":[7,0,1267,8],
+"da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[7,0,1267,6],
+"da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb":[7,0,1267,7],
+"da/da3/classgroup__commandscript.html#a382e8532c653464e90b45569e813ae37":[7,0,1267,4],
+"da/da3/classgroup__commandscript.html#a538539340a697e02453ddcfa669fb646":[7,0,1267,2],
+"da/da3/classgroup__commandscript.html#a5e7e069c58ecc5baca4ef1118e6c143e":[7,0,1267,1],
 "da/da3/classgroup__commandscript.html#a614878b840aee6bab067db81fa59a8c7":[7,0,1267,3],
 "da/da3/classgroup__commandscript.html#a899858a63add3c68e0e1446d29216c00":[7,0,1267,5],
 "da/da3/classgroup__commandscript.html#ad2890427cfe3649b2e0fe0896693372c":[7,0,1267,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX281 =
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[7,0,3917,3],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[7,0,3917,2],
 "da/dac/structAccountData.html":[4,1,10],
-"da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[4,1,10,2],
-"da/dac/structAccountData.html#a593303fb86ec3ac592ee933b8d057fe8":[4,1,10,0],
-"da/dac/structAccountData.html#aa45f3f93f643b4dd9ea4d269e3b5462d":[4,1,10,1],
-"da/dad/CombatPackets_8cpp.html":[8,0,0,0,1,2,39,0,11],
-"da/dad/structboss__harbinger__skyriss.html":[7,0,538],
-"da/dad/structboss__harbinger__skyriss.html#a045ec2371ad99c3465b8f089eb604e0a":[7,0,538,6],
-"da/dad/structboss__harbinger__skyriss.html#a245179f74d61c2671b397e8f2473b599":[7,0,538,0],
-"da/dad/structboss__harbinger__skyriss.html#a2b5152ddeb53d382294bd0fe7455a21e":[7,0,538,2]
+"da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[4,1,10,2]
 };

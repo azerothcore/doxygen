@@ -1,5 +1,12 @@
 var NAVTREEINDEX408 =
 {
+"df/d1e/classspell__pri__shadowfiend__scaling.html#a88520214bd87511b615965593f1b927f":[7,0,3870,6],
+"df/d1e/classspell__pri__shadowfiend__scaling.html#a9ae59870127884029a938684786e67a9":[7,0,3870,2],
+"df/d1e/classspell__pri__shadowfiend__scaling.html#aa3fd9aa18ea2afa20c7c2298a8699812":[7,0,3870,1],
+"df/d1e/classspell__pri__shadowfiend__scaling.html#aa90952337607986eaf7485200a32c353":[7,0,3870,5],
+"df/d1e/classspell__pri__shadowfiend__scaling.html#aaca0801f75839ebd9568c4cd31011a1e":[7,0,3870,4],
+"df/d1e/instance__blackrock__spire_8cpp.html":[8,0,0,0,1,3,2,1,1,15],
+"df/d1e/instance__blackrock__spire_8cpp.html#a0ef83f41d84e61ee5b3f95782bb62cdd":[8,0,0,0,1,3,2,1,1,15,12],
 "df/d1e/instance__blackrock__spire_8cpp.html#a0ef83f41d84e61ee5b3f95782bb62cdda7cda3749e89d65cb65a8a130bf38f57c":[8,0,0,0,1,3,2,1,1,15,12,0],
 "df/d1e/instance__blackrock__spire_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,2,1,1,15,11],
 "df/d1e/instance__blackrock__spire_8cpp.html#a16774215bba3b38580ea51987d64cff1a5757bbcd4e05c940b79d9e4f1d924ce5":[8,0,0,0,1,3,2,1,1,15,11,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX408 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a517092e95cec13dd4ee918a9a7efe956":[8,0,0,0,1,2,16,5,0,4,6,176],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a54595526b36d446c755f3f39f168e24c":[8,0,0,0,1,2,16,5,0,4,6,194],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a5504968db4eadc948df53a97a40746b1":[8,0,0,0,1,2,16,5,0,4,6,88],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a5515e9404fb0d2f2aa473d2bd925db48":[8,0,0,0,1,2,16,5,0,4,6,19],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a55942aa82e4f35477e715b919a6644f2":[8,0,0,0,1,2,16,5,0,4,6,185],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a55b1adfa47b8df5d6f75c0ec664f1588":[8,0,0,0,1,2,16,5,0,4,6,244],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a55f40855e6113cdd2a025afc25fabdfb":[8,0,0,0,1,2,16,5,0,4,6,284],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a564607260214ac33bc63388aa0c24b13":[8,0,0,0,1,2,16,5,0,4,6,277],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a5662db4f743b497fc17de3f73e4e9235":[8,0,0,0,1,2,16,5,0,4,6,51],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a56a9b95407ec9c195d436ed3eaced702":[8,0,0,0,1,2,16,5,0,4,6,14],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a57af23a4126082c7a9dedf17f0bdfa38":[8,0,0,0,1,2,16,5,0,4,6,81]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a5515e9404fb0d2f2aa473d2bd925db48":[8,0,0,0,1,2,16,5,0,4,6,19]
 };

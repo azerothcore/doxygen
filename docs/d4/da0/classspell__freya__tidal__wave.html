@@ -316,14 +316,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1389</span>    {</div>
-<div class="line"><span class="lineno"> 1390</span>        <span class="comment">// The cone is caster-referenced: taken before the charge moves the spirit, it spans</span></div>
-<div class="line"><span class="lineno"> 1391</span>        <span class="comment">// the same 40 yds the surge is about to cross.</span></div>
-<div class="line"><span class="lineno"> 1392</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 1393</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faf96cf06612c19d9e937e5cd198bd8e48">SPELL_TIDAL_WAVE_AURA</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1394</span>        <span class="comment">// Untriggered: no SpellVisual, so a triggered cast would lose its SMSG_SPELL_GO.</span></div>
-<div class="line"><span class="lineno"> 1395</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fad8ca2ebe8006f9bf11b60d7b7863958f">SPELL_TIDAL_WAVE_DAMAGE</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1396</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1392</span>    {</div>
+<div class="line"><span class="lineno"> 1393</span>        <span class="comment">// The cone is caster-referenced: taken before the charge moves the spirit, it spans</span></div>
+<div class="line"><span class="lineno"> 1394</span>        <span class="comment">// the same 40 yds the surge is about to cross.</span></div>
+<div class="line"><span class="lineno"> 1395</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 1396</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faf96cf06612c19d9e937e5cd198bd8e48">SPELL_TIDAL_WAVE_AURA</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1397</span>        <span class="comment">// Untriggered: no SpellVisual, so a triggered cast would lose its SMSG_SPELL_GO.</span></div>
+<div class="line"><span class="lineno"> 1398</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fad8ca2ebe8006f9bf11b60d7b7863958f">SPELL_TIDAL_WAVE_DAMAGE</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1399</span>    }</div>
 <div class="ttc" id="aboss__freya_8cpp_html_ab11cf06593f4e436af59534b8b96644fad8ca2ebe8006f9bf11b60d7b7863958f"><div class="ttname"><a href="../../df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fad8ca2ebe8006f9bf11b60d7b7863958f">SPELL_TIDAL_WAVE_DAMAGE</a></div><div class="ttdeci">@ SPELL_TIDAL_WAVE_DAMAGE</div><div class="ttdef"><b>Definition</b> boss_freya.cpp:99</div></div>
 <div class="ttc" id="aboss__freya_8cpp_html_ab11cf06593f4e436af59534b8b96644faf96cf06612c19d9e937e5cd198bd8e48"><div class="ttname"><a href="../../df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faf96cf06612c19d9e937e5cd198bd8e48">SPELL_TIDAL_WAVE_AURA</a></div><div class="ttdeci">@ SPELL_TIDAL_WAVE_AURA</div><div class="ttdef"><b>Definition</b> boss_freya.cpp:100</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
@@ -332,7 +332,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00100">SPELL_TIDAL_WAVE_AURA</a>, and <a class="el" href="../../#l00099">SPELL_TIDAL_WAVE_DAMAGE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01398">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01401">Register()</a>.</p>
 
 </div>
 </div>
@@ -386,16 +386,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1399</span>    {</div>
-<div class="line"><span class="lineno"> 1400</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#acf9d3c62feafc004af1f45af05652e3b">OnEffectLaunch</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d4/da0/classspell__freya__tidal__wave.html#a669a46f3583518664462b4ee915be2da">spell_freya_tidal_wave::HandleSurge</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97ac9e93e2be484a200e2198e609ca8224e">SPELL_EFFECT_CHARGE_DEST</a>);</div>
-<div class="line"><span class="lineno"> 1401</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1402</span>    {</div>
+<div class="line"><span class="lineno"> 1403</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#acf9d3c62feafc004af1f45af05652e3b">OnEffectLaunch</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d4/da0/classspell__freya__tidal__wave.html#a669a46f3583518664462b4ee915be2da">spell_freya_tidal_wave::HandleSurge</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97ac9e93e2be484a200e2198e609ca8224e">SPELL_EFFECT_CHARGE_DEST</a>);</div>
+<div class="line"><span class="lineno"> 1404</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97ac9e93e2be484a200e2198e609ca8224e"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97ac9e93e2be484a200e2198e609ca8224e">SPELL_EFFECT_CHARGE_DEST</a></div><div class="ttdeci">@ SPELL_EFFECT_CHARGE_DEST</div><div class="ttdef"><b>Definition</b> SharedDefines.h:915</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_acf9d3c62feafc004af1f45af05652e3b"><div class="ttname"><a href="../../df/d92/classSpellScript.html#acf9d3c62feafc004af1f45af05652e3b">SpellScript::OnEffectLaunch</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectLaunch</div><div class="ttdef"><b>Definition</b> SpellScript.h:333</div></div>
-<div class="ttc" id="aclassspell__freya__tidal__wave_html_a669a46f3583518664462b4ee915be2da"><div class="ttname"><a href="../../d4/da0/classspell__freya__tidal__wave.html#a669a46f3583518664462b4ee915be2da">spell_freya_tidal_wave::HandleSurge</a></div><div class="ttdeci">void HandleSurge(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> boss_freya.cpp:1388</div></div>
+<div class="ttc" id="aclassspell__freya__tidal__wave_html_a669a46f3583518664462b4ee915be2da"><div class="ttname"><a href="../../d4/da0/classspell__freya__tidal__wave.html#a669a46f3583518664462b4ee915be2da">spell_freya_tidal_wave::HandleSurge</a></div><div class="ttdeci">void HandleSurge(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> boss_freya.cpp:1391</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l01388">HandleSurge()</a>, <a class="el" href="../../#l00333">SpellScript::OnEffectLaunch</a>, <a class="el" href="../../#l00915">SPELL_EFFECT_CHARGE_DEST</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l01391">HandleSurge()</a>, <a class="el" href="../../#l00333">SpellScript::OnEffectLaunch</a>, <a class="el" href="../../#l00915">SPELL_EFFECT_CHARGE_DEST</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -408,7 +408,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/da0/classspell__freya__tidal__wave.html">spell_freya_tidal_wave</a></li>
-    <li class="footer">Generated on Wed Oct 21 2026 11:04:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Oct 22 2026 11:02:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

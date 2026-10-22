@@ -1,5 +1,12 @@
 var NAVTREEINDEX403 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a858ba1dc5b34b3ff5f41a194feea519f":[8,0,0,0,1,3,5,6,9,39,4],
+"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a9c239808144c052e62a74c886940c5cf":[8,0,0,0,1,3,5,6,9,39,6],
+"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5aaea73c4632244cbfac967715128d3a9a":[8,0,0,0,1,3,5,6,9,39,7],
+"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5ace38a09cc1f837573e30f48a568ff0d3":[8,0,0,0,1,3,5,6,9,39,5],
+"de/de5/boss__sindragosa_8cpp.html#a9d436986474fe6c18924870bd5e72966":[8,0,0,0,1,3,5,6,9,45],
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,5,6,9,42],
+"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,6,9,42,10],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2674fbc35711af6aa98124aa789bfd5b":[8,0,0,0,1,3,5,6,9,42,12],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a298aa81cc7a711503124972bc1e8f1d4":[8,0,0,0,1,3,5,6,9,42,7],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3110a46648bbeac1b39ec0306d1ebc42":[8,0,0,0,1,3,5,6,9,42,11],
@@ -242,12 +249,5 @@ var NAVTREEINDEX403 =
 "de/dee/classcast__commandscript.html#aa72bd317a3498ef07007c1a9e81e2796":[7,0,857,10],
 "de/dee/classcast__commandscript.html#aabbcac8e85c6a64a647d71bb22bebede":[7,0,857,8],
 "de/dee/classcast__commandscript.html#ab0890c036a8d301b382fdd1b6371f671":[7,0,857,3],
-"de/dee/classcast__commandscript.html#ac28430cc0623209b891bacbb4845509b":[7,0,857,6],
-"de/df0/SpellInfoCorrections_8cpp.html":[8,0,0,0,1,2,41,7],
-"de/df0/SpellInfoCorrections_8cpp.html#ab2692a866ddb9539875213c10f37b84e":[8,0,0,0,1,2,41,7,0],
-"de/df0/structArenaSeasonReward.html":[7,0,192],
-"de/df0/structArenaSeasonReward.html#a22d6afdbc88c47d18dc840d537ae4150":[7,0,192,1],
-"de/df0/structArenaSeasonReward.html#ab3144a4701e1ebd88a3a94544ee76cdf":[7,0,192,2],
-"de/df0/structArenaSeasonReward.html#ac4c8cff64cf2eb7f34d28080a2a5528b":[7,0,192,3],
-"de/df0/structArenaSeasonReward.html#ae0871effd7fcac1006d8a16f9c7d7d04":[7,0,192,0]
+"de/dee/classcast__commandscript.html#ac28430cc0623209b891bacbb4845509b":[7,0,857,6]
 };

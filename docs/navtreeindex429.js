@@ -1,5 +1,9 @@
 var NAVTREEINDEX429 =
 {
+"df/dd9/classWorldPackets_1_1Array.html#a48c70221dedd1b6cbc570389e9584bf1":[7,0,13,18,2],
+"df/dd9/classWorldPackets_1_1Array.html#a48c70221dedd1b6cbc570389e9584bf1":[5,0,34,18,2],
+"df/dd9/classWorldPackets_1_1Array.html#a5ba1ac83b8b2f62042c08f60c46b04fd":[5,0,34,18,4],
+"df/dd9/classWorldPackets_1_1Array.html#a5ba1ac83b8b2f62042c08f60c46b04fd":[7,0,13,18,4],
 "df/dd9/classWorldPackets_1_1Array.html#a5f23ed7c6bd7462e013c8ef3a5b78ba5":[7,0,13,18,18],
 "df/dd9/classWorldPackets_1_1Array.html#a5f23ed7c6bd7462e013c8ef3a5b78ba5":[5,0,34,18,18],
 "df/dd9/classWorldPackets_1_1Array.html#a7e2dab59358e8f5301cab932b9b43894":[7,0,13,18,15],
@@ -245,9 +249,5 @@ var NAVTREEINDEX429 =
 "df/ddb/structviolet__hold__trashAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,4676,12],
 "df/ddb/structviolet__hold__trashAI.html#a16e7677aa9597dda938a67c51febde6c":[7,0,4676,7],
 "df/ddb/structviolet__hold__trashAI.html#a17d81d130cfeff5b5ae0ee30c594f5ca":[7,0,4676,14],
-"df/ddb/structviolet__hold__trashAI.html#a1e64a9f7c82275969e099b5012a32924":[7,0,4676,3],
-"df/ddb/structviolet__hold__trashAI.html#a8647797343650fcd4f6304bce3742883":[7,0,4676,10],
-"df/ddb/structviolet__hold__trashAI.html#a87011739810f39291655bc835f9995bd":[7,0,4676,0],
-"df/ddb/structviolet__hold__trashAI.html#a9ebdc7d8619de49dcd742a1c08005770":[7,0,4676,13],
-"df/ddb/structviolet__hold__trashAI.html#aa584f9f52bfc3e37a6d3a80958e51e48":[7,0,4676,15]
+"df/ddb/structviolet__hold__trashAI.html#a1e64a9f7c82275969e099b5012a32924":[7,0,4676,3]
 };

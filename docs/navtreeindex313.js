@@ -1,5 +1,12 @@
 var NAVTREEINDEX313 =
 {
+"db/dd5/classCreature.html#a4c4b7c330d622d549e968d848c2c4c5f":[7,0,945,46],
+"db/dd5/classCreature.html#a4d9a3c81e501b99b9a902440ee02926b":[7,0,945,164],
+"db/dd5/classCreature.html#a4e88b22d5cee056c894f8c1bf9e39a2f":[7,0,945,285],
+"db/dd5/classCreature.html#a4f6d3cf41d5f547bbcc37034e16bfb94":[7,0,945,123],
+"db/dd5/classCreature.html#a50495d0b3416a6bd81be169c9c3ea094":[7,0,945,101],
+"db/dd5/classCreature.html#a50c1dd7e1d8d9183fa1166a42f4df93b":[7,0,945,263],
+"db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380":[7,0,945,232],
 "db/dd5/classCreature.html#a50eddd7e74f6c37d89b760293d9a821c":[7,0,945,80],
 "db/dd5/classCreature.html#a511bd8030c9e98f8f96fa0cf2b3e59eb":[7,0,945,75],
 "db/dd5/classCreature.html#a518123152fbb46da36aee1c1ac6f02cd":[7,0,945,329],
@@ -242,12 +249,5 @@ var NAVTREEINDEX313 =
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a369a837b6fa57d0960f24d9ea629ed04":[7,0,1702,0,8],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a446dc0b76eb3549b0e86b02e541f6296":[7,0,1702,0,3],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a563cd394d72a900d735f8639074deae1":[7,0,1702,0,0],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a6fe7e49f2077ed549a6406592aec345e":[7,0,1702,0,5],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a79b7fbee1492860fe64d42928e494e3d":[7,0,1702,0,7],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a8ca070c63dd48e22823ac26d11da75be":[7,0,1702,0,6],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a92d7543e31c5cb367379711cb767ebd6":[7,0,1702,0,13],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a983110caf86d94374a299d7268f7458c":[7,0,1702,0,12],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#abfdd9e554fbbe16f6058d5cb10394a84":[7,0,1702,0,2],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#aef28a7624fb88e65a7f79fe34c320a29":[7,0,1702,0,9],
-"db/dd6/classachievement__split__personality.html":[7,0,101]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a6fe7e49f2077ed549a6406592aec345e":[7,0,1702,0,5]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX123 =
 {
+"d4/d02/structSmartEvent.html#a45062180fef281a8120b6e23cd88be24":[7,0,2628,42],
+"d4/d02/structSmartEvent.html#a46a0c96d78fd0950d630dd0345d3168a":[7,0,2628,73],
+"d4/d02/structSmartEvent.html#a49063034ce0e3d5a55669bf4fe9b7f64":[7,0,2628,82],
 "d4/d02/structSmartEvent.html#a4a6fa06ba72b9548dc625e6c2332ed68":[7,0,2628,51],
 "d4/d02/structSmartEvent.html#a4ae405fbf8e19a6af3a0b98712e71e98":[7,0,2628,77],
 "d4/d02/structSmartEvent.html#a4c9d3be252ec8689e9af16eb8ee6f5c7":[7,0,2628,49],
@@ -173,12 +176,12 @@ var NAVTREEINDEX123 =
 "d4/d08/classWardenPayloadMgr.html#ae3878c7264337d646f7a5d503907d7aa":[7,0,4687,5],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html":[7,0,13,14,14],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html":[5,0,34,14,14],
-"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a22b1143d1ee7c28f0ae63c0d215e64ce":[7,0,13,14,14,0],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a22b1143d1ee7c28f0ae63c0d215e64ce":[5,0,34,14,14,0],
-"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a4c6df4b5647d8b71084c4495548cdd58":[7,0,13,14,14,2],
+"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a22b1143d1ee7c28f0ae63c0d215e64ce":[7,0,13,14,14,0],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a4c6df4b5647d8b71084c4495548cdd58":[5,0,34,14,14,2],
-"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a95d2c68a8383bcac985a891de7771274":[7,0,13,14,14,4],
+"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a4c6df4b5647d8b71084c4495548cdd58":[7,0,13,14,14,2],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a95d2c68a8383bcac985a891de7771274":[5,0,34,14,14,4],
+"d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#a95d2c68a8383bcac985a891de7771274":[7,0,13,14,14,4],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ab58c8dc6918834caa654e05992abde6a":[5,0,34,14,14,1],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ab58c8dc6918834caa654e05992abde6a":[7,0,13,14,14,1],
 "d4/d08/classWorldPackets_1_1Quest_1_1QuestUpdateAddPvPKill.html#ae80d16619ecac6b381b89483ce96b810":[7,0,13,14,14,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a279a5575ca0956266ae81b7a165874cf":[7,0,5,6,2],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a279a5575ca0956266ae81b7a165874cf":[5,0,17,6,2],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a5fe6d6ede54a1f1228e29fc7ef55a413":[5,0,17,6,0],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a5fe6d6ede54a1f1228e29fc7ef55a413":[7,0,5,6,0],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a7619305fea30cc7fdc47f0a7ee365304":[7,0,5,6,4],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a7619305fea30cc7fdc47f0a7ee365304":[5,0,17,6,4],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a8f3eddc8fbca950f184b6fb8b400344e":[7,0,5,6,1]
+"d4/d09/structlfg_1_1LfgPlayerBoot.html#a5fe6d6ede54a1f1228e29fc7ef55a413":[7,0,5,6,0]
 };

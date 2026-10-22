@@ -1,5 +1,11 @@
 var NAVTREEINDEX246 =
 {
+"d9/d16/structMetricData.html#af9962592650ba24fd9b3c0ee9ce06f7f":[7,0,1551,5],
+"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html":[7,0,1655,0],
+"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a0d51c4ab1701e62c02431b86f22eaf30":[7,0,1655,0,10],
+"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a0ee99690c32addb8e2ea01fd46f7d7d7":[7,0,1655,0,9],
+"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a485191989dd7d82c5429900af3e34502":[7,0,1655,0,2],
+"d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a4d3a681e14d84826c1d35a353e7c50ec":[7,0,1655,0,6],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a56547526e80fa3fde7f141cbe2f9f8d7":[7,0,1655,0,0],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a5f9bafa128427d5b4facf06e275b31fb":[7,0,1655,0,5],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a78083f1b0b9f50161b7b132331f86c2c":[7,0,1655,0,3],
@@ -209,10 +215,10 @@ var NAVTREEINDEX246 =
 "d9/d28/structAreaPOIEntry.html#afcb7cc22d0ed260793b31f8893d13a0f":[7,0,169,5],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[5,0,34,14,15],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[7,0,13,14,15,1],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[7,0,13,14,15,2],
 "d9/d29/classspell__item__goblin__bomb.html":[7,0,3435],
@@ -243,11 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c":[8,0,0,0,0,4,1,2,0],
 "d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a":[8,0,0,0,0,4,1,2,3],
 "d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29":[8,0,0,0,0,4,1,2,2],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642":[8,0,0,0,0,4,1,2,6],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c":[8,0,0,0,0,4,1,2,1],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a":[8,0,0,0,0,4,1,2,4],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc":[8,0,0,0,0,4,1,2,8],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095":[8,0,0,0,0,4,1,2,5],
-"d9/d2c/classAssistanceMovementGenerator.html":[7,0,212],
-"d9/d2c/classAssistanceMovementGenerator.html#a0791e081895efd553ba2048fc5b851ea":[7,0,212,2]
+"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642":[8,0,0,0,0,4,1,2,6]
 };

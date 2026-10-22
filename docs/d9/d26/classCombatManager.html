@@ -454,7 +454,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  155</span>{ <a class="code hl_function" href="../../d9/d26/classCombatManager.html#aea760251279c2d6e1c1855ae8fd37894">EndAllPvECombat</a>(); <a class="code hl_function" href="../../d9/d26/classCombatManager.html#aa52c206aea68bc6caa466ae6b584a0a7">EndAllPvPCombat</a>(); }</div>
-<div class="ttc" id="aclassCombatManager_html_aa52c206aea68bc6caa466ae6b584a0a7"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#aa52c206aea68bc6caa466ae6b584a0a7">CombatManager::EndAllPvPCombat</a></div><div class="ttdeci">void EndAllPvPCombat()</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:382</div></div>
+<div class="ttc" id="aclassCombatManager_html_aa52c206aea68bc6caa466ae6b584a0a7"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#aa52c206aea68bc6caa466ae6b584a0a7">CombatManager::EndAllPvPCombat</a></div><div class="ttdeci">void EndAllPvPCombat()</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:374</div></div>
 <div class="ttc" id="aclassCombatManager_html_aea760251279c2d6e1c1855ae8fd37894"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#aea760251279c2d6e1c1855ae8fd37894">CombatManager::EndAllPvECombat</a></div><div class="ttdeci">void EndAllPvECombat()</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:344</div></div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00034">TestCreature::CleanupCombatState()</a>, and <a class="el" href="../../#l10423">Unit::ClearInCombat()</a>.</p>
@@ -506,10 +506,10 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  383</span>{</div>
-<div class="line"><span class="lineno">  384</span>    <span class="keywordflow">while</span> (!<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>.empty())</div>
-<div class="line"><span class="lineno">  385</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>.begin()-&gt;second-&gt;EndCombat();</div>
-<div class="line"><span class="lineno">  386</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  375</span>{</div>
+<div class="line"><span class="lineno">  376</span>    <span class="keywordflow">while</span> (!<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>.empty())</div>
+<div class="line"><span class="lineno">  377</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>.begin()-&gt;second-&gt;EndCombat();</div>
+<div class="line"><span class="lineno">  378</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00169">_pvpRefs</a>.</p>
 
@@ -608,7 +608,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00165">_owner</a>, <a class="el" href="../../#l00168">_pveRefs</a>, and <a class="el" href="../../#l00169">_pvpRefs</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02532">Creature::CallForHelp()</a>, and <a class="el" href="../../#l00418">UpdateOwnerCombatState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02532">Creature::CallForHelp()</a>, and <a class="el" href="../../#l00410">UpdateOwnerCombatState()</a>.</p>
 
 </div>
 </div>
@@ -746,7 +746,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassCombatManager_html_a840f86719fbfc194ab75fa4a3102e607"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a840f86719fbfc194ab75fa4a3102e607">CombatManager::HasPvECombat</a></div><div class="ttdeci">bool HasPvECombat() const</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:178</div></div>
 <div class="ttc" id="aclassCombatManager_html_ab1e2bb5ec187ab6e42b556812a6e0a3d"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#ab1e2bb5ec187ab6e42b556812a6e0a3d">CombatManager::HasPvPCombat</a></div><div class="ttdeci">bool HasPvPCombat() const</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:195</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00994">debug_commandscript::HandleDebugCombatListCommand()</a>, <a class="el" href="../../#l01014">debug_commandscript::HandleDebugHostileRefListCommand()</a>, and <a class="el" href="../../#l00418">UpdateOwnerCombatState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00994">debug_commandscript::HandleDebugCombatListCommand()</a>, <a class="el" href="../../#l01014">debug_commandscript::HandleDebugHostileRefListCommand()</a>, and <a class="el" href="../../#l00410">UpdateOwnerCombatState()</a>.</p>
 
 </div>
 </div>
@@ -1046,10 +1046,10 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  389</span>{</div>
-<div class="line"><span class="lineno">  390</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/ddd/classUnitAI.html">UnitAI</a>* ai = me-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>())</div>
-<div class="line"><span class="lineno">  391</span>        ai-&gt;JustEnteredCombat(other);</div>
-<div class="line"><span class="lineno">  392</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  381</span>{</div>
+<div class="line"><span class="lineno">  382</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/ddd/classUnitAI.html">UnitAI</a>* ai = me-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>())</div>
+<div class="line"><span class="lineno">  383</span>        ai-&gt;JustEnteredCombat(other);</div>
+<div class="line"><span class="lineno">  384</span>}</div>
 <div class="ttc" id="aclassUnitAI_html"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html">UnitAI</a></div><div class="ttdef"><b>Definition</b> UnitAI.h:198</div></div>
 <div class="ttc" id="aclassUnit_html_ac53944779fa1544c06a3fc3dc74f5294"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">Unit::GetAI</a></div><div class="ttdeci">UnitAI * GetAI()</div><div class="ttdef"><b>Definition</b> Unit.h:696</div></div>
 </div><!-- fragment -->
@@ -1118,12 +1118,12 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  411</span>{</div>
-<div class="line"><span class="lineno">  412</span>    <span class="keywordflow">if</span> (pvp)</div>
-<div class="line"><span class="lineno">  413</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>.erase(guid);</div>
-<div class="line"><span class="lineno">  414</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  415</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a753b21144a5868894891b09f754eba3c">_pveRefs</a>.erase(guid);</div>
-<div class="line"><span class="lineno">  416</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  403</span>{</div>
+<div class="line"><span class="lineno">  404</span>    <span class="keywordflow">if</span> (pvp)</div>
+<div class="line"><span class="lineno">  405</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>.erase(guid);</div>
+<div class="line"><span class="lineno">  406</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  407</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a753b21144a5868894891b09f754eba3c">_pveRefs</a>.erase(guid);</div>
+<div class="line"><span class="lineno">  408</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00168">_pveRefs</a>, and <a class="el" href="../../#l00169">_pvpRefs</a>.</p>
 
@@ -1164,20 +1164,20 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  395</span>{</div>
-<div class="line"><span class="lineno">  396</span>    <span class="keywordflow">if</span> (ref-&gt;<a class="code hl_variable" href="../../da/d9b/structCombatReference.html#a0c0570a2acff79babb17f20a789b6a89">_isPvP</a>)</div>
-<div class="line"><span class="lineno">  397</span>    {</div>
-<div class="line"><span class="lineno">  398</span>        <span class="keyword">auto</span>&amp; inMap = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>[guid];</div>
-<div class="line"><span class="lineno">  399</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!inMap, <span class="stringliteral">&quot;Duplicate combat state at %p being inserted for %s vs %s - memory leak!&quot;</span>, (<span class="keywordtype">void</span>*)ref, <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>().c_str(), guid.ToString().c_str());</div>
-<div class="line"><span class="lineno">  400</span>        inMap = <span class="keyword">static_cast&lt;</span><a class="code hl_struct" href="../../d6/d52/structPvPCombatReference.html">PvPCombatReference</a>*<span class="keyword">&gt;</span>(ref);</div>
-<div class="line"><span class="lineno">  401</span>    }</div>
-<div class="line"><span class="lineno">  402</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  403</span>    {</div>
-<div class="line"><span class="lineno">  404</span>        <span class="keyword">auto</span>&amp; inMap = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a753b21144a5868894891b09f754eba3c">_pveRefs</a>[guid];</div>
-<div class="line"><span class="lineno">  405</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!inMap, <span class="stringliteral">&quot;Duplicate combat state at %p being inserted for %s vs %s - memory leak!&quot;</span>, (<span class="keywordtype">void</span>*)ref, <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>().c_str(), guid.ToString().c_str());</div>
-<div class="line"><span class="lineno">  406</span>        inMap = ref;</div>
-<div class="line"><span class="lineno">  407</span>    }</div>
-<div class="line"><span class="lineno">  408</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  387</span>{</div>
+<div class="line"><span class="lineno">  388</span>    <span class="keywordflow">if</span> (ref-&gt;<a class="code hl_variable" href="../../da/d9b/structCombatReference.html#a0c0570a2acff79babb17f20a789b6a89">_isPvP</a>)</div>
+<div class="line"><span class="lineno">  389</span>    {</div>
+<div class="line"><span class="lineno">  390</span>        <span class="keyword">auto</span>&amp; inMap = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>[guid];</div>
+<div class="line"><span class="lineno">  391</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!inMap, <span class="stringliteral">&quot;Duplicate combat state at %p being inserted for %s vs %s - memory leak!&quot;</span>, (<span class="keywordtype">void</span>*)ref, <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>().c_str(), guid.ToString().c_str());</div>
+<div class="line"><span class="lineno">  392</span>        inMap = <span class="keyword">static_cast&lt;</span><a class="code hl_struct" href="../../d6/d52/structPvPCombatReference.html">PvPCombatReference</a>*<span class="keyword">&gt;</span>(ref);</div>
+<div class="line"><span class="lineno">  393</span>    }</div>
+<div class="line"><span class="lineno">  394</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  395</span>    {</div>
+<div class="line"><span class="lineno">  396</span>        <span class="keyword">auto</span>&amp; inMap = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a753b21144a5868894891b09f754eba3c">_pveRefs</a>[guid];</div>
+<div class="line"><span class="lineno">  397</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!inMap, <span class="stringliteral">&quot;Duplicate combat state at %p being inserted for %s vs %s - memory leak!&quot;</span>, (<span class="keywordtype">void</span>*)ref, <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>().c_str(), guid.ToString().c_str());</div>
+<div class="line"><span class="lineno">  398</span>        inMap = ref;</div>
+<div class="line"><span class="lineno">  399</span>    }</div>
+<div class="line"><span class="lineno">  400</span>}</div>
 <div class="ttc" id="astructCombatReference_html_a0c0570a2acff79babb17f20a789b6a89"><div class="ttname"><a href="../../da/d9b/structCombatReference.html#a0c0570a2acff79babb17f20a789b6a89">CombatReference::_isPvP</a></div><div class="ttdeci">bool const _isPvP</div><div class="ttdef"><b>Definition</b> CombatManager.h:69</div></div>
 <div class="ttc" id="astructPvPCombatReference_html"><div class="ttname"><a href="../../d6/d52/structPvPCombatReference.html">PvPCombatReference</a></div><div class="ttdef"><b>Definition</b> CombatManager.h:95</div></div>
 </div><!-- fragment -->
@@ -1227,36 +1227,30 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  354</span>{</div>
-<div class="line"><span class="lineno">  355</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a753b21144a5868894891b09f754eba3c">_pveRefs</a>.begin(), end = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a753b21144a5868894891b09f754eba3c">_pveRefs</a>.end();</div>
-<div class="line"><span class="lineno">  356</span>    <span class="keywordflow">while</span> (it != end)</div>
-<div class="line"><span class="lineno">  357</span>    {</div>
-<div class="line"><span class="lineno">  358</span>        <a class="code hl_struct" href="../../da/d9b/structCombatReference.html">CombatReference</a>* <span class="keyword">const</span> ref = it-&gt;<a class="code hl_variable" href="../../da/d9b/structCombatReference.html#a226199d73dab2ac6b939a1900b338e09">second</a>;</div>
-<div class="line"><span class="lineno">  359</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/d26/classCombatManager.html#a277271ce2ebddc8048cadce087fc6142">CanBeginCombat</a>(<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>, ref-&gt;<a class="code hl_function" href="../../da/d9b/structCombatReference.html#a61c70264912f26b7c5af5b11c1764626">GetOther</a>(<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>)))</div>
-<div class="line"><span class="lineno">  360</span>        {</div>
-<div class="line"><span class="lineno">  361</span>            it = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a753b21144a5868894891b09f754eba3c">_pveRefs</a>.erase(it), end = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a753b21144a5868894891b09f754eba3c">_pveRefs</a>.end(); <span class="comment">// erase manually here to avoid iterator invalidation</span></div>
-<div class="line"><span class="lineno">  362</span>            ref-&gt;<a class="code hl_function" href="../../da/d9b/structCombatReference.html#a9cf5d802eb7e1eb51259e98fac1eb7f8">EndCombat</a>();</div>
-<div class="line"><span class="lineno">  363</span>        }</div>
-<div class="line"><span class="lineno">  364</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  365</span>            ++it;</div>
-<div class="line"><span class="lineno">  366</span>    }</div>
-<div class="line"><span class="lineno">  367</span> </div>
-<div class="line"><span class="lineno">  368</span>    <span class="keyword">auto</span> it2 = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>.begin(), end2 = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>.end();</div>
-<div class="line"><span class="lineno">  369</span>    <span class="keywordflow">while</span> (it2 != end2)</div>
-<div class="line"><span class="lineno">  370</span>    {</div>
-<div class="line"><span class="lineno">  371</span>        <a class="code hl_struct" href="../../da/d9b/structCombatReference.html">CombatReference</a>* <span class="keyword">const</span> ref = it2-&gt;<a class="code hl_variable" href="../../da/d9b/structCombatReference.html#a226199d73dab2ac6b939a1900b338e09">second</a>;</div>
-<div class="line"><span class="lineno">  372</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/d26/classCombatManager.html#a277271ce2ebddc8048cadce087fc6142">CanBeginCombat</a>(<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>, ref-&gt;<a class="code hl_function" href="../../da/d9b/structCombatReference.html#a61c70264912f26b7c5af5b11c1764626">GetOther</a>(<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>)))</div>
-<div class="line"><span class="lineno">  373</span>        {</div>
-<div class="line"><span class="lineno">  374</span>            it2 = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>.erase(it2), end2 = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>.end(); <span class="comment">// erase manually here to avoid iterator invalidation</span></div>
-<div class="line"><span class="lineno">  375</span>            ref-&gt;<a class="code hl_function" href="../../da/d9b/structCombatReference.html#a9cf5d802eb7e1eb51259e98fac1eb7f8">EndCombat</a>();</div>
-<div class="line"><span class="lineno">  376</span>        }</div>
-<div class="line"><span class="lineno">  377</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  378</span>            ++it2;</div>
-<div class="line"><span class="lineno">  379</span>    }</div>
-<div class="line"><span class="lineno">  380</span>}</div>
+<div class="line"><span class="lineno">  355</span>    <span class="comment">// EndCombat&#39;s combat-exit handling (AI, scripts, aura removal) can end or create more of our refs, so no</span></div>
+<div class="line"><span class="lineno">  356</span>    <span class="comment">// iterator may be held across it: collect the invalid guids first, then look each one up again</span></div>
+<div class="line"><span class="lineno">  357</span>    <span class="keyword">auto</span> endInvalidCombat = [<span class="keyword">this</span>](<span class="keyword">auto</span>&amp; refs)</div>
+<div class="line"><span class="lineno">  358</span>    {</div>
+<div class="line"><span class="lineno">  359</span>        std::vector&lt;ObjectGuid&gt; invalid;</div>
+<div class="line"><span class="lineno">  360</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [guid, ref] : refs)</div>
+<div class="line"><span class="lineno">  361</span>            if (!<a class="code hl_function" href="../../d9/d26/classCombatManager.html#a277271ce2ebddc8048cadce087fc6142">CanBeginCombat</a>(<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>, ref-&gt;GetOther(<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>)))</div>
+<div class="line"><span class="lineno">  362</span>                invalid.push_back(guid);</div>
+<div class="line"><span class="lineno">  363</span> </div>
+<div class="line"><span class="lineno">  364</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : invalid)</div>
+<div class="line"><span class="lineno">  365</span>            if (auto* ref = <a class="code hl_namespace" href="../../d3/d0b/namespaceAcore.html">Acore</a>::Containers::<a class="code hl_function" href="../../d0/d65/namespaceAcore_1_1Containers.html#a288324cfca487d8ecc2eab8a6014c513">MapGetValuePtr</a>(refs, guid))</div>
+<div class="line"><span class="lineno">  366</span>                if (!<a class="code hl_function" href="../../d9/d26/classCombatManager.html#a277271ce2ebddc8048cadce087fc6142">CanBeginCombat</a>(<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>, ref-&gt;GetOther(<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>)))</div>
+<div class="line"><span class="lineno">  367</span>                    ref-&gt;EndCombat();</div>
+<div class="line"><span class="lineno">  368</span>    };</div>
+<div class="line"><span class="lineno">  369</span> </div>
+<div class="line"><span class="lineno">  370</span>    endInvalidCombat(<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a753b21144a5868894891b09f754eba3c">_pveRefs</a>);</div>
+<div class="line"><span class="lineno">  371</span>    endInvalidCombat(<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a1cc440370ea9e2eccfd8184368f19fa6">_pvpRefs</a>);</div>
+<div class="line"><span class="lineno">  372</span>}</div>
 <div class="ttc" id="aclassCombatManager_html_a277271ce2ebddc8048cadce087fc6142"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a277271ce2ebddc8048cadce087fc6142">CombatManager::CanBeginCombat</a></div><div class="ttdeci">static bool CanBeginCombat(Unit const *a, Unit const *b)</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:36</div></div>
-<div class="ttc" id="astructCombatReference_html_a61c70264912f26b7c5af5b11c1764626"><div class="ttname"><a href="../../da/d9b/structCombatReference.html#a61c70264912f26b7c5af5b11c1764626">CombatReference::GetOther</a></div><div class="ttdeci">Unit * GetOther(Unit const *me) const</div><div class="ttdef"><b>Definition</b> CombatManager.h:70</div></div>
+<div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:121</div></div>
+<div class="ttc" id="anamespaceAcore_1_1Containers_html_a288324cfca487d8ecc2eab8a6014c513"><div class="ttname"><a href="../../d0/d65/namespaceAcore_1_1Containers.html#a288324cfca487d8ecc2eab8a6014c513">Acore::Containers::MapGetValuePtr</a></div><div class="ttdeci">auto MapGetValuePtr(M &amp;map, typename M::key_type const &amp;key) -&gt; decltype(AddressOrSelf(map.find(key) -&gt;second))</div><div class="ttdef"><b>Definition</b> Containers.h:216</div></div>
+<div class="ttc" id="anamespaceAcore_html"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html">Acore</a></div><div class="ttdef"><b>Definition</b> AsioHacksFwd.h:47</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00165">_owner</a>, <a class="el" href="../../#l00168">_pveRefs</a>, <a class="el" href="../../#l00169">_pvpRefs</a>, <a class="el" href="../../#l00036">CanBeginCombat()</a>, <a class="el" href="../../#l00073">CombatReference::EndCombat()</a>, <a class="el" href="../../#l00070">CombatReference::GetOther()</a>, and <a class="el" href="../../#l00068">CombatReference::second</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00165">_owner</a>, <a class="el" href="../../#l00168">_pveRefs</a>, <a class="el" href="../../#l00169">_pvpRefs</a>, <a class="el" href="../../#l00036">CanBeginCombat()</a>, and <a class="el" href="../../#l00216">Acore::Containers::MapGetValuePtr()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l14452">Unit::RemoveCharmedBy()</a>.</p>
 
@@ -1277,27 +1271,27 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  452</span>{</div>
-<div class="line"><span class="lineno">  453</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a915de5d194aef283905da9beeba35b04">_evadeState</a> == state)</div>
-<div class="line"><span class="lineno">  454</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  455</span> </div>
-<div class="line"><span class="lineno">  456</span>    <span class="keywordflow">if</span> (state == <a class="code hl_enumvalue" href="../../d2/d0f/CombatManager_8h.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6">EVADE_STATE_NONE</a>)</div>
-<div class="line"><span class="lineno">  457</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#ae5f04a95ed8f3794a5d4d9b51012de26">_evadeTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  458</span> </div>
-<div class="line"><span class="lineno">  459</span>    <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a915de5d194aef283905da9beeba35b04">_evadeState</a> = state;</div>
-<div class="line"><span class="lineno">  460</span> </div>
-<div class="line"><span class="lineno">  461</span>    <span class="comment">// Propagate evade state to controlled units (pets, guardians, etc.)</span></div>
-<div class="line"><span class="lineno">  462</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4af419c3eef4085ecaad8fd08e536800">HasUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934ac75aa2eacc0e809ae582c85d245c1e4c">UNIT_FLAG_PLAYER_CONTROLLED</a>))</div>
-<div class="line"><span class="lineno">  463</span>    {</div>
-<div class="line"><span class="lineno">  464</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* controlled : <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;m_Controlled)</div>
-<div class="line"><span class="lineno">  465</span>            controlled-&gt;GetCombatManager().<a class="code hl_function" href="../../d9/d26/classCombatManager.html#a213fba5646fe8fcd0d95c7ccf8c9793d">SetEvadeState</a>(state);</div>
-<div class="line"><span class="lineno">  466</span>    }</div>
-<div class="line"><span class="lineno">  467</span>}</div>
-<div class="ttc" id="aclassCombatManager_html_a213fba5646fe8fcd0d95c7ccf8c9793d"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a213fba5646fe8fcd0d95c7ccf8c9793d">CombatManager::SetEvadeState</a></div><div class="ttdeci">void SetEvadeState(EvadeState state)</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:451</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  444</span>{</div>
+<div class="line"><span class="lineno">  445</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a915de5d194aef283905da9beeba35b04">_evadeState</a> == state)</div>
+<div class="line"><span class="lineno">  446</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  447</span> </div>
+<div class="line"><span class="lineno">  448</span>    <span class="keywordflow">if</span> (state == <a class="code hl_enumvalue" href="../../d2/d0f/CombatManager_8h.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6">EVADE_STATE_NONE</a>)</div>
+<div class="line"><span class="lineno">  449</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#ae5f04a95ed8f3794a5d4d9b51012de26">_evadeTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  450</span> </div>
+<div class="line"><span class="lineno">  451</span>    <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a915de5d194aef283905da9beeba35b04">_evadeState</a> = state;</div>
+<div class="line"><span class="lineno">  452</span> </div>
+<div class="line"><span class="lineno">  453</span>    <span class="comment">// Propagate evade state to controlled units (pets, guardians, etc.)</span></div>
+<div class="line"><span class="lineno">  454</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4af419c3eef4085ecaad8fd08e536800">HasUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934ac75aa2eacc0e809ae582c85d245c1e4c">UNIT_FLAG_PLAYER_CONTROLLED</a>))</div>
+<div class="line"><span class="lineno">  455</span>    {</div>
+<div class="line"><span class="lineno">  456</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* controlled : <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;m_Controlled)</div>
+<div class="line"><span class="lineno">  457</span>            controlled-&gt;GetCombatManager().<a class="code hl_function" href="../../d9/d26/classCombatManager.html#a213fba5646fe8fcd0d95c7ccf8c9793d">SetEvadeState</a>(state);</div>
+<div class="line"><span class="lineno">  458</span>    }</div>
+<div class="line"><span class="lineno">  459</span>}</div>
+<div class="ttc" id="aclassCombatManager_html_a213fba5646fe8fcd0d95c7ccf8c9793d"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a213fba5646fe8fcd0d95c7ccf8c9793d">CombatManager::SetEvadeState</a></div><div class="ttdeci">void SetEvadeState(EvadeState state)</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:443</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00166">_evadeState</a>, <a class="el" href="../../#l00167">_evadeTimer</a>, <a class="el" href="../../#l00165">_owner</a>, <a class="el" href="../../#l00030">EVADE_STATE_NONE</a>, <a class="el" href="../../#l00750">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l02084">Unit::m_Controlled</a>, and <a class="el" href="../../#l00260">UNIT_FLAG_PLAYER_CONTROLLED</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00031">HomeMovementGenerator&lt; Creature &gt;::DoFinalize()</a>, <a class="el" href="../../#l00025">HomeMovementGenerator&lt; Creature &gt;::DoInitialize()</a>, and <a class="el" href="../../#l00469">StopEvade()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00031">HomeMovementGenerator&lt; Creature &gt;::DoFinalize()</a>, <a class="el" href="../../#l00025">HomeMovementGenerator&lt; Creature &gt;::DoInitialize()</a>, and <a class="el" href="../../#l00461">StopEvade()</a>.</p>
 
 </div>
 </div>
@@ -1373,18 +1367,17 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  259</span> </div>
 <div class="line"><span class="lineno">  260</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d26/classCombatManager.html#ad5c1a3f793b678e117cd7cad7943d93b">IsInCombatWith</a>(who);</div>
 <div class="line"><span class="lineno">  261</span>}</div>
-<div class="ttc" id="aclassCombatManager_html_a25b35207543f3414489b14c7b742bf71"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a25b35207543f3414489b14c7b742bf71">CombatManager::PutReference</a></div><div class="ttdeci">void PutReference(ObjectGuid const &amp;guid, CombatReference *ref)</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:394</div></div>
+<div class="ttc" id="aclassCombatManager_html_a25b35207543f3414489b14c7b742bf71"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a25b35207543f3414489b14c7b742bf71">CombatManager::PutReference</a></div><div class="ttdeci">void PutReference(ObjectGuid const &amp;guid, CombatReference *ref)</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:386</div></div>
 <div class="ttc" id="aclassCombatManager_html_a70dc3f90d1c70f0d8daf066982ea73f3"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a70dc3f90d1c70f0d8daf066982ea73f3">CombatManager::CombatReference</a></div><div class="ttdeci">friend struct CombatReference</div><div class="ttdef"><b>Definition</b> CombatManager.h:171</div></div>
-<div class="ttc" id="aclassCombatManager_html_a960afd93d3a0fe1ed19a7537890281a7"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a960afd93d3a0fe1ed19a7537890281a7">CombatManager::NotifyAICombat</a></div><div class="ttdeci">static void NotifyAICombat(Unit *me, Unit *other)</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:388</div></div>
-<div class="ttc" id="aclassCombatManager_html_aa973011a887a0df9fe43074f1546b8db"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#aa973011a887a0df9fe43074f1546b8db">CombatManager::UpdateOwnerCombatState</a></div><div class="ttdeci">bool UpdateOwnerCombatState() const</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:418</div></div>
+<div class="ttc" id="aclassCombatManager_html_a960afd93d3a0fe1ed19a7537890281a7"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a960afd93d3a0fe1ed19a7537890281a7">CombatManager::NotifyAICombat</a></div><div class="ttdeci">static void NotifyAICombat(Unit *me, Unit *other)</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:380</div></div>
+<div class="ttc" id="aclassCombatManager_html_aa973011a887a0df9fe43074f1546b8db"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#aa973011a887a0df9fe43074f1546b8db">CombatManager::UpdateOwnerCombatState</a></div><div class="ttdeci">bool UpdateOwnerCombatState() const</div><div class="ttdef"><b>Definition</b> CombatManager.cpp:410</div></div>
 <div class="ttc" id="aclassCombatManager_html_acc6e9af2cbc04d0b3fdc7e69ec48875f"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#acc6e9af2cbc04d0b3fdc7e69ec48875f">CombatManager::PvPCombatReference</a></div><div class="ttdeci">friend struct PvPCombatReference</div><div class="ttdef"><b>Definition</b> CombatManager.h:172</div></div>
 <div class="ttc" id="aclassUnit_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition</b> Unit.h:1801</div></div>
 <div class="ttc" id="aclassUnit_html_acb620bb1bc586e11931985a018e932fd"><div class="ttname"><a href="../../df/dd9/classUnit.html#acb620bb1bc586e11931985a018e932fd">Unit::IsControlledByPlayer</a></div><div class="ttdeci">bool IsControlledByPlayer() const</div><div class="ttdef"><b>Definition</b> Unit.h:1317</div></div>
 <div class="ttc" id="aclassUnit_html_ad99552f8eaae72326543d3d151a344f5"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad99552f8eaae72326543d3d151a344f5">Unit::GetCombatManager</a></div><div class="ttdeci">CombatManager &amp; GetCombatManager()</div><div class="ttdef"><b>Definition</b> Unit.h:964</div></div>
-<div class="ttc" id="anamespaceAcore_1_1Containers_html_a288324cfca487d8ecc2eab8a6014c513"><div class="ttname"><a href="../../d0/d65/namespaceAcore_1_1Containers.html#a288324cfca487d8ecc2eab8a6014c513">Acore::Containers::MapGetValuePtr</a></div><div class="ttdeci">auto MapGetValuePtr(M &amp;map, typename M::key_type const &amp;key) -&gt; decltype(AddressOrSelf(map.find(key) -&gt;second))</div><div class="ttdef"><b>Definition</b> Containers.h:216</div></div>
 <div class="ttc" id="astructCombatReference_html_a923ecc13bec9370a226d2052a8098c8d"><div class="ttname"><a href="../../da/d9b/structCombatReference.html#a923ecc13bec9370a226d2052a8098c8d">CombatReference::Suppress</a></div><div class="ttdeci">void Suppress(Unit *who)</div><div class="ttdef"><b>Definition</b> CombatManager.h:86</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00165">_owner</a>, <a class="el" href="../../#l00168">_pveRefs</a>, <a class="el" href="../../#l00169">_pvpRefs</a>, <a class="el" href="../../#l00036">CanBeginCombat()</a>, <a class="el" href="../../#l00171">CombatReference</a>, <a class="el" href="../../#l00964">Unit::GetCombatManager()</a>, <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l01801">Unit::IsAlive()</a>, <a class="el" href="../../#l01317">Unit::IsControlledByPlayer()</a>, <a class="el" href="../../#l00263">IsInCombatWith()</a>, <a class="el" href="../../#l00216">Acore::Containers::MapGetValuePtr()</a>, <a class="el" href="../../#l00388">NotifyAICombat()</a>, <a class="el" href="../../#l00394">PutReference()</a>, <a class="el" href="../../#l00172">PvPCombatReference</a>, <a class="el" href="../../#l00086">CombatReference::Suppress()</a>, and <a class="el" href="../../#l00418">UpdateOwnerCombatState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00165">_owner</a>, <a class="el" href="../../#l00168">_pveRefs</a>, <a class="el" href="../../#l00169">_pvpRefs</a>, <a class="el" href="../../#l00036">CanBeginCombat()</a>, <a class="el" href="../../#l00171">CombatReference</a>, <a class="el" href="../../#l00964">Unit::GetCombatManager()</a>, <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l01801">Unit::IsAlive()</a>, <a class="el" href="../../#l01317">Unit::IsControlledByPlayer()</a>, <a class="el" href="../../#l00263">IsInCombatWith()</a>, <a class="el" href="../../#l00216">Acore::Containers::MapGetValuePtr()</a>, <a class="el" href="../../#l00380">NotifyAICombat()</a>, <a class="el" href="../../#l00386">PutReference()</a>, <a class="el" href="../../#l00172">PvPCombatReference</a>, <a class="el" href="../../#l00086">CombatReference::Suppress()</a>, and <a class="el" href="../../#l00410">UpdateOwnerCombatState()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00392">ThreatManager::AddThreat()</a>, <a class="el" href="../../#l00273">InheritCombatStatesFrom()</a>, and <a class="el" href="../../#l00950">Unit::SetInCombatWith()</a>.</p>
 
@@ -1433,12 +1426,12 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  470</span>{</div>
-<div class="line"><span class="lineno">  471</span>    <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#ae5f04a95ed8f3794a5d4d9b51012de26">_evadeTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  472</span>    <a class="code hl_function" href="../../d9/d26/classCombatManager.html#a213fba5646fe8fcd0d95c7ccf8c9793d">SetEvadeState</a>(<a class="code hl_enumvalue" href="../../d2/d0f/CombatManager_8h.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6">EVADE_STATE_NONE</a>);</div>
-<div class="line"><span class="lineno">  473</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  462</span>{</div>
+<div class="line"><span class="lineno">  463</span>    <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#ae5f04a95ed8f3794a5d4d9b51012de26">_evadeTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  464</span>    <a class="code hl_function" href="../../d9/d26/classCombatManager.html#a213fba5646fe8fcd0d95c7ccf8c9793d">SetEvadeState</a>(<a class="code hl_enumvalue" href="../../d2/d0f/CombatManager_8h.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6">EVADE_STATE_NONE</a>);</div>
+<div class="line"><span class="lineno">  465</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00167">_evadeTimer</a>, <a class="el" href="../../#l00030">EVADE_STATE_NONE</a>, and <a class="el" href="../../#l00451">SetEvadeState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00167">_evadeTimer</a>, <a class="el" href="../../#l00030">EVADE_STATE_NONE</a>, and <a class="el" href="../../#l00443">SetEvadeState()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l03735">Creature::SetCannotReachTarget()</a>.</p>
 
@@ -1466,7 +1459,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  335</span>            ownerAI-&gt;JustExitedCombat();</div>
 <div class="line"><span class="lineno">  336</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00165">_owner</a>, <a class="el" href="../../#l00169">_pvpRefs</a>, <a class="el" href="../../#l00696">Unit::GetAI()</a>, and <a class="el" href="../../#l00418">UpdateOwnerCombatState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00165">_owner</a>, <a class="el" href="../../#l00169">_pvpRefs</a>, <a class="el" href="../../#l00696">Unit::GetAI()</a>, and <a class="el" href="../../#l00410">UpdateOwnerCombatState()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l10423">Unit::ClearInCombat()</a>, and <a class="el" href="../../#l07273">Unit::CombatStop()</a>.</p>
 
@@ -1545,37 +1538,37 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  419</span>{</div>
-<div class="line"><span class="lineno">  420</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> combatState = <a class="code hl_function" href="../../d9/d26/classCombatManager.html#a20d2f418f7f8edf55118755ab265bc2a">HasCombat</a>();</div>
-<div class="line"><span class="lineno">  421</span>    <span class="keywordflow">if</span> (combatState == <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>())</div>
-<div class="line"><span class="lineno">  422</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  423</span> </div>
-<div class="line"><span class="lineno">  424</span>    <span class="keywordflow">if</span> (combatState)</div>
-<div class="line"><span class="lineno">  425</span>    {</div>
-<div class="line"><span class="lineno">  426</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a4126a52e61912b60b131ebf6c0ccf384">UNIT_FLAG_IN_COMBAT</a>);</div>
-<div class="line"><span class="lineno">  427</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa2ed10cc48357e79fe943ff8ed772bba">AtEnterCombat</a>();</div>
-<div class="line"><span class="lineno">  428</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())</div>
-<div class="line"><span class="lineno">  429</span>            <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad6490e017c0a7974a607f4a2f63b6d48">AtEngage</a>(<a class="code hl_function" href="../../d9/d26/classCombatManager.html#a2a1f7d176f8d766c90fbc31a62531d27">GetAnyTarget</a>());</div>
-<div class="line"><span class="lineno">  430</span> </div>
-<div class="line"><span class="lineno">  431</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>())</div>
-<div class="line"><span class="lineno">  432</span>            <a class="code hl_define" href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnPlayerEnterCombat(player, <a class="code hl_function" href="../../d9/d26/classCombatManager.html#a2a1f7d176f8d766c90fbc31a62531d27">GetAnyTarget</a>());</div>
-<div class="line"><span class="lineno">  433</span>    }</div>
-<div class="line"><span class="lineno">  434</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  435</span>    {</div>
-<div class="line"><span class="lineno">  436</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a4126a52e61912b60b131ebf6c0ccf384">UNIT_FLAG_IN_COMBAT</a>);</div>
-<div class="line"><span class="lineno">  437</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2651104a286191fc96f265051138eee9">AtExitCombat</a>();</div>
-<div class="line"><span class="lineno">  438</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())</div>
-<div class="line"><span class="lineno">  439</span>            <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a532645722d9e1287bc550a2486ecc466">AtDisengage</a>();</div>
-<div class="line"><span class="lineno">  440</span> </div>
-<div class="line"><span class="lineno">  441</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>())</div>
-<div class="line"><span class="lineno">  442</span>            <a class="code hl_define" href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnPlayerLeaveCombat(player);</div>
-<div class="line"><span class="lineno">  443</span>    }</div>
-<div class="line"><span class="lineno">  444</span> </div>
-<div class="line"><span class="lineno">  445</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* master = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a7cdd398abd6ac328deb42529195e6add">GetCharmerOrOwner</a>())</div>
-<div class="line"><span class="lineno">  446</span>        master-&gt;UpdatePetCombatState();</div>
-<div class="line"><span class="lineno">  447</span> </div>
-<div class="line"><span class="lineno">  448</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  449</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  411</span>{</div>
+<div class="line"><span class="lineno">  412</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> combatState = <a class="code hl_function" href="../../d9/d26/classCombatManager.html#a20d2f418f7f8edf55118755ab265bc2a">HasCombat</a>();</div>
+<div class="line"><span class="lineno">  413</span>    <span class="keywordflow">if</span> (combatState == <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>())</div>
+<div class="line"><span class="lineno">  414</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  415</span> </div>
+<div class="line"><span class="lineno">  416</span>    <span class="keywordflow">if</span> (combatState)</div>
+<div class="line"><span class="lineno">  417</span>    {</div>
+<div class="line"><span class="lineno">  418</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a4126a52e61912b60b131ebf6c0ccf384">UNIT_FLAG_IN_COMBAT</a>);</div>
+<div class="line"><span class="lineno">  419</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa2ed10cc48357e79fe943ff8ed772bba">AtEnterCombat</a>();</div>
+<div class="line"><span class="lineno">  420</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())</div>
+<div class="line"><span class="lineno">  421</span>            <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad6490e017c0a7974a607f4a2f63b6d48">AtEngage</a>(<a class="code hl_function" href="../../d9/d26/classCombatManager.html#a2a1f7d176f8d766c90fbc31a62531d27">GetAnyTarget</a>());</div>
+<div class="line"><span class="lineno">  422</span> </div>
+<div class="line"><span class="lineno">  423</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>())</div>
+<div class="line"><span class="lineno">  424</span>            <a class="code hl_define" href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnPlayerEnterCombat(player, <a class="code hl_function" href="../../d9/d26/classCombatManager.html#a2a1f7d176f8d766c90fbc31a62531d27">GetAnyTarget</a>());</div>
+<div class="line"><span class="lineno">  425</span>    }</div>
+<div class="line"><span class="lineno">  426</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  427</span>    {</div>
+<div class="line"><span class="lineno">  428</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a4126a52e61912b60b131ebf6c0ccf384">UNIT_FLAG_IN_COMBAT</a>);</div>
+<div class="line"><span class="lineno">  429</span>        <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2651104a286191fc96f265051138eee9">AtExitCombat</a>();</div>
+<div class="line"><span class="lineno">  430</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())</div>
+<div class="line"><span class="lineno">  431</span>            <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a532645722d9e1287bc550a2486ecc466">AtDisengage</a>();</div>
+<div class="line"><span class="lineno">  432</span> </div>
+<div class="line"><span class="lineno">  433</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>())</div>
+<div class="line"><span class="lineno">  434</span>            <a class="code hl_define" href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnPlayerLeaveCombat(player);</div>
+<div class="line"><span class="lineno">  435</span>    }</div>
+<div class="line"><span class="lineno">  436</span> </div>
+<div class="line"><span class="lineno">  437</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* master = <a class="code hl_variable" href="../../d9/d26/classCombatManager.html#a2c1cf62a78989b0f22fe12e87366efff">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a7cdd398abd6ac328deb42529195e6add">GetCharmerOrOwner</a>())</div>
+<div class="line"><span class="lineno">  438</span>        master-&gt;UpdatePetCombatState();</div>
+<div class="line"><span class="lineno">  439</span> </div>
+<div class="line"><span class="lineno">  440</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  441</span>}</div>
 <div class="ttc" id="aScriptMgr_8h_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:767</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_affdd0d554c8bcaaa85a879f5a9d60934a4126a52e61912b60b131ebf6c0ccf384"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a4126a52e61912b60b131ebf6c0ccf384">UNIT_FLAG_IN_COMBAT</a></div><div class="ttdeci">@ UNIT_FLAG_IN_COMBAT</div><div class="ttdef"><b>Definition</b> UnitDefines.h:276</div></div>
 <div class="ttc" id="aclassCombatManager_html_a20d2f418f7f8edf55118755ab265bc2a"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a20d2f418f7f8edf55118755ab265bc2a">CombatManager::HasCombat</a></div><div class="ttdeci">bool HasCombat() const</div><div class="ttdef"><b>Definition</b> CombatManager.h:133</div></div>
@@ -1667,7 +1660,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00451">SetEvadeState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00443">SetEvadeState()</a>.</p>
 
 </div>
 </div>
@@ -1691,7 +1684,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00451">SetEvadeState()</a>, <a class="el" href="../../#l00469">StopEvade()</a>, and <a class="el" href="../../#l00148">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00443">SetEvadeState()</a>, <a class="el" href="../../#l00461">StopEvade()</a>, and <a class="el" href="../../#l00148">Update()</a>.</p>
 
 </div>
 </div>
@@ -1715,7 +1708,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00344">EndAllPvECombat()</a>, <a class="el" href="../../#l00203">GetAnyTarget()</a>, <a class="el" href="../../#l00178">HasPvECombat()</a>, <a class="el" href="../../#l00186">HasPvECombatWithPlayers()</a>, <a class="el" href="../../#l00195">HasPvPCombat()</a>, <a class="el" href="../../#l00273">InheritCombatStatesFrom()</a>, <a class="el" href="../../#l00394">PutReference()</a>, <a class="el" href="../../#l00353">RevalidateCombat()</a>, <a class="el" href="../../#l00451">SetEvadeState()</a>, <a class="el" href="../../#l00214">SetInCombatWith()</a>, <a class="el" href="../../#l00329">SuppressPvPCombat()</a>, <a class="el" href="../../#l00148">Update()</a>, <a class="el" href="../../#l00418">UpdateOwnerCombatState()</a>, and <a class="el" href="../../#l00142">~CombatManager()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00344">EndAllPvECombat()</a>, <a class="el" href="../../#l00203">GetAnyTarget()</a>, <a class="el" href="../../#l00178">HasPvECombat()</a>, <a class="el" href="../../#l00186">HasPvECombatWithPlayers()</a>, <a class="el" href="../../#l00195">HasPvPCombat()</a>, <a class="el" href="../../#l00273">InheritCombatStatesFrom()</a>, <a class="el" href="../../#l00386">PutReference()</a>, <a class="el" href="../../#l00353">RevalidateCombat()</a>, <a class="el" href="../../#l00443">SetEvadeState()</a>, <a class="el" href="../../#l00214">SetInCombatWith()</a>, <a class="el" href="../../#l00329">SuppressPvPCombat()</a>, <a class="el" href="../../#l00148">Update()</a>, <a class="el" href="../../#l00410">UpdateOwnerCombatState()</a>, and <a class="el" href="../../#l00142">~CombatManager()</a>.</p>
 
 </div>
 </div>
@@ -1739,7 +1732,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00344">EndAllPvECombat()</a>, <a class="el" href="../../#l00297">EndCombatBeyondRange()</a>, <a class="el" href="../../#l00203">GetAnyTarget()</a>, <a class="el" href="../../#l00178">HasPvECombat()</a>, <a class="el" href="../../#l00186">HasPvECombatWithPlayers()</a>, <a class="el" href="../../#l00273">InheritCombatStatesFrom()</a>, <a class="el" href="../../#l00263">IsInCombatWith()</a>, <a class="el" href="../../#l00410">PurgeReference()</a>, <a class="el" href="../../#l00394">PutReference()</a>, <a class="el" href="../../#l00353">RevalidateCombat()</a>, <a class="el" href="../../#l00214">SetInCombatWith()</a>, and <a class="el" href="../../#l00142">~CombatManager()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00344">EndAllPvECombat()</a>, <a class="el" href="../../#l00297">EndCombatBeyondRange()</a>, <a class="el" href="../../#l00203">GetAnyTarget()</a>, <a class="el" href="../../#l00178">HasPvECombat()</a>, <a class="el" href="../../#l00186">HasPvECombatWithPlayers()</a>, <a class="el" href="../../#l00273">InheritCombatStatesFrom()</a>, <a class="el" href="../../#l00263">IsInCombatWith()</a>, <a class="el" href="../../#l00402">PurgeReference()</a>, <a class="el" href="../../#l00386">PutReference()</a>, <a class="el" href="../../#l00353">RevalidateCombat()</a>, <a class="el" href="../../#l00214">SetInCombatWith()</a>, and <a class="el" href="../../#l00142">~CombatManager()</a>.</p>
 
 </div>
 </div>
@@ -1763,7 +1756,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00382">EndAllPvPCombat()</a>, <a class="el" href="../../#l00297">EndCombatBeyondRange()</a>, <a class="el" href="../../#l00203">GetAnyTarget()</a>, <a class="el" href="../../#l00195">HasPvPCombat()</a>, <a class="el" href="../../#l00273">InheritCombatStatesFrom()</a>, <a class="el" href="../../#l00263">IsInCombatWith()</a>, <a class="el" href="../../#l00410">PurgeReference()</a>, <a class="el" href="../../#l00394">PutReference()</a>, <a class="el" href="../../#l00338">RestartPvPCombatTimers()</a>, <a class="el" href="../../#l00353">RevalidateCombat()</a>, <a class="el" href="../../#l00214">SetInCombatWith()</a>, <a class="el" href="../../#l00329">SuppressPvPCombat()</a>, <a class="el" href="../../#l00148">Update()</a>, and <a class="el" href="../../#l00142">~CombatManager()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00374">EndAllPvPCombat()</a>, <a class="el" href="../../#l00297">EndCombatBeyondRange()</a>, <a class="el" href="../../#l00203">GetAnyTarget()</a>, <a class="el" href="../../#l00195">HasPvPCombat()</a>, <a class="el" href="../../#l00273">InheritCombatStatesFrom()</a>, <a class="el" href="../../#l00263">IsInCombatWith()</a>, <a class="el" href="../../#l00402">PurgeReference()</a>, <a class="el" href="../../#l00386">PutReference()</a>, <a class="el" href="../../#l00338">RestartPvPCombatTimers()</a>, <a class="el" href="../../#l00353">RevalidateCombat()</a>, <a class="el" href="../../#l00214">SetInCombatWith()</a>, <a class="el" href="../../#l00329">SuppressPvPCombat()</a>, <a class="el" href="../../#l00148">Update()</a>, and <a class="el" href="../../#l00142">~CombatManager()</a>.</p>
 
 </div>
 </div>
@@ -1821,7 +1814,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d26/classCombatManager.html">CombatManager</a></li>
-    <li class="footer">Generated on Wed Oct 21 2026 11:03:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Oct 22 2026 11:02:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

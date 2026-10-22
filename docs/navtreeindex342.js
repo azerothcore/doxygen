@@ -1,5 +1,12 @@
 var NAVTREEINDEX342 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,2,11,6,12],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8":[8,0,0,0,1,3,2,11,6,8],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a":[8,0,0,0,1,3,2,11,6,8,1],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce":[8,0,0,0,1,3,2,11,6,8,0],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03":[8,0,0,0,1,3,2,11,6,8,2],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,2,11,6,13],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901c":[8,0,0,0,1,3,2,11,6,7],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f":[8,0,0,0,1,3,2,11,6,7,5],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8":[8,0,0,0,1,3,2,11,6,7,6],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3":[8,0,0,0,1,3,2,11,6,7,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX342 =
 "dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22aa94ad957c2b090d166d4d7a0ffe64501":[8,0,0,0,1,3,2,15,15,4,0],
 "dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22ac6e5ff2f658de784d1625d0a84df3bf4":[8,0,0,0,1,3,2,15,15,4,1],
 "dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22ae4072758c98fd5be337cae3de98a56bb":[8,0,0,0,1,3,2,15,15,4,9],
-"dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22aecc1ca7d1f179eb4e378aae5121750bd":[8,0,0,0,1,3,2,15,15,4,12],
-"dc/df2/classspellinfo__commandscript.html":[7,0,4494],
-"dc/df2/classspellinfo__commandscript.html#a01f5468bee731c351fe56fdb170b80d4":[7,0,4494,15],
-"dc/df2/classspellinfo__commandscript.html#a08e8b880e6e588b02b93ed3f475392d7":[7,0,4494,6],
-"dc/df2/classspellinfo__commandscript.html#a1c529354ea7dc057e6a81b87ee15537b":[7,0,4494,4],
-"dc/df2/classspellinfo__commandscript.html#a1d6b177623b8fb66ea44e88282fc1052":[7,0,4494,18],
-"dc/df2/classspellinfo__commandscript.html#a30a9e357013fa80eb026f16ceec25dfd":[7,0,4494,7],
-"dc/df2/classspellinfo__commandscript.html#a3534b8dd1f8d9686ec27b77a04b7bb29":[7,0,4494,10]
+"dc/df0/zulgurub_8h.html#afb6eb4f28419b652027fad41104a6d22aecc1ca7d1f179eb4e378aae5121750bd":[8,0,0,0,1,3,2,15,15,4,12]
 };

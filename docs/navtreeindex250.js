@@ -1,5 +1,11 @@
 var NAVTREEINDEX250 =
 {
+"d9/d5c/classspell__hookshot.html":[7,0,3251],
+"d9/d5c/classspell__hookshot.html#a403728403abd55efdbfe1c835e9799bb":[7,0,3251,2],
+"d9/d5c/classspell__hookshot.html#a466691f96780f607b52b853c83ddbae4":[7,0,3251,4],
+"d9/d5c/classspell__hookshot.html#a71101aaf195d64a2fe6c821ad1d5379d":[7,0,3251,3],
+"d9/d5c/classspell__hookshot.html#a71566abe41cec09cbb414d4e1be53c8f":[7,0,3251,0],
+"d9/d5c/classspell__hookshot.html#ab3c4e4c1ef59fda87cd2b1fb119882c8":[7,0,3251,1],
 "d9/d5c/classspell__item__nitro__boots.html":[7,0,3474],
 "d9/d5c/classspell__item__nitro__boots.html#a60a374efc8b47bfdd8ffded2ff1e10d1":[7,0,3474,0],
 "d9/d5c/classspell__item__nitro__boots.html#a954ae38fd04985b9851a09b416ba59bc":[7,0,3474,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX250 =
 "d9/d63/classspell__charge__shield__bomber__aura.html":[7,0,2781],
 "d9/d63/classspell__charge__shield__bomber__aura.html#a456b1b70fd6d9b6642ec959677fe08ff":[7,0,2781,2],
 "d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766":[7,0,2781,1],
-"d9/d63/classspell__charge__shield__bomber__aura.html#a784b48553696734abac77545df2fc045":[7,0,2781,0],
-"d9/d63/classspell__charge__shield__bomber__aura.html#aa3260fa9a1a918e13ccfc9cd57f59d19":[7,0,2781,3],
-"d9/d63/classspell__destroy__door__seal__aura.html":[7,0,2813],
-"d9/d63/classspell__destroy__door__seal__aura.html#a1fb46036f0860440f3a9201e0d86cdc4":[7,0,2813,2],
-"d9/d63/classspell__destroy__door__seal__aura.html#a79dbb866c06cd1c031cae2f1370146d5":[7,0,2813,1],
-"d9/d63/classspell__destroy__door__seal__aura.html#affa7fb949d4b1a05813df0da17fef3bb":[7,0,2813,0],
-"d9/d64/classinstance__hyjal.html":[7,0,1351]
+"d9/d63/classspell__charge__shield__bomber__aura.html#a784b48553696734abac77545df2fc045":[7,0,2781,0]
 };

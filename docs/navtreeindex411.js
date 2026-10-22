@@ -1,5 +1,12 @@
 var NAVTREEINDEX411 =
 {
+"df/d2f/classDelayedMovementEvent.html#a21241cde30f66ae42edb311542f7405c":[7,0,1008,0],
+"df/d2f/classDelayedMovementEvent.html#a8287761226ee671905151891779b6efb":[7,0,1008,1],
+"df/d2f/classDelayedMovementEvent.html#a9a0cd9830509ffdecd98ac8231350d58":[7,0,1008,2],
+"df/d30/boss__gluth_8cpp.html":[8,0,0,0,1,3,5,7,3],
+"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[8,0,0,0,1,3,5,7,3,4],
+"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa03c0ac324d8c639af54683066910ea95":[8,0,0,0,1,3,5,7,3,4,0],
+"df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa81024d2fa77c20eddf3d080ee9947126":[8,0,0,0,1,3,5,7,3,4,2],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad4a2e4c34c9e4cf25e66544b1de3bdd9":[8,0,0,0,1,3,5,7,3,4,4],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad533e4cc3296f79f2e8dbe5b75cf331f":[8,0,0,0,1,3,5,7,3,4,1],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad600db20c6eedc96962e774ed713a840":[8,0,0,0,1,3,5,7,3,4,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX411 =
 "df/d3c/classspell__the__cleansing__cleansing__soul.html#af78d13a65fe21879fdb9147cdb0f2352":[7,0,4245,0],
 "df/d3d/classAuraScript_1_1ScriptStateStore.html":[7,0,299,17],
 "df/d3d/classAuraScript_1_1ScriptStateStore.html#a51baffee5c9dbf255591db8ea13ee516":[7,0,299,17,0],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#a63cf373d469af72bc96a3e72351e3256":[7,0,299,17,3],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#adddf594d9468b16455da6e2aef683d44":[7,0,299,17,2],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#af5098bcedac048808e11bf2f82d705a7":[7,0,299,17,1],
-"df/d3d/classBfCapturePoint.html":[7,0,362],
-"df/d3d/classBfCapturePoint.html#a02eab1f489ee817d0b0263a57eb71ed2":[7,0,362,9],
-"df/d3d/classBfCapturePoint.html#a0f35096b5f4fb611ff4e2dd398c87a12":[7,0,362,4],
-"df/d3d/classBfCapturePoint.html#a100e1b83863595f598cf40cfa6d9443f":[7,0,362,6],
-"df/d3d/classBfCapturePoint.html#a124efffeeea68485676dac664f89aea3":[7,0,362,21]
+"df/d3d/classAuraScript_1_1ScriptStateStore.html#a63cf373d469af72bc96a3e72351e3256":[7,0,299,17,3]
 };

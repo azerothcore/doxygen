@@ -1,5 +1,12 @@
 var NAVTREEINDEX329 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af46e1b0c323a7f7e794280aee29a57c2":[5,0,28,6,288],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af48aa8db83ae0f7c1169c6d7cbd705d5":[5,0,28,6,253],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af57d3beed16a7e02655de7cf4d575b23":[5,0,28,6,125],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af5805668f0e915a7d33a97aa90a667ed":[5,0,28,6,580],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af70c036bc8e0ae03018c12514073f112":[5,0,28,6,347],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af720c888ef2b07f2fddce446c7ef6b2c":[5,0,28,6,641],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af73400da8f9556d8df0b8a82ac61dc2c":[5,0,28,6,255],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af749ba4e701b7f1a2f16ca00f41d89b2":[5,0,28,6,401],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af7aca810e76e7a82f10ebedcacc29d3f":[5,0,28,6,17],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04af7dca466bd83a640bfea1bcbc47362aa":[5,0,28,6,486],
@@ -242,12 +249,5 @@ var NAVTREEINDEX329 =
 "dc/d45/LFGGroupData_8h.html":[8,0,0,0,1,2,15,3],
 "dc/d45/structnpc__ulduar__hodir__druid.html":[7,0,2278],
 "dc/d45/structnpc__ulduar__hodir__druid.html#a1053d484f30df43fba465981cd3cfa38":[7,0,2278,8],
-"dc/d45/structnpc__ulduar__hodir__druid.html#a22a10571e9cfe69200fd4a8fd383e500":[7,0,2278,4],
-"dc/d45/structnpc__ulduar__hodir__druid.html#a323184c52fcbc3e18eb74c96db716327":[7,0,2278,11],
-"dc/d45/structnpc__ulduar__hodir__druid.html#a54f6d2cccc7668f337c0617459db5522":[7,0,2278,3],
-"dc/d45/structnpc__ulduar__hodir__druid.html#a67884f16c32f849bc68d68256c19d21a":[7,0,2278,1],
-"dc/d45/structnpc__ulduar__hodir__druid.html#a6cfefe7ccb156a658e8e2dad603b3fce":[7,0,2278,5],
-"dc/d45/structnpc__ulduar__hodir__druid.html#a81b0f60596e63ec618a9a9e1d8bc6c9d":[7,0,2278,2],
-"dc/d45/structnpc__ulduar__hodir__druid.html#aa2e3e904c5f7fee4236a9395b95ef3e9":[7,0,2278,6],
-"dc/d45/structnpc__ulduar__hodir__druid.html#aac822cf4203af0e0173004ccc33abc21":[7,0,2278,0]
+"dc/d45/structnpc__ulduar__hodir__druid.html#a22a10571e9cfe69200fd4a8fd383e500":[7,0,2278,4]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX168 =
 {
+"d5/de3/classspell__halion__twilight__cutter.html#a3b9b2ffa90f58a5da93fd369e11c6216":[7,0,3219,1],
+"d5/de3/classspell__halion__twilight__cutter.html#a743f910c3854e2c4e726e97c55fa7038":[7,0,3219,0],
+"d5/de3/classspell__halion__twilight__cutter.html#aba462e5b8e9336a508d19606f98750b5":[7,0,3219,2],
 "d5/de3/classspell__item__totem__of__flowing__water.html":[7,0,3528],
 "d5/de3/classspell__item__totem__of__flowing__water.html#a58e243bf7eca18d2ff1a9c72f9453f10":[7,0,3528,0],
 "d5/de3/classspell__item__totem__of__flowing__water.html#aa9b2fa0685a0936ebf7b7e6df0fd9b22":[7,0,3528,3],
@@ -241,13 +244,10 @@ var NAVTREEINDEX168 =
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[7,0,13,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[7,0,13,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
 "d5/def/classdeserter__commandscript.html":[7,0,1011],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[7,0,1011,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[7,0,1011,9],
-"d5/def/classdeserter__commandscript.html#a3197e5228284ba50da7f3a31b3e76060":[7,0,1011,7],
-"d5/def/classdeserter__commandscript.html#a419d404315e91b6cac1bfd3ac225a8fd":[7,0,1011,5],
-"d5/def/classdeserter__commandscript.html#a6274f79b9884586069f94137b44d89e9":[7,0,1011,10],
-"d5/def/classdeserter__commandscript.html#a9bf4e146ef0f4f0cb2508c4953f8a647":[7,0,1011,4]
+"d5/def/classdeserter__commandscript.html#a3197e5228284ba50da7f3a31b3e76060":[7,0,1011,7]
 };

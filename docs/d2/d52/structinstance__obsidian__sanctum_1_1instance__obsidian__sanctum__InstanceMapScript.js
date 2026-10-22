@@ -4,6 +4,7 @@ var structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMa
     [ "CheckAchievementCriteriaMeet", "d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
     [ "DoAction", "d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
     [ "GetGuidData", "d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "OnPlayerLeave", "d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a293c30b03dce5a7aaebd04a9830e976f", null ],
     [ "m_uiPortalGUID", "d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#a166db22fd409d0387085053852e5ad30", null ],
     [ "portalCount", "d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

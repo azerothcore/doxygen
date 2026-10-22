@@ -1,5 +1,12 @@
 var NAVTREEINDEX387 =
 {
+"de/d3c/structTriggeredByAuraSpellData.html#a85d4782b76b060c172aaa6f914d400da":[7,0,4625,2],
+"de/d3c/structTriggeredByAuraSpellData.html#a9bbee8d48d4beb8a21721a10e0380c41":[7,0,4625,4],
+"de/d3c/structTriggeredByAuraSpellData.html#af58f62fb168e9da7011f7b570f08e977":[7,0,4625,5],
+"de/d3c/structTriggeredByAuraSpellData.html#af7290a4c37b1829a98e436486fa8b6cd":[7,0,4625,3],
+"de/d3c/structTriggeredByAuraSpellData.html#afbb1ffd006dc6eb00ccd65add87b1b22":[7,0,4625,6],
+"de/d3c/structnpc__maiev__illidan.html":[7,0,2003],
+"de/d3c/structnpc__maiev__illidan.html#a0d19d9bb58c44662cdfb66a8fe373a60":[7,0,2003,0],
 "de/d3c/structnpc__maiev__illidan.html#a100db757c89634a58b9382216e2791ec":[7,0,2003,6],
 "de/d3c/structnpc__maiev__illidan.html#a1bf4f2f29132c5132e7903d089ace6e2":[7,0,2003,3],
 "de/d3c/structnpc__maiev__illidan.html#a269e4a8f79b508e2da61cd5e2dc34664":[7,0,2003,8],
@@ -242,12 +249,5 @@ var NAVTREEINDEX387 =
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#aedad685279012266637d29069ead9063":[7,0,2270,0,0],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#af5dbb99fe18d96665efd04bd53294636":[7,0,2270,0,5],
 "de/d43/DisableMgr_8h.html":[8,0,0,0,1,2,13,3],
-"de/d43/DisableMgr_8h.html#a1a184d22bd27210ea5af79573927826a":[8,0,0,0,1,2,13,3,2],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7":[8,0,0,0,1,2,13,3,4],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437":[8,0,0,0,1,2,13,3,4,6],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707":[8,0,0,0,1,2,13,3,4,1],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4":[8,0,0,0,1,2,13,3,4,2],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484":[8,0,0,0,1,2,13,3,4,4],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41":[8,0,0,0,1,2,13,3,4,0],
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b":[8,0,0,0,1,2,13,3,4,3]
+"de/d43/DisableMgr_8h.html#a1a184d22bd27210ea5af79573927826a":[8,0,0,0,1,2,13,3,2]
 };

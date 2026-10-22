@@ -1,5 +1,12 @@
 var NAVTREEINDEX300 =
 {
+"db/d6e/spell__item_8cpp.html#ae6002f7707d1fb1b8cabd9eb3cda01a1":[8,0,0,0,1,3,9,4,229],
+"db/d6e/spell__item_8cpp.html#ae6002f7707d1fb1b8cabd9eb3cda01a1a0f33da939362244eaaae63def72cd958":[8,0,0,0,1,3,9,4,229,1],
+"db/d6e/spell__item_8cpp.html#ae6002f7707d1fb1b8cabd9eb3cda01a1aabf7b9573467e49ccb926608df6de718":[8,0,0,0,1,3,9,4,229,0],
+"db/d6e/spell__item_8cpp.html#ae658090e5a354aeddc4b70045e5963ef":[8,0,0,0,1,3,9,4,267],
+"db/d6e/spell__item_8cpp.html#ae658090e5a354aeddc4b70045e5963efa2cd7fef6255b76360c3a485cb29672b9":[8,0,0,0,1,3,9,4,267,1],
+"db/d6e/spell__item_8cpp.html#ae658090e5a354aeddc4b70045e5963efa31c3de5986dcae1b85b99444aa7756a6":[8,0,0,0,1,3,9,4,267,0],
+"db/d6e/spell__item_8cpp.html#ae6c7ef593639cfc88d517610cb868de4":[8,0,0,0,1,3,9,4,237],
 "db/d6e/spell__item_8cpp.html#ae6c7ef593639cfc88d517610cb868de4a3c9fd423e0274d3c61f5eac377baaeb3":[8,0,0,0,1,3,9,4,237,1],
 "db/d6e/spell__item_8cpp.html#ae6c7ef593639cfc88d517610cb868de4a5c5c0b79b9c40a4b66b2585bc5b9bf32":[8,0,0,0,1,3,9,4,237,0],
 "db/d6e/spell__item_8cpp.html#ae6c7ef593639cfc88d517610cb868de4a9b225b4fc4ecdb7d0345e151eb9b82b0":[8,0,0,0,1,3,9,4,237,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX300 =
 "db/d7b/classItemScript.html#a2ac915f9f966df87a963a328363deb77":[7,0,1434,3],
 "db/d7b/classItemScript.html#a78b540902816ee3b3f9a6b108aa155ab":[7,0,1434,4],
 "db/d7b/classItemScript.html#a87ab2f706bbb4e71921852d1ae6d78c7":[7,0,1434,6],
-"db/d7b/classItemScript.html#ae0ae6754a17b88deaf3648b74a58bb9d":[7,0,1434,1],
-"db/d7b/classItemScript.html#afed37ed2bb8b2fda6e40b3a3469ef966":[7,0,1434,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[7,0,13,6,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[5,0,34,6,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[7,0,13,6,0,1],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[5,0,34,6,0,1],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[7,0,13,6,0,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[5,0,34,6,0,0]
+"db/d7b/classItemScript.html#ae0ae6754a17b88deaf3648b74a58bb9d":[7,0,1434,1]
 };

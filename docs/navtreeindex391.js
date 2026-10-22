@@ -1,5 +1,12 @@
 var NAVTREEINDEX391 =
 {
+"de/d6c/structnpc__oathbound__warder.html#a2e97b16356a6aec04c7c0b1a2d872070":[7,0,2046,4],
+"de/d6c/structnpc__oathbound__warder.html#a62c4c568ad615013afa46c7da84d057a":[7,0,2046,2],
+"de/d6c/structnpc__oathbound__warder.html#af4e56bd77dc1c12e795736f117a9b7f1":[7,0,2046,0],
+"de/d6c/structnpc__oathbound__warder.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f":[7,0,2046,3],
+"de/d6c/structnpc__oathbound__warder.html#afa3e523d3c4b7659df3d06be11eea7e4":[7,0,2046,1],
+"de/d6d/WorldSessionMgr_8h.html":[8,0,0,0,1,2,39,8],
+"de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85":[8,0,0,0,1,2,39,8,2],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
 "de/d6e/classnpc__dalaran__mage.html":[7,0,1771],
 "de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[7,0,1771,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX391 =
 "de/d72/structnpc__minion__spawner.html#a0b55c1648c37399ad99d340bdf20cb49":[7,0,2022,3],
 "de/d72/structnpc__minion__spawner.html#a1742c98edca62e3d80a32f33d6ed2f97":[7,0,2022,2],
 "de/d72/structnpc__minion__spawner.html#a24f93f1314bb73edb369e188eda83104":[7,0,2022,4],
-"de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[7,0,2022,0],
-"de/d74/Group_8cpp.html":[8,0,0,0,1,2,20,0],
-"de/d74/Group_8cpp.html#a358fcd452505b33e46e0e74ff2a4d0fb":[8,0,0,0,1,2,20,0,2],
-"de/d74/Group_8cpp.html#a499748359465da566bbe2a1e833d9b93":[8,0,0,0,1,2,20,0,1],
-"de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[8,0,0,0,1,2,20,0,0],
-"de/d75/classspell__dk__death__pact.html":[7,0,2841],
-"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[7,0,2841,3],
-"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[7,0,2841,1]
+"de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[7,0,2022,0]
 };

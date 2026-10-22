@@ -1,5 +1,8 @@
 var NAVTREEINDEX146 =
 {
+"d4/de5/classspell__gen__planting__scourge__banner.html#a0ffb1cb313060770227621edb16c3a0d":[7,0,3129,1],
+"d4/de5/classspell__gen__planting__scourge__banner.html#a5e100554f868649d4edea011fe767b8b":[7,0,3129,0],
+"d4/de5/classspell__sha__astral__shift__visual__dummy.html":[7,0,4107],
 "d4/de5/classspell__sha__astral__shift__visual__dummy.html#a15f077618950e4526ffcee9ee172d89f":[7,0,4107,1],
 "d4/de5/classspell__sha__astral__shift__visual__dummy.html#a8765e8f662c4279669c955108ff356e3":[7,0,4107,0],
 "d4/de5/classspell__sha__astral__shift__visual__dummy.html#aeeca3a2be368025147702c4aa8c518ce":[7,0,4107,2],
@@ -75,8 +78,8 @@ var NAVTREEINDEX146 =
 "d4/dee/structboss__quagmirran.html#a7f6289b86216b052f434a1417023e22c":[7,0,679,0],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html":[7,0,0,25],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html":[5,0,0,37],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[7,0,0,25,4],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[5,0,0,37,4],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[7,0,0,25,4],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[7,0,0,25,0],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[5,0,0,37,0],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a43b531ac740cb263d347ece24ff675fc":[7,0,0,25,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX146 =
 "d4/df7/structAchievementCriteriaDataSet.html#a5055f8710c48379035e132e8f20577dc":[7,0,118,1],
 "d4/df7/structAchievementCriteriaDataSet.html#a6abf189d95226b370cfcfe7b628ed7c0":[7,0,118,6],
 "d4/df7/structAchievementCriteriaDataSet.html#a8edbe32d695308633fa7abfc91d2a1a1":[7,0,118,3],
-"d4/df7/structAchievementCriteriaDataSet.html#addedfd39d9948923a2704b51eaacecbc":[7,0,118,4],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[7,0,0,36],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[5,0,0,48],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[5,0,0,48,0]
+"d4/df7/structAchievementCriteriaDataSet.html#addedfd39d9948923a2704b51eaacecbc":[7,0,118,4]
 };

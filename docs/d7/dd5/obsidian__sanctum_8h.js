@@ -19,7 +19,10 @@ var obsidian__sanctum_8h =
       [ "GO_TWILIGHT_PORTAL", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6ba4ff0b6ba3331bbaa303dbea17ef3ee35", null ],
       [ "GO_NORMAL_PORTAL", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6ba088b5df5c62fed6bc8b598e78b56f709", null ],
       [ "SPELL_TWILIGHT_SHIFT", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6ba6b2de4b70298d53d1e8c042da94b7c87", null ],
-      [ "SPELL_TWILIGHT_TORMENT_SARTHARION", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6baee30cc95ba8069cd1a17a37908e38ae5", null ]
+      [ "SPELL_TWILIGHT_TORMENT_VESPERON", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6ba7407d48cf9398229483fbd11370f2697", null ],
+      [ "SPELL_SARTHARION_PYROBUFFET_TRIGGER", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6babcec629a81b27a23811be7a997faea57", null ],
+      [ "SPELL_TWILIGHT_TORMENT_SARTHARION", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6baee30cc95ba8069cd1a17a37908e38ae5", null ],
+      [ "SPELL_FADE_ARMOR", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6bad48174bab4e9f24c5a2fb7d3c6936122", null ]
     ] ],
     [ "OSActions", "d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5d", [
       [ "ACTION_CLEAR_PORTAL", "d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dacc402915ae29086b10d9b03cf6fb878a", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX422 =
 {
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#ab752e504c7cf463a4447a07fbb67211c":[7,0,2109,0,8],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#adafed6974cbd70ccfc0f9ee83732d162":[7,0,2109,0,3],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#af59e24c588861fe7d1bcd456780f571a":[7,0,2109,0,5],
+"df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html":[7,0,2260,0],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a3f31d705284b0fad2f00c9210ff06646":[7,0,2260,0,2],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a4a4d3029a329e6eb253bc57c5f7b2a98":[7,0,2260,0,8],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html#a5cd56075333fb59ddd8d4a48dc2eecdf":[7,0,2260,0,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX422 =
 "df/dbb/classspell__gen__netherbloom.html#a81222d8ac4f55175d1dc4d7c359cc331":[7,0,3116,3],
 "df/dbb/classspell__gen__netherbloom.html#aa8ea297d751913def150dc1e29d37664":[7,0,3116,2],
 "df/dbb/classspell__gen__netherbloom.html#ad511986b26dccd1be8206f01458c2b40":[7,0,3116,1],
-"df/dbb/structItemDisplayInfoEntry.html":[7,0,1426],
-"df/dbb/structItemDisplayInfoEntry.html#a26b43ee179bd546c6e956dd797fc0842":[7,0,1426,1],
-"df/dbb/structItemDisplayInfoEntry.html#a65acb5af9a688346cbb7dc144710c768":[7,0,1426,0],
-"df/dbb/structboss__flame__leviathan.html":[7,0,486],
-"df/dbb/structboss__flame__leviathan.html#a003ee013f6175e172107d0c840ed32f0":[7,0,486,12]
+"df/dbb/structItemDisplayInfoEntry.html":[7,0,1426]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX423 =
 {
+"df/dbb/structItemDisplayInfoEntry.html#a26b43ee179bd546c6e956dd797fc0842":[7,0,1426,1],
+"df/dbb/structItemDisplayInfoEntry.html#a65acb5af9a688346cbb7dc144710c768":[7,0,1426,0],
+"df/dbb/structboss__flame__leviathan.html":[7,0,486],
+"df/dbb/structboss__flame__leviathan.html#a003ee013f6175e172107d0c840ed32f0":[7,0,486,12],
 "df/dbb/structboss__flame__leviathan.html#a14ac6ab1fa42c21562f28cd4ae3fec14":[7,0,486,23],
 "df/dbb/structboss__flame__leviathan.html#a1582ba1367c0fcb09b25f86c508faab5":[7,0,486,17],
 "df/dbb/structboss__flame__leviathan.html#a20fc22fdc34b25dbb16a2c8ee8b31c50":[7,0,486,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX423 =
 "df/dc8/structnpc__onyxian__lair__guard.html#ae72d86cddafd8829fc9edd479a01ab1d":[7,0,2056,0],
 "df/dc9/classCreatureScript.html":[7,0,962],
 "df/dc9/classCreatureScript.html#a1e054fb61dd560aa7718d59127ad4b51":[7,0,962,11],
-"df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2":[7,0,962,1],
-"df/dc9/classCreatureScript.html#a30f160576b4cb97d940ecf3468834667":[7,0,962,6],
-"df/dc9/classCreatureScript.html#a316efb5c026588eb4bce8a0ce6b5cc0f":[7,0,962,4],
-"df/dc9/classCreatureScript.html#a3cfb4f448a41e845897dfd9119a22fff":[7,0,962,7],
-"df/dc9/classCreatureScript.html#a41562245c4a44843363d6b0ce32ce48d":[7,0,962,2]
+"df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2":[7,0,962,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,3,1,7,1],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ac015b1d9f0e5f085a935fc443522b9e2":[8,0,0,0,1,3,5,3,1,7,4],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad789ba74c3c36b8b21df4b21ad582d9d":[8,0,0,0,1,3,5,3,1,7,5],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae7043d2f29c97f69fc58f5b8aacce70c":[8,0,0,0,1,3,5,3,1,7,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d5c/structSpellTargetSelector.html#a53c27c23f2d9846903e1ff9b479a36b1":[7,0,4536,1],
 "d2/d5c/structSpellTargetSelector.html#a9f1f441e542500dc43c58b97729f7f51":[7,0,4536,0],
 "d2/d5c/structSpellTargetSelector.html#ac5b0844c975a6b3ff3c14a843fd28fba":[7,0,4536,2],
-"d2/d5d/structEnchStoreItem.html":[7,0,1052],
-"d2/d5d/structEnchStoreItem.html#a2d3d0cd28c79402b3625694d4676ed8b":[7,0,1052,2]
+"d2/d5d/structEnchStoreItem.html":[7,0,1052]
 };

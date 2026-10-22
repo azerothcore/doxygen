@@ -1,5 +1,8 @@
 var NAVTREEINDEX170 =
 {
+"d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#afa421865ce7f1db6b41494a5a84cc6c7":[7,0,1373,0,19],
+"d5/df5/classOrcDeathEvent.html":[7,0,2383],
+"d5/df5/classOrcDeathEvent.html#a293ec6667da669a27fe75965f919cd68":[7,0,2383,1],
 "d5/df5/classOrcDeathEvent.html#a56cdf23ed08cbb800ba6fe7fb5e284b7":[7,0,2383,2],
 "d5/df5/classOrcDeathEvent.html#ae4088ee95c3c0de9ae524a82803b0ea2":[7,0,2383,0],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[5,0,0,8,0,3],
@@ -36,10 +39,10 @@ var NAVTREEINDEX170 =
 "d5/df8/classspell__mage__combustion__proc.html#a9fbaec43bae2f4d6f4b94b18da0144fe":[7,0,3630,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html":[5,0,17,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html":[7,0,5,3],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[7,0,5,3,5],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[5,0,17,3,5],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[7,0,5,3,4],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[7,0,5,3,5],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[5,0,17,3,4],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[7,0,5,3,4],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[7,0,5,3,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[5,0,17,3,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[7,0,5,3,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX170 =
 "d5/dfb/classObjectMgr.html#a6c1ccfe38c958e87d8c5ed6eaac0fe0e":[7,0,2364,333],
 "d5/dfb/classObjectMgr.html#a6cec8baee03ec55e463d2d0a97fb828d":[7,0,2364,45],
 "d5/dfb/classObjectMgr.html#a6db0c379795b5ea5e039517e924c30d8":[7,0,2364,6],
-"d5/dfb/classObjectMgr.html#a6ec5d1aad541672047fcfbfaf15560b3":[7,0,2364,94],
-"d5/dfb/classObjectMgr.html#a6fac8c63928296d5e7a6eb699db1a61a":[7,0,2364,207],
-"d5/dfb/classObjectMgr.html#a7022f3e16c4bf1d8211747bd6f15c1db":[7,0,2364,49],
-"d5/dfb/classObjectMgr.html#a705268248e287f74b77915b9fed87e21":[7,0,2364,189]
+"d5/dfb/classObjectMgr.html#a6ec5d1aad541672047fcfbfaf15560b3":[7,0,2364,94]
 };

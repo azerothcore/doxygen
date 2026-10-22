@@ -1,5 +1,11 @@
 var NAVTREEINDEX253 =
 {
+"d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eafd2a30b02f781d11ca026904c7b2ddbc":[8,0,0,0,1,3,5,6,13,7,70],
+"d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eafda191c74fd1c83749ae4eb105dbe2eb":[8,0,0,0,1,3,5,6,13,7,78],
+"d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,5,6,13,6],
+"d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a0016472992426a67e364f265c5e28442":[8,0,0,0,1,3,5,6,13,6,21],
+"d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a016fb0ced66e5f1e845588cc58379f1a":[8,0,0,0,1,3,5,6,13,6,12],
+"d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a0988e41212af97d439cfc271373c7018":[8,0,0,0,1,3,5,6,13,6,32],
 "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a0be27f379b2f4999be8445e7645dab6e":[8,0,0,0,1,3,5,6,13,6,26],
 "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a14dbeb7452dd7c492c484eef99fb2ad3":[8,0,0,0,1,3,5,6,13,6,7],
 "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a1576a92411859ea280983b3163ae129c":[8,0,0,0,1,3,5,6,13,6,49],
@@ -137,10 +143,10 @@ var NAVTREEINDEX253 =
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,17,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[5,0,17,16,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[7,0,5,16,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[5,0,17,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[7,0,5,16,2],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[7,0,5,16,3],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[5,0,17,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[5,0,17,16,3],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[7,0,5,16,3],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html":[7,0,2026,0],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html#a04624b9b4d552d6b27308edc3ad44644":[7,0,2026,0,2],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2026,0,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX253 =
 "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fad0b6e7a19cdc19629565be749f17bbca":[8,0,0,0,1,2,38,0,54,1,21],
 "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1":[8,0,0,0,1,2,38,0,54,1,11],
 "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0":[8,0,0,0,1,2,38,0,54,1,2],
-"d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872":[8,0,0,0,1,2,38,0,54,1,20],
-"d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf":[8,0,0,0,1,2,38,0,54,1,7],
-"d9/d75/classnpc__oculus__drakegiver.html":[7,0,2051],
-"d9/d75/classnpc__oculus__drakegiver.html#a70513d873111c590ca4e33cb446a4438":[7,0,2051,5],
-"d9/d75/classnpc__oculus__drakegiver.html#aa26a2b82c5e4076ce704d5884895d903":[7,0,2051,2],
-"d9/d75/classnpc__oculus__drakegiver.html#ac00d09d2d81121d562e3303704229c18":[7,0,2051,3],
-"d9/d75/classnpc__oculus__drakegiver.html#ac8bbe890722aa924a7f0dee161d342c4":[7,0,2051,6]
+"d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872":[8,0,0,0,1,2,38,0,54,1,20]
 };

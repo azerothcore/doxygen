@@ -4,6 +4,7 @@ var structnpc__akama__shade =
     [ "DamageTaken", "d9/db8/structnpc__akama__shade.html#a962723ebc58a2b1f813fcc0715f9f2d2", null ],
     [ "DoAction", "d9/db8/structnpc__akama__shade.html#a59619f193d51e3bad05044aad2d96d9a", null ],
     [ "EnterEvadeMode", "d9/db8/structnpc__akama__shade.html#ae2441741caf0b91196469f67a38823bc", null ],
+    [ "JustDied", "d9/db8/structnpc__akama__shade.html#a0d0838f930cccf6afa6115884e2e6a60", null ],
     [ "JustEngagedWith", "d9/db8/structnpc__akama__shade.html#a87df13ee30423c51e50670c535fdf99d", null ],
     [ "JustSummoned", "d9/db8/structnpc__akama__shade.html#a2372d2e64fb36b64f638583409cf9fa8", null ],
     [ "MovementInform", "d9/db8/structnpc__akama__shade.html#a4f1900d16dd36fbb9e573d59cf2176a1", null ],

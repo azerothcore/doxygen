@@ -1,5 +1,11 @@
 var NAVTREEINDEX239 =
 {
+"d8/dbf/structLFGDungeonEntry.html#aa4fbfd45d4319c9e8319508821bf4a65":[7,0,1455,7],
+"d8/dbf/structLFGDungeonEntry.html#aa85e97ced86b0d27c753ca924eba074b":[7,0,1455,1],
+"d8/dbf/structLFGDungeonEntry.html#ae0fdf0d9afd2f99e9b7e6094960e86e0":[7,0,1455,5],
+"d8/dbf/structLFGDungeonEntry.html#ae4a27f7bc0563f606f40d955a40fab1e":[7,0,1455,11],
+"d8/dc2/boss__halazzi_8cpp.html":[8,0,0,0,1,3,2,14,1],
+"d8/dc2/boss__halazzi_8cpp.html#a010d3293429f2ddb4d3c8a470ee2347f":[8,0,0,0,1,3,2,14,1,8],
 "d8/dc2/boss__halazzi_8cpp.html#a250372292659bed7ae290d8621f88ccf":[8,0,0,0,1,3,2,14,1,1],
 "d8/dc2/boss__halazzi_8cpp.html#a250372292659bed7ae290d8621f88ccfa63fd17f849c7bec9e7834eb6c7ba1ffd":[8,0,0,0,1,3,2,14,1,1,0],
 "d8/dc2/boss__halazzi_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,2,14,1,7],
@@ -49,8 +55,8 @@ var NAVTREEINDEX239 =
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[7,0,0,80,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,0,92,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[7,0,0,80,3],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[7,0,0,80,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,0,92,5],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[7,0,0,80,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[7,0,0,80,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[5,0,0,92,0],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#abc2ab6f33a6a58a6e692cc32e8139839":[5,0,0,92,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX239 =
 "d8/dd3/UpdateFieldFlags_8h.html#a310c5b2e3065e40ce04fe5ccd84fb51b":[8,0,0,0,1,2,16,5,0,3,5],
 "d8/dd3/UpdateFieldFlags_8h.html#a4ba9132e74378f888b4724dbbaf147f3":[8,0,0,0,1,2,16,5,0,3,1],
 "d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150":[8,0,0,0,1,2,16,5,0,3,0],
-"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150a3b75563c8e1c2bfbe672d128cce4b1e5":[8,0,0,0,1,2,16,5,0,3,0,9],
-"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150a5715410f0568125f85e318a57c281cd8":[8,0,0,0,1,2,16,5,0,3,0,6],
-"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150a590c2755c17b30efbb3bbff85036fb65":[8,0,0,0,1,2,16,5,0,3,0,5],
-"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150a6b9db4521b5b4cc023e15610eef397e1":[8,0,0,0,1,2,16,5,0,3,0,8],
-"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150a7d1b4f7f2db6116940d9d5939501821a":[8,0,0,0,1,2,16,5,0,3,0,0],
-"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150aa23748720df562a04ac4e80d7bd222da":[8,0,0,0,1,2,16,5,0,3,0,1],
-"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150ab1517a7b1049b7541d6de9ab69402715":[8,0,0,0,1,2,16,5,0,3,0,3]
+"d8/dd3/UpdateFieldFlags_8h.html#a811fc272bf3df65a461d871556356150a3b75563c8e1c2bfbe672d128cce4b1e5":[8,0,0,0,1,2,16,5,0,3,0,9]
 };

@@ -1,14 +1,21 @@
 var NAVTREEINDEX364 =
 {
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,34,6,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[7,0,13,6,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[7,0,13,6,6,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,34,6,6,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[7,0,13,6,6,2],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,34,6,6,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,34,6,6,4],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[7,0,13,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[7,0,13,6,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,34,6,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[7,0,13,6,6,3],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,34,6,6,3],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,34,6,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[7,0,13,6,6,5],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[7,0,13,6,6,0],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,34,6,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[5,0,34,6,6,0],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[7,0,13,6,6,0],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html":[7,0,1636],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a063fc935bc8f46f5487e9c338e497ec4":[7,0,1636,8],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a41791aaa24102383fe4d3f43c714c3bb":[7,0,1636,9],
@@ -242,12 +249,5 @@ var NAVTREEINDEX364 =
 "dd/de8/classspell__freezing__cloud__area__left.html#a028ef84c884536a28650ace1e56f8061":[7,0,2999,0],
 "dd/de8/classspell__freezing__cloud__area__left.html#a16466b4c07c06c57493082b0e84b3c66":[7,0,2999,1],
 "dd/de8/classspell__freezing__cloud__area__left.html#a1664dcb92887f6974e1750472c02d168":[7,0,2999,4],
-"dd/de8/classspell__freezing__cloud__area__left.html#a90470761baccdcf8c5430006004abf29":[7,0,2999,3],
-"dd/de8/classspell__freezing__cloud__area__left.html#ad43892487ca38342a61522548b34cd2c":[7,0,2999,2],
-"dd/de8/structboss__ebonroc.html":[7,0,453],
-"dd/de8/structboss__ebonroc.html#a74725561727d5bf0dd266f50d377c9c8":[7,0,453,0],
-"dd/de8/structboss__ebonroc.html#a84250d1bc0986130404433c80162ecac":[7,0,453,1],
-"dd/de8/structboss__ebonroc.html#a8d7b9b681ae8c1e4102cb90456611732":[7,0,453,3],
-"dd/de8/structboss__ebonroc.html#afa0e5ad6e2eb3d8df539266623dbffb4":[7,0,453,2],
-"dd/de9/classGameObjectScript.html":[7,0,1127]
+"dd/de8/classspell__freezing__cloud__area__left.html#a90470761baccdcf8c5430006004abf29":[7,0,2999,3]
 };

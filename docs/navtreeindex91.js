@@ -1,5 +1,8 @@
 var NAVTREEINDEX91 =
 {
+"d2/dec/structLinkValidator_3_01LinkTags_1_1talent_01_4.html#a4bb1cd2a247136daadfa36f85b50a65d":[7,0,1470,0],
+"d2/ded/classspell__q10651__q10692__book__of__fel__names.html":[7,0,3910],
+"d2/ded/classspell__q10651__q10692__book__of__fel__names.html#a4505b9196609ae9339fe7e5948963663":[7,0,3910,1],
 "d2/ded/classspell__q10651__q10692__book__of__fel__names.html#a54c724bd8786c894ecaa584c164c2e53":[7,0,3910,0],
 "d2/ded/classspell__q10651__q10692__book__of__fel__names.html#ae293d6a2a477f716f357516781246069":[7,0,3910,2],
 "d2/dee/classWintergraspCapturePoint.html":[7,0,4715],
@@ -246,8 +249,5 @@ var NAVTREEINDEX91 =
 "d2/df6/DBCStores_8h.html#a7310e7ca73ddb97a809bce03e33cc38d":[8,0,0,0,1,2,14,1,2],
 "d2/df6/DBCStores_8h.html#a73d34d857e5e1ebc289eda1dc36e4d7e":[8,0,0,0,1,2,14,1,8],
 "d2/df6/DBCStores_8h.html#a746c7ed00a3edd41ef9441b2e48f843c":[8,0,0,0,1,2,14,1,104],
-"d2/df6/DBCStores_8h.html#a75f21934939cf3418142a038e06aeddd":[8,0,0,0,1,2,14,1,56],
-"d2/df6/DBCStores_8h.html#a763ffb29166f7dfd0cf978d43fc56d62":[8,0,0,0,1,2,14,1,23],
-"d2/df6/DBCStores_8h.html#a7670b9bb3f03fd4976edbb4285549cd3":[8,0,0,0,1,2,14,1,107],
-"d2/df6/DBCStores_8h.html#a77e97d6c628460065eabb2f3711329c1":[8,0,0,0,1,2,14,1,40]
+"d2/df6/DBCStores_8h.html#a75f21934939cf3418142a038e06aeddd":[8,0,0,0,1,2,14,1,56]
 };

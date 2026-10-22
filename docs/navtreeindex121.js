@@ -1,5 +1,8 @@
 var NAVTREEINDEX121 =
 {
+"d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ea68b7a9f8984372d34a01128c98410":[8,0,0,0,1,3,5,6,5,22,9],
+"d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298ca99eaf912c120c7fa6d85748ebf96aebb":[8,0,0,0,1,3,5,6,5,22,42],
+"d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298ca9a0378e1ece3241ae46466917cd08f42":[8,0,0,0,1,3,5,6,5,22,36],
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298caa7a0d3645ec8372b4fb82aa0159f0791":[8,0,0,0,1,3,5,6,5,22,18],
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298cabc542daa55be8c65656cab5672d1cdf5":[8,0,0,0,1,3,5,6,5,22,37],
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298cabd70b9c9d782cd1b0da3d12dbabba366":[8,0,0,0,1,3,5,6,5,22,27],
@@ -108,8 +111,8 @@ var NAVTREEINDEX121 =
 "d3/df7/classBattlefieldMgr.html#af96d6d44aa8936f94c20d1bd92af2fb3":[7,0,327,15],
 "d3/df7/classBattlefieldMgr.html#afaa79f63a91c6b585b4bf10dfdf60af6":[7,0,327,2],
 "d3/df7/classMPQFile.html":[7,0,1590],
-"d3/df7/classMPQFile.html#a081e78701a7cd8b1f3fdb144f6217e1c":[7,0,1590,14],
 "d3/df7/classMPQFile.html#a081e78701a7cd8b1f3fdb144f6217e1c":[7,0,1590,15],
+"d3/df7/classMPQFile.html#a081e78701a7cd8b1f3fdb144f6217e1c":[7,0,1590,14],
 "d3/df7/classMPQFile.html#a2eaa21c84572a7b62011361218f3971e":[7,0,1590,19],
 "d3/df7/classMPQFile.html#a2eaa21c84572a7b62011361218f3971e":[7,0,1590,18],
 "d3/df7/classMPQFile.html#a3e13eec8960a2e58a475c7662ef3b053":[7,0,1590,2],
@@ -122,16 +125,16 @@ var NAVTREEINDEX121 =
 "d3/df7/classMPQFile.html#a8baf32918a435662a426c76a8c78fbd8":[7,0,1590,7],
 "d3/df7/classMPQFile.html#a8baf32918a435662a426c76a8c78fbd8":[7,0,1590,6],
 "d3/df7/classMPQFile.html#a90c76a3897be11f681f021e6d0e9e418":[7,0,1590,29],
-"d3/df7/classMPQFile.html#aa15126433e926782f61bec0e1a8329b1":[7,0,1590,22],
 "d3/df7/classMPQFile.html#aa15126433e926782f61bec0e1a8329b1":[7,0,1590,23],
-"d3/df7/classMPQFile.html#aac2ac24cd080cae5575030e10bfd37d9":[7,0,1590,20],
+"d3/df7/classMPQFile.html#aa15126433e926782f61bec0e1a8329b1":[7,0,1590,22],
 "d3/df7/classMPQFile.html#aac2ac24cd080cae5575030e10bfd37d9":[7,0,1590,21],
+"d3/df7/classMPQFile.html#aac2ac24cd080cae5575030e10bfd37d9":[7,0,1590,20],
 "d3/df7/classMPQFile.html#ad180e1b456b089215cba4b2cb50e50a6":[7,0,1590,25],
 "d3/df7/classMPQFile.html#ad180e1b456b089215cba4b2cb50e50a6":[7,0,1590,24],
 "d3/df7/classMPQFile.html#ad478a7160aa98e69d09b099ea7875d12":[7,0,1590,13],
 "d3/df7/classMPQFile.html#ad478a7160aa98e69d09b099ea7875d12":[7,0,1590,12],
-"d3/df7/classMPQFile.html#ad72a63f451d6755439ae452a83c0b6bb":[7,0,1590,3],
 "d3/df7/classMPQFile.html#ad72a63f451d6755439ae452a83c0b6bb":[7,0,1590,0],
+"d3/df7/classMPQFile.html#ad72a63f451d6755439ae452a83c0b6bb":[7,0,1590,3],
 "d3/df7/classMPQFile.html#ad8612ecd51a6c0dd226a936965753bdc":[7,0,1590,28],
 "d3/df7/classMPQFile.html#adfeffa15224b809afbe65352dfd97055":[7,0,1590,1],
 "d3/df7/classMPQFile.html#adfeffa15224b809afbe65352dfd97055":[7,0,1590,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX121 =
 "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ae7dcf12a2bc77be4e2fc92b623d4df21":[8,0,0,0,1,3,9,5,45,34],
 "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124aea3e790fd819d1693c42451ed75d6648":[8,0,0,0,1,3,9,5,45,41],
 "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124aeb365610a1f64be024535322d600efa9":[8,0,0,0,1,3,9,5,45,1],
-"d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786":[8,0,0,0,1,3,9,5,45,39],
-"d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124af5e1b0ad1e4f78d3b102c8061155459e":[8,0,0,0,1,3,9,5,45,10],
-"d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124af6ea5812f5a9177e7bbc22f292e13983":[8,0,0,0,1,3,9,5,45,21],
-"d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124af902c6055a7c4d321d31a8d6030e45b7":[8,0,0,0,1,3,9,5,45,2]
+"d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786":[8,0,0,0,1,3,9,5,45,39]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX280 =
 {
+"da/d97/classWorldPackets_1_1CompactArray.html#af146d3e880ec34358ff6a07247f741d8":[5,0,34,20,11],
+"da/d97/classWorldPackets_1_1CompactArray.html#af146d3e880ec34358ff6a07247f741d8":[7,0,13,20,11],
+"da/d97/classgo__sacred__fire__of__life.html":[7,0,1213],
+"da/d97/classgo__sacred__fire__of__life.html#a7f14c8397803f8b21e492ec52c6d81e8":[7,0,1213,0],
+"da/d97/classgo__sacred__fire__of__life.html#aaa078fffe5570fa532d27d1c4ea831a7":[7,0,1213,1],
+"da/d97/classspell__mark__of__frost__freeze.html":[7,0,3678],
+"da/d97/classspell__mark__of__frost__freeze.html#a57d85b1702e5c89d72972505121180ed":[7,0,3678,3],
 "da/d97/classspell__mark__of__frost__freeze.html#a9f1d78b4a98bc76877903b79923c1634":[7,0,3678,0],
 "da/d97/classspell__mark__of__frost__freeze.html#ab923488eb891e1f9b1f5cb8ed61f3865":[7,0,3678,2],
 "da/d97/classspell__mark__of__frost__freeze.html#afb0a8a16850da30b0fbdb3d10a935f21":[7,0,3678,1],
@@ -45,8 +52,8 @@ var NAVTREEINDEX280 =
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[7,0,13,8,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[5,0,34,8,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[7,0,13,8,6,1],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[7,0,13,8,6,0],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[5,0,34,8,6,0],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[7,0,13,8,6,0],
 "da/d99/classspell__xt002__searing__light__gravity__bomb.html":[7,0,4441],
 "da/d99/classspell__xt002__searing__light__gravity__bomb.html#a3f53d4e7fa30e53a1e05803a60c8b09b":[7,0,4441,1],
 "da/d99/classspell__xt002__searing__light__gravity__bomb.html#a766440359968faf85f60f987b5da8c70":[7,0,4441,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX280 =
 "da/da1/classspell__mage__pet__scaling.html#a67cb7b817f29dd41aa7d0dc8c87dc820":[7,0,3659,6],
 "da/da1/classspell__mage__pet__scaling.html#abf0d76c220911d88990f3071f14a9d5a":[7,0,3659,3],
 "da/da1/classspell__mage__pet__scaling.html#acc22795ea812f31b0b9e21e6494c2d19":[7,0,3659,8],
-"da/da3/DatabaseUpdatePool_8h.html":[8,0,0,0,1,1,0,8],
-"da/da3/classgroup__commandscript.html":[7,0,1267],
-"da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94":[7,0,1267,8],
-"da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[7,0,1267,6],
-"da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb":[7,0,1267,7],
-"da/da3/classgroup__commandscript.html#a382e8532c653464e90b45569e813ae37":[7,0,1267,4],
-"da/da3/classgroup__commandscript.html#a538539340a697e02453ddcfa669fb646":[7,0,1267,2],
-"da/da3/classgroup__commandscript.html#a5e7e069c58ecc5baca4ef1118e6c143e":[7,0,1267,1]
+"da/da3/DatabaseUpdatePool_8h.html":[8,0,0,0,1,1,0,8]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX269 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6b0ccd5195567a4744da1763b92159e3":[8,0,0,0,1,2,41,0,0,6,201],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c38d7d76b8741d45023a0ccc3c0f9b3":[8,0,0,0,1,2,41,0,0,6,25],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c684b941fc93d5488ff49a976973596":[8,0,0,0,1,2,41,0,0,6,27],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6ce8ab254d7a5e7caa05e4c53549a117":[8,0,0,0,1,2,41,0,0,6,72],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6d1575d5094063c40f7efb7816adabe2":[8,0,0,0,1,2,41,0,0,6,158],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6f4650df4228c83bc7c1bdcb059fcf81":[8,0,0,0,1,2,41,0,0,6,254],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6f4ce86c39fc491ab2a65efda7566c9f":[8,0,0,0,1,2,41,0,0,6,109],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a71228de916b6c96108c7689f11d6303c":[8,0,0,0,1,2,41,0,0,6,81],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a721cd5ed69ee83102b2b2a6fd1bea60c":[8,0,0,0,1,2,41,0,0,6,287],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a727bce2f9e6269218972b56baa1dad0f":[8,0,0,0,1,2,41,0,0,6,221],
@@ -242,12 +249,5 @@ var NAVTREEINDEX269 =
 "da/d32/classBattlegroundRL.html":[7,0,351],
 "da/d32/classBattlegroundRL.html#a2d03a49dee964bcaa3421a93d0735e63":[7,0,351,3],
 "da/d32/classBattlegroundRL.html#a3393353028ffd35eaad1d5e121654366":[7,0,351,4],
-"da/d32/classBattlegroundRL.html#a410a5dbfa6fccbe802058d60eb7393d9":[7,0,351,1],
-"da/d32/classBattlegroundRL.html#aae633887d9689898c8b73efa8257eb34":[7,0,351,5],
-"da/d32/classBattlegroundRL.html#ad1184e3e2f09a6665d40a75006e6f863":[7,0,351,2],
-"da/d32/classBattlegroundRL.html#adb2ec6770c2b25b94f8f7dff7486d5cf":[7,0,351,6],
-"da/d32/classBattlegroundRL.html#ae2e0ccf2badc174b7f5c909f805fe669":[7,0,351,0],
-"da/d32/classspell__blood__siphon__aura.html":[7,0,2741],
-"da/d32/classspell__blood__siphon__aura.html#a42c116ecb7d938bc4b9047ab40ff60ea":[7,0,2741,2],
-"da/d32/classspell__blood__siphon__aura.html#ab909660f32a77e86fde5da35e2f69302":[7,0,2741,0]
+"da/d32/classBattlegroundRL.html#a410a5dbfa6fccbe802058d60eb7393d9":[7,0,351,1]
 };

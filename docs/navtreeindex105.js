@@ -1,5 +1,8 @@
 var NAVTREEINDEX105 =
 {
+"d3/d78/structnpc__expedition__trapper.html#ae2a0c15b4a7d59f4222e818d0fcf303b":[7,0,1826,2],
+"d3/d79/boss__falric_8cpp.html":[8,0,0,0,1,3,5,4,1,0],
+"d3/d79/boss__falric_8cpp.html#a0f538e4ab511bcb65e4d0abbd76848ea":[8,0,0,0,1,3,5,4,1,0,4],
 "d3/d79/boss__falric_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,4,1,0,3],
 "d3/d79/boss__falric_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,4,1,0,3,2],
 "d3/d79/boss__falric_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a433d2ab4f081a501bd475c180e6a3664":[8,0,0,0,1,3,5,4,1,0,3,4],
@@ -231,23 +234,20 @@ var NAVTREEINDEX105 =
 "d3/d7f/structgo__sister__mercy.html#a3c29ef699afe163b9a505f472709a795":[7,0,1220,0],
 "d3/d7f/structgo__sister__mercy.html#a5ad9020e2717ef93d97a742ec16b14e6":[7,0,1220,1],
 "d3/d80/WorldSocket_8h.html":[8,0,0,0,1,2,39,10],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,17,4],
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[7,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,17,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,17,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[7,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,17,4,2],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[7,0,5,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[7,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,17,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[7,0,5,4,1],
 "d3/d81/GroupScript_8cpp.html":[8,0,0,0,1,2,38,0,55],
 "d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[8,0,0,0,1,2,38,0,55,0],
 "d3/d81/classAbominationDespawner.html":[7,0,22],
 "d3/d81/classAbominationDespawner.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e":[7,0,22,0],
 "d3/d81/classAbominationDespawner.html#a58b8faac1cdffa7230783a1d6439fcfb":[7,0,22,1],
-"d3/d81/classAbominationDespawner.html#af9089e566905b885887a5714ad5b0741":[7,0,22,2],
-"d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html":[7,0,1350,0],
-"d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a0639fcd867616d1f04aacde44020bb30":[7,0,1350,0,2],
-"d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a115a36ec26e15e23be4d78250d86d814":[7,0,1350,0,1]
+"d3/d81/classAbominationDespawner.html#af9089e566905b885887a5714ad5b0741":[7,0,22,2]
 };

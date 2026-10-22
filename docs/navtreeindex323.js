@@ -1,5 +1,12 @@
 var NAVTREEINDEX323 =
 {
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9cb9bf5bb86d78ba6568cb7b33b6000b":[8,0,0,0,1,3,2,1,0,4,3,0],
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,2,1,0,4,3,2],
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,0,4,2],
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298ca6f5b66a39937e9d30fc65feb6e94b78d":[8,0,0,0,1,3,2,1,0,4,2,1],
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298caaa7c0f74470168d7d0393986aebbeedf":[8,0,0,0,1,3,2,1,0,4,2,0],
+"dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#aa9a19276734a6565dfae91ec2c00c7c4":[8,0,0,0,1,3,2,1,0,4,1],
+"dc/d20/structSHostageInfo.html":[7,0,2611],
 "dc/d20/structSHostageInfo.html#a04d6e67fa2fb208ca747798ccc53083d":[7,0,2611,1],
 "dc/d20/structSHostageInfo.html#a51175880a326101b29879d7a6a62c48d":[7,0,2611,2],
 "dc/d20/structSHostageInfo.html#ac14168f8c25efe7fa22ec802259b3a11":[7,0,2611,0],
@@ -17,10 +24,10 @@ var NAVTREEINDEX323 =
 "dc/d21/structResultIterator.html#ae66f3f0e1fd5af21ff0854826fb37075":[7,0,2564,8],
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html":[5,0,34,7,2],
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html":[7,0,13,7,2],
-"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a246b4ab5e9567b99ba83b2a3c9b6c039":[5,0,34,7,2,0],
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a246b4ab5e9567b99ba83b2a3c9b6c039":[7,0,13,7,2,0],
-"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a29506768ce5a5312e659ec787dbc2f8e":[7,0,13,7,2,1],
+"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a246b4ab5e9567b99ba83b2a3c9b6c039":[5,0,34,7,2,0],
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a29506768ce5a5312e659ec787dbc2f8e":[5,0,34,7,2,1],
+"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a29506768ce5a5312e659ec787dbc2f8e":[7,0,13,7,2,1],
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a3a14b2f4eb5e6d1ce768fe45881e2206":[7,0,13,7,2,2],
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a3a14b2f4eb5e6d1ce768fe45881e2206":[5,0,34,7,2,2],
 "dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0":[7,0,13,7,2,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX323 =
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a3ab2e003ab03db4ee23d354f0af82f4f":[8,0,0,0,1,3,5,9,2,9,34,31],
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a3d541c3e17d09307020683d882299a82":[8,0,0,0,1,3,5,9,2,9,34,32],
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a498ef4d60d4df1a4b1d527cc826d51fa":[8,0,0,0,1,3,5,9,2,9,34,34],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a4dbb469f809ee5093ec69669a41eca2a":[8,0,0,0,1,3,5,9,2,9,34,18],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a60f8fdb744c47f472ef3fb4e36071621":[8,0,0,0,1,3,5,9,2,9,34,30],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a639f085c3d26869d3bffb24e326b5a84":[8,0,0,0,1,3,5,9,2,9,34,11],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a651b7ef9576ff4c8ea52dcc9d8a73788":[8,0,0,0,1,3,5,9,2,9,34,37],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a74cf71052c4d04dcdede4915edec87d7":[8,0,0,0,1,3,5,9,2,9,34,7],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a794b297a4ffb6b21853631fb47999f6c":[8,0,0,0,1,3,5,9,2,9,34,39],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a7d54a0e92a20042c08728a8c32aaee87":[8,0,0,0,1,3,5,9,2,9,34,17],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a919fdd2f9d13164e43c55488a249b7e1":[8,0,0,0,1,3,5,9,2,9,34,1]
+"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a4dbb469f809ee5093ec69669a41eca2a":[8,0,0,0,1,3,5,9,2,9,34,18]
 };

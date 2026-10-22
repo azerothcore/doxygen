@@ -1,5 +1,12 @@
 var NAVTREEINDEX320 =
 {
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,34,12,1,0],
+"db/dfd/classboss__anubarak__trial.html":[7,0,395],
+"db/dfd/classboss__anubarak__trial.html#a5204e33a412608b53cc155a043356d58":[7,0,395,1],
+"db/dfd/classboss__anubarak__trial.html#a9b8fe9ed3370434612cbd46e7649213d":[7,0,395,2],
+"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html":[7,0,1356,0],
+"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html#a1523ad04993ce4ddf5b503355f7c856a":[7,0,1356,0,0],
 "db/dfe/ALEScript_8h.html":[8,0,0,0,1,2,38,0,7],
 "db/dfe/GroupReference_8h.html":[8,0,0,0,1,2,20,5],
 "db/dfe/boss__ayamiss_8cpp.html":[8,0,0,0,1,3,4,8,0],
@@ -94,8 +101,8 @@ var NAVTREEINDEX320 =
 "dc/d04/classachievement__flame__leviathan__shutout.html":[7,0,56],
 "dc/d04/classachievement__flame__leviathan__shutout.html#a555e0d206b7f730665d301c7e03b23e6":[7,0,56,0],
 "dc/d04/classachievement__flame__leviathan__shutout.html#af548232f563fd387bc8ee25b696a2f99":[7,0,56,1],
-"dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
 "dc/d04/conceptAcore_1_1AnyTypeList.html":[5,0,0,140],
+"dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
 "dc/d05/InstancePackets_8h.html":[8,0,0,0,1,2,39,0,16],
 "dc/d05/classnpc__wounded__blood__elf.html":[7,0,2336],
 "dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[7,0,2336,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9cac6e5a00e1239380f9b7eefe843a08977":[8,0,0,0,1,3,5,4,1,2,24,16],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caca6178b005973083c47ab3043a7e6f72":[8,0,0,0,1,3,5,4,1,2,24,8],
 "dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9cae8c2409fcb4dfb365cfd8594c6c8984e":[8,0,0,0,1,3,5,4,1,2,24,3],
-"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caeccde9e1206ee2e4eb28b875f92ec48a":[8,0,0,0,1,3,5,4,1,2,24,7],
-"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9cafffcf6697d50685578c18bfce9ae4717":[8,0,0,0,1,3,5,4,1,2,24,10],
-"dc/d07/halls__of__reflection_8cpp.html#a7adcd5cfc5805ba1a10e50278f935670":[8,0,0,0,1,3,5,4,1,2,27],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643":[8,0,0,0,1,3,5,4,1,2,25],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a022acca61bd68ee16c0d55004c9a1dc7":[8,0,0,0,1,3,5,4,1,2,25,2],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a04a753f9853968682b9643fa1de110fd":[8,0,0,0,1,3,5,4,1,2,25,25],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a0d74cfe7662c959a043f01770a2c7bf4":[8,0,0,0,1,3,5,4,1,2,25,15],
-"dc/d07/halls__of__reflection_8cpp.html#a93e84b4b5ded0ff6fcbfde6de6759643a0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,5,4,1,2,25,27]
+"dc/d07/halls__of__reflection_8cpp.html#a5b3c5a230ae362ced4992b952a2e4a9caeccde9e1206ee2e4eb28b875f92ec48a":[8,0,0,0,1,3,5,4,1,2,24,7]
 };

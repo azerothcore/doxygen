@@ -1,5 +1,12 @@
 var NAVTREEINDEX294 =
 {
+"db/d25/structInstanceMapLoadRows_1_1InstanceRow.html#af7c9d7b1fee85de40aade9576e8c49ff":[7,0,1403,1,5],
+"db/d27/ObjectPosSelector_8cpp.html":[8,0,0,0,1,2,16,5,6],
+"db/d29/structBattlegroundEYPointIconsStruct.html":[7,0,341],
+"db/d29/structBattlegroundEYPointIconsStruct.html#a1118c998cf9a319f9c81c100d23c25d3":[7,0,341,3],
+"db/d29/structBattlegroundEYPointIconsStruct.html#a322379024d155d293d1c0083c510d232":[7,0,341,0],
+"db/d29/structBattlegroundEYPointIconsStruct.html#a449932bc2357e26c79520fcf01a71a2a":[7,0,341,1],
+"db/d29/structBattlegroundEYPointIconsStruct.html#a82e87048f934b67821bc8ba308ed101d":[7,0,341,2],
 "db/d29/structWardenCheck.html":[7,0,4679],
 "db/d29/structWardenCheck.html#a0aba96ac9e7af155a1d9bdf120afae25":[7,0,4679,0],
 "db/d29/structWardenCheck.html#a15ecbc1a6582666a14423fa157d2fb84":[7,0,4679,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX294 =
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#a0161d569d4c1fb2e1bf69936312be8df":[7,0,2016,11],
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#a0a9961eb0c2d5afde8f96bb0580d1974":[7,0,2016,5],
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#a19eb48c537d58ad8f2021e9eabe4fae2":[7,0,2016,3],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a41e453f742a06bc7485e290756dbc746":[7,0,2016,12],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a55f16f2ced0045ea373e9d0a239301d1":[7,0,2016,7],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a5e5a67ed5492db34fd6c2e28a2cd7f74":[7,0,2016,1],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a94086429fe5cf506c64ea79ebcf03317":[7,0,2016,6],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#ab732995946655894611eb1c12ce4e8a8":[7,0,2016,9],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#ac09222eff300a11e03e8a3a1c9a3fd5f":[7,0,2016,0],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#ae91d1899212fa391f6ae4ec3a1de6e85":[7,0,2016,8],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#aeea38608ae98cd5597c104ea04e32523":[7,0,2016,13]
+"db/d39/structnpc__midsummer__ribbon__pole__target.html#a41e453f742a06bc7485e290756dbc746":[7,0,2016,12]
 };

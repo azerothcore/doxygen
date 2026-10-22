@@ -1,5 +1,12 @@
 var NAVTREEINDEX290 =
 {
+"da/df5/AllBattlegroundScript_8h.html":[8,0,0,0,1,2,38,0,9],
+"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11f":[8,0,0,0,1,2,38,0,9,2],
+"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af":[8,0,0,0,1,2,38,0,9,2,20],
+"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175":[8,0,0,0,1,2,38,0,9,2,5],
+"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a":[8,0,0,0,1,2,38,0,9,2,4],
+"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7":[8,0,0,0,1,2,38,0,9,2,6],
+"da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0":[8,0,0,0,1,2,38,0,9,2,3],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1":[8,0,0,0,1,2,38,0,9,2,16],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb":[8,0,0,0,1,2,38,0,9,2,1],
 "da/df5/AllBattlegroundScript_8h.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a":[8,0,0,0,1,2,38,0,9,2,18],
@@ -25,10 +32,10 @@ var NAVTREEINDEX290 =
 "da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,0,46,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[7,0,0,34,2],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[5,0,0,46,2],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[7,0,13,12,8],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,34,12,8],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[7,0,13,12,8,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[7,0,13,12,8],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,34,12,8,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[7,0,13,12,8,1],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[5,0,34,12,8,0],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[7,0,13,12,8,0],
 "da/df6/classspell__warr__mocking__blow.html":[7,0,4405],
@@ -242,12 +249,5 @@ var NAVTREEINDEX290 =
 "db/d02/zone__felwood_8cpp.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de":[8,0,0,0,1,3,4,21,3,11],
 "db/d02/zone__felwood_8cpp.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46":[8,0,0,0,1,3,4,21,3,1],
 "db/d02/zone__felwood_8cpp.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff":[8,0,0,0,1,3,4,21,3,5],
-"db/d02/zone__felwood_8cpp.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc":[8,0,0,0,1,3,4,21,3,8],
-"db/d02/zone__felwood_8cpp.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e":[8,0,0,0,1,3,4,21,3,13],
-"db/d02/zone__felwood_8cpp.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1":[8,0,0,0,1,3,4,21,3,2],
-"db/d02/zone__felwood_8cpp.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49":[8,0,0,0,1,3,4,21,3,0],
-"db/d02/zone__felwood_8cpp.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289":[8,0,0,0,1,3,4,21,3,12],
-"db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068":[8,0,0,0,1,3,4,21,2],
-"db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149":[8,0,0,0,1,3,4,21,2,4],
-"db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99":[8,0,0,0,1,3,4,21,2,1]
+"db/d02/zone__felwood_8cpp.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc":[8,0,0,0,1,3,4,21,3,8]
 };

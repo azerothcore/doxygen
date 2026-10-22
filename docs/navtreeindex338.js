@@ -1,5 +1,12 @@
 var NAVTREEINDEX338 =
 {
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0b9fc9a91d0ecbb9f26e41495f727b76":[8,0,0,0,1,3,4,1,0,1,5,3],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0db281a1e681866a39bca35ce98dab32":[8,0,0,0,1,3,4,1,0,1,5,16],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a131160f2bc14eeba884641435ee938ad":[8,0,0,0,1,3,4,1,0,1,5,12],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a1c068d4f23d35de4584c55a0c132507f":[8,0,0,0,1,3,4,1,0,1,5,2],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a1f19bfd1711ba15c931347a727666494":[8,0,0,0,1,3,4,1,0,1,5,13],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a242be75620bd0bd0e60cdbab63783504":[8,0,0,0,1,3,4,1,0,1,5,5],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a32b1c43a79a1e26ed0dda3c22bc5f78a":[8,0,0,0,1,3,4,1,0,1,5,18],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a45dc6fe8794afc630c1b1f81e7c85553":[8,0,0,0,1,3,4,1,0,1,5,11],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a5321ee0d2eb3d3822d1922c6cc50757e":[8,0,0,0,1,3,4,1,0,1,5,15],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a5a0d904d66dec096d1d013333b118f88":[8,0,0,0,1,3,4,1,0,1,5,20],
@@ -242,12 +249,5 @@ var NAVTREEINDEX338 =
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a6935410d7a4ce8e9dec9feed9f5351d7":[7,0,673,2],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2":[7,0,673,8],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a8b06ee0a3e22d495a41ccf4c7009ad2d":[7,0,673,4],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a9a7bcf641bae31827872faf7666635d5":[7,0,673,6],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#aa2ef03d73c43668c97205fa72414e71b":[7,0,673,9],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#ac71aa86c97fe11d934f09d62c4ed8eab":[7,0,673,12],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#acf122076823631cef5d66e03a9f607aa":[7,0,673,0],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#adf87bd797da345e49700265319d808cc":[7,0,673,10],
-"dc/dc0/structBattlegroundAVScore.html":[7,0,334],
-"dc/dc0/structBattlegroundAVScore.html#a09038f1133996849064da1b09983be82":[7,0,334,16],
-"dc/dc0/structBattlegroundAVScore.html#a13edee0d2da9b539eeab5d5d7a15dcc9":[7,0,334,6]
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a9a7bcf641bae31827872faf7666635d5":[7,0,673,6]
 };
