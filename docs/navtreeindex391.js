@@ -1,5 +1,17 @@
 var NAVTREEINDEX391 =
 {
+"de/d6c/classspell__item__death__choice.html#afc4741f952c253924de7397d991a24ac":[7,0,3399,3],
+"de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,17,19],
+"de/d6c/structlfg_1_1RBEntryInfo.html":[7,0,5,19],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[7,0,5,19,1],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,17,19,1],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,17,19,2],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[7,0,5,19,2],
+"de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[5,0,17,19,0],
+"de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[7,0,5,19,0],
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[7,0,5,19,3],
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,17,19,3],
+"de/d6c/structnpc__oathbound__warder.html":[7,0,2046],
 "de/d6c/structnpc__oathbound__warder.html#a2e97b16356a6aec04c7c0b1a2d872070":[7,0,2046,4],
 "de/d6c/structnpc__oathbound__warder.html#a62c4c568ad615013afa46c7da84d057a":[7,0,2046,2],
 "de/d6c/structnpc__oathbound__warder.html#af4e56bd77dc1c12e795736f117a9b7f1":[7,0,2046,0],
@@ -237,17 +249,5 @@ var NAVTREEINDEX391 =
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba8e634ce1df5dbacebbad5ae4761ed0df":[5,0,17,48,11],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18eba919251996a338f39e8b8995f87fec708":[5,0,17,48,13],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebab2e4b80c854ffcde7bb85704e00c2277":[5,0,17,48,2],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebac23d41aa09ce5a4a03773878cd6944ba":[5,0,17,48,9],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebace9b51caf6cdf6bac5c3e05cf4b36128":[5,0,17,48,14],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16":[5,0,17,48,0],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaeb66070b0c75cd964de435f081d09d92":[5,0,17,48,12],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaf8385ff3f88183a18aaefc2e5a0b8fd9":[5,0,17,48,1],
-"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebafb6393cedafe796373d7393975818abd":[5,0,17,48,4],
-"de/d72/namespacelfg.html#afd0c41953ace620938ac2509b7622b7e":[5,0,17,36],
-"de/d72/structnpc__minion__spawner.html":[7,0,2022],
-"de/d72/structnpc__minion__spawner.html#a007376c8f66a3963651f81ddd14cbbfc":[7,0,2022,1],
-"de/d72/structnpc__minion__spawner.html#a0b55c1648c37399ad99d340bdf20cb49":[7,0,2022,3],
-"de/d72/structnpc__minion__spawner.html#a1742c98edca62e3d80a32f33d6ed2f97":[7,0,2022,2],
-"de/d72/structnpc__minion__spawner.html#a24f93f1314bb73edb369e188eda83104":[7,0,2022,4],
-"de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[7,0,2022,0]
+"de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebac23d41aa09ce5a4a03773878cd6944ba":[5,0,17,48,9]
 };

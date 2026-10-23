@@ -1,6 +1,5 @@
 var NAVTREEINDEX57 =
 {
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a7ba8860dd59d25ccaf62bbbb7013b273":[8,0,0,0,1,2,8,1,1,10,10],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a8cd23628f5cb3d874e2b6799430ca4c5":[8,0,0,0,1,2,8,1,1,10,19],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a928f8a26d7ddcc2cec91cb204e743817":[8,0,0,0,1,2,8,1,1,10,24],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a9cde6affef60e332122963574c994230":[8,0,0,0,1,2,8,1,1,10,0],
@@ -75,11 +74,11 @@ var NAVTREEINDEX57 =
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338a70dc7021ef277eafceea927b23e73e4b":[8,0,0,0,1,2,8,1,1,11,6],
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338a82345118263a37caa33c0f0fa160ee58":[8,0,0,0,1,2,8,1,1,11,0],
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338adec8cd5886a496342cf2ade674f4edf6":[8,0,0,0,1,2,8,1,1,11,1],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html":[7,0,4464],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a27fdfe00e5201b6472a282f4589a66cc":[7,0,4464,3],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a35c1e8f81229565e5d333ec42aa2e92c":[7,0,4464,2],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a39510971a0e1dbd800efc37c2e09c74f":[7,0,4464,1],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a7dd5b6217db77373dfba5958a2376ff1":[7,0,4464,0],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html":[7,0,4465],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a27fdfe00e5201b6472a282f4589a66cc":[7,0,4465,3],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a35c1e8f81229565e5d333ec42aa2e92c":[7,0,4465,2],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a39510971a0e1dbd800efc37c2e09c74f":[7,0,4465,1],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a7dd5b6217db77373dfba5958a2376ff1":[7,0,4465,0],
 "d2/d38/northrend__script__loader_8cpp.html":[8,0,0,0,1,3,5,14],
 "d2/d38/northrend__script__loader_8cpp.html#a00fbd7d9ffd951ce787d1233aa2c6d86":[8,0,0,0,1,3,5,14,65],
 "d2/d38/northrend__script__loader_8cpp.html#a01a1998120992ed059db815f85926ba6":[8,0,0,0,1,3,5,14,50],
@@ -249,5 +248,6 @@ var NAVTREEINDEX57 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2254,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2254,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[7,0,992,2],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,1],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,0]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX269 =
 {
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6b0ccd5195567a4744da1763b92159e3":[8,0,0,0,1,2,41,0,0,6,201],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c38d7d76b8741d45023a0ccc3c0f9b3":[8,0,0,0,1,2,41,0,0,6,25],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c684b941fc93d5488ff49a976973596":[8,0,0,0,1,2,41,0,0,6,27],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6ce8ab254d7a5e7caa05e4c53549a117":[8,0,0,0,1,2,41,0,0,6,72],
@@ -205,10 +204,10 @@ var NAVTREEINDEX269 =
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2":[8,0,0,0,1,2,41,0,0,4],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a51cd79314936d46d8bc738a8c1207ab4":[8,0,0,0,1,2,41,0,0,4,1],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a9db32fb1dd13d77afd835d5bb6f5d379":[8,0,0,0,1,2,41,0,0,4,0],
-"da/d2d/structTSPosition.html":[7,0,4628],
-"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[7,0,4628,1],
-"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[7,0,4628,2],
-"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[7,0,4628,0],
+"da/d2d/structTSPosition.html":[7,0,4629],
+"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[7,0,4629,1],
+"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[7,0,4629,2],
+"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[7,0,4629,0],
 "da/d2e/classnpc__varian__wrynn.html":[7,0,2305],
 "da/d2e/classnpc__varian__wrynn.html#a1dd8e4664da693f3e4ecdd4581b96c87":[7,0,2305,1],
 "da/d2e/classnpc__varian__wrynn.html#a65d02bafebe9c5a45d707f8990d680a3":[7,0,2305,4],
@@ -234,10 +233,10 @@ var NAVTREEINDEX269 =
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ace9e901a965665e0f97cb9646af308aa":[7,0,1975,0,8],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad4c6cb31a8d3dc280e689d5d29e27479":[7,0,1975,0,4],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad6eefe9a14ce64b12b65a22c3ebb4db0":[7,0,1975,0,0],
-"da/d2f/classspell__spell__fury__aura.html":[7,0,4201],
-"da/d2f/classspell__spell__fury__aura.html#a236892b4fd6cf081a907becab6187069":[7,0,4201,1],
-"da/d2f/classspell__spell__fury__aura.html#a53fceaa5187f6dbc93f4d0d589086ca9":[7,0,4201,0],
-"da/d2f/classspell__spell__fury__aura.html#aa37819b82692df8a21cbbda8833ad492":[7,0,4201,2],
+"da/d2f/classspell__spell__fury__aura.html":[7,0,4202],
+"da/d2f/classspell__spell__fury__aura.html#a236892b4fd6cf081a907becab6187069":[7,0,4202,1],
+"da/d2f/classspell__spell__fury__aura.html#a53fceaa5187f6dbc93f4d0d589086ca9":[7,0,4202,0],
+"da/d2f/classspell__spell__fury__aura.html#aa37819b82692df8a21cbbda8833ad492":[7,0,4202,2],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html":[7,0,1942,0],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a0729c584c3b65e5f25f4445de378f0ea":[7,0,1942,0,1],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a0a8159a84689dbfd8c69ed523ce03817":[7,0,1942,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX269 =
 "da/d32/classBattlegroundRL.html":[7,0,351],
 "da/d32/classBattlegroundRL.html#a2d03a49dee964bcaa3421a93d0735e63":[7,0,351,3],
 "da/d32/classBattlegroundRL.html#a3393353028ffd35eaad1d5e121654366":[7,0,351,4],
-"da/d32/classBattlegroundRL.html#a410a5dbfa6fccbe802058d60eb7393d9":[7,0,351,1]
+"da/d32/classBattlegroundRL.html#a410a5dbfa6fccbe802058d60eb7393d9":[7,0,351,1],
+"da/d32/classBattlegroundRL.html#aae633887d9689898c8b73efa8257eb34":[7,0,351,5]
 };

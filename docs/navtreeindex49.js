@@ -1,6 +1,5 @@
 var NAVTREEINDEX49 =
 {
-"d1/de2/boss__nethermancer__sepethrea_8cpp.html":[8,0,0,0,1,3,7,5,3,3],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,5,3,3,3],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,5,3,3,3,4],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,5,3,3,3,0],
@@ -19,10 +18,10 @@ var NAVTREEINDEX49 =
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cae759958cda5fba0a9771859e71a447a5":[8,0,0,0,1,3,7,5,3,3,4,9],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298caef3e4861ce90f1b77eab500dddb31880":[8,0,0,0,1,3,7,5,3,3,4,8],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803":[8,0,0,0,1,3,7,5,3,3,4,3],
-"d1/de2/classspell__magtheridon__blaze.html":[7,0,3664],
-"d1/de2/classspell__magtheridon__blaze.html#a287bff28e57a86f0176921500de78fa9":[7,0,3664,1],
-"d1/de2/classspell__magtheridon__blaze.html#ad5fb101794dfdef0c08551dd9397b965":[7,0,3664,2],
-"d1/de2/classspell__magtheridon__blaze.html#af0841e5c67c981b792a8d8f0d0d18edc":[7,0,3664,0],
+"d1/de2/classspell__magtheridon__blaze.html":[7,0,3665],
+"d1/de2/classspell__magtheridon__blaze.html#a287bff28e57a86f0176921500de78fa9":[7,0,3665,1],
+"d1/de2/classspell__magtheridon__blaze.html#ad5fb101794dfdef0c08551dd9397b965":[7,0,3665,2],
+"d1/de2/classspell__magtheridon__blaze.html#af0841e5c67c981b792a8d8f0d0d18edc":[7,0,3665,0],
 "d1/de2/structSelectableAI.html":[7,0,2590],
 "d1/de2/structSelectableAI.html#af34ed4ae0c831a3dd41585704488528f":[7,0,2590,0],
 "d1/de4/SteadyTimer_8h.html":[8,0,0,0,0,0,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX49 =
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a3405b52166828001c0c08676dc52ad43":[8,0,0,0,1,3,9,2,217,2],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a3907a8a4c7950b4026b2fec8d3007124":[8,0,0,0,1,3,9,2,217,28],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a396067ff6653ac52a030e048318c8cf6":[8,0,0,0,1,3,9,2,217,6],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a39afca370763492ab92fac4b7630613a":[8,0,0,0,1,3,9,2,217,24]
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a39afca370763492ab92fac4b7630613a":[8,0,0,0,1,3,9,2,217,24],
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a3ff873de1bdf6f5e755a6ae9f44d7823":[8,0,0,0,1,3,9,2,217,23]
 };

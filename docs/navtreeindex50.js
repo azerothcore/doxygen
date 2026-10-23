@@ -1,6 +1,5 @@
 var NAVTREEINDEX50 =
 {
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a3ff873de1bdf6f5e755a6ae9f44d7823":[8,0,0,0,1,3,9,2,217,23],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a52d3380863feee5dfbaa9ad0f2517263":[8,0,0,0,1,3,9,2,217,4],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a57d232d23503b0bfc3d42a6116398ea1":[8,0,0,0,1,3,9,2,217,5],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a62df923649cc0dd38690e2a91e9db2ab":[8,0,0,0,1,3,9,2,217,34],
@@ -155,10 +154,10 @@ var NAVTREEINDEX50 =
 "d1/de9/classspell__garfrost__permafrost.html#a893e0eb620e19909b2f2a715ea946f6b":[7,0,3016,2],
 "d1/de9/classspell__garfrost__permafrost.html#a962651920a94190f4864a3b1c7fcd1d3":[7,0,3016,3],
 "d1/de9/classspell__garfrost__permafrost.html#aefebf504286394cf3caffa566543e4a4":[7,0,3016,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html":[7,0,4369],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[7,0,4369,1],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[7,0,4369,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[7,0,4369,2],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html":[7,0,4370],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[7,0,4370,1],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[7,0,4370,0],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[7,0,4370,2],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html":[7,0,2106,0],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a21ea8c66374403d0eca83e4d24c80a7a":[7,0,2106,0,4],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a317d48c75a93ef5abaa3329ab10a1c8e":[7,0,2106,0,5],
@@ -168,11 +167,11 @@ var NAVTREEINDEX50 =
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a8f8bbb06c50215c90cf11ddbc925ba5d":[7,0,2106,0,2],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#ac0d1550855988fe6f562e8a0a6ada80f":[7,0,2106,0,1],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#ac81d85e0ceb0b571373f44475baa36df":[7,0,2106,0,6],
-"d1/dea/classspell__mimiron__summon__rocket__strike.html":[7,0,3708],
-"d1/dea/classspell__mimiron__summon__rocket__strike.html#a3813bf7e198f5f3c146b4639fa83a067":[7,0,3708,2],
-"d1/dea/classspell__mimiron__summon__rocket__strike.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b":[7,0,3708,3],
-"d1/dea/classspell__mimiron__summon__rocket__strike.html#a57fcc7a0e078c344e50863ba1951f244":[7,0,3708,1],
-"d1/dea/classspell__mimiron__summon__rocket__strike.html#afae92a0d4e41fc2fd00b1fd0b6b11a22":[7,0,3708,0],
+"d1/dea/classspell__mimiron__summon__rocket__strike.html":[7,0,3709],
+"d1/dea/classspell__mimiron__summon__rocket__strike.html#a3813bf7e198f5f3c146b4639fa83a067":[7,0,3709,2],
+"d1/dea/classspell__mimiron__summon__rocket__strike.html#a4d49ebdf1dab3b4952e4f4c7c50ca16b":[7,0,3709,3],
+"d1/dea/classspell__mimiron__summon__rocket__strike.html#a57fcc7a0e078c344e50863ba1951f244":[7,0,3709,1],
+"d1/dea/classspell__mimiron__summon__rocket__strike.html#afae92a0d4e41fc2fd00b1fd0b6b11a22":[7,0,3709,0],
 "d1/dea/structScalingStatDistributionEntry.html":[7,0,2576],
 "d1/dea/structScalingStatDistributionEntry.html#a0392e52a26bb4e1d1927fa7f76c674b8":[7,0,2576,1],
 "d1/dea/structScalingStatDistributionEntry.html#a5ce5b18749d3c75878b310bdc8427b1f":[7,0,2576,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX50 =
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a55e78ac91cf6073192594758e447cb19":[7,0,1340,0,11],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a5a16e7c47b42d1f8da9dde7b14f5c513":[7,0,1340,0,12],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a5b0977c0b20d6302ce6c5f8a14e78e90":[7,0,1340,0,2],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a7f9d7f14c3223fa7bf7b7999d1f41105":[7,0,1340,0,8]
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a7f9d7f14c3223fa7bf7b7999d1f41105":[7,0,1340,0,8],
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a93e7b63eae8d1e21b7e5c57fa370e801":[7,0,1340,0,6]
 };

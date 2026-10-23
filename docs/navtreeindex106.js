@@ -1,6 +1,5 @@
 var NAVTREEINDEX106 =
 {
-"d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html":[7,0,1350,0],
 "d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a0639fcd867616d1f04aacde44020bb30":[7,0,1350,0,2],
 "d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a115a36ec26e15e23be4d78250d86d814":[7,0,1350,0,1],
 "d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#a7a38526ca7b9a7c7c04231f8f8efd2f7":[7,0,1350,0,3],
@@ -246,8 +245,9 @@ var NAVTREEINDEX106 =
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[7,0,13,1,1,2],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[5,0,34,1,1,3],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[7,0,13,1,1,3],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[5,0,34,1,1,1],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[7,0,13,1,1,1],
-"d3/d88/structTotemCategoryEntry.html":[7,0,4605],
-"d3/d88/structTotemCategoryEntry.html#a2e0f0cb7a05da77dee49bd7221c01d60":[7,0,4605,2]
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[5,0,34,1,1,1],
+"d3/d88/structTotemCategoryEntry.html":[7,0,4606],
+"d3/d88/structTotemCategoryEntry.html#a2e0f0cb7a05da77dee49bd7221c01d60":[7,0,4606,2],
+"d3/d88/structTotemCategoryEntry.html#a954f9fca8d0d84d5aec66f4a3f642f96":[7,0,4606,1]
 };

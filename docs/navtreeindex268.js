@@ -1,6 +1,5 @@
 var NAVTREEINDEX268 =
 {
-"da/d20/instance__zulaman_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,2,14,6,6],
 "da/d20/instance__zulaman_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,2,14,6,7],
 "da/d20/instance__zulaman_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,2,14,6,5],
 "da/d20/instance__zulaman_8cpp.html#aaeb3edf8a24b61b22bb42d4c403c2847":[8,0,0,0,1,3,2,14,6,10],
@@ -14,11 +13,11 @@ var NAVTREEINDEX268 =
 "da/d21/RealmList_8cpp.html":[8,0,0,0,1,4,3,2],
 "da/d21/classInvalidAppenderArgsException.html":[7,0,1412],
 "da/d21/classInvalidAppenderArgsException.html#a5cfc42ea2456b9c7d60f06a1d469f1ae":[7,0,1412,0],
-"da/d21/classspell__krystallus__shatter.html":[7,0,3592],
-"da/d21/classspell__krystallus__shatter.html#a0932ccc5652bc4901aacbe2cf8d6c7d8":[7,0,3592,3],
-"da/d21/classspell__krystallus__shatter.html#a34337690029eedb60a17572dbbf1e1f9":[7,0,3592,1],
-"da/d21/classspell__krystallus__shatter.html#a5d778f906e1ee820cc97b0b32839cc78":[7,0,3592,0],
-"da/d21/classspell__krystallus__shatter.html#ad554d79e1a98490085b22f5038d058da":[7,0,3592,2],
+"da/d21/classspell__krystallus__shatter.html":[7,0,3593],
+"da/d21/classspell__krystallus__shatter.html#a0932ccc5652bc4901aacbe2cf8d6c7d8":[7,0,3593,3],
+"da/d21/classspell__krystallus__shatter.html#a34337690029eedb60a17572dbbf1e1f9":[7,0,3593,1],
+"da/d21/classspell__krystallus__shatter.html#a5d778f906e1ee820cc97b0b32839cc78":[7,0,3593,0],
+"da/d21/classspell__krystallus__shatter.html#ad554d79e1a98490085b22f5038d058da":[7,0,3593,2],
 "da/d21/structnpc__giant__claw__tentacle.html":[7,0,1862],
 "da/d21/structnpc__giant__claw__tentacle.html#a175bd11b9d5651d44cc0dd213b2c4ef5":[7,0,1862,9],
 "da/d21/structnpc__giant__claw__tentacle.html#a62be930ba345b1d2e0df832e72570752":[7,0,1862,8],
@@ -54,11 +53,11 @@ var NAVTREEINDEX268 =
 "da/d25/structnpc__obsidian__destroyer.html#abd8b1614a9da9fbe9c9898246b0822b8":[7,0,2047,0],
 "da/d25/structnpc__obsidian__destroyer.html#adc54ac02383f5e5bf6af980f5ba301e8":[7,0,2047,1],
 "da/d26/TotemAI_8cpp.html":[8,0,0,0,1,2,3,0,12],
-"da/d26/classspell__pal__improved__lay__of__hands.html":[7,0,3794],
-"da/d26/classspell__pal__improved__lay__of__hands.html#a588226cc60a7ff0f8a05e8ec34c855e5":[7,0,3794,2],
-"da/d26/classspell__pal__improved__lay__of__hands.html#a9601839ce1fff4e1be66f435a78693ac":[7,0,3794,0],
-"da/d26/classspell__pal__improved__lay__of__hands.html#ae7b3804ed0fe40c85d245e2762fd8181":[7,0,3794,1],
-"da/d26/classspell__pal__improved__lay__of__hands.html#aea68ea2da0853d72d94a19b98db9375f":[7,0,3794,3],
+"da/d26/classspell__pal__improved__lay__of__hands.html":[7,0,3795],
+"da/d26/classspell__pal__improved__lay__of__hands.html#a588226cc60a7ff0f8a05e8ec34c855e5":[7,0,3795,2],
+"da/d26/classspell__pal__improved__lay__of__hands.html#a9601839ce1fff4e1be66f435a78693ac":[7,0,3795,0],
+"da/d26/classspell__pal__improved__lay__of__hands.html#ae7b3804ed0fe40c85d245e2762fd8181":[7,0,3795,1],
+"da/d26/classspell__pal__improved__lay__of__hands.html#aea68ea2da0853d72d94a19b98db9375f":[7,0,3795,3],
 "da/d27/structAuctionSearcherRequest.html":[7,0,281],
 "da/d27/structAuctionSearcherRequest.html#a1847f75715da2de1098d0f767163f62d":[7,0,281,3],
 "da/d27/structAuctionSearcherRequest.html#a8122177f0ca9b5c2393e87998a15e950":[7,0,281,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX268 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a68aa3ccb3306f28df5cab299ef7c2e48":[8,0,0,0,1,2,41,0,0,6,195],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a68f64263ab9715e5f33284b9992e8916":[8,0,0,0,1,2,41,0,0,6,49],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a69829b5093944e4f9eab44cc3f4db203":[8,0,0,0,1,2,41,0,0,6,156],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6a5808394c990e4ab270f17bc9415b16":[8,0,0,0,1,2,41,0,0,6,58]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6a5808394c990e4ab270f17bc9415b16":[8,0,0,0,1,2,41,0,0,6,58],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6b0ccd5195567a4744da1763b92159e3":[8,0,0,0,1,2,41,0,0,6,201]
 };

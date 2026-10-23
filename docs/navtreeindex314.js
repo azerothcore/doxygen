@@ -1,5 +1,10 @@
 var NAVTREEINDEX314 =
 {
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a34a0a856a4a4c05954ba300d8031e374":[7,0,1702,0,4],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a369a837b6fa57d0960f24d9ea629ed04":[7,0,1702,0,8],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a446dc0b76eb3549b0e86b02e541f6296":[7,0,1702,0,3],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a563cd394d72a900d735f8639074deae1":[7,0,1702,0,0],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a6fe7e49f2077ed549a6406592aec345e":[7,0,1702,0,5],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a79b7fbee1492860fe64d42928e494e3d":[7,0,1702,0,7],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a8ca070c63dd48e22823ac26d11da75be":[7,0,1702,0,6],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a92d7543e31c5cb367379711cb767ebd6":[7,0,1702,0,13],
@@ -141,10 +146,10 @@ var NAVTREEINDEX314 =
 "db/dd7/classinstance__halls__of__reflection.html#aea464174de65d57e6b7d6d958404eb4f":[7,0,1348,9],
 "db/dd7/classinstance__halls__of__reflection.html#af8dd9fd8a8ab76ae4f3c8c10b9186962":[7,0,1348,25],
 "db/dd7/classinstance__halls__of__reflection.html#aff25146fb4e9d3dacc20a44ceabf187a":[7,0,1348,12],
-"db/dd7/classspell__q12058__the__runic__prophecies.html":[7,0,3950],
-"db/dd7/classspell__q12058__the__runic__prophecies.html#a0d6a2eda99d95b1ee3403d8c63415800":[7,0,3950,0],
-"db/dd7/classspell__q12058__the__runic__prophecies.html#a68920ab07d955763e8a627e6cb35638c":[7,0,3950,1],
-"db/dd7/classspell__q12058__the__runic__prophecies.html#a918cf6968f6eec5a4025324bd7f78747":[7,0,3950,2],
+"db/dd7/classspell__q12058__the__runic__prophecies.html":[7,0,3951],
+"db/dd7/classspell__q12058__the__runic__prophecies.html#a0d6a2eda99d95b1ee3403d8c63415800":[7,0,3951,0],
+"db/dd7/classspell__q12058__the__runic__prophecies.html#a68920ab07d955763e8a627e6cb35638c":[7,0,3951,1],
+"db/dd7/classspell__q12058__the__runic__prophecies.html#a918cf6968f6eec5a4025324bd7f78747":[7,0,3951,2],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html":[8,0,0,0,1,3,2,30],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a1d294b096caaa09ee5a83116661addf0":[8,0,0,0,1,3,2,30,50],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a1e8eb132ddeee98b584395e0a134c9e4":[8,0,0,0,1,3,2,30,38],
@@ -244,10 +249,5 @@ var NAVTREEINDEX314 =
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a53efc1ffb24449425ecfd7f2c978d610a9e2e8cb96d69b1ed0ed95be65a907ac8":[8,0,0,0,1,3,2,30,36,2],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a57f4f429a1e3511b8e45bcc188ccad8d":[8,0,0,0,1,3,2,30,22],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a57f4f429a1e3511b8e45bcc188ccad8da622f41d2bbec25f8b56efa3e9c2f568a":[8,0,0,0,1,3,2,30,22,1],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a57f4f429a1e3511b8e45bcc188ccad8dab11e2d6ac4076040d0ce18f8be9ab8bc":[8,0,0,0,1,3,2,30,22,0],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908":[8,0,0,0,1,3,2,30,30],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908a15fc5a42bc30729027a7628d4312a681":[8,0,0,0,1,3,2,30,30,8],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908a2dd60f54b222e510c953ef594e2cc7b0":[8,0,0,0,1,3,2,30,30,0],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908a6fac05e0bd352ce10cb69112a7fd8e66":[8,0,0,0,1,3,2,30,30,4],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a6a84f88c2e489b0f5fc4277ac8b67908abbf3d7d52b8d46d378c21fe521fc986f":[8,0,0,0,1,3,2,30,30,9]
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a57f4f429a1e3511b8e45bcc188ccad8dab11e2d6ac4076040d0ce18f8be9ab8bc":[8,0,0,0,1,3,2,30,22,0]
 };

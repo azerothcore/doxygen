@@ -169,6 +169,7 @@ var spell__item_8cpp =
     [ "spell_item_purified_shard_of_the_scale", "d6/d90/classspell__item__purified__shard__of__the__scale.html", "d6/d90/classspell__item__purified__shard__of__the__scale" ],
     [ "spell_item_shiny_shard_of_the_scale", "de/ddc/classspell__item__shiny__shard__of__the__scale.html", "de/ddc/classspell__item__shiny__shard__of__the__scale" ],
     [ "spell_item_living_root_of_the_wildheart", "d3/da8/classspell__item__living__root__of__the__wildheart.html", "d3/da8/classspell__item__living__root__of__the__wildheart" ],
+    [ "spell_item_meteoric_inspiration", "dc/da9/classspell__item__meteoric__inspiration.html", "dc/da9/classspell__item__meteoric__inspiration" ],
     [ "spell_item_lightning_capacitor", "db/d6e/spell__item_8cpp.html#a2fce9bb038a3cbcdbfdb977c0287801c", null ],
     [ "spell_item_thunder_capacitor", "db/d6e/spell__item_8cpp.html#aae0574cb7ab1b0e420c89433b545f752", null ],
     [ "spell_item_toc25_caster_trinket_heroic", "db/d6e/spell__item_8cpp.html#a9206680d9ac44d81dddcca671878b21e", null ],
@@ -480,6 +481,13 @@ var spell__item_8cpp =
     ] ],
     [ "MercurialShield", "db/d6e/spell__item_8cpp.html#a8813a65967ea52c62eac03888ede93ea", [
       [ "SPELL_MERCURIAL_SHIELD", "db/d6e/spell__item_8cpp.html#a8813a65967ea52c62eac03888ede93eaace3f0b910cb7e9fe1967bcba0150bd38", null ]
+    ] ],
+    [ "MeteoricInspiration", "db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89e", [
+      [ "SPELL_PENANCE_R1_HEAL_CHANNEL", "db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89eadb82e7630bb089f2992027488732858a", null ],
+      [ "SPELL_PENANCE_R1_DAMAGE_CHANNEL", "db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea35e02b2eaa76853ddc53c445958a2a32", null ],
+      [ "SPELL_BEACON_OF_LIGHT_HOLY_LIGHT", "db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea89811b7d04b0b5373cfaf84f804d6601", null ],
+      [ "SPELL_BEACON_OF_LIGHT_FLASH_OF_LIGHT", "db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea75762c3ba54c39de7c655895b112f631", null ],
+      [ "SPELL_BEACON_OF_LIGHT_HOLY_SHOCK", "db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ead9ef96ad36997770acd6a4115b2be49e", null ]
     ] ],
     [ "MingoFortune", "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391f", [
       [ "SPELL_CREATE_FORTUNE_1", "db/d6e/spell__item_8cpp.html#a5f58eb9365f27f346456a35629d4391fabceccb49ff4daee294ff5bf682e8e5a7", null ],

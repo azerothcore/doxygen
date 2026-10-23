@@ -1,6 +1,5 @@
 var NAVTREEINDEX179 =
 {
-"d6/d38/classChatHandler.html#aae585fad45749fd46fa28d36fdad9760":[7,0,894,2],
 "d6/d38/classChatHandler.html#ab1fd0ff3281702b870de2aac859e9ace":[7,0,894,21],
 "d6/d38/classChatHandler.html#ab2e685f37d4f0f3b763a6323cce7af25":[7,0,894,46],
 "d6/d38/classChatHandler.html#ab3052a0f476232a6d1e1e01264d5c985":[7,0,894,59],
@@ -187,10 +186,10 @@ var NAVTREEINDEX179 =
 "d6/d39/classWorld.html#afa39d4e6f714a7a3691ac0c656f5e8a8":[4,2,12,0],
 "d6/d39/classWorld.html#afcff4834a924e6d6ec051052b707acc7":[4,2,12,91],
 "d6/d39/classWorld.html#afef544af0f989b2d3ea975f22d02fb46":[4,2,12,62],
-"d6/d39/classspell__karathress__power__of__caribdis.html":[7,0,3562],
-"d6/d39/classspell__karathress__power__of__caribdis.html#a4d3d6350a06b6c7382792670c04e38e1":[7,0,3562,0],
-"d6/d39/classspell__karathress__power__of__caribdis.html#aa6aa32b3adc89ac405f071fa9b804778":[7,0,3562,2],
-"d6/d39/classspell__karathress__power__of__caribdis.html#ac9231c238adf7e733d55bc6098daddc0":[7,0,3562,1],
+"d6/d39/classspell__karathress__power__of__caribdis.html":[7,0,3563],
+"d6/d39/classspell__karathress__power__of__caribdis.html#a4d3d6350a06b6c7382792670c04e38e1":[7,0,3563,0],
+"d6/d39/classspell__karathress__power__of__caribdis.html#aa6aa32b3adc89ac405f071fa9b804778":[7,0,3563,2],
+"d6/d39/classspell__karathress__power__of__caribdis.html#ac9231c238adf7e733d55bc6098daddc0":[7,0,3563,1],
 "d6/d3a/cs__bag_8cpp.html":[8,0,0,0,1,3,0,4],
 "d6/d3a/cs__bag_8cpp.html#a8fa1e803122341d611168b2b62fde4e5":[8,0,0,0,1,3,0,4,1],
 "d6/d3a/cs__bag_8cpp.html#af266597924b9d3f439ffc9908001d2cb":[8,0,0,0,1,3,0,4,2],
@@ -242,12 +241,13 @@ var NAVTREEINDEX179 =
 "d6/d3d/structnpc__terenas__menethil_1_1npc__terenas__menethilAI.html#ada5313b34e8c20c82ac97396e54e27df":[7,0,2219,0,4],
 "d6/d3d/structnpc__terenas__menethil_1_1npc__terenas__menethilAI.html#ae61e4919b99a2b9195a389992947a125":[7,0,2219,0,6],
 "d6/d3d/structnpc__terenas__menethil_1_1npc__terenas__menethilAI.html#ae62a6f965ffb11d633190f1ca4122bc9":[7,0,2219,0,2],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html":[7,0,4695],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8":[7,0,4695,29],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1bd7efd399a13fe679c76a8f3c2e59ee":[7,0,4695,11],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb":[7,0,4695,26],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6":[7,0,4695,23],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2433bd1daa89ffe7db890a980e08f7c0":[7,0,4695,3],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2624db9623fbe5cd6a5991d502b429bc":[7,0,4695,15],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a3647a0939dc194bcb19df468b27bc531":[7,0,4695,12]
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html":[7,0,4696],
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8":[7,0,4696,29],
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1bd7efd399a13fe679c76a8f3c2e59ee":[7,0,4696,11],
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb":[7,0,4696,26],
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6":[7,0,4696,23],
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2433bd1daa89ffe7db890a980e08f7c0":[7,0,4696,3],
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2624db9623fbe5cd6a5991d502b429bc":[7,0,4696,15],
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a3647a0939dc194bcb19df468b27bc531":[7,0,4696,12],
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a36b49616bca7be96ba1a8b60fe38ef79":[7,0,4696,9]
 };

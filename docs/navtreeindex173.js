@@ -1,6 +1,5 @@
 var NAVTREEINDEX173 =
 {
-"d6/d09/classSpawnedPoolData.html#ad5d5817bef9c042b31c27481945a1341":[7,0,2642,2],
 "d6/d09/classSpawnedPoolData.html#adcbf6eb50f94cdf3b6589f361aba5528":[7,0,2642,4],
 "d6/d09/classSpawnedPoolData.html#adcbf6eb50f94cdf3b6589f361aba5528":[7,0,2642,3],
 "d6/d09/classSpawnedPoolData.html#ae5f43c9ac2b0e896d2866a06a2e11188":[7,0,2642,17],
@@ -83,10 +82,10 @@ var NAVTREEINDEX173 =
 "d6/d0c/classspell__gen__turkey__marker.html#ab1dc8acb8072f70625375480742fee5e":[7,0,3171,1],
 "d6/d0c/classspell__gen__turkey__marker.html#ac2f2c8359487ad8c619e9faf8535b927":[7,0,3171,3],
 "d6/d0c/classspell__gen__turkey__marker.html#ac8d762bdb40366c93602497e9aaa42eb":[7,0,3171,6],
-"d6/d0c/classspell__krystallus__shatter__effect.html":[7,0,3593],
-"d6/d0c/classspell__krystallus__shatter__effect.html#a02851f0b94687512a8e016bfb9b826e3":[7,0,3593,2],
-"d6/d0c/classspell__krystallus__shatter__effect.html#a3b9afc712f9091273e9abc5079a90eb8":[7,0,3593,0],
-"d6/d0c/classspell__krystallus__shatter__effect.html#a59e56fb107cca4952c5e94ed371f73dd":[7,0,3593,1],
+"d6/d0c/classspell__krystallus__shatter__effect.html":[7,0,3594],
+"d6/d0c/classspell__krystallus__shatter__effect.html#a02851f0b94687512a8e016bfb9b826e3":[7,0,3594,2],
+"d6/d0c/classspell__krystallus__shatter__effect.html#a3b9afc712f9091273e9abc5079a90eb8":[7,0,3594,0],
+"d6/d0c/classspell__krystallus__shatter__effect.html#a59e56fb107cca4952c5e94ed371f73dd":[7,0,3594,1],
 "d6/d0c/go__scripts_8cpp.html":[8,0,0,0,1,3,10,5],
 "d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5":[8,0,0,0,1,3,10,5,59],
 "d6/d0c/go__scripts_8cpp.html#a07b88edc032123dd2823904f2f4bbcb5a2264c8049d9b0b5f54a70ee31c0d4c50":[8,0,0,0,1,3,10,5,59,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX173 =
 "d6/d0f/classspell__dk__anti__magic__zone.html#a818875a8073491eab2508182bd941e25":[7,0,2822,3],
 "d6/d0f/classspell__dk__anti__magic__zone.html#a99db0d1254ddcfa9e7afb241e73b3235":[7,0,2822,0],
 "d6/d0f/classspell__dk__anti__magic__zone.html#ac51bad58076a6dfa520fd3e9ea0c76b5":[7,0,2822,6],
-"d6/d0f/classspell__warr__rend.html":[7,0,4407]
+"d6/d0f/classspell__warr__rend.html":[7,0,4408],
+"d6/d0f/classspell__warr__rend.html#a845476e27b3751fd5aab505d41d8696d":[7,0,4408,1]
 };

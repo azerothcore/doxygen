@@ -399,6 +399,7 @@ var hierarchy =
         [ "spell_item_living_root_of_the_wildheart", "d3/da8/classspell__item__living__root__of__the__wildheart.html", null ],
         [ "spell_item_mana_drain", "d0/d27/classspell__item__mana__drain.html", null ],
         [ "spell_item_mark_of_conquest", "d8/d25/classspell__item__mark__of__conquest.html", null ],
+        [ "spell_item_meteoric_inspiration", "dc/da9/classspell__item__meteoric__inspiration.html", null ],
         [ "spell_item_multiphase_goggles", "d1/db0/classspell__item__multiphase__goggles.html", null ],
         [ "spell_item_necrotic_touch", "d4/d89/classspell__item__necrotic__touch.html", null ],
         [ "spell_item_noblegarden_chocolate", "dc/d39/classspell__item__noblegarden__chocolate.html", null ],

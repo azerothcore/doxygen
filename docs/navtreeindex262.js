@@ -1,6 +1,5 @@
 var NAVTREEINDEX262 =
 {
-"d9/df5/classGmTicket.html#af9b97c103035b485ddabc9fad4640c29":[7,0,1150,8],
 "d9/df5/classGmTicket.html#afbe6f66ca913b9868f8352e50b58ccc7":[7,0,1150,12],
 "d9/df5/classGmTicket.html#afbfdb02ffda93c165327b736342e9c7e":[7,0,1150,33],
 "d9/df5/classspell__gen__elune__candle.html":[7,0,3078],
@@ -249,5 +248,6 @@ var NAVTREEINDEX262 =
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ad5c985923ec772e9f8e41e2ff4fd9528":[8,0,0,0,1,3,5,9,2,16,4,42],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ad8828c678b2dfc9e6712c730388aaa02":[8,0,0,0,1,3,5,9,2,16,4,36],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2adb6d9a228702f8d0092d5f8dbb1f408c":[8,0,0,0,1,3,5,9,2,16,4,41],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2add508baee533e776abf2689659a4bd32":[8,0,0,0,1,3,5,9,2,16,4,51]
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2add508baee533e776abf2689659a4bd32":[8,0,0,0,1,3,5,9,2,16,4,51],
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ae0766df35d88ed423327a55bb8f2451a":[8,0,0,0,1,3,5,9,2,16,4,73]
 };

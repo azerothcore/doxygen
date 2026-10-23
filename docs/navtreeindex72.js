@@ -1,6 +1,5 @@
 var NAVTREEINDEX72 =
 {
-"d2/d8e/structEmotesTextSoundEntry.html#a8427fb95e778194124143d276b527213":[7,0,1050,2],
 "d2/d8e/structEmotesTextSoundEntry.html#a8a45e92993f75f5d3b8e8fb045a294da":[7,0,1050,0],
 "d2/d8e/structboss__freya__summons.html":[7,0,501],
 "d2/d8e/structboss__freya__summons.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11":[7,0,501,3],
@@ -169,10 +168,10 @@ var NAVTREEINDEX72 =
 "d2/d93/classspell__item__healing__touch__refund.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528":[7,0,3443,0],
 "d2/d93/classspell__item__healing__touch__refund.html#a97c9a39b38c3cd74962a1cc7102cbe70":[7,0,3443,1],
 "d2/d93/classspell__item__healing__touch__refund.html#ab5ab7a31b40a88f147fae1e49bc4364e":[7,0,3443,3],
-"d2/d93/classspell__winter__wondervolt__trap.html":[7,0,4426],
-"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[7,0,4426,1],
-"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[7,0,4426,2],
-"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[7,0,4426,0],
+"d2/d93/classspell__winter__wondervolt__trap.html":[7,0,4427],
+"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[7,0,4427,1],
+"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[7,0,4427,2],
+"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[7,0,4427,0],
 "d2/d95/zone__crystalsong__forest_8cpp.html":[8,0,0,0,1,3,5,16],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,16,4],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[8,0,0,0,1,3,5,16,4,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX72 =
 "d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d":[8,0,0,0,1,2,38,0,50,1,1],
 "d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6":[8,0,0,0,1,2,38,0,50,1,0],
 "d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395":[8,0,0,0,1,2,38,0,50,1,3],
-"d2/d9a/classnpc__gothik__trigger.html":[7,0,1868]
+"d2/d9a/classnpc__gothik__trigger.html":[7,0,1868],
+"d2/d9a/classnpc__gothik__trigger.html#a6975122d49b0d76fb2b33b310a7ccb71":[7,0,1868,1]
 };

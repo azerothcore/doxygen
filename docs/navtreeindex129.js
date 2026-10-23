@@ -1,6 +1,5 @@
 var NAVTREEINDEX129 =
 {
-"d4/d3e/classBattlegroundSA.html#aee36aa1f5725287cab919507895b74a7":[7,0,353,4],
 "d4/d3e/classBattlegroundSA.html#af06acbefa6ef6a7f660d948554d114c0":[7,0,353,27],
 "d4/d3e/classBattlegroundSA.html#af1736c6ced8c35334fcd7d1660760d4c":[7,0,353,36],
 "d4/d3e/classBattlegroundSA.html#af610dac2f11a787570768e20065be923":[7,0,353,45],
@@ -60,10 +59,10 @@ var NAVTREEINDEX129 =
 "d4/d44/structboss__lady__vashj.html#ac577c4f0d0c3e9d1635a1ca9a0954095":[7,0,605,4],
 "d4/d44/structboss__lady__vashj.html#ad2d58872d657b3a81c6be0e69d8bff1f":[7,0,605,7],
 "d4/d44/structboss__lady__vashj.html#ad424f1c23cc893e7e48c3e854bf20936":[7,0,605,1],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[7,0,13,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,34,6,8],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[7,0,13,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[7,0,13,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,34,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[7,0,13,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[7,0,13,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,34,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[7,0,13,6,8,0],
@@ -82,12 +81,12 @@ var NAVTREEINDEX129 =
 "d4/d4a/classspell__dru__dash.html#a50d1284f1113bfdd0b39690efabe6b9b":[7,0,2906,2],
 "d4/d4a/classspell__dru__dash.html#a583e19667a83ada4cd793fbf391f9e93":[7,0,2906,0],
 "d4/d4a/classspell__dru__dash.html#ac6adda0dbe544cf2457060647c01de0f":[7,0,2906,1],
-"d4/d4b/classspell__sha__lightning__shield.html":[7,0,4137],
-"d4/d4b/classspell__sha__lightning__shield.html#a11d7fe14f7b3cca93578926f157ef0d5":[7,0,4137,0],
-"d4/d4b/classspell__sha__lightning__shield.html#a239b3daf5f03f5e5930c7b6712a63d8a":[7,0,4137,3],
-"d4/d4b/classspell__sha__lightning__shield.html#a8af3179c6688cfe0940bcd932f6766fa":[7,0,4137,2],
-"d4/d4b/classspell__sha__lightning__shield.html#a9919c0a8d284a36b3162ed435d2f7711":[7,0,4137,4],
-"d4/d4b/classspell__sha__lightning__shield.html#ac18d7286dd26ebbb868e01d17a412124":[7,0,4137,1],
+"d4/d4b/classspell__sha__lightning__shield.html":[7,0,4138],
+"d4/d4b/classspell__sha__lightning__shield.html#a11d7fe14f7b3cca93578926f157ef0d5":[7,0,4138,0],
+"d4/d4b/classspell__sha__lightning__shield.html#a239b3daf5f03f5e5930c7b6712a63d8a":[7,0,4138,3],
+"d4/d4b/classspell__sha__lightning__shield.html#a8af3179c6688cfe0940bcd932f6766fa":[7,0,4138,2],
+"d4/d4b/classspell__sha__lightning__shield.html#a9919c0a8d284a36b3162ed435d2f7711":[7,0,4138,4],
+"d4/d4b/classspell__sha__lightning__shield.html#ac18d7286dd26ebbb868e01d17a412124":[7,0,4138,1],
 "d4/d4b/structnpc__death__ravager_1_1npc__death__ravagerAI.html":[7,0,1787,0],
 "d4/d4b/structnpc__death__ravager_1_1npc__death__ravagerAI.html#ac0fdbfe2f324785569fa742e0b244b83":[7,0,1787,0,1],
 "d4/d4b/structnpc__death__ravager_1_1npc__death__ravagerAI.html#ac3dce7d79e67f20d7a8fe161da9d5279":[7,0,1787,0,2],
@@ -248,6 +247,7 @@ var NAVTREEINDEX129 =
 "d4/d52/classspell__item__eye__of__grillok__aura.html#a3fd2da3d7b1b8a78916515b7e3e188cf":[7,0,3422,1],
 "d4/d52/classspell__item__eye__of__grillok__aura.html#a62e5ab81f9548e4d983d0c4dde14eaad":[7,0,3422,2],
 "d4/d52/classspell__item__eye__of__grillok__aura.html#a889285ef034aaa7eaaa8e86fb5380cf0":[7,0,3422,0],
-"d4/d53/classspell__q10041__q10040__who__are__they.html":[7,0,3904],
-"d4/d53/classspell__q10041__q10040__who__are__they.html#a1b20a7fb4487876f305aa3a8d493ed17":[7,0,3904,0]
+"d4/d53/classspell__q10041__q10040__who__are__they.html":[7,0,3905],
+"d4/d53/classspell__q10041__q10040__who__are__they.html#a1b20a7fb4487876f305aa3a8d493ed17":[7,0,3905,0],
+"d4/d53/classspell__q10041__q10040__who__are__they.html#a36963610ad939ec36848ff70185f47a2":[7,0,3905,3]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX222 =
 {
-"d7/df1/UnitDefines_8h.html#aaaff909c1b98b597799809a880a5a442afb9ad4eb10498c4a1e8cad3425d65d0f":[8,0,0,0,1,2,16,10,6,12,2],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2":[8,0,0,0,1,2,16,10,6,5],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a1a30e0bc88915dbd96e58ef959cbb8b3":[8,0,0,0,1,2,16,10,6,5,9],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a1f8c0adcb3099c2e5cc6b69757fc37f0":[8,0,0,0,1,2,16,10,6,5,20],
@@ -249,5 +248,6 @@ var NAVTREEINDEX222 =
 "d7/df7/classspell__dk__aotd__taunt.html#a8f0e0b6363303def780d35415c88b4d6":[7,0,2823,2],
 "d7/df7/classspell__dk__aotd__taunt.html#a991a944f31680e4d53cc2a46d8c8b8bf":[7,0,2823,0],
 "d7/df7/classspell__dk__aotd__taunt.html#aea49df3f6b93223ed72c3a9875232b74":[7,0,2823,1],
-"d7/df8/Types_8h.html":[8,0,0,0,0,15,41]
+"d7/df8/Types_8h.html":[8,0,0,0,0,15,41],
+"d7/df8/Types_8h.html#a63263799191a40005e2214b3faf336d0":[8,0,0,0,0,15,41,4]
 };

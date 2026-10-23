@@ -1,6 +1,5 @@
 var NAVTREEINDEX281 =
 {
-"da/da3/classgroup__commandscript.html":[7,0,1267],
 "da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94":[7,0,1267,8],
 "da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[7,0,1267,6],
 "da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb":[7,0,1267,7],
@@ -195,11 +194,11 @@ var NAVTREEINDEX281 =
 "da/da9/classinstance__ruby__sanctum.html":[7,0,1370],
 "da/da9/classinstance__ruby__sanctum.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb":[7,0,1370,1],
 "da/da9/classinstance__ruby__sanctum.html#ad0329f328d4be2c475d8bcd5ccefd4e1":[7,0,1370,2],
-"da/da9/classspell__slippery__floor__periodic.html":[7,0,4193],
-"da/da9/classspell__slippery__floor__periodic.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2":[7,0,4193,3],
-"da/da9/classspell__slippery__floor__periodic.html#ab44aa98f47162b50f30622d67ac75395":[7,0,4193,1],
-"da/da9/classspell__slippery__floor__periodic.html#ad4c2bf1a8556b6fb85c05d3c83494fed":[7,0,4193,2],
-"da/da9/classspell__slippery__floor__periodic.html#ad5e905710a20436f120c979c865571c9":[7,0,4193,0],
+"da/da9/classspell__slippery__floor__periodic.html":[7,0,4194],
+"da/da9/classspell__slippery__floor__periodic.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2":[7,0,4194,3],
+"da/da9/classspell__slippery__floor__periodic.html#ab44aa98f47162b50f30622d67ac75395":[7,0,4194,1],
+"da/da9/classspell__slippery__floor__periodic.html#ad4c2bf1a8556b6fb85c05d3c83494fed":[7,0,4194,2],
+"da/da9/classspell__slippery__floor__periodic.html#ad5e905710a20436f120c979c865571c9":[7,0,4194,0],
 "da/daa/BattlegroundRV_8cpp.html":[8,0,0,0,1,2,8,1,16],
 "da/daa/BattlegroundRV_8cpp.html#a20f119684cfae65594c4cb1fc59e60c1":[8,0,0,0,1,2,8,1,16,1],
 "da/daa/BattlegroundRV_8cpp.html#a6ecc5972946e4de12babadf07ce85e2f":[8,0,0,0,1,2,8,1,16,3],
@@ -243,11 +242,12 @@ var NAVTREEINDEX281 =
 "da/dac/classspell__item__eggnog.html#a85dee311aab08d796a3a0c1bc9e9390d":[7,0,3417,1],
 "da/dac/classspell__item__eggnog.html#a98df659504307fc0666fe2b1001eaa00":[7,0,3417,3],
 "da/dac/classspell__item__eggnog.html#aad0be226a2d294d3361c1afbf644c5e4":[7,0,3417,0],
-"da/dac/classspell__q10923__evil__draws__near__summon.html":[7,0,3917],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#a0adf10b63735dbdf1cb3d49c73f7da1d":[7,0,3917,1],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[7,0,3917,0],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[7,0,3917,3],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[7,0,3917,2],
+"da/dac/classspell__q10923__evil__draws__near__summon.html":[7,0,3918],
+"da/dac/classspell__q10923__evil__draws__near__summon.html#a0adf10b63735dbdf1cb3d49c73f7da1d":[7,0,3918,1],
+"da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[7,0,3918,0],
+"da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[7,0,3918,3],
+"da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[7,0,3918,2],
 "da/dac/structAccountData.html":[4,1,10],
-"da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[4,1,10,2]
+"da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[4,1,10,2],
+"da/dac/structAccountData.html#a593303fb86ec3ac592ee933b8d057fe8":[4,1,10,0]
 };

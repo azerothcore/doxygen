@@ -1,5 +1,17 @@
 var NAVTREEINDEX421 =
 {
+"df/da7/classBattleground.html#a19ebb33fd7ed9c085e30257d88210a41":[7,0,330,188],
+"df/da7/classBattleground.html#a1b99a417cfae29f65279bf549fc19e3c":[7,0,330,223],
+"df/da7/classBattleground.html#a1bf891e4b87892f91cc50c682c0e0e60":[7,0,330,69],
+"df/da7/classBattleground.html#a1d17b3ef05753e1704566c225a71b6a5":[7,0,330,105],
+"df/da7/classBattleground.html#a1dca98fc0ee5571f2dcd73e0f5a4ea05":[7,0,330,90],
+"df/da7/classBattleground.html#a1ef95ebaace6f65e5d00b2257212f366":[7,0,330,150],
+"df/da7/classBattleground.html#a20439edb1d9a09cf7119a53f422a3902":[7,0,330,94],
+"df/da7/classBattleground.html#a24586375b2c9b3077a93df903900a03f":[7,0,330,121],
+"df/da7/classBattleground.html#a2808a911ce471c2c360699c8dd187317":[7,0,330,203],
+"df/da7/classBattleground.html#a28880ae21f1a5e399313a59fb7cde617":[7,0,330,159],
+"df/da7/classBattleground.html#a28fbb36887aa6d22c22d8486383d3ef9":[7,0,330,119],
+"df/da7/classBattleground.html#a2a10e1c738f24cb5d7354d398a60b34a":[7,0,330,30],
 "df/da7/classBattleground.html#a2a485e27a9bc9333b4ee8cdc03af1fa5":[7,0,330,180],
 "df/da7/classBattleground.html#a2a95a5fd228a54ee854d0e08218c8a4e":[7,0,330,161],
 "df/da7/classBattleground.html#a2bbc8ae075114a7dc4ea98de75519686":[7,0,330,61],
@@ -237,17 +249,5 @@ var NAVTREEINDEX421 =
 "df/da7/structboss__thorim__sif.html#a3da2809c4e7aa0c051647be354ade759":[7,0,757,1],
 "df/da7/structboss__thorim__sif.html#a3f747b6da8db72fd61c50a24096834c2":[7,0,757,5],
 "df/da7/structboss__thorim__sif.html#a5c1dfc697a84d4eb3ea6074514034343":[7,0,757,4],
-"df/da7/structboss__thorim__sif.html#a5d64d273a6aefdd9359b71963271b4ee":[7,0,757,8],
-"df/da7/structboss__thorim__sif.html#a6081345415b9ae3892d4f150a195908c":[7,0,757,7],
-"df/da7/structboss__thorim__sif.html#a61fec6c7b91d5f34339ebabd18b94e5d":[7,0,757,2],
-"df/da7/structboss__thorim__sif.html#a9762a5d386897bcd6d42b3c36d9fc18f":[7,0,757,0],
-"df/da7/structboss__thorim__sif.html#adbe7effa0bab5046f26f8d7df0f82a04":[7,0,757,6],
-"df/da8/MapCollisionData_8h.html":[8,0,0,0,1,2,26,6],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html":[7,0,2109,0],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a05cd30f0bf149d16c75ad3f717cb9dcc":[7,0,2109,0,2],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a06671144929a3783f17397b818016032":[7,0,2109,0,1],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a1fd3a4d7d16bb93be68d8b135546ab1e":[7,0,2109,0,6],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a4ac57f4ffe0886f463378b42525e2e4d":[7,0,2109,0,7],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a90dff89c652339ecf7479d2c9233962a":[7,0,2109,0,0],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a9ecb9771140d1248c08c56886c8d4ca9":[7,0,2109,0,4]
+"df/da7/structboss__thorim__sif.html#a5d64d273a6aefdd9359b71963271b4ee":[7,0,757,8]
 };

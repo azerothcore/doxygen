@@ -4024,6 +4024,7 @@ var annotated_dup =
     [ "spell_item_mark_of_conquest", "d8/d25/classspell__item__mark__of__conquest.html", "d8/d25/classspell__item__mark__of__conquest" ],
     [ "spell_item_massive_seaforium_charge", "da/dc7/classspell__item__massive__seaforium__charge.html", "da/dc7/classspell__item__massive__seaforium__charge" ],
     [ "spell_item_mercurial_shield", "d5/dd7/classspell__item__mercurial__shield.html", "d5/dd7/classspell__item__mercurial__shield" ],
+    [ "spell_item_meteoric_inspiration", "dc/da9/classspell__item__meteoric__inspiration.html", "dc/da9/classspell__item__meteoric__inspiration" ],
     [ "spell_item_mind_amplify_dish", "d4/d09/classspell__item__mind__amplify__dish.html", "d4/d09/classspell__item__mind__amplify__dish" ],
     [ "spell_item_mind_control_cap", "da/dcc/classspell__item__mind__control__cap.html", "da/dcc/classspell__item__mind__control__cap" ],
     [ "spell_item_mingos_fortune_generator", "df/dbf/classspell__item__mingos__fortune__generator.html", "df/dbf/classspell__item__mingos__fortune__generator" ],
