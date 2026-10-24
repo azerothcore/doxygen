@@ -1,5 +1,7 @@
 var NAVTREEINDEX231 =
 {
+"d8/d71/classspell__sindragosa__icy__grip.html#a7e6b56f426be7925255da3ebc239f909":[7,0,4181,1],
+"d8/d71/classspell__sindragosa__icy__grip.html#a86b4296eab73fc63b38558871f16a889":[7,0,4181,3],
 "d8/d72/classBattlegroundQueue.html":[7,0,350],
 "d8/d72/classBattlegroundQueue.html#a0c13aac123c7e10764784a314684aee3":[7,0,350,23],
 "d8/d72/classBattlegroundQueue.html#a1c0726698cae6065abc2e180d0d755fb":[7,0,350,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX231 =
 "d8/d74/classWorldSession.html#a4a31242ddb6263d37d582f0599d6dc6e":[4,1,20,401],
 "d8/d74/classWorldSession.html#a4a963a4d145c4fece3af8b36c33c8192":[4,1,20,625],
 "d8/d74/classWorldSession.html#a4b04caca561df7cc2e6bae3e3b94f0d0":[4,1,20,433],
-"d8/d74/classWorldSession.html#a4b36ea4d19b2a6c6a0e7f38c4dfc593b":[4,1,20,540],
-"d8/d74/classWorldSession.html#a4b6cec372c2091a946099ffa5bbfd106":[4,1,20,341],
-"d8/d74/classWorldSession.html#a4b7c8d6a45a475108622b0a8a1890f1d":[4,1,20,470]
+"d8/d74/classWorldSession.html#a4b36ea4d19b2a6c6a0e7f38c4dfc593b":[4,1,20,540]
 };

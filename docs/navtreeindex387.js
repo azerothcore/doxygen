@@ -1,5 +1,10 @@
 var NAVTREEINDEX387 =
 {
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aa942d8c8cde5ec6e9bcbbc76f62e6eab":[7,0,2228,0,5],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aabaab2a83d00264c500552c7463cd9bc":[7,0,2228,0,18],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aaf200bc2ab00524cd78d7cccc141d31d":[7,0,2228,0,20],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab724c7b0673ab8cd50def4a864545617":[7,0,2228,0,15],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab9058c31253d42457136ad4e7a92909c":[7,0,2228,0,13],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abde28867b6d1975032a73f4990d0a2b4":[7,0,2228,0,9],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#abe0cf3f5e154edd5b0005c62a70dfb06":[7,0,2228,0,23],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ac0d604a3db43172dcc8ae121fe3faa60":[7,0,2228,0,11],
@@ -244,10 +249,5 @@ var NAVTREEINDEX387 =
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html":[7,0,1644,0],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1644,0,4],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a2b553c29823e5ef888ee02a3ed413386":[7,0,1644,0,3],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a59ccca7093575f4bcac57a4751d977d4":[7,0,1644,0,0],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a9778a1648ca0007f7daf4ee98308d8d2":[7,0,1644,0,2],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#ac238214604720e298124b58c35d58e05":[7,0,1644,0,5],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#aec5788f0be3c1dcb63b3e61b50ae39c1":[7,0,1644,0,1],
-"de/d42/classspell__kiljaeden__shadow__spike__aura.html":[7,0,3581],
-"de/d42/classspell__kiljaeden__shadow__spike__aura.html#a7ac99d626990f068a00f403847bfa6bc":[7,0,3581,1]
+"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a59ccca7093575f4bcac57a4751d977d4":[7,0,1644,0,0]
 };

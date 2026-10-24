@@ -1,5 +1,11 @@
 var NAVTREEINDEX408 =
 {
+"df/d1d/classWorldDatabaseConnection.html#adaf49f7cb45d90cb041f979b1821e4a1":[7,0,4730,0],
+"df/d1d/classspell__soul__deflection.html":[7,0,4199],
+"df/d1d/classspell__soul__deflection.html#a163e0099271f21362deeb1ba1f169f3f":[7,0,4199,2],
+"df/d1d/classspell__soul__deflection.html#aa523e91e5aadb09b66ef2c74e3cbce9f":[7,0,4199,1],
+"df/d1d/classspell__soul__deflection.html#abdb889e4c6d19f756c143d7b36f82257":[7,0,4199,3],
+"df/d1d/classspell__soul__deflection.html#aeb5b70614b266bac0792906bf89a5b97":[7,0,4199,0],
 "df/d1d/structAuctionHousePlayerInfo.html":[7,0,273],
 "df/d1d/structAuctionHousePlayerInfo.html#a0a2be15a1a7c4d84fe53930c15571157":[7,0,273,4],
 "df/d1d/structAuctionHousePlayerInfo.html#a572c98b3437aff883f68d0eea4b26eb6":[7,0,273,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX408 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a41586ce4ac972c8badf015928dfd84c0":[8,0,0,0,1,2,16,5,0,4,6,42],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a42c340a1b77d8a9d208a0fcf249370bb":[8,0,0,0,1,2,16,5,0,4,6,279],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4300b4c04026380554f09e7de22940a3":[8,0,0,0,1,2,16,5,0,4,6,270],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a43ccbd65678e70ece336c49087b0a655":[8,0,0,0,1,2,16,5,0,4,6,295],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4428b66973aee879ee55979bb62b5ec1":[8,0,0,0,1,2,16,5,0,4,6,251],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a44c32208f38395ddfec5154ae01ffd36":[8,0,0,0,1,2,16,5,0,4,6,183],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a457fdb5cc1a5e88757e62eca03a88a70":[8,0,0,0,1,2,16,5,0,4,6,38],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a45b539b199367429e717b99815bae730":[8,0,0,0,1,2,16,5,0,4,6,230],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a45dbd0c48d73e6f2f250ec0d8bb6c8d1":[8,0,0,0,1,2,16,5,0,4,6,259],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a460d59ba194694f85dfd2165ebd49cad":[8,0,0,0,1,2,16,5,0,4,6,302]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a43ccbd65678e70ece336c49087b0a655":[8,0,0,0,1,2,16,5,0,4,6,295]
 };

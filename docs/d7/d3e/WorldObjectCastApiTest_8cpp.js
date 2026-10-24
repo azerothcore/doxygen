@@ -9,5 +9,6 @@ var WorldObjectCastApiTest_8cpp =
     [ "TEST", "d7/d3e/WorldObjectCastApiTest_8cpp.html#a3c46901e174cee4a3b82a2090218ebae", null ],
     [ "TEST", "d7/d3e/WorldObjectCastApiTest_8cpp.html#a01fb314ef035bf2d922afff00fce0f44", null ],
     [ "TEST", "d7/d3e/WorldObjectCastApiTest_8cpp.html#a7e66e6bf9151858baee00b95c61362bb", null ],
-    [ "TEST", "d7/d3e/WorldObjectCastApiTest_8cpp.html#a9673606c6caaa9830460c3912bb5a3bf", null ]
+    [ "TEST", "d7/d3e/WorldObjectCastApiTest_8cpp.html#a9673606c6caaa9830460c3912bb5a3bf", null ],
+    [ "TEST", "d7/d3e/WorldObjectCastApiTest_8cpp.html#a487211de05b1ca373c3fc1b0273c25b8", null ]
 ];

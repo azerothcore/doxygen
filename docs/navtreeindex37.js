@@ -1,5 +1,6 @@
 var NAVTREEINDEX37 =
 {
+"d1/d77/classspell__call__of__the__beast.html#acc2698ba702be211bef63cefa41005f4":[7,0,2766,1],
 "d1/d77/structnpc__demonic__vapor.html":[7,0,1793],
 "d1/d77/structnpc__demonic__vapor.html#a6637d2d5fc6615c2d76aa0d04c36a047":[7,0,1793,3],
 "d1/d77/structnpc__demonic__vapor.html#a7d2b88ab26904cedaac34f03567806bc":[7,0,1793,2],
@@ -222,8 +223,8 @@ var NAVTREEINDEX37 =
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,0,24,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[7,0,0,12,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,0,24,4],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,0,24,3],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[7,0,0,12,3],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,0,24,3],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html":[8,0,0,0,1,3,7,5,1,1],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,5,1,1,2],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,5,1,1,2,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX37 =
 "d1/d85/classachievement__yogg__saron__drive__me__crazy.html#a381d8fd2e7b4806181959a1b915f3a8c":[7,0,113,0],
 "d1/d85/classspell__warr__sweeping__strikes.html":[7,0,4413],
 "d1/d85/classspell__warr__sweeping__strikes.html#a68a559c46266fc7337f7d56bb66af542":[7,0,4413,0],
-"d1/d85/classspell__warr__sweeping__strikes.html#a69cdd92cea54ec5bf11f6011578b2338":[7,0,4413,1],
-"d1/d85/classspell__warr__sweeping__strikes.html#a8af18925b317c717fcd6b2fae14a16e4":[7,0,4413,4]
+"d1/d85/classspell__warr__sweeping__strikes.html#a69cdd92cea54ec5bf11f6011578b2338":[7,0,4413,1]
 };

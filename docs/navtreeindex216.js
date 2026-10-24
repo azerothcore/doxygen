@@ -1,5 +1,7 @@
 var NAVTREEINDEX216 =
 {
+"d7/db0/classMap.html#a642aaddad052cf1a6092b7fab0fa3ab1":[7,0,1524,23],
+"d7/db0/classMap.html#a64f4e50b011c1bde4c4bb4fbb8d9bda9":[7,0,1524,215],
 "d7/db0/classMap.html#a676b1d81dcaf664d1ec011c4ce8705f9":[7,0,1524,279],
 "d7/db0/classMap.html#a67b09b18e444852a4a3e6365ea17b6d7":[7,0,1524,132],
 "d7/db0/classMap.html#a68a00fc34cec216bcf1f59e69d230a10":[7,0,1524,230],
@@ -247,7 +249,5 @@ var NAVTREEINDEX216 =
 "d7/db4/classspell__shield__of__bones__aura.html#a55ec42ce316978220103a3a39f3939a3":[7,0,4171,4],
 "d7/db4/classspell__shield__of__bones__aura.html#a69d8dfebb981b51592770b7b5807bc80":[7,0,4171,3],
 "d7/db4/classspell__shield__of__bones__aura.html#a6a7afa99044644608b16e83328bfd5fa":[7,0,4171,6],
-"d7/db4/classspell__shield__of__bones__aura.html#aaf34ee04ae619a3ac108a8fd1c9dac99":[7,0,4171,5],
-"d7/db4/classspell__shield__of__bones__aura.html#abab656d4ba7e14bf1ffdb1d40c395b5d":[7,0,4171,1],
-"d7/db4/firework__show_8h.html":[8,0,0,0,1,3,3,0,1]
+"d7/db4/classspell__shield__of__bones__aura.html#aaf34ee04ae619a3ac108a8fd1c9dac99":[7,0,4171,5]
 };

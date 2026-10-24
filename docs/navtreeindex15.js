@@ -1,5 +1,6 @@
 var NAVTREEINDEX15 =
 {
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2f981ebe5e9bcf4c1a81561ccee496bf":[8,0,0,0,1,2,8,1,11,15,54],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a35b776c9acb976b6930f5d0851b7cd79":[8,0,0,0,1,2,8,1,11,15,69],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a36000f3815df177069b2bef00aba4540":[8,0,0,0,1,2,8,1,11,15,60],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a3bd9cb7368abc36e9a221225a6ba6392":[8,0,0,0,1,2,8,1,11,15,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX15 =
 "d0/d9a/classspell__yogg__saron__empowered__aura.html#a587652095a5dfae229787a0c0ceacfbe":[7,0,4453,1],
 "d0/d9a/classspell__yogg__saron__empowered__aura.html#aaed6604e39dd977f4e7c671052d718e8":[7,0,4453,3],
 "d0/d9a/classspell__yogg__saron__empowered__aura.html#acd5551b09882d720608bdec6036dee9a":[7,0,4453,2],
-"d0/d9b/structboss__dalronn__the__controller.html":[7,0,436],
-"d0/d9b/structboss__dalronn__the__controller.html#a1c3e44fe347e9c1ec45db19865bb5110":[7,0,436,7]
+"d0/d9b/structboss__dalronn__the__controller.html":[7,0,436]
 };

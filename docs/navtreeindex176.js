@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"d6/d22/structnpc__ulduar__icicle.html#a9a098b0a31fcbc029fc7ae6823ea99a4":[7,0,2282,3],
 "d6/d22/structnpc__ulduar__icicle.html#ac5f024031a70b4ca04ecc0a96fcbdcae":[7,0,2282,0],
 "d6/d22/structnpc__ulduar__icicle.html#ae277d302131abd17cef018872b12da06":[7,0,2282,2],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html":[7,0,2666],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d2a/MapDefines_8h.html#af7a9a5e840ab3ad1c160e832500016d1":[8,0,0,0,0,1,1,0,4],
 "d6/d2a/classinstance__wailing__caverns.html":[7,0,1398],
 "d6/d2a/classinstance__wailing__caverns.html#a0f1020e86443d6902b3c4d8726f3e610":[7,0,1398,2],
-"d6/d2a/classinstance__wailing__caverns.html#a906f59c39f59237e9eedb479dfc7d825":[7,0,1398,1],
-"d6/d2a/classspell__sha__item__lightning__shield.html":[7,0,4131]
+"d6/d2a/classinstance__wailing__caverns.html#a906f59c39f59237e9eedb479dfc7d825":[7,0,1398,1]
 };

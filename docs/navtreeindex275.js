@@ -1,5 +1,7 @@
 var NAVTREEINDEX275 =
 {
+"da/d75/Socket_8h.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c":[8,0,0,0,1,4,1,2,4,0],
+"da/d75/Socket_8h.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb":[8,0,0,0,1,4,1,2,4,2],
 "da/d75/Socket_8h.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98":[8,0,0,0,1,4,1,2,4,1],
 "da/d75/Socket_8h.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f":[8,0,0,0,1,4,1,2,4,3],
 "da/d75/Socket_8h.html#af72c5a224bc60d68d08afae3ba0cfb2f":[8,0,0,0,1,4,1,2,2],
@@ -154,12 +156,13 @@ var NAVTREEINDEX275 =
 "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490af22c758bdd3b20ff00899ddf7afcdd99":[8,0,0,0,1,3,2,4,15,9,11],
 "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490af4c704eaa3da4b08b0af73caa86f7411":[8,0,0,0,1,3,2,4,15,9,12],
 "da/d76/structnpc__ulduar__snow__mound.html":[7,0,2291],
-"da/d76/structnpc__ulduar__snow__mound.html#a1856c3bba24842f33720a83e1de40421":[7,0,2291,4],
+"da/d76/structnpc__ulduar__snow__mound.html#a1856c3bba24842f33720a83e1de40421":[7,0,2291,5],
 "da/d76/structnpc__ulduar__snow__mound.html#a3f66ad92d616050bb67cb1a5e33ffa74":[7,0,2291,0],
-"da/d76/structnpc__ulduar__snow__mound.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687":[7,0,2291,2],
-"da/d76/structnpc__ulduar__snow__mound.html#aafe42af9ba1402cad91326eb1037e476":[7,0,2291,6],
-"da/d76/structnpc__ulduar__snow__mound.html#ac48f6985d857276e0e59c2a429f5b359":[7,0,2291,3],
-"da/d76/structnpc__ulduar__snow__mound.html#aca94a744c23b7f9771c728997ba4b8f3":[7,0,2291,5],
+"da/d76/structnpc__ulduar__snow__mound.html#a8c5be073d1901f98d602581d79d3dd68":[7,0,2291,2],
+"da/d76/structnpc__ulduar__snow__mound.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687":[7,0,2291,3],
+"da/d76/structnpc__ulduar__snow__mound.html#aafe42af9ba1402cad91326eb1037e476":[7,0,2291,7],
+"da/d76/structnpc__ulduar__snow__mound.html#ac48f6985d857276e0e59c2a429f5b359":[7,0,2291,4],
+"da/d76/structnpc__ulduar__snow__mound.html#aca94a744c23b7f9771c728997ba4b8f3":[7,0,2291,6],
 "da/d76/structnpc__ulduar__snow__mound.html#ae5a09062d87aa1c0d446310df2ddd621":[7,0,2291,1],
 "da/d77/classachievement__neck__deep__in__vile.html":[7,0,82],
 "da/d77/classachievement__neck__deep__in__vile.html#a9861c008f302279a4ac5f4ddc14ca2d0":[7,0,82,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX275 =
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca541eef6b0c6c6faec2d26d8491ab24eb":[8,0,0,0,1,3,5,6,10,76,23],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca56141a47e3afdf35528b3fc7b8d5afbc":[8,0,0,0,1,3,5,6,10,76,38],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca59a9556066ef7245c03dfb8b53dce807":[8,0,0,0,1,3,5,6,10,76,63],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca5bc00bff64ed669a9250685a8d58ae7a":[8,0,0,0,1,3,5,6,10,76,48],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca61251e81cdb09691695a595703edfaa6":[8,0,0,0,1,3,5,6,10,76,81],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca64132e2dba4ac6bde803a01652012ac2":[8,0,0,0,1,3,5,6,10,76,53],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca68005cb6cb86e75408d2c31eba920c5d":[8,0,0,0,1,3,5,6,10,76,5]
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca5bc00bff64ed669a9250685a8d58ae7a":[8,0,0,0,1,3,5,6,10,76,48]
 };

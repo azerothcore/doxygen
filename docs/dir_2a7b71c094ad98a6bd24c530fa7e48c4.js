@@ -4,7 +4,7 @@ var dir_2a7b71c094ad98a6bd24c530fa7e48c4 =
     [ "LFG.h", "de/d59/LFG_8h.html", "de/d59/LFG_8h" ],
     [ "LFGGroupData.cpp", "dd/d5a/LFGGroupData_8cpp.html", null ],
     [ "LFGGroupData.h", "dc/d45/LFGGroupData_8h.html", "dc/d45/LFGGroupData_8h" ],
-    [ "LFGMgr.cpp", "da/de8/LFGMgr_8cpp.html", null ],
+    [ "LFGMgr.cpp", "da/de8/LFGMgr_8cpp.html", "da/de8/LFGMgr_8cpp" ],
     [ "LFGMgr.h", "de/d3d/LFGMgr_8h.html", "de/d3d/LFGMgr_8h" ],
     [ "LFGPlayerData.cpp", "db/d2f/LFGPlayerData_8cpp.html", null ],
     [ "LFGPlayerData.h", "d0/dad/LFGPlayerData_8h.html", "d0/dad/LFGPlayerData_8h" ],

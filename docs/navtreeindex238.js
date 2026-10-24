@@ -1,5 +1,7 @@
 var NAVTREEINDEX238 =
 {
+"d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,5,7,4,16,6],
+"d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a844de7ae64876d1f9b3b4df6afe6794a":[8,0,0,0,1,3,5,7,4,16,7],
 "d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9f2d1ca124ea572b3ea9dc6accd181ff":[8,0,0,0,1,3,5,7,4,16,2],
 "d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad0b9cff696dae9b6e077a24890e6ff5d":[8,0,0,0,1,3,5,7,4,16,3],
 "d8/db8/boss__gothik_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae92944fb440117afcd021f6a88af9fec":[8,0,0,0,1,3,5,7,4,16,8],
@@ -123,18 +125,18 @@ var NAVTREEINDEX238 =
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[7,0,0,29],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[5,0,0,41,4],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[7,0,0,29,4],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[7,0,0,29,2],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[5,0,0,41,2],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[7,0,0,29,2],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[7,0,0,29,3],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[5,0,0,41,3],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[5,0,0,41,1],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[7,0,0,29,1],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[5,0,0,41,1],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[7,0,0,29,5],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[5,0,0,41,5],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[5,0,0,41,0],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[7,0,0,29,0],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[7,0,0,29,6],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[5,0,0,41,6],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#af1e397c5033711e65d9ac5b35311e893":[7,0,0,29,6],
 "d8/dbd/structnpc__netherspite__infernal.html":[7,0,2043],
 "d8/dbd/structnpc__netherspite__infernal.html#a49c37fbebed2951c493962c1a3bd0339":[7,0,2043,3],
 "d8/dbd/structnpc__netherspite__infernal.html#a575040456c0eb4d343e7c0c5f75159b4":[7,0,2043,6],
@@ -234,8 +236,8 @@ var NAVTREEINDEX238 =
 "d8/dbf/classspell__hallows__end__base__fire.html#a4321da69ee59416bd50e621b804e5423":[7,0,3226,1],
 "d8/dbf/classspell__hallows__end__base__fire.html#a956136be8cb484efc9af2429d8779a03":[7,0,3226,3],
 "d8/dbf/classspell__hallows__end__base__fire.html#ae2ce9c161a25385c6de1f4b7607c9935":[7,0,3226,0],
-"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[5,0,0,8,0,10],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[7,0,0,5,0,10],
+"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[5,0,0,8,0,10],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[5,0,0,8,0,10,0],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[7,0,0,5,0,10,0],
 "d8/dbf/structLFGDungeonEntry.html":[7,0,1455],
@@ -247,7 +249,5 @@ var NAVTREEINDEX238 =
 "d8/dbf/structLFGDungeonEntry.html#a7558f3dc7d695fb17bc3b64e0c381de7":[7,0,1455,12],
 "d8/dbf/structLFGDungeonEntry.html#a7a6c2971a61b171d00c885ce452601ce":[7,0,1455,4],
 "d8/dbf/structLFGDungeonEntry.html#a7cb21e4e996be24d531b03fea66ecd27":[7,0,1455,9],
-"d8/dbf/structLFGDungeonEntry.html#a84a498b44063cc95ba1a3b565c44a81b":[7,0,1455,13],
-"d8/dbf/structLFGDungeonEntry.html#a9481c296a064ec400b0f050097903557":[7,0,1455,3],
-"d8/dbf/structLFGDungeonEntry.html#aa4fbfd45d4319c9e8319508821bf4a65":[7,0,1455,7]
+"d8/dbf/structLFGDungeonEntry.html#a84a498b44063cc95ba1a3b565c44a81b":[7,0,1455,13]
 };

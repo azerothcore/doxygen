@@ -1,5 +1,6 @@
 var NAVTREEINDEX168 =
 {
+"d5/de3/classspell__halion__twilight__cutter.html#a3b9b2ffa90f58a5da93fd369e11c6216":[7,0,3219,1],
 "d5/de3/classspell__halion__twilight__cutter.html#a743f910c3854e2c4e726e97c55fa7038":[7,0,3219,0],
 "d5/de3/classspell__halion__twilight__cutter.html#aba462e5b8e9336a508d19606f98750b5":[7,0,3219,2],
 "d5/de3/classspell__item__totem__of__flowing__water.html":[7,0,3529],
@@ -248,6 +249,5 @@ var NAVTREEINDEX168 =
 "d5/def/classdeserter__commandscript.html":[7,0,1011],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[7,0,1011,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[7,0,1011,9],
-"d5/def/classdeserter__commandscript.html#a3197e5228284ba50da7f3a31b3e76060":[7,0,1011,7],
-"d5/def/classdeserter__commandscript.html#a419d404315e91b6cac1bfd3ac225a8fd":[7,0,1011,5]
+"d5/def/classdeserter__commandscript.html#a3197e5228284ba50da7f3a31b3e76060":[7,0,1011,7]
 };

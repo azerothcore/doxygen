@@ -1,5 +1,6 @@
 var NAVTREEINDEX78 =
 {
+"d2/de0/classspell__dreamwalker__summoner.html#a454a8909be4bb85f255ea696041ea447":[7,0,2898,4],
 "d2/de0/classspell__dreamwalker__summoner.html#a68074978fe2c1b137c6ddfd7b9082bfc":[7,0,2898,3],
 "d2/de0/classspell__dreamwalker__summoner.html#ac8f92e9284abc56d55ecf3aa73d350f8":[7,0,2898,2],
 "d2/de0/classspell__dreamwalker__summoner.html#ae783cf255be823bf7c9125f288479e97":[7,0,2898,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX78 =
 "d2/de9/classSpellInfo.html#a7f41763dc08f0ec7435bbbfc9c30ac2b":[7,0,4494,149],
 "d2/de9/classSpellInfo.html#a803a9475a93a14a56a80b5fc43be363d":[7,0,4494,53],
 "d2/de9/classSpellInfo.html#a834a45c0151c31f57e5e2d8f11d765b6":[7,0,4494,161],
-"d2/de9/classSpellInfo.html#a858b0769a36dc62c2b100c46ff415366":[7,0,4494,69],
-"d2/de9/classSpellInfo.html#a85dd72ccb680fdee9f04963b7946d6a1":[7,0,4494,39]
+"d2/de9/classSpellInfo.html#a858b0769a36dc62c2b100c46ff415366":[7,0,4494,69]
 };

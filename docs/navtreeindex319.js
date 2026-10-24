@@ -1,5 +1,10 @@
 var NAVTREEINDEX319 =
 {
+"db/df9/classboss__grilek.html#acffe0061db18c5725c8c290822c5fed7":[7,0,526,1],
+"db/df9/classspell__warr__overpower.html":[7,0,4407],
+"db/df9/classspell__warr__overpower.html#a15d4ce9c947ca2f25e29f97119c4106e":[7,0,4407,2],
+"db/df9/classspell__warr__overpower.html#a7645af1c876e1f6ad91ef92884d220ac":[7,0,4407,1],
+"db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0":[7,0,4407,0],
 "db/df9/classspell__warr__overpower.html#ab6d78ecb650f13df3376baced8c40a63":[7,0,4407,3],
 "db/dfa/CharacterDatabaseCleaner_8h.html":[8,0,0,0,1,2,46,1],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a02688f57778d28a7bcc4ca6cee2074ad":[8,0,0,0,1,2,46,1,10],
@@ -244,10 +249,5 @@ var NAVTREEINDEX319 =
 "db/dfb/structnpc__ashtongue__sorcerer.html#a56fa93f83e8a536b13667c8f780961b7":[7,0,1670,1],
 "db/dfb/structnpc__wounded__skirmisher.html":[7,0,2337],
 "db/dfb/structnpc__wounded__skirmisher.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea":[7,0,2337,0],
-"db/dfb/structnpc__wounded__skirmisher.html#a52f8e7f8df05504cad4b4438c50814a4":[7,0,2337,5],
-"db/dfb/structnpc__wounded__skirmisher.html#a80357b71a1eccdcdce8c8bea87de1b66":[7,0,2337,2],
-"db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[7,0,2337,4],
-"db/dfb/structnpc__wounded__skirmisher.html#acca266640c099718d2a0fd4f6a3c47ab":[7,0,2337,3],
-"db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[7,0,2337,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1]
+"db/dfb/structnpc__wounded__skirmisher.html#a52f8e7f8df05504cad4b4438c50814a4":[7,0,2337,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX119 =
 {
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#ae1d6bb57fa69cea699fbac677a7ccdd2":[7,0,631,0,0],
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html#afeaee24a9b6484e8a0e6509b973ed74d":[7,0,631,0,4],
 "d3/de0/classspell__pal__guarded__by__the__light.html":[7,0,3784],
 "d3/de0/classspell__pal__guarded__by__the__light.html#a2f48b1903edef1a5bb8beeddc8879aa4":[7,0,3784,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX119 =
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20cad74c799387a063f3ac3f739949a14842":[8,0,0,0,1,3,3,4,22,33],
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20cad9696db937ecd2ab0a89583ed460fca5":[8,0,0,0,1,3,3,4,22,36],
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20cadf1a93158de521549f4c6914d5604ccd":[8,0,0,0,1,3,3,4,22,45],
-"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20cadf39fc01d7f1a103245fc091217c4f3c":[8,0,0,0,1,3,3,4,22,47],
-"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20cae377668d6cd2a8aee11a9ea4170b7955":[8,0,0,0,1,3,3,4,22,2]
+"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20cadf39fc01d7f1a103245fc091217c4f3c":[8,0,0,0,1,3,3,4,22,47]
 };

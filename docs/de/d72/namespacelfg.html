@@ -539,6 +539,8 @@ Functions</h2></td></tr>
 <tr class="separator:adc336ffd636b51b0052448739671d46b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9d097d73fe8f096de2098ac74022b643" id="r_a9d097d73fe8f096de2098ac74022b643"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d72/namespacelfg.html#a9d097d73fe8f096de2098ac74022b643">GetStateString</a> (<a class="el" href="../../de/d72/namespacelfg.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a> state)</td></tr>
 <tr class="separator:a9d097d73fe8f096de2098ac74022b643"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8626d94b18828f52411b3abb03a1571d" id="r_a8626d94b18828f52411b3abb03a1571d"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d5/d65/structlfg_1_1RBInternalInfo.html">RBInternalInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d72/namespacelfg.html#a8626d94b18828f52411b3abb03a1571d">BuildRBInternalInfo</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *player, std::string const &amp;comment, <a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> groupGuid, bool isGroupLeader, <a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> roles, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> encounterMask=0, <a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> instanceGuid=<a class="el" href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>)</td></tr>
+<tr class="separator:a8626d94b18828f52411b3abb03a1571d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a44b05d5c4dd27aa794f6cec4816524b6" id="r_a44b05d5c4dd27aa794f6cec4816524b6"><td class="memTemplParams" colspan="2">template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </td></tr>
 <tr class="memitem:a44b05d5c4dd27aa794f6cec4816524b6"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/d72/namespacelfg.html#a44b05d5c4dd27aa794f6cec4816524b6">format_as</a> (T f)</td></tr>
 <tr class="separator:a44b05d5c4dd27aa794f6cec4816524b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1623,6 +1625,154 @@ Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a8626d94b18828f52411b3abb03a1571d" name="a8626d94b18828f52411b3abb03a1571d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8626d94b18828f52411b3abb03a1571d">&#9670;&#160;</a></span>BuildRBInternalInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d5/d65/structlfg_1_1RBInternalInfo.html">RBInternalInfo</a> lfg::BuildRBInternalInfo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>comment</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>groupGuid</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isGroupLeader</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>roles</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>encounterMask</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>instanceGuid</em> = <code><a class="el" href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1073</span>    {</div>
+<div class="line"><span class="lineno"> 1074</span>        <span class="keyword">auto</span> rating = [player](<a class="code hl_enumeration" href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3">CombatRating</a> cr)</div>
+<div class="line"><span class="lineno"> 1075</span>        {</div>
+<div class="line"><span class="lineno"> 1076</span>            <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a3264388b9f92da9de7641477b3dc77f9">GetUInt32Value</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a1ca1f9b4f619aba4a211557d1f1a4c6a">PLAYER_FIELD_COMBAT_RATING_1</a> + <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a><span class="keyword">&gt;</span>(cr));</div>
+<div class="line"><span class="lineno"> 1077</span>        };</div>
+<div class="line"><span class="lineno"> 1078</span> </div>
+<div class="line"><span class="lineno"> 1079</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> talents[3] = { 0, 0, 0 };</div>
+<div class="line"><span class="lineno"> 1080</span>        player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a40b5c0dab43afd2bcbae046c68fe9df2">GetTalentTreePoints</a>(talents);</div>
+<div class="line"><span class="lineno"> 1081</span> </div>
+<div class="line"><span class="lineno"> 1082</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> spellDamage = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac3c793a406745727640d214fa4eedfcc">SpellBaseDamageBonusDone</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a>);</div>
+<div class="line"><span class="lineno"> 1083</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> spellHeal = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1d4215a0962f4de733865337595f4063">SpellBaseHealingBonusDone</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a>);</div>
+<div class="line"><span class="lineno"> 1084</span>        <span class="comment">// regen fields are per second, the client exposes these values as mana per 5 seconds</span></div>
+<div class="line"><span class="lineno"> 1085</span>        <span class="keywordtype">float</span> mp5 = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a8797257c31223076c1b76b4b1a6f8007">GetFloatValue</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af5eb447fa15d3cadf70754394517a401">UNIT_FIELD_POWER_REGEN_FLAT_MODIFIER</a>) * 5.0f;</div>
+<div class="line"><span class="lineno"> 1086</span>        <span class="keywordtype">float</span> mp5combat = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a8797257c31223076c1b76b4b1a6f8007">GetFloatValue</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ae139eeef4a8efe2671f88830a029719c">UNIT_FIELD_POWER_REGEN_INTERRUPTED_FLAT_MODIFIER</a>) * 5.0f;</div>
+<div class="line"><span class="lineno"> 1087</span>        <span class="keywordtype">float</span> baseAP = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2691e1d68e2c3a41699ec0272fcfd58e">GetTotalAttackPowerValue</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>);</div>
+<div class="line"><span class="lineno"> 1088</span>        <span class="keywordtype">float</span> rangedAP = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2691e1d68e2c3a41699ec0272fcfd58e">GetTotalAttackPowerValue</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352aa2557af152c5f2b27bbf59915cbd1670">RANGED_ATTACK</a>);</div>
+<div class="line"><span class="lineno"> 1089</span> </div>
+<div class="line"><span class="lineno"> 1090</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxPower = 0;</div>
+<div class="line"><span class="lineno"> 1091</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a966607859ce9c9537038b9ca21b9e827">IsClass</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a86e4e3df7a5142175aa5df522d3346cfa312316ea844ad336fad9eb5a00348636">CLASS_DRUID</a>))</div>
+<div class="line"><span class="lineno"> 1092</span>            maxPower = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a93f83fd909310de2c76382d00d7dbbf1">GetMaxPower</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a>);</div>
+<div class="line"><span class="lineno"> 1093</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad44d31430fab9282a79e8682822ccd9c">getPowerType</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a> || player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad44d31430fab9282a79e8682822ccd9c">getPowerType</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414a4c504424e60c95f01e0ec1468a52d221">POWER_RUNIC_POWER</a>)</div>
+<div class="line"><span class="lineno"> 1094</span>            maxPower = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a93f83fd909310de2c76382d00d7dbbf1">GetMaxPower</a>(player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad44d31430fab9282a79e8682822ccd9c">getPowerType</a>()) / 10;</div>
+<div class="line"><span class="lineno"> 1095</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1096</span>            maxPower = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a93f83fd909310de2c76382d00d7dbbf1">GetMaxPower</a>(player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad44d31430fab9282a79e8682822ccd9c">getPowerType</a>());</div>
+<div class="line"><span class="lineno"> 1097</span> </div>
+<div class="line"><span class="lineno"> 1098</span>        <span class="keywordflow">return</span> RBInternalInfo(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), comment, isGroupLeader, groupGuid, roles, encounterMask, instanceGuid,</div>
+<div class="line"><span class="lineno"> 1099</span>            1, player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>(), player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a58a507ebe628930b8a506144b364d84b">getClass</a>(), player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a60368071d6d8e6a23977ea4b44249de1">getRace</a>(), player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a94856b35ce42f7e8c87ac1a53be3405e">GetAverageItemLevel</a>(),</div>
+<div class="line"><span class="lineno"> 1100</span>            talents, player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#acdd585ef58eb876c506389ff96a4fbd9">GetAreaId</a>(), player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa332713ceeb74eee9c0e92b3fc406aed">GetArmor</a>(),</div>
+<div class="line"><span class="lineno"> 1101</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(std::max&lt;int32&gt;(0, spellDamage)), <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(std::max&lt;int32&gt;(0, spellHeal)),</div>
+<div class="line"><span class="lineno"> 1102</span>            rating(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a42cdd7970e625eb5a49ed191887a12a1">CR_CRIT_MELEE</a>), rating(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a45e7d9ff90a3261fbe1c66557c12b04e">CR_CRIT_RANGED</a>), rating(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3adea061f6bf3278a55f54a7f930bc34fe">CR_CRIT_SPELL</a>),</div>
+<div class="line"><span class="lineno"> 1103</span>            std::max&lt;float&gt;(0.0f, mp5), std::max&lt;float&gt;(0.0f, mp5combat),</div>
+<div class="line"><span class="lineno"> 1104</span>            std::max&lt;uint32&gt;(baseAP, rangedAP), <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac7e280621948a32b7d8ef0fc57fdf3c8">GetStat</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ad28c24e82986133459dee232a5360bc4aa06d404424a14cef13f2f52b671d567d">STAT_AGILITY</a>)), player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5173c1774b09b42c409bf31280c37d36">GetMaxHealth</a>(), maxPower,</div>
+<div class="line"><span class="lineno"> 1105</span>            rating(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a832531ac5d4a382e49391f88cd399ca4">CR_DEFENSE_SKILL</a>), rating(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a8200fcaa4607c184b12d61cbbb001767">CR_DODGE</a>), rating(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3abc080bbc3c53cdae00ae44e46179d2f1">CR_BLOCK</a>), rating(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a605b66409c77482f95159a42c093985f">CR_PARRY</a>), rating(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3ac3d309e81b26ab610ed447863d403617">CR_HASTE_SPELL</a>),</div>
+<div class="line"><span class="lineno"> 1106</span>            rating(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a001ce13a6e28ca1e052bcda7e1cdc837">CR_EXPERTISE</a>));</div>
+<div class="line"><span class="lineno"> 1107</span>    }</div>
+<div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
+<div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
+<div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
+<div class="ttc" id="aDefine_8h_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition</b> Define.h:108</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414a1b514bf3a42e9a5dc4271bd25b7dce7e">POWER_RAGE</a></div><div class="ttdeci">@ POWER_RAGE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:258</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_a17e15fab4b89f4840e745f31ca76a414a4c504424e60c95f01e0ec1468a52d221"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414a4c504424e60c95f01e0ec1468a52d221">POWER_RUNIC_POWER</a></div><div class="ttdeci">@ POWER_RUNIC_POWER</div><div class="ttdef"><b>Definition</b> SharedDefines.h:263</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a></div><div class="ttdeci">@ POWER_MANA</div><div class="ttdef"><b>Definition</b> SharedDefines.h:257</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_a86e4e3df7a5142175aa5df522d3346cfa312316ea844ad336fad9eb5a00348636"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a86e4e3df7a5142175aa5df522d3346cfa312316ea844ad336fad9eb5a00348636">CLASS_DRUID</a></div><div class="ttdeci">@ CLASS_DRUID</div><div class="ttdef"><b>Definition</b> SharedDefines.h:136</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_ad28c24e82986133459dee232a5360bc4aa06d404424a14cef13f2f52b671d567d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ad28c24e82986133459dee232a5360bc4aa06d404424a14cef13f2f52b671d567d">STAT_AGILITY</a></div><div class="ttdeci">@ STAT_AGILITY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:247</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_ALL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:303</div></div>
+<div class="ttc" id="aUnit_8h_html_a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a></div><div class="ttdeci">@ BASE_ATTACK</div><div class="ttdef"><b>Definition</b> Unit.h:218</div></div>
+<div class="ttc" id="aUnit_8h_html_a85524ab4e1fb005ed500bd190f79c352aa2557af152c5f2b27bbf59915cbd1670"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352aa2557af152c5f2b27bbf59915cbd1670">RANGED_ATTACK</a></div><div class="ttdeci">@ RANGED_ATTACK</div><div class="ttdef"><b>Definition</b> Unit.h:220</div></div>
+<div class="ttc" id="aUnit_8h_html_aa940f0fb19cbfeaf128b78cc7fb15da3"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3">CombatRating</a></div><div class="ttdeci">CombatRating</div><div class="ttdef"><b>Definition</b> Unit.h:225</div></div>
+<div class="ttc" id="aUnit_8h_html_aa940f0fb19cbfeaf128b78cc7fb15da3a001ce13a6e28ca1e052bcda7e1cdc837"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a001ce13a6e28ca1e052bcda7e1cdc837">CR_EXPERTISE</a></div><div class="ttdeci">@ CR_EXPERTISE</div><div class="ttdef"><b>Definition</b> Unit.h:249</div></div>
+<div class="ttc" id="aUnit_8h_html_aa940f0fb19cbfeaf128b78cc7fb15da3a42cdd7970e625eb5a49ed191887a12a1"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a42cdd7970e625eb5a49ed191887a12a1">CR_CRIT_MELEE</a></div><div class="ttdeci">@ CR_CRIT_MELEE</div><div class="ttdef"><b>Definition</b> Unit.h:234</div></div>
+<div class="ttc" id="aUnit_8h_html_aa940f0fb19cbfeaf128b78cc7fb15da3a45e7d9ff90a3261fbe1c66557c12b04e"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a45e7d9ff90a3261fbe1c66557c12b04e">CR_CRIT_RANGED</a></div><div class="ttdeci">@ CR_CRIT_RANGED</div><div class="ttdef"><b>Definition</b> Unit.h:235</div></div>
+<div class="ttc" id="aUnit_8h_html_aa940f0fb19cbfeaf128b78cc7fb15da3a605b66409c77482f95159a42c093985f"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a605b66409c77482f95159a42c093985f">CR_PARRY</a></div><div class="ttdeci">@ CR_PARRY</div><div class="ttdef"><b>Definition</b> Unit.h:229</div></div>
+<div class="ttc" id="aUnit_8h_html_aa940f0fb19cbfeaf128b78cc7fb15da3a8200fcaa4607c184b12d61cbbb001767"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a8200fcaa4607c184b12d61cbbb001767">CR_DODGE</a></div><div class="ttdeci">@ CR_DODGE</div><div class="ttdef"><b>Definition</b> Unit.h:228</div></div>
+<div class="ttc" id="aUnit_8h_html_aa940f0fb19cbfeaf128b78cc7fb15da3a832531ac5d4a382e49391f88cd399ca4"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3a832531ac5d4a382e49391f88cd399ca4">CR_DEFENSE_SKILL</a></div><div class="ttdeci">@ CR_DEFENSE_SKILL</div><div class="ttdef"><b>Definition</b> Unit.h:227</div></div>
+<div class="ttc" id="aUnit_8h_html_aa940f0fb19cbfeaf128b78cc7fb15da3abc080bbc3c53cdae00ae44e46179d2f1"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3abc080bbc3c53cdae00ae44e46179d2f1">CR_BLOCK</a></div><div class="ttdeci">@ CR_BLOCK</div><div class="ttdef"><b>Definition</b> Unit.h:230</div></div>
+<div class="ttc" id="aUnit_8h_html_aa940f0fb19cbfeaf128b78cc7fb15da3ac3d309e81b26ab610ed447863d403617"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3ac3d309e81b26ab610ed447863d403617">CR_HASTE_SPELL</a></div><div class="ttdeci">@ CR_HASTE_SPELL</div><div class="ttdef"><b>Definition</b> Unit.h:245</div></div>
+<div class="ttc" id="aUnit_8h_html_aa940f0fb19cbfeaf128b78cc7fb15da3adea061f6bf3278a55f54a7f930bc34fe"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3adea061f6bf3278a55f54a7f930bc34fe">CR_CRIT_SPELL</a></div><div class="ttdeci">@ CR_CRIT_SPELL</div><div class="ttdef"><b>Definition</b> Unit.h:236</div></div>
+<div class="ttc" id="aUpdateFields_8h_html_a0e42dc606678c9df7884e1aad621e881a1ca1f9b4f619aba4a211557d1f1a4c6a"><div class="ttname"><a href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a1ca1f9b4f619aba4a211557d1f1a4c6a">PLAYER_FIELD_COMBAT_RATING_1</a></div><div class="ttdeci">@ PLAYER_FIELD_COMBAT_RATING_1</div><div class="ttdef"><b>Definition</b> UpdateFields.h:380</div></div>
+<div class="ttc" id="aUpdateFields_8h_html_a0e42dc606678c9df7884e1aad621e881ae139eeef4a8efe2671f88830a029719c"><div class="ttname"><a href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ae139eeef4a8efe2671f88830a029719c">UNIT_FIELD_POWER_REGEN_INTERRUPTED_FLAT_MODIFIER</a></div><div class="ttdeci">@ UNIT_FIELD_POWER_REGEN_INTERRUPTED_FLAT_MODIFIER</div><div class="ttdef"><b>Definition</b> UpdateFields.h:113</div></div>
+<div class="ttc" id="aUpdateFields_8h_html_a0e42dc606678c9df7884e1aad621e881af5eb447fa15d3cadf70754394517a401"><div class="ttname"><a href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af5eb447fa15d3cadf70754394517a401">UNIT_FIELD_POWER_REGEN_FLAT_MODIFIER</a></div><div class="ttdeci">@ UNIT_FIELD_POWER_REGEN_FLAT_MODIFIER</div><div class="ttdef"><b>Definition</b> UpdateFields.h:112</div></div>
+<div class="ttc" id="aclassObject_html_a3264388b9f92da9de7641477b3dc77f9"><div class="ttname"><a href="../../d8/d4b/classObject.html#a3264388b9f92da9de7641477b3dc77f9">Object::GetUInt32Value</a></div><div class="ttdeci">uint32 GetUInt32Value(uint16 index) const</div><div class="ttdef"><b>Definition</b> Object.cpp:303</div></div>
+<div class="ttc" id="aclassObject_html_a8797257c31223076c1b76b4b1a6f8007"><div class="ttname"><a href="../../d8/d4b/classObject.html#a8797257c31223076c1b76b4b1a6f8007">Object::GetFloatValue</a></div><div class="ttdeci">float GetFloatValue(uint16 index) const</div><div class="ttdef"><b>Definition</b> Object.cpp:315</div></div>
+<div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:120</div></div>
+<div class="ttc" id="aclassPlayer_html_a40b5c0dab43afd2bcbae046c68fe9df2"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a40b5c0dab43afd2bcbae046c68fe9df2">Player::GetTalentTreePoints</a></div><div class="ttdeci">void GetTalentTreePoints(uint8(&amp;specPoints)[3]) const</div><div class="ttdef"><b>Definition</b> Player.cpp:15735</div></div>
+<div class="ttc" id="aclassPlayer_html_a94856b35ce42f7e8c87ac1a53be3405e"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a94856b35ce42f7e8c87ac1a53be3405e">Player::GetAverageItemLevel</a></div><div class="ttdeci">float GetAverageItemLevel()</div><div class="ttdef"><b>Definition</b> Player.cpp:16212</div></div>
+<div class="ttc" id="aclassPlayer_html_a966607859ce9c9537038b9ca21b9e827"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a966607859ce9c9537038b9ca21b9e827">Player::IsClass</a></div><div class="ttdeci">bool IsClass(Classes playerClass, ClassContext context=CLASS_CONTEXT_NONE) const override</div><div class="ttdef"><b>Definition</b> Player.cpp:1350</div></div>
+<div class="ttc" id="aclassUnit_html_a1d4215a0962f4de733865337595f4063"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1d4215a0962f4de733865337595f4063">Unit::SpellBaseHealingBonusDone</a></div><div class="ttdeci">int32 SpellBaseHealingBonusDone(SpellSchoolMask schoolMask)</div><div class="ttdef"><b>Definition</b> Unit.cpp:9579</div></div>
+<div class="ttc" id="aclassUnit_html_a2691e1d68e2c3a41699ec0272fcfd58e"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2691e1d68e2c3a41699ec0272fcfd58e">Unit::GetTotalAttackPowerValue</a></div><div class="ttdeci">float GetTotalAttackPowerValue(WeaponAttackType attType, Unit *pVictim=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:11931</div></div>
+<div class="ttc" id="aclassUnit_html_a5173c1774b09b42c409bf31280c37d36"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5173c1774b09b42c409bf31280c37d36">Unit::GetMaxHealth</a></div><div class="ttdeci">uint32 GetMaxHealth() const</div><div class="ttdef"><b>Definition</b> Unit.h:1118</div></div>
+<div class="ttc" id="aclassUnit_html_a58a507ebe628930b8a506144b364d84b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a58a507ebe628930b8a506144b364d84b">Unit::getClass</a></div><div class="ttdeci">uint8 getClass() const</div><div class="ttdef"><b>Definition</b> Unit.h:844</div></div>
+<div class="ttc" id="aclassUnit_html_a60368071d6d8e6a23977ea4b44249de1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a60368071d6d8e6a23977ea4b44249de1">Unit::getRace</a></div><div class="ttdeci">uint8 getRace(bool original=false) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:16713</div></div>
+<div class="ttc" id="aclassUnit_html_a93f83fd909310de2c76382d00d7dbbf1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a93f83fd909310de2c76382d00d7dbbf1">Unit::GetMaxPower</a></div><div class="ttdeci">uint32 GetMaxPower(Powers power) const</div><div class="ttdef"><b>Definition</b> Unit.h:1145</div></div>
+<div class="ttc" id="aclassUnit_html_aa332713ceeb74eee9c0e92b3fc406aed"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa332713ceeb74eee9c0e92b3fc406aed">Unit::GetArmor</a></div><div class="ttdeci">uint32 GetArmor() const</div><div class="ttdef"><b>Definition</b> Unit.h:1166</div></div>
+<div class="ttc" id="aclassUnit_html_ac3c793a406745727640d214fa4eedfcc"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac3c793a406745727640d214fa4eedfcc">Unit::SpellBaseDamageBonusDone</a></div><div class="ttdeci">int32 SpellBaseDamageBonusDone(SpellSchoolMask schoolMask)</div><div class="ttdef"><b>Definition</b> Unit.cpp:8822</div></div>
+<div class="ttc" id="aclassUnit_html_ac7e280621948a32b7d8ef0fc57fdf3c8"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac7e280621948a32b7d8ef0fc57fdf3c8">Unit::GetStat</a></div><div class="ttdeci">float GetStat(Stats stat) const</div><div class="ttdef"><b>Definition</b> Unit.h:1067</div></div>
+<div class="ttc" id="aclassUnit_html_ad44d31430fab9282a79e8682822ccd9c"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad44d31430fab9282a79e8682822ccd9c">Unit::getPowerType</a></div><div class="ttdeci">Powers getPowerType() const</div><div class="ttdef"><b>Definition</b> Unit.h:1140</div></div>
+<div class="ttc" id="aclassUnit_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition</b> Unit.h:1112</div></div>
+<div class="ttc" id="aclassWorldObject_html_acdd585ef58eb876c506389ff96a4fbd9"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#acdd585ef58eb876c506389ff96a4fbd9">WorldObject::GetAreaId</a></div><div class="ttdeci">uint32 GetAreaId() const</div><div class="ttdef"><b>Definition</b> Object.cpp:3180</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00218">BASE_ATTACK</a>, <a class="el" href="../../#l00136">CLASS_DRUID</a>, <a class="el" href="../../#l00230">CR_BLOCK</a>, <a class="el" href="../../#l00234">CR_CRIT_MELEE</a>, <a class="el" href="../../#l00235">CR_CRIT_RANGED</a>, <a class="el" href="../../#l00236">CR_CRIT_SPELL</a>, <a class="el" href="../../#l00227">CR_DEFENSE_SKILL</a>, <a class="el" href="../../#l00228">CR_DODGE</a>, <a class="el" href="../../#l00249">CR_EXPERTISE</a>, <a class="el" href="../../#l00245">CR_HASTE_SPELL</a>, <a class="el" href="../../#l00229">CR_PARRY</a>, <a class="el" href="../../#l03180">WorldObject::GetAreaId()</a>, <a class="el" href="../../#l01166">Unit::GetArmor()</a>, <a class="el" href="../../#l16212">Player::GetAverageItemLevel()</a>, <a class="el" href="../../#l00844">Unit::getClass()</a>, <a class="el" href="../../#l00315">Object::GetFloatValue()</a>, <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l01112">Unit::GetLevel()</a>, <a class="el" href="../../#l01118">Unit::GetMaxHealth()</a>, <a class="el" href="../../#l01145">Unit::GetMaxPower()</a>, <a class="el" href="../../#l01140">Unit::getPowerType()</a>, <a class="el" href="../../#l16713">Unit::getRace()</a>, <a class="el" href="../../#l01067">Unit::GetStat()</a>, <a class="el" href="../../#l15735">Player::GetTalentTreePoints()</a>, <a class="el" href="../../#l11931">Unit::GetTotalAttackPowerValue()</a>, <a class="el" href="../../#l00303">Object::GetUInt32Value()</a>, <a class="el" href="../../#l01350">Player::IsClass()</a>, <a class="el" href="../../#l00380">PLAYER_FIELD_COMBAT_RATING_1</a>, <a class="el" href="../../#l00257">POWER_MANA</a>, <a class="el" href="../../#l00258">POWER_RAGE</a>, <a class="el" href="../../#l00263">POWER_RUNIC_POWER</a>, <a class="el" href="../../#l00220">RANGED_ATTACK</a>, <a class="el" href="../../#l00303">SPELL_SCHOOL_MASK_ALL</a>, <a class="el" href="../../#l08822">Unit::SpellBaseDamageBonusDone()</a>, <a class="el" href="../../#l09579">Unit::SpellBaseHealingBonusDone()</a>, <a class="el" href="../../#l00247">STAT_AGILITY</a>, <a class="el" href="../../#l00112">UNIT_FIELD_POWER_REGEN_FLAT_MODIFIER</a>, and <a class="el" href="../../#l00113">UNIT_FIELD_POWER_REGEN_INTERRUPTED_FLAT_MODIFIER</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01109">lfg::LFGMgr::UpdateRaidBrowser()</a>.</p>
+
+</div>
+</div>
 <a id="aeaebe53b818ad905c96d2cc56c18b7ca" name="aeaebe53b818ad905c96d2cc56c18b7ca"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aeaebe53b818ad905c96d2cc56c18b7ca">&#9670;&#160;</a></span>ConcatenateDungeons()</h2>
 
@@ -1651,7 +1801,6 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   35</span>        }</div>
 <div class="line"><span class="lineno">   36</span>        <span class="keywordflow">return</span> dungeonstr;</div>
 <div class="line"><span class="lineno">   37</span>    }</div>
-<div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00026">GetPlayerInfo()</a>.</p>
 
@@ -1785,7 +1934,6 @@ template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </div>
 <div class="line"><span class="lineno">  103</span> </div>
 <div class="line"><span class="lineno">  104</span>        <span class="keywordflow">return</span> std::string(<a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetAcoreStringForDBCLocale(entry));</div>
 <div class="line"><span class="lineno">  105</span>    }</div>
-<div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aa1493c4536521bf72d88ef95b977cad00"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa1493c4536521bf72d88ef95b977cad00">LANG_LFG_STATE_BOOT</a></div><div class="ttdeci">@ LANG_LFG_STATE_BOOT</div><div class="ttdef"><b>Definition</b> Language.h:1274</div></div>
 <div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aa24f9ddd2d92ad96c208ea8edac38c69f"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa24f9ddd2d92ad96c208ea8edac38c69f">LANG_LFG_STATE_PROPOSAL</a></div><div class="ttdeci">@ LANG_LFG_STATE_PROPOSAL</div><div class="ttdef"><b>Definition</b> Language.h:1273</div></div>
 <div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aa3026f95343a472b94ade9944b1faf777"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa3026f95343a472b94ade9944b1faf777">LANG_LFG_ERROR</a></div><div class="ttdeci">@ LANG_LFG_ERROR</div><div class="ttdef"><b>Definition</b> Language.h:1283</div></div>
@@ -1798,7 +1946,7 @@ template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01283">LANG_LFG_ERROR</a>, <a class="el" href="../../#l01274">LANG_LFG_STATE_BOOT</a>, <a class="el" href="../../#l01275">LANG_LFG_STATE_DUNGEON</a>, <a class="el" href="../../#l01276">LANG_LFG_STATE_FINISHED_DUNGEON</a>, <a class="el" href="../../#l01270">LANG_LFG_STATE_NONE</a>, <a class="el" href="../../#l01273">LANG_LFG_STATE_PROPOSAL</a>, <a class="el" href="../../#l01272">LANG_LFG_STATE_QUEUED</a>, <a class="el" href="../../#l01277">LANG_LFG_STATE_RAIDBROWSER</a>, <a class="el" href="../../#l01271">LANG_LFG_STATE_ROLECHECK</a>, <a class="el" href="../../#l00072">LFG_STATE_BOOT</a>, <a class="el" href="../../#l00073">LFG_STATE_DUNGEON</a>, <a class="el" href="../../#l00074">LFG_STATE_FINISHED_DUNGEON</a>, <a class="el" href="../../#l00068">LFG_STATE_NONE</a>, <a class="el" href="../../#l00071">LFG_STATE_PROPOSAL</a>, <a class="el" href="../../#l00070">LFG_STATE_QUEUED</a>, <a class="el" href="../../#l00075">LFG_STATE_RAIDBROWSER</a>, <a class="el" href="../../#l00069">LFG_STATE_ROLECHECK</a>, and <a class="el" href="../../#l01731">sObjectMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00026">GetPlayerInfo()</a>, <a class="el" href="../../#l00082">lfg_commandscript::HandleLfgGroupInfoCommand()</a>, and <a class="el" href="../../#l02589">lfg::LFGMgr::SetState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00026">GetPlayerInfo()</a>, <a class="el" href="../../#l00082">lfg_commandscript::HandleLfgGroupInfoCommand()</a>, and <a class="el" href="../../#l02602">lfg::LFGMgr::SetState()</a>.</p>
 
 </div>
 </div>
@@ -1808,7 +1956,7 @@ template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d72/namespacelfg.html">lfg</a></li>
-    <li class="footer">Generated on Fri Oct 23 2026 10:56:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 24 2026 10:10:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

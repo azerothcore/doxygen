@@ -1,5 +1,12 @@
 var NAVTREEINDEX421 =
 {
+"df/da7/classBattleground.html#a12ddf932b09155555372b37c8bb8534f":[7,0,330,190],
+"df/da7/classBattleground.html#a13dbc1f65f80809cff43c3b2d5575035":[7,0,330,81],
+"df/da7/classBattleground.html#a1488f7426326ff10456812bba13f5ea7":[7,0,330,58],
+"df/da7/classBattleground.html#a152b516933fa88d053a99d3e3aa052c3":[7,0,330,5],
+"df/da7/classBattleground.html#a15ae5454869e14bf35aa3df6cfe3be8f":[7,0,330,22],
+"df/da7/classBattleground.html#a1864145bddee5dc00672a5c17bbde4b4":[7,0,330,213],
+"df/da7/classBattleground.html#a19cf075511f45a5b3984296651641273":[7,0,330,39],
 "df/da7/classBattleground.html#a19ebb33fd7ed9c085e30257d88210a41":[7,0,330,188],
 "df/da7/classBattleground.html#a1b99a417cfae29f65279bf549fc19e3c":[7,0,330,223],
 "df/da7/classBattleground.html#a1bf891e4b87892f91cc50c682c0e0e60":[7,0,330,69],
@@ -228,10 +235,10 @@ var NAVTREEINDEX421 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[7,0,330,243],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[7,0,330,24],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[7,0,330,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[7,0,13,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,34,2,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[7,0,13,2,9,0],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[7,0,13,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,34,2,9,0],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[7,0,13,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[7,0,13,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,34,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[7,0,13,2,9,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX421 =
 "df/da7/classspell__gen__clear__debuffs.html#ae4177c84bf0c63aadaa7486603df04d0":[7,0,3053,1],
 "df/da7/classspell__gen__gnomish__transporter.html":[7,0,3093],
 "df/da7/classspell__gen__gnomish__transporter.html#a0bcbef8a2d5978498556a217ac618fed":[7,0,3093,0],
-"df/da7/classspell__gen__gnomish__transporter.html#a2c6d9c273a3d281dacefc20970912166":[7,0,3093,2],
-"df/da7/classspell__gen__gnomish__transporter.html#a5901c22f3a10fdbd21d934f5cb8cd76d":[7,0,3093,1],
-"df/da7/structboss__thorim__sif.html":[7,0,757],
-"df/da7/structboss__thorim__sif.html#a126b546655d4438bf25d0870f5c550b8":[7,0,757,3],
-"df/da7/structboss__thorim__sif.html#a3da2809c4e7aa0c051647be354ade759":[7,0,757,1],
-"df/da7/structboss__thorim__sif.html#a3f747b6da8db72fd61c50a24096834c2":[7,0,757,5],
-"df/da7/structboss__thorim__sif.html#a5c1dfc697a84d4eb3ea6074514034343":[7,0,757,4],
-"df/da7/structboss__thorim__sif.html#a5d64d273a6aefdd9359b71963271b4ee":[7,0,757,8]
+"df/da7/classspell__gen__gnomish__transporter.html#a2c6d9c273a3d281dacefc20970912166":[7,0,3093,2]
 };

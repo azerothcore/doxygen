@@ -40,14 +40,15 @@ var ulduar_8cpp =
       [ "GOBJ_SNOW_MOUND", "db/da2/ulduar_8cpp.html#a51b87489a88947e854cb187e28ead3aaa233cf03dd9bf576e44d7cc038e30c63e", null ]
     ] ],
     [ "UldNPCs", "db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00c", [
-      [ "NPC_WINTER_JORMUNGAR", "db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9e47edb2b8ebecd8f6bea4def90b3cd6", null ],
       [ "NPC_SNOW_MOUND_4", "db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00caa11811fdbfb8f74e252570087685666e", null ],
       [ "NPC_SNOW_MOUND_6", "db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb", null ],
       [ "NPC_SNOW_MOUND_8", "db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512", null ]
     ] ],
     [ "UldSpells", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53", [
       [ "SPELL_KEEPER_TELEPORT", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a8fe91c9c0c48c22ebe17945c5ab0abef", null ],
+      [ "SPELL_ANCHOR_HERE", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a4429e1c1ee508e5a51a36258773fa882", null ],
       [ "SPELL_SNOW_MOUND_PARTICLES", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a555a4abaecb1b980f5cad7394d8c3cf3", null ],
+      [ "SPELL_EJECT_PASSENGER_1", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a2d3e090b42693ee3eda1af3f2dc302f7", null ],
       [ "SPELL_ENERGY_SAP_10", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4", null ],
       [ "SPELL_FLAME_SPRAY", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24", null ],
       [ "SPELL_MACHINE_GUN", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8", null ]

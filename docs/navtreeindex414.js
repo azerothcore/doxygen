@@ -1,5 +1,11 @@
 var NAVTREEINDEX414 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[7,0,11,21,3],
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,31,21,3],
+"df/d57/blackrock__depths_8cpp.html":[8,0,0,0,1,3,2,1,0,0],
+"df/d57/blackrock__depths_8cpp.html#a0413104621cd00b43dd9069c867a7e27":[8,0,0,0,1,3,2,1,0,0,42],
+"df/d57/blackrock__depths_8cpp.html#a0a862414f7270c75a7401ee8b48701e6":[8,0,0,0,1,3,2,1,0,0,22],
+"df/d57/blackrock__depths_8cpp.html#a0a862414f7270c75a7401ee8b48701e6a0c90aafe9dbdb386a9eba2f569e9b5c1":[8,0,0,0,1,3,2,1,0,0,22,0],
 "df/d57/blackrock__depths_8cpp.html#a0a862414f7270c75a7401ee8b48701e6ab08e10f199f94c45d42ffe8dc6454a94":[8,0,0,0,1,3,2,1,0,0,22,4],
 "df/d57/blackrock__depths_8cpp.html#a0a862414f7270c75a7401ee8b48701e6ac3d44e5037b9095377a992bf8c3eabbb":[8,0,0,0,1,3,2,1,0,0,22,2],
 "df/d57/blackrock__depths_8cpp.html#a0a862414f7270c75a7401ee8b48701e6ad0d9a836319a78206e506e84ee1215b5":[8,0,0,0,1,3,2,1,0,0,22,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX414 =
 "df/d62/classspell__gen__vampiric__might.html#a8713f0e7fae54fc4f5ead19351bec0d8":[7,0,3175,0],
 "df/d62/classspell__gen__vampiric__might.html#ac2a7ac008dca96bb8dc272118d184f3d":[7,0,3175,1],
 "df/d62/classspell__gen__vampiric__might.html#acc97118979bfbcbb1d9fbd88e12c9650":[7,0,3175,3],
-"df/d64/classProcChainGuardSimulator.html":[7,0,2492],
-"df/d64/classProcChainGuardSimulator.html#a267703c4a51bf3e8020e3298c85b74b3":[7,0,2492,3],
-"df/d64/classProcChainGuardSimulator.html#a5fd0de564b32520971082df9620d40b4":[7,0,2492,8],
-"df/d64/classProcChainGuardSimulator.html#ab0a0af1461f0f94a87273f468bc5454d":[7,0,2492,7],
-"df/d64/classProcChainGuardSimulator.html#ab479d1a30e547ce04775abe397cfea14":[7,0,2492,6],
-"df/d64/classProcChainGuardSimulator.html#abdecfb4d1da86f5a5d4cd7c92c228617":[7,0,2492,9],
-"df/d64/classProcChainGuardSimulator.html#ad729e5f44922b9b6c44c9a4d732818e7":[7,0,2492,2]
+"df/d64/classProcChainGuardSimulator.html":[7,0,2492]
 };

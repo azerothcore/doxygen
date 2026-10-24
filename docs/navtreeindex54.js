@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d1e/classInstanceScript.html#aa7c0fb02a9af3d19d2eb93d888998215":[7,0,1408,74],
 "d2/d1e/classInstanceScript.html#aa8136fc3ab6e5ddd6d3dfbdbe935f227":[7,0,1408,19],
 "d2/d1e/classInstanceScript.html#aaa6a64bd5a0030d080f0d5966694f2f3":[7,0,1408,69],
 "d2/d1e/classInstanceScript.html#aabf2846cb52b0f3c61e4336ae4561ec7":[7,0,1408,64],
@@ -84,10 +85,10 @@ var NAVTREEINDEX54 =
 "d2/d20/classat__cthun__stomach__exit.html#ab56dca3fe200dc7822459a22912247bf":[7,0,224,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[7,0,13,6,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[5,0,34,6,5],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[7,0,13,6,5,2],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[5,0,34,6,5,2],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[5,0,34,6,5,3],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[7,0,13,6,5,2],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[7,0,13,6,5,3],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[5,0,34,6,5,3],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[7,0,13,6,5,8],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[5,0,34,6,5,8],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[7,0,13,6,5,4],
@@ -226,10 +227,10 @@ var NAVTREEINDEX54 =
 "d2/d22/classspell__pri__mana__burn.html#a2a780069022e62b14992a7b69626ac3d":[7,0,3858,2],
 "d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[7,0,3858,0],
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[7,0,3858,1],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,0,8,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,0,8,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[7,0,1366,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788":[7,0,1366,0,10],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13":[7,0,1366,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a4f8b94f32947904514f70f233462bd44":[7,0,1366,0,18],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a5480e686009146fc68764e4e9e849144":[7,0,1366,0,8],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a5933eef3bb8e02e9b03754b39d908a57":[7,0,1366,0,9],
-"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a60fe12c5455d4f515d0a960c2648ff4e":[7,0,1366,0,23],
-"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a70e9ef6704f59bd0fafc2151becd0112":[7,0,1366,0,14]
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a60fe12c5455d4f515d0a960c2648ff4e":[7,0,1366,0,23]
 };

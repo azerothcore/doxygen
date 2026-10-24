@@ -1,5 +1,7 @@
 var NAVTREEINDEX241 =
 {
+"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ac069519bd3953b5092adc50929c5ff1b":[8,0,0,0,1,3,5,24,21,4],
+"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ae1667169ac21f5fe1945c8a8bd65b6c3":[8,0,0,0,1,3,5,24,21,1],
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47":[8,0,0,0,1,3,5,24,23],
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a0545d95ae8820ca631065269524b61cb":[8,0,0,0,1,3,5,24,23,10],
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a09658e9d78fdc4d1dcc3f62866442406":[8,0,0,0,1,3,5,24,23,5],
@@ -51,16 +53,16 @@ var NAVTREEINDEX241 =
 "d8/ddb/classAreaTrigger__at__last__rites.html":[7,0,177],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a30d1930c76920ab12cf4f9b04fd5f0e4":[7,0,177,0],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a48f6e2041cda24812a165fa0fb62f1b6":[7,0,177,1],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[7,0,13,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[5,0,34,14,1],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[7,0,13,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[7,0,13,14,1,3],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[5,0,34,14,1,3],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[5,0,34,14,1,2],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[7,0,13,14,1,2],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[7,0,13,14,1,0],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[5,0,34,14,1,0],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[5,0,34,14,1,4],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[7,0,13,14,1,4],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[5,0,34,14,1,4],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#add2f826fb7a8c9eed85e46a217dff0fc":[5,0,34,14,1,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#add2f826fb7a8c9eed85e46a217dff0fc":[7,0,13,14,1,1],
 "d8/ddc/classspell__claw__swipe__check.html":[7,0,2785],
@@ -247,7 +249,5 @@ var NAVTREEINDEX241 =
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a57e5a1290efed76eb3e6ac718d613e22":[8,0,0,0,1,2,8,1,19,11,9],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a633262bf7c7d5d49d3dfed140c17a773":[8,0,0,0,1,2,8,1,19,11,21],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a6573237213ea097696beb6ead5caca34":[8,0,0,0,1,2,8,1,19,11,13],
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a68c03205185626f56fc627f4ee900e6a":[8,0,0,0,1,2,8,1,19,11,3],
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a69966db660491a3a4729604ac13b2ed1":[8,0,0,0,1,2,8,1,19,11,16],
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a6d74052a63d48c5200a918ef7795e0f6":[8,0,0,0,1,2,8,1,19,11,4]
+"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a68c03205185626f56fc627f4ee900e6a":[8,0,0,0,1,2,8,1,19,11,3]
 };

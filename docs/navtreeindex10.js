@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d76/classLFGUpdateRequest.html#a15258001db5870a0f52bb0c72cba3587":[7,0,1456,1],
 "d0/d76/classLFGUpdateRequest.html#a1bb4423241495aebab83ebc1acf66510":[7,0,1456,3],
 "d0/d76/classLFGUpdateRequest.html#a27e818e5d985ac91be6eca14a1ebd73f":[7,0,1456,2],
 "d0/d76/classLFGUpdateRequest.html#a85900fc44d5dfb5595fbe7dc3422dfaa":[7,0,1456,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d7e/SpellProcConditionsTest_8cpp.html#adcbe378ad3281f0034e8910d9be22f03":[8,0,0,0,2,2,0,10,15,24],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#adfde388a2edbae2c884134ab41ec3d7f":[8,0,0,0,2,2,0,10,15,9],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#aee8ad5db1865ea9bb580d42c177b066d":[8,0,0,0,2,2,0,10,15,21],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[5,0,0,35],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[7,0,0,23]
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[5,0,0,35]
 };

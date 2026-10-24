@@ -1,5 +1,6 @@
 var NAVTREEINDEX55 =
 {
+"d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a70e9ef6704f59bd0fafc2151becd0112":[7,0,1366,0,14],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a844f75400d3b0839a339f300125d26aa":[7,0,1366,0,2],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a96e4c025c3fe823a733a2219f27975e6":[7,0,1366,0,12],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#aa4d94825ec490248fda19b516632c9d7":[7,0,1366,0,22],
@@ -242,12 +243,11 @@ var NAVTREEINDEX55 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[7,0,3229,3],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,0,134],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[7,0,0,122],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a2fc41ec89b1887f33b0e3932807e7159":[5,0,0,134,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a2fc41ec89b1887f33b0e3932807e7159":[7,0,0,122,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,0,134,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a2fc41ec89b1887f33b0e3932807e7159":[5,0,0,134,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[7,0,0,122,2],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,0,134,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,0,134,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[7,0,0,122,1],
-"d2/d2b/classConfusedMovementGenerator.html":[7,0,927],
-"d2/d2b/classConfusedMovementGenerator.html#a02b83b879cc31fb1a0e2f90e97556ba1":[7,0,927,13]
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,0,134,1],
+"d2/d2b/classConfusedMovementGenerator.html":[7,0,927]
 };

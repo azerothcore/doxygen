@@ -1,5 +1,7 @@
 var NAVTREEINDEX234 =
 {
+"d8/d77/classAchievementMgr.html#ab0b79ee6326682753e8956d4b3681e7e":[7,0,123,36],
+"d8/d77/classAchievementMgr.html#ac76475c91a9869fdf4b78b06e5316a42":[7,0,123,27],
 "d8/d77/classAchievementMgr.html#acfda21b0f7b1174f8c890b926cbd1c09":[7,0,123,2],
 "d8/d77/classAchievementMgr.html#ad333f0b41c7b42059e64acd42bacb631":[7,0,123,9],
 "d8/d77/classAchievementMgr.html#ad46f33eeab1bd906f34ef3196ef78e47":[7,0,123,24],
@@ -18,12 +20,12 @@ var NAVTREEINDEX234 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,1001,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,1001,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,1001,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1633],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1633,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1633,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX234 =
 "d8/d83/blackwing__lair_8h.html#ab09f71d157de7a7a0d9a78a3ae8ca034a2cb2a4cc6ce13fbc5e24dd2fb284ff79":[8,0,0,0,1,3,2,1,2,0,5,6],
 "d8/d83/blackwing__lair_8h.html#ab09f71d157de7a7a0d9a78a3ae8ca034a32b2079ddfeda070f3315d8e28971660":[8,0,0,0,1,3,2,1,2,0,5,7],
 "d8/d83/blackwing__lair_8h.html#ab09f71d157de7a7a0d9a78a3ae8ca034a5195e3b83d9466f820e2fddbe77d64df":[8,0,0,0,1,3,2,1,2,0,5,9],
-"d8/d83/blackwing__lair_8h.html#ab09f71d157de7a7a0d9a78a3ae8ca034a770943809f31fc32287d4cba0509e823":[8,0,0,0,1,3,2,1,2,0,5,12],
-"d8/d83/blackwing__lair_8h.html#ab09f71d157de7a7a0d9a78a3ae8ca034aa1b22febb4f79c4264ec32e5cb8dbc51":[8,0,0,0,1,3,2,1,2,0,5,11],
-"d8/d83/blackwing__lair_8h.html#ab09f71d157de7a7a0d9a78a3ae8ca034aa5f5be9038028255c66aef5d2d4ec7fb":[8,0,0,0,1,3,2,1,2,0,5,10]
+"d8/d83/blackwing__lair_8h.html#ab09f71d157de7a7a0d9a78a3ae8ca034a770943809f31fc32287d4cba0509e823":[8,0,0,0,1,3,2,1,2,0,5,12]
 };

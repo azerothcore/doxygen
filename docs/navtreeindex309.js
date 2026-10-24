@@ -1,5 +1,10 @@
 var NAVTREEINDEX309 =
 {
+"db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8":[8,0,0,0,1,2,11,2,0,1],
+"db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7":[8,0,0,0,1,2,11,2,0,2],
+"db/db2/Chat_8cpp.html#ae39447b85bcee503ddb354d2950d638a":[8,0,0,0,1,2,11,2,2],
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html":[7,0,4102],
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a1dd967ad59159faf694b8e0bfcd369ac":[7,0,4102,2],
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[7,0,4102,0],
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[7,0,4102,1],
 "db/db4/SpellProcCooldownTest_8cpp.html":[8,0,0,0,2,2,0,10,16],
@@ -126,10 +131,10 @@ var NAVTREEINDEX309 =
 "db/db8/classProcChanceTestHelper.html#af1b7930d947922e39bb11e4414338a96":[7,0,2494,29],
 "db/db8/classProcChanceTestHelper.html#af3edb0d11fc98b2a470c76d5614764f5":[7,0,2494,34],
 "db/db8/classProcChanceTestHelper.html#afdbe9b23c7bbe076f45ec94d1289b297":[7,0,2494,7],
-"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html":[7,0,13,6,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html":[5,0,34,6,9],
-"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a211288bde5a15f2d21df65acf087c7d0":[5,0,34,6,9,9],
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html":[7,0,13,6,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a211288bde5a15f2d21df65acf087c7d0":[7,0,13,6,9,9],
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a211288bde5a15f2d21df65acf087c7d0":[5,0,34,6,9,9],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a42ca9b48981d7d338aecb7840c248f0f":[5,0,34,6,9,4],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a42ca9b48981d7d338aecb7840c248f0f":[7,0,13,6,9,4],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#a4598c0c9d1f94c5aa0671f210e1597d4":[5,0,34,6,9,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX309 =
 "db/dc4/classspell__svala__ritual__strike.html#a25bc99811aa2c7bf4bfbf8ad628a2771":[7,0,4215,0],
 "db/dc4/classspell__svala__ritual__strike.html#aaa02dab30b29e6f646db52468fc35eb2":[7,0,4215,2],
 "db/dc4/instance__shadowfang__keep_8cpp.html":[8,0,0,0,1,3,2,8,1],
-"db/dc4/instance__shadowfang__keep_8cpp.html#a389d5779db9178608ade2fdc2e7a2d66":[8,0,0,0,1,3,2,8,1,4],
-"db/dc4/instance__shadowfang__keep_8cpp.html#a389d5779db9178608ade2fdc2e7a2d66a66434c0d78770abb5cb5e3a50074f5cb":[8,0,0,0,1,3,2,8,1,4,0],
-"db/dc4/instance__shadowfang__keep_8cpp.html#a389d5779db9178608ade2fdc2e7a2d66ab350c0bad170d89027779476282a594c":[8,0,0,0,1,3,2,8,1,4,1],
-"db/dc4/instance__shadowfang__keep_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,8,1,5],
-"db/dc4/instance__shadowfang__keep_8cpp.html#a5bd342133be8c2137b831460acc9298ca40548e2777583e651954d998a48d0405":[8,0,0,0,1,3,2,8,1,5,0],
-"db/dc4/instance__shadowfang__keep_8cpp.html#a6371c70a95f13dc7054416a29f2ee1c7":[8,0,0,0,1,3,2,8,1,6]
+"db/dc4/instance__shadowfang__keep_8cpp.html#a389d5779db9178608ade2fdc2e7a2d66":[8,0,0,0,1,3,2,8,1,4]
 };

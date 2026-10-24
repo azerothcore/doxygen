@@ -1,5 +1,7 @@
 var NAVTREEINDEX266 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af03fc923c629c3f2f32aa6f045aea642":[8,0,0,0,1,2,49,4,1,157],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af0a6989af793b6a1c82c15551bf604cd":[8,0,0,0,1,2,49,4,1,331],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af0d8643ea5e9da459b0ec49203038941":[8,0,0,0,1,2,49,4,1,213],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af0dec07495e5bb36ef8657d63838ed98":[8,0,0,0,1,2,49,4,1,201],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af1655587f05a59f0273209a63b22dbbd":[8,0,0,0,1,2,49,4,1,358],
@@ -136,8 +138,8 @@ var NAVTREEINDEX266 =
 "da/d07/classByteBuffer.html#aa083c5fac68ef7176271fe2f72a9285f":[7,0,844,1],
 "da/d07/classByteBuffer.html#aa70d33b89e626033048985b9340a414f":[7,0,844,34],
 "da/d07/classByteBuffer.html#aa7b1246e84bc9010cf14a66385b85e07":[7,0,844,12],
-"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[7,0,844,59],
 "da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[7,0,844,58],
+"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[7,0,844,59],
 "da/d07/classByteBuffer.html#ab14206d336f09c4096a84a27c9bb6777":[7,0,844,51],
 "da/d07/classByteBuffer.html#ab271141a122689d48a5780c2e6165dba":[7,0,844,2],
 "da/d07/classByteBuffer.html#ab79d655f99fa581903b95229a424a608":[7,0,844,69],
@@ -247,7 +249,5 @@ var NAVTREEINDEX266 =
 "da/d0e/classspell__azjol__nerub__impale__summon.html#aba235111ea4e186064a85295466f2a3f":[7,0,2701,1],
 "da/d0f/instance__utgarde__pinnacle_8cpp.html":[8,0,0,0,1,3,5,10,1,4],
 "da/d0f/instance__utgarde__pinnacle_8cpp.html#a3469cdfafe3d81dca68950e7a6a6370d":[8,0,0,0,1,3,5,10,1,4,2],
-"da/d0f/instance__utgarde__pinnacle_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,5,10,1,4,3],
-"da/d0f/instance__utgarde__pinnacle_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[8,0,0,0,1,3,5,10,1,4,4],
-"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html":[7,0,676,0]
+"da/d0f/instance__utgarde__pinnacle_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,5,10,1,4,3]
 };

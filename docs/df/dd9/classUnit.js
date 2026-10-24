@@ -117,7 +117,7 @@ var classUnit =
     [ "CastCustomSpell", "df/dd9/classUnit.html#add1638b7cdab94876f38cb33c3874812", null ],
     [ "CastCustomSpell", "df/dd9/classUnit.html#a7cc86fa10aa047f029d62da68012082c", null ],
     [ "CastCustomSpell", "df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2", null ],
-    [ "CastDelayedSpellWithPeriodicAmount", "df/dd9/classUnit.html#ac98e98e098e9647b02d1b43f41f85eaa", null ],
+    [ "CastDelayedSpellWithPeriodicAmount", "df/dd9/classUnit.html#acca9373e2a50135debe868271a01a5c2", null ],
     [ "CastPetAura", "df/dd9/classUnit.html#a462593dd5f980e624e64d90570038386", null ],
     [ "CastSpell", "df/dd9/classUnit.html#a2d36878d7fbf5224e7d8ed39f19206b4", null ],
     [ "CastSpell", "df/dd9/classUnit.html#a3c2e6f90e1053441c5d356f4a7a7693b", null ],

@@ -1,5 +1,10 @@
 var NAVTREEINDEX362 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4bf1cfaeec7a2b9f9aa56f6d372b507":[8,0,0,0,1,2,38,0,77,1,12],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab538dcce965c1bd3ccc225865220111c":[8,0,0,0,1,2,38,0,77,1,8],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab623a201402aebde784e83fbbaf21753":[8,0,0,0,1,2,38,0,77,1,115],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab70d80d23c1fe1e07425d9624bfef614":[8,0,0,0,1,2,38,0,77,1,13],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abb27f4633fb115258b7c9e209de437d3":[8,0,0,0,1,2,38,0,77,1,108],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc589b6df12f95e213fb6e4c4898ad5c":[8,0,0,0,1,2,38,0,77,1,24],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc70b591319e2beadccdc28b72bc52f8":[8,0,0,0,1,2,38,0,77,1,156],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abd876cf1d5d8a56ee131b38607e9076e":[8,0,0,0,1,2,38,0,77,1,122],
@@ -244,10 +249,5 @@ var NAVTREEINDEX362 =
 "dd/dd3/classspell__mage__glyph__of__polymorph.html#a1710a08cfe8b6f9b3890840bac97c711":[7,0,3643,1],
 "dd/dd3/classspell__mage__glyph__of__polymorph.html#a2e65cb7fa379f1330610aaa56e002ba3":[7,0,3643,2],
 "dd/dd3/classspell__mage__glyph__of__polymorph.html#a81736c5dd5fd02181673a9f12d4d9ab2":[7,0,3643,0],
-"dd/dd3/zone__netherstorm_8cpp.html":[8,0,0,0,1,3,7,12],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800":[8,0,0,0,1,3,7,12,12],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a03d22d23fb95f8127b016cf43730aa78":[8,0,0,0,1,3,7,12,12,0],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a3a88a7d2035f3e6702cb8fbbc4bf4ff0":[8,0,0,0,1,3,7,12,12,3],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a55f40e4f36c80f45773efa04eff81b8f":[8,0,0,0,1,3,7,12,12,4],
-"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a5cec3d466829633ff29e687afd873a5e":[8,0,0,0,1,3,7,12,12,1]
+"dd/dd3/zone__netherstorm_8cpp.html":[8,0,0,0,1,3,7,12]
 };

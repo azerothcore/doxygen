@@ -210,6 +210,7 @@ var namespacelfg =
       [ "LFG_UPDATETYPE_GROUP_DISBAND_UNK16", "de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a3730748e081139cd1ea6c20cd956aa58", null ]
     ] ],
     [ "AddSC_LFGScripts", "de/d72/namespacelfg.html#a9624b9328e26a9f420a4a3f07e253763", null ],
+    [ "BuildRBInternalInfo", "de/d72/namespacelfg.html#a8626d94b18828f52411b3abb03a1571d", null ],
     [ "ConcatenateDungeons", "de/d72/namespacelfg.html#aeaebe53b818ad905c96d2cc56c18b7ca", null ],
     [ "format_as", "de/d72/namespacelfg.html#a44b05d5c4dd27aa794f6cec4816524b6", null ],
     [ "GetRolesString", "de/d72/namespacelfg.html#adc336ffd636b51b0052448739671d46b", null ],

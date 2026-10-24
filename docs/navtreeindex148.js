@@ -1,5 +1,6 @@
 var NAVTREEINDEX148 =
 {
+"d5/d0a/classRoll.html#a6187dd03a275f9e51d489709c9cf6d13":[7,0,2566,15],
 "d5/d0a/classRoll.html#a6a6ea6885bc68272520c018a83b2106f":[7,0,2566,18],
 "d5/d0a/classRoll.html#a6e170a8296949cd76baa7992f30a61d6":[7,0,2566,11],
 "d5/d0a/classRoll.html#a7b40118e2d489177a268301636b9994f":[7,0,2566,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d1b/classThreatManager.html#a0f3ce318d1a106202562cf77405d9c09":[7,0,4589,28],
 "d5/d1b/classThreatManager.html#a16e07d97732f8e1e4a7c6dacf214db84":[7,0,4589,38],
 "d5/d1b/classThreatManager.html#a25aa066ba98678029d373def665bfb42":[7,0,4589,68],
-"d5/d1b/classThreatManager.html#a28082594272f1862847e7aef13da83df":[7,0,4589,84],
-"d5/d1b/classThreatManager.html#a2c35d814781a0556350a841bfb100420":[7,0,4589,54]
+"d5/d1b/classThreatManager.html#a28082594272f1862847e7aef13da83df":[7,0,4589,84]
 };

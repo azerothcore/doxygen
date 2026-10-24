@@ -1,5 +1,7 @@
 var NAVTREEINDEX259 =
 {
+"d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a895f302d336faa0c3f93854314d3b427":[7,0,457,0,4],
+"d9/dc1/structboss__emalon_1_1boss__emalonAI.html#a9a3b4e6df73586125c0369aa2d3666df":[7,0,457,0,3],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#ab08f49aabe76b623496da2fc0198a6c1":[7,0,457,0,1],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#ac87b3ea34e9781f3843321ef874321fe":[7,0,457,0,0],
 "d9/dc1/structboss__emalon_1_1boss__emalonAI.html#ae5d33f728077d5bbc3b7d74db8015f5d":[7,0,457,0,5],
@@ -122,8 +124,8 @@ var NAVTREEINDEX259 =
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[7,0,13,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[7,0,13,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[7,0,13,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[8,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[8,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[8,0,0,0,1,3,10,13,2,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX259 =
 "d9/dcc/classnpc__swarm__scarab.html#a1d0969526e57ca50c9a499c83f978fd2":[7,0,2210,1],
 "d9/dcc/classnpc__swarm__scarab.html#ae12fe8a7c6ee09fc16bd152f59c2d936":[7,0,2210,2],
 "d9/dcc/classnpc__torturer__lecraft.html":[7,0,2259],
-"d9/dcc/classnpc__torturer__lecraft.html#a789f8bdafe96d5cb01225b940a80c651":[7,0,2259,1],
-"d9/dcc/classnpc__torturer__lecraft.html#abdc8b33cd820c5cd14c999e7407897fe":[7,0,2259,2],
-"d9/dcd/MapInstanced_8h.html":[8,0,0,0,1,2,26,8]
+"d9/dcc/classnpc__torturer__lecraft.html#a789f8bdafe96d5cb01225b940a80c651":[7,0,2259,1]
 };

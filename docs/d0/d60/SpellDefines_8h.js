@@ -121,6 +121,7 @@ var SpellDefines_8h =
       [ "TRIGGERED_IGNORE_EQUIPPED_ITEM_REQUIREMENT", "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a047db1b783fd12cf86cbc55687456ed7", null ],
       [ "TRIGGERED_NO_PERIODIC_RESET", "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a1e22e2a008987f157bb07b148ad32b80", null ],
       [ "TRIGGERED_IGNORE_EFFECTS", "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a9b41f97133cb0567e7172389d180802a", null ],
+      [ "TRIGGERED_DONT_ENTER_COMBAT", "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967aa73760f10887e269452a3b2b83b4942f", null ],
       [ "TRIGGERED_FULL_DEBUG_MASK", "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967ae56afe6cdde091634a44db41be4e621f", null ]
     ] ]
 ];

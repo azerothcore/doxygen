@@ -1,5 +1,7 @@
 var NAVTREEINDEX250 =
 {
+"d9/d5b/classspell__summon__ice__spear__delayer.html#afb5cc6129423cb4f7c3da50977da01f2":[7,0,4208,0],
+"d9/d5c/classspell__hookshot.html":[7,0,3251],
 "d9/d5c/classspell__hookshot.html#a403728403abd55efdbfe1c835e9799bb":[7,0,3251,2],
 "d9/d5c/classspell__hookshot.html#a466691f96780f607b52b853c83ddbae4":[7,0,3251,4],
 "d9/d5c/classspell__hookshot.html#a71101aaf195d64a2fe6c821ad1d5379d":[7,0,3251,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX250 =
 "d9/d63/classTypeUnorderedMapContainer.html#adda6657e9a0fd08b105cd4d6b2baa9d3":[7,0,4635,6],
 "d9/d63/classspell__charge__shield__bomber__aura.html":[7,0,2781],
 "d9/d63/classspell__charge__shield__bomber__aura.html#a456b1b70fd6d9b6642ec959677fe08ff":[7,0,2781,2],
-"d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766":[7,0,2781,1],
-"d9/d63/classspell__charge__shield__bomber__aura.html#a784b48553696734abac77545df2fc045":[7,0,2781,0],
-"d9/d63/classspell__charge__shield__bomber__aura.html#aa3260fa9a1a918e13ccfc9cd57f59d19":[7,0,2781,3]
+"d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766":[7,0,2781,1]
 };

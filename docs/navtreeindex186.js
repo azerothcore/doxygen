@@ -1,5 +1,6 @@
 var NAVTREEINDEX186 =
 {
+"d6/d7f/classUpdateFetcher.html#a557f248b248b5cd62606f843eda0bc00":[7,0,4652,8],
 "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cb":[7,0,4652,9],
 "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cba34c826a491acfc2f451ee3d596d85763":[7,0,4652,9,2],
 "d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbab25140471fb922c632f3d126d2a3e5b4":[7,0,4652,9,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX186 =
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832aa73961d18c1921ae998afc109ecd8310":[8,0,0,0,1,3,5,21,30,26],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ab0a6b9d5072ab9fa63e4b4fc4b67a38b":[8,0,0,0,1,3,5,21,30,3],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832abed3be0a49c183ee18de761ee2dac0a8":[8,0,0,0,1,3,5,21,30,5],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832acd68765454d8ae15ea429e918ca8f05d":[8,0,0,0,1,3,5,21,30,33],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ad01d59790d3a417ff098f9143a424c3a":[8,0,0,0,1,3,5,21,30,15]
+"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832acd68765454d8ae15ea429e918ca8f05d":[8,0,0,0,1,3,5,21,30,33]
 };

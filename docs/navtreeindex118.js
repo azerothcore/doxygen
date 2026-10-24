@@ -1,5 +1,6 @@
 var NAVTREEINDEX118 =
 {
+"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258aa6ba1c59788c694061fb654e59c9fd53":[8,0,0,0,1,2,8,1,3,19,60],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258aa9875ca602f8d4435ce2bfb7d216fa86":[8,0,0,0,1,2,8,1,3,19,14],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258aab1eefd9a68e115dcd511e7531386032":[8,0,0,0,1,2,8,1,3,19,59],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ab7e144fe1c975f6f4e2b6edb82a83b9c":[8,0,0,0,1,2,8,1,3,19,64],
@@ -43,8 +44,8 @@ var NAVTREEINDEX118 =
 "d3/dd5/structnpc__azure__sorceror.html#a462d57b8e8cd01a9ec1bd59a453f6ab5":[7,0,1682,3],
 "d3/dd5/structnpc__azure__sorceror.html#af4bc0ff9b938302c399bff528dd06769":[7,0,1682,1],
 "d3/dd5/structnpc__azure__sorceror.html#afd53ae322f8387b5e5fe55e28612ce2f":[7,0,1682,0],
-"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[7,0,13,14,11],
+"d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html":[5,0,34,14,11],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[7,0,13,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a63dcedbd02a64775a60c45cb2b30eea7":[5,0,34,14,11,1],
 "d3/dd6/classWorldPackets_1_1Quest_1_1QuestPushResultClient.html#a83d8ff8ab8c8e3e883066cc6035ec307":[5,0,34,14,11,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX118 =
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html":[7,0,631,0],
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a44ebee45de335ff6f653e9d60a364458":[7,0,631,0,1],
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a54deac512294bb0901d072faef3166b1":[7,0,631,0,3],
-"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#adf199bf96bbf342caaa74b7dd6b8013c":[7,0,631,0,2],
-"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#ae1d6bb57fa69cea699fbac677a7ccdd2":[7,0,631,0,0]
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#adf199bf96bbf342caaa74b7dd6b8013c":[7,0,631,0,2]
 };

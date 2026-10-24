@@ -1,5 +1,7 @@
 var NAVTREEINDEX236 =
 {
+"d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1abb66f2065d11048bf61610fa8f79c573":[8,0,0,0,1,3,5,9,2,5,13,4],
+"d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1ac5cba5884d9d8362fd0f5c0cde6123c3":[8,0,0,0,1,3,5,9,2,5,13,21],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1ad004a234d89a2d52772cbfb5c1339a47":[8,0,0,0,1,3,5,9,2,5,13,24],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1ad4717c300512cf000af07535db9faf42":[8,0,0,0,1,3,5,9,2,5,13,13],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1ad63426f9a2bc82b4e69808afd9423f3c":[8,0,0,0,1,3,5,9,2,5,13,23],
@@ -130,8 +132,8 @@ var NAVTREEINDEX236 =
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[7,0,13,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[7,0,13,3,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[7,0,13,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
 "d8/d9c/classResetEncounterEvent.html":[7,0,2559],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[7,0,2559,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[7,0,2559,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX236 =
 "d8/da3/structCreatureMovementData.html#a0ca3905bb168b81853091a7d56796c1f":[7,0,961,14],
 "d8/da3/structCreatureMovementData.html#a1457436a01d5007235224fa9bfb93745":[7,0,961,13],
 "d8/da3/structCreatureMovementData.html#a3ed4b7f140537f9d066344c50a79b0b1":[7,0,961,7],
-"d8/da3/structCreatureMovementData.html#a530b2bbf530e553687c23555f3ffe655":[7,0,961,6],
-"d8/da3/structCreatureMovementData.html#aa535d32995ba28e11915dd56494f4a72":[7,0,961,10],
-"d8/da3/structCreatureMovementData.html#aa9e0267e4c73ec837653113394841fcf":[7,0,961,1]
+"d8/da3/structCreatureMovementData.html#a530b2bbf530e553687c23555f3ffe655":[7,0,961,6]
 };

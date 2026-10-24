@@ -1,5 +1,6 @@
 var NAVTREEINDEX167 =
 {
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2541326a53640981d350025c6a3956a7":[8,0,0,0,1,3,5,1,1,0,13,8],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2b42e61d933e80781efb4a75426ba0cf":[8,0,0,0,1,3,5,1,1,0,13,6],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,1,1,0,13,1],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7068f2f91b7cdd8c6d55f3038e4bcbcf":[8,0,0,0,1,3,5,1,1,0,13,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX167 =
 "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,5,7,0,4,4],
 "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298caed97c932510c91b6057175b2df166f63":[8,0,0,0,1,3,5,7,0,4,0],
 "d5/de3/boss__anubrekhan_8cpp.html#aca213155e8f076d7aaf870a8b79f12f3":[8,0,0,0,1,3,5,7,0,6],
-"d5/de3/classspell__halion__twilight__cutter.html":[7,0,3219],
-"d5/de3/classspell__halion__twilight__cutter.html#a3b9b2ffa90f58a5da93fd369e11c6216":[7,0,3219,1]
+"d5/de3/classspell__halion__twilight__cutter.html":[7,0,3219]
 };

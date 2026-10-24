@@ -1,8 +1,14 @@
 var NAVTREEINDEX394 =
 {
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a07c03ec8db8e498b417b7dbabb9412b3":[5,0,34,8,4,3],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a3069d333bccadf53310ce86118b2c224":[7,0,13,8,4,0],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a3069d333bccadf53310ce86118b2c224":[5,0,34,8,4,0],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a72fee9e84781ae2be25f9f15a2bb6de2":[5,0,34,8,4,2],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a72fee9e84781ae2be25f9f15a2bb6de2":[7,0,13,8,4,2],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a7db43e484bf82fb81ccca197c24df2d1":[5,0,34,8,4,4],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a7db43e484bf82fb81ccca197c24df2d1":[7,0,13,8,4,4],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[7,0,13,8,4,6],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[5,0,34,8,4,6],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aab9a5ff8f6f71a311e58e78b81ef7021":[7,0,13,8,4,6],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aaf2b6aefb11379325b8cf9931abff638":[5,0,34,8,4,5],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aaf2b6aefb11379325b8cf9931abff638":[7,0,13,8,4,5],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#aeeda3c4a9200cfdc3372f1a3510f453b":[7,0,13,8,4,1],
@@ -48,8 +54,8 @@ var NAVTREEINDEX394 =
 "de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[7,0,4144,0],
 "de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[7,0,4144,1],
 "de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[7,0,4144,3],
-"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,0,8,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[7,0,0,5,0,26],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,0,8,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[7,0,0,5,0,26,0],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[5,0,0,8,0,26,0],
 "de/d8d/structArenaScore.html":[7,0,189],
@@ -69,8 +75,8 @@ var NAVTREEINDEX394 =
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[5,0,0,8,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[7,0,0,5,8,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[5,0,0,8,8,2],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[7,0,0,5,8,1],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[5,0,0,8,8,1],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[7,0,0,5,8,1],
 "de/d8f/boss__krickandick_8cpp.html":[8,0,0,0,1,3,5,4,2,1],
 "de/d8f/boss__krickandick_8cpp.html#a01a1998120992ed059db815f85926ba6":[8,0,0,0,1,3,5,4,2,1,9],
 "de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,4,2,1,8],
@@ -243,11 +249,5 @@ var NAVTREEINDEX394 =
 "de/d95/classTicketMgr.html#a9bab47aaedbf07532960634a1eb20332":[7,0,4593,7],
 "de/d95/classTicketMgr.html#a9f3873fd2a9a9436b6626803b1eee0b2":[7,0,4593,19],
 "de/d95/classTicketMgr.html#aa746c055b37876983c7ee9642c44ae4c":[7,0,4593,11],
-"de/d95/classTicketMgr.html#aa9934956cb5efd70304cd048ddabc423":[7,0,4593,26],
-"de/d95/classTicketMgr.html#aaa0d229d1ec8cb98291464164ebc53dd":[7,0,4593,5],
-"de/d95/classTicketMgr.html#ab2adb26abcc34cec26786f9030bca6e5":[7,0,4593,12],
-"de/d95/classTicketMgr.html#ab837d31037c50df0740583ffd7165fbe":[7,0,4593,10],
-"de/d95/classTicketMgr.html#ab89b490da7ddfd888b36f4ec0beced36":[7,0,4593,13],
-"de/d95/classTicketMgr.html#abd1be6074a685517dc152da7e7639f3c":[7,0,4593,6],
-"de/d95/classTicketMgr.html#ace173a347497eb6601a8c4654bdf0347":[7,0,4593,9]
+"de/d95/classTicketMgr.html#aa9934956cb5efd70304cd048ddabc423":[7,0,4593,26]
 };

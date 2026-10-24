@@ -1,5 +1,7 @@
 var NAVTREEINDEX228 =
 {
+"d8/d45/classAuraStub.html#a4fd8bc30add29022a10f9b98cf39d1ab":[7,0,301,39],
+"d8/d45/classAuraStub.html#a52ab904d4503a6050960132c677c08ec":[7,0,301,30],
 "d8/d45/classAuraStub.html#a53cbbb0b1c31583827e80b88e0d27e69":[7,0,301,29],
 "d8/d45/classAuraStub.html#a6100f97e9f7f4e11205a2ba16deaf53d":[7,0,301,31],
 "d8/d45/classAuraStub.html#a672ff1d71cbfb2ea312298b897a07080":[7,0,301,4],
@@ -58,16 +60,16 @@ var NAVTREEINDEX228 =
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a54081ebfc0df639b7e18b5f079802c92":[7,0,617,0,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,34,8,9],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[7,0,13,8,9],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[7,0,13,8,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[5,0,34,8,9,4],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[7,0,13,8,9,2],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[7,0,13,8,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[5,0,34,8,9,2],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[7,0,13,8,9,5],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[7,0,13,8,9,2],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[5,0,34,8,9,5],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[7,0,13,8,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,34,8,9,1],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[7,0,13,8,9,1],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[5,0,34,8,9,0],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[7,0,13,8,9,0],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[5,0,34,8,9,0],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[5,0,34,8,9,3],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[7,0,13,8,9,3],
 "d8/d48/classspell__rog__cold__blood.html":[7,0,4047],
@@ -247,7 +249,5 @@ var NAVTREEINDEX228 =
 "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cda22070086d807390f3a1abd3e58ebf829":[8,0,0,0,1,3,5,13,14,0],
 "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cda6dabd6b3cc6c74769d3d8ac9a22c1133":[8,0,0,0,1,3,5,13,14,3],
 "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cdadbcdc7932b4e3141c4e5fb1a807bc236":[8,0,0,0,1,3,5,13,14,1],
-"d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cdaefe9bfe55a91a8bd7e02f67f6d2c4cb6":[8,0,0,0,1,3,5,13,14,2],
-"d8/d4d/isle__of__conquest_8cpp.html#a4624e31db1be4aeba27dd1aeec3d8d42":[8,0,0,0,1,3,5,13,13],
-"d8/d4d/isle__of__conquest_8cpp.html#a4624e31db1be4aeba27dd1aeec3d8d42a0c03080790fee3aafe55605f14ad07ea":[8,0,0,0,1,3,5,13,13,5]
+"d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cdaefe9bfe55a91a8bd7e02f67f6d2c4cb6":[8,0,0,0,1,3,5,13,14,2]
 };

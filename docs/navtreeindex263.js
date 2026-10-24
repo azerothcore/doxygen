@@ -1,5 +1,7 @@
 var NAVTREEINDEX263 =
 {
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2add508baee533e776abf2689659a4bd32":[8,0,0,0,1,3,5,9,2,16,4,51],
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ae0766df35d88ed423327a55bb8f2451a":[8,0,0,0,1,3,5,9,2,16,4,73],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ae3c24bcd411ea3dea5d4b30962003fdc":[8,0,0,0,1,3,5,9,2,16,4,17],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ae609f8e97ac18eaad28ccff5eaa806d6":[8,0,0,0,1,3,5,9,2,16,4,57],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ae6d2fdd4a99c4a301b5674236dfee88a":[8,0,0,0,1,3,5,9,2,16,4,64],
@@ -247,7 +249,5 @@ var NAVTREEINDEX263 =
 "d9/dff/classCreatureTextLocalizer.html#ab2c364aa9d45ca2267db2641b26821f7":[7,0,970,2],
 "d9/dff/classCreatureTextLocalizer.html#adf9260955b0141e85ff47c66350244e2":[7,0,970,4],
 "d9/dff/classspell__pal__judgement.html":[7,0,3798],
-"d9/dff/classspell__pal__judgement.html#a2cffed69c16a1a6189048ed52af35152":[7,0,3798,2],
-"d9/dff/classspell__pal__judgement.html#a3971c195a279338253771675131b4802":[7,0,3798,4],
-"d9/dff/classspell__pal__judgement.html#a497aed8c1d8c6a2af22e9e8daae96e14":[7,0,3798,0]
+"d9/dff/classspell__pal__judgement.html#a2cffed69c16a1a6189048ed52af35152":[7,0,3798,2]
 };

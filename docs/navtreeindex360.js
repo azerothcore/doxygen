@@ -1,5 +1,10 @@
 var NAVTREEINDEX360 =
 {
+"dd/db7/classAllSpellScript.html#aae718678bb7d9a7ed1e0cbbc59db3049":[7,0,159,15],
+"dd/db7/classAllSpellScript.html#abf3758ff33e5be1492ed4e45979a7a8d":[7,0,159,12],
+"dd/db7/classAllSpellScript.html#ad5dd3e0f697edb93df6ee764fe2a1d99":[7,0,159,14],
+"dd/db7/classAllSpellScript.html#addb78dc29f771ec376922a4a2bff558b":[7,0,159,16],
+"dd/db7/classAllSpellScript.html#ae5a4590e4fb49d4cfe73c5ce307773ca":[7,0,159,5],
 "dd/db7/classAllSpellScript.html#aeb2d438fdd7ca823ce670a94941bafff":[7,0,159,1],
 "dd/db7/classAllSpellScript.html#afe06aa2578b89fbc5ed5784aed38912a":[7,0,159,9],
 "dd/db8/classnpc__massive__jormungar.html":[7,0,2006],
@@ -244,10 +249,5 @@ var NAVTREEINDEX360 =
 "dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a528807bdc70f6354672e25e327dc140e":[8,0,0,0,1,3,5,9,2,10,26,33],
 "dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a559f4cebe6f06a54596bf110da411aa6":[8,0,0,0,1,3,5,9,2,10,26,14],
 "dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a6044abb3d0b6b673f14ca9bf065b2099":[8,0,0,0,1,3,5,9,2,10,26,34],
-"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a722ddc74ef25b37bcf097eb97bffa8dd":[8,0,0,0,1,3,5,9,2,10,26,22],
-"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a7400052aae10fcb8a8047d9a930a6d47":[8,0,0,0,1,3,5,9,2,10,26,5],
-"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a846055c995374082714483a6b39bc963":[8,0,0,0,1,3,5,9,2,10,26,4],
-"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a87e8d95a20af482f1f8cede84ea49099":[8,0,0,0,1,3,5,9,2,10,26,20],
-"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a920803a7ad734282762d93767b701526":[8,0,0,0,1,3,5,9,2,10,26,30],
-"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a98b64b5e9f4aa8dd229de637e17c308c":[8,0,0,0,1,3,5,9,2,10,26,16]
+"dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29a722ddc74ef25b37bcf097eb97bffa8dd":[8,0,0,0,1,3,5,9,2,10,26,22]
 };

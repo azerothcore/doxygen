@@ -1,5 +1,10 @@
 var NAVTREEINDEX322 =
 {
+"dc/d0c/AllPackets_8h.html":[8,0,0,0,1,2,39,0,0],
+"dc/d0c/classspell__dru__tiger__s__fury.html":[7,0,2955],
+"dc/d0c/classspell__dru__tiger__s__fury.html#a0d74ce7c43f0cb7329ca990f1b0eecdf":[7,0,2955,1],
+"dc/d0c/classspell__dru__tiger__s__fury.html#a56ecd2ea05f48b874b2890d7f15cc362":[7,0,2955,0],
+"dc/d0c/classspell__dru__tiger__s__fury.html#a7cd2cc858eeb7805a3efb72b081c284e":[7,0,2955,2],
 "dc/d0d/cs__disable_8cpp.html":[8,0,0,0,1,3,0,14],
 "dc/d0d/cs__disable_8cpp.html#a232e1ddbf34ceae5a317df69255bc8de":[8,0,0,0,1,3,0,14,1],
 "dc/d0d/structboss__kurinnaxx.html":[7,0,602],
@@ -244,10 +249,5 @@ var NAVTREEINDEX322 =
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[7,0,3967,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,26],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[7,0,0,14],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[7,0,0,14,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,26,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[7,0,0,14,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[7,0,0,14,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1]
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[7,0,0,14,2]
 };

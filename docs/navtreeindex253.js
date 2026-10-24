@@ -1,5 +1,7 @@
 var NAVTREEINDEX253 =
 {
+"d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eafd18ccf6cdabe35fbf6116cc855ac454":[8,0,0,0,1,3,5,6,13,7,60],
+"d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eafd2a30b02f781d11ca026904c7b2ddbc":[8,0,0,0,1,3,5,6,13,7,70],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eafda191c74fd1c83749ae4eb105dbe2eb":[8,0,0,0,1,3,5,6,13,7,78],
 "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,5,6,13,6],
 "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a0016472992426a67e364f265c5e28442":[8,0,0,0,1,3,5,6,13,6,21],
@@ -132,14 +134,14 @@ var NAVTREEINDEX253 =
 "d9/d6e/classSmartWaypointMgr.html#ab3fb0cb109b9bf28ee09173f4340c351":[7,0,2634,2],
 "d9/d6e/classSmartWaypointMgr.html#ac34eb4bd79106db2574cce0208a785e5":[7,0,2634,5],
 "d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[7,0,2634,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,17,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html":[7,0,5,16],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,17,16,1],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,17,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[7,0,5,16,1],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[5,0,17,16,4],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,17,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[7,0,5,16,4],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,17,16,5],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[5,0,17,16,4],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[7,0,5,16,5],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,17,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[5,0,17,16,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[7,0,5,16,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[7,0,5,16,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX253 =
 "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c":[8,0,0,0,1,2,38,0,54,1,18],
 "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fad0b6e7a19cdc19629565be749f17bbca":[8,0,0,0,1,2,38,0,54,1,21],
 "d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1":[8,0,0,0,1,2,38,0,54,1,11],
-"d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0":[8,0,0,0,1,2,38,0,54,1,2],
-"d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872":[8,0,0,0,1,2,38,0,54,1,20],
-"d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf":[8,0,0,0,1,2,38,0,54,1,7]
+"d9/d75/GlobalScript_8h.html#a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0":[8,0,0,0,1,2,38,0,54,1,2]
 };

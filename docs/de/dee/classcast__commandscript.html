@@ -401,17 +401,19 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   81</span>        <span class="keywordflow">if</span> (triggeredStr)</div>
 <div class="line"><span class="lineno">   82</span>        {</div>
 <div class="line"><span class="lineno">   83</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/dc8/Util_8h.html#a4e06522850c9dc5d01c100a430456eeb">StringStartsWith</a>(<span class="stringliteral">&quot;triggered&quot;</span>, *triggeredStr)) <span class="comment">// check if &quot;triggered&quot; starts with *triggeredStr (e.g. &quot;trig&quot;, &quot;trigger&quot;, etc.)</span></div>
-<div class="line"><span class="lineno">   84</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967ae56afe6cdde091634a44db41be4e621f">TRIGGERED_FULL_DEBUG_MASK</a>;</div>
+<div class="line"><span class="lineno">   84</span>                <span class="keywordflow">return</span> <a class="code hl_enumeration" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967">TriggerCastFlags</a>(<a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967ae56afe6cdde091634a44db41be4e621f">TRIGGERED_FULL_DEBUG_MASK</a> &amp; ~<a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967aa73760f10887e269452a3b2b83b4942f">TRIGGERED_DONT_ENTER_COMBAT</a>);</div>
 <div class="line"><span class="lineno">   85</span>            <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">   86</span>                <span class="keywordflow">return</span> std::nullopt;</div>
 <div class="line"><span class="lineno">   87</span>        }</div>
 <div class="line"><span class="lineno">   88</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a>;</div>
 <div class="line"><span class="lineno">   89</span>    }</div>
+<div class="ttc" id="aSpellDefines_8h_html_a9f3c49d8db7e142b86eba36bc8951967"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967">TriggerCastFlags</a></div><div class="ttdeci">TriggerCastFlags</div><div class="ttdef"><b>Definition</b> SpellDefines.h:140</div></div>
+<div class="ttc" id="aSpellDefines_8h_html_a9f3c49d8db7e142b86eba36bc8951967aa73760f10887e269452a3b2b83b4942f"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967aa73760f10887e269452a3b2b83b4942f">TRIGGERED_DONT_ENTER_COMBAT</a></div><div class="ttdeci">@ TRIGGERED_DONT_ENTER_COMBAT</div><div class="ttdoc">Ignore spell effects - used for ritual portals.</div><div class="ttdef"><b>Definition</b> SpellDefines.h:162</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a></div><div class="ttdeci">@ TRIGGERED_NONE</div><div class="ttdef"><b>Definition</b> SpellDefines.h:141</div></div>
-<div class="ttc" id="aSpellDefines_8h_html_a9f3c49d8db7e142b86eba36bc8951967ae56afe6cdde091634a44db41be4e621f"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967ae56afe6cdde091634a44db41be4e621f">TRIGGERED_FULL_DEBUG_MASK</a></div><div class="ttdeci">@ TRIGGERED_FULL_DEBUG_MASK</div><div class="ttdoc">Ignore spell effects - used for ritual portals.</div><div class="ttdef"><b>Definition</b> SpellDefines.h:162</div></div>
+<div class="ttc" id="aSpellDefines_8h_html_a9f3c49d8db7e142b86eba36bc8951967ae56afe6cdde091634a44db41be4e621f"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967ae56afe6cdde091634a44db41be4e621f">TRIGGERED_FULL_DEBUG_MASK</a></div><div class="ttdeci">@ TRIGGERED_FULL_DEBUG_MASK</div><div class="ttdoc">Skips hostile-target combat calls on launch/hit.</div><div class="ttdef"><b>Definition</b> SpellDefines.h:163</div></div>
 <div class="ttc" id="aUtil_8h_html_a4e06522850c9dc5d01c100a430456eeb"><div class="ttname"><a href="../../d1/dc8/Util_8h.html#a4e06522850c9dc5d01c100a430456eeb">StringStartsWith</a></div><div class="ttdeci">bool StringStartsWith(std::string_view haystack, std::string_view needle)</div><div class="ttdef"><b>Definition</b> Util.h:392</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00392">StringStartsWith()</a>, <a class="el" href="../../#l00162">TRIGGERED_FULL_DEBUG_MASK</a>, and <a class="el" href="../../#l00141">TRIGGERED_NONE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00392">StringStartsWith()</a>, <a class="el" href="../../#l00162">TRIGGERED_DONT_ENTER_COMBAT</a>, <a class="el" href="../../#l00163">TRIGGERED_FULL_DEBUG_MASK</a>, and <a class="el" href="../../#l00141">TRIGGERED_NONE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00116">HandleCastBackCommand()</a>, <a class="el" href="../../#l00091">HandleCastCommand()</a>, <a class="el" href="../../#l00218">HandleCastDestCommand()</a>, <a class="el" href="../../#l00141">HandleCastDistCommand()</a>, <a class="el" href="../../#l00162">HandleCastSelfCommand()</a>, and <a class="el" href="../../#l00187">HandleCastTargetCommad()</a>.</p>
 
@@ -882,7 +884,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/dee/classcast__commandscript.html">cast_commandscript</a></li>
-    <li class="footer">Generated on Fri Oct 23 2026 10:55:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 24 2026 10:09:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

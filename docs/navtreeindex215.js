@@ -1,5 +1,7 @@
 var NAVTREEINDEX215 =
 {
+"d7/da4/classspell__item__restless__strength.html#aed93f4b7af2194f765375b8f5e0318f7":[7,0,3494,0],
+"d7/da4/classspell__item__restless__strength.html#afb0a37d7f0e8dac4a2aa4bf4d35f470a":[7,0,3494,2],
 "d7/da5/classat__karazhan__atiesh__aran.html":[7,0,238],
 "d7/da5/classat__karazhan__atiesh__aran.html#a5a6646c573b6e0bab0cbc288e594979e":[7,0,238,1],
 "d7/da5/classat__karazhan__atiesh__aran.html#ac84f5848b8a26cbfdd2544108567a6cc":[7,0,238,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX215 =
 "d7/db0/classMap.html#a6189633fb9b04cde53f163d66ec1f8a9":[7,0,1524,95],
 "d7/db0/classMap.html#a61e8180fb876a796c8bd5a3b91deeb49":[7,0,1524,10],
 "d7/db0/classMap.html#a633f254cedc6eaaae3729a169c182daa":[7,0,1524,266],
-"d7/db0/classMap.html#a639bd17aa95f070603b1b782601cf5fe":[7,0,1524,49],
-"d7/db0/classMap.html#a642aaddad052cf1a6092b7fab0fa3ab1":[7,0,1524,23],
-"d7/db0/classMap.html#a64f4e50b011c1bde4c4bb4fbb8d9bda9":[7,0,1524,215]
+"d7/db0/classMap.html#a639bd17aa95f070603b1b782601cf5fe":[7,0,1524,49]
 };

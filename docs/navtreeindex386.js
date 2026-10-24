@@ -1,5 +1,10 @@
 var NAVTREEINDEX386 =
 {
+"de/d33/classspell__item__darkmoon__card__illusion.html#a13f11ec412f18d805282b3810aff5e90":[7,0,3396,1],
+"de/d33/classspell__item__darkmoon__card__illusion.html#a2863c81b02f0b08430d9e713e7b644f7":[7,0,3396,3],
+"de/d33/classspell__item__darkmoon__card__illusion.html#a554e2ab9dfd9d157eee13b7a5c33cf2e":[7,0,3396,0],
+"de/d33/classspell__item__darkmoon__card__illusion.html#ac9a6a96da8387d3c51fece7f0a968779":[7,0,3396,2],
+"de/d33/structboss__bronjahm.html":[7,0,421],
 "de/d33/structboss__bronjahm.html#a313bd4510e18ecb529b6358d28a3dc3f":[7,0,421,8],
 "de/d33/structboss__bronjahm.html#a3be47710012bd75a71574f7a4c69f678":[7,0,421,9],
 "de/d33/structboss__bronjahm.html#a44666a47b298efe48c4e86b8677d9845":[7,0,421,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX386 =
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a5f30e1257412cc2dcc9b7b085b8b7bc5":[7,0,2228,0,7],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a7fccc11c62d1d898d9c6f40456626ab7":[7,0,2228,0,21],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a97badd906bc9b0cd0278d003191e585a":[7,0,2228,0,16],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a9a948a3a8dd472dce54a1921272b5994":[7,0,2228,0,24],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aa942d8c8cde5ec6e9bcbbc76f62e6eab":[7,0,2228,0,5],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aabaab2a83d00264c500552c7463cd9bc":[7,0,2228,0,18],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#aaf200bc2ab00524cd78d7cccc141d31d":[7,0,2228,0,20],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab724c7b0673ab8cd50def4a864545617":[7,0,2228,0,15],
-"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab9058c31253d42457136ad4e7a92909c":[7,0,2228,0,13]
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a9a948a3a8dd472dce54a1921272b5994":[7,0,2228,0,24]
 };

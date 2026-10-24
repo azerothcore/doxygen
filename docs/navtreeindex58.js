@@ -1,5 +1,6 @@
 var NAVTREEINDEX58 =
 {
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,0],
 "d2/d39/classboss__varos.html":[7,0,775],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX58 =
 "d2/d48/classChannel.html":[7,0,869],
 "d2/d48/classChannel.html#a019ca37867664ed06185f12e632a76ae":[7,0,869,112],
 "d2/d48/classChannel.html#a062b01af76e2a3befa303947dd9080e9":[7,0,869,62],
-"d2/d48/classChannel.html#a0b4763580aadb148db8c9e0e8b5f76c3":[7,0,869,24],
-"d2/d48/classChannel.html#a0c942cfade4b4cce4f98774b4241cf4e":[7,0,869,77]
+"d2/d48/classChannel.html#a0b4763580aadb148db8c9e0e8b5f76c3":[7,0,869,24]
 };

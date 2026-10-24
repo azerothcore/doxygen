@@ -1,5 +1,7 @@
 var NAVTREEINDEX246 =
 {
+"d9/d16/structMetricData.html#ac22787b2dadd4d3991f72f6ccab5c225":[7,0,1551,1],
+"d9/d16/structMetricData.html#af9962592650ba24fd9b3c0ee9ce06f7f":[7,0,1551,5],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html":[7,0,1655,0],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a0d51c4ab1701e62c02431b86f22eaf30":[7,0,1655,0,10],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html#a0ee99690c32addb8e2ea01fd46f7d7d7":[7,0,1655,0,9],
@@ -214,8 +216,8 @@ var NAVTREEINDEX246 =
 "d9/d28/structAreaPOIEntry.html#afcb7cc22d0ed260793b31f8893d13a0f":[7,0,169,5],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[5,0,34,14,15],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[7,0,13,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036":[8,0,0,0,0,4,1,2,7],
 "d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c":[8,0,0,0,0,4,1,2,0],
 "d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a":[8,0,0,0,0,4,1,2,3],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29":[8,0,0,0,0,4,1,2,2],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642":[8,0,0,0,0,4,1,2,6],
-"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c":[8,0,0,0,0,4,1,2,1]
+"d9/d2c/DBCFileLoader_8h.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29":[8,0,0,0,0,4,1,2,2]
 };

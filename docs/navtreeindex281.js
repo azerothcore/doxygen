@@ -1,5 +1,8 @@
 var NAVTREEINDEX281 =
 {
+"da/da1/classspell__mage__pet__scaling.html#acc22795ea812f31b0b9e21e6494c2d19":[7,0,3660,8],
+"da/da3/DatabaseUpdatePool_8h.html":[8,0,0,0,1,1,0,8],
+"da/da3/classgroup__commandscript.html":[7,0,1267],
 "da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94":[7,0,1267,8],
 "da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[7,0,1267,6],
 "da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb":[7,0,1267,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX281 =
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a0adf10b63735dbdf1cb3d49c73f7da1d":[7,0,3918,1],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[7,0,3918,0],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[7,0,3918,3],
-"da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[7,0,3918,2],
-"da/dac/structAccountData.html":[4,1,10],
-"da/dac/structAccountData.html#a38b2049e50845641cc380b6786e68ac5":[4,1,10,2],
-"da/dac/structAccountData.html#a593303fb86ec3ac592ee933b8d057fe8":[4,1,10,0]
+"da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[7,0,3918,2]
 };

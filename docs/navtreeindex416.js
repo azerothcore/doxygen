@@ -1,5 +1,11 @@
 var NAVTREEINDEX416 =
 {
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca7d2d663e0fd0f7e37fdd04eb045c5c6c":[8,0,0,0,1,3,5,1,0,0,11,0],
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5cab498cbac865a3d5691ccdb474aca5ef1":[8,0,0,0,1,3,5,1,0,0,11,4],
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5cada853ce460abd3905eb5fc560a13b94b":[8,0,0,0,1,3,5,1,0,0,11,1],
+"df/d71/boss__sartharion_8cpp.html#a7650edac9f59e825db7ba6684ecbee1e":[8,0,0,0,1,3,5,1,0,0,19],
+"df/d71/boss__sartharion_8cpp.html#a818921054ff5bea8d1030013c546b60c":[8,0,0,0,1,3,5,1,0,0,17],
+"df/d71/boss__sartharion_8cpp.html#a81b294ca8a159dc71b8b8a254f36a937":[8,0,0,0,1,3,5,1,0,0,18],
 "df/d71/boss__sartharion_8cpp.html#a910e8f676e81db2660e8dce974a33f7b":[8,0,0,0,1,3,5,1,0,0,24],
 "df/d71/boss__sartharion_8cpp.html#a99ab829ba7f384a769ae94da078aa9df":[8,0,0,0,1,3,5,1,0,0,16],
 "df/d71/boss__sartharion_8cpp.html#abd520a29ab6e7fb834942fe165bd483a":[8,0,0,0,1,3,5,1,0,0,25],
@@ -117,8 +123,8 @@ var NAVTREEINDEX416 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[7,0,2889,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[7,0,2889,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[7,0,2889,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
+"df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
 "df/d78/classspell__dk__ghoul__thrash.html":[7,0,2845],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[7,0,2845,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[7,0,2845,1],
@@ -195,7 +201,8 @@ var NAVTREEINDEX416 =
 "df/d7b/classAuraMunchingQueue.html#a8ac00964608170d5375242c1b19c4be3":[7,0,297,3],
 "df/d7b/classAuraMunchingQueue.html#a8f025a0ea1db81fb283db563402d1c40":[7,0,297,1],
 "df/d7b/classAuraMunchingQueue.html#a9cf03046c9595e81bf119b7aacb1a81a":[7,0,297,4],
-"df/d7b/classAuraMunchingQueue.html#abf9787bcfa9393619ffebe2ad7b5cd46":[7,0,297,0],
+"df/d7b/classAuraMunchingQueue.html#ab8b5c02c36c4cecd1e1e917d6af2e4de":[7,0,297,0],
+"df/d7b/classAuraMunchingQueue.html#adbbda614f5c18ed3880bfd94b81a4240":[7,0,297,8],
 "df/d7b/classAuraMunchingQueue.html#add694e24c38d585784f236acf9118b76":[7,0,297,2],
 "df/d7b/structQuestGreeting.html":[7,0,2519],
 "df/d7b/structQuestGreeting.html#a053adbedc95026b192360e13d32c9401":[7,0,2519,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX416 =
 "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042ac6234171b69b268fec1236327f9372d0":[8,0,0,0,1,3,10,20,0,19],
 "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042ac8b6b89345c6fe78a7dbb5197b16041f":[8,0,0,0,1,3,10,20,0,7],
 "df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042ad8c3b3e97c6776a5f533b6fdadf5564c":[8,0,0,0,1,3,10,20,0,0],
-"df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042afe3801ab9e0f7c0438996827c281b9d2":[8,0,0,0,1,3,10,20,0,5],
-"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5":[8,0,0,0,1,3,10,20,2],
-"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5a1a94d73b5d5e70d7c17e463556e8e876":[8,0,0,0,1,3,10,20,2,1],
-"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5a2c56c53c589bf23482cfd7b6634feec9":[8,0,0,0,1,3,10,20,2,0],
-"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5a507e22eb760b71237f8238d944d0e5f8":[8,0,0,0,1,3,10,20,2,3],
-"df/d7d/transport__zeppelin_8h.html#a84ac3a8fc106c05c2d0bd523feae76f5abfdb729378b13ab02f84c546478b1f84":[8,0,0,0,1,3,10,20,2,2],
-"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16a":[8,0,0,0,1,3,10,20,1],
-"df/d7d/transport__zeppelin_8h.html#a8f8deae914061890416155e26c96f16aa09d5e48c24e03306a4d0d12e08262b90":[8,0,0,0,1,3,10,20,1,5]
+"df/d7d/transport__zeppelin_8h.html#a79ab5591f9534775ed690dc76f71b042afe3801ab9e0f7c0438996827c281b9d2":[8,0,0,0,1,3,10,20,0,5]
 };

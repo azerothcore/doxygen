@@ -1,5 +1,10 @@
 var NAVTREEINDEX338 =
 {
+"dc/db2/SpellScript_8h.html#adc2aca3aa7cbad44c23b542d6bc0162a":[8,0,0,0,1,2,41,11,60],
+"dc/db2/SpellScript_8h.html#ae0687be1e7030c249fe64a34fac8fe6d":[8,0,0,0,1,2,41,11,33],
+"dc/db2/SpellScript_8h.html#ae0e218d3b7359beb034b0a6f929ced84":[8,0,0,0,1,2,41,11,42],
+"dc/db2/SpellScript_8h.html#ae48944a76973e5072df96136a9e79826":[8,0,0,0,1,2,41,11,34],
+"dc/db2/SpellScript_8h.html#aecb97d532499a4b7bfaccc898401260c":[8,0,0,0,1,2,41,11,53],
 "dc/db2/SpellScript_8h.html#af2fd7627b33028274141d6e790134ccc":[8,0,0,0,1,2,41,11,37],
 "dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b":[8,0,0,0,1,2,41,11,46],
 "dc/db2/classspell__calling__korkron__or__wildhammer.html":[7,0,2768],
@@ -244,10 +249,5 @@ var NAVTREEINDEX338 =
 "dc/dbd/classinstance__scarlet__monastery.html#a1c66031217457809fbe56303085715a0":[7,0,1372,2],
 "dc/dbd/classinstance__scarlet__monastery.html#a8f068ebd98bd81dbb60dbccd795f1f3f":[7,0,1372,1],
 "dc/dbd/instance__onyxias__lair_8cpp.html":[8,0,0,0,1,3,4,4,1],
-"dc/dbd/instance__onyxias__lair_8cpp.html#a05fe21b6a553baae55b3b2523efaa9c3":[8,0,0,0,1,3,4,4,1,2],
-"dc/dbd/instance__onyxias__lair_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,4,4,1,4],
-"dc/dbd/instance__onyxias__lair_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[8,0,0,0,1,3,4,4,1,3],
-"dc/dbf/classspell__brewfest__relay__race__force__cast.html":[7,0,2755],
-"dc/dbf/classspell__brewfest__relay__race__force__cast.html#a0fa160f1218cf838444f894716cb8aed":[7,0,2755,1],
-"dc/dbf/classspell__brewfest__relay__race__force__cast.html#a2a6816d9ab97abddfa20cd6413a94178":[7,0,2755,2]
+"dc/dbd/instance__onyxias__lair_8cpp.html#a05fe21b6a553baae55b3b2523efaa9c3":[8,0,0,0,1,3,4,4,1,2]
 };

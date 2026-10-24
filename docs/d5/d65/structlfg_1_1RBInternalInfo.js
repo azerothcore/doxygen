@@ -1,7 +1,7 @@
 var structlfg_1_1RBInternalInfo =
 [
     [ "RBInternalInfo", "d5/d65/structlfg_1_1RBInternalInfo.html#a16f7daa165cc0521e928bf6c755f2231", null ],
-    [ "RBInternalInfo", "d5/d65/structlfg_1_1RBInternalInfo.html#adc97adaf8a962c054a2eb86f04727f0e", null ],
+    [ "RBInternalInfo", "d5/d65/structlfg_1_1RBInternalInfo.html#a811cec5f70361fdee28c1268e1b319bc", null ],
     [ "CopyStats", "d5/d65/structlfg_1_1RBInternalInfo.html#a641ab60e9f29479afc24efa03d81371e", null ],
     [ "PlayerSameAs", "d5/d65/structlfg_1_1RBInternalInfo.html#a0e00d22d5af47d0df2c193163652b656", null ],
     [ "_agility", "d5/d65/structlfg_1_1RBInternalInfo.html#a414f588ac48948c295d03c2bada0ea53", null ],
@@ -14,7 +14,7 @@ var structlfg_1_1RBInternalInfo =
     [ "_critRatingMelee", "d5/d65/structlfg_1_1RBInternalInfo.html#ad468f2456cf834e787b4a1fa4926f84e", null ],
     [ "_critRatingRanged", "d5/d65/structlfg_1_1RBInternalInfo.html#a2aaaa7434843d147ebf81b8991a0a3d3", null ],
     [ "_critRatingSpell", "d5/d65/structlfg_1_1RBInternalInfo.html#abded2be63cec5f5eac77798a7e3a8d05", null ],
-    [ "_defenseSkill", "d5/d65/structlfg_1_1RBInternalInfo.html#ae054e980b0874ed79177ccf4d01ee153", null ],
+    [ "_defenseRating", "d5/d65/structlfg_1_1RBInternalInfo.html#ab0dfbfa3bb38b9d56004e0082ae8a1ba", null ],
     [ "_dodgeRating", "d5/d65/structlfg_1_1RBInternalInfo.html#ae71be8a35d63654baa76cf77eec5f5cb", null ],
     [ "_expertiseRating", "d5/d65/structlfg_1_1RBInternalInfo.html#aef904d37ae69b5a306603cfd34eb351e", null ],
     [ "_hasteRating", "d5/d65/structlfg_1_1RBInternalInfo.html#a9a02483fe9a8752e5fd3dfb73b700e5d", null ],

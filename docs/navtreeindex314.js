@@ -1,5 +1,10 @@
 var NAVTREEINDEX314 =
 {
+"db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[7,0,3618,1],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[7,0,1702,0],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[7,0,1702,0,10],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[7,0,1702,0,1],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a25f4056b2d7fda02885f58502f809a9c":[7,0,1702,0,11],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a34a0a856a4a4c05954ba300d8031e374":[7,0,1702,0,4],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a369a837b6fa57d0960f24d9ea629ed04":[7,0,1702,0,8],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a446dc0b76eb3549b0e86b02e541f6296":[7,0,1702,0,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX314 =
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a4c1e144641d137d320608174c3ada70bae5d2e96966539a0458afae0e53cf752a":[8,0,0,0,1,3,2,30,42,12],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a4e0920d64510440a7850bf1c1ef76f54":[8,0,0,0,1,3,2,30,21],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a53efc1ffb24449425ecfd7f2c978d610":[8,0,0,0,1,3,2,30,36],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a53efc1ffb24449425ecfd7f2c978d610a40711f230e0a3b241f4d8c6f840df486":[8,0,0,0,1,3,2,30,36,1],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a53efc1ffb24449425ecfd7f2c978d610a88f2efc8fafad847f157cf8924b28ea2":[8,0,0,0,1,3,2,30,36,0],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a53efc1ffb24449425ecfd7f2c978d610a9e2e8cb96d69b1ed0ed95be65a907ac8":[8,0,0,0,1,3,2,30,36,2],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a57f4f429a1e3511b8e45bcc188ccad8d":[8,0,0,0,1,3,2,30,22],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a57f4f429a1e3511b8e45bcc188ccad8da622f41d2bbec25f8b56efa3e9c2f568a":[8,0,0,0,1,3,2,30,22,1],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#a57f4f429a1e3511b8e45bcc188ccad8dab11e2d6ac4076040d0ce18f8be9ab8bc":[8,0,0,0,1,3,2,30,22,0]
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a53efc1ffb24449425ecfd7f2c978d610a40711f230e0a3b241f4d8c6f840df486":[8,0,0,0,1,3,2,30,36,1]
 };

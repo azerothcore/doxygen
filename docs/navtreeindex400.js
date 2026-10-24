@@ -1,5 +1,11 @@
 var NAVTREEINDEX400 =
 {
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a8ba24c0631934a42c70fd4ed5ba69da8":[8,0,0,0,1,3,7,4,3,5,3,5],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a95c3bca8e95896b690f3503e3ef31875":[8,0,0,0,1,3,7,4,3,5,3,10],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22ab06103838f89d78fc1580d51fa13503a":[8,0,0,0,1,3,7,4,3,5,3,7],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22abf6aceeb13c42866b5cd82d397a3f3eb":[8,0,0,0,1,3,7,4,3,5,3,0],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22ac870568dc5af12a7b5d0c97429e0b9c1":[8,0,0,0,1,3,7,4,3,5,3,4],
+"de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22ad127e03b933f954d42557473b3995cf6":[8,0,0,0,1,3,7,4,3,5,3,9],
 "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22ae8a3a7519ff3b93747589918a6fe5129":[8,0,0,0,1,3,7,4,3,5,3,13],
 "de/daf/classspell__pal__infusion__of__light.html":[7,0,3796],
 "de/daf/classspell__pal__infusion__of__light.html#a1898ee4e5e69f7b00b242340e53c131f":[7,0,3796,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX400 =
 "de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6":[8,0,0,0,1,2,38,0,32,1,2],
 "de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f":[8,0,0,0,1,2,38,0,32,1,5],
 "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html":[7,0,1467],
-"de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#a537a2beaa8321095d2d67b8fb655acea":[7,0,1467,0],
-"de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#aeaa47302a91b5882afae3950ffc460cc":[7,0,1467,1],
-"de/dbf/structboss__maiden__of__virtue.html":[7,0,623],
-"de/dbf/structboss__maiden__of__virtue.html#a32dd66a297d11f5ffac1841bae15727a":[7,0,623,3],
-"de/dbf/structboss__maiden__of__virtue.html#a4cd0c7a566e23e5c3a43466214f35dd3":[7,0,623,0],
-"de/dbf/structboss__maiden__of__virtue.html#a6eded246318f6b47b46f45168e4a8069":[7,0,623,1],
-"de/dbf/structboss__maiden__of__virtue.html#a6ff1b9e0a17218ad4871bc5fc3748671":[7,0,623,2]
+"de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#a537a2beaa8321095d2d67b8fb655acea":[7,0,1467,0]
 };

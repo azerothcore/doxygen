@@ -1,5 +1,6 @@
 var NAVTREEINDEX195 =
 {
+"d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298cac89cc3226cea6f95f18f27773a94e097":[8,0,0,0,1,3,2,11,2,9,17],
 "d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298caca11dbc76686e4367ef211eb0d27d1dc":[8,0,0,0,1,3,2,11,2,9,8],
 "d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298cad00299f8f2b5ca2ef476d1174bf04883":[8,0,0,0,1,3,2,11,2,9,10],
 "d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,2,11,2,9,1],
@@ -59,12 +60,12 @@ var NAVTREEINDEX195 =
 "d6/dec/classspell__xt002__exposed__heart.html#a94de5901e43000e99b478e9194d59ecd":[7,0,4437,0],
 "d6/dec/classspell__xt002__exposed__heart.html#acc8a07807e5c306af285cb5889ef2c41":[7,0,4437,2],
 "d6/dec/classspell__xt002__exposed__heart.html#ad17cfc0369da547475e43bd2970cf3f2":[7,0,4437,3],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[7,0,0,97],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,0,109],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[7,0,0,97],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[7,0,0,97,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,0,109,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[7,0,0,97,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,0,109,1],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[7,0,0,97,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[7,0,0,97,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,0,109,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[7,0,0,97,6],
@@ -73,8 +74,8 @@ var NAVTREEINDEX195 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,0,109,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[7,0,0,97,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,0,109,3],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[7,0,0,97,5],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,0,109,5],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[7,0,0,97,5],
 "d6/ded/classToCloud9GuildHooks.html":[7,0,4601],
 "d6/ded/classToCloud9GuildHooks.html#a6352d89ded523200d4a60b91ff5c7fa4":[7,0,4601,1],
 "d6/ded/classToCloud9GuildHooks.html#a98d80a4bec269157bebfabbddfd60054":[7,0,4601,4],
@@ -185,8 +186,8 @@ var NAVTREEINDEX195 =
 "d6/dee/namespaceArenaSpectator.html#aef6e3ee8768fae8862eaa6443f72599f":[5,0,5,9],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[5,0,0,2,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[7,0,0,1,8],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[7,0,0,1,8,1],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[5,0,0,2,8,1],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[7,0,0,1,8,1],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,0,2,8,0],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[7,0,0,1,8,0],
 "d6/def/structnpc__dkc1__gothik.html":[7,0,1798],
@@ -248,6 +249,5 @@ var NAVTREEINDEX195 =
 "d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744ad2e3200ca32384cb8d0795ea74f3dd80":[8,0,0,0,1,3,2,7,4,4,6],
 "d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744ada6a4a97f5594699ec42202de91db58b":[8,0,0,0,1,3,2,7,4,4,4],
 "d6/df2/scholomance_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,2,7,4,3],
-"d6/df2/scholomance_8h.html#afb6eb4f28419b652027fad41104a6d22a4747d42373cad8bde036b9233f8ae561":[8,0,0,0,1,3,2,7,4,3,1],
-"d6/df2/scholomance_8h.html#afb6eb4f28419b652027fad41104a6d22aced7b9d7ff710859482ffe51162984e3":[8,0,0,0,1,3,2,7,4,3,0]
+"d6/df2/scholomance_8h.html#afb6eb4f28419b652027fad41104a6d22a4747d42373cad8bde036b9233f8ae561":[8,0,0,0,1,3,2,7,4,3,1]
 };

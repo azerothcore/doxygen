@@ -1,5 +1,6 @@
 var NAVTREEINDEX48 =
 {
+"d1/dd5/classspell__item__snowman.html#a2a53af0cc911e1a68b365d692df1f0af":[7,0,3511,1],
 "d1/dd5/classspell__item__snowman.html#a67c43c4dabfb72ca54c160228b4b21c0":[7,0,3511,2],
 "d1/dd5/spell__warlock_8cpp.html":[8,0,0,0,1,3,9,11],
 "d1/dd5/spell__warlock_8cpp.html#a2054657c41c2347732a7d2903e3b8138":[8,0,0,0,1,3,9,11,46],
@@ -235,8 +236,8 @@ var NAVTREEINDEX48 =
 "d1/de0/classLootStore.html#afd0762a7391f530009b44bf6b4a3a3be":[7,0,1499,19],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[7,0,13,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,34,6,26],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,34,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[7,0,13,6,26,2],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,34,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,34,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[7,0,13,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,34,6,26,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX48 =
 "d1/de1/structQuestMenuItem.html":[7,0,2523],
 "d1/de1/structQuestMenuItem.html#a522a4fcb28daec3e1a620b6f02c3d8fe":[7,0,2523,1],
 "d1/de1/structQuestMenuItem.html#ad8bbfe08780eaa68a8205e2634d211b8":[7,0,2523,0],
-"d1/de2/TotemAI_8h.html":[8,0,0,0,1,2,3,0,13],
-"d1/de2/boss__nethermancer__sepethrea_8cpp.html":[8,0,0,0,1,3,7,5,3,3]
+"d1/de2/TotemAI_8h.html":[8,0,0,0,1,2,3,0,13]
 };
