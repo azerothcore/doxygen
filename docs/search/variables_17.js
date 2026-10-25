@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['w_0',['w',['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w'],['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W']]],
+  ['w_0',['w',['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W'],['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w']]],
   ['waittime_1',['waitTime',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef',1,'lfg::LfgQueueStatusData']]],
   ['waittimeavg_2',['waitTimeAvg',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc',1,'lfg::LfgQueueStatusData']]],
   ['waittimedps_3',['waitTimeDps',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf',1,'lfg::LfgQueueStatusData']]],
@@ -33,7 +33,7 @@ var searchData=
   ['wave_30',['Wave',['../d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html#a5a38a9a8da1b9cd03e800fcd90e38d1a',1,'npc_twiggy_flathead::npc_twiggy_flatheadAI']]],
   ['wavecount_31',['wavecount',['../d3/d8e/structnpc__anachronos__quest__trigger_1_1npc__anachronos__quest__triggerAI.html#ac3a32a11e5f99d081371c49363509deb',1,'npc_anachronos_quest_trigger::npc_anachronos_quest_triggerAI::WaveCount'],['../d9/dac/structnpc__lord__illidan__stormrage_1_1npc__lord__illidan__stormrageAI.html#abdd03400f582e9477bb376e2b34e7a0e',1,'npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI::WaveCount'],['../df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073',1,'boss_gothik::boss_gothikAI::waveCount']]],
   ['wavegroupid_32',['waveGroupId',['../d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a552bf13e89cb6f5fe9a79c596a3d7b99',1,'npc_arthas::npc_arthasAI']]],
-  ['waveid_33',['waveid',['../d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56',1,'PyramidEventData::waveID'],['../d1/d07/structnpc__muglash_1_1npc__muglashAI.html#a06c0af398e53b5ea6bfd6fa80256f845',1,'npc_muglash::npc_muglashAI::waveId']]],
+  ['waveid_33',['waveid',['../d1/d07/structnpc__muglash_1_1npc__muglashAI.html#a06c0af398e53b5ea6bfd6fa80256f845',1,'npc_muglash::npc_muglashAI::waveId'],['../d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56',1,'PyramidEventData::waveID']]],
   ['wavekillcount_34',['waveKillCount',['../d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a37d5ead96159ee03d31a2ac3bcf955de',1,'npc_arthas::npc_arthasAI']]],
   ['wavemobindex_35',['waveMobIndex',['../dd/d19/structnpc__time__rift.html#aa312223ece9f0f1c4ac2861aed3988a9',1,'npc_time_rift']]],
   ['wavemobs_36',['waveMobs',['../dd/d19/structnpc__time__rift.html#a7872706f9b5bdee7e6ca2d94e39e592f',1,'npc_time_rift']]],
@@ -51,7 +51,7 @@ var searchData=
   ['weapon_5fspeed_5fstaff_48',['WEAPON_SPEED_STAFF',['../db/db8/classProcChanceTestHelper.html#acffda28a662863f651d0aae5587300cd',1,'ProcChanceTestHelper']]],
   ['weapon_5fspeed_5fvery_5fslow_49',['WEAPON_SPEED_VERY_SLOW',['../db/db8/classProcChanceTestHelper.html#a0caf6370ed23834f2a948c98410eaf42',1,'ProcChanceTestHelper']]],
   ['weathergrade_50',['WeatherGrade',['../d7/d59/structZoneDynamicInfo.html#a923c3231c49554addd1522f0ccc50e2d',1,'ZoneDynamicInfo']]],
-  ['weatherid_51',['weatherid',['../d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134',1,'WorldPackets::Misc::Weather::WeatherID'],['../d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9',1,'ZoneDynamicInfo::WeatherId']]],
+  ['weatherid_51',['weatherid',['../d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9',1,'ZoneDynamicInfo::WeatherId'],['../d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134',1,'WorldPackets::Misc::Weather::WeatherID']]],
   ['weeglidoorposition_52',['WeegliDoorPosition',['../d1/d38/zulfarrak_8cpp.html#a7ed1750461fd9328d5293dbdcda94ac1',1,'zulfarrak.cpp']]],
   ['weegliguid_53',['WeegliGUID',['../df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#aa3311d5419590e248f7746e1ae8eb1a1',1,'instance_zulfarrak::instance_zulfarrak_InstanceMapScript']]],
   ['week_54',['WEEK',['../dc/d33/Common_8h.html#a688431b3f57feed4c5408d11114cdf1a',1,'Common.h']]],

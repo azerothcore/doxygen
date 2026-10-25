@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a39afca370763492ab92fac4b7630613a":[8,0,0,0,1,3,9,2,217,24],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a3ff873de1bdf6f5e755a6ae9f44d7823":[8,0,0,0,1,3,9,2,217,23],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a52d3380863feee5dfbaa9ad0f2517263":[8,0,0,0,1,3,9,2,217,4],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a57d232d23503b0bfc3d42a6116398ea1":[8,0,0,0,1,3,9,2,217,5],
@@ -179,10 +180,12 @@ var NAVTREEINDEX50 =
 "d1/dea/structScalingStatDistributionEntry.html#a5e2447dd0f6b60e322105d8fcafd0010":[7,0,2576,0],
 "d1/dea/structScalingStatDistributionEntry.html#ab639dd94c53707ca160e13f71342730d":[7,0,2576,3],
 "d1/deb/Unit_8cpp.html":[8,0,0,0,1,2,16,10,4],
-"d1/deb/Unit_8cpp.html#a2ede1cce0416c74db2d4599bab36eb57":[8,0,0,0,1,2,16,10,4,4],
-"d1/deb/Unit_8cpp.html#a7d920511c20f084098c0f68a75006159":[8,0,0,0,1,2,16,10,4,3],
-"d1/deb/Unit_8cpp.html#adcb1f2b25980bd4c71cb160030213f96":[8,0,0,0,1,2,16,10,4,2],
-"d1/deb/Unit_8cpp.html#afef08589b9944f10d66bdc1de74d0270":[8,0,0,0,1,2,16,10,4,5],
+"d1/deb/Unit_8cpp.html#a1df63baeb3d35dc44a3e9c429317087e":[8,0,0,0,1,2,16,10,4,7],
+"d1/deb/Unit_8cpp.html#a6219f85d19a95528f12bb0aa45bbde22":[8,0,0,0,1,2,16,10,4,6],
+"d1/deb/Unit_8cpp.html#a7d920511c20f084098c0f68a75006159":[8,0,0,0,1,2,16,10,4,4],
+"d1/deb/Unit_8cpp.html#a8dfa2f38da75227699c2156368f188c7":[8,0,0,0,1,2,16,10,4,5],
+"d1/deb/Unit_8cpp.html#adcb1f2b25980bd4c71cb160030213f96":[8,0,0,0,1,2,16,10,4,3],
+"d1/deb/Unit_8cpp.html#af36a8812ababc4c432a430785293c5cf":[8,0,0,0,1,2,16,10,4,2],
 "d1/dec/classnpc__zulaman__hostage.html":[7,0,2346],
 "d1/dec/classnpc__zulaman__hostage.html#a0ae144dc154dd028b409c9d2393f890c":[7,0,2346,2],
 "d1/dec/classnpc__zulaman__hostage.html#a114f6fbfab90944fd49babcba4b48a11":[7,0,2346,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX50 =
 "d1/df4/structadt__MCLQ_1_1liquid__data.html#a9ee8f132a89d37d9b202c7f49d2c3a49":[7,0,140,0,0],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html":[7,0,1340,0],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a4b63e6062765fc1df53c6a95b366e9f1":[7,0,1340,0,9],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a55e78ac91cf6073192594758e447cb19":[7,0,1340,0,11],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a5a16e7c47b42d1f8da9dde7b14f5c513":[7,0,1340,0,12],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a5b0977c0b20d6302ce6c5f8a14e78e90":[7,0,1340,0,2],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a7f9d7f14c3223fa7bf7b7999d1f41105":[7,0,1340,0,8]
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a55e78ac91cf6073192594758e447cb19":[7,0,1340,0,11]
 };

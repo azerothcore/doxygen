@@ -1,5 +1,8 @@
 var NAVTREEINDEX57 =
 {
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a4b77b0df124be1f9e77637feeef4af17":[8,0,0,0,1,2,8,1,1,10,16],
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a4d4b2d0c09eebec8e2fbf2048239f905":[8,0,0,0,1,2,8,1,1,10,26],
+"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a5fccf6f7c794fa9a3b5d84fa16b3e103":[8,0,0,0,1,2,8,1,1,10,14],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a7ba8860dd59d25ccaf62bbbb7013b273":[8,0,0,0,1,2,8,1,1,10,10],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a8cd23628f5cb3d874e2b6799430ca4c5":[8,0,0,0,1,2,8,1,1,10,19],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a928f8a26d7ddcc2cec91cb204e743817":[8,0,0,0,1,2,8,1,1,10,24],
@@ -246,8 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a203ef748afaa400aa1f8365b5d7bf6b1":[7,0,2254,0,1],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a3b84c70d246bbf5b70ab4dec06c647b3":[7,0,2254,0,4],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a4c4c2f502f00ca48bb7419434d88ea3a":[7,0,2254,0,0],
-"d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2254,0,3],
-"d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2254,0,2],
-"d2/d39/classDBCFile_1_1NotFound.html":[7,0,992,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,1]
+"d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2254,0,3]
 };

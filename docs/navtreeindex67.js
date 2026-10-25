@@ -1,5 +1,8 @@
 var NAVTREEINDEX67 =
 {
+"d2/d5c/structSpellTargetSelector.html#a9f1f441e542500dc43c58b97729f7f51":[7,0,4537,0],
+"d2/d5c/structSpellTargetSelector.html#ac5b0844c975a6b3ff3c14a843fd28fba":[7,0,4537,2],
+"d2/d5d/structEnchStoreItem.html":[7,0,1052],
 "d2/d5d/structEnchStoreItem.html#a2d3d0cd28c79402b3625694d4676ed8b":[7,0,1052,2],
 "d2/d5d/structEnchStoreItem.html#a89019e156774c5b978251479264e5463":[7,0,1052,0],
 "d2/d5d/structEnchStoreItem.html#ac2346b6c6c5c09bb63676d72c798d848":[7,0,1052,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX67 =
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a13843cdca5d222073894827db9402035":[7,0,773,0,4],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a154123dc3f5463ace6d1b96a9b20576e":[7,0,773,0,8],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a180eb28e16672082503fa91f37dd720a":[7,0,773,0,1],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a1a9dc9fe2969c963636d1dcd68ce2afc":[7,0,773,0,13],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a20aa23a4492739b4f171b1361a2ba53b":[7,0,773,0,3],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a23f0fb75f652704a79c2530252138abb":[7,0,773,0,6],
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a288c98af035d55bef4322f7fe91d26b9":[7,0,773,0,19]
+"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a1a9dc9fe2969c963636d1dcd68ce2afc":[7,0,773,0,13]
 };

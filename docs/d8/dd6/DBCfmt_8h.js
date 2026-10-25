@@ -45,6 +45,7 @@ var DBCfmt_8h =
     [ "GtChanceToSpellCritBasefmt", "d8/dd6/DBCfmt_8h.html#ab59ac998beb6f4f245cdc1ba8d3eb515", null ],
     [ "GtChanceToSpellCritfmt", "d8/dd6/DBCfmt_8h.html#a12aadeb86c55d0b33d8389c91c0d89ea", null ],
     [ "GtCombatRatingsfmt", "d8/dd6/DBCfmt_8h.html#afda7890a38179fba529eb8a15ab6bde1", null ],
+    [ "GtDatabasefmt", "d8/dd6/DBCfmt_8h.html#a50b9959bb8be424924d9cf438d25b074", null ],
     [ "GtNPCManaCostScalerfmt", "d8/dd6/DBCfmt_8h.html#aa0310550d1b6c3d3ce7a085129408e56", null ],
     [ "GtOCTClassCombatRatingScalarfmt", "d8/dd6/DBCfmt_8h.html#a8885c21f97968e67aa8c66d116012b07", null ],
     [ "GtOCTRegenHPfmt", "d8/dd6/DBCfmt_8h.html#ace86dcea64e966b5135709935ccca6a5", null ],

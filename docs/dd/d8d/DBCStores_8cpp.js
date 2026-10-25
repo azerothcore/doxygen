@@ -1,6 +1,7 @@
 var DBCStores_8cpp =
 [
     [ "LOAD_DBC", "dd/d8d/DBCStores_8cpp.html#a12fc54e4657cae3a3e84be6e33305257", null ],
+    [ "LOAD_GT_DBC", "dd/d8d/DBCStores_8cpp.html#af7160d5ee9381f316f796eab5afc563c", null ],
     [ "EmotesTextSoundKey", "dd/d8d/DBCStores_8cpp.html#aadf3b033fa1ecc56c76a5a2a1f670f89", null ],
     [ "FactionTeamMap", "dd/d8d/DBCStores_8cpp.html#a31511082db190bca0982fb65ba321b06", null ],
     [ "StoreProblemList", "dd/d8d/DBCStores_8cpp.html#adb1c40a58324f7e2389738d9fd6ef8bf", null ],
@@ -27,7 +28,7 @@ var DBCStores_8cpp =
     [ "GetWMOAreaTableEntryByTripple", "dd/d8d/DBCStores_8cpp.html#afc09b0f1883b13e6251568b320502f3a", null ],
     [ "GetZoneLFGDungeonEntry", "dd/d8d/DBCStores_8cpp.html#a1611914a99682fc964ef95b9a788a969", null ],
     [ "IsSharedDifficultyMap", "dd/d8d/DBCStores_8cpp.html#af7b6eff71f64ecef778f854613d72288", null ],
-    [ "LoadDBC", "dd/d8d/DBCStores_8cpp.html#aca442aaca0bc253e1badd17f0678cf06", null ],
+    [ "LoadDBC", "dd/d8d/DBCStores_8cpp.html#a929dcdd39b68f8f9634e916a97e2a198", null ],
     [ "LoadDBC_assert_print", "dd/d8d/DBCStores_8cpp.html#a58423c8b9934989c83e3b25565e597bc", null ],
     [ "LoadDBCStores", "dd/d8d/DBCStores_8cpp.html#a93774d2a6c6b1edecd697d6e60a8402d", null ],
     [ "Map2ZoneCoordinates", "dd/d8d/DBCStores_8cpp.html#a3102be8c4050f49639a6748f21fa55a1", null ],

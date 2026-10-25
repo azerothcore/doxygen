@@ -585,6 +585,7 @@ var classWorldSession =
     [ "SetPlayer", "d8/d74/classWorldSession.html#a042ad75b067904a2ee258408ced305f5", null ],
     [ "SetPreviousPlayedTime", "d8/d74/classWorldSession.html#a68274f7d0e3a118ad4883269f5db81b8", null ],
     [ "SetSecurity", "d8/d74/classWorldSession.html#ae9a2ad8418b1ccff1061ffe4ad7a5537", null ],
+    [ "SetSessionDbLocaleIndex", "d8/d74/classWorldSession.html#ad87125bc3ba550389a6a458f107b8784", null ],
     [ "SetTotalTime", "d8/d74/classWorldSession.html#a340452fde95ade9c681b9c1c47f1da18", null ],
     [ "SetTutorialInt", "d8/d74/classWorldSession.html#af03671c355206c4e5c53882414967a1d", null ],
     [ "ShouldLogOut", "d8/d74/classWorldSession.html#af14011f12cbb00486aa1b910ebd7a4cb", null ],

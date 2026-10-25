@@ -1,5 +1,8 @@
 var NAVTREEINDEX53 =
 {
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[5,0,34,10,2,0],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[7,0,13,10,2,0],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a9e48a650bf21872099cdb0626e875fd7":[7,0,13,10,2,3],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a9e48a650bf21872099cdb0626e875fd7":[5,0,34,10,2,3],
 "d2/d16/AppenderFile_8h.html":[8,0,0,0,0,9,5],
 "d2/d16/boss__servant__quarters_8cpp.html":[8,0,0,0,1,3,2,4,8],
@@ -41,10 +44,10 @@ var NAVTREEINDEX53 =
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#a147d8a6d95f011f27600d052ef7b4000":[7,0,299,1,1],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab6e675b4db931c601b3d6aef65ae0ff6":[7,0,299,1,0],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab7dd73a36aa517354a023deb7db0cf19":[7,0,299,1,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[7,0,0,4,0,4],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,0,7,0,4],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,0,7,0,4,2],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[7,0,0,4,0,4],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[7,0,0,4,0,4,2],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,0,7,0,4,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[7,0,0,4,0,4,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,0,7,0,4,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[5,0,0,7,0,4,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d1e/classInstanceScript.html#a95f23d1bff59799247babdd0d077bb7c":[7,0,1408,62],
 "d2/d1e/classInstanceScript.html#a9753c3c71fef44fcbc33b89ff68350cd":[7,0,1408,49],
 "d2/d1e/classInstanceScript.html#a97d4eed3ca3ef4144b3f8f8a4b530356":[7,0,1408,100],
-"d2/d1e/classInstanceScript.html#a99f69b7706e28b78008952ceefe09b69":[7,0,1408,79],
-"d2/d1e/classInstanceScript.html#aa4895e949a3f054bdd6e0e918a9fae06":[7,0,1408,65],
-"d2/d1e/classInstanceScript.html#aa528d1016aee9dbbe55b7933fe631917":[7,0,1408,20],
-"d2/d1e/classInstanceScript.html#aa551f0a05c1251d331e33e83b3887bce":[7,0,1408,103]
+"d2/d1e/classInstanceScript.html#a99f69b7706e28b78008952ceefe09b69":[7,0,1408,79]
 };

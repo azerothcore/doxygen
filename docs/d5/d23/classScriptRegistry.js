@@ -11,6 +11,7 @@ var classScriptRegistry =
     [ "AddScript", "d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622", null ],
     [ "GetScriptById", "d5/d23/classScriptRegistry.html#a22226c545e7975d4c612e7adcc766d05", null ],
     [ "InitEnabledHooksIfNeeded", "d5/d23/classScriptRegistry.html#a44238d9b122f50192b989b1efe2107bd", null ],
+    [ "Unload", "d5/d23/classScriptRegistry.html#aea1f4b1a1e5c0bb83160732833580b1d", null ],
     [ "_scriptIdCounter", "d5/d23/classScriptRegistry.html#aa66e44e9291be980d12f4167f699c680", null ],
     [ "ALScripts", "d5/d23/classScriptRegistry.html#ac67b828a489c483ceaaa745b2dd7ef57", null ],
     [ "EnabledHooks", "d5/d23/classScriptRegistry.html#a4274e01ddb2659f125970b97014da00e", null ],

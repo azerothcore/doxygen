@@ -1,5 +1,8 @@
 var NAVTREEINDEX95 =
 {
+"d3/d0d/GridNotifiers_8h.html#a707574f70dccac2c48163c9083e774bbae8d17c0da74738394ddb55b65c299180":[8,0,0,0,1,2,19,1,1,82,1],
+"d3/d0d/classnpc__icc__buff__switcher.html":[7,0,1920],
+"d3/d0d/classnpc__icc__buff__switcher.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba":[7,0,1920,1],
 "d3/d0d/classnpc__icc__buff__switcher.html#aeabc3d97c88bf12177b824524af3ae1d":[7,0,1920,0],
 "d3/d0d/namespaceWorldPackets_1_1Strings.html":[5,0,34,15],
 "d3/d0e/classitem__captured__frog.html":[7,0,1417],
@@ -84,10 +87,10 @@ var NAVTREEINDEX95 =
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,2,1,7],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[7,0,1,1,0],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[5,0,2,1,0],
-"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,2,1,6],
 "d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[7,0,1,1,6],
-"d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[5,0,2,1,4],
+"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,2,1,6],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[7,0,1,1,4],
+"d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[5,0,2,1,4],
 "d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[7,0,1,1,8],
 "d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[5,0,2,1,8],
 "d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[7,0,1,1,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d18/boss__hadronox_8cpp.html#aee08b9c5c142757a7ca8939ebf5b7944":[8,0,0,0,1,3,5,0,1,2,17],
 "d3/d18/boss__hadronox_8cpp.html#af5baa506e65b4caa6be6d1c6661dfe63":[8,0,0,0,1,3,5,0,1,2,10],
 "d3/d18/boss__hadronox_8cpp.html#af5baa506e65b4caa6be6d1c6661dfe63a730c05e2d59a01072d37989ebe09bdfa":[8,0,0,0,1,3,5,0,1,2,10,0],
-"d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,0,1,2,11],
-"d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a09669ceedfe82768c5fd5a2dafd042fc":[8,0,0,0,1,3,5,0,1,2,11,15],
-"d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2084f8df4bb3a924b03a8bfff7f019dc":[8,0,0,0,1,3,5,0,1,2,11,8],
-"d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d37532e7cf2ec727198d5679d437dca":[8,0,0,0,1,3,5,0,1,2,11,3]
+"d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,0,1,2,11]
 };

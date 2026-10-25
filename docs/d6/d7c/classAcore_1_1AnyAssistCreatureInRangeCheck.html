@@ -213,8 +213,8 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1303</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ab6b53aeb869c6542525bddfad563098a">CanAssistTo</a>(<a class="code hl_variable" href="../../d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1">i_funit</a>, <a class="code hl_variable" href="../../d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3">i_enemy</a>))</div>
 <div class="line"><span class="lineno"> 1304</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1305</span> </div>
-<div class="line"><span class="lineno"> 1306</span>            <span class="comment">// too far</span></div>
-<div class="line"><span class="lineno"> 1307</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1">i_funit</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04">i_range</a>))</div>
+<div class="line"><span class="lineno"> 1306</span>            <span class="comment">// too far, centre to centre: Classic testing shows no combat reach added</span></div>
+<div class="line"><span class="lineno"> 1307</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1">i_funit</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04">i_range</a>, <span class="keyword">true</span>, <span class="keyword">false</span>, <span class="keyword">false</span>))</div>
 <div class="line"><span class="lineno"> 1308</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1309</span> </div>
 <div class="line"><span class="lineno"> 1310</span>            <span class="comment">// only if see assisted creature</span></div>
@@ -313,7 +313,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d0b/namespaceAcore.html">Acore</a></li><li class="navelem"><a class="el" href="../../d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html">AnyAssistCreatureInRangeCheck</a></li>
-    <li class="footer">Generated on Sat Oct 24 2026 10:10:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 25 2026 10:35:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

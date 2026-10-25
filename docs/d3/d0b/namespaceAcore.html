@@ -1451,7 +1451,7 @@ template&lt;class RET_TYPE , int CENTER_VAL&gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00026">SIZE_OF_GRIDS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03093">Map::AddCorpse()</a>, <a class="el" href="../../#l02783">ObjectMgr::AddCreatureToGrid()</a>, <a class="el" href="../../#l03235">ObjectMgr::AddGameobjectToGrid()</a>, <a class="el" href="../../#l00306">MapMgr::ExistMapAndVMap()</a>, <a class="el" href="../../#l01134">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l00131">mmaps_commandscript::HandleMmapLocCommand()</a>, <a class="el" href="../../#l02816">misc_commandscript::HandleRespawnAllCommand()</a>, <a class="el" href="../../#l00219">Map::IsGridCreated()</a>, <a class="el" href="../../#l00214">Map::IsGridLoaded()</a>, <a class="el" href="../../#l03105">Map::RemoveCorpse()</a>, <a class="el" href="../../#l02797">ObjectMgr::RemoveCreatureFromGrid()</a>, and <a class="el" href="../../#l03249">ObjectMgr::RemoveGameobjectFromGrid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03093">Map::AddCorpse()</a>, <a class="el" href="../../#l02784">ObjectMgr::AddCreatureToGrid()</a>, <a class="el" href="../../#l03236">ObjectMgr::AddGameobjectToGrid()</a>, <a class="el" href="../../#l00306">MapMgr::ExistMapAndVMap()</a>, <a class="el" href="../../#l01134">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l00131">mmaps_commandscript::HandleMmapLocCommand()</a>, <a class="el" href="../../#l02816">misc_commandscript::HandleRespawnAllCommand()</a>, <a class="el" href="../../#l00219">Map::IsGridCreated()</a>, <a class="el" href="../../#l00214">Map::IsGridLoaded()</a>, <a class="el" href="../../#l03105">Map::RemoveCorpse()</a>, <a class="el" href="../../#l02798">ObjectMgr::RemoveCreatureFromGrid()</a>, and <a class="el" href="../../#l03250">ObjectMgr::RemoveGameobjectFromGrid()</a>.</p>
 
 </div>
 </div>
@@ -1958,103 +1958,118 @@ template&lt;typename T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>    {</div>
-<div class="line"><span class="lineno">   80</span><span class="preprocessor">#if AC_COMPILER == AC_COMPILER_MICROSOFT</span></div>
-<div class="line"><span class="lineno">   81</span><span class="preprocessor">#pragma warning(push)</span></div>
-<div class="line"><span class="lineno">   82</span><span class="preprocessor">#pragma warning(disable:4297)</span></div>
-<div class="line"><span class="lineno">   83</span><span class="comment">/*</span></div>
-<div class="line"><span class="lineno">   84</span><span class="comment">  Silence warning with boost 1.83</span></div>
-<div class="line"><span class="lineno">   85</span><span class="comment">    boost/process/pipe.hpp(132,5): warning C4297: &#39;boost::process::basic_pipebuf&lt;char,std::char_traits&lt;char&gt;&gt;::~basic_pipebuf&#39;: function assumed not to throw an exception but does</span></div>
-<div class="line"><span class="lineno">   86</span><span class="comment">    boost/process/pipe.hpp(132,5): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification</span></div>
-<div class="line"><span class="lineno">   87</span><span class="comment">    boost/process/pipe.hpp(124,6): message : while compiling class template member function &#39;boost::process::basic_pipebuf&lt;char,std::char_traits&lt;char&gt;&gt;::~basic_pipebuf(void)&#39;</span></div>
-<div class="line"><span class="lineno">   88</span><span class="comment">    boost/process/pipe.hpp(304,42): message : see reference to class template instantiation &#39;boost::process::basic_pipebuf&lt;char,std::char_traits&lt;char&gt;&gt;&#39; being compiled</span></div>
-<div class="line"><span class="lineno">   89</span><span class="comment">*/</span></div>
-<div class="line"><span class="lineno">   90</span><span class="preprocessor">#endif</span></div>
-<div class="line"><span class="lineno">   91</span>        ipstream outStream;</div>
-<div class="line"><span class="lineno">   92</span>        ipstream errStream;</div>
-<div class="line"><span class="lineno">   93</span><span class="preprocessor">#if AC_COMPILER == AC_COMPILER_MICROSOFT</span></div>
-<div class="line"><span class="lineno">   94</span><span class="preprocessor">#pragma warning(pop)</span></div>
-<div class="line"><span class="lineno">   95</span><span class="preprocessor">#endif</span></div>
-<div class="line"><span class="lineno">   96</span> </div>
-<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">if</span> (!secure)</div>
-<div class="line"><span class="lineno">   98</span>        {</div>
-<div class="line"><span class="lineno">   99</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(logger, <span class="stringliteral">&quot;Starting process \&quot;{}\&quot; with arguments: \&quot;{}\&quot;.&quot;</span>,</div>
-<div class="line"><span class="lineno">  100</span>                executable, boost::algorithm::join(argsVector, <span class="stringliteral">&quot; &quot;</span>));</div>
-<div class="line"><span class="lineno">  101</span>        }</div>
-<div class="line"><span class="lineno">  102</span> </div>
-<div class="line"><span class="lineno">  103</span>        <span class="comment">// prepare file with only read permission (boost process opens with read_write)</span></div>
-<div class="line"><span class="lineno">  104</span>        std::shared_ptr&lt;FILE&gt; inputFile(!input.empty() ? fopen(input.c_str(), <span class="stringliteral">&quot;rb&quot;</span>) : nullptr, [](FILE* ptr)</div>
-<div class="line"><span class="lineno">  105</span>        {</div>
-<div class="line"><span class="lineno">  106</span>            <span class="keywordflow">if</span> (ptr != <span class="keyword">nullptr</span>)</div>
-<div class="line"><span class="lineno">  107</span>                fclose(ptr);</div>
-<div class="line"><span class="lineno">  108</span>        });</div>
-<div class="line"><span class="lineno">  109</span> </div>
-<div class="line"><span class="lineno">  110</span>        <span class="comment">// Start the child process</span></div>
-<div class="line"><span class="lineno">  111</span>        child c = [&amp;]()</div>
-<div class="line"><span class="lineno">  112</span>        {</div>
-<div class="line"><span class="lineno">  113</span>            <span class="keywordflow">if</span> (inputFile)</div>
-<div class="line"><span class="lineno">  114</span>            {</div>
-<div class="line"><span class="lineno">  115</span>                <span class="comment">// With binding stdin</span></div>
-<div class="line"><span class="lineno">  116</span>                <span class="keywordflow">return</span> child{</div>
-<div class="line"><span class="lineno">  117</span>                    exe = std::filesystem::absolute(executable).string(),</div>
-<div class="line"><span class="lineno">  118</span>                    args = argsVector,</div>
-<div class="line"><span class="lineno">  119</span>                    env = environment(boost::this_process::environment()),</div>
-<div class="line"><span class="lineno">  120</span>                    std_in = inputFile.get(),</div>
-<div class="line"><span class="lineno">  121</span>                    std_out = outStream,</div>
-<div class="line"><span class="lineno">  122</span>                    std_err = errStream</div>
-<div class="line"><span class="lineno">  123</span>                };</div>
-<div class="line"><span class="lineno">  124</span>            }</div>
-<div class="line"><span class="lineno">  125</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  126</span>            {</div>
-<div class="line"><span class="lineno">  127</span>                <span class="comment">// Without binding stdin</span></div>
-<div class="line"><span class="lineno">  128</span>                <span class="keywordflow">return</span> child{</div>
-<div class="line"><span class="lineno">  129</span>                    exe = std::filesystem::absolute(executable).string(),</div>
-<div class="line"><span class="lineno">  130</span>                    args = argsVector,</div>
-<div class="line"><span class="lineno">  131</span>                    env = environment(boost::this_process::environment()),</div>
-<div class="line"><span class="lineno">  132</span><span class="preprocessor">#if BOOST_VERSION &lt; 108800</span></div>
-<div class="line"><span class="lineno">  133</span>                    std_in = boost::process::close,</div>
-<div class="line"><span class="lineno">  134</span><span class="preprocessor">#else</span></div>
-<div class="line"><span class="lineno">  135</span>                    std_in = boost::process::v1::close,</div>
-<div class="line"><span class="lineno">  136</span><span class="preprocessor">#endif</span></div>
-<div class="line"><span class="lineno">  137</span>                    std_out = outStream,</div>
-<div class="line"><span class="lineno">  138</span>                    std_err = errStream</div>
-<div class="line"><span class="lineno">  139</span>                };</div>
-<div class="line"><span class="lineno">  140</span>            }</div>
-<div class="line"><span class="lineno">  141</span>        }();</div>
-<div class="line"><span class="lineno">  142</span> </div>
-<div class="line"><span class="lineno">  143</span>        <span class="keyword">auto</span> outInfo = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#adcee37690522709ab4bd0b6f6e757dc5">MakeACLogSink</a>([&amp;](std::string <span class="keyword">const</span>&amp; msg)</div>
-<div class="line"><span class="lineno">  144</span>        {</div>
-<div class="line"><span class="lineno">  145</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(logger, <span class="stringliteral">&quot;{}&quot;</span>, msg);</div>
-<div class="line"><span class="lineno">  146</span>        });</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>        <span class="keyword">auto</span> outError = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#adcee37690522709ab4bd0b6f6e757dc5">MakeACLogSink</a>([&amp;](std::string <span class="keyword">const</span>&amp; msg)</div>
-<div class="line"><span class="lineno">  149</span>        {</div>
-<div class="line"><span class="lineno">  150</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(logger, <span class="stringliteral">&quot;{}&quot;</span>, msg);</div>
-<div class="line"><span class="lineno">  151</span>        });</div>
-<div class="line"><span class="lineno">  152</span> </div>
-<div class="line"><span class="lineno">  153</span>        copy(outStream, outInfo);</div>
-<div class="line"><span class="lineno">  154</span>        copy(errStream, outError);</div>
-<div class="line"><span class="lineno">  155</span> </div>
-<div class="line"><span class="lineno">  156</span>        <span class="comment">// Call the waiter in the current scope to prevent</span></div>
-<div class="line"><span class="lineno">  157</span>        <span class="comment">// the streams from closing too early on leaving the scope.</span></div>
-<div class="line"><span class="lineno">  158</span>        <span class="keywordtype">int</span> <span class="keyword">const</span> result = waiter(c);</div>
-<div class="line"><span class="lineno">  159</span> </div>
-<div class="line"><span class="lineno">  160</span>        <span class="keywordflow">if</span> (!secure)</div>
-<div class="line"><span class="lineno">  161</span>        {</div>
-<div class="line"><span class="lineno">  162</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(logger, <span class="stringliteral">&quot;&gt;&gt; Process \&quot;{}\&quot; finished with return value {}.&quot;</span>,</div>
-<div class="line"><span class="lineno">  163</span>                executable, result);</div>
-<div class="line"><span class="lineno">  164</span>        }</div>
-<div class="line"><span class="lineno">  165</span> </div>
-<div class="line"><span class="lineno">  166</span>        <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">  167</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   80</span>    {</div>
+<div class="line"><span class="lineno">   81</span><span class="preprocessor">#if AC_COMPILER == AC_COMPILER_MICROSOFT</span></div>
+<div class="line"><span class="lineno">   82</span><span class="preprocessor">#pragma warning(push)</span></div>
+<div class="line"><span class="lineno">   83</span><span class="preprocessor">#pragma warning(disable:4297)</span></div>
+<div class="line"><span class="lineno">   84</span><span class="comment">/*</span></div>
+<div class="line"><span class="lineno">   85</span><span class="comment">  Silence warning with boost 1.83</span></div>
+<div class="line"><span class="lineno">   86</span><span class="comment">    boost/process/pipe.hpp(132,5): warning C4297: &#39;boost::process::basic_pipebuf&lt;char,std::char_traits&lt;char&gt;&gt;::~basic_pipebuf&#39;: function assumed not to throw an exception but does</span></div>
+<div class="line"><span class="lineno">   87</span><span class="comment">    boost/process/pipe.hpp(132,5): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification</span></div>
+<div class="line"><span class="lineno">   88</span><span class="comment">    boost/process/pipe.hpp(124,6): message : while compiling class template member function &#39;boost::process::basic_pipebuf&lt;char,std::char_traits&lt;char&gt;&gt;::~basic_pipebuf(void)&#39;</span></div>
+<div class="line"><span class="lineno">   89</span><span class="comment">    boost/process/pipe.hpp(304,42): message : see reference to class template instantiation &#39;boost::process::basic_pipebuf&lt;char,std::char_traits&lt;char&gt;&gt;&#39; being compiled</span></div>
+<div class="line"><span class="lineno">   90</span><span class="comment">*/</span></div>
+<div class="line"><span class="lineno">   91</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">   92</span>        ipstream outStream;</div>
+<div class="line"><span class="lineno">   93</span>        ipstream errStream;</div>
+<div class="line"><span class="lineno">   94</span><span class="preprocessor">#if AC_COMPILER == AC_COMPILER_MICROSOFT</span></div>
+<div class="line"><span class="lineno">   95</span><span class="preprocessor">#pragma warning(pop)</span></div>
+<div class="line"><span class="lineno">   96</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">   97</span> </div>
+<div class="line"><span class="lineno">   98</span>        <span class="keywordflow">if</span> (!secure)</div>
+<div class="line"><span class="lineno">   99</span>        {</div>
+<div class="line"><span class="lineno">  100</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(logger, <span class="stringliteral">&quot;Starting process \&quot;{}\&quot; with arguments: \&quot;{}\&quot;.&quot;</span>,</div>
+<div class="line"><span class="lineno">  101</span>                executable, boost::algorithm::join(argsVector, <span class="stringliteral">&quot; &quot;</span>));</div>
+<div class="line"><span class="lineno">  102</span>        }</div>
+<div class="line"><span class="lineno">  103</span> </div>
+<div class="line"><span class="lineno">  104</span>        <span class="comment">// prepare file with only read permission (boost process opens with read_write)</span></div>
+<div class="line"><span class="lineno">  105</span>        std::shared_ptr&lt;FILE&gt; inputFile(!input.empty() ? fopen(input.c_str(), <span class="stringliteral">&quot;rb&quot;</span>) : nullptr, [](FILE* ptr)</div>
+<div class="line"><span class="lineno">  106</span>        {</div>
+<div class="line"><span class="lineno">  107</span>            <span class="keywordflow">if</span> (ptr != <span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno">  108</span>                fclose(ptr);</div>
+<div class="line"><span class="lineno">  109</span>        });</div>
+<div class="line"><span class="lineno">  110</span> </div>
+<div class="line"><span class="lineno">  111</span>        std::error_code ec;</div>
+<div class="line"><span class="lineno">  112</span>        std::string <span class="keyword">const</span> absoluteExecutable = std::filesystem::absolute(executable, ec).string();</div>
+<div class="line"><span class="lineno">  113</span>        <span class="keywordflow">if</span> (ec)</div>
+<div class="line"><span class="lineno">  114</span>        {</div>
+<div class="line"><span class="lineno">  115</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(logger, <span class="stringliteral">&quot;Failed to resolve the path of \&quot;{}\&quot;: {}&quot;</span>, executable, ec.message());</div>
+<div class="line"><span class="lineno">  116</span>            <span class="keywordflow">return</span> EXIT_FAILURE;</div>
+<div class="line"><span class="lineno">  117</span>        }</div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>        <span class="comment">// Start the child process; boost throws process_error when it can&#39;t be launched</span></div>
+<div class="line"><span class="lineno">  120</span>        <a class="code hl_typedef" href="../../d2/dae/Optional_8h.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;child&gt;</a> c;</div>
+<div class="line"><span class="lineno">  121</span>        <span class="keywordflow">try</span></div>
+<div class="line"><span class="lineno">  122</span>        {</div>
+<div class="line"><span class="lineno">  123</span>            <span class="keywordflow">if</span> (inputFile)</div>
+<div class="line"><span class="lineno">  124</span>            {</div>
+<div class="line"><span class="lineno">  125</span>                <span class="comment">// With binding stdin</span></div>
+<div class="line"><span class="lineno">  126</span>                c.emplace(</div>
+<div class="line"><span class="lineno">  127</span>                    exe = absoluteExecutable,</div>
+<div class="line"><span class="lineno">  128</span>                    args = argsVector,</div>
+<div class="line"><span class="lineno">  129</span>                    env = environment(boost::this_process::environment()),</div>
+<div class="line"><span class="lineno">  130</span>                    std_in = inputFile.get(),</div>
+<div class="line"><span class="lineno">  131</span>                    std_out = outStream,</div>
+<div class="line"><span class="lineno">  132</span>                    std_err = errStream</div>
+<div class="line"><span class="lineno">  133</span>                );</div>
+<div class="line"><span class="lineno">  134</span>            }</div>
+<div class="line"><span class="lineno">  135</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  136</span>            {</div>
+<div class="line"><span class="lineno">  137</span>                <span class="comment">// Without binding stdin</span></div>
+<div class="line"><span class="lineno">  138</span>                c.emplace(</div>
+<div class="line"><span class="lineno">  139</span>                    exe = absoluteExecutable,</div>
+<div class="line"><span class="lineno">  140</span>                    args = argsVector,</div>
+<div class="line"><span class="lineno">  141</span>                    env = environment(boost::this_process::environment()),</div>
+<div class="line"><span class="lineno">  142</span>#<span class="keywordflow">if</span> BOOST_VERSION &lt; 108800</div>
+<div class="line"><span class="lineno">  143</span>                    std_in = boost::process::close,</div>
+<div class="line"><span class="lineno">  144</span>#<span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  145</span>                    std_in = boost::process::v1::close,</div>
+<div class="line"><span class="lineno">  146</span>#endif</div>
+<div class="line"><span class="lineno">  147</span>                    std_out = outStream,</div>
+<div class="line"><span class="lineno">  148</span>                    std_err = errStream</div>
+<div class="line"><span class="lineno">  149</span>                );</div>
+<div class="line"><span class="lineno">  150</span>            }</div>
+<div class="line"><span class="lineno">  151</span>        }</div>
+<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">catch</span> (process_error <span class="keyword">const</span>&amp; e)</div>
+<div class="line"><span class="lineno">  153</span>        {</div>
+<div class="line"><span class="lineno">  154</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(logger, <span class="stringliteral">&quot;Failed to start process \&quot;{}\&quot;: {}&quot;</span>, absoluteExecutable, e.what());</div>
+<div class="line"><span class="lineno">  155</span>            <span class="keywordflow">return</span> EXIT_FAILURE;</div>
+<div class="line"><span class="lineno">  156</span>        }</div>
+<div class="line"><span class="lineno">  157</span> </div>
+<div class="line"><span class="lineno">  158</span>        <span class="keyword">auto</span> outInfo = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#adcee37690522709ab4bd0b6f6e757dc5">MakeACLogSink</a>([&amp;](std::string <span class="keyword">const</span>&amp; msg)</div>
+<div class="line"><span class="lineno">  159</span>        {</div>
+<div class="line"><span class="lineno">  160</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(logger, <span class="stringliteral">&quot;{}&quot;</span>, msg);</div>
+<div class="line"><span class="lineno">  161</span>        });</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>        <span class="keyword">auto</span> outError = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#adcee37690522709ab4bd0b6f6e757dc5">MakeACLogSink</a>([&amp;](std::string <span class="keyword">const</span>&amp; msg)</div>
+<div class="line"><span class="lineno">  164</span>        {</div>
+<div class="line"><span class="lineno">  165</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(logger, <span class="stringliteral">&quot;{}&quot;</span>, msg);</div>
+<div class="line"><span class="lineno">  166</span>        });</div>
+<div class="line"><span class="lineno">  167</span> </div>
+<div class="line"><span class="lineno">  168</span>        copy(outStream, outInfo);</div>
+<div class="line"><span class="lineno">  169</span>        copy(errStream, outError);</div>
+<div class="line"><span class="lineno">  170</span> </div>
+<div class="line"><span class="lineno">  171</span>        <span class="comment">// Call the waiter in the current scope to prevent</span></div>
+<div class="line"><span class="lineno">  172</span>        <span class="comment">// the streams from closing too early on leaving the scope.</span></div>
+<div class="line"><span class="lineno">  173</span>        <span class="keywordtype">int</span> <span class="keyword">const</span> result = waiter(*c);</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>        <span class="keywordflow">if</span> (!secure)</div>
+<div class="line"><span class="lineno">  176</span>        {</div>
+<div class="line"><span class="lineno">  177</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(logger, <span class="stringliteral">&quot;&gt;&gt; Process \&quot;{}\&quot; finished with return value {}.&quot;</span>,</div>
+<div class="line"><span class="lineno">  178</span>                executable, result);</div>
+<div class="line"><span class="lineno">  179</span>        }</div>
+<div class="line"><span class="lineno">  180</span> </div>
+<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">return</span> result;</div>
+<div class="line"><span class="lineno">  182</span>    }</div>
 <div class="ttc" id="aLog_8h_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:153</div></div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:145</div></div>
 <div class="ttc" id="aLog_8h_html_ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5"><div class="ttname"><a href="../../d1/d45/Log_8h.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a></div><div class="ttdeci">#define LOG_TRACE(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:161</div></div>
-<div class="ttc" id="anamespaceAcore_html_adcee37690522709ab4bd0b6f6e757dc5"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#adcee37690522709ab4bd0b6f6e757dc5">Acore::MakeACLogSink</a></div><div class="ttdeci">auto MakeACLogSink(T &amp;&amp;callback) -&gt; ACLogSink&lt; typename std::decay&lt; T &gt;::type &gt;</div><div class="ttdef"><b>Definition</b> StartProcess.cpp:68</div></div>
+<div class="ttc" id="aOptional_8h_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../d2/dae/Optional_8h.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition</b> Optional.h:24</div></div>
+<div class="ttc" id="anamespaceAcore_html_adcee37690522709ab4bd0b6f6e757dc5"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#adcee37690522709ab4bd0b6f6e757dc5">Acore::MakeACLogSink</a></div><div class="ttdeci">auto MakeACLogSink(T &amp;&amp;callback) -&gt; ACLogSink&lt; typename std::decay&lt; T &gt;::type &gt;</div><div class="ttdef"><b>Definition</b> StartProcess.cpp:69</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00161">LOG_TRACE</a>, and <a class="el" href="../../#l00068">MakeACLogSink()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00161">LOG_TRACE</a>, and <a class="el" href="../../#l00069">MakeACLogSink()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00213">Acore::AsyncProcessResultImplementation::StartProcess()</a>, and <a class="el" href="../../#l00169">StartProcess()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00228">Acore::AsyncProcessResultImplementation::StartProcess()</a>, and <a class="el" href="../../#l00184">StartProcess()</a>.</p>
 
 </div>
 </div>
@@ -3491,7 +3506,7 @@ template&lt;class SPECIFIC_TYPE &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00052">MAP_HALFSIZE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l00155">PathGenerator::CalculatePath()</a>, <a class="el" href="../../#l03464">Map::CheckCollisionAndGetValidCoords()</a>, <a class="el" href="../../#l01145">Spell::EffectJumpDest()</a>, <a class="el" href="../../#l01011">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00183">Position::IsPositionValid()</a>, <a class="el" href="../../#l00215">IsValidMapCoord()</a>, <a class="el" href="../../#l00220">IsValidMapCoord()</a>, <a class="el" href="../../#l00225">IsValidMapCoord()</a>, <a class="el" href="../../#l00095">MapMgr::IsValidMapCoord()</a>, <a class="el" href="../../#l00100">MapMgr::IsValidMapCoord()</a>, <a class="el" href="../../#l00105">MapMgr::IsValidMapCoord()</a>, <a class="el" href="../../#l01694">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l05023">Player::LoadFromDB()</a>, <a class="el" href="../../#l08462">ObjectMgr::LoadPointsOfInterest()</a>, <a class="el" href="../../#l05940">ObjectMgr::LoadScripts()</a>, <a class="el" href="../../#l02903">WorldObject::MovePosition()</a>, <a class="el" href="../../#l01021">StaticTransport::RelocateToProgress()</a>, <a class="el" href="../../#l03348">Creature::SetPosition()</a>, <a class="el" href="../../#l02950">GameObject::SetPosition()</a>, <a class="el" href="../../#l01079">StaticTransport::UpdatePassengerPositions()</a>, <a class="el" href="../../#l00726">MotionTransport::UpdatePassengerPositions()</a>, <a class="el" href="../../#l15650">Unit::UpdatePosition()</a>, and <a class="el" href="../../#l00531">WorldSession::VerifyMovementInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l00155">PathGenerator::CalculatePath()</a>, <a class="el" href="../../#l03464">Map::CheckCollisionAndGetValidCoords()</a>, <a class="el" href="../../#l01145">Spell::EffectJumpDest()</a>, <a class="el" href="../../#l01011">SmartAIMgr::IsEventValid()</a>, <a class="el" href="../../#l00183">Position::IsPositionValid()</a>, <a class="el" href="../../#l00215">IsValidMapCoord()</a>, <a class="el" href="../../#l00220">IsValidMapCoord()</a>, <a class="el" href="../../#l00225">IsValidMapCoord()</a>, <a class="el" href="../../#l00095">MapMgr::IsValidMapCoord()</a>, <a class="el" href="../../#l00100">MapMgr::IsValidMapCoord()</a>, <a class="el" href="../../#l00105">MapMgr::IsValidMapCoord()</a>, <a class="el" href="../../#l01693">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l05023">Player::LoadFromDB()</a>, <a class="el" href="../../#l08463">ObjectMgr::LoadPointsOfInterest()</a>, <a class="el" href="../../#l05941">ObjectMgr::LoadScripts()</a>, <a class="el" href="../../#l02903">WorldObject::MovePosition()</a>, <a class="el" href="../../#l01021">StaticTransport::RelocateToProgress()</a>, <a class="el" href="../../#l03350">Creature::SetPosition()</a>, <a class="el" href="../../#l02950">GameObject::SetPosition()</a>, <a class="el" href="../../#l01079">StaticTransport::UpdatePassengerPositions()</a>, <a class="el" href="../../#l00726">MotionTransport::UpdatePassengerPositions()</a>, <a class="el" href="../../#l15675">Unit::UpdatePosition()</a>, and <a class="el" href="../../#l00531">WorldSession::VerifyMovementInfo()</a>.</p>
 
 </div>
 </div>
@@ -3655,11 +3670,11 @@ template&lt;typename T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>    {</div>
-<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">return</span> { std::forward&lt;T&gt;(callback) };</div>
-<div class="line"><span class="lineno">   72</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   71</span>    {</div>
+<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">return</span> { std::forward&lt;T&gt;(callback) };</div>
+<div class="line"><span class="lineno">   73</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00075">CreateChildProcess()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00076">CreateChildProcess()</a>.</p>
 
 </div>
 </div>
@@ -4252,16 +4267,16 @@ template&lt;class SPECIFIC_TYPE &gt; </div>
       </table>
 </div><div class="memdoc">
 <p>Searches for the given executable in the PATH variable and returns a non-empty string when it was found. </p>
-<div class="fragment"><div class="line"><span class="lineno">  281</span>    {</div>
-<div class="line"><span class="lineno">  282</span>        <span class="keywordflow">try</span></div>
-<div class="line"><span class="lineno">  283</span>        {</div>
-<div class="line"><span class="lineno">  284</span>            <span class="keywordflow">return</span> search_path(filename).string();</div>
-<div class="line"><span class="lineno">  285</span>        }</div>
-<div class="line"><span class="lineno">  286</span>        <span class="keywordflow">catch</span> (...)</div>
-<div class="line"><span class="lineno">  287</span>        {</div>
-<div class="line"><span class="lineno">  288</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;&quot;</span>;</div>
-<div class="line"><span class="lineno">  289</span>        }</div>
-<div class="line"><span class="lineno">  290</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  296</span>    {</div>
+<div class="line"><span class="lineno">  297</span>        <span class="keywordflow">try</span></div>
+<div class="line"><span class="lineno">  298</span>        {</div>
+<div class="line"><span class="lineno">  299</span>            <span class="keywordflow">return</span> search_path(filename).string();</div>
+<div class="line"><span class="lineno">  300</span>        }</div>
+<div class="line"><span class="lineno">  301</span>        <span class="keywordflow">catch</span> (...)</div>
+<div class="line"><span class="lineno">  302</span>        {</div>
+<div class="line"><span class="lineno">  303</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;&quot;</span>;</div>
+<div class="line"><span class="lineno">  304</span>        }</div>
+<div class="line"><span class="lineno">  305</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00041">DBUpdaterUtil::CheckExecutable()</a>.</p>
 
@@ -4476,13 +4491,13 @@ template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </div>
       </table>
 </div><div class="memdoc">
 <p>Starts a process asynchronously with the given arguments and parameters and returns an <a class="el" href="../../da/df5/classAcore_1_1AsyncProcessResult.html">AsyncProcessResult</a> immediately which is set, when the process exits. When an input path is given, the file will be routed to the processes stdin. When the process is marked as secure no arguments are leaked to logs. Note that most executables expect it's name as the first argument. </p>
-<div class="fragment"><div class="line"><span class="lineno">  272</span>    {</div>
-<div class="line"><span class="lineno">  273</span>        <span class="keyword">auto</span> handle = std::make_shared&lt;AsyncProcessResultImplementation&gt;(</div>
-<div class="line"><span class="lineno">  274</span>            std::move(executable), std::move(args), std::move(logger), std::move(input_file), secure);</div>
-<div class="line"><span class="lineno">  275</span> </div>
-<div class="line"><span class="lineno">  276</span>        handle-&gt;SetFuture(std::async(std::launch::async, [handle] { <span class="keywordflow">return</span> handle-&gt;StartProcess(); }));</div>
-<div class="line"><span class="lineno">  277</span>        <span class="keywordflow">return</span> handle;</div>
-<div class="line"><span class="lineno">  278</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  287</span>    {</div>
+<div class="line"><span class="lineno">  288</span>        <span class="keyword">auto</span> handle = std::make_shared&lt;AsyncProcessResultImplementation&gt;(</div>
+<div class="line"><span class="lineno">  289</span>            std::move(executable), std::move(args), std::move(logger), std::move(input_file), secure);</div>
+<div class="line"><span class="lineno">  290</span> </div>
+<div class="line"><span class="lineno">  291</span>        handle-&gt;SetFuture(std::async(std::launch::async, [handle] { <span class="keywordflow">return</span> handle-&gt;StartProcess(); }));</div>
+<div class="line"><span class="lineno">  292</span>        <span class="keywordflow">return</span> handle;</div>
+<div class="line"><span class="lineno">  293</span>    }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -4530,23 +4545,23 @@ template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </div>
       </table>
 </div><div class="memdoc">
 <p>Starts a process with the given arguments and parameters and will block until the process is finished. When an input path is given, the file will be routed to the processes stdin. When the process is marked as secure no arguments are leaked to logs. Note that most executables expect it's name as the first argument. </p>
-<div class="fragment"><div class="line"><span class="lineno">  171</span>    {</div>
-<div class="line"><span class="lineno">  172</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a18bbd8a6717e647e963654123259a033">CreateChildProcess</a>([](child&amp; c) -&gt; <span class="keywordtype">int</span></div>
-<div class="line"><span class="lineno">  173</span>        {</div>
-<div class="line"><span class="lineno">  174</span>            <span class="keywordflow">try</span></div>
-<div class="line"><span class="lineno">  175</span>            {</div>
-<div class="line"><span class="lineno">  176</span>                c.wait();</div>
-<div class="line"><span class="lineno">  177</span>                <span class="keywordflow">return</span> c.exit_code();</div>
-<div class="line"><span class="lineno">  178</span>            }</div>
-<div class="line"><span class="lineno">  179</span>            <span class="keywordflow">catch</span> (...)</div>
-<div class="line"><span class="lineno">  180</span>            {</div>
-<div class="line"><span class="lineno">  181</span>                <span class="keywordflow">return</span> EXIT_FAILURE;</div>
-<div class="line"><span class="lineno">  182</span>            }</div>
-<div class="line"><span class="lineno">  183</span>        }, executable, args, logger, input_file, secure);</div>
-<div class="line"><span class="lineno">  184</span>    }</div>
-<div class="ttc" id="anamespaceAcore_html_a18bbd8a6717e647e963654123259a033"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a18bbd8a6717e647e963654123259a033">Acore::CreateChildProcess</a></div><div class="ttdeci">static int CreateChildProcess(T waiter, std::string const &amp;executable, std::vector&lt; std::string &gt; const &amp;argsVector, std::string const &amp;logger, std::string const &amp;input, bool secure)</div><div class="ttdef"><b>Definition</b> StartProcess.cpp:75</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  186</span>    {</div>
+<div class="line"><span class="lineno">  187</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a18bbd8a6717e647e963654123259a033">CreateChildProcess</a>([](child&amp; c) -&gt; <span class="keywordtype">int</span></div>
+<div class="line"><span class="lineno">  188</span>        {</div>
+<div class="line"><span class="lineno">  189</span>            <span class="keywordflow">try</span></div>
+<div class="line"><span class="lineno">  190</span>            {</div>
+<div class="line"><span class="lineno">  191</span>                c.wait();</div>
+<div class="line"><span class="lineno">  192</span>                <span class="keywordflow">return</span> c.exit_code();</div>
+<div class="line"><span class="lineno">  193</span>            }</div>
+<div class="line"><span class="lineno">  194</span>            <span class="keywordflow">catch</span> (...)</div>
+<div class="line"><span class="lineno">  195</span>            {</div>
+<div class="line"><span class="lineno">  196</span>                <span class="keywordflow">return</span> EXIT_FAILURE;</div>
+<div class="line"><span class="lineno">  197</span>            }</div>
+<div class="line"><span class="lineno">  198</span>        }, executable, args, logger, input_file, secure);</div>
+<div class="line"><span class="lineno">  199</span>    }</div>
+<div class="ttc" id="anamespaceAcore_html_a18bbd8a6717e647e963654123259a033"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a18bbd8a6717e647e963654123259a033">Acore::CreateChildProcess</a></div><div class="ttdeci">static int CreateChildProcess(T waiter, std::string const &amp;executable, std::vector&lt; std::string &gt; const &amp;argsVector, std::string const &amp;logger, std::string const &amp;input, bool secure)</div><div class="ttdef"><b>Definition</b> StartProcess.cpp:76</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00075">CreateChildProcess()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">CreateChildProcess()</a>.</p>
 
 </div>
 </div>
@@ -4598,7 +4613,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">   53</span>        }</div>
 <div class="line"><span class="lineno">   54</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00044">Abort()</a>, <a class="el" href="../../#l00148">AbortHandler()</a>, <a class="el" href="../../#l00046">TransactionBase::Append()</a>, <a class="el" href="../../#l00025">AppenderFile::AppenderFile()</a>, <a class="el" href="../../#l00199">Warden::ApplyPenalty()</a>, <a class="el" href="../../#l00032">Assert()</a>, <a class="el" href="../../#l00171">SecretMgr::AttemptTransition()</a>, <a class="el" href="../../#l00586">MMAP::TileBuilder::buildMoveMapTile()</a>, <a class="el" href="../../#l00508">MMAP::MapBuilder::buildNavMesh()</a>, <a class="el" href="../../#l00052">ByteBufferInvalidValueException::ByteBufferInvalidValueException()</a>, <a class="el" href="../../#l00110">DatabaseWorkerPool&lt; T &gt;::DirectExecute()</a>, <a class="el" href="../../#l00076">ModuleDatabasePool::DirectExecute()</a>, <a class="el" href="../../#l00087">DatabaseWorkerPool&lt; T &gt;::Execute()</a>, <a class="el" href="../../#l00067">ModuleDatabasePool::Execute()</a>, <a class="el" href="../../#l00094">GridTerrainLoader::ExistMap()</a>, <a class="el" href="../../#l00976">ExtractMapsFromMpq()</a>, <a class="el" href="../../#l00038">Fatal()</a>, <a class="el" href="../../#l00125">Acore::Impl::ChatCommands::FormatAcoreString()</a>, <a class="el" href="../../#l00203">MMAP::IntermediateValues::generateObjFile()</a>, <a class="el" href="../../#l09629">ObjectMgr::GetAcoreString()</a>, <a class="el" href="../../#l00413">Acore::Impl::ChatCommands::ChatCommandNode::GetAutoCompletionsFor()</a>, <a class="el" href="../../#l00085">mail_commandscript::GetItemListString()</a>, <a class="el" href="../../#l00237">WorldSession::HandleAcceptTradeOpcode()</a>, <a class="el" href="../../#l00080">message_commandscript::HandleAnnounceCommand()</a>, <a class="el" href="../../#l00284">character_commandscript::HandleCharacterTitlesCommand()</a>, <a class="el" href="../../#l00523">debug_commandscript::HandleDebugGetItemStateCommand()</a>, <a class="el" href="../../#l00891">lookup_commandscript::HandleLookupSkillCommand()</a>, <a class="el" href="../../#l01414">lookup_commandscript::HandleLookupTitleCommand()</a>, <a class="el" href="../../#l00131">mmaps_commandscript::HandleMmapLocCommand()</a>, <a class="el" href="../../#l00658">npc_commandscript::HandleNpcInfoCommandShowCreature()</a>, <a class="el" href="../../#l00219">spell_the_flag_of_ownership::HandleScript()</a>, <a class="el" href="../../#l00054">send_commandscript::HandleSendItemsCommand()</a>, <a class="el" href="../../#l00065">WorldSession::HandleSendMail()</a>, <a class="el" href="../../#l00117">server_commandscript::HandleServerDebugCommand()</a>, <a class="el" href="../../#l00082">titles_commandscript::HandleTitlesAddCommand()</a>, <a class="el" href="../../#l00051">titles_commandscript::HandleTitlesCurrentCommand()</a>, <a class="el" href="../../#l00111">titles_commandscript::HandleTitlesRemoveCommand()</a>, <a class="el" href="../../#l00044">AppenderConsole::InitColors()</a>, <a class="el" href="../../#l00253">PlayerDump::InitializeTables()</a>, <a class="el" href="../../#l00040">DBCDatabaseLoader::Load()</a>, <a class="el" href="../../#l00764">PlayerDumpReader::LoadDump()</a>, <a class="el" href="../../#l00020">GridTerrainLoader::LoadMap()</a>, <a class="el" href="../../#l00144">MMAP::TerrainBuilder::loadMap()</a>, <a class="el" href="../../#l00027">MMAP::MMapMgr::LoadNavMesh()</a>, <a class="el" href="../../#l00068">MMAP::MMapMgr::LoadTile()</a>, <a class="el" href="../../#l00040">WardenCheckMgr::LoadWardenChecks()</a>, <a class="el" href="../../#l00156">LogCommandUsage()</a>, <a class="el" href="../../#l00078">Log::outCommand()</a>, <a class="el" href="../../#l00072">Log::outMessage()</a>, <a class="el" href="../../#l00169">ChatHandler::PGetParseModuleString()</a>, <a class="el" href="../../#l00154">ChatHandler::PGetParseString()</a>, <a class="el" href="../../#l00140">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00133">DatabaseWorkerPool&lt; T &gt;::Query()</a>, <a class="el" href="../../#l00085">ModuleDatabasePool::Query()</a>, <a class="el" href="../../#l00056">WardenPayloadMgr::RegisterPayload()</a>, <a class="el" href="../../#l00472">WorldSession::SendAreaTriggerMessage()</a>, <a class="el" href="../../#l00478">WorldSession::SendAreaTriggerMessage()</a>, <a class="el" href="../../#l00047">ArenaSpectator::SendCommand()</a>, <a class="el" href="../../#l00078">ChatHandler::SendGMText()</a>, <a class="el" href="../../#l00068">ChatHandler::SendGMText()</a>, <a class="el" href="../../#l01171">BattlegroundQueue::SendJoinMessageArenaQueue()</a>, <a class="el" href="../../#l00060">ChatHandler::SendNotification()</a>, <a class="el" href="../../#l00054">ChatHandler::SendNotification()</a>, <a class="el" href="../../#l00100">ChatHandler::SendWorldText()</a>, <a class="el" href="../../#l00090">ChatHandler::SendWorldText()</a>, <a class="el" href="../../#l00122">ChatHandler::SendWorldTextOptional()</a>, <a class="el" href="../../#l00112">ChatHandler::SendWorldTextOptional()</a>, <a class="el" href="../../#l01033">MMAP::TileBuilder::shouldSkipTile()</a>, <a class="el" href="../../#l00022">Acore::Banner::Show()</a>, <a class="el" href="../../#l00037">ArenaScore::ToString()</a>, <a class="el" href="../../#l00104">PreparedStatementData::ToString()</a>, <a class="el" href="../../#l00260">Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::TryAtIndex()</a>, <a class="el" href="../../#l00284">Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::TryConsume()</a>, <a class="el" href="../../#l00074">Acore::Impl::ChatCommands::MultiConsumer&lt; Tuple, Optional&lt; NestedNextType &gt;, offset &gt;::TryConsumeTo()</a>, and <a class="el" href="../../#l00053">Appender::write()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00044">Abort()</a>, <a class="el" href="../../#l00148">AbortHandler()</a>, <a class="el" href="../../#l00046">TransactionBase::Append()</a>, <a class="el" href="../../#l00025">AppenderFile::AppenderFile()</a>, <a class="el" href="../../#l00199">Warden::ApplyPenalty()</a>, <a class="el" href="../../#l00032">Assert()</a>, <a class="el" href="../../#l00171">SecretMgr::AttemptTransition()</a>, <a class="el" href="../../#l00586">MMAP::TileBuilder::buildMoveMapTile()</a>, <a class="el" href="../../#l00508">MMAP::MapBuilder::buildNavMesh()</a>, <a class="el" href="../../#l00052">ByteBufferInvalidValueException::ByteBufferInvalidValueException()</a>, <a class="el" href="../../#l00110">DatabaseWorkerPool&lt; T &gt;::DirectExecute()</a>, <a class="el" href="../../#l00076">ModuleDatabasePool::DirectExecute()</a>, <a class="el" href="../../#l00087">DatabaseWorkerPool&lt; T &gt;::Execute()</a>, <a class="el" href="../../#l00067">ModuleDatabasePool::Execute()</a>, <a class="el" href="../../#l00094">GridTerrainLoader::ExistMap()</a>, <a class="el" href="../../#l00976">ExtractMapsFromMpq()</a>, <a class="el" href="../../#l00038">Fatal()</a>, <a class="el" href="../../#l00125">Acore::Impl::ChatCommands::FormatAcoreString()</a>, <a class="el" href="../../#l00203">MMAP::IntermediateValues::generateObjFile()</a>, <a class="el" href="../../#l09672">ObjectMgr::GetAcoreString()</a>, <a class="el" href="../../#l00413">Acore::Impl::ChatCommands::ChatCommandNode::GetAutoCompletionsFor()</a>, <a class="el" href="../../#l00085">mail_commandscript::GetItemListString()</a>, <a class="el" href="../../#l00237">WorldSession::HandleAcceptTradeOpcode()</a>, <a class="el" href="../../#l00080">message_commandscript::HandleAnnounceCommand()</a>, <a class="el" href="../../#l00284">character_commandscript::HandleCharacterTitlesCommand()</a>, <a class="el" href="../../#l00523">debug_commandscript::HandleDebugGetItemStateCommand()</a>, <a class="el" href="../../#l00891">lookup_commandscript::HandleLookupSkillCommand()</a>, <a class="el" href="../../#l01414">lookup_commandscript::HandleLookupTitleCommand()</a>, <a class="el" href="../../#l00131">mmaps_commandscript::HandleMmapLocCommand()</a>, <a class="el" href="../../#l00658">npc_commandscript::HandleNpcInfoCommandShowCreature()</a>, <a class="el" href="../../#l00219">spell_the_flag_of_ownership::HandleScript()</a>, <a class="el" href="../../#l00054">send_commandscript::HandleSendItemsCommand()</a>, <a class="el" href="../../#l00065">WorldSession::HandleSendMail()</a>, <a class="el" href="../../#l00117">server_commandscript::HandleServerDebugCommand()</a>, <a class="el" href="../../#l00082">titles_commandscript::HandleTitlesAddCommand()</a>, <a class="el" href="../../#l00051">titles_commandscript::HandleTitlesCurrentCommand()</a>, <a class="el" href="../../#l00111">titles_commandscript::HandleTitlesRemoveCommand()</a>, <a class="el" href="../../#l00044">AppenderConsole::InitColors()</a>, <a class="el" href="../../#l00253">PlayerDump::InitializeTables()</a>, <a class="el" href="../../#l00040">DBCDatabaseLoader::Load()</a>, <a class="el" href="../../#l00764">PlayerDumpReader::LoadDump()</a>, <a class="el" href="../../#l00020">GridTerrainLoader::LoadMap()</a>, <a class="el" href="../../#l00144">MMAP::TerrainBuilder::loadMap()</a>, <a class="el" href="../../#l00027">MMAP::MMapMgr::LoadNavMesh()</a>, <a class="el" href="../../#l00068">MMAP::MMapMgr::LoadTile()</a>, <a class="el" href="../../#l00040">WardenCheckMgr::LoadWardenChecks()</a>, <a class="el" href="../../#l00156">LogCommandUsage()</a>, <a class="el" href="../../#l00078">Log::outCommand()</a>, <a class="el" href="../../#l00072">Log::outMessage()</a>, <a class="el" href="../../#l00169">ChatHandler::PGetParseModuleString()</a>, <a class="el" href="../../#l00154">ChatHandler::PGetParseString()</a>, <a class="el" href="../../#l00140">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00133">DatabaseWorkerPool&lt; T &gt;::Query()</a>, <a class="el" href="../../#l00085">ModuleDatabasePool::Query()</a>, <a class="el" href="../../#l00056">WardenPayloadMgr::RegisterPayload()</a>, <a class="el" href="../../#l00472">WorldSession::SendAreaTriggerMessage()</a>, <a class="el" href="../../#l00478">WorldSession::SendAreaTriggerMessage()</a>, <a class="el" href="../../#l00047">ArenaSpectator::SendCommand()</a>, <a class="el" href="../../#l00078">ChatHandler::SendGMText()</a>, <a class="el" href="../../#l00068">ChatHandler::SendGMText()</a>, <a class="el" href="../../#l01171">BattlegroundQueue::SendJoinMessageArenaQueue()</a>, <a class="el" href="../../#l00060">ChatHandler::SendNotification()</a>, <a class="el" href="../../#l00054">ChatHandler::SendNotification()</a>, <a class="el" href="../../#l00100">ChatHandler::SendWorldText()</a>, <a class="el" href="../../#l00090">ChatHandler::SendWorldText()</a>, <a class="el" href="../../#l00122">ChatHandler::SendWorldTextOptional()</a>, <a class="el" href="../../#l00112">ChatHandler::SendWorldTextOptional()</a>, <a class="el" href="../../#l01033">MMAP::TileBuilder::shouldSkipTile()</a>, <a class="el" href="../../#l00022">Acore::Banner::Show()</a>, <a class="el" href="../../#l00037">ArenaScore::ToString()</a>, <a class="el" href="../../#l00104">PreparedStatementData::ToString()</a>, <a class="el" href="../../#l00260">Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::TryAtIndex()</a>, <a class="el" href="../../#l00284">Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::TryConsume()</a>, <a class="el" href="../../#l00074">Acore::Impl::ChatCommands::MultiConsumer&lt; Tuple, Optional&lt; NestedNextType &gt;, offset &gt;::TryConsumeTo()</a>, and <a class="el" href="../../#l00053">Appender::write()</a>.</p>
 
 </div>
 </div>
@@ -4979,7 +4994,7 @@ template&lt;typename OutputIt &gt; </div>
 <div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> tokens;</div>
 <div class="line"><span class="lineno">   41</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00610">Object::_LoadIntoDataField()</a>, <a class="el" href="../../#l06100">Player::_LoadItem()</a>, <a class="el" href="../../#l06238">Player::_LoadMailedItem()</a>, <a class="el" href="../../#l01154">Player::BuildEnumData()</a>, <a class="el" href="../../#l00715">ConfigMgr::Configure()</a>, <a class="el" href="../../#l00062">Log::CreateAppenderFromConfig()</a>, <a class="el" href="../../#l00126">Log::CreateLoggerFromConfig()</a>, <a class="el" href="../../#l00143">MotdMgr::CreateWorldPacket()</a>, <a class="el" href="../../#l00031">Acore::Module::GetEnableModulesList()</a>, <a class="el" href="../../#l01987">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>, <a class="el" href="../../#l00116">DisableMgr::HandleDisableType()</a>, <a class="el" href="../../#l00101">pooltools_commandscript::HandlePoolDef()</a>, <a class="el" href="../../#l00458">reload_commandscript::HandleReloadCreatureTemplateCommand()</a>, <a class="el" href="../../#l00054">send_commandscript::HandleSendItemsCommand()</a>, <a class="el" href="../../#l00168">misc_commandscript::HandleSkirmishCommand()</a>, <a class="el" href="../../#l00044">AppenderConsole::InitColors()</a>, <a class="el" href="../../#l00166">ChannelMgr::LoadChannelRights()</a>, <a class="el" href="../../#l00082">Acore::Impl::ChatCommands::ChatCommandNode::LoadCommandMap()</a>, <a class="el" href="../../#l00047">Acore::Impl::ChatCommands::ChatCommandNode::LoadCommandsIntoMap()</a>, <a class="el" href="../../#l01262">ObjectMgr::LoadCreatureAddons()</a>, <a class="el" href="../../#l00952">ObjectMgr::LoadCreatureCustomIDs()</a>, <a class="el" href="../../#l00065">SpellMgr::LoadCreatureImmunities()</a>, <a class="el" href="../../#l00856">ObjectMgr::LoadCreatureTemplateAddons()</a>, <a class="el" href="../../#l00070">Metric::LoadFromConfigs()</a>, <a class="el" href="../../#l00420">Item::LoadFromDB()</a>, <a class="el" href="../../#l00249">CharmInfo::LoadPetActionBar()</a>, <a class="el" href="../../#l00130">PlayerTaxi::LoadTaxiDestinationsFromString()</a>, <a class="el" href="../../#l00089">PlayerTaxi::LoadTaxiMask()</a>, <a class="el" href="../../#l00108">MoneyStringToMoney()</a>, <a class="el" href="../../#l00033">MySQLConnectionInfo::MySQLConnectionInfo()</a>, <a class="el" href="../../#l00030">PlayerSettingsStore::ParseSettingsData()</a>, <a class="el" href="../../#l00100">ArenaTeamFilterFactoryByUserInput::ParseTypes()</a>, <a class="el" href="../../#l00107">UpdateFetcher::ReceiveIncludedDirectories()</a>, <a class="el" href="../../#l00288">WorldSession::SendAreaTriggerMessage()</a>, <a class="el" href="../../#l00350">Acore::Impl::ChatCommands::ChatCommandNode::SendCommandHelpFor()</a>, <a class="el" href="../../#l00204">ChatHandler::SendGlobalGMSysMessage()</a>, <a class="el" href="../../#l00194">ChatHandler::SendGlobalSysMessage()</a>, <a class="el" href="../../#l00124">ChatHandler::SendGMText()</a>, <a class="el" href="../../#l00113">ChatHandler::SendNotification()</a>, <a class="el" href="../../#l00168">ChatHandler::SendSysMessage()</a>, <a class="el" href="../../#l00139">ChatHandler::SendWorldText()</a>, <a class="el" href="../../#l00151">ChatHandler::SendWorldTextOptional()</a>, and <a class="el" href="../../#l00033">Tokenize()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00610">Object::_LoadIntoDataField()</a>, <a class="el" href="../../#l06100">Player::_LoadItem()</a>, <a class="el" href="../../#l06238">Player::_LoadMailedItem()</a>, <a class="el" href="../../#l01154">Player::BuildEnumData()</a>, <a class="el" href="../../#l00715">ConfigMgr::Configure()</a>, <a class="el" href="../../#l00062">Log::CreateAppenderFromConfig()</a>, <a class="el" href="../../#l00126">Log::CreateLoggerFromConfig()</a>, <a class="el" href="../../#l00143">MotdMgr::CreateWorldPacket()</a>, <a class="el" href="../../#l00031">Acore::Module::GetEnableModulesList()</a>, <a class="el" href="../../#l01987">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>, <a class="el" href="../../#l00116">DisableMgr::HandleDisableType()</a>, <a class="el" href="../../#l00101">pooltools_commandscript::HandlePoolDef()</a>, <a class="el" href="../../#l00458">reload_commandscript::HandleReloadCreatureTemplateCommand()</a>, <a class="el" href="../../#l00054">send_commandscript::HandleSendItemsCommand()</a>, <a class="el" href="../../#l00168">misc_commandscript::HandleSkirmishCommand()</a>, <a class="el" href="../../#l00044">AppenderConsole::InitColors()</a>, <a class="el" href="../../#l00166">ChannelMgr::LoadChannelRights()</a>, <a class="el" href="../../#l00082">Acore::Impl::ChatCommands::ChatCommandNode::LoadCommandMap()</a>, <a class="el" href="../../#l00047">Acore::Impl::ChatCommands::ChatCommandNode::LoadCommandsIntoMap()</a>, <a class="el" href="../../#l01263">ObjectMgr::LoadCreatureAddons()</a>, <a class="el" href="../../#l00953">ObjectMgr::LoadCreatureCustomIDs()</a>, <a class="el" href="../../#l00065">SpellMgr::LoadCreatureImmunities()</a>, <a class="el" href="../../#l00857">ObjectMgr::LoadCreatureTemplateAddons()</a>, <a class="el" href="../../#l00070">Metric::LoadFromConfigs()</a>, <a class="el" href="../../#l00420">Item::LoadFromDB()</a>, <a class="el" href="../../#l00249">CharmInfo::LoadPetActionBar()</a>, <a class="el" href="../../#l00130">PlayerTaxi::LoadTaxiDestinationsFromString()</a>, <a class="el" href="../../#l00089">PlayerTaxi::LoadTaxiMask()</a>, <a class="el" href="../../#l00108">MoneyStringToMoney()</a>, <a class="el" href="../../#l00033">MySQLConnectionInfo::MySQLConnectionInfo()</a>, <a class="el" href="../../#l00030">PlayerSettingsStore::ParseSettingsData()</a>, <a class="el" href="../../#l00100">ArenaTeamFilterFactoryByUserInput::ParseTypes()</a>, <a class="el" href="../../#l00107">UpdateFetcher::ReceiveIncludedDirectories()</a>, <a class="el" href="../../#l00289">WorldSession::SendAreaTriggerMessage()</a>, <a class="el" href="../../#l00350">Acore::Impl::ChatCommands::ChatCommandNode::SendCommandHelpFor()</a>, <a class="el" href="../../#l00204">ChatHandler::SendGlobalGMSysMessage()</a>, <a class="el" href="../../#l00194">ChatHandler::SendGlobalSysMessage()</a>, <a class="el" href="../../#l00124">ChatHandler::SendGMText()</a>, <a class="el" href="../../#l00113">ChatHandler::SendNotification()</a>, <a class="el" href="../../#l00168">ChatHandler::SendSysMessage()</a>, <a class="el" href="../../#l00139">ChatHandler::SendWorldText()</a>, <a class="el" href="../../#l00151">ChatHandler::SendWorldTextOptional()</a>, and <a class="el" href="../../#l00033">Tokenize()</a>.</p>
 
 </div>
 </div>
@@ -5175,7 +5190,7 @@ template&lt;AnyTypeList List&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d0b/namespaceAcore.html">Acore</a></li>
-    <li class="footer">Generated on Sat Oct 24 2026 10:10:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 25 2026 10:35:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -65,7 +65,7 @@ var classPet =
     [ "SaveToDB", "df/d14/classPet.html#a8c7308b81b808c23b878b99cb78d6598", null ],
     [ "SetAuraUpdateMaskForRaid", "df/d14/classPet.html#af2bc2f71a53f18d94c9a6892f42fc602", null ],
     [ "setDeathState", "df/d14/classPet.html#a2dbea061451c0aba0ed87810d5f74c2d", null ],
-    [ "SetDisplayId", "df/d14/classPet.html#ab85942641ebca1533c4de72ff2f7abb2", null ],
+    [ "SetDisplayId", "df/d14/classPet.html#a794d7ecaa9fa49a2466174492fe16be8", null ],
     [ "SetDuration", "df/d14/classPet.html#a6e1975168e20419d58d300012781def9", null ],
     [ "SetFreeTalentPoints", "df/d14/classPet.html#aaccd1b242377432d3b3c79909a2d8ef4", null ],
     [ "SetLoading", "df/d14/classPet.html#a4f51b83ff25e3bfbee6d635118800938", null ],

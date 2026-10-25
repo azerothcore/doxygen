@@ -1,6 +1,9 @@
 var NAVTREEINDEX58 =
 {
+"d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2254,0,2],
+"d2/d39/classDBCFile_1_1NotFound.html":[7,0,992,2],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,0],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,1],
 "d2/d39/classboss__varos.html":[7,0,775],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX58 =
 "d2/d48/PreparedStatement_8h.html#a67eb68c20f5616b2ea2a16a87784360a":[8,0,0,0,1,1,0,27,6],
 "d2/d48/PreparedStatement_8h.html#a6d4fe40146df0d52c6917d8cc920ac84":[8,0,0,0,1,1,0,27,4],
 "d2/d48/PreparedStatement_8h.html#ae544e1b7f5a34959b1b48592f67dd4e7":[8,0,0,0,1,1,0,27,5],
-"d2/d48/classChannel.html":[7,0,869],
-"d2/d48/classChannel.html#a019ca37867664ed06185f12e632a76ae":[7,0,869,112],
-"d2/d48/classChannel.html#a062b01af76e2a3befa303947dd9080e9":[7,0,869,62],
-"d2/d48/classChannel.html#a0b4763580aadb148db8c9e0e8b5f76c3":[7,0,869,24]
+"d2/d48/classChannel.html":[7,0,869]
 };

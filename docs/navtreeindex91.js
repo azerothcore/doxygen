@@ -1,5 +1,8 @@
 var NAVTREEINDEX91 =
 {
+"d2/dec/group__u2w.html#ggae6a6780680157e01b09a257d84b150c7afa2e8ef459ee0af6eea7b2be7ce30841":[4,1,30,3],
+"d2/dec/structLinkValidator_3_01LinkTags_1_1talent_01_4.html":[7,0,1470],
+"d2/dec/structLinkValidator_3_01LinkTags_1_1talent_01_4.html#a25b0d16c232ab67fc75a81a494fb5815":[7,0,1470,1],
 "d2/dec/structLinkValidator_3_01LinkTags_1_1talent_01_4.html#a4bb1cd2a247136daadfa36f85b50a65d":[7,0,1470,0],
 "d2/ded/classspell__q10651__q10692__book__of__fel__names.html":[7,0,3911],
 "d2/ded/classspell__q10651__q10692__book__of__fel__names.html#a4505b9196609ae9339fe7e5948963663":[7,0,3911,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX91 =
 "d2/df6/DBCStores_8h.html#a6cc1bb46e69ee6dfbfbc4d71f8ba3004":[8,0,0,0,1,2,14,1,101],
 "d2/df6/DBCStores_8h.html#a70a19d9511735cce2e1200aa9d695137":[8,0,0,0,1,2,14,1,16],
 "d2/df6/DBCStores_8h.html#a72e25473312c4b93a7450c7a5232cb6e":[8,0,0,0,1,2,14,1,142],
-"d2/df6/DBCStores_8h.html#a7310e7ca73ddb97a809bce03e33cc38d":[8,0,0,0,1,2,14,1,2],
-"d2/df6/DBCStores_8h.html#a73d34d857e5e1ebc289eda1dc36e4d7e":[8,0,0,0,1,2,14,1,8],
-"d2/df6/DBCStores_8h.html#a746c7ed00a3edd41ef9441b2e48f843c":[8,0,0,0,1,2,14,1,104],
-"d2/df6/DBCStores_8h.html#a75f21934939cf3418142a038e06aeddd":[8,0,0,0,1,2,14,1,56]
+"d2/df6/DBCStores_8h.html#a7310e7ca73ddb97a809bce03e33cc38d":[8,0,0,0,1,2,14,1,2]
 };

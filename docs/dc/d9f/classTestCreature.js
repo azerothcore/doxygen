@@ -5,6 +5,7 @@ var classTestCreature =
     [ "AddToWorld", "dc/d9f/classTestCreature.html#ad50d535e3d817e349ca2261355ef42e9", null ],
     [ "CleanupCombatState", "dc/d9f/classTestCreature.html#a2843b8b064a7590fdc300eca55130510", null ],
     [ "ForceInitValues", "dc/d9f/classTestCreature.html#a14b977c061ad7205565165ab95e26b7b", null ],
+    [ "GetNativeObjectScale", "dc/d9f/classTestCreature.html#aa79c21bcd9ae9a08601c85e3a86e95cc", null ],
     [ "InitializeThreatManager", "dc/d9f/classTestCreature.html#a1b7dc8fdaa7410f56fcb7c0c09c330cc", null ],
     [ "RemoveFromWorld", "dc/d9f/classTestCreature.html#aff159ed812267686dc40d8f040d246d5", null ],
     [ "SetAlive", "dc/d9f/classTestCreature.html#a50bbd14ac9f04f95fe2c4b993853b18c", null ],
@@ -15,11 +16,13 @@ var classTestCreature =
     [ "SetInWorld", "dc/d9f/classTestCreature.html#a105e047afc1322cabc0abaa6ed966429", null ],
     [ "SetPhase", "dc/d9f/classTestCreature.html#ae507367aae1e5df5ae4b2b361fa01292", null ],
     [ "SetTestMap", "dc/d9f/classTestCreature.html#a82ca211dc98584e18321bf2617e5d516", null ],
+    [ "SetTestNativeObjectScale", "dc/d9f/classTestCreature.html#aa504942042cc85ad8dc5c9eedf61ba90", null ],
     [ "SetupForCombatTest", "dc/d9f/classTestCreature.html#a59bbe55e405b1130893bdd981ee67ac3", null ],
     [ "TestGetCombatMgr", "dc/d9f/classTestCreature.html#a077215ab2596e971da9e1164c8767b0d", null ],
     [ "TestGetThreatMgr", "dc/d9f/classTestCreature.html#ab83a95caba2ba1382dbbf2358207ec4d", null ],
     [ "UpdateObjectVisibility", "dc/d9f/classTestCreature.html#af383075d66f66abd9fa2ae6bca9e1efe", null ],
     [ "_fakeCreatureTemplate", "dc/d9f/classTestCreature.html#a62c771f19a46a99b1d3dbe92e099025f", null ],
     [ "_fakeTemplateInitialized", "dc/d9f/classTestCreature.html#a70308cfba61ee3fe3b8456d9e17663f8", null ],
-    [ "_testMap", "dc/d9f/classTestCreature.html#aa7ed608845789326b9465a820360f4a4", null ]
+    [ "_testMap", "dc/d9f/classTestCreature.html#aa7ed608845789326b9465a820360f4a4", null ],
+    [ "_testNativeObjectScale", "dc/d9f/classTestCreature.html#a6abb5d92481f2b6db389bb55400f1de9", null ]
 ];

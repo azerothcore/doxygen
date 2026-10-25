@@ -9,5 +9,5 @@ var classinstance__commandscript =
     [ "HandleInstanceSaveDataCommand", "d1/dba/classinstance__commandscript.html#a4b494a8b1de470612436fbb9fa433416", null ],
     [ "HandleInstanceSetBossStateCommand", "d1/dba/classinstance__commandscript.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
     [ "HandleInstanceStatsCommand", "d1/dba/classinstance__commandscript.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "d1/dba/classinstance__commandscript.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "HandleInstanceUnbindCommand", "d1/dba/classinstance__commandscript.html#a553ec8691fdf67922fc552b900768d22", null ]
 ];

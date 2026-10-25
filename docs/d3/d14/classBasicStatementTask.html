@@ -273,14 +273,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   55</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../da/d08/classSQLOperation.html#adf322db48064fcf4528f713f857f1b40">m_conn</a>-&gt;<a class="code hl_function" href="../../d5/db3/classMySQLConnection.html#ac9bb537b21f3780c8f1a0c11297706d6">Execute</a>(<a class="code hl_variable" href="../../d3/d14/classBasicStatementTask.html#a9320235413d1c4736301070e1faeb161">m_sql</a>);</div>
 <div class="line"><span class="lineno">   56</span>}</div>
 <div class="ttc" id="aDatabaseEnvFwd_8h_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition</b> DatabaseEnvFwd.h:27</div></div>
-<div class="ttc" id="aclassMySQLConnection_html_a8c05ec510296198c91e98e7d18e9d6c7"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a8c05ec510296198c91e98e7d18e9d6c7">MySQLConnection::Query</a></div><div class="ttdeci">ResultSet * Query(std::string_view sql)</div><div class="ttdef"><b>Definition</b> MySQLConnection.cpp:310</div></div>
-<div class="ttc" id="aclassMySQLConnection_html_ac9bb537b21f3780c8f1a0c11297706d6"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#ac9bb537b21f3780c8f1a0c11297706d6">MySQLConnection::Execute</a></div><div class="ttdeci">bool Execute(std::string_view sql)</div><div class="ttdef"><b>Definition</b> MySQLConnection.cpp:175</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_a8c05ec510296198c91e98e7d18e9d6c7"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a8c05ec510296198c91e98e7d18e9d6c7">MySQLConnection::Query</a></div><div class="ttdeci">ResultSet * Query(std::string_view sql)</div><div class="ttdef"><b>Definition</b> MySQLConnection.cpp:323</div></div>
+<div class="ttc" id="aclassMySQLConnection_html_ac9bb537b21f3780c8f1a0c11297706d6"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#ac9bb537b21f3780c8f1a0c11297706d6">MySQLConnection::Execute</a></div><div class="ttdeci">bool Execute(std::string_view sql)</div><div class="ttdef"><b>Definition</b> MySQLConnection.cpp:180</div></div>
 <div class="ttc" id="aclassResultSet_html"><div class="ttname"><a href="../../d0/d92/classResultSet.html">ResultSet</a></div><div class="ttdef"><b>Definition</b> QueryResult.h:49</div></div>
 <div class="ttc" id="aclassResultSet_html_a16890572d4d0e422fcf347970262d9e1"><div class="ttname"><a href="../../d0/d92/classResultSet.html#a16890572d4d0e422fcf347970262d9e1">ResultSet::GetRowCount</a></div><div class="ttdeci">uint64 GetRowCount() const</div><div class="ttdef"><b>Definition</b> QueryResult.h:55</div></div>
 <div class="ttc" id="aclassResultSet_html_a3d63f8274e3b485176855e2ade9e0642"><div class="ttname"><a href="../../d0/d92/classResultSet.html#a3d63f8274e3b485176855e2ade9e0642">ResultSet::NextRow</a></div><div class="ttdeci">bool NextRow()</div><div class="ttdef"><b>Definition</b> QueryResult.cpp:188</div></div>
 <div class="ttc" id="aclassSQLOperation_html_adf322db48064fcf4528f713f857f1b40"><div class="ttname"><a href="../../da/d08/classSQLOperation.html#adf322db48064fcf4528f713f857f1b40">SQLOperation::m_conn</a></div><div class="ttdeci">MySQLConnection * m_conn</div><div class="ttdef"><b>Definition</b> SQLOperation.h:56</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00175">MySQLConnection::Execute()</a>, <a class="el" href="../../#l00055">ResultSet::GetRowCount()</a>, <a class="el" href="../../#l00056">SQLOperation::m_conn</a>, <a class="el" href="../../#l00037">m_has_result</a>, <a class="el" href="../../#l00038">m_result</a>, <a class="el" href="../../#l00036">m_sql</a>, <a class="el" href="../../#l00188">ResultSet::NextRow()</a>, and <a class="el" href="../../#l00310">MySQLConnection::Query()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00180">MySQLConnection::Execute()</a>, <a class="el" href="../../#l00055">ResultSet::GetRowCount()</a>, <a class="el" href="../../#l00056">SQLOperation::m_conn</a>, <a class="el" href="../../#l00037">m_has_result</a>, <a class="el" href="../../#l00038">m_result</a>, <a class="el" href="../../#l00036">m_sql</a>, <a class="el" href="../../#l00188">ResultSet::NextRow()</a>, and <a class="el" href="../../#l00323">MySQLConnection::Query()</a>.</p>
 
 </div>
 </div>
@@ -395,7 +395,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d14/classBasicStatementTask.html">BasicStatementTask</a></li>
-    <li class="footer">Generated on Sat Oct 24 2026 10:09:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 25 2026 10:34:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

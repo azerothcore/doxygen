@@ -247,11 +247,12 @@ var Unit_8h =
       [ "MAXDAMAGE", "d1/daf/Unit_8h.html#a4961ced707837d09157e8296ab8a2507a5e4c68960c0bd10b439817ec3f1112ca", null ],
       [ "MAX_WEAPON_DAMAGE_RANGE", "d1/daf/Unit_8h.html#a4961ced707837d09157e8296ab8a2507a353a691300043008469d161b1bf49247", null ]
     ] ],
+    [ "ApplyMoveSpeedRates", "d1/daf/Unit_8h.html#af36a8812ababc4c432a430785293c5cf", null ],
     [ "createProcFlags", "d1/daf/Unit_8h.html#a7d920511c20f084098c0f68a75006159", null ],
-    [ "baseMoveSpeed", "d1/daf/Unit_8h.html#a2ede1cce0416c74db2d4599bab36eb57", null ],
+    [ "baseMoveSpeed", "d1/daf/Unit_8h.html#a8dfa2f38da75227699c2156368f188c7", null ],
     [ "infinityCooldownDelay", "d1/daf/Unit_8h.html#a76b85ce9200f098d29159574458e921e", null ],
     [ "infinityCooldownDelayCheck", "d1/daf/Unit_8h.html#a12cb62c744887f9c3df04b223bb04080", null ],
     [ "MAX_CREATURE_SPELLS", "d1/daf/Unit_8h.html#ac6af0816f1cdb55cd57c5975ff99ad18", null ],
-    [ "playerBaseMoveSpeed", "d1/daf/Unit_8h.html#afef08589b9944f10d66bdc1de74d0270", null ],
+    [ "playerBaseMoveSpeed", "d1/daf/Unit_8h.html#a1df63baeb3d35dc44a3e9c429317087e", null ],
     [ "SetSpeed2Opc_table", "d1/daf/Unit_8h.html#ab8425e2a6602134c64c3a54919e49c32", null ]
 ];

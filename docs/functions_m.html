@@ -522,6 +522,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>m_int32Values&#160;:&#160;<a class="el" href="d8/d4b/classObject.html#a0e3befcc1645cf61475f19ba9ca4afee">Object</a></li>
 <li>m_interruptableAuras&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a858e41339e7022609915ca22ea38e12b">Unit</a></li>
 <li>m_interruptMask&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#ad7e6f331fc6f40ef851f774369526f4c">Unit</a></li>
+<li>m_inTransaction&#160;:&#160;<a class="el" href="d5/db3/classMySQLConnection.html#ae0718d3bb45ad97704aedab31291b127">MySQLConnection</a></li>
 <li>m_invisibility&#160;:&#160;<a class="el" href="d4/dd0/classWorldObject.html#a41d85385408958edcecb5883dd89c3d9">WorldObject</a></li>
 <li>m_invisibilityDetect&#160;:&#160;<a class="el" href="d4/dd0/classWorldObject.html#a535383de383eb9b9b20d988bdcbb3291">WorldObject</a></li>
 <li>m_invitees&#160;:&#160;<a class="el" href="d0/db7/classGroup.html#a1dedb2b860688f8cb5d2b00943245bf9">Group</a></li>
@@ -606,6 +607,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>m_lootState&#160;:&#160;<a class="el" href="de/d1c/classGameObject.html#ae58d6f16ad33e333e4f2f71d544044c4">GameObject</a></li>
 <li>m_LootTemplates&#160;:&#160;<a class="el" href="d1/de0/classLootStore.html#a58cf63357ad373aaf5866f5f2dcb23a8">LootStore</a></li>
 <li>m_lootThreshold&#160;:&#160;<a class="el" href="d0/db7/classGroup.html#af288cea89546d0b389cd35511e7fe188">Group</a></li>
+<li>m_lostTransactionError&#160;:&#160;<a class="el" href="d5/db3/classMySQLConnection.html#adae6b31354a12e52db88ca9554d09676">MySQLConnection</a></li>
 <li>m_mail&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#aea2ed28f2beca1ef2e6c4aab7144fdb5">Player</a></li>
 <li>m_mailsUpdated&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a5ab69416a77feef3e0e4061b18d4c1e7">Player</a></li>
 <li>m_mailTemplateId&#160;:&#160;<a class="el" href="d0/de9/classMailDraft.html#a8a7997191ebeaebbdd78677c99409278">MailDraft</a></li>
@@ -1176,7 +1178,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MailMgr&#160;:&#160;<a class="el" href="d4/d8b/classCharacterCache.html#a8fed275600ca3cecb9e8e48e7f0880b1">CharacterCache</a></li>
 <li>MailReceiver()&#160;:&#160;<a class="el" href="d7/d58/classMailReceiver.html#a6fba3ff0ab3167197f569631d766ce14">MailReceiver</a></li>
 <li>MailScript()&#160;:&#160;<a class="el" href="d0/da6/classMailScript.html#ac88f68e8ad89f950d7d3b486b03770d9">MailScript</a></li>
-<li>MailSender()&#160;:&#160;<a class="el" href="de/d1e/classMailSender.html#a12c87bb414a3e8889c95091f3b51716b">MailSender</a></li>
+<li>MailSender()&#160;:&#160;<a class="el" href="de/d1e/classMailSender.html#a735cfef6950357644d6965978dde0309">MailSender</a></li>
 <li>mailTemplate&#160;:&#160;<a class="el" href="d2/d0c/structAchievementReward.html#adc59ba563519ed9e673b734c4e40e7b8">AchievementReward</a></li>
 <li>mailTemplateId&#160;:&#160;<a class="el" href="d0/d12/structMail.html#afefffec74369d920ce395f1a04d8838c">Mail</a>, <a class="el" href="df/d10/structMailLevelReward.html#afdf6684bcd2751822bd00ba1509ef933">MailLevelReward</a></li>
 <li>main&#160;:&#160;<a class="el" href="d7/d3d/classWDT__file.html#a89ddf5d1527ac16a5d05790769d266b3">WDT_file</a></li>
@@ -1440,8 +1442,8 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MemberLost()&#160;:&#160;<a class="el" href="d4/dc6/classArenaTeam.html#a45faa9b5dc7daae1ed780fbad285e5d0">ArenaTeam</a></li>
 <li>Members&#160;:&#160;<a class="el" href="d4/dc6/classArenaTeam.html#a8d8464edaf022ff07a0974db5f4a8ee3">ArenaTeam</a></li>
 <li>MemberSlotList&#160;:&#160;<a class="el" href="d0/db7/classGroup.html#a4d8e5cbe8212d17dcdce9950344026dc">Group</a></li>
-<li>memberTable&#160;:&#160;<a class="el" href="db/d62/classRegularGrid2D.html#a2343374187eaf1b4a4dcf6d5cf4611d1">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;</a></li>
 <li>MemberTable&#160;:&#160;<a class="el" href="db/d62/classRegularGrid2D.html#aa580b56fe8ba502ca0b18f43246d6e32">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;</a></li>
+<li>memberTable&#160;:&#160;<a class="el" href="db/d62/classRegularGrid2D.html#a2343374187eaf1b4a4dcf6d5cf4611d1">RegularGrid2D&lt; T, Node, NodeCreatorFunc, PositionFunc &gt;</a></li>
 <li>MemberWon()&#160;:&#160;<a class="el" href="d4/dc6/classArenaTeam.html#af5bf16eeefe581a80fd1bc9dcf7d9eb9">ArenaTeam</a></li>
 <li>MemoryGUID&#160;:&#160;<a class="el" href="dd/d64/structboss__paletress_1_1boss__paletressAI.html#a5b2d80b38623174b7913ed4d893f03c9">boss_paletress::boss_paletressAI</a></li>
 <li>mEnchantCustomAttr&#160;:&#160;<a class="el" href="da/d90/classSpellMgr.html#a1d1bde8d692b959379b27d29bfdd1e48">SpellMgr</a></li>
@@ -1568,7 +1570,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MMapMgr()&#160;:&#160;<a class="el" href="df/d8e/classMMAP_1_1MMapMgr.html#abd4bd2ef84d57be5000ab37ed36ded8c">MMAP::MMapMgr</a></li>
 <li>mmaps_commandscript()&#160;:&#160;<a class="el" href="da/df3/classmmaps__commandscript.html#a1dbdfd26bdb685315a3012453080a56f">mmaps_commandscript</a></li>
 <li>MMapsPath()&#160;:&#160;<a class="el" href="d8/da7/classMMAP_1_1Config.html#a4c4885b899f29f8b7fdeaccbbf3c5c54">MMAP::Config</a></li>
-<li>MMapTargetData()&#160;:&#160;<a class="el" href="d8/d7d/classMMapTargetData.html#a33cc430ea3c4b5dd4012a16914dc8aeb">MMapTargetData</a></li>
+<li>MMapTargetData()&#160;:&#160;<a class="el" href="d8/d7d/classMMapTargetData.html#a2b5741029d07e216c6632e250e934e0a">MMapTargetData</a></li>
 <li>MmapTileHeader()&#160;:&#160;<a class="el" href="d1/d1b/structMmapTileHeader.html#a0165f9a4caee4e4759ea261dfbac08a7">MmapTileHeader</a></li>
 <li>mmapVersion&#160;:&#160;<a class="el" href="d1/d1b/structMmapTileHeader.html#a5cc3cd873419fe8aeb479d3187584410">MmapTileHeader</a></li>
 <li>mMitems&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a0514871236c42f709acc23c4ab03ab26">Player</a></li>
@@ -1577,7 +1579,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MobaEx&#160;:&#160;<a class="el" href="dc/d66/classWMOGroup.html#ae185ea49affd80b22e7fb1825ce01031">WMOGroup</a></li>
 <li>MobGUID&#160;:&#160;<a class="el" href="d7/dcf/structnpc__qiraj__war__spawn_1_1npc__qiraj__war__spawnAI.html#a4148121a56275770ee84744a0288b6c5">npc_qiraj_war_spawn::npc_qiraj_war_spawnAI</a></li>
 <li>MobSpawnId&#160;:&#160;<a class="el" href="d7/df6/structnpc__grimstone.html#a5a54226cc0ada2095dccf93b7a18bae3">npc_grimstone</a></li>
-<li>MOCK_METHOD()&#160;:&#160;<a class="el" href="d8/d8b/classMockArenaSeasonTeamRewarder.html#a423c022319fa9025b56db18cc27945b3">MockArenaSeasonTeamRewarder</a>, <a class="el" href="d0/d70/classMockAuraStub.html#a727233484b563f548c9f0e2d8a78b9a6">MockAuraStub</a>, <a class="el" href="db/ded/classMockUnitStub.html#afc487e92b80c573fd5b01400204401da">MockUnitStub</a>, <a class="el" href="d0/d66/classWorldMock.html#ad400cdf33f3f0b4d036cf7e2f16fcaa2">WorldMock</a></li>
+<li>MOCK_METHOD()&#160;:&#160;<a class="el" href="d8/d8b/classMockArenaSeasonTeamRewarder.html#a423c022319fa9025b56db18cc27945b3">MockArenaSeasonTeamRewarder</a>, <a class="el" href="d0/d70/classMockAuraStub.html#a727233484b563f548c9f0e2d8a78b9a6">MockAuraStub</a>, <a class="el" href="db/ded/classMockUnitStub.html#ab1469fe474ab6290bfd8d8222392fdb1">MockUnitStub</a>, <a class="el" href="d0/d66/classWorldMock.html#ad400cdf33f3f0b4d036cf7e2f16fcaa2">WorldMock</a></li>
 <li>MockAuraStub()&#160;:&#160;<a class="el" href="d0/d70/classMockAuraStub.html#a9f0561eabca5230f8fe27384e0deb6b8">MockAuraStub</a></li>
 <li>mockingBlowTimer&#160;:&#160;<a class="el" href="d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#a21cd1ca86864b8507d43e5a1c4c13e0c">npc_corporal_keeshan::npc_corporal_keeshanAI</a></li>
 <li>ModArmor&#160;:&#160;<a class="el" href="d1/d61/structCreatureTemplate.html#a7c9443f35fd104ab971beb0b65f1abe8">CreatureTemplate</a></li>
@@ -1904,7 +1906,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sat Oct 24 2026 10:10:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 25 2026 10:35:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

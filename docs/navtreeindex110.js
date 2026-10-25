@@ -1,5 +1,8 @@
 var NAVTREEINDEX110 =
 {
+"d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295afcace9679cc3114b1fe6a1214539b839":[8,0,0,0,1,3,10,10,50,1],
+"d3/da1/npc__professions_8cpp.html#aab2b32f3602bef50a3a19bac6d111ab1":[8,0,0,0,1,3,10,10,55],
+"d3/da1/npc__professions_8cpp.html#aafeab306b08ad544c0a0db08389a8f14":[8,0,0,0,1,3,10,10,40],
 "d3/da1/npc__professions_8cpp.html#ab6ac9548a3a00c5b4ea0ba73dbf7bf60":[8,0,0,0,1,3,10,10,46],
 "d3/da1/npc__professions_8cpp.html#ab991c06c2e20c59c8c0a2200f247004d":[8,0,0,0,1,3,10,10,58],
 "d3/da1/npc__professions_8cpp.html#abcf7545cd9e58104bae0af4ba00a49a5":[8,0,0,0,1,3,10,10,26],
@@ -246,8 +249,5 @@ var NAVTREEINDEX110 =
 "d3/da9/classWorldState.html#afbd4d4141d81f26e9fb6508b628e7e59":[7,0,4748,68],
 "d3/da9/classWorldState.html#afd94cb3de9e3064b01114156333d61dc":[7,0,4748,38],
 "d3/da9/classWorldState.html#afe83b61f649a15570fa9b1db023af842":[7,0,4748,62],
-"d3/da9/classWorldState.html#afee232ea215af146768dad9ea07b4ec5":[7,0,4748,53],
-"d3/da9/structnpc__brewfest__keg__thrower.html":[7,0,1716],
-"d3/da9/structnpc__brewfest__keg__thrower.html#a29da1efd21fe6737684607e5b360ea84":[7,0,1716,0],
-"d3/da9/structnpc__brewfest__keg__thrower.html#a36212d0f17c0070d3ef3cc25577ff7b9":[7,0,1716,1]
+"d3/da9/classWorldState.html#afee232ea215af146768dad9ea07b4ec5":[7,0,4748,53]
 };

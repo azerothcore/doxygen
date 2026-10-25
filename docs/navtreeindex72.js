@@ -1,5 +1,8 @@
 var NAVTREEINDEX72 =
 {
+"d2/d8e/structEmotesTextSoundEntry.html#a17a267412c8a1527370b1e67ea5b6211":[7,0,1050,4],
+"d2/d8e/structEmotesTextSoundEntry.html#a60760a3e9768f1b189a4373ffe0b9bca":[7,0,1050,1],
+"d2/d8e/structEmotesTextSoundEntry.html#a818eae8ffc756fc359a822de63d21976":[7,0,1050,3],
 "d2/d8e/structEmotesTextSoundEntry.html#a8427fb95e778194124143d276b527213":[7,0,1050,2],
 "d2/d8e/structEmotesTextSoundEntry.html#a8a45e92993f75f5d3b8e8fb045a294da":[7,0,1050,0],
 "d2/d8e/structboss__freya__summons.html":[7,0,501],
@@ -246,8 +249,5 @@ var NAVTREEINDEX72 =
 "d2/d9a/GameEventScript_8h.html":[8,0,0,0,1,2,38,0,50],
 "d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44b":[8,0,0,0,1,2,38,0,50,1],
 "d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f":[8,0,0,0,1,2,38,0,50,1,2],
-"d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d":[8,0,0,0,1,2,38,0,50,1,1],
-"d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6":[8,0,0,0,1,2,38,0,50,1,0],
-"d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395":[8,0,0,0,1,2,38,0,50,1,3],
-"d2/d9a/classnpc__gothik__trigger.html":[7,0,1868]
+"d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d":[8,0,0,0,1,2,38,0,50,1,1]
 };

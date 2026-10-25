@@ -163,59 +163,59 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  406</span>{</div>
-<div class="line"><span class="lineno">  407</span>    <span class="comment">// Step 1: Disallow all control sequences except ||, |H, |h, |c and |r</span></div>
-<div class="line"><span class="lineno">  408</span>    {</div>
-<div class="line"><span class="lineno">  409</span>        std::string_view::size_type pos = 0;</div>
-<div class="line"><span class="lineno">  410</span>        <span class="keywordflow">while</span> ((pos = str.find(<span class="charliteral">&#39;|&#39;</span>, pos)) != std::string::npos)</div>
-<div class="line"><span class="lineno">  411</span>        {</div>
-<div class="line"><span class="lineno">  412</span>            ++pos;</div>
-<div class="line"><span class="lineno">  413</span>            <span class="keywordflow">if</span> (pos == str.length())</div>
-<div class="line"><span class="lineno">  414</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  415</span>            <span class="keywordtype">char</span> next = str[pos];</div>
-<div class="line"><span class="lineno">  416</span>            <span class="keywordflow">if</span> (next == <span class="charliteral">&#39;H&#39;</span> || next == <span class="charliteral">&#39;h&#39;</span> || next == <span class="charliteral">&#39;c&#39;</span> || next == <span class="charliteral">&#39;r&#39;</span> || next == <span class="charliteral">&#39;|&#39;</span>)</div>
-<div class="line"><span class="lineno">  417</span>                ++pos;</div>
-<div class="line"><span class="lineno">  418</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  419</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  420</span>        }</div>
-<div class="line"><span class="lineno">  421</span>    }</div>
-<div class="line"><span class="lineno">  422</span> </div>
-<div class="line"><span class="lineno">  423</span>    <span class="comment">// Step 2: Parse all link sequences</span></div>
-<div class="line"><span class="lineno">  424</span>    <span class="comment">// They look like this: |c&lt;color&gt;|H&lt;linktag&gt;:&lt;linkdata&gt;|h[&lt;linktext&gt;]|h|r</span></div>
-<div class="line"><span class="lineno">  425</span>    <span class="comment">// - &lt;color&gt; is 8 hex characters AARRGGBB</span></div>
-<div class="line"><span class="lineno">  426</span>    <span class="comment">// - &lt;linktag&gt; is arbitrary length [a-z_]</span></div>
-<div class="line"><span class="lineno">  427</span>    <span class="comment">// - &lt;linkdata&gt; is arbitrary length, no | contained</span></div>
-<div class="line"><span class="lineno">  428</span>    <span class="comment">// - &lt;linktext&gt; is printable</span></div>
-<div class="line"><span class="lineno">  429</span>    {</div>
-<div class="line"><span class="lineno">  430</span>        std::string::size_type pos;</div>
-<div class="line"><span class="lineno">  431</span>        <span class="keywordflow">while</span> ((pos = str.find(<span class="charliteral">&#39;|&#39;</span>)) != std::string::npos)</div>
-<div class="line"><span class="lineno">  432</span>        {</div>
-<div class="line"><span class="lineno">  433</span>            <span class="keywordflow">if</span> (str[pos + 1] == <span class="charliteral">&#39;|&#39;</span>) <span class="comment">// this is an escaped pipe character (||)</span></div>
-<div class="line"><span class="lineno">  434</span>            {</div>
-<div class="line"><span class="lineno">  435</span>                str = str.substr(pos + 2);</div>
-<div class="line"><span class="lineno">  436</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  437</span>            }</div>
-<div class="line"><span class="lineno">  438</span> </div>
-<div class="line"><span class="lineno">  439</span>            <a class="code hl_struct" href="../../da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html">HyperlinkInfo</a> info = <a class="code hl_function" href="../../df/de5/namespaceAcore_1_1Hyperlinks.html#a2c5596879f4531eeedbe15d1e4987918">ParseSingleHyperlink</a>(str.substr(pos));</div>
-<div class="line"><span class="lineno">  440</span>            <span class="keywordflow">if</span> (!info || !<a class="code hl_function" href="../../da/dde/Hyperlinks_8cpp.html#a7de61dd7d7c595063ae73f415e961cc9">ValidateLinkInfo</a>(info))</div>
-<div class="line"><span class="lineno">  441</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  442</span> </div>
-<div class="line"><span class="lineno">  443</span>            <span class="comment">// tag is fine, find the next one</span></div>
-<div class="line"><span class="lineno">  444</span>            str = info.<a class="code hl_variable" href="../../da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00">tail</a>;</div>
-<div class="line"><span class="lineno">  445</span>        }</div>
-<div class="line"><span class="lineno">  446</span>    }</div>
-<div class="line"><span class="lineno">  447</span> </div>
-<div class="line"><span class="lineno">  448</span>    <span class="comment">// all tags are valid</span></div>
-<div class="line"><span class="lineno">  449</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  450</span>}</div>
-<div class="ttc" id="aHyperlinks_8cpp_html_a7de61dd7d7c595063ae73f415e961cc9"><div class="ttname"><a href="../../da/dde/Hyperlinks_8cpp.html#a7de61dd7d7c595063ae73f415e961cc9">ValidateLinkInfo</a></div><div class="ttdeci">static bool ValidateLinkInfo(HyperlinkInfo const &amp;info)</div><div class="ttdef"><b>Definition</b> Hyperlinks.cpp:376</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  413</span>{</div>
+<div class="line"><span class="lineno">  414</span>    <span class="comment">// Step 1: Disallow all control sequences except ||, |H, |h, |c and |r</span></div>
+<div class="line"><span class="lineno">  415</span>    {</div>
+<div class="line"><span class="lineno">  416</span>        std::string_view::size_type pos = 0;</div>
+<div class="line"><span class="lineno">  417</span>        <span class="keywordflow">while</span> ((pos = str.find(<span class="charliteral">&#39;|&#39;</span>, pos)) != std::string::npos)</div>
+<div class="line"><span class="lineno">  418</span>        {</div>
+<div class="line"><span class="lineno">  419</span>            ++pos;</div>
+<div class="line"><span class="lineno">  420</span>            <span class="keywordflow">if</span> (pos == str.length())</div>
+<div class="line"><span class="lineno">  421</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  422</span>            <span class="keywordtype">char</span> next = str[pos];</div>
+<div class="line"><span class="lineno">  423</span>            <span class="keywordflow">if</span> (next == <span class="charliteral">&#39;H&#39;</span> || next == <span class="charliteral">&#39;h&#39;</span> || next == <span class="charliteral">&#39;c&#39;</span> || next == <span class="charliteral">&#39;r&#39;</span> || next == <span class="charliteral">&#39;|&#39;</span>)</div>
+<div class="line"><span class="lineno">  424</span>                ++pos;</div>
+<div class="line"><span class="lineno">  425</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  426</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  427</span>        }</div>
+<div class="line"><span class="lineno">  428</span>    }</div>
+<div class="line"><span class="lineno">  429</span> </div>
+<div class="line"><span class="lineno">  430</span>    <span class="comment">// Step 2: Parse all link sequences</span></div>
+<div class="line"><span class="lineno">  431</span>    <span class="comment">// They look like this: |c&lt;color&gt;|H&lt;linktag&gt;:&lt;linkdata&gt;|h[&lt;linktext&gt;]|h|r</span></div>
+<div class="line"><span class="lineno">  432</span>    <span class="comment">// - &lt;color&gt; is 8 hex characters AARRGGBB</span></div>
+<div class="line"><span class="lineno">  433</span>    <span class="comment">// - &lt;linktag&gt; is arbitrary length [a-z_]</span></div>
+<div class="line"><span class="lineno">  434</span>    <span class="comment">// - &lt;linkdata&gt; is arbitrary length, no | contained</span></div>
+<div class="line"><span class="lineno">  435</span>    <span class="comment">// - &lt;linktext&gt; is printable</span></div>
+<div class="line"><span class="lineno">  436</span>    {</div>
+<div class="line"><span class="lineno">  437</span>        std::string::size_type pos;</div>
+<div class="line"><span class="lineno">  438</span>        <span class="keywordflow">while</span> ((pos = str.find(<span class="charliteral">&#39;|&#39;</span>)) != std::string::npos)</div>
+<div class="line"><span class="lineno">  439</span>        {</div>
+<div class="line"><span class="lineno">  440</span>            <span class="keywordflow">if</span> (str[pos + 1] == <span class="charliteral">&#39;|&#39;</span>) <span class="comment">// this is an escaped pipe character (||)</span></div>
+<div class="line"><span class="lineno">  441</span>            {</div>
+<div class="line"><span class="lineno">  442</span>                str = str.substr(pos + 2);</div>
+<div class="line"><span class="lineno">  443</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  444</span>            }</div>
+<div class="line"><span class="lineno">  445</span> </div>
+<div class="line"><span class="lineno">  446</span>            <a class="code hl_struct" href="../../da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html">HyperlinkInfo</a> info = <a class="code hl_function" href="../../df/de5/namespaceAcore_1_1Hyperlinks.html#a2c5596879f4531eeedbe15d1e4987918">ParseSingleHyperlink</a>(str.substr(pos));</div>
+<div class="line"><span class="lineno">  447</span>            <span class="keywordflow">if</span> (!info || !<a class="code hl_function" href="../../da/dde/Hyperlinks_8cpp.html#a7de61dd7d7c595063ae73f415e961cc9">ValidateLinkInfo</a>(info))</div>
+<div class="line"><span class="lineno">  448</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  449</span> </div>
+<div class="line"><span class="lineno">  450</span>            <span class="comment">// tag is fine, find the next one</span></div>
+<div class="line"><span class="lineno">  451</span>            str = info.<a class="code hl_variable" href="../../da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00">tail</a>;</div>
+<div class="line"><span class="lineno">  452</span>        }</div>
+<div class="line"><span class="lineno">  453</span>    }</div>
+<div class="line"><span class="lineno">  454</span> </div>
+<div class="line"><span class="lineno">  455</span>    <span class="comment">// all tags are valid</span></div>
+<div class="line"><span class="lineno">  456</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  457</span>}</div>
+<div class="ttc" id="aHyperlinks_8cpp_html_a7de61dd7d7c595063ae73f415e961cc9"><div class="ttname"><a href="../../da/dde/Hyperlinks_8cpp.html#a7de61dd7d7c595063ae73f415e961cc9">ValidateLinkInfo</a></div><div class="ttdeci">static bool ValidateLinkInfo(HyperlinkInfo const &amp;info)</div><div class="ttdef"><b>Definition</b> Hyperlinks.cpp:383</div></div>
 <div class="ttc" id="anamespaceAcore_1_1Hyperlinks_html_a2c5596879f4531eeedbe15d1e4987918"><div class="ttname"><a href="../../df/de5/namespaceAcore_1_1Hyperlinks.html#a2c5596879f4531eeedbe15d1e4987918">Acore::Hyperlinks::ParseSingleHyperlink</a></div><div class="ttdeci">HyperlinkInfo AC_GAME_API ParseSingleHyperlink(std::string_view str)</div><div class="ttdef"><b>Definition</b> Hyperlinks.cpp:45</div></div>
 <div class="ttc" id="astructAcore_1_1Hyperlinks_1_1HyperlinkInfo_html"><div class="ttname"><a href="../../da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html">Acore::Hyperlinks::HyperlinkInfo</a></div><div class="ttdef"><b>Definition</b> Hyperlinks.h:249</div></div>
 <div class="ttc" id="astructAcore_1_1Hyperlinks_1_1HyperlinkInfo_html_a065d1a0942abbe5739f44126d5c3ce00"><div class="ttname"><a href="../../da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00">Acore::Hyperlinks::HyperlinkInfo::tail</a></div><div class="ttdeci">std::string_view const tail</div><div class="ttdef"><b>Definition</b> Hyperlinks.h:256</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00045">ParseSingleHyperlink()</a>, <a class="el" href="../../#l00256">Acore::Hyperlinks::HyperlinkInfo::tail</a>, and <a class="el" href="../../#l00376">ValidateLinkInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00045">ParseSingleHyperlink()</a>, <a class="el" href="../../#l00256">Acore::Hyperlinks::HyperlinkInfo::tail</a>, and <a class="el" href="../../#l00383">ValidateLinkInfo()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00044">WorldPackets::Strings::Hyperlinks::Validate()</a>, and <a class="el" href="../../#l00895">WorldSession::ValidateHyperlinksAndMaybeKick()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00044">WorldPackets::Strings::Hyperlinks::Validate()</a>, and <a class="el" href="../../#l00896">WorldSession::ValidateHyperlinksAndMaybeKick()</a>.</p>
 
 </div>
 </div>
@@ -309,7 +309,7 @@ Functions</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00030">toHex()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00405">CheckAllLinks()</a>, and <a class="el" href="../../#l00213">Acore::ChatCommands::Hyperlink&lt; linktag &gt;::TryConsume()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00412">CheckAllLinks()</a>, and <a class="el" href="../../#l00213">Acore::ChatCommands::Hyperlink&lt; linktag &gt;::TryConsume()</a>.</p>
 
 </div>
 </div>
@@ -319,7 +319,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d0b/namespaceAcore.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/de5/namespaceAcore_1_1Hyperlinks.html">Hyperlinks</a></li>
-    <li class="footer">Generated on Sat Oct 24 2026 10:10:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 25 2026 10:35:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

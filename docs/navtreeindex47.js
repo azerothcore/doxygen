@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"d1/dcb/classspell__tar__blaze__aura.html#a379c55df994c58932fef7e7a59fd8426":[7,0,4227,0],
 "d1/dcb/classspell__tar__blaze__aura.html#aacfaa385ca4cbe64217ef191a32936e2":[7,0,4227,2],
 "d1/dcb/classspell__tar__blaze__aura.html#ab180f54264f0c90376587d1b4c4dfd40":[7,0,4227,1],
 "d1/dcb/structUpdateFetcher_1_1PathCompare.html":[7,0,4652,2],
@@ -22,8 +23,8 @@ var NAVTREEINDEX47 =
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a2af638499152888a698b0fc1570e46ed":[5,0,0,38,5],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a4ed3a469f35cb7b64ad5f144281b7910":[5,0,0,38,0],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a4ed3a469f35cb7b64ad5f144281b7910":[7,0,0,26,0],
-"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a6b0d852333ee74a20281ce7de5a45b98":[7,0,0,26,4],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a6b0d852333ee74a20281ce7de5a45b98":[5,0,0,38,4],
+"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a6b0d852333ee74a20281ce7de5a45b98":[7,0,0,26,4],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a6e1026191fd4b1b45696a60f45b1b7b8":[5,0,0,38,1],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a6e1026191fd4b1b45696a60f45b1b7b8":[7,0,0,26,1],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a9ebd1a1d9716dfda55509396947c1a83":[5,0,0,38,2],
@@ -62,10 +63,10 @@ var NAVTREEINDEX47 =
 "d1/dd1/structboss__gahzranka.html#ad68be854f95c398dc5dd9e5b22f538a8":[7,0,503,1],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html":[5,0,31,27],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html":[7,0,11,27],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a07ea1ce999e5cea578af77cb47280748":[7,0,11,27,0],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a07ea1ce999e5cea578af77cb47280748":[5,0,31,27,0],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[5,0,31,27,2],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a07ea1ce999e5cea578af77cb47280748":[7,0,11,27,0],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[7,0,11,27,2],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[5,0,31,27,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[5,0,31,27,1],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[7,0,11,27,1],
 "d1/dd4/Item_8h.html":[8,0,0,0,1,2,16,4,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX47 =
 "d1/dd5/classRandomMovementGenerator.html#ae53e616aeb31ebc90c17a12b1954527d":[7,0,2535,5],
 "d1/dd5/classRandomMovementGenerator.html#af055ec2b1a95f0338ccbbaabd0e82483":[7,0,2535,20],
 "d1/dd5/classRandomMovementGenerator.html#af06aa5a3173151c6a8d42f30dd61b497":[7,0,2535,3],
-"d1/dd5/classspell__item__snowman.html":[7,0,3511],
-"d1/dd5/classspell__item__snowman.html#a14bd28450fb989b1deb1854e2118cb6b":[7,0,3511,0]
+"d1/dd5/classspell__item__snowman.html":[7,0,3511]
 };

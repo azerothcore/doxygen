@@ -1,5 +1,11 @@
 var NAVTREEINDEX136 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a27bdd95528c81703a7768a704a29e5d3":[8,0,0,0,1,3,5,2,1,1,54,7],
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a31604718f775e298f1e7c26524351a75":[8,0,0,0,1,3,5,2,1,1,54,6],
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a748c886ad604af3db71d021ecb7f3b52":[8,0,0,0,1,3,5,2,1,1,54,1],
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a80a6756ea06179389f8a2b253562baff":[8,0,0,0,1,3,5,2,1,1,54,4],
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a901e60dd92a92f9b0f3e1d709857498f":[8,0,0,0,1,3,5,2,1,1,54,2],
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9ac61cb65d7d9b3ba66dc98fa8fdc9e602":[8,0,0,0,1,3,5,2,1,1,54,3],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9ade68cd811c4f056f8e57baddec5c91d2":[8,0,0,0,1,3,5,2,1,1,54,5],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9aea705293d77171b26b0268e94a0816eb":[8,0,0,0,1,3,5,2,1,1,54,8],
 "d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5":[8,0,0,0,1,3,5,2,1,1,67],
@@ -199,12 +205,12 @@ var NAVTREEINDEX136 =
 "d4/d8a/classspell__gen__proc__not__self.html#a7693a86824050ff5615996d0d03d0292":[7,0,3133,2],
 "d4/d8a/classspell__gen__proc__not__self.html#aa8dac7f0a238f6f131553cbc7a142594":[7,0,3133,1],
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[7,0,3133,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,0,7,0,9],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[7,0,0,4,0,9],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[7,0,0,4,0,9,2],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,0,7,0,9],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,0,7,0,9,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[7,0,0,4,0,9,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[7,0,0,4,0,9,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,0,7,0,9,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[7,0,0,4,0,9,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[7,0,0,4,0,9,1],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,0,7,0,9,1],
 "d4/d8b/classCharacterCache.html":[7,0,875],
@@ -243,11 +249,5 @@ var NAVTREEINDEX136 =
 "d4/d8b/namespaceAcore_1_1Types.html#a6d4fe40146df0d52c6917d8cc920ac84":[5,0,0,16,1],
 "d4/d8b/namespaceAcore_1_1Types.html#aa6a7b1e80be2ae7ec2efb76185ee7b44":[5,0,0,16,0],
 "d4/d8b/namespaceAcore_1_1Types.html#ae544e1b7f5a34959b1b48592f67dd4e7":[5,0,0,16,2],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html":[7,0,2807],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#a01e31df6c6ec9f6ae5bffb4b435caf8e":[7,0,2807,2],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#a29bf443cdb53b10032ba382b8ae44828":[7,0,2807,0],
-"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html#aa22f2997c77c25927f01d9fb1c6852b9":[7,0,2807,1],
-"d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html":[7,0,1696,0],
-"d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html#a908ccf6763240ba0c0ebdf2dec6e1b36":[7,0,1696,0,0],
-"d4/d8c/structnpc__black__knight__graveyard_1_1npc__black__knight__graveyardAI.html#aa5c80b5759656e3865d6721161f9f005":[7,0,1696,0,1]
+"d4/d8c/classspell__deathwhisper__mana__barrier__aura.html":[7,0,2807]
 };
