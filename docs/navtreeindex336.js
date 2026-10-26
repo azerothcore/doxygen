@@ -1,5 +1,10 @@
 var NAVTREEINDEX336 =
 {
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[5,0,0,89,5],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[7,0,0,77,5],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,0,89,0],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[7,0,0,77,0],
+"dc/d97/classspell__warl__seduction.html":[7,0,4372],
 "dc/d97/classspell__warl__seduction.html#a19d8103126a6446fb5ade53d2b5d0ddb":[7,0,4372,0],
 "dc/d97/classspell__warl__seduction.html#a7596065e5ffcacf099a5984f5d940c11":[7,0,4372,1],
 "dc/d97/classspell__warl__seduction.html#a8efa76b28dddad68fee132f37791f231":[7,0,4372,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX336 =
 "dc/da6/SocialMgr_8h.html#afd83098f3a1e072e6ae7e54b799c5a49":[8,0,0,0,1,2,16,7,18,3],
 "dc/da7/classRectangleBoundary.html":[7,0,2547],
 "dc/da7/classRectangleBoundary.html#a2d6c735d080382263a401d91da37b934":[7,0,2547,1],
-"dc/da7/classRectangleBoundary.html#a3eff421dfe942634814e7526334f1c07":[7,0,2547,2],
-"dc/da7/classRectangleBoundary.html#a77db64ebe7e7f5e9621bbbd6e38837e1":[7,0,2547,4],
-"dc/da7/classRectangleBoundary.html#a9ec96dfb6b1ee804cceaae2f2dce6a22":[7,0,2547,3],
-"dc/da7/classRectangleBoundary.html#af401f84700a15fa1d4fcf78358a74735":[7,0,2547,0],
-"dc/da7/classRectangleBoundary.html#af5a7e35d5d9ff23c722643141f01a916":[7,0,2547,5],
-"dc/da7/classspell__item__chicken__cover.html":[7,0,3390]
+"dc/da7/classRectangleBoundary.html#a3eff421dfe942634814e7526334f1c07":[7,0,2547,2]
 };

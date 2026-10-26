@@ -1,5 +1,10 @@
 var NAVTREEINDEX431 =
 {
+"df/de3/structBattlegroundEYCapturingPointStruct.html#a5c82eae433ee69b5bda8c96049a06422":[7,0,339,4],
+"df/de3/structBattlegroundEYCapturingPointStruct.html#a77b4eac66780587e6be0eb380e29c9ce":[7,0,339,1],
+"df/de3/structBattlegroundEYCapturingPointStruct.html#aeeeecdf09990c74ffc868a135854d49b":[7,0,339,5],
+"df/de3/structBattlegroundEYCapturingPointStruct.html#af3295d59367354a4ddaac12258e793b8":[7,0,339,3],
+"df/de3/structPowerDisplayEntry.html":[7,0,2484],
 "df/de3/structPowerDisplayEntry.html#a44532f8af054ae5224f5e816c3c9a8a7":[7,0,2484,0],
 "df/de3/structPowerDisplayEntry.html#ab6c17a5a3ba9f2f3a8fac125104703c4":[7,0,2484,1],
 "df/de4/classachievement__commandscript.html":[7,0,51],
@@ -244,10 +249,5 @@ var NAVTREEINDEX431 =
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a133efbc8cd5ca9fb034aa757dd3bc46f":[8,0,0,0,1,3,5,6,1,15,5],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a28e76f38e331f7100e10e2976a764c1a":[8,0,0,0,1,3,5,6,1,15,8],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2a7a21adfe12bbc4ccc6df8bef5cd704":[8,0,0,0,1,3,5,6,1,15,4],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2c7c063fa0f69b3c9eb6f4f146bb16f0":[8,0,0,0,1,3,5,6,1,15,7],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a59ac877bb08fcd67381cfb648e121593":[8,0,0,0,1,3,5,6,1,15,9],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6808c2fd65eb9590e0e3f415c571fb37":[8,0,0,0,1,3,5,6,1,15,6],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c":[8,0,0,0,1,3,5,6,1,15,0],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,6,1,15,1],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a977c51cebd1160d7d64f733adf19a658":[8,0,0,0,1,3,5,6,1,15,10]
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2c7c063fa0f69b3c9eb6f4f146bb16f0":[8,0,0,0,1,3,5,6,1,15,7]
 };

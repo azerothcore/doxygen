@@ -1,5 +1,10 @@
 var NAVTREEINDEX386 =
 {
+"de/d30/SpellMgr_8h.html#afc30b3c6b18209a2b33a56ea14855f54":[8,0,0,0,1,2,41,9,19],
+"de/d30/SpellMgr_8h.html#aff302d7ad23409ef738f15bcb560ed89":[8,0,0,0,1,2,41,9,25],
+"de/d31/TradeData_8h.html":[8,0,0,0,1,2,16,7,20],
+"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62":[8,0,0,0,1,2,16,7,20,1],
+"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488":[8,0,0,0,1,2,16,7,20,1,0],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79":[8,0,0,0,1,2,16,7,20,1,1],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4":[8,0,0,0,1,2,16,7,20,1,3],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f":[8,0,0,0,1,2,16,7,20,1,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX386 =
 "de/d3b/classMotionMaster.html#aea8a8fc09f023e26929c7e91e49722f2":[7,0,1579,51],
 "de/d3b/classMotionMaster.html#aee31fdcb7478b54690970b9481d15dad":[7,0,1579,7],
 "de/d3b/classMotionMaster.html#aeef3695b4f5678e5c361dba9ae7b4cc4":[7,0,1579,20],
-"de/d3b/classMotionMaster.html#af3d7e6d3efb2a211fa4683ed1a1b554e":[7,0,1579,26],
-"de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a":[7,0,1579,4],
-"de/d3b/classMotionMaster.html#afd6b00aace2b2c96d27ad2b1345ae0e6":[7,0,1579,35],
-"de/d3b/classMotionMaster.html#afffbc53c2b9aff673a784898bbed3e54":[7,0,1579,52],
-"de/d3b/classspell__vazruden__call__nazan.html":[7,0,4324],
-"de/d3b/classspell__vazruden__call__nazan.html#a396acb663b8c9151196b8fedea3660c7":[7,0,4324,2]
+"de/d3b/classMotionMaster.html#af3d7e6d3efb2a211fa4683ed1a1b554e":[7,0,1579,26]
 };

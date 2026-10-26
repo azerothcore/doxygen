@@ -1,5 +1,10 @@
 var NAVTREEINDEX339 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55aaab4ccf93bfa07a14df4f49c08ca4318b":[8,0,0,0,1,3,2,15,7,12,1],
+"dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55aaeb03a0bee1984d803b6c28ae57dc5577":[8,0,0,0,1,3,2,15,7,12,0],
+"dc/dbc/boss__mandokir_8cpp.html#a8bb1ef53467e4f61410d12822d922498":[8,0,0,0,1,3,2,15,7,9],
+"dc/dbc/boss__mandokir_8cpp.html#a8bb1ef53467e4f61410d12822d922498a14acc6a83289f297aabd7f8da3c85502":[8,0,0,0,1,3,2,15,7,9,0],
+"dc/dbc/boss__mandokir_8cpp.html#a8bb1ef53467e4f61410d12822d922498ae4cd22dece403cdfe2b94719ca179265":[8,0,0,0,1,3,2,15,7,9,1],
 "dc/dbc/boss__mandokir_8cpp.html#a9396dd9ea823941d9a544a47bf39e453":[8,0,0,0,1,3,2,15,7,19],
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,15,7,10],
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a228f6168e5273bdb4cb9e26374a6d850":[8,0,0,0,1,3,2,15,7,10,3],
@@ -239,15 +244,10 @@ var NAVTREEINDEX339 =
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html":[5,0,0,7,0,3],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[7,0,0,4,0,3,2],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[5,0,0,7,0,3,2],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[7,0,0,4,0,3,0],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[5,0,0,7,0,3,0],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[7,0,0,4,0,3,1],
+"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[7,0,0,4,0,3,0],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[5,0,0,7,0,3,1],
+"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[7,0,0,4,0,3,1],
 "dc/dcf/classVerasEnvenom.html":[7,0,4675],
-"dc/dcf/classVerasEnvenom.html#a4b7853bb835cf28aefe2d5b955372d70":[7,0,4675,1],
-"dc/dcf/classVerasEnvenom.html#a90d62907c775565765fa87903adb94ea":[7,0,4675,3],
-"dc/dcf/classVerasEnvenom.html#ac8c5f4fcb63ea5141a71b56324de0b1f":[7,0,4675,0],
-"dc/dcf/classVerasEnvenom.html#af9cf231119ab5592be9829784f20d2e0":[7,0,4675,2],
-"dc/dd0/classWhoListCacheMgr.html":[7,0,4712],
-"dc/dd0/classWhoListCacheMgr.html#a1e8ce970e3213cd0361af303df98b387":[7,0,4712,5]
+"dc/dcf/classVerasEnvenom.html#a4b7853bb835cf28aefe2d5b955372d70":[7,0,4675,1]
 };

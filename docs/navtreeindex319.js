@@ -1,5 +1,10 @@
 var NAVTREEINDEX319 =
 {
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[7,0,13,7,6,1],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,34,7,6,1],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[5,0,34,7,6,0],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[7,0,13,7,6,0],
+"db/df8/classpool__commandscript.html":[7,0,2471],
 "db/df8/classpool__commandscript.html#a377a405a1dae394c6f17579c0f2751eb":[7,0,2471,4],
 "db/df8/classpool__commandscript.html#a41308abbe25e1e50325923f62f2fa3af":[7,0,2471,0],
 "db/df8/classpool__commandscript.html#a63f8bf7dc197ed163cf87f9423c8f4d9":[7,0,2471,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX319 =
 "db/dfb/spell__quest_8cpp.html#aec43b4c5f9e0916e6647d63a9dd32f53":[8,0,0,0,1,3,9,8,121],
 "db/dfb/spell__quest_8cpp.html#aec43b4c5f9e0916e6647d63a9dd32f53a34904c06893e3f6723f157b9e081c5a4":[8,0,0,0,1,3,9,8,121,0],
 "db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620":[8,0,0,0,1,3,9,8,112],
-"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620a7689a8e53a38b12f9e8c58de3dbffdf9":[8,0,0,0,1,3,9,8,112,0],
-"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620aaf2661acb7c256bdab16d272d03778ef":[8,0,0,0,1,3,9,8,112,1],
-"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620ab456f524958d9715467ad49b7c8c1a4c":[8,0,0,0,1,3,9,8,112,3],
-"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620ab6d0e73a3ec7ce610df1d6b620eee7ed":[8,0,0,0,1,3,9,8,112,2],
-"db/dfb/spell__quest_8cpp.html#af08435084f2bb6a688b94d7b26850e44":[8,0,0,0,1,3,9,8,123],
-"db/dfb/spell__quest_8cpp.html#af08435084f2bb6a688b94d7b26850e44af7b8a3b895235f57b62709d3ce2215a4":[8,0,0,0,1,3,9,8,123,0]
+"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620a7689a8e53a38b12f9e8c58de3dbffdf9":[8,0,0,0,1,3,9,8,112,0]
 };

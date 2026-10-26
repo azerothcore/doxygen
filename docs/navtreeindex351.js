@@ -1,7 +1,12 @@
 var NAVTREEINDEX351 =
 {
-"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[5,0,34,7,0,0],
+"dd/d4a/classspell__eredar__twins__handle__touch.html#a9208b9c010bb9cc379c195939351aa45":[7,0,2977,3],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[7,0,13,7,0],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html":[5,0,34,7,0],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[5,0,34,7,0,2],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a23cd7f483abfaede6df7a51b083a4477":[7,0,13,7,0,2],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[7,0,13,7,0,0],
+"dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a375d48ef2bc703f0223db82738016c6e":[5,0,34,7,0,0],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[7,0,13,7,0,1],
 "dd/d4b/classWorldPackets_1_1Instance_1_1InstanceLockResponse.html#a954b3d4521bc48ba5ee9807cc935e484":[5,0,34,7,0,1],
 "dd/d4c/TemporarySummon_8cpp.html":[8,0,0,0,1,2,16,1,8],
@@ -244,10 +249,5 @@ var NAVTREEINDEX351 =
 "dd/d59/classServerMailMgr.html#a85c3556138304b75ad3dec0014e56def":[7,0,2598,9],
 "dd/d59/classServerMailMgr.html#a96ae3a78694ca97d112c5d92884f2415":[7,0,2598,10],
 "dd/d59/classServerMailMgr.html#abc85cb07f717384fac09f4e2b0f59af1":[7,0,2598,5],
-"dd/d59/classServerMailMgr.html#acb4521f696c6f11c977dc9d8b76e0c16":[7,0,2598,3],
-"dd/d59/classServerMailMgr.html#adba54af38e90ecae21e79835910ba195":[7,0,2598,1],
-"dd/d59/classServerMailMgr.html#aeec2235e9dd9b36b868634d850f02a5b":[7,0,2598,0],
-"dd/d59/classspell__gen__black__bow__of__the__betrayer.html":[7,0,3041],
-"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#a107d4e1650c6044b60ab711b01c607f6":[7,0,3041,0],
-"dd/d59/classspell__gen__black__bow__of__the__betrayer.html#ad14fb132bbbcb7d378521530372a5a7c":[7,0,3041,1]
+"dd/d59/classServerMailMgr.html#acb4521f696c6f11c977dc9d8b76e0c16":[7,0,2598,3]
 };

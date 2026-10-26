@@ -302,7 +302,7 @@ var searchData=
   ['persistent_5fdata_5flk_5fintro_299',['PERSISTENT_DATA_LK_INTRO',['../d4/d1e/halls__of__reflection_8h.html#a01c9bdd526d31c49d9f7f70b1b9ae1b3aba3343fbf435265d4293f9030d700c54',1,'halls_of_reflection.h']]],
   ['persistent_5fdata_5fmage_5fbarrier_300',['PERSISTENT_DATA_MAGE_BARRIER',['../d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ae4fa74b63b7b02c1327ad0ba02048289',1,'ulduar.h']]],
   ['persistent_5fdata_5fsecond_5fboss_301',['PERSISTENT_DATA_SECOND_BOSS',['../da/d4c/violet__hold_8h.html#a7f7fea12c5fea5ba6f59b43e2ded013ba3b2311526eee5dbaab6dc94c2fc61c05',1,'violet_hold.h']]],
-  ['persistent_5fdata_5funbroken_302',['PERSISTENT_DATA_UNBROKEN',['../d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a7a41941dcd32555baa2d07915cd689fe',1,'ulduar.h']]],
+  ['persistent_5fdata_5funbroken_5ffail_302',['PERSISTENT_DATA_UNBROKEN_FAIL',['../d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a47c0a35a4f4e05c3e52dc23ef00fc430',1,'ulduar.h']]],
   ['persistent_5fdata_5fwatchers_5fmask_303',['PERSISTENT_DATA_WATCHERS_MASK',['../d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ab86bd79b912a9756639960ba251cb388',1,'ulduar.h']]],
   ['persistentdata_304',['persistentdata',['../d2/d1e/classInstanceScript.html#aacfa51e0b75db08711520ae82e4118c1',1,'InstanceScript::persistentData'],['../d9/d6a/icecrown__citadel_8h.html#ad946c964b96b8b1ffa7c95abefe65353',1,'PersistentData:&#160;icecrown_citadel.h']]],
   ['persistentdatacount_305',['persistentdatacount',['../d9/d98/zulaman_8h.html#aa38a92afffebaf4b33726515956b256b',1,'PersistentDataCount:&#160;zulaman.h'],['../d3/dec/shadow__labyrinth_8h.html#aa38a92afffebaf4b33726515956b256b',1,'PersistentDataCount:&#160;shadow_labyrinth.h']]],

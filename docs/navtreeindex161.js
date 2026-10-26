@@ -1,5 +1,9 @@
 var NAVTREEINDEX161 =
 {
+"d5/d9c/violet__hold_8cpp.html#a4dde00ab236b1d0505feebe5a51ece3c":[8,0,0,0,1,3,5,12,8,23],
+"d5/d9c/violet__hold_8cpp.html#a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae":[8,0,0,0,1,3,5,12,8,23,1],
+"d5/d9c/violet__hold_8cpp.html#a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172":[8,0,0,0,1,3,5,12,8,23,0],
+"d5/d9c/violet__hold_8cpp.html#a6006a65ff2a4b2635101fb8008f35437":[8,0,0,0,1,3,5,12,8,25],
 "d5/d9c/violet__hold_8cpp.html#a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb":[8,0,0,0,1,3,5,12,8,25,1],
 "d5/d9c/violet__hold_8cpp.html#a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a":[8,0,0,0,1,3,5,12,8,25,0],
 "d5/d9c/violet__hold_8cpp.html#a61f0eb737d2d6575416d40c84f7d23ac":[8,0,0,0,1,3,5,12,8,28],
@@ -117,12 +121,12 @@ var NAVTREEINDEX161 =
 "d5/d9e/halls__of__stone_8h.html#aa80bce1d0ea05213c0d6c327126caf31af37ef44d43d9af847089006528431e72":[8,0,0,0,1,3,5,9,1,4,5,13],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html":[7,0,0,33],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html":[5,0,0,45],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[5,0,0,45,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[7,0,0,33,1],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[7,0,0,33,2],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[5,0,0,45,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,0,45,2],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,0,45,0],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[7,0,0,33,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[7,0,0,33,0],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,0,45,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,0,45,3],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[7,0,0,33,3],
 "d5/da0/TicketMgr_8h.html":[8,0,0,0,1,2,44,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX161 =
 "d5/da5/boss__overlord__wyrmthalak_8cpp.html#afe85dd46e905f955680082b127a758c0":[8,0,0,0,1,3,2,1,1,7,5],
 "d5/da6/classspell__the__lich__king__cast__back__to__caster.html":[7,0,4251],
 "d5/da6/classspell__the__lich__king__cast__back__to__caster.html#a19492e616ac6e69187bca4499175071e":[7,0,4251,1],
-"d5/da6/classspell__the__lich__king__cast__back__to__caster.html#a3446174d3308f535c27581b63ade9e8a":[7,0,4251,2],
-"d5/da6/classspell__the__lich__king__cast__back__to__caster.html#a9489c3454830d3826cb077c95947bf2d":[7,0,4251,0],
-"d5/da6/instance__ruins__of__ahnqiraj_8cpp.html":[8,0,0,0,1,3,4,8,6],
-"d5/da6/instance__ruins__of__ahnqiraj_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,4,8,6,4],
-"d5/da6/instance__ruins__of__ahnqiraj_8cpp.html#a4be5bd3adfc6d188ef97fd3885ddbeb8":[8,0,0,0,1,3,4,8,6,2]
+"d5/da6/classspell__the__lich__king__cast__back__to__caster.html#a3446174d3308f535c27581b63ade9e8a":[7,0,4251,2]
 };

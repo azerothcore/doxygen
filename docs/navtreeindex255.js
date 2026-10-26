@@ -1,5 +1,10 @@
 var NAVTREEINDEX255 =
 {
+"d9/d84/LootMgr_8h.html#a18264c3977d9cc716aa034d667a706e7":[8,0,0,0,1,2,24,3,42],
+"d9/d84/LootMgr_8h.html#a1c69325fc9720f428891b814817eb762":[8,0,0,0,1,2,24,3,38],
+"d9/d84/LootMgr_8h.html#a1d63e7e68b4182ae8ebc36a7bbfd2456":[8,0,0,0,1,2,24,3,32],
+"d9/d84/LootMgr_8h.html#a24c6c31d274635f72ef4efeba3715f33":[8,0,0,0,1,2,24,3,49],
+"d9/d84/LootMgr_8h.html#a24e17720ba3e69cf816688664f0e981a":[8,0,0,0,1,2,24,3,29],
 "d9/d84/LootMgr_8h.html#a25b596c39e8f5b0f7c7baf80a14027da":[8,0,0,0,1,2,24,3,10],
 "d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72":[8,0,0,0,1,2,24,3,23],
 "d9/d84/LootMgr_8h.html#a2ad218cd5f5037aceafd8bf9d16e1b72a3101862a2a735a459ba0dcaac3ab61a3":[8,0,0,0,1,2,24,3,23,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX255 =
 "d9/d8b/classMapGridManager.html#a4cdf5925d6ebb358f501554c8b296424":[7,0,1535,8],
 "d9/d8b/classMapGridManager.html#a5a93290a0bbeec830a3223a72823ca4b":[7,0,1535,16],
 "d9/d8b/classMapGridManager.html#a60c3abc9dbb707cee6d2c2ed02217c23":[7,0,1535,5],
-"d9/d8b/classMapGridManager.html#a6976d52c3af458e4d5885d2523cfafab":[7,0,1535,14],
-"d9/d8b/classMapGridManager.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a":[7,0,1535,7],
-"d9/d8b/classMapGridManager.html#a7994a71cea924e66996161b049eb1d44":[7,0,1535,4],
-"d9/d8b/classMapGridManager.html#a7d7957242615d753383e05a0ee5a1f82":[7,0,1535,11],
-"d9/d8b/classMapGridManager.html#a8acd42cf15f78053070102f530c443a2":[7,0,1535,6],
-"d9/d8b/classMapGridManager.html#aa2c2218a81a5d042925e5675948e242f":[7,0,1535,15]
+"d9/d8b/classMapGridManager.html#a6976d52c3af458e4d5885d2523cfafab":[7,0,1535,14]
 };

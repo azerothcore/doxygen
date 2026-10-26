@@ -1,5 +1,10 @@
 var NAVTREEINDEX363 =
 {
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,0,1,1,5],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a195f6417cd6d29f73dab0b90876d138d":[8,0,0,0,1,3,5,0,1,1,5,6],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a29398c42277493fba085be78d83e9793":[8,0,0,0,1,3,5,0,1,1,5,0],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40e77434f465796503894bb925a102a0":[8,0,0,0,1,3,5,0,1,1,5,5],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40f445f3e7b035611dc83650546644a6":[8,0,0,0,1,3,5,0,1,1,5,9],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9ead9e8f3e9c529e31b9b40545bb916a":[8,0,0,0,1,3,5,0,1,1,5,8],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac19ae1fe556e9550431bdd7f1f984ac0":[8,0,0,0,1,3,5,0,1,1,5,4],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3022b3440e7efa171e76be3d6fc7ba6":[8,0,0,0,1,3,5,0,1,1,5,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX363 =
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#ae575bae454689e05c161e8480a13fa18":[7,0,109,1],
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#afb397c74f00d1f5c59a24ef74b0cd1cd":[7,0,109,0],
 "dd/dd6/classcharacter__commandscript.html":[7,0,873],
-"dd/dd6/classcharacter__commandscript.html#a0182ab0c535560f2b15fe743f200687e":[7,0,873,5],
-"dd/dd6/classcharacter__commandscript.html#a1b1b854e31b939eedf6af6050a762d9a":[7,0,873,13],
-"dd/dd6/classcharacter__commandscript.html#a1bb702a0244068ae8bf49ff6399387ee":[7,0,873,9],
-"dd/dd6/classcharacter__commandscript.html#a2164c3ebebcae60cd891c7db3da0ba68":[7,0,873,26],
-"dd/dd6/classcharacter__commandscript.html#a2296736d1a5420f5395b90fa6a828d33":[7,0,873,15],
-"dd/dd6/classcharacter__commandscript.html#a2ff56fd5a20e71301fb1ea6d78bd1670":[7,0,873,24]
+"dd/dd6/classcharacter__commandscript.html#a0182ab0c535560f2b15fe743f200687e":[7,0,873,5]
 };

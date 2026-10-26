@@ -1,5 +1,10 @@
 var NAVTREEINDEX281 =
 {
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b":[8,0,0,0,1,3,2,20,4,1],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a":[8,0,0,0,1,3,2,20,4,2],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633":[8,0,0,0,1,3,2,20,4,11],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a":[8,0,0,0,1,3,2,20,4,10],
+"da/da0/zone__eastern__plaguelands_8cpp.html#aaef7747656518bf0ce052d780430ed88":[8,0,0,0,1,3,2,20,5],
 "da/da1/InstanceSaveMgr_8cpp.html":[8,0,0,0,1,2,23,0],
 "da/da1/classspell__karazhan__wrath__titans__stacker.html":[7,0,3570],
 "da/da1/classspell__karazhan__wrath__titans__stacker.html#a0718461731d563d2c948848f60101d49":[7,0,3570,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX281 =
 "da/dab/SpawnData_8h.html#aca6d138cc8cbaa4fbb8366f26ecc6178":[8,0,0,0,1,2,26,15,3],
 "da/dab/SpawnData_8h.html#aca6d138cc8cbaa4fbb8366f26ecc6178a4986d513041762627e4ec53cb8ed2fa6":[8,0,0,0,1,2,26,15,3,1],
 "da/dab/SpawnData_8h.html#aca6d138cc8cbaa4fbb8366f26ecc6178a7fac2ccc2b6c53a62bd265c85b74278f":[8,0,0,0,1,2,26,15,3,2],
-"da/dab/SpawnData_8h.html#aca6d138cc8cbaa4fbb8366f26ecc6178a9c8e9a64f5a962ba5e1c699347c9a095":[8,0,0,0,1,2,26,15,3,0],
-"da/dab/classspell__gen__proc__from__direct__damage.html":[7,0,3132],
-"da/dab/classspell__gen__proc__from__direct__damage.html#a255a58ad99059ba28ab09a94e7cc683a":[7,0,3132,1],
-"da/dab/classspell__gen__proc__from__direct__damage.html#a4ec4dd2342a5b75c975dc6ffe0b02b79":[7,0,3132,2],
-"da/dab/classspell__gen__proc__from__direct__damage.html#af742bdfd97c9202d50ed7aa1cf8e7d49":[7,0,3132,0],
-"da/dab/instance__razorfen__downs_8cpp.html":[8,0,0,0,1,3,4,6,0]
+"da/dab/SpawnData_8h.html#aca6d138cc8cbaa4fbb8366f26ecc6178a9c8e9a64f5a962ba5e1c699347c9a095":[8,0,0,0,1,2,26,15,3,0]
 };

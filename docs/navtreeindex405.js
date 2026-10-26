@@ -1,5 +1,10 @@
 var NAVTREEINDEX405 =
 {
+"de/dfa/classspell__item__make__a__wish.html#aa4904ed55b5e216e0af5e32508372d4e":[7,0,3458,2],
+"de/dfa/classspell__item__make__a__wish.html#ad303a5c1bbbab3766bd5e9ab753b2a01":[7,0,3458,0],
+"de/dfb/namespaceAddonMgr.html":[5,0,1],
+"de/dfb/namespaceAddonMgr.html#a2ea3deb6be3c64b7b58ed27ccf60c779":[5,0,1,0],
+"de/dfb/namespaceAddonMgr.html#a6edf9a462d4afcaff40e69da1e75cca5":[5,0,1,1],
 "de/dfb/namespaceAddonMgr.html#a85021021149b7eb4d78cbe81e43d3d45":[5,0,1,4],
 "de/dfb/namespaceAddonMgr.html#aaa12f5b754e6b664dbfb2428478bee03":[5,0,1,3],
 "de/dfb/namespaceAddonMgr.html#ad7d0938e7463238a86e8c811e1a58800":[5,0,1,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX405 =
 "df/d0e/classspell__igb__burning__pitch__selector.html#a497ee30669d45341023abe549c91ddaf":[7,0,3324,3],
 "df/d0e/classspell__igb__burning__pitch__selector.html#a77afd0b56c9bddd74999d5df30457b7f":[7,0,3324,0],
 "df/d0e/classspell__igb__burning__pitch__selector.html#aaefa58014db12fb76e3416ae807c69e8":[7,0,3324,2],
-"df/d10/structMailLevelReward.html":[7,0,1515],
-"df/d10/structMailLevelReward.html#a2b678ac953209691b38d583cffab55b5":[7,0,1515,4],
-"df/d10/structMailLevelReward.html#a341088acd89b79161d932367f4f1798d":[7,0,1515,3],
-"df/d10/structMailLevelReward.html#a3e98aa5c30b0b5648784f9aaf5349a76":[7,0,1515,1],
-"df/d10/structMailLevelReward.html#accd52642cbbab457b69dba54a6ffa23b":[7,0,1515,0],
-"df/d10/structMailLevelReward.html#afdf6684bcd2751822bd00ba1509ef933":[7,0,1515,2]
+"df/d10/structMailLevelReward.html":[7,0,1515]
 };

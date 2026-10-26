@@ -118,7 +118,7 @@ var searchData=
   ['persistent_5fdata_5flk_5fintro_115',['PERSISTENT_DATA_LK_INTRO',['../d4/d1e/halls__of__reflection_8h.html#a01c9bdd526d31c49d9f7f70b1b9ae1b3aba3343fbf435265d4293f9030d700c54',1,'halls_of_reflection.h']]],
   ['persistent_5fdata_5fmage_5fbarrier_116',['PERSISTENT_DATA_MAGE_BARRIER',['../d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ae4fa74b63b7b02c1327ad0ba02048289',1,'ulduar.h']]],
   ['persistent_5fdata_5fsecond_5fboss_117',['PERSISTENT_DATA_SECOND_BOSS',['../da/d4c/violet__hold_8h.html#a7f7fea12c5fea5ba6f59b43e2ded013ba3b2311526eee5dbaab6dc94c2fc61c05',1,'violet_hold.h']]],
-  ['persistent_5fdata_5funbroken_118',['PERSISTENT_DATA_UNBROKEN',['../d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a7a41941dcd32555baa2d07915cd689fe',1,'ulduar.h']]],
+  ['persistent_5fdata_5funbroken_5ffail_118',['PERSISTENT_DATA_UNBROKEN_FAIL',['../d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a47c0a35a4f4e05c3e52dc23ef00fc430',1,'ulduar.h']]],
   ['persistent_5fdata_5fwatchers_5fmask_119',['PERSISTENT_DATA_WATCHERS_MASK',['../d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ab86bd79b912a9756639960ba251cb388',1,'ulduar.h']]],
   ['personal_5floot_5fhas_5ffull_5fsecurity_120',['PERSONAL_LOOT_HAS_FULL_SECURITY',['../de/d0a/SharedDefines_8h.html#a143cae99f236391422c06de964d1660faaf19fa682e7cdea94701a6661fe5d1fd',1,'SharedDefines.h']]],
   ['personalspawn_121',['PersonalSpawn',['../d1/dc3/SmartScriptMgr_8h.html#aa8085b1e4e9facfd55e1f08c87ab89f6a5ca08b1c0125e7a3505cbc17293f7bbf',1,'SmartScriptMgr.h']]],

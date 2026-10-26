@@ -1,5 +1,10 @@
 var NAVTREEINDEX413 =
 {
+"df/d44/structBattlegroundData.html":[7,0,336],
+"df/d44/structBattlegroundData.html#a0526fab23b40ac1b33ce18243ad41132":[7,0,336,1],
+"df/d44/structBattlegroundData.html#a49fd7eb3a472894f233d309d35d509be":[7,0,336,2],
+"df/d44/structBattlegroundData.html#aa48f3a9d4a51e357055a0bc60ca41d7c":[7,0,336,0],
+"df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html":[7,0,835],
 "df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html#a18367901bcdf982ed7390aa1f80b5a1a":[7,0,835,0],
 "df/d45/classSpellProcDisableEffectsTest.html":[7,0,4515],
 "df/d45/classSpellProcDisableEffectsTest.html#a43a467bfcff58079e28fece9bfe3464c":[7,0,4515,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX413 =
 "df/d56/classAreaBoundary.html#ad416f29594688ce670549d6fdcce4314":[7,0,167,6],
 "df/d56/classAreaBoundary.html#adf670910c492c08d3384c2dd1824e7ce":[7,0,167,2],
 "df/d56/classAreaBoundary.html#ae5580b0044dba24d100831fe51ee1abc":[7,0,167,5],
-"df/d56/classVMAP_1_1VMapMgr2.html":[7,0,11,21],
-"df/d56/classVMAP_1_1VMapMgr2.html":[5,0,31,21],
-"df/d56/classVMAP_1_1VMapMgr2.html#a11761ce698c3e240366b03dd57142b25":[5,0,31,21,7],
-"df/d56/classVMAP_1_1VMapMgr2.html#a11761ce698c3e240366b03dd57142b25":[7,0,11,21,7],
-"df/d56/classVMAP_1_1VMapMgr2.html#a172996acb562d916b51132e7e0072140":[7,0,11,21,0],
-"df/d56/classVMAP_1_1VMapMgr2.html#a172996acb562d916b51132e7e0072140":[5,0,31,21,0]
+"df/d56/classVMAP_1_1VMapMgr2.html":[7,0,11,21]
 };

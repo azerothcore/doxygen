@@ -1,5 +1,10 @@
 var NAVTREEINDEX420 =
 {
+"df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75a66dbfc4811b43b71dcee2daa9aaebca9":[8,0,0,0,1,3,2,26,7,2],
+"df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75aad4e37491a5066b2223eda8463fa359b":[8,0,0,0,1,3,2,26,7,4],
+"df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75ad518990511a3e81ea7a79c351c89d124":[8,0,0,0,1,3,2,26,7,5],
+"df/d9d/zone__isle__of__queldanas_8cpp.html#ade3e95d5ffde9b43510d81ecce3269f1":[8,0,0,0,1,3,2,26,9],
+"df/d9d/zone__isle__of__queldanas_8cpp.html#ade3e95d5ffde9b43510d81ecce3269f1a241a58daff1d5c96ef3b6ddb0e8e9ba1":[8,0,0,0,1,3,2,26,9,0],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ade3e95d5ffde9b43510d81ecce3269f1a4507acb6d6607c271b81962a110fe52d":[8,0,0,0,1,3,2,26,9,4],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ade3e95d5ffde9b43510d81ecce3269f1ab8e0272232b0dc115fb2c5a8417d322e":[8,0,0,0,1,3,2,26,9,5],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ade3e95d5ffde9b43510d81ecce3269f1ab95c91022a6d40a33930792de29adea7":[8,0,0,0,1,3,2,26,9,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX420 =
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[7,0,13,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[5,0,34,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[7,0,13,1,0,0],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[5,0,34,1,0,0],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[7,0,13,1,0,2],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[5,0,34,1,0,2],
-"df/da6/classspell__gurtogg__eject.html":[7,0,3203],
-"df/da6/classspell__gurtogg__eject.html#a21740b341acce23e284a3d4ceea9b6e0":[7,0,3203,0],
-"df/da6/classspell__gurtogg__eject.html#aad6959f74932db219e991efd3b3af44a":[7,0,3203,2]
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[5,0,34,1,0,0]
 };

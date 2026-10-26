@@ -1,5 +1,9 @@
 var NAVTREEINDEX175 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ea68b7a9f8984372d34a01128c98410":[8,0,0,0,1,3,5,6,11,36,24],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca955744cf3fb9ab62285b64b578021190":[8,0,0,0,1,3,5,6,11,36,6],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c3cf2497f2c1ad4bf05869e73bc072e":[8,0,0,0,1,3,5,6,11,36,27],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298caa0b57c02b066d396d78f91bfa3568b1e":[8,0,0,0,1,3,5,6,11,36,35],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298caa13c83a02495c9c937a4e7892169a36c":[8,0,0,0,1,3,5,6,11,36,25],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298caad4eccf3d677b0ce75d8ba421259fa9b":[8,0,0,0,1,3,5,6,11,36,16],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298cab121c93ef274ba2791c63674950ef6a6":[8,0,0,0,1,3,5,6,11,36,23],
@@ -245,9 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d1f/structnpc__hor__lumbering__abomination.html#a08ae4bc9025a4bfbe91d39d256e34060":[7,0,1906,0],
 "d6/d1f/structnpc__hor__lumbering__abomination.html#a5380771abba095749e1e0b30fe070a73":[7,0,1906,2],
 "d6/d1f/structnpc__hor__lumbering__abomination.html#a79e99c86f54a4fc7cbcf98e2a08e62ed":[7,0,1906,4],
-"d6/d1f/structnpc__hor__lumbering__abomination.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61":[7,0,1906,1],
-"d6/d1f/structnpc__hor__lumbering__abomination.html#afd56b698fac5f7f13e718d645608213f":[7,0,1906,3],
-"d6/d21/ArenaTeamScript_8h.html":[8,0,0,0,1,2,38,0,28],
-"d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218":[8,0,0,0,1,2,38,0,28,1],
-"d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc":[8,0,0,0,1,2,38,0,28,1,0]
+"d6/d1f/structnpc__hor__lumbering__abomination.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61":[7,0,1906,1]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX394 =
 {
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298cad8257999f1b04206e97634f0f7e9afee":[8,0,0,0,1,3,2,4,5,5,7],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298cadc0d9bf02fd502562b00eb84aa8d82cc":[8,0,0,0,1,3,2,4,5,5,3],
+"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298caef005e5bec2cc642d2cc41cc7298f085":[8,0,0,0,1,3,2,4,5,5,5],
+"de/d87/boss__netherspite_8cpp.html#a98c41f42c8ba4d94e61b0fd7906ac31c":[8,0,0,0,1,3,2,4,5,10],
+"de/d87/boss__netherspite_8cpp.html#aa5f1b61f59a2604edc9dd172b80c5bef":[8,0,0,0,1,3,2,4,5,7],
 "de/d87/boss__netherspite_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[8,0,0,0,1,3,2,4,5,3],
 "de/d87/boss__netherspite_8cpp.html#aab072245ab577ff0e12efe20a536b99aa07e6dd48512e34c3e302df6979235f0c":[8,0,0,0,1,3,2,4,5,3,1],
 "de/d87/boss__netherspite_8cpp.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829":[8,0,0,0,1,3,2,4,5,3,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX394 =
 "de/d93/Utilities_2TypeList_8h.html#af90fd778c5d0004ab7da96e3250e1186":[8,0,0,0,0,15,40,9],
 "de/d93/classspell__item__swift__hand__justice__dummy.html":[7,0,3522],
 "de/d93/classspell__item__swift__hand__justice__dummy.html#a1d9dc752bd385ff99ee4c39094c68d8a":[7,0,3522,3],
-"de/d93/classspell__item__swift__hand__justice__dummy.html#a88510ad234c654bbe3316f6557742f77":[7,0,3522,0],
-"de/d93/classspell__item__swift__hand__justice__dummy.html#adff2a6b6161cc6fa6a49bd55c088394c":[7,0,3522,1],
-"de/d93/classspell__item__swift__hand__justice__dummy.html#aeaae510592ba20f76e322701a9c30c17":[7,0,3522,2],
-"de/d95/classTicketMgr.html":[7,0,4593],
-"de/d95/classTicketMgr.html#a014f3883e6f743db0f7e0756a0bf68c0":[7,0,4593,17],
-"de/d95/classTicketMgr.html#a02858169d0fbf1e9fd298c381dff6ac7":[7,0,4593,0]
+"de/d93/classspell__item__swift__hand__justice__dummy.html#a88510ad234c654bbe3316f6557742f77":[7,0,3522,0]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX347 =
 {
+"dd/d27/structSmartAction.html#a4302e4c906faed45367b648225960cc5":[7,0,2625,217],
+"dd/d27/structSmartAction.html#a435c6226fea0340c9cb99c28edb071d1":[7,0,2625,286],
+"dd/d27/structSmartAction.html#a43ba7be86e67031ad4ba2fae1c46a051":[7,0,2625,113],
+"dd/d27/structSmartAction.html#a4451b97891324d63d4d91253af395191":[7,0,2625,150],
+"dd/d27/structSmartAction.html#a4455335eeb643222636ab78dfcb64149":[7,0,2625,306],
 "dd/d27/structSmartAction.html#a44afde0676b9bf14380c4b9232011cb2":[7,0,2625,159],
 "dd/d27/structSmartAction.html#a44b1e831693e0a9a01c111f9701647e8":[7,0,2625,48],
 "dd/d27/structSmartAction.html#a454cb4b96cafe58e040f25bd520e6f94":[7,0,2625,125],
@@ -244,10 +249,5 @@ var NAVTREEINDEX347 =
 "dd/d28/structDarkFallenAI.html#acaf883142e1620a84f8bf29801dd860c":[7,0,983,5],
 "dd/d28/structDarkFallenAI.html#adafce856498f47b13a8ed9438b2a00c7":[7,0,983,6],
 "dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html":[7,0,3546],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a23b6afe1e35edc4013767b119b8e0218":[7,0,3546,1],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a7ca8b15a5dc204a11095fddb3c8d12c0":[7,0,3546,0],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a85a70f019dcd87f2ed578f041a0bc194":[7,0,3546,2],
-"dd/d29/structboss__firemaw.html":[7,0,484],
-"dd/d29/structboss__firemaw.html#a13a672cc37175615068429f9a3282e07":[7,0,484,2],
-"dd/d29/structboss__firemaw.html#a2d2be691020b8aa81f82ffab91a86e42":[7,0,484,0]
+"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a23b6afe1e35edc4013767b119b8e0218":[7,0,3546,1]
 };

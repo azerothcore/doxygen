@@ -1,5 +1,10 @@
 var NAVTREEINDEX217 =
 {
+"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#aee871ff356bcfd38162a5f6c9bd3c994":[7,0,586,0,7],
+"d7/db3/structboss__olm__the__summoner.html":[7,0,659],
+"d7/db3/structboss__olm__the__summoner.html#a07cde4fc7bc882db40b51426dc40ab93":[7,0,659,1],
+"d7/db3/structboss__olm__the__summoner.html#a448ba3a88156e80eebad44585791ab21":[7,0,659,6],
+"d7/db3/structboss__olm__the__summoner.html#a546bede780b7d67b98ec251ae2e1b812":[7,0,659,3],
 "d7/db3/structboss__olm__the__summoner.html#a68db779bb7ffffa7621caedd7f52d93f":[7,0,659,2],
 "d7/db3/structboss__olm__the__summoner.html#a8caabc31bb7a8548eb936c34c655df68":[7,0,659,7],
 "d7/db3/structboss__olm__the__summoner.html#a8dcdc816276a1932612d554cff703a45":[7,0,659,4],
@@ -52,8 +57,8 @@ var NAVTREEINDEX217 =
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840":[8,0,0,0,1,3,3,0,1,3,14],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8":[8,0,0,0,1,3,3,0,1,3,33],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6":[8,0,0,0,1,3,3,0,1,3,0],
-"d7/db4/structAcore_1_1has__type.html":[7,0,0,63],
 "d7/db4/structAcore_1_1has__type.html":[5,0,0,75],
+"d7/db4/structAcore_1_1has__type.html":[7,0,0,63],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[7,0,3977],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[7,0,3977,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[7,0,3977,1],
@@ -177,8 +182,8 @@ var NAVTREEINDEX217 =
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[5,0,34,14,16,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[7,0,13,14,16,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[5,0,34,14,16,2],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[5,0,34,14,16,2],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[7,0,4179],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[7,0,4179,3],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[7,0,4179,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX217 =
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b":[8,0,0,0,1,3,5,2,1,4,15,7],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae1af0b90925faa94026f02e3322dff5d":[8,0,0,0,1,3,5,2,1,4,15,5],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af30a7c83908023513ec50a5bd4da3833":[8,0,0,0,1,3,5,2,1,4,15,3],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844":[8,0,0,0,1,3,5,2,1,4,14],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a1628fb0c56457783cf8b51260c089a77":[8,0,0,0,1,3,5,2,1,4,14,7],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a193348b3273527e6365624c1dea600e8":[8,0,0,0,1,3,5,2,1,4,14,8],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a26f1eaa976bf1028e1ffdb9c81604e43":[8,0,0,0,1,3,5,2,1,4,14,17],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a2a1e33bb6e2d4cc373be8855ffe9a399":[8,0,0,0,1,3,5,2,1,4,14,14],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a2d948cedb5fe68b9c2edcae91183b236":[8,0,0,0,1,3,5,2,1,4,14,15]
+"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844":[8,0,0,0,1,3,5,2,1,4,14]
 };

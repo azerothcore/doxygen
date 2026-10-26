@@ -1,5 +1,10 @@
 var NAVTREEINDEX396 =
 {
+"de/da0/classspell__mage__imp__blizzard.html#a691f14220a619e1915636417927aaa13":[7,0,3649,1],
+"de/da0/classspell__mage__imp__blizzard.html#a6fee4af68a8d312bcb543e0c67932cc9":[7,0,3649,3],
+"de/da0/classspell__mage__imp__blizzard.html#ad97c3b5df293ed8afae3e662467088c2":[7,0,3649,0],
+"de/da0/structLoadedHeightData.html":[7,0,1477],
+"de/da0/structLoadedHeightData.html#a1f989ab0921de350dc2410129028201f":[7,0,1477,5],
 "de/da0/structLoadedHeightData.html#a60a4a267b4164347e9f3ead6b5abfe14":[7,0,1477,8],
 "de/da0/structLoadedHeightData.html#aa04f68f079e1f488cf69acd24dcd7899":[7,0,1477,6],
 "de/da0/structLoadedHeightData.html#ab64c3cfcd01805f43ec4ef41fb3bc48d":[7,0,1477,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX396 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a61056cec3439f180b50dd60e04f0eea8":[8,0,0,0,1,1,0,0,1,1,234],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a615f4d829a65d41c480985a9b70bb979":[8,0,0,0,1,1,0,0,1,1,15],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a62451cf7d77d1484402b3ae62ca0ae87":[8,0,0,0,1,1,0,0,1,1,318],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a62f1d1f1a70fbecd8a84af6ade9b9d46":[8,0,0,0,1,1,0,0,1,1,201],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a63ee2fbc20ef2123fda145663946dcf0":[8,0,0,0,1,1,0,0,1,1,369],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a653d7894a862dbeef8a0d9b686296ba8":[8,0,0,0,1,1,0,0,1,1,49],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a658114711fcc957fab4c6d650d1906d4":[8,0,0,0,1,1,0,0,1,1,79],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a65b4f4a4a3c03b3da3ef1b8f2504534b":[8,0,0,0,1,1,0,0,1,1,23],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a65dc0aae25bf5551ca7b92ad4c829afc":[8,0,0,0,1,1,0,0,1,1,385]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a62f1d1f1a70fbecd8a84af6ade9b9d46":[8,0,0,0,1,1,0,0,1,1,201]
 };

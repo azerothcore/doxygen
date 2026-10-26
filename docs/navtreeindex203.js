@@ -1,5 +1,10 @@
 var NAVTREEINDEX203 =
 {
+"d7/d46/classAuraEffect.html#ab17ae5878087d1047e5163db7e95564b":[7,0,295,67],
+"d7/d46/classAuraEffect.html#ab21864f1999f7797e2287c722c6f0f83":[7,0,295,88],
+"d7/d46/classAuraEffect.html#ab288b290ebc452f0b03c7d79be1efc52":[7,0,295,18],
+"d7/d46/classAuraEffect.html#ab3f2b2299c080928ff7211a98a6237b5":[7,0,295,94],
+"d7/d46/classAuraEffect.html#ab48ade74cc824d2ae0e326948c867ece":[7,0,295,44],
 "d7/d46/classAuraEffect.html#ab4c3dba7effbc5735869a7a49ca39005":[7,0,295,121],
 "d7/d46/classAuraEffect.html#ab882fb08ac37a212412de87051701b0d":[7,0,295,201],
 "d7/d46/classAuraEffect.html#ab8c4811ced24cbd9b4afff1c22fbb1b0":[7,0,295,25],
@@ -232,22 +237,17 @@ var NAVTREEINDEX203 =
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#a288f8917d73be30234e465778b1f6544":[7,0,4272,1],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#a69f9cdbfc33ec39f629f08f20484b29e":[7,0,4272,2],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#acd31e130e72cd93bee3544ecd2dc38ad":[7,0,4272,0],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[7,0,13,8,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[5,0,34,8,5],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[7,0,13,8,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[7,0,13,8,5,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[5,0,34,8,5,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[7,0,13,8,5,1],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[5,0,34,8,5,1],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,34,8,5,4],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[7,0,13,8,5,4],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,34,8,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[7,0,13,8,5,0],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[7,0,13,8,5,6],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,34,8,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[5,0,34,8,5,6],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[5,0,34,8,5,2],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[7,0,13,8,5,2],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[7,0,13,8,5,3],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[5,0,34,8,5,3],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#ac65b0fc2609531c8657c4d83cf50dbfe":[7,0,13,8,5,7],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#ac65b0fc2609531c8657c4d83cf50dbfe":[5,0,34,8,5,7]
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[7,0,13,8,5,6],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[7,0,13,8,5,2]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX399 =
 {
+"de/da6/zone__dragonblight_8cpp.html#a7ee124c2a84bf191dfed00367bb387e8a98b9ffa9f69429919feab72c8c9b2a84":[8,0,0,0,1,3,5,18,50,0],
+"de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7d":[8,0,0,0,1,3,5,18,55],
+"de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7da02f9a2d2254f45afc71bc8b2531fd0a2":[8,0,0,0,1,3,5,18,55,4],
+"de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7da0546e0fbb29bf18c6e9904f50b4f7246":[8,0,0,0,1,3,5,18,55,16],
+"de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7da06fb41bce964b70ab8f1f19e2bab0c44":[8,0,0,0,1,3,5,18,55,17],
 "de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7da18330bb5931417f107276485f2a232eb":[8,0,0,0,1,3,5,18,55,18],
 "de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7da30a372fe315fc58b78cddb9eb798d8aa":[8,0,0,0,1,3,5,18,55,13],
 "de/da6/zone__dragonblight_8cpp.html#a899f4711d1fde124f3c06a4c145b8c7da40bacae901a5d4fa52b854a63e178398":[8,0,0,0,1,3,5,18,55,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX399 =
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea63b6a39aa642f2e0d8c55829cf8e7205":[8,0,0,0,1,3,7,4,3,5,2,11],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea980c7943a6b8da340ba5250e5b0d0bc6":[8,0,0,0,1,3,7,4,3,5,2,12],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea98f942453c3a388805f7d6936bf7838c":[8,0,0,0,1,3,7,4,3,5,2,19],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaae3b230661d1ce2817df65021744b28b":[8,0,0,0,1,3,7,4,3,5,2,0],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaae6f40ad8a42f5bfe6b72df5db730fe2":[8,0,0,0,1,3,7,4,3,5,2,20],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eab1c1e7e7e958d45e162c75fccdb3a686":[8,0,0,0,1,3,7,4,3,5,2,7],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eab4b41c61d997b638ce0cd5d3edf707ff":[8,0,0,0,1,3,7,4,3,5,2,4],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eab8c2d615cf7a50b5182e7b65a452872c":[8,0,0,0,1,3,7,4,3,5,2,10],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eac80c1eab903468e1ad601285c81c9f76":[8,0,0,0,1,3,7,4,3,5,2,15]
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaae3b230661d1ce2817df65021744b28b":[8,0,0,0,1,3,7,4,3,5,2,0]
 };

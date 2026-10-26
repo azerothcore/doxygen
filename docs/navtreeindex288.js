@@ -1,5 +1,10 @@
 var NAVTREEINDEX288 =
 {
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5a8a57a3fcd514b7a621e04ae73c2647c9":[8,0,0,0,1,3,5,2,1,6,9,3],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5aa85e2c3e6a4a4a98656e35122d5f3dde":[8,0,0,0,1,3,5,2,1,6,9,7],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5ab2cb4cc17e177e2789bcf9102844ef09":[8,0,0,0,1,3,5,2,1,6,9,0],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5abcd81fb0568be0c93c96e665f3230412":[8,0,0,0,1,3,5,2,1,6,9,1],
+"da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5acece87b17cabb8d31782232dd4c53656":[8,0,0,0,1,3,5,2,1,6,9,2],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5ad3a32c06bca452d4ec3da408f3fb5eb8":[8,0,0,0,1,3,5,2,1,6,9,12],
 "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5af8f7a209e9b9e0909610ffbcb8fe94ca":[8,0,0,0,1,3,5,2,1,6,9,5],
 "da/de8/trial__of__the__crusader_8h.html#a0f04507daf1d41009237da1c747558c3":[8,0,0,0,1,3,5,2,1,6,18],
@@ -244,10 +249,5 @@ var NAVTREEINDEX288 =
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a7abfc7b5ca2a7c7984b5936a61c2a0c4":[8,0,0,0,1,3,5,2,1,6,4,3],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a7d2c3e3a0665734cfff26ea3d967a349":[8,0,0,0,1,3,5,2,1,6,4,9],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22abdca075ea730c3e6ca3c610d5ba23060":[8,0,0,0,1,3,5,2,1,6,4,10],
-"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22adf55c70ec136b17de33654eb38d0a76f":[8,0,0,0,1,3,5,2,1,6,4,12],
-"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22af41871a3a7907d09e4117a8cae7e34c1":[8,0,0,0,1,3,5,2,1,6,4,4],
-"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22af4189e448069a4be533495ffb57af791":[8,0,0,0,1,3,5,2,1,6,4,5],
-"da/de9/classspell__dru__treant__scaling.html":[7,0,2956],
-"da/de9/classspell__dru__treant__scaling.html#a40c96996d19b9f7eeed3fda4271b9f87":[7,0,2956,2],
-"da/de9/classspell__dru__treant__scaling.html#a5d6e7b92f4335176388a877e72c0e92c":[7,0,2956,1]
+"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22adf55c70ec136b17de33654eb38d0a76f":[8,0,0,0,1,3,5,2,1,6,4,12]
 };

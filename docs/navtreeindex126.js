@@ -1,5 +1,9 @@
 var NAVTREEINDEX126 =
 {
+"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#af2fbf866f87d568ee6028f0931d3b74e":[7,0,474,0,7],
+"d4/d22/structboss__hodir.html":[7,0,553],
+"d4/d22/structboss__hodir.html#a025414f7a5b26e0420eb4365c14101f2":[7,0,553,10],
+"d4/d22/structboss__hodir.html#a054fe2dcd8480d3d0b50ce2776e64194":[7,0,553,0],
 "d4/d22/structboss__hodir.html#a0fb16b675ef36f3453cb78adcecdf00f":[7,0,553,19],
 "d4/d22/structboss__hodir.html#a319c9a0bb8e9771b8fb89df5055628ef":[7,0,553,17],
 "d4/d22/structboss__hodir.html#a31c3693cdf73d684a5a39963ff5a4121":[7,0,553,13],
@@ -245,9 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d2b/OutdoorPvPHP_8h.html#ae6571d986fbbf7b469cf495033f46516":[8,0,0,0,1,3,6,6,13],
 "d4/d2b/RealmList_8h.html":[8,0,0,0,1,4,3,3],
 "d4/d2b/RealmList_8h.html#a639c880efde6e31a4bf6be6b5bcc3cd3":[8,0,0,0,1,4,3,3,2],
-"d4/d2b/boss__ionar_8cpp.html":[8,0,0,0,1,3,5,9,0,1],
-"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,9,0,1,6],
-"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,9,0,1,6,3],
-"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,9,0,1,6,0],
-"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4d8e5b12f693213d64aa0c3015681ca3":[8,0,0,0,1,3,5,9,0,1,6,1]
+"d4/d2b/boss__ionar_8cpp.html":[8,0,0,0,1,3,5,9,0,1]
 };

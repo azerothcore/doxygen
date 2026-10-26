@@ -1,5 +1,10 @@
 var NAVTREEINDEX362 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a96aa3e5ae074904bb993a728bd585f94":[8,0,0,0,1,2,38,0,77,1,7],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97543ec0dc75c5e390325ce9e49c0b4b":[8,0,0,0,1,2,38,0,77,1,81],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a97c2a42c7d02be4667048d13d2013c04":[8,0,0,0,1,2,38,0,77,1,139],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9de81222579d78e04b7154c1d8c96f51":[8,0,0,0,1,2,38,0,77,1,45],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a9f3e3dd6ca146a3b74f5449e3a292068":[8,0,0,0,1,2,38,0,77,1,83],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa10b48b5497f9e24d28023a801bc8c63":[8,0,0,0,1,2,38,0,77,1,95],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa1b9fa5ac98d49241b4bce32e29f36e9":[8,0,0,0,1,2,38,0,77,1,86],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa288e5865672ca6cfb1efab5aa5bc19c":[8,0,0,0,1,2,38,0,77,1,44],
@@ -244,10 +249,5 @@ var NAVTREEINDEX362 =
 "dd/dd2/boss__anubarak_8cpp.html#aebb7c82487bfdae12cd7bc63dc8b3b69a3d3770ec7cd657b0fefc1037a15d236c":[8,0,0,0,1,3,5,0,1,1,9,1],
 "dd/dd2/boss__anubarak_8cpp.html#aebb7c82487bfdae12cd7bc63dc8b3b69a78b72673e2542831be44b5b021902de2":[8,0,0,0,1,3,5,0,1,1,9,0],
 "dd/dd2/boss__anubarak_8cpp.html#aebb7c82487bfdae12cd7bc63dc8b3b69a869621a2946e04112dcacb28ce55d341":[8,0,0,0,1,3,5,0,1,1,9,3],
-"dd/dd2/boss__anubarak_8cpp.html#aebb7c82487bfdae12cd7bc63dc8b3b69ad7f5351564bcaebb570d7d24bf19999b":[8,0,0,0,1,3,5,0,1,1,9,2],
-"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,0,1,1,5],
-"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a195f6417cd6d29f73dab0b90876d138d":[8,0,0,0,1,3,5,0,1,1,5,6],
-"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a29398c42277493fba085be78d83e9793":[8,0,0,0,1,3,5,0,1,1,5,0],
-"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40e77434f465796503894bb925a102a0":[8,0,0,0,1,3,5,0,1,1,5,5],
-"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40f445f3e7b035611dc83650546644a6":[8,0,0,0,1,3,5,0,1,1,5,9]
+"dd/dd2/boss__anubarak_8cpp.html#aebb7c82487bfdae12cd7bc63dc8b3b69ad7f5351564bcaebb570d7d24bf19999b":[8,0,0,0,1,3,5,0,1,1,9,2]
 };

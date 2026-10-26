@@ -1,5 +1,10 @@
 var NAVTREEINDEX412 =
 {
+"df/d3a/hellfire__ramparts_8h.html#a63f09fed5c417e14001189cea85ee37a":[8,0,0,0,1,3,7,4,1,3,6],
+"df/d3a/hellfire__ramparts_8h.html#a760c4386411e1723b43acf6eced5b47f":[8,0,0,0,1,3,7,4,1,3,2],
+"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,7,4,1,3,3],
+"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea3564353d4bb3fa1e7a399ca440e358ac":[8,0,0,0,1,3,7,4,1,3,3,2],
+"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea3ed4212f9e624582dc16c9eb1e9e54a3":[8,0,0,0,1,3,7,4,1,3,3,3],
 "df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea4f055acbe596b7541325a90cde0759d2":[8,0,0,0,1,3,7,4,1,3,3,1],
 "df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea5810841f5f149b9b9b7d245da386a14b":[8,0,0,0,1,3,7,4,1,3,3,0],
 "df/d3a/hellfire__ramparts_8h.html#ab5a0be5128ec06eeed7e1a5dd65db97b":[8,0,0,0,1,3,7,4,1,3,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX412 =
 "df/d44/classspell__low__health__trigger.html#a3ba23fd54c35c2d2866db647811c948d":[7,0,3614,2],
 "df/d44/classspell__low__health__trigger.html#a6a58808356785c25032c2befd429ff2b":[7,0,3614,3],
 "df/d44/classspell__low__health__trigger.html#a9d3b65b251cc9680352bbf056bb74f05":[7,0,3614,1],
-"df/d44/classspell__low__health__trigger.html#ad38771460ddf0f95783718775690d1f0":[7,0,3614,0],
-"df/d44/structBattlegroundData.html":[7,0,336],
-"df/d44/structBattlegroundData.html#a0526fab23b40ac1b33ce18243ad41132":[7,0,336,1],
-"df/d44/structBattlegroundData.html#a49fd7eb3a472894f233d309d35d509be":[7,0,336,2],
-"df/d44/structBattlegroundData.html#aa48f3a9d4a51e357055a0bc60ca41d7c":[7,0,336,0],
-"df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html":[7,0,835]
+"df/d44/classspell__low__health__trigger.html#ad38771460ddf0f95783718775690d1f0":[7,0,3614,0]
 };

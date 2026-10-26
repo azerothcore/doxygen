@@ -1,5 +1,10 @@
 var NAVTREEINDEX299 =
 {
+"db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0":[8,0,0,0,1,3,9,4,246],
+"db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0a8f79fe2abb6aa520aa6b9f26e555b051":[8,0,0,0,1,3,9,4,246,2],
+"db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0aebaed561887d24beda0d2b5a03b4b2b9":[8,0,0,0,1,3,9,4,246,1],
+"db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0af2013a66c33c8ca2754d0258dc317d38":[8,0,0,0,1,3,9,4,246,0],
+"db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018b":[8,0,0,0,1,3,9,4,242],
 "db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018ba2300b3ebe9d37cb1c4ecd0935b0a98b0":[8,0,0,0,1,3,9,4,242,0],
 "db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018bad966ee5be314524a04f8a46899af53d4":[8,0,0,0,1,3,9,4,242,1],
 "db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018baea85156ec95109b1c90bdf8420254cf8":[8,0,0,0,1,3,9,4,242,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX299 =
 "db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbc":[8,0,0,0,1,3,9,4,207],
 "db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca3c7d967aa1e91ffcb560ef89bdfa3a16":[8,0,0,0,1,3,9,4,207,1],
 "db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca687144bbd8cf840094e4823cd87b9d8f":[8,0,0,0,1,3,9,4,207,4],
-"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca7f116bd9a93fc8656d10814e0dc40e4d":[8,0,0,0,1,3,9,4,207,3],
-"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbcad7b1f8fd5ade1cf300bb226f05d8dbba":[8,0,0,0,1,3,9,4,207,0],
-"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbcaf4a20369e2d64f239386ddfac38c9dde":[8,0,0,0,1,3,9,4,207,2],
-"db/d6e/spell__item_8cpp.html#acff1d58a7c81f2aeaec5000116a6e079":[8,0,0,0,1,3,9,4,183],
-"db/d6e/spell__item_8cpp.html#acff1d58a7c81f2aeaec5000116a6e079ae9db0efd6f0086e7aab260f4ec8c502f":[8,0,0,0,1,3,9,4,183,0],
-"db/d6e/spell__item_8cpp.html#ad14bee65a84de12b1dac1bee583701e0":[8,0,0,0,1,3,9,4,278]
+"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca7f116bd9a93fc8656d10814e0dc40e4d":[8,0,0,0,1,3,9,4,207,3]
 };

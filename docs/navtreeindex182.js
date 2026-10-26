@@ -1,5 +1,9 @@
 var NAVTREEINDEX182 =
 {
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a0d106e1e1f4fa45957d152913b4125e7":[8,0,0,0,1,3,9,0,67,50],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a0d2da08157a1e148fabf62841ed0e853":[8,0,0,0,1,3,9,0,67,22],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a0d4c7f3d0705fa28717f717de08df374":[8,0,0,0,1,3,9,0,67,60],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a0e905428a77027e072c86bdc000d97e7":[8,0,0,0,1,3,9,0,67,49],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a157027170ab26ae0d377529719449cd4":[8,0,0,0,1,3,9,0,67,33],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a1771ac5eef579ea472423e668f851c58":[8,0,0,0,1,3,9,0,67,24],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a17c917ea361d32e91a852611393cb850":[8,0,0,0,1,3,9,0,67,18],
@@ -229,8 +233,8 @@ var NAVTREEINDEX182 =
 "d6/d5c/classAcore_1_1ACLogSink.html":[7,0,0,7],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[7,0,0,7,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,0,19,2],
-"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[7,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[5,0,0,19,4],
+"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[7,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[7,0,0,7,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,0,19,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[7,0,0,7,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a2301414a88dcbf4bdc8a486ec4be994e":[7,0,2739,5],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a43fc6a16aca217ef043fa34a58391357":[7,0,2739,0],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a52ea6041c5fe004c1e996a974cc59d5d":[7,0,2739,1],
-"d6/d5d/classspell__blood__queen__vampiric__bite.html#a96cec6f1b51a2c0c03f89447c5306b5a":[7,0,2739,2],
-"d6/d5d/classspell__blood__queen__vampiric__bite.html#abe559b32aa82f19abb0a6d664b75c748":[7,0,2739,3],
-"d6/d5d/classspell__blood__queen__vampiric__bite.html#ad8c7a9935e85c06f837e694ebcaffba1":[7,0,2739,4],
-"d6/d5d/structLogHeader.html":[7,0,1488],
-"d6/d5d/structLogHeader.html#a1884076ea4fe5af08964471d0058fd4d":[7,0,1488,7]
+"d6/d5d/classspell__blood__queen__vampiric__bite.html#a96cec6f1b51a2c0c03f89447c5306b5a":[7,0,2739,2]
 };

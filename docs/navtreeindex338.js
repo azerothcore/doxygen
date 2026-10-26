@@ -1,5 +1,10 @@
 var NAVTREEINDEX338 =
 {
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa027178b0dc60649571d720d9903ad7b1":[8,0,0,0,1,2,41,11,73,13],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa0c3922027b6c91a7af5c7ce2a43165e8":[8,0,0,0,1,2,41,11,73,2],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa15a67f429a3e8c0311b578808ee2507a":[8,0,0,0,1,2,41,11,73,6],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa346f064c3b486b5c91a13159bb911e8b":[8,0,0,0,1,2,41,11,73,0],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa39c7d07c41533d0fff31020c6e90d435":[8,0,0,0,1,2,41,11,73,7],
 "dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa58b6e103af0376dcc7a3cfa06057f4c9":[8,0,0,0,1,2,41,11,73,4],
 "dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa70615c96fc6a9b58230f57a3de92ebdb":[8,0,0,0,1,2,41,11,73,10],
 "dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa73ad5947d65fd1d430e999de97221744":[8,0,0,0,1,2,41,11,73,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX338 =
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cae37216ebd9a8ae2aba1d42d643f5e127":[8,0,0,0,1,3,2,15,7,14,7],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[8,0,0,0,1,3,2,15,7,14,3],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caf04a0d2d38c099e14707be551b34799f":[8,0,0,0,1,3,2,15,7,14,8],
-"dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55a":[8,0,0,0,1,3,2,15,7,12],
-"dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55aaab4ccf93bfa07a14df4f49c08ca4318b":[8,0,0,0,1,3,2,15,7,12,1],
-"dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55aaeb03a0bee1984d803b6c28ae57dc5577":[8,0,0,0,1,3,2,15,7,12,0],
-"dc/dbc/boss__mandokir_8cpp.html#a8bb1ef53467e4f61410d12822d922498":[8,0,0,0,1,3,2,15,7,9],
-"dc/dbc/boss__mandokir_8cpp.html#a8bb1ef53467e4f61410d12822d922498a14acc6a83289f297aabd7f8da3c85502":[8,0,0,0,1,3,2,15,7,9,0],
-"dc/dbc/boss__mandokir_8cpp.html#a8bb1ef53467e4f61410d12822d922498ae4cd22dece403cdfe2b94719ca179265":[8,0,0,0,1,3,2,15,7,9,1]
+"dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55a":[8,0,0,0,1,3,2,15,7,12]
 };

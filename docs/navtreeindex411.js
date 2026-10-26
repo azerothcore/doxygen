@@ -1,5 +1,10 @@
 var NAVTREEINDEX411 =
 {
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,34,6,40],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,34,6,40,3],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[7,0,13,6,40,3],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,34,6,40,2],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[7,0,13,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,34,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[7,0,13,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,34,6,40,7],
@@ -244,10 +249,5 @@ var NAVTREEINDEX411 =
 "df/d39/boss__ouro_8cpp.html#aef4b54aefb4c706ad942f3824a00c158":[8,0,0,0,1,3,4,9,4,7],
 "df/d3a/VMapFactory_8h.html":[8,0,0,0,0,1,0,4],
 "df/d3a/hellfire__ramparts_8h.html":[8,0,0,0,1,3,7,4,1,3],
-"df/d3a/hellfire__ramparts_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,7,4,1,3,0],
-"df/d3a/hellfire__ramparts_8h.html#a63f09fed5c417e14001189cea85ee37a":[8,0,0,0,1,3,7,4,1,3,6],
-"df/d3a/hellfire__ramparts_8h.html#a760c4386411e1723b43acf6eced5b47f":[8,0,0,0,1,3,7,4,1,3,2],
-"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,7,4,1,3,3],
-"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea3564353d4bb3fa1e7a399ca440e358ac":[8,0,0,0,1,3,7,4,1,3,3,2],
-"df/d3a/hellfire__ramparts_8h.html#a92f6fd626e1834a4cc509efc1186963ea3ed4212f9e624582dc16c9eb1e9e54a3":[8,0,0,0,1,3,7,4,1,3,3,3]
+"df/d3a/hellfire__ramparts_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,7,4,1,3,0]
 };

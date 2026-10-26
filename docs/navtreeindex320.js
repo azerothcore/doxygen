@@ -1,5 +1,10 @@
 var NAVTREEINDEX320 =
 {
+"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620aaf2661acb7c256bdab16d272d03778ef":[8,0,0,0,1,3,9,8,112,1],
+"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620ab456f524958d9715467ad49b7c8c1a4c":[8,0,0,0,1,3,9,8,112,3],
+"db/dfb/spell__quest_8cpp.html#af07eaafa01e9bdb3e6e9365cd66be620ab6d0e73a3ec7ce610df1d6b620eee7ed":[8,0,0,0,1,3,9,8,112,2],
+"db/dfb/spell__quest_8cpp.html#af08435084f2bb6a688b94d7b26850e44":[8,0,0,0,1,3,9,8,123],
+"db/dfb/spell__quest_8cpp.html#af08435084f2bb6a688b94d7b26850e44af7b8a3b895235f57b62709d3ce2215a4":[8,0,0,0,1,3,9,8,123,0],
 "db/dfb/spell__quest_8cpp.html#af57af37ce3e616f0df8c97a5c520e70b":[8,0,0,0,1,3,9,8,115],
 "db/dfb/spell__quest_8cpp.html#af57af37ce3e616f0df8c97a5c520e70ba13a9e7c6ea9d0532a012ef19bf7719b7":[8,0,0,0,1,3,9,8,115,0],
 "db/dfb/spell__quest_8cpp.html#af920a88f3d940a44949381b1ee636e76":[8,0,0,0,1,3,9,8,101],
@@ -21,12 +26,12 @@ var NAVTREEINDEX320 =
 "db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[7,0,2337,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,34,12,1,0],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,34,12,1,0],
 "db/dfd/classboss__anubarak__trial.html":[7,0,395],
 "db/dfd/classboss__anubarak__trial.html#a5204e33a412608b53cc155a043356d58":[7,0,395,1],
 "db/dfd/classboss__anubarak__trial.html#a9b8fe9ed3370434612cbd46e7649213d":[7,0,395,2],
@@ -126,8 +131,8 @@ var NAVTREEINDEX320 =
 "dc/d04/classachievement__flame__leviathan__shutout.html":[7,0,56],
 "dc/d04/classachievement__flame__leviathan__shutout.html#a555e0d206b7f730665d301c7e03b23e6":[7,0,56,0],
 "dc/d04/classachievement__flame__leviathan__shutout.html#af548232f563fd387bc8ee25b696a2f99":[7,0,56,1],
-"dc/d04/conceptAcore_1_1AnyTypeList.html":[5,0,0,140],
 "dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
+"dc/d04/conceptAcore_1_1AnyTypeList.html":[5,0,0,140],
 "dc/d05/InstancePackets_8h.html":[8,0,0,0,1,2,39,0,16],
 "dc/d05/classnpc__wounded__blood__elf.html":[7,0,2336],
 "dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[7,0,2336,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543ab006b407127e920da9073d970a91aebe":[8,0,0,0,1,3,5,4,1,2,20,11],
 "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543abc6de3bda6607965eae1d5de37767400":[8,0,0,0,1,3,5,4,1,2,20,6],
 "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543ad9ea4f3f9e91af76f393162e80f36924":[8,0,0,0,1,3,5,4,1,2,20,1],
-"dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543ae14d5c2c6583a26f9d3f15f220475135":[8,0,0,0,1,3,5,4,1,2,20,2],
-"dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543aea2f2af71cf1f07b7cddaa747bf15035":[8,0,0,0,1,3,5,4,1,2,20,9],
-"dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543aefe22a88bf77ece929b255fc5dda7456":[8,0,0,0,1,3,5,4,1,2,20,13],
-"dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543af2a654d2c6184d418f1444d8dbef0751":[8,0,0,0,1,3,5,4,1,2,20,17],
-"dc/d07/halls__of__reflection_8cpp.html#a44fe40b4447f60a713f7ee79c3e98007":[8,0,0,0,1,3,5,4,1,2,26],
-"dc/d07/halls__of__reflection_8cpp.html#a482f31893e512222b2812fb2e025019d":[8,0,0,0,1,3,5,4,1,2,22]
+"dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543ae14d5c2c6583a26f9d3f15f220475135":[8,0,0,0,1,3,5,4,1,2,20,2]
 };

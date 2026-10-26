@@ -1,5 +1,10 @@
 var NAVTREEINDEX422 =
 {
+"df/da7/classBattleground.html#af103a9c8201c16555018d6328ab4e064":[7,0,330,238],
+"df/da7/classBattleground.html#af3c39ea7e354af0b1d045f108b94eec1":[7,0,330,222],
+"df/da7/classBattleground.html#af55c19ab472146519484dbef0524b2a3":[7,0,330,131],
+"df/da7/classBattleground.html#af61dffe8d03609d68c4287c24bcbe109":[7,0,330,48],
+"df/da7/classBattleground.html#af66a4b0e0e61a29fbdfa58cc76f9c4db":[7,0,330,38],
 "df/da7/classBattleground.html#af850df7a168d5ff0ef9fd518db289591":[7,0,330,112],
 "df/da7/classBattleground.html#afa8ef5e640a0ea4647769aee037c87e2":[7,0,330,11],
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[7,0,330,243],
@@ -244,10 +249,5 @@ var NAVTREEINDEX422 =
 "df/db8/structnpc__tito.html#a0b3b1750e8b8840e50d27d22ebddb7c8":[7,0,2237,0],
 "df/db8/structnpc__tito.html#a71335c1474e8a29edf76addacb737fa9":[7,0,2237,1],
 "df/db8/structnpc__tito.html#a96c47ca2e66bb984dfd2cfefa6bde643":[7,0,2237,3],
-"df/db8/structnpc__tito.html#a9eecd226486e52d559ae1a30687bf0eb":[7,0,2237,4],
-"df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[7,0,2237,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[7,0,13,6,50],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,34,6,50],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,34,6,50,1],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[7,0,13,6,50,1]
+"df/db8/structnpc__tito.html#a9eecd226486e52d559ae1a30687bf0eb":[7,0,2237,4]
 };

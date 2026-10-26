@@ -1,5 +1,10 @@
 var NAVTREEINDEX418 =
 {
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faa9d2ab6104556efd2fd88a953afabb02":[8,0,0,0,1,3,5,9,2,4,18,7],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faab4ae3af3c87584dc8c24893d3887e10":[8,0,0,0,1,3,5,9,2,4,18,45],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faae4192525f239485e95830c6137c5c47":[8,0,0,0,1,3,5,9,2,4,18,44],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fab3364a2d5e3f2d23a63981fdb298524c":[8,0,0,0,1,3,5,9,2,4,18,47],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fab67ffc207b468edec1bac215efbaa5ef":[8,0,0,0,1,3,5,9,2,4,18,59],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faba2a3a850ac1600a9e77cd7c485b052e":[8,0,0,0,1,3,5,9,2,4,18,35],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fabb7aab4925f7809c409cd469c06787f7":[8,0,0,0,1,3,5,9,2,4,18,58],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fac5cb10c3d24688bd7cbd6fb2ba4c9ad5":[8,0,0,0,1,3,5,9,2,4,18,32],
@@ -244,10 +249,5 @@ var NAVTREEINDEX418 =
 "df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48":[7,0,4533,19],
 "df/d92/classSpellScript.html#aecd0691fc6d21cb60a541a90b54a0752":[7,0,4533,14],
 "df/d92/classSpellScript.html#af5ed45bb5bb6861d998872bb8209e1f9":[7,0,4533,10],
-"df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7":[7,0,4533,71],
-"df/d92/classSpellScript.html#afd67b4fda44df03e43327c80bc2eacdc":[7,0,4533,9],
-"df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493":[7,0,4533,30],
-"df/d92/classnpc__frostwing__vrykul.html":[7,0,1852],
-"df/d92/classnpc__frostwing__vrykul.html#a11678e59b6db9a41c7b6a575339995fd":[7,0,1852,2],
-"df/d92/classnpc__frostwing__vrykul.html#ab915aa094ddebd9201a1c626e6427409":[7,0,1852,1]
+"df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7":[7,0,4533,71]
 };

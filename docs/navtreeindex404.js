@@ -1,5 +1,10 @@
 var NAVTREEINDEX404 =
 {
+"de/deb/structM2Header.html#ad7c7e68037544260c32dd858e756d800":[7,0,1508,35],
+"de/deb/structM2Header.html#adb985cadc4bac7834b3d413fb5e47088":[7,0,1508,60],
+"de/deb/structM2Header.html#ae139b4dd6e40720e0a0c08d098db247c":[7,0,1508,45],
+"de/deb/structM2Header.html#ae42396fd4e217c6099a186de5540ce0f":[7,0,1508,38],
+"de/deb/structM2Header.html#ae85c7cb3823eb027695bfc9e244a56bd":[7,0,1508,14],
 "de/deb/structM2Header.html#ae99b2a6a07376027bf2f667473154872":[7,0,1508,17],
 "de/deb/structM2Header.html#afe58f99b1baecf7f11e33311de939afd":[7,0,1508,49],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html":[7,0,2165,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX404 =
 "de/dfa/classspell__item__make__a__wish.html":[7,0,3458],
 "de/dfa/classspell__item__make__a__wish.html#a054d9083b24183f4427fc0cb4985ba62":[7,0,3458,1],
 "de/dfa/classspell__item__make__a__wish.html#a0a01f5e290b91e58b4b0f8ba443eb7bf":[7,0,3458,4],
-"de/dfa/classspell__item__make__a__wish.html#a5679f34290f90dbcaf15f09eca0fb20f":[7,0,3458,3],
-"de/dfa/classspell__item__make__a__wish.html#aa4904ed55b5e216e0af5e32508372d4e":[7,0,3458,2],
-"de/dfa/classspell__item__make__a__wish.html#ad303a5c1bbbab3766bd5e9ab753b2a01":[7,0,3458,0],
-"de/dfb/namespaceAddonMgr.html":[5,0,1],
-"de/dfb/namespaceAddonMgr.html#a2ea3deb6be3c64b7b58ed27ccf60c779":[5,0,1,0],
-"de/dfb/namespaceAddonMgr.html#a6edf9a462d4afcaff40e69da1e75cca5":[5,0,1,1]
+"de/dfa/classspell__item__make__a__wish.html#a5679f34290f90dbcaf15f09eca0fb20f":[7,0,3458,3]
 };

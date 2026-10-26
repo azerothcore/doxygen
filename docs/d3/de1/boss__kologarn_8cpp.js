@@ -21,7 +21,8 @@ var boss__kologarn_8cpp =
       [ "EVENT_RESTORE_ARM_RIGHT", "d3/de1/boss__kologarn_8cpp.html#a777b38d6dea496bf162be77bb36125cba9a7b3353d1b52c0edf62538cb5ecb8f0", null ],
       [ "EVENT_FOCUSED_EYEBEAM", "d3/de1/boss__kologarn_8cpp.html#a777b38d6dea496bf162be77bb36125cbacdfc4da82f1b047a769d40e00d9af3e4", null ],
       [ "EVENT_STONE_SHOUT", "d3/de1/boss__kologarn_8cpp.html#a777b38d6dea496bf162be77bb36125cbaeb82d5f938ae7d2e24ff60e561bbd44f", null ],
-      [ "EVENT_PREPARE_BREATH", "d3/de1/boss__kologarn_8cpp.html#a777b38d6dea496bf162be77bb36125cbac86444e2d9ce285c0f0bd8b4ed2b38b1", null ]
+      [ "EVENT_PREPARE_BREATH", "d3/de1/boss__kologarn_8cpp.html#a777b38d6dea496bf162be77bb36125cbac86444e2d9ce285c0f0bd8b4ed2b38b1", null ],
+      [ "EVENT_ENRAGE", "d3/de1/boss__kologarn_8cpp.html#a777b38d6dea496bf162be77bb36125cba470d03afa22c989a62d65ba1ce60863b", null ]
     ] ],
     [ "KologarnNPCs", "d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16e", [
       [ "NPC_LEFT_ARM", "d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16ea9132c055d0e149d7ec45d675fca620b4", null ],
@@ -61,6 +62,7 @@ var boss__kologarn_8cpp =
       [ "SPELL_ONEARMED_OVERHEAD_SMASH", "d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89caeb9e4c28a9d3c73fd29cbf8962381577", null ],
       [ "SPELL_PETRIFYING_BREATH", "d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89caa6429090f992473f6e3328f7459fa1cf", null ],
       [ "SPELL_STONE_SHOUT", "d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89cac112646039bed27cbddf076a3757e7bc", null ],
+      [ "SPELL_BERSERK", "d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89cad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_FOCUSED_EYEBEAM_SUMMON", "d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca0fb66509e4ad93a706ace81bcd096bd7", null ],
       [ "SPELL_FOCUSED_EYEBEAM", "d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89ca8dc0aad18d09da57669d29d106305e88", null ],
       [ "SPELL_FOCUSED_EYEBEAM_RIGHT", "d3/de1/boss__kologarn_8cpp.html#a716e161346d7c90e9e23f8b21db2c89cad449c26204f44fe37144e8f2e6659272", null ],

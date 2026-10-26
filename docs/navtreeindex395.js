@@ -1,5 +1,10 @@
 var NAVTREEINDEX395 =
 {
+"de/d93/classspell__item__swift__hand__justice__dummy.html#adff2a6b6161cc6fa6a49bd55c088394c":[7,0,3522,1],
+"de/d93/classspell__item__swift__hand__justice__dummy.html#aeaae510592ba20f76e322701a9c30c17":[7,0,3522,2],
+"de/d95/classTicketMgr.html":[7,0,4593],
+"de/d95/classTicketMgr.html#a014f3883e6f743db0f7e0756a0bf68c0":[7,0,4593,17],
+"de/d95/classTicketMgr.html#a02858169d0fbf1e9fd298c381dff6ac7":[7,0,4593,0],
 "de/d95/classTicketMgr.html#a07baf2322b9c2b51251fc921b1767a44":[7,0,4593,25],
 "de/d95/classTicketMgr.html#a11570f6fb5ed3e9e7c69e2cf7eb6dcb3":[7,0,4593,2],
 "de/d95/classTicketMgr.html#a1a6167a7f574d205d97388914ce35d7a":[7,0,4593,30],
@@ -244,10 +249,5 @@ var NAVTREEINDEX395 =
 "de/da0/classUpdateRequest.html#a240bdc56685c270c597588231c3bf8f8":[7,0,4654,1],
 "de/da0/classUpdateRequest.html#a8221fa415f828a4866f85f3983f7dab9":[7,0,4654,2],
 "de/da0/classspell__mage__imp__blizzard.html":[7,0,3649],
-"de/da0/classspell__mage__imp__blizzard.html#a4f3c644a91dab0641ef489fd2da171a2":[7,0,3649,2],
-"de/da0/classspell__mage__imp__blizzard.html#a691f14220a619e1915636417927aaa13":[7,0,3649,1],
-"de/da0/classspell__mage__imp__blizzard.html#a6fee4af68a8d312bcb543e0c67932cc9":[7,0,3649,3],
-"de/da0/classspell__mage__imp__blizzard.html#ad97c3b5df293ed8afae3e662467088c2":[7,0,3649,0],
-"de/da0/structLoadedHeightData.html":[7,0,1477],
-"de/da0/structLoadedHeightData.html#a1f989ab0921de350dc2410129028201f":[7,0,1477,5]
+"de/da0/classspell__mage__imp__blizzard.html#a4f3c644a91dab0641ef489fd2da171a2":[7,0,3649,2]
 };

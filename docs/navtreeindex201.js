@@ -1,5 +1,10 @@
 var NAVTREEINDEX201 =
 {
+"d7/d34/AddonMgr_8h.html#a084249e215f787f3163d5d06ad2d256f":[8,0,0,0,1,2,2,1,3],
+"d7/d34/AddonMgr_8h.html#a2ea3deb6be3c64b7b58ed27ccf60c779":[8,0,0,0,1,2,2,1,4],
+"d7/d34/AddonMgr_8h.html#a6edf9a462d4afcaff40e69da1e75cca5":[8,0,0,0,1,2,2,1,5],
+"d7/d34/AddonMgr_8h.html#a85021021149b7eb4d78cbe81e43d3d45":[8,0,0,0,1,2,2,1,8],
+"d7/d34/AddonMgr_8h.html#aaa12f5b754e6b664dbfb2428478bee03":[8,0,0,0,1,2,2,1,7],
 "d7/d34/AddonMgr_8h.html#ad7d0938e7463238a86e8c811e1a58800":[8,0,0,0,1,2,2,1,6],
 "d7/d34/GridDefines_8h.html":[8,0,0,0,1,2,19,3],
 "d7/d34/GridDefines_8h.html#a081c4b764dd94224c4a046465c5c6274":[8,0,0,0,1,2,19,3,33],
@@ -244,10 +249,5 @@ var NAVTREEINDEX201 =
 "d7/d40/classspell__warl__create__healthstone.html#ae852b9df34612c074eab23b025c86870":[7,0,4343,5],
 "d7/d40/forge__of__souls_8h.html":[8,0,0,0,1,3,5,4,0,3],
 "d7/d40/forge__of__souls_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,4,0,3,1],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08":[8,0,0,0,1,3,5,4,0,3,5],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a015de55b22fad643111f67b59a73fbc2":[8,0,0,0,1,3,5,4,0,3,5,4],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a11aef36e86ef916bc76cd8910dff17e0":[8,0,0,0,1,3,5,4,0,3,5,1],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a160667151deccdd9871b9d5df3e29ea9":[8,0,0,0,1,3,5,4,0,3,5,13],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a1a28c61fa7784fd68f360c2c5f40b7ea":[8,0,0,0,1,3,5,4,0,3,5,5],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a34fc0c7d782672f9ff826bfb6eaf58b1":[8,0,0,0,1,3,5,4,0,3,5,6]
+"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08":[8,0,0,0,1,3,5,4,0,3,5]
 };

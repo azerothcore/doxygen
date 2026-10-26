@@ -1,5 +1,9 @@
 var NAVTREEINDEX176 =
 {
+"d6/d1f/structnpc__hor__lumbering__abomination.html#afd56b698fac5f7f13e718d645608213f":[7,0,1906,3],
+"d6/d21/ArenaTeamScript_8h.html":[8,0,0,0,1,2,38,0,28],
+"d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218":[8,0,0,0,1,2,38,0,28,1],
+"d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc":[8,0,0,0,1,2,38,0,28,1,0],
 "d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9":[8,0,0,0,1,2,38,0,28,1,1],
 "d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7":[8,0,0,0,1,2,38,0,28,1,5],
 "d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b":[8,0,0,0,1,2,38,0,28,1,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d29/classnpc__battle__at__valhalas.html#aacec717b5b91ae55307c9642779c15ec":[7,0,1690,1],
 "d6/d29/classnpc__battle__at__valhalas.html#addd76fd9f4b4f8ce706693614b80966b":[7,0,1690,3],
 "d6/d2a/MapDefines_8h.html":[8,0,0,0,0,1,1,0],
-"d6/d2a/MapDefines_8h.html#a2c6994ea025f427f1485c1c7aaee01fe":[8,0,0,0,0,1,1,0,2],
-"d6/d2a/MapDefines_8h.html#a55c9adba46c0c14cd4ac80ab51228816":[8,0,0,0,0,1,1,0,6],
-"d6/d2a/MapDefines_8h.html#a857252154f120575d940ffbdf63bace6":[8,0,0,0,0,1,1,0,3],
-"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5db":[8,0,0,0,0,1,1,0,7],
-"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530":[8,0,0,0,0,1,1,0,7,7]
+"d6/d2a/MapDefines_8h.html#a2c6994ea025f427f1485c1c7aaee01fe":[8,0,0,0,0,1,1,0,2]
 };

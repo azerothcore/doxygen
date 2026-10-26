@@ -1,5 +1,10 @@
 var NAVTREEINDEX268 =
 {
+"da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b":[8,0,0,0,1,2,16,10,1,15,0],
+"da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46daadeaf81cdbd16fe7cfbb9afd2ae17cc17":[8,0,0,0,1,2,16,10,1,15,1],
+"da/d1e/CharmInfo_8h.html#ab00914d5fa4caf6cad7209786ffaf17c":[8,0,0,0,1,2,16,10,1,11],
+"da/d1e/CharmInfo_8h.html#af3f4a89bfde2856dbf998cc7d89f8c51":[8,0,0,0,1,2,16,10,1,6],
+"da/d1e/WaypointMovementGenerator_8h.html":[8,0,0,0,1,2,31,0,21],
 "da/d1e/WaypointMovementGenerator_8h.html#af2d292bdefbb6db76ff3201ac0c0cdd6":[8,0,0,0,1,2,31,0,21,4],
 "da/d1e/WaypointMovementGenerator_8h.html#afcff81f45a877feac68bf5bcae913560":[8,0,0,0,1,2,31,0,21,5],
 "da/d1f/classspell__kaelthas__remove__enchanted__weapons.html":[7,0,3556],
@@ -244,10 +249,5 @@ var NAVTREEINDEX268 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5d113c39c499d21187268b3f0200371c":[8,0,0,0,1,2,41,0,0,6,143],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5e6639ac0ff61c39893a68ee3e750e5b":[8,0,0,0,1,2,41,0,0,6,68],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5ea9211c39ddc18059dd17b3e675c0ee":[8,0,0,0,1,2,41,0,0,6,301],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5f9221ad5292d1442ce0d4a748c820f3":[8,0,0,0,1,2,41,0,0,6,57],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5fea715473ab185848b45de1ec1b6c63":[8,0,0,0,1,2,41,0,0,6,189],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a600ad2316202aec206facbfa746a136b":[8,0,0,0,1,2,41,0,0,6,18],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a600cd4f45aacef7c9309066ab76e877a":[8,0,0,0,1,2,41,0,0,6,46],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a60e00cb4b8d4e07009f51480d25d7bfb":[8,0,0,0,1,2,41,0,0,6,210],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a625dc12d147f84765ca7b381d20e3186":[8,0,0,0,1,2,41,0,0,6,54]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5f9221ad5292d1442ce0d4a748c820f3":[8,0,0,0,1,2,41,0,0,6,57]
 };

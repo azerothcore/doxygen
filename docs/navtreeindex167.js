@@ -1,5 +1,9 @@
 var NAVTREEINDEX167 =
 {
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccf":[8,0,0,0,1,3,5,1,1,0,10],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfa571d4d5e2da8756178e247a5d6622cb9":[8,0,0,0,1,3,5,1,1,0,10,2],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfade02b9e5a00f3eccd24d1301023cf943":[8,0,0,0,1,3,5,1,1,0,10,0],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfae5aa88a2210d9faa5827046344520428":[8,0,0,0,1,3,5,1,1,0,10,1],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,1,1,0,12],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a7129217f8f0a9588a819f2265a47b5":[8,0,0,0,1,3,5,1,1,0,12,4],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,5,1,1,0,12,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX167 =
 "d5/de1/structboss__alythess.html#ac860cef30a96d020a7c729f63ac5ca4e":[7,0,388,1],
 "d5/de3/boss__anubrekhan_8cpp.html":[8,0,0,0,1,3,5,7,0],
 "d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,5,7,0,3],
-"d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,7,0,3,0],
-"d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a78569ce7a1386704a7b7389d30d62d8e":[8,0,0,0,1,3,5,7,0,3,1],
-"d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a7d02805c6e8da030fdc84d7a5ff82ce7":[8,0,0,0,1,3,5,7,0,3,3],
-"d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,7,0,3,2],
-"d5/de3/boss__anubrekhan_8cpp.html#a186758cdf7f07419df3770b278368f7b":[8,0,0,0,1,3,5,7,0,5]
+"d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,7,0,3,0]
 };

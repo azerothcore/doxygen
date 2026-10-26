@@ -146,7 +146,9 @@ var BattlegroundAV_8h =
       [ "AV_CPLACE_TRIGGER19", "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a255455e34f9600d30736e9453dd7eecc", null ],
       [ "AV_CPLACE_MAX", "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ab7e144fe1c975f6f4e2b6edb82a83b9c", null ],
       [ "AV_CPLACE_A_BOSS", "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a907bec956dafe65c33c20bbd8edb00ae", null ],
-      [ "AV_CPLACE_H_BOSS", "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ae839b462387dce33bdf6e31ae65feb39", null ]
+      [ "AV_CPLACE_H_BOSS", "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ae839b462387dce33bdf6e31ae65feb39", null ],
+      [ "AV_CPLACE_A_CAPTAIN", "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a40bf3a63b7ee6283cd62b050bfc94160", null ],
+      [ "AV_CPLACE_H_CAPTAIN", "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a464118a1441867856602421a673777c1", null ]
     ] ],
     [ "BG_AV_Graveyards", "d3/dd4/BattlegroundAV_8h.html#a7dfac7271124660b33f5abfce15beab3", [
       [ "AV_GRAVE_STORM_AID", "d3/dd4/BattlegroundAV_8h.html#a7dfac7271124660b33f5abfce15beab3a588c5375516d62c6dac4be68cd218f03", null ],

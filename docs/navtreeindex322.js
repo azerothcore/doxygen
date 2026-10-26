@@ -1,5 +1,10 @@
 var NAVTREEINDEX322 =
 {
+"dc/d0b/classTrainer_1_1Trainer.html#ac55224a416d8fd686a6cce6bbb63e1fd":[5,0,30,1,9],
+"dc/d0b/classTrainer_1_1Trainer.html#ad8fa6def3f3df45863381fd178d292f4":[5,0,30,1,20],
+"dc/d0b/classTrainer_1_1Trainer.html#ad8fa6def3f3df45863381fd178d292f4":[7,0,10,1,20],
+"dc/d0b/classTrainer_1_1Trainer.html#ae9545ccf3ded3e9cb04322b5dcdde4b0":[7,0,10,1,13],
+"dc/d0b/classTrainer_1_1Trainer.html#ae9545ccf3ded3e9cb04322b5dcdde4b0":[5,0,30,1,13],
 "dc/d0b/classTrainer_1_1Trainer.html#af1dfa43f6492caaea62648f010cbaf63":[5,0,30,1,15],
 "dc/d0b/classTrainer_1_1Trainer.html#af1dfa43f6492caaea62648f010cbaf63":[7,0,10,1,15],
 "dc/d0b/classTrainer_1_1Trainer.html#af4794d9ee20344f56855eac931f6cefb":[5,0,30,1,16],
@@ -244,10 +249,5 @@ var NAVTREEINDEX322 =
 "dc/d1c/classspell__hor__shared__suffering__aura.html#a96e4b9cae1f016bf87c9a09ceb6da561":[7,0,3254,3],
 "dc/d1d/Corpse_8h.html":[8,0,0,0,1,2,16,0,1],
 "dc/d1d/Corpse_8h.html#a1cebf109f41dcdac8a90086696642782":[8,0,0,0,1,2,16,0,1,1],
-"dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683":[8,0,0,0,1,2,16,0,1,4],
-"dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78":[8,0,0,0,1,2,16,0,1,4,1],
-"dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba":[8,0,0,0,1,2,16,0,1,4,2],
-"dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356":[8,0,0,0,1,2,16,0,1,4,0],
-"dc/d1d/Corpse_8h.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c":[8,0,0,0,1,2,16,0,1,3],
-"dc/d1d/Corpse_8h.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c":[8,0,0,0,1,2,16,0,1,3,2]
+"dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683":[8,0,0,0,1,2,16,0,1,4]
 };

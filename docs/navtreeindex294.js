@@ -1,5 +1,10 @@
 var NAVTREEINDEX294 =
 {
+"db/d24/structnpc__hyjal__ground__trash.html#a576b909d65ae862af5dcc6500d2ff7e1":[7,0,1914,4],
+"db/d24/structnpc__hyjal__ground__trash.html#a91b3ee049bf199271618afd3ad0c5f77":[7,0,1914,7],
+"db/d24/structnpc__hyjal__ground__trash.html#aa38b45f63841c049a2add0a9832268ef":[7,0,1914,6],
+"db/d24/structnpc__hyjal__ground__trash.html#aa92481bcf993c4eda5ef271145200d77":[7,0,1914,2],
+"db/d24/structnpc__hyjal__ground__trash.html#ad94fe6d4dca64fa8eec183481f82bb39":[7,0,1914,3],
 "db/d24/structnpc__ulduar__rocket__strike__trigger.html":[7,0,2288],
 "db/d24/structnpc__ulduar__rocket__strike__trigger.html#a14fc5830fe192856bd7c99f78de91070":[7,0,2288,0],
 "db/d24/structnpc__ulduar__rocket__strike__trigger.html#a50b4312f060d62e1c4e3ff144add48d8":[7,0,2288,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX294 =
 "db/d37/classspell__dk__pet__scaling.html#a6b3e219b03f89bf20f0d394c14cfe8cd":[7,0,2860,7],
 "db/d37/classspell__dk__pet__scaling.html#a75d428e0b3619d53bd9436712d2e394e":[7,0,2860,1],
 "db/d37/classspell__dk__pet__scaling.html#a763276aaa00bb6953e0b52118662e7a8":[7,0,2860,3],
-"db/d37/classspell__dk__pet__scaling.html#a81805b43a47065281f83889d8be95c54":[7,0,2860,2],
-"db/d37/classspell__dk__pet__scaling.html#a8dc2c51f3cccb640286fb081a34d90d2":[7,0,2860,6],
-"db/d37/classspell__dk__pet__scaling.html#ab3c7d479eae88ab4a59b06610af19429":[7,0,2860,5],
-"db/d37/classspell__dk__pet__scaling.html#ad5595d4a32336568ac143e1ee1823ab3":[7,0,2860,4],
-"db/d37/classspell__gen__retaliation__toc.html":[7,0,3147],
-"db/d37/classspell__gen__retaliation__toc.html#a0185b616c63a3e9c20495b1c89ec6c68":[7,0,3147,4]
+"db/d37/classspell__dk__pet__scaling.html#a81805b43a47065281f83889d8be95c54":[7,0,2860,2]
 };
