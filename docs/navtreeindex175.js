@@ -1,5 +1,12 @@
 var NAVTREEINDEX175 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca67a4f3b7f15d866af90559d8a7f70713":[8,0,0,0,1,3,5,6,11,36,0],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca758d7f1622b5a89191ae7774d52c0eea":[8,0,0,0,1,3,5,6,11,36,31],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca793a49a00dcc6f1483d25cd234f8a608":[8,0,0,0,1,3,5,6,11,36,5],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[8,0,0,0,1,3,5,6,11,36,28],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca850cc68875b981c368bd0bcac598e517":[8,0,0,0,1,3,5,6,11,36,19],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca8743fced78474c945d4d5b6cfd08137a":[8,0,0,0,1,3,5,6,11,36,21],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca8cb0ce30f128c8db142a2fcfdb7ba17f":[8,0,0,0,1,3,5,6,11,36,17],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ea68b7a9f8984372d34a01128c98410":[8,0,0,0,1,3,5,6,11,36,24],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca955744cf3fb9ab62285b64b578021190":[8,0,0,0,1,3,5,6,11,36,6],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c3cf2497f2c1ad4bf05869e73bc072e":[8,0,0,0,1,3,5,6,11,36,27],
@@ -242,12 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d1f/classspell__halion__marks__aura.html#a1c9fefecd33db13e06f267c41e6b0375":[7,0,3214,2],
 "d6/d1f/classspell__halion__marks__aura.html#a3351eb9a4b497e1d92bd0021c0fa01f8":[7,0,3214,0],
 "d6/d1f/classspell__halion__marks__aura.html#a48fb48567091c8fd9d365ea3ff8730cc":[7,0,3214,1],
-"d6/d1f/classspell__halion__marks__aura.html#ac84d4ab83e56314ff15ee363cafd2feb":[7,0,3214,4],
-"d6/d1f/classspell__halion__marks__aura.html#acd5285ea5c378b31526440d263c54770":[7,0,3214,3],
-"d6/d1f/classspell__halion__marks__aura.html#aeef9d928c6a8739337251e144558b169":[7,0,3214,5],
-"d6/d1f/structnpc__hor__lumbering__abomination.html":[7,0,1906],
-"d6/d1f/structnpc__hor__lumbering__abomination.html#a08ae4bc9025a4bfbe91d39d256e34060":[7,0,1906,0],
-"d6/d1f/structnpc__hor__lumbering__abomination.html#a5380771abba095749e1e0b30fe070a73":[7,0,1906,2],
-"d6/d1f/structnpc__hor__lumbering__abomination.html#a79e99c86f54a4fc7cbcf98e2a08e62ed":[7,0,1906,4],
-"d6/d1f/structnpc__hor__lumbering__abomination.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61":[7,0,1906,1]
+"d6/d1f/classspell__halion__marks__aura.html#ac84d4ab83e56314ff15ee363cafd2feb":[7,0,3214,4]
 };

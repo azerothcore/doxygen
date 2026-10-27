@@ -654,7 +654,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Called at any Damage from any attacker (before damage apply) </p>
-<dl class="section note"><dt>Note</dt><dd>It use for recalculation damage or special reaction at damage for attack reaction use AttackedBy called for non DOT damage in <a class="el" href="../../df/dd9/classUnit.html#afe2cdf561288531d745b6a3eb7182a98">Unit::DealDamage</a> also </dd></dl>
+<dl class="section note"><dt>Note</dt><dd>It use for recalculation damage or special reaction at damage for attack reaction use AttackedBy called for non DOT damage in <a class="el" href="../../df/dd9/classUnit.html#a1f335b0669bc7f67d33dfa0dd9f027a0">Unit::DealDamage</a> also </dd></dl>
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#aca924c2f1f249c2dcffaaea0fa35cd91">UnitAI</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  314</span>    {</div>
@@ -734,11 +734,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassObject_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition</b> Object.h:212</div></div>
 <div class="ttc" id="aclassTempSummon_html_a0861c8d9d39586690b434056d2ee7e18"><div class="ttname"><a href="../../dc/d88/classTempSummon.html#a0861c8d9d39586690b434056d2ee7e18">TempSummon::GetSummoner</a></div><div class="ttdeci">WorldObject * GetSummoner() const</div><div class="ttdef"><b>Definition</b> TemporarySummon.cpp:39</div></div>
-<div class="ttc" id="aclassUnit_html_a6649e9ba10948d634bc0ac9c4a5800e5"><div class="ttname"><a href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">Unit::ToTempSummon</a></div><div class="ttdeci">TempSummon * ToTempSummon()</div><div class="ttdef"><b>Definition</b> Unit.h:737</div></div>
+<div class="ttc" id="aclassUnit_html_a6649e9ba10948d634bc0ac9c4a5800e5"><div class="ttname"><a href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">Unit::ToTempSummon</a></div><div class="ttdeci">TempSummon * ToTempSummon()</div><div class="ttdef"><b>Definition</b> Unit.h:741</div></div>
 <div class="ttc" id="aclassWorldObject_html"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html">WorldObject</a></div><div class="ttdef"><b>Definition</b> Object.h:482</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:281</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00039">TempSummon::GetSummoner()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00212">Object::ToCreature()</a>, and <a class="el" href="../../#l00737">Unit::ToTempSummon()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00039">TempSummon::GetSummoner()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00212">Object::ToCreature()</a>, and <a class="el" href="../../#l00741">Unit::ToTempSummon()</a>.</p>
 
 </div>
 </div>
@@ -827,10 +827,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassTaskContext_html"><div class="ttname"><a href="../../db/ddb/classTaskContext.html">TaskContext</a></div><div class="ttdef"><b>Definition</b> TaskScheduler.h:422</div></div>
 <div class="ttc" id="aclassTaskScheduler_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:233</div></div>
 <div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:399</div></div>
-<div class="ttc" id="aclassUnit_html_a53272c8e2c7356a9d42271d0889e7433"><div class="ttname"><a href="../../df/dd9/classUnit.html#a53272c8e2c7356a9d42271d0889e7433">Unit::SetDisplayId</a></div><div class="ttdeci">virtual void SetDisplayId(uint32 modelId, std::optional&lt; float &gt; displayScale={})</div><div class="ttdef"><b>Definition</b> Unit.cpp:12822</div></div>
-<div class="ttc" id="aclassUnit_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition</b> Unit.h:754</div></div>
+<div class="ttc" id="aclassUnit_html_a53272c8e2c7356a9d42271d0889e7433"><div class="ttname"><a href="../../df/dd9/classUnit.html#a53272c8e2c7356a9d42271d0889e7433">Unit::SetDisplayId</a></div><div class="ttdeci">virtual void SetDisplayId(uint32 modelId, std::optional&lt; float &gt; displayScale={})</div><div class="ttdef"><b>Definition</b> Unit.cpp:12838</div></div>
+<div class="ttc" id="aclassUnit_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition</b> Unit.h:758</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00399">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00303">Object::GetUInt32Value()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00074">CreatureAI::scheduler</a>, <a class="el" href="../../#l12822">Unit::SetDisplayId()</a>, <a class="el" href="../../#l00754">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00047">SPELL_HELLFIRE</a>, <a class="el" href="../../#l00055">SPELL_INFERNAL_RELAY</a>, <a class="el" href="../../#l00125">UNIT_FIELD_NATIVEDISPLAYID</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00399">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l00303">Object::GetUInt32Value()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00074">CreatureAI::scheduler</a>, <a class="el" href="../../#l12838">Unit::SetDisplayId()</a>, <a class="el" href="../../#l00758">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l00047">SPELL_HELLFIRE</a>, <a class="el" href="../../#l00055">SPELL_INFERNAL_RELAY</a>, <a class="el" href="../../#l00125">UNIT_FIELD_NATIVEDISPLAYID</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
 
 </div>
 </div>
@@ -879,7 +879,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/dbd/structnpc__netherspite__infernal.html">npc_netherspite_infernal</a></li>
-    <li class="footer">Generated on Mon Oct 26 2026 12:08:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Oct 27 2026 11:29:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

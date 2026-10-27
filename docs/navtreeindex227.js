@@ -1,5 +1,12 @@
 var NAVTREEINDEX227 =
 {
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba04893ad49a10d1f620485f6f7e51c5f5":[8,0,0,0,1,1,0,0,3,1,20],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba061bb35856031b8a67e661ed9758ee12":[8,0,0,0,1,1,0,0,3,1,9],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0ac28ba0659614927e451408b01ddedb":[8,0,0,0,1,1,0,0,3,1,95],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0b075825c6360fcb870b9812f4e48772":[8,0,0,0,1,1,0,0,3,1,104],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0d58bd022a55ac9c5a9be4c1443b2bf3":[8,0,0,0,1,1,0,0,3,1,39],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0e2f944c309ca24a8702e71aa7643a45":[8,0,0,0,1,1,0,0,3,1,23],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba1231ddf1dead2b60ad52905273c09fdb":[8,0,0,0,1,1,0,0,3,1,50],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba187c679773b2dc7b1a72c0518ee1a92a":[8,0,0,0,1,1,0,0,3,1,103],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba1c8c8d584ab7ce75444b54990f620a06":[8,0,0,0,1,1,0,0,3,1,84],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba1c9b37ba41ea6781c8c30cf669c12feb":[8,0,0,0,1,1,0,0,3,1,52],
@@ -242,12 +249,5 @@ var NAVTREEINDEX227 =
 "d8/d40/classspell__item__purify__helboar__meat.html#a5a628501371e7af224ce44594459b24d":[7,0,3489,0],
 "d8/d40/classspell__item__purify__helboar__meat.html#a7a15b3f6aa7ca1458895b445c90509ee":[7,0,3489,4],
 "d8/d40/classspell__item__purify__helboar__meat.html#aa46a2b76153ffdbea565374899ab31a3":[7,0,3489,3],
-"d8/d40/classspell__item__purify__helboar__meat.html#aeeab8e1eadb83827b035e07887a59ad1":[7,0,3489,1],
-"d8/d40/structnpc__pet__gen__moth.html":[7,0,2077],
-"d8/d40/structnpc__pet__gen__moth.html#a527b48528cce28f6b468af170e5ae45f":[7,0,2077,0],
-"d8/d41/M2Stores_8cpp.html":[8,0,0,0,1,2,14,2],
-"d8/d41/M2Stores_8cpp.html#a036ca5e535b8e25b87a67c20c2ad2d4c":[8,0,0,0,1,2,14,2,2],
-"d8/d41/M2Stores_8cpp.html#a058e5fb250bd785cecc9a6913132dfe4":[8,0,0,0,1,2,14,2,0],
-"d8/d41/M2Stores_8cpp.html#a4acfeb7e23e1d3a74b66a1c54084e7bc":[8,0,0,0,1,2,14,2,5],
-"d8/d41/M2Stores_8cpp.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9":[8,0,0,0,1,2,14,2,4]
+"d8/d40/classspell__item__purify__helboar__meat.html#aeeab8e1eadb83827b035e07887a59ad1":[7,0,3489,1]
 };

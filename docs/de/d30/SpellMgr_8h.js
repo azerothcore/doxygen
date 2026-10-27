@@ -27,6 +27,7 @@ var SpellMgr_8h =
     [ "PetLevelupSpellMap", "de/d30/SpellMgr_8h.html#ad3397bc4e1407330978a0adb42d4aa26", null ],
     [ "PetLevelupSpellSet", "de/d30/SpellMgr_8h.html#aff302d7ad23409ef738f15bcb560ed89", null ],
     [ "SameEffectStackMap", "de/d30/SpellMgr_8h.html#a1f7224032ba19f6603eebb8c57a9e05c", null ],
+    [ "SameEffectStackSharedMiscMap", "de/d30/SpellMgr_8h.html#a05203b69bb61813e4ef03f959a7e64c2", null ],
     [ "SkillLineAbilityMap", "de/d30/SpellMgr_8h.html#a92884d38e54e1a658ef812cfb5ecc2b5", null ],
     [ "SkillLineAbilityMapBounds", "de/d30/SpellMgr_8h.html#ac821b7d2d8a9effd8fafef038528e877", null ],
     [ "SpellAreaForAreaMap", "de/d30/SpellMgr_8h.html#a8376fb57333e49309455eb6a5389938d", null ],

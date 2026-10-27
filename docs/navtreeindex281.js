@@ -1,5 +1,13 @@
 var NAVTREEINDEX281 =
 {
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c":[8,0,0,0,1,3,2,20,4,8],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2":[8,0,0,0,1,3,2,20,4,3],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8":[8,0,0,0,1,3,2,20,4,6],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937":[8,0,0,0,1,3,2,20,4,5],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814":[8,0,0,0,1,3,2,20,4,4],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7":[8,0,0,0,1,3,2,20,4,9],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72":[8,0,0,0,1,3,2,20,4,7],
+"da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e":[8,0,0,0,1,3,2,20,4,0],
 "da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b":[8,0,0,0,1,3,2,20,4,1],
 "da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a":[8,0,0,0,1,3,2,20,4,2],
 "da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633":[8,0,0,0,1,3,2,20,4,11],
@@ -241,13 +249,5 @@ var NAVTREEINDEX281 =
 "da/dab/SpawnData_8h.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a8e60132edd361c998c88ad58f487ff01":[8,0,0,0,1,2,26,15,2,0],
 "da/dab/SpawnData_8h.html#a4d92d9f9c1ddb3ba951f249d8c3a9567ac7f000051c11e8e64e44d8e559df0769":[8,0,0,0,1,2,26,15,2,1],
 "da/dab/SpawnData_8h.html#a4d92d9f9c1ddb3ba951f249d8c3a9567aed165c7835a95c52ad8dd1f9b56719c1":[8,0,0,0,1,2,26,15,2,5],
-"da/dab/SpawnData_8h.html#a8d96153354cfa6d243ff15afdd439ab1":[8,0,0,0,1,2,26,15,4],
-"da/dab/SpawnData_8h.html#a8d96153354cfa6d243ff15afdd439ab1a871f80356238edfc1535510a303f4ee2":[8,0,0,0,1,2,26,15,4,0],
-"da/dab/SpawnData_8h.html#a8d96153354cfa6d243ff15afdd439ab1adfa26ca9fc2b3160505b0766be0da326":[8,0,0,0,1,2,26,15,4,1],
-"da/dab/SpawnData_8h.html#a8d96153354cfa6d243ff15afdd439ab1ae97f493d106f1ed915209a294b4f4108":[8,0,0,0,1,2,26,15,4,2],
-"da/dab/SpawnData_8h.html#a9041bb5e3b05220cb101faac61b48fd7":[8,0,0,0,1,2,26,15,5],
-"da/dab/SpawnData_8h.html#aca6d138cc8cbaa4fbb8366f26ecc6178":[8,0,0,0,1,2,26,15,3],
-"da/dab/SpawnData_8h.html#aca6d138cc8cbaa4fbb8366f26ecc6178a4986d513041762627e4ec53cb8ed2fa6":[8,0,0,0,1,2,26,15,3,1],
-"da/dab/SpawnData_8h.html#aca6d138cc8cbaa4fbb8366f26ecc6178a7fac2ccc2b6c53a62bd265c85b74278f":[8,0,0,0,1,2,26,15,3,2],
-"da/dab/SpawnData_8h.html#aca6d138cc8cbaa4fbb8366f26ecc6178a9c8e9a64f5a962ba5e1c699347c9a095":[8,0,0,0,1,2,26,15,3,0]
+"da/dab/SpawnData_8h.html#a8d96153354cfa6d243ff15afdd439ab1":[8,0,0,0,1,2,26,15,4]
 };

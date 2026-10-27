@@ -1,5 +1,15 @@
 var NAVTREEINDEX292 =
 {
+"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a":[8,0,0,0,1,2,31,6,11,0],
+"db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5":[8,0,0,0,1,2,31,6,7],
+"db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2":[8,0,0,0,1,2,31,6,7,2],
+"db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79":[8,0,0,0,1,2,31,6,7,0],
+"db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5":[8,0,0,0,1,2,31,6,7,1],
+"db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0":[8,0,0,0,1,2,31,6,7,3],
+"db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5":[8,0,0,0,1,2,31,6,9],
+"db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e":[8,0,0,0,1,2,31,6,9,2],
+"db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc":[8,0,0,0,1,2,31,6,9,1],
+"db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7":[8,0,0,0,1,2,31,6,9,0],
 "db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5":[8,0,0,0,1,2,31,6,9,3],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9":[8,0,0,0,1,2,31,6,8],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc":[8,0,0,0,1,2,31,6,8,14],
@@ -239,15 +249,5 @@ var NAVTREEINDEX292 =
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#aa239a693db5fa38ac260a37b25e0e6d9":[7,0,2745,5],
 "db/d17/classspell__xt002__tympanic__tantrum.html":[7,0,4446],
 "db/d17/classspell__xt002__tympanic__tantrum.html#a02c1af0414de344056b2375488f23c01":[7,0,4446,2],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a1e030067944878000b731edf456d6bc8":[7,0,4446,3],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a28ce9d2750c79b2b0061b00df5ae9e8b":[7,0,4446,1],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a582691eca81b6db6d78ca925ad8fb084":[7,0,4446,0],
-"db/d18/classat__zulgurub__edge__of__madness__speech.html":[7,0,264],
-"db/d18/classat__zulgurub__edge__of__madness__speech.html#a7d4007716e3ed634ac7e3d3dba26e6f7":[7,0,264,0],
-"db/d18/classat__zulgurub__edge__of__madness__speech.html#ab04b77d7521296cd271f763274d09841":[7,0,264,1],
-"db/d18/classspell__gen__fixate__aura.html":[7,0,3085],
-"db/d18/classspell__gen__fixate__aura.html#a8a60db6939ba71ddcf723fb4e48b3146":[7,0,3085,0],
-"db/d18/classspell__gen__fixate__aura.html#a8ab913cf84f55428d2b0615172f3da3b":[7,0,3085,1],
-"db/d18/classspell__gen__fixate__aura.html#aed1cfe63d82450b526e154678fb97ac4":[7,0,3085,2],
-"db/d1a/classspell__q12227__outhouse__groans.html":[7,0,3956]
+"db/d17/classspell__xt002__tympanic__tantrum.html#a1e030067944878000b731edf456d6bc8":[7,0,4446,3]
 };

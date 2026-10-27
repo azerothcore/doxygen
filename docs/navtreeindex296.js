@@ -1,5 +1,15 @@
 var NAVTREEINDEX296 =
 {
+"db/d4a/classAcore_1_1Thread.html#addc70b7462f6fe4e51e136176f05a6b8":[7,0,0,109,8],
+"db/d4a/classAcore_1_1Thread.html#afa81b66db9223412b20be34f2ee1651f":[5,0,0,121,12],
+"db/d4a/classAcore_1_1Thread.html#afa81b66db9223412b20be34f2ee1651f":[7,0,0,109,12],
+"db/d4a/namespaceByteConverter.html":[5,0,9],
+"db/d4a/namespaceByteConverter.html#a3717e304a2b8b074fcd513ca8e0db116":[5,0,9,3],
+"db/d4a/namespaceByteConverter.html#a5628479f846d755da3ff53b0e2a66c26":[5,0,9,1],
+"db/d4a/namespaceByteConverter.html#a6177d7ac84a4ea6819c57a124345540e":[5,0,9,0],
+"db/d4a/namespaceByteConverter.html#aa8017307aa0aa935f062b4f701563d09":[5,0,9,2],
+"db/d4b/classnpc__tapoke__slim__jahn.html":[7,0,2212],
+"db/d4b/classnpc__tapoke__slim__jahn.html#a397629742eace1b96dfd9d4a2e55cc32":[7,0,2212,2],
 "db/d4b/classnpc__tapoke__slim__jahn.html#a61e36b57f8ba78c371d454efb1512579":[7,0,2212,1],
 "db/d4b/classspell__q12943__shadow__vault__decree.html":[7,0,3992],
 "db/d4b/classspell__q12943__shadow__vault__decree.html#a0223c05b5832c64b248e82eba770f7fa":[7,0,3992,1],
@@ -162,8 +172,8 @@ var NAVTREEINDEX296 =
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[8,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[7,0,13,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[7,0,3228],
@@ -239,15 +249,5 @@ var NAVTREEINDEX296 =
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaed00d3a73ad875ac079bacfcc16b8d32":[8,0,0,0,1,3,9,1,59,7],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafbf8b54a61e49af474ab253caf045e6f":[8,0,0,0,1,3,9,1,59,62],
 "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafc64a3d350cde7bf976131ee147e98f3":[8,0,0,0,1,3,9,1,59,20],
-"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafd1e1ce959d89c122214d1fb3e0c7e19":[8,0,0,0,1,3,9,1,59,10],
-"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafdb25609007e133b781767ea0d1d4250":[8,0,0,0,1,3,9,1,59,63],
-"db/d55/structBattlegroundICScore.html":[7,0,344],
-"db/d55/structBattlegroundICScore.html#a2d7503354e4bdce9f2a06d48b649da2f":[7,0,344,7],
-"db/d55/structBattlegroundICScore.html#a3b8798fdb479885fbe4b7cecb2f84f68":[7,0,344,0],
-"db/d55/structBattlegroundICScore.html#a4a10d0be9c318048feb4e76ffae9472c":[7,0,344,1],
-"db/d55/structBattlegroundICScore.html#a5050b80f9d1855cb8b97830f9e80124f":[7,0,344,8],
-"db/d55/structBattlegroundICScore.html#a690ede108b8ce8dfa45a2b7457e53a3c":[7,0,344,6],
-"db/d55/structBattlegroundICScore.html#a70c2965b6b1e99239e0dcc1c03ccb552":[7,0,344,9],
-"db/d55/structBattlegroundICScore.html#a758fa51038f232c7d65cd0168a4608c2":[7,0,344,3],
-"db/d55/structBattlegroundICScore.html#a7793e9b005d28e3b9e6a170e13a9b463":[7,0,344,4]
+"db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafd1e1ce959d89c122214d1fb3e0c7e19":[8,0,0,0,1,3,9,1,59,10]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX142 =
 {
+"d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca72dbbd9381e072949b3c43f1c8feea22":[8,0,0,0,1,3,7,5,0,2,2,3],
+"d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[8,0,0,0,1,3,7,5,0,2,2,1],
+"d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[8,0,0,0,1,3,7,5,0,2,1],
+"d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,5,0,2,1,4],
+"d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a3bb81f47f40ebbd45afd95991300a0b6":[8,0,0,0,1,3,7,5,0,2,1,3],
+"d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47ba729a01df4212b29320aea35148f0":[8,0,0,0,1,3,7,5,0,2,1,2],
+"d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,5,0,2,1,0],
 "d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a591a2f0b49badd23e75fc13e1f349335":[8,0,0,0,1,3,7,5,0,2,1,5],
 "d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7350ceb8fe6205ca308091e100fe6177":[8,0,0,0,1,3,7,5,0,2,1,6],
 "d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,5,0,2,1,1],
@@ -133,10 +140,10 @@ var NAVTREEINDEX142 =
 "d4/dc6/classspell__warhead__detonate.html#a98e8a4b7bbe947b00f1bc32632736d59":[7,0,4340,0],
 "d4/dc6/classspell__warhead__detonate.html#acdfa4e1fc8e26a887e80521b1bea5150":[7,0,4340,2],
 "d4/dc6/classspell__warhead__detonate.html#aeec15705a41ad2ac0e59d90086591d96":[7,0,4340,3],
-"d4/dc7/classVMAP_1_1MeshTriangle.html":[5,0,31,12],
 "d4/dc7/classVMAP_1_1MeshTriangle.html":[7,0,11,12],
-"d4/dc7/classVMAP_1_1MeshTriangle.html#a36109fc79a9ca9c6bf19959fd1493e60":[5,0,31,12,1],
+"d4/dc7/classVMAP_1_1MeshTriangle.html":[5,0,31,12],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#a36109fc79a9ca9c6bf19959fd1493e60":[7,0,11,12,1],
+"d4/dc7/classVMAP_1_1MeshTriangle.html#a36109fc79a9ca9c6bf19959fd1493e60":[5,0,31,12,1],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#a560bb163f63ff7202aade4d115f31664":[7,0,11,12,3],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#a560bb163f63ff7202aade4d115f31664":[5,0,31,12,3],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#ac939c5e66526c67c067288b9d6484cac":[7,0,11,12,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX142 =
 "d4/dcc/structMySQLConnectionInfo.html#a2659372561aae5feb8da121984354ef3":[7,0,1593,2],
 "d4/dcc/structMySQLConnectionInfo.html#a37b89660afb3ee085e817836e9d1d01f":[7,0,1593,4],
 "d4/dcc/structMySQLConnectionInfo.html#a6bf4166ebb99ea30a3894e3d8833bde6":[7,0,1593,6],
-"d4/dcc/structMySQLConnectionInfo.html#a7e65a418ad668772e4ce1b298d92f10a":[7,0,1593,1],
-"d4/dcc/structMySQLConnectionInfo.html#a90e5a934b4ec46e5783248a1a80a4830":[7,0,1593,5],
-"d4/dcc/structMySQLConnectionInfo.html#ae60c54053d71eb9325df10701b1f42d3":[7,0,1593,0],
-"d4/dcc/structMySQLConnectionInfo.html#af5a51bd38ce1d58f65444d69b0283966":[7,0,1593,3],
-"d4/dcd/classspell__mage__cold__snap.html":[7,0,3629],
-"d4/dcd/classspell__mage__cold__snap.html#a870b9834d0860a2d017b74fbf33ae668":[7,0,3629,0],
-"d4/dcd/classspell__mage__cold__snap.html#aac68e0f75f39ab25cf490dc381414b96":[7,0,3629,2],
-"d4/dcd/classspell__mage__cold__snap.html#ad2840c719abd010c629747da138e9e32":[7,0,3629,3]
+"d4/dcc/structMySQLConnectionInfo.html#a7e65a418ad668772e4ce1b298d92f10a":[7,0,1593,1]
 };

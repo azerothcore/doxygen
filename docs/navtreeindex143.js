@@ -1,5 +1,12 @@
 var NAVTREEINDEX143 =
 {
+"d4/dcc/structMySQLConnectionInfo.html#a90e5a934b4ec46e5783248a1a80a4830":[7,0,1593,5],
+"d4/dcc/structMySQLConnectionInfo.html#ae60c54053d71eb9325df10701b1f42d3":[7,0,1593,0],
+"d4/dcc/structMySQLConnectionInfo.html#af5a51bd38ce1d58f65444d69b0283966":[7,0,1593,3],
+"d4/dcd/classspell__mage__cold__snap.html":[7,0,3629],
+"d4/dcd/classspell__mage__cold__snap.html#a870b9834d0860a2d017b74fbf33ae668":[7,0,3629,0],
+"d4/dcd/classspell__mage__cold__snap.html#aac68e0f75f39ab25cf490dc381414b96":[7,0,3629,2],
+"d4/dcd/classspell__mage__cold__snap.html#ad2840c719abd010c629747da138e9e32":[7,0,3629,3],
 "d4/dcd/classspell__mage__cold__snap.html#ae971bd1dccc9280620b6ea44dd552bd4":[7,0,3629,1],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[7,0,13,6,11],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[5,0,34,6,11],
@@ -7,8 +14,8 @@ var NAVTREEINDEX143 =
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#a015ba615ebe4ea09df8233f6a85332f4":[5,0,34,6,11,2],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#aecc28f8734a66c562c7baa1575b07ff9":[7,0,13,6,11,1],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#aecc28f8734a66c562c7baa1575b07ff9":[5,0,34,6,11,1],
-"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#afdb4e226091e8280b4ef26bd51edebdd":[5,0,34,6,11,0],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#afdb4e226091e8280b4ef26bd51edebdd":[7,0,13,6,11,0],
+"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#afdb4e226091e8280b4ef26bd51edebdd":[5,0,34,6,11,0],
 "d4/dce/classspell__orbital__supports__aura.html":[7,0,3764],
 "d4/dce/classspell__orbital__supports__aura.html#a921b2f67c417244310398bd93061d61c":[7,0,3764,1],
 "d4/dce/classspell__orbital__supports__aura.html#ab21972706bae9fdc3fc6859da2f3f63e":[7,0,3764,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX143 =
 "d4/dd0/classWorldObject.html#ae5570989260234d213323c44ab5fb44c":[7,0,4738,207],
 "d4/dd0/classWorldObject.html#ae68841f54778d8b6565ad29b94e985e6":[7,0,4738,206],
 "d4/dd0/classWorldObject.html#ae6f63e2c70d88d37bd91abae69d142a4":[7,0,4738,25],
-"d4/dd0/classWorldObject.html#ae7910ce42a4077b10aa01a7b9b52224c":[7,0,4738,130],
-"d4/dd0/classWorldObject.html#ae93cbe6fc0feed133ffa419cf6771c19":[7,0,4738,43],
-"d4/dd0/classWorldObject.html#aea3d44f1e61c20c8b296ce4e39800423":[7,0,4738,224],
-"d4/dd0/classWorldObject.html#aea4cb1fba1a6e5f4bca18bbb84b86d2f":[7,0,4738,15],
-"d4/dd0/classWorldObject.html#aeabb8ef7d4741b002bc4c57199b2d3a5":[7,0,4738,1],
-"d4/dd0/classWorldObject.html#aec7cb6715db8949843d5eadf06b366fc":[7,0,4738,107],
-"d4/dd0/classWorldObject.html#aecec1bb44a3472e76f55f458a9c76c6a":[7,0,4738,228],
-"d4/dd0/classWorldObject.html#aed54546af726328817d6c979a4173745":[7,0,4738,31]
+"d4/dd0/classWorldObject.html#ae7910ce42a4077b10aa01a7b9b52224c":[7,0,4738,130]
 };

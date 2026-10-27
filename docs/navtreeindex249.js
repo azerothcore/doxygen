@@ -1,5 +1,12 @@
 var NAVTREEINDEX249 =
 {
+"d9/d4e/classspell__mage__magic__absorption.html":[7,0,3653],
+"d9/d4e/classspell__mage__magic__absorption.html#a180edf3dd9f3abd42ae6cd43353451fe":[7,0,3653,0],
+"d9/d4e/classspell__mage__magic__absorption.html#a3578470f10bb4c10868d02d62cafceac":[7,0,3653,3],
+"d9/d4e/classspell__mage__magic__absorption.html#a4f496a310941e40c9c841772be3e6414":[7,0,3653,4],
+"d9/d4e/classspell__mage__magic__absorption.html#a874672016641a737a197588ea980c2c3":[7,0,3653,2],
+"d9/d4e/classspell__mage__magic__absorption.html#a9d6daf153d86cf93e35c43d05dda2459":[7,0,3653,1],
+"d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html":[7,0,1898,0],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a5642aab7afc50a7494c43ae7a130d571":[7,0,1898,0,2],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a56e035884d2ab94629c133efc1fc8feb":[7,0,1898,0,5],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a80051b1b2a663997304b1754a3f9ff25":[7,0,1898,0,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX249 =
 "d9/d59/namespaceAcore_1_1ChatCommands.html#a6f2659123367a36f37046e5604215d6ba93cba07454f06a4a960172bbd6e2a435":[5,0,0,2,10,1],
 "d9/d59/namespaceAcore_1_1ChatCommands.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b":[5,0,0,2,10,0],
 "d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626":[5,0,0,2,9],
-"d9/d59/namespaceAcore_1_1ChatCommands.html#a81e8830ce306f6cfbcd04c92d3e0cc7f":[5,0,0,2,15],
-"d9/d59/namespaceAcore_1_1ChatCommands.html#a9a1f396a96afbd90b5c426315c8ba37d":[5,0,0,2,12],
-"d9/d59/namespaceAcore_1_1ChatCommands.html#aca39508e7753f6ca5d9aa21a854c0a77":[5,0,0,2,16],
-"d9/d59/namespaceAcore_1_1ChatCommands.html#ade19080af583292883b932d83992c6fe":[5,0,0,2,13],
-"d9/d5a/structAcore_1_1UnitSearcher.html":[5,0,0,127],
-"d9/d5a/structAcore_1_1UnitSearcher.html":[7,0,0,115],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,0,127,5],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[7,0,0,115,5]
+"d9/d59/namespaceAcore_1_1ChatCommands.html#a81e8830ce306f6cfbcd04c92d3e0cc7f":[5,0,0,2,15]
 };

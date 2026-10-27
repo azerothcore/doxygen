@@ -1,5 +1,15 @@
 var NAVTREEINDEX294 =
 {
+"db/d24/classspell__icehowl__massive__crash.html#abaaf6d96458eb98f69552c2694c20698":[7,0,3320,0],
+"db/d24/classspell__icehowl__massive__crash.html#abbfc73e3f4a822c47242000bf093a46f":[7,0,3320,2],
+"db/d24/classspell__image__of__drakuru__reagent__check.html":[7,0,3366],
+"db/d24/classspell__image__of__drakuru__reagent__check.html#a2ad2c00807d07aeb55a8fd848a69f9d1":[7,0,3366,2],
+"db/d24/classspell__image__of__drakuru__reagent__check.html#a9489556e1e16cd2e0d5c43b38d7ea5ee":[7,0,3366,1],
+"db/d24/classspell__image__of__drakuru__reagent__check.html#ad5421ca3dd5bf802952f98e6d1170003":[7,0,3366,0],
+"db/d24/structnpc__hyjal__ground__trash.html":[7,0,1914],
+"db/d24/structnpc__hyjal__ground__trash.html#a035610284a56e690200f978b0fd496ab":[7,0,1914,5],
+"db/d24/structnpc__hyjal__ground__trash.html#a06b590bf9ef983b1ef2b94058144fc7d":[7,0,1914,0],
+"db/d24/structnpc__hyjal__ground__trash.html#a0ab86d651644dcc579585176c2b5c07e":[7,0,1914,1],
 "db/d24/structnpc__hyjal__ground__trash.html#a576b909d65ae862af5dcc6500d2ff7e1":[7,0,1914,4],
 "db/d24/structnpc__hyjal__ground__trash.html#a91b3ee049bf199271618afd3ad0c5f77":[7,0,1914,7],
 "db/d24/structnpc__hyjal__ground__trash.html#aa38b45f63841c049a2add0a9832268ef":[7,0,1914,6],
@@ -239,15 +249,5 @@ var NAVTREEINDEX294 =
 "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#a97a59eec672d7dfe36264d34b922d0c8":[7,0,1829,0,3],
 "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#aadcf9b51dbcaa1e62b6619b89d865814":[7,0,1829,0,5],
 "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#ab979c3602897b1148ffd5d4a81941197":[7,0,1829,0,2],
-"db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#ad22bb6efafb4396cd0137c1384240029":[7,0,1829,0,4],
-"db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#af8b3a9b56e4bdf8d8b654ecccd096651":[7,0,1829,0,0],
-"db/d37/classboss__urom.html":[7,0,771],
-"db/d37/classboss__urom.html#ac381b851f3cc746fb323ff238892c537":[7,0,771,2],
-"db/d37/classboss__urom.html#ae85d0bb54d3bf6571bec9d35f31a3e25":[7,0,771,1],
-"db/d37/classspell__dk__pet__scaling.html":[7,0,2860],
-"db/d37/classspell__dk__pet__scaling.html#a330ab5ee4c9b16928b3fae701c80acd4":[7,0,2860,0],
-"db/d37/classspell__dk__pet__scaling.html#a6b3e219b03f89bf20f0d394c14cfe8cd":[7,0,2860,7],
-"db/d37/classspell__dk__pet__scaling.html#a75d428e0b3619d53bd9436712d2e394e":[7,0,2860,1],
-"db/d37/classspell__dk__pet__scaling.html#a763276aaa00bb6953e0b52118662e7a8":[7,0,2860,3],
-"db/d37/classspell__dk__pet__scaling.html#a81805b43a47065281f83889d8be95c54":[7,0,2860,2]
+"db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#ad22bb6efafb4396cd0137c1384240029":[7,0,1829,0,4]
 };

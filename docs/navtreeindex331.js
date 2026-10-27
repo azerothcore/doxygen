@@ -1,5 +1,17 @@
 var NAVTREEINDEX331 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae2d94258b386f6a9db97cc035d0eefae":[8,0,0,0,1,2,26,2,1,27],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae3631ecfc1ab6ce423f274722be16158":[8,0,0,0,1,2,26,2,1,33],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae4e1f01118fe50a4982396bececfe830":[8,0,0,0,1,2,26,2,1,50],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaec8ed9235928b91e5b601505d58dace0":[8,0,0,0,1,2,26,2,1,73],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf187c3f832ea4d0d9448ec9e208fdbcb":[8,0,0,0,1,2,26,2,1,11],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf578bcbfa373b10d63c5d2f9638daf34":[8,0,0,0,1,2,26,2,1,14],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf5d07a264accc4376d12233736d19343":[8,0,0,0,1,2,26,2,1,82],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3":[8,0,0,0,1,2,26,2,0],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a00446449607842e52572a37cd7b020ad":[8,0,0,0,1,2,26,2,0,88],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a039436e4e28ff7cefc5cd5fbc5fb74b2":[8,0,0,0,1,2,26,2,0,119],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a053a06f4ea853c58639599700024bcc2":[8,0,0,0,1,2,26,2,0,123],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a05d79f5f3fdcacccee161795e05a604e":[8,0,0,0,1,2,26,2,0,115],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a06815ffc7c194a7fea0350c4d87e5a5f":[8,0,0,0,1,2,26,2,0,157],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a073f493bd498c3b0e39c8455620f4a3a":[8,0,0,0,1,2,26,2,0,117],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a07d256cbd49d2ed3c40cee10ac0b2f9f":[8,0,0,0,1,2,26,2,0,99],
@@ -237,17 +249,5 @@ var NAVTREEINDEX331 =
 "dc/d52/classTimedFleeingMovementGenerator.html#a1a18f033663fa93ef0b9885aae21f766":[7,0,4595,1],
 "dc/d52/classTimedFleeingMovementGenerator.html#a2858047459ff675383e7b86805702369":[7,0,4595,4],
 "dc/d52/classTimedFleeingMovementGenerator.html#a53688aae55bfdd3a33eb24484fcc157e":[7,0,4595,3],
-"dc/d52/classTimedFleeingMovementGenerator.html#ae3eed5f4b5a8d11ad4eed67ce5329742":[7,0,4595,0],
-"dc/d54/classnpc__mageguard__dalaran.html":[7,0,2000],
-"dc/d54/classnpc__mageguard__dalaran.html#a0cec4f232b665325c421cecb5839885f":[7,0,2000,1],
-"dc/d54/classnpc__mageguard__dalaran.html#a10cbddceb53a2d432da2224128c59b28":[7,0,2000,2],
-"dc/d54/classspell__control__piece.html":[7,0,2791],
-"dc/d54/classspell__control__piece.html#aae5dc71af1a0fade2da9ee88875896a5":[7,0,2791,0],
-"dc/d55/classnpc__kaya__flathoof.html":[7,0,1962],
-"dc/d55/classnpc__kaya__flathoof.html#a588f88b1c00927a4ad6b7cd25fc1b065":[7,0,1962,1],
-"dc/d55/classnpc__kaya__flathoof.html#acdb20ecb1ffee4417c9b39f3aebb0591":[7,0,1962,3],
-"dc/d55/classnpc__kaya__flathoof.html#ad7cce0c1a30abe5bc0bffa777c40c79a":[7,0,1962,2],
-"dc/d56/LootScript_8cpp.html":[8,0,0,0,1,2,38,0,62],
-"dc/d56/classTypeVectorContainer.html":[7,0,4636],
-"dc/d56/classTypeVectorContainer.html#a05f606f459c905632d1452727bc93a0d":[7,0,4636,0]
+"dc/d52/classTimedFleeingMovementGenerator.html#ae3eed5f4b5a8d11ad4eed67ce5329742":[7,0,4595,0]
 };

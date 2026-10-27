@@ -1,5 +1,12 @@
 var NAVTREEINDEX183 =
 {
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[7,0,0,22,0],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,0,34,0],
+"d6/d5d/classspell__blood__queen__vampiric__bite.html":[7,0,2739],
+"d6/d5d/classspell__blood__queen__vampiric__bite.html#a2301414a88dcbf4bdc8a486ec4be994e":[7,0,2739,5],
+"d6/d5d/classspell__blood__queen__vampiric__bite.html#a43fc6a16aca217ef043fa34a58391357":[7,0,2739,0],
+"d6/d5d/classspell__blood__queen__vampiric__bite.html#a52ea6041c5fe004c1e996a974cc59d5d":[7,0,2739,1],
+"d6/d5d/classspell__blood__queen__vampiric__bite.html#a96cec6f1b51a2c0c03f89447c5306b5a":[7,0,2739,2],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#abe559b32aa82f19abb0a6d664b75c748":[7,0,2739,3],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#ad8c7a9935e85c06f837e694ebcaffba1":[7,0,2739,4],
 "d6/d5d/structLogHeader.html":[7,0,1488],
@@ -242,12 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963e":[8,0,0,0,1,3,4,0,0,1],
 "d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963ea025abfc65584b2a279fc587c669a118a":[8,0,0,0,1,3,4,0,0,1,3],
 "d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963ea6f59bef5aacd997ec3c2c234baf9896d":[8,0,0,0,1,3,4,0,0,1,2],
-"d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963eac83289e3699f1f6e12eb19c00d658571":[8,0,0,0,1,3,4,0,0,1,1],
-"d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963ead4d5225ce2046abd5430cbb92a5ee2a6":[8,0,0,0,1,3,4,0,0,1,0],
-"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[8,0,0,0,1,3,4,0,0,2],
-"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4842090ac3ea8e0e3f79e41bd8540a80":[8,0,0,0,1,3,4,0,0,2,6],
-"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4f42b03438989f88459efb5c4a84e4d5":[8,0,0,0,1,3,4,0,0,2,4],
-"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25":[8,0,0,0,1,3,4,0,0,2,7],
-"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9e9de62e02991ecca224def0cbdc12b6":[8,0,0,0,1,3,4,0,0,2,2],
-"d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aac3abf4b2386096b5c8ffd1157e0f4e5":[8,0,0,0,1,3,4,0,0,2,3]
+"d6/d68/blackfathom__deeps_8h.html#a92f6fd626e1834a4cc509efc1186963eac83289e3699f1f6e12eb19c00d658571":[8,0,0,0,1,3,4,0,0,1,1]
 };

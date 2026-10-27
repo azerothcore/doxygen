@@ -1,5 +1,11 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a184ab33dcebe153863959d30c3e09f91":[8,0,0,0,1,3,5,3,1,5,0],
+"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1d0dd62c4b1cdc71b86559a782c4b4f1":[8,0,0,0,1,3,5,3,1,5,4],
+"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5216547b0d407e13c51118fdb18309a3":[8,0,0,0,1,3,5,3,1,5,3],
+"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d211e1034e51a7cae966447a6786576":[8,0,0,0,1,3,5,3,1,5,1],
+"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2375df4683a40c95e9d73dc07b67971":[8,0,0,0,1,3,5,3,1,5,5],
+"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af728f91b867885926207b4aa983da4be":[8,0,0,0,1,3,5,3,1,5,2],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,3,1,7],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,3,1,7,2],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,3,1,7,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416aef8c0d8bbd31ac1280da5e1d047b090c":[8,0,0,0,1,3,2,28,5,4],
 "d2/d5c/classspell__karazhan__wrath__titans__aura.html":[7,0,3569],
 "d2/d5c/classspell__karazhan__wrath__titans__aura.html#a001de2ce29c768b328b93c66c6aca2f9":[7,0,3569,2],
-"d2/d5c/classspell__karazhan__wrath__titans__aura.html#a085f6affd2bf76fe66f9023e67725848":[7,0,3569,0],
-"d2/d5c/classspell__karazhan__wrath__titans__aura.html#a42ae1d2f846815480dc02e7e5f92527e":[7,0,3569,4],
-"d2/d5c/classspell__karazhan__wrath__titans__aura.html#ad4db3b85cab89e4922ac4935b0cdcbd5":[7,0,3569,3],
-"d2/d5c/classspell__karazhan__wrath__titans__aura.html#ae5c0f54c072fa5f4bb69af0acd74053c":[7,0,3569,1],
-"d2/d5c/structSpellTargetSelector.html":[7,0,4537],
-"d2/d5c/structSpellTargetSelector.html#a309ed04630cfb92810b7f51376b3917c":[7,0,4537,3],
-"d2/d5c/structSpellTargetSelector.html#a53c27c23f2d9846903e1ff9b479a36b1":[7,0,4537,1]
+"d2/d5c/classspell__karazhan__wrath__titans__aura.html#a085f6affd2bf76fe66f9023e67725848":[7,0,3569,0]
 };

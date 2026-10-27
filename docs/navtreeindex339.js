@@ -1,5 +1,17 @@
 var NAVTREEINDEX339 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca397012fccbcf2bdcf5ce7bd83c3c29b7":[8,0,0,0,1,3,2,15,7,14,11],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca3d8bf8576afa397124a60457a9fdfc38":[8,0,0,0,1,3,2,15,7,14,12],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[8,0,0,0,1,3,2,15,7,14,4],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca9203ecb14e14edb80a8277f5776b9799":[8,0,0,0,1,3,2,15,7,14,1],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca99346d181da7e06bc6c08427a2b39880":[8,0,0,0,1,3,2,15,7,14,2],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caa2f05c94c6cfda24c63f116f4e6fca6c":[8,0,0,0,1,3,2,15,7,14,10],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,2,15,7,14,5],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cabd8110f8d36f579f159e45afc797b229":[8,0,0,0,1,3,2,15,7,14,6],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cae37216ebd9a8ae2aba1d42d643f5e127":[8,0,0,0,1,3,2,15,7,14,7],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[8,0,0,0,1,3,2,15,7,14,3],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caf04a0d2d38c099e14707be551b34799f":[8,0,0,0,1,3,2,15,7,14,8],
+"dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55a":[8,0,0,0,1,3,2,15,7,12],
 "dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55aaab4ccf93bfa07a14df4f49c08ca4318b":[8,0,0,0,1,3,2,15,7,12,1],
 "dc/dbc/boss__mandokir_8cpp.html#a60bb39e9def5751a98777318e935d55aaeb03a0bee1984d803b6c28ae57dc5577":[8,0,0,0,1,3,2,15,7,12,0],
 "dc/dbc/boss__mandokir_8cpp.html#a8bb1ef53467e4f61410d12822d922498":[8,0,0,0,1,3,2,15,7,9],
@@ -237,17 +249,5 @@ var NAVTREEINDEX339 =
 "dc/dcc/classspell__item__ultrasafe__transporter.html#a2ec497a2dfe2364ad9011aba8532e73c":[7,0,3535,1],
 "dc/dcc/classspell__item__ultrasafe__transporter.html#af54f926b69002b2277dad34e1773e450":[7,0,3535,3],
 "dc/dcc/classspell__item__ultrasafe__transporter.html#afca09c1e1c5389db67d081d6e033f025":[7,0,3535,2],
-"dc/dcc/structnpc__shattrath__daily__quest.html":[7,0,2172],
-"dc/dcc/structnpc__shattrath__daily__quest.html#ab6aa71e4738fdce1b59d379249a868d5":[7,0,2172,0],
-"dc/dcc/structnpc__shattrath__daily__quest.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c":[7,0,2172,1],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html":[7,0,0,4,0,3],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html":[5,0,0,7,0,3],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[7,0,0,4,0,3,2],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[5,0,0,7,0,3,2],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[5,0,0,7,0,3,0],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[7,0,0,4,0,3,0],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[5,0,0,7,0,3,1],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[7,0,0,4,0,3,1],
-"dc/dcf/classVerasEnvenom.html":[7,0,4675],
-"dc/dcf/classVerasEnvenom.html#a4b7853bb835cf28aefe2d5b955372d70":[7,0,4675,1]
+"dc/dcc/structnpc__shattrath__daily__quest.html":[7,0,2172]
 };

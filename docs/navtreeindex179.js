@@ -1,5 +1,12 @@
 var NAVTREEINDEX179 =
 {
+"d6/d38/classChatHandler.html#a52c15179ec3eff1b6bb9551d96a8b901":[7,0,894,44],
+"d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62":[7,0,894,47],
+"d6/d38/classChatHandler.html#a56773f00c74d5aeb327d188b0015e126":[7,0,894,12],
+"d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa":[7,0,894,28],
+"d6/d38/classChatHandler.html#a67d556d6edb89c54fa4ae4bc9ebff739":[7,0,894,53],
+"d6/d38/classChatHandler.html#a69622145e2598da0ec2964761f03c0dc":[7,0,894,34],
+"d6/d38/classChatHandler.html#a6cfa4cd171866cacb272e996aa75e487":[7,0,894,29],
 "d6/d38/classChatHandler.html#a71d198eb5430bf6205d8081248cd16f0":[7,0,894,33],
 "d6/d38/classChatHandler.html#a7ab2c0deb500bef6654274630815bb75":[7,0,894,0],
 "d6/d38/classChatHandler.html#a7d91e1a37684e5794dd8cec360555ad4":[7,0,894,70],
@@ -242,12 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a54f8a5c7414f4a9fd019e02fede1970d":[7,0,1959,0,2],
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a56faff3edbe0d13969e8d20e6c3e03a2":[7,0,1959,0,3],
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a5947a4415b63f8bbda4d53c44ccebf74":[7,0,1959,0,6],
-"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a737a9016c93d621bf8cfa29d6b66b345":[7,0,1959,0,7],
-"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#adc08551a256220bab144ef26d89c4263":[7,0,1959,0,1],
-"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#afa2a1bcdeef51e9f984307f576a1ff6e":[7,0,1959,0,5],
-"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#afbb4e4c74c2634a442171f06bb2eff08":[7,0,1959,0,8],
-"d6/d3d/classspell__hun__kill__command.html":[7,0,3277],
-"d6/d3d/classspell__hun__kill__command.html#a1fbbba8bdc9f775963a999aa00a5a256":[7,0,3277,0],
-"d6/d3d/classspell__hun__kill__command.html#a481f9d36567607697c3ad5d9501bba48":[7,0,3277,1],
-"d6/d3d/classspell__hun__kill__command.html#afff66ccf4f6596475f4b58c529472f26":[7,0,3277,2]
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a737a9016c93d621bf8cfa29d6b66b345":[7,0,1959,0,7]
 };

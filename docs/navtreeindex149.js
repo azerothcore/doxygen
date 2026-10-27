@@ -1,5 +1,12 @@
 var NAVTREEINDEX149 =
 {
+"d5/d17/structnpc__love__in__air__snivel__real.html#a3bbee1ff355581772b337268775b8fbc":[7,0,1996,4],
+"d5/d17/structnpc__love__in__air__snivel__real.html#a9f5b36d35ced9eb27375ca13fcfbc55d":[7,0,1996,0],
+"d5/d17/structnpc__love__in__air__snivel__real.html#ab1685b1ee34c81c689af3c3466b185f0":[7,0,1996,3],
+"d5/d19/classspell__shockwave__knockback.html":[7,0,4173],
+"d5/d19/classspell__shockwave__knockback.html#a162f60784fdec6b748151e5c2a7ed257":[7,0,4173,3],
+"d5/d19/classspell__shockwave__knockback.html#a1cc140d2b5487e9dbbf107025e09e51d":[7,0,4173,2],
+"d5/d19/classspell__shockwave__knockback.html#a5eee46784bfbeaad3a9af069ca7f69a7":[7,0,4173,0],
 "d5/d19/classspell__shockwave__knockback.html#a734b735c7e87938bff185be91f9de6e8":[7,0,4173,1],
 "d5/d1b/classThreatManager.html":[7,0,4589],
 "d5/d1b/classThreatManager.html#a0280ec607bc65e30a0f8d641d3f3e1d2":[7,0,4589,83],
@@ -242,12 +249,5 @@ var NAVTREEINDEX149 =
 "d5/d23/classScriptRegistry.html#ac67b828a489c483ceaaa745b2dd7ef57":[7,0,2585,13],
 "d5/d23/classScriptRegistry.html#ac9d98df16d3857ca556acda331064063":[7,0,2585,0],
 "d5/d23/classScriptRegistry.html#ad1fcde41ec854314c5e1cc50b916ac5d":[7,0,2585,3],
-"d5/d23/classScriptRegistry.html#aea1f4b1a1e5c0bb83160732833580b1d":[7,0,2585,11],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html":[7,0,3106],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html#a6fc446385881ddb4c94de73199649816":[7,0,3106,0],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html#aaae368b2f647aa6a56827550e50dafe1":[7,0,3106,2],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html#acaed5d5902194f8ba9d2b286cd47d8d0":[7,0,3106,1],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html#ad4c84071b538b657fa1302982f8799b4":[7,0,3106,3],
-"d5/d23/structnpc__fos__corrupted__soul__fragment.html":[7,0,1838],
-"d5/d23/structnpc__fos__corrupted__soul__fragment.html#a1fef6c180e9fc6e8d8d316d45b5066f9":[7,0,1838,0]
+"d5/d23/classScriptRegistry.html#aea1f4b1a1e5c0bb83160732833580b1d":[7,0,2585,11]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX269 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5bab152ed590ff92beb4b2424605e51a":[8,0,0,0,1,2,41,0,0,6,121],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5c0332bede12de9c3d9f85274376a7c1":[8,0,0,0,1,2,41,0,0,6,35],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5c3f71de1a6a2f4ee76468303a123e2b":[8,0,0,0,1,2,41,0,0,6,171],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5d113c39c499d21187268b3f0200371c":[8,0,0,0,1,2,41,0,0,6,143],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5e6639ac0ff61c39893a68ee3e750e5b":[8,0,0,0,1,2,41,0,0,6,68],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5ea9211c39ddc18059dd17b3e675c0ee":[8,0,0,0,1,2,41,0,0,6,301],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5f9221ad5292d1442ce0d4a748c820f3":[8,0,0,0,1,2,41,0,0,6,57],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5fea715473ab185848b45de1ec1b6c63":[8,0,0,0,1,2,41,0,0,6,189],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a600ad2316202aec206facbfa746a136b":[8,0,0,0,1,2,41,0,0,6,18],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a600cd4f45aacef7c9309066ab76e877a":[8,0,0,0,1,2,41,0,0,6,46],
@@ -242,12 +249,5 @@ var NAVTREEINDEX269 =
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aa41bba6ce2889eb2a58409b611f53e49":[7,0,2978,0],
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aa873d0475c70db5c5ba9cea802dc3569":[7,0,2978,6],
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#ae60a5c2918105785805dc45b3942ee4a":[7,0,2978,7],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aebeee23df951737b99e7a4ab026cbb1b":[7,0,2978,4],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#af04b38478379a10c5d94a7e4216ad9fa":[7,0,2978,2],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html":[7,0,1975,0],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a10ecf7bf7551be186e1c00390eaad203":[7,0,1975,0,5],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a36324482fb264cc3cacf11c3ed542eee":[7,0,1975,0,2],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a410c84a1fcf50b50e6ebc340c1b58939":[7,0,1975,0,1],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a456ee6f4b5b8cdd79647a42185265be8":[7,0,1975,0,3],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a621d4db4fac3a7c3d08defa2a8ed06d0":[7,0,1975,0,7]
+"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aebeee23df951737b99e7a4ab026cbb1b":[7,0,2978,4]
 };

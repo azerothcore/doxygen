@@ -1,5 +1,7 @@
 var NAVTREEINDEX50 =
 {
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a3907a8a4c7950b4026b2fec8d3007124":[8,0,0,0,1,3,9,2,217,28],
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a396067ff6653ac52a030e048318c8cf6":[8,0,0,0,1,3,9,2,217,6],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a39afca370763492ab92fac4b7630613a":[8,0,0,0,1,3,9,2,217,24],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a3ff873de1bdf6f5e755a6ae9f44d7823":[8,0,0,0,1,3,9,2,217,23],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a52d3380863feee5dfbaa9ad0f2517263":[8,0,0,0,1,3,9,2,217,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX50 =
 "d1/df4/structadt__MCLQ_1_1liquid__data.html":[7,0,140,0],
 "d1/df4/structadt__MCLQ_1_1liquid__data.html#a53c2edf09fb56334d1c3621d3630de5d":[7,0,140,0,1],
 "d1/df4/structadt__MCLQ_1_1liquid__data.html#a9ee8f132a89d37d9b202c7f49d2c3a49":[7,0,140,0,0],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html":[7,0,1340,0],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a4b63e6062765fc1df53c6a95b366e9f1":[7,0,1340,0,9],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a55e78ac91cf6073192594758e447cb19":[7,0,1340,0,11]
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html":[7,0,1340,0]
 };

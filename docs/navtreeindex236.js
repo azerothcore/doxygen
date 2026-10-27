@@ -1,5 +1,12 @@
 var NAVTREEINDEX236 =
 {
+"d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8ada55f761193c5ce51964480004c8462b":[8,0,0,0,1,3,5,9,2,5,14,4],
+"d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8aeb5ca78fb483332aeeda2901d0f0929f":[8,0,0,0,1,3,5,9,2,5,14,9],
+"d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8aecf72087c7e1bd8acdabb2785154c48f":[8,0,0,0,1,3,5,9,2,5,14,5],
+"d8/d93/boss__general__vezax_8cpp.html#a247f87b67f9639834c1ecd69fb31c186":[8,0,0,0,1,3,5,9,2,5,11],
+"d8/d93/boss__general__vezax_8cpp.html#a5c6fe86ca515a67bca7dfaf2465a4b04":[8,0,0,0,1,3,5,9,2,5,15],
+"d8/d93/boss__general__vezax_8cpp.html#aa78f1b64a28f8f85fb7a88055203b63d":[8,0,0,0,1,3,5,9,2,5,12],
+"d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1":[8,0,0,0,1,3,5,9,2,5,13],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a125b0648552bfc958d34496bef00c8cb":[8,0,0,0,1,3,5,9,2,5,13,14],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a148f3fde9450a6d3880ad03449c03bb8":[8,0,0,0,1,3,5,9,2,5,13,18],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a1d782cbdf316e946f4037a56349d436b":[8,0,0,0,1,3,5,9,2,5,13,7],
@@ -151,8 +158,8 @@ var NAVTREEINDEX236 =
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[7,0,13,3,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[7,0,13,3,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[7,0,13,3,2,0],
 "d8/d9c/classResetEncounterEvent.html":[7,0,2559],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[7,0,2559,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[7,0,2559,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX236 =
 "d8/da3/classCalendarMgr.html#a94b92e93d5cd8a6f27b51c398ef007ed":[7,0,853,23],
 "d8/da3/classCalendarMgr.html#a9c70930cd48cd10110aded2da7cd25bc":[7,0,853,14],
 "d8/da3/classCalendarMgr.html#aa1aa26499b95ec87d2d1fa5c74f87db8":[7,0,853,36],
-"d8/da3/classCalendarMgr.html#aa47ee6cabf2d9a7cee4abbc149f5bc3a":[7,0,853,28],
-"d8/da3/classCalendarMgr.html#aa63d643073c9b44bdcef4e8ead4cb993":[7,0,853,20],
-"d8/da3/classCalendarMgr.html#aaa7a09cc5c03fe7dc023a0e5a780aef7":[7,0,853,15],
-"d8/da3/classCalendarMgr.html#aacdf88030ccec430eef86cd7f748279a":[7,0,853,10],
-"d8/da3/classCalendarMgr.html#ab4e4e54a47eec9bfa2fdf97a22a70ea9":[7,0,853,45],
-"d8/da3/classCalendarMgr.html#ab6328c3650492b9a00871836b6b09669":[7,0,853,43],
-"d8/da3/classCalendarMgr.html#ab959daa9f33c7f54a7bcd302f372470e":[7,0,853,26],
-"d8/da3/classCalendarMgr.html#ac0f16fa5c4fd5230c2322cf58a8d4f5c":[7,0,853,29]
+"d8/da3/classCalendarMgr.html#aa47ee6cabf2d9a7cee4abbc149f5bc3a":[7,0,853,28]
 };

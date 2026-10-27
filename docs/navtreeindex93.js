@@ -1,5 +1,11 @@
 var NAVTREEINDEX93 =
 {
+"d3/d00/classspell__ignis__slag__pot__aura.html#adc6e83abb52a21528c07a1d989818dcf":[7,0,3343,0],
+"d3/d00/classspell__ignis__slag__pot__aura.html#ae88b8bd3e648030df48f6b80cedc4034":[7,0,3343,4],
+"d3/d00/classspell__web__wrap__damage.html":[7,0,4421],
+"d3/d00/classspell__web__wrap__damage.html#a1362103840db4b3c40ef7d6b0aa5226c":[7,0,4421,1],
+"d3/d00/classspell__web__wrap__damage.html#a39b03ebd7f6233f373f52e34f18dad10":[7,0,4421,2],
+"d3/d00/classspell__web__wrap__damage.html#a54cfed486827216817adb740efa6646e":[7,0,4421,3],
 "d3/d00/classspell__web__wrap__damage.html#ae685e9d36b85af8a7e33cefbd439a2f4":[7,0,4421,0],
 "d3/d01/classgo__palehoof__sphere.html":[7,0,1205],
 "d3/d01/classgo__palehoof__sphere.html#a9e31fe7531980a5f75af95e24cbc272d":[7,0,1205,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d09/zone__borean__tundra_8cpp.html#a5c653900d72bf0403ec77511d1086d16a970039cd7ac92e9bbfa7408dbad56afc":[8,0,0,0,1,3,5,15,33,4],
 "d3/d09/zone__borean__tundra_8cpp.html#a5c653900d72bf0403ec77511d1086d16aeeba02a1660ad30f11e74226f7f70352":[8,0,0,0,1,3,5,15,33,2],
 "d3/d09/zone__borean__tundra_8cpp.html#a68e652bcac609e5daa55b039bc1706d5":[8,0,0,0,1,3,5,15,46],
-"d3/d09/zone__borean__tundra_8cpp.html#a68e652bcac609e5daa55b039bc1706d5a4ba5a82b1feec8926df52622a2d8a124":[8,0,0,0,1,3,5,15,46,0],
-"d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[8,0,0,0,1,3,5,15,43],
-"d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0d02e350490e1dd285b5cade43f37588":[8,0,0,0,1,3,5,15,43,0],
-"d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5cabfe2b0c4bbf619124ae41cf241a92d91":[8,0,0,0,1,3,5,15,43,1],
-"d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5cabfef4e3e9d0c3012b4a06a114c82e320":[8,0,0,0,1,3,5,15,43,2],
-"d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5caf5c6cb25eec3d72f292188009227c607":[8,0,0,0,1,3,5,15,43,3],
-"d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178":[8,0,0,0,1,3,5,15,36]
+"d3/d09/zone__borean__tundra_8cpp.html#a68e652bcac609e5daa55b039bc1706d5a4ba5a82b1feec8926df52622a2d8a124":[8,0,0,0,1,3,5,15,46,0]
 };

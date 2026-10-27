@@ -1,5 +1,11 @@
 var NAVTREEINDEX77 =
 {
+"d2/dd1/structMovementInfo.html":[7,0,1587],
+"d2/dd1/structMovementInfo.html#a01585307a3db62a34f7d2e243dd52265":[7,0,1587,8],
+"d2/dd1/structMovementInfo.html#a10c1c9721558fd98d33bb43b3bfff837":[7,0,1587,18],
+"d2/dd1/structMovementInfo.html#a683565ad0865709083e81d07a8ce1395":[7,0,1587,13],
+"d2/dd1/structMovementInfo.html#a6f0c8141058d03f214afbd779a3420ee":[7,0,1587,7],
+"d2/dd1/structMovementInfo.html#a7a9353ff367c80cddeaddd63fcd32ddb":[7,0,1587,5],
 "d2/dd1/structMovementInfo.html#a809340998de55a9ffa895f7b27e1f2c3":[7,0,1587,2],
 "d2/dd1/structMovementInfo.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2":[7,0,1587,23],
 "d2/dd1/structMovementInfo.html#a920a536b873fcc63dd6bb22882a7a8ea":[7,0,1587,19],
@@ -49,8 +55,8 @@ var NAVTREEINDEX77 =
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#a88f9d4e72273f8f835e809b27d5b52d8":[7,0,2132,0,2],
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#ab3c6c27a31f12443efcad314cbfa1129":[7,0,2132,0,5],
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#af3f6ea6094b82e06ce7ef2d4432bd88a":[7,0,2132,0,4],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[7,0,13,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,34,2,8],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[7,0,13,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[7,0,13,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,34,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
@@ -147,10 +153,10 @@ var NAVTREEINDEX77 =
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,0,53],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[7,0,0,41,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,0,53,3],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,0,53,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[7,0,0,41,1],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,0,53,2],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,0,53,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[7,0,0,41,2],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,0,53,2],
 "d2/dd9/SnakeTrapEvadeTest_8cpp.html":[8,0,0,0,2,2,0,2,1],
 "d2/ddb/structPyramidEventData.html":[7,0,2508],
 "d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56":[7,0,2508,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX77 =
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a30d65bc3625ed22e11ed7e040451643c":[7,0,2100,0,9],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a5d7a324073cfdbd01ae267964959f15b":[7,0,2100,0,2],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a849b06a045de5529706e83b03febe135":[7,0,2100,0,6],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#aad000cc1310f22325a29131fad169cbc":[7,0,2100,0,1],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ad84905d1385bce0e431c2baf1158a343":[7,0,2100,0,3],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ade1c91217b6c6e33bfca60a69a51bbc0":[7,0,2100,0,8],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ae03f3fef42fcbcecedaf38692d1e9131":[7,0,2100,0,0],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ae095fa3ceb484cc289a086be8c2f2552":[7,0,2100,0,4],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce":[7,0,2100,0,11],
-"d2/de0/CharacterCache_8h.html":[8,0,0,0,1,2,9,1]
+"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#aad000cc1310f22325a29131fad169cbc":[7,0,2100,0,1]
 };

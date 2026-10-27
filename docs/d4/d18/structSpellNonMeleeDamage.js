@@ -11,6 +11,7 @@ var structSpellNonMeleeDamage =
     [ "physicalLog", "d4/d18/structSpellNonMeleeDamage.html#a34318f4d92685c855972e6fd22089e03", null ],
     [ "resist", "d4/d18/structSpellNonMeleeDamage.html#ade20f4aab4a1945ccd6754cd71101fe2", null ],
     [ "schoolMask", "d4/d18/structSpellNonMeleeDamage.html#a52f5ae6091fe547ed7e282d52c626361", null ],
+    [ "skipCombat", "d4/d18/structSpellNonMeleeDamage.html#a88ecac9e1f6cf9661014798ef9dfdb8a", null ],
     [ "spellInfo", "d4/d18/structSpellNonMeleeDamage.html#a9e37c164672dbcc81dd43bee9ec988cb", null ],
     [ "target", "d4/d18/structSpellNonMeleeDamage.html#a324ea6c84e005487560de986dceffeba", null ],
     [ "unused", "d4/d18/structSpellNonMeleeDamage.html#ae991311d8290996e1c0c49f33c29c6b3", null ]

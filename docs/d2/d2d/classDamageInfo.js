@@ -23,6 +23,7 @@ var classDamageInfo =
     [ "GetVictim", "d2/d2d/classDamageInfo.html#a33a6f0e46fe0098a3b67dc5ea43733b5", null ],
     [ "ModifyDamage", "d2/d2d/classDamageInfo.html#a2a68533422f69965d383fdb716387237", null ],
     [ "ResistDamage", "d2/d2d/classDamageInfo.html#a02e857277fbc00370143180b4fb3daac", null ],
+    [ "SkipsCombat", "d2/d2d/classDamageInfo.html#a352a9f3b4f89abd9290776f4888303ce", null ],
     [ "m_absorb", "d2/d2d/classDamageInfo.html#a90be517686a8d78e0c585e1535e39567", null ],
     [ "m_attacker", "d2/d2d/classDamageInfo.html#a1c199612aaff8c5b1b831cb2c681340d", null ],
     [ "m_attackType", "d2/d2d/classDamageInfo.html#a31a2baa1c0e0f9bea6000375a5bbec48", null ],
@@ -33,6 +34,7 @@ var classDamageInfo =
     [ "m_hitMask", "d2/d2d/classDamageInfo.html#aaf007fcfad971a31ad76d293a298575b", null ],
     [ "m_resist", "d2/d2d/classDamageInfo.html#a1289951cae687d55bab2f12a8b37d8c3", null ],
     [ "m_schoolMask", "d2/d2d/classDamageInfo.html#acda50525cdc0689191b74741331b6069", null ],
+    [ "m_skipCombat", "d2/d2d/classDamageInfo.html#a6c9ab76b355dfae4cee8be8405c7713c", null ],
     [ "m_spellInfo", "d2/d2d/classDamageInfo.html#a5a8ec67f5c136d0ae8822a6fa7766187", null ],
     [ "m_victim", "d2/d2d/classDamageInfo.html#ae54a74b71d6ef3f9452b20d2e4aec4dc", null ]
 ];

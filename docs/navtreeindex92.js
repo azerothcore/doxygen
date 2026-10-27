@@ -1,5 +1,11 @@
 var NAVTREEINDEX92 =
 {
+"d2/df6/DBCStores_8h.html#a67c1970c378a0fdf0489c1d376d7c388":[8,0,0,0,1,2,14,1,20],
+"d2/df6/DBCStores_8h.html#a6cb5491afe8e67e3d74615a8e7d9d736":[8,0,0,0,1,2,14,1,136],
+"d2/df6/DBCStores_8h.html#a6cc1bb46e69ee6dfbfbc4d71f8ba3004":[8,0,0,0,1,2,14,1,101],
+"d2/df6/DBCStores_8h.html#a70a19d9511735cce2e1200aa9d695137":[8,0,0,0,1,2,14,1,16],
+"d2/df6/DBCStores_8h.html#a72e25473312c4b93a7450c7a5232cb6e":[8,0,0,0,1,2,14,1,142],
+"d2/df6/DBCStores_8h.html#a7310e7ca73ddb97a809bce03e33cc38d":[8,0,0,0,1,2,14,1,2],
 "d2/df6/DBCStores_8h.html#a73d34d857e5e1ebc289eda1dc36e4d7e":[8,0,0,0,1,2,14,1,8],
 "d2/df6/DBCStores_8h.html#a746c7ed00a3edd41ef9441b2e48f843c":[8,0,0,0,1,2,14,1,104],
 "d2/df6/DBCStores_8h.html#a75f21934939cf3418142a038e06aeddd":[8,0,0,0,1,2,14,1,56],
@@ -243,11 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d00/classspell__ignis__slag__pot__aura.html":[7,0,3343],
 "d3/d00/classspell__ignis__slag__pot__aura.html#a2b18c5db95842a6f8959bf9affd357b7":[7,0,3343,3],
 "d3/d00/classspell__ignis__slag__pot__aura.html#a903e65cc8041f9bd289bb5c6f156fa22":[7,0,3343,1],
-"d3/d00/classspell__ignis__slag__pot__aura.html#aa85f79f5337edca68b3cb87073eff0d4":[7,0,3343,2],
-"d3/d00/classspell__ignis__slag__pot__aura.html#adc6e83abb52a21528c07a1d989818dcf":[7,0,3343,0],
-"d3/d00/classspell__ignis__slag__pot__aura.html#ae88b8bd3e648030df48f6b80cedc4034":[7,0,3343,4],
-"d3/d00/classspell__web__wrap__damage.html":[7,0,4421],
-"d3/d00/classspell__web__wrap__damage.html#a1362103840db4b3c40ef7d6b0aa5226c":[7,0,4421,1],
-"d3/d00/classspell__web__wrap__damage.html#a39b03ebd7f6233f373f52e34f18dad10":[7,0,4421,2],
-"d3/d00/classspell__web__wrap__damage.html#a54cfed486827216817adb740efa6646e":[7,0,4421,3]
+"d3/d00/classspell__ignis__slag__pot__aura.html#aa85f79f5337edca68b3cb87073eff0d4":[7,0,3343,2]
 };

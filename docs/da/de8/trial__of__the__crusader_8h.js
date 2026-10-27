@@ -256,6 +256,8 @@ var trial__of__the__crusader_8h =
       [ "NPC_HORDE_SHAMAN_RESTORATION", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca1db9321cbe494fdd51f3a21e4cd9ada5", null ],
       [ "NPC_HORDE_WARLOCK", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca441fe51c18a9a8c66a9153f8234438d5", null ],
       [ "NPC_HORDE_WARRIOR", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca93de42a7430d18eca40594ccb88ac329", null ],
+      [ "NPC_ZHAAGRYM", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cac96c0f0a92b5d6ea06df9971da916322", null ],
+      [ "NPC_CAT", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2d74487213c384ec1db2d79c559e5813", null ],
       [ "NPC_LIGHTBANE", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca1ba7cac32432f79d0aa3b58931d3167b", null ],
       [ "NPC_DARKBANE", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca7c95ee4d952bb44df867c9f65cc7aa14", null ],
       [ "NPC_ANUBARAK", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca9ccdc8bccffd48df50721fc98c1b6bc3", null ]

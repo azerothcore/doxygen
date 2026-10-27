@@ -1,5 +1,17 @@
 var NAVTREEINDEX347 =
 {
+"dd/d27/structSmartAction.html#a3a9b33685d26bf9ba39469d411989851":[7,0,2625,59],
+"dd/d27/structSmartAction.html#a3bcbaf44bfb40f48f3a202765e41871e":[7,0,2625,191],
+"dd/d27/structSmartAction.html#a3c1ab76a3dc81fec21f28327dcf674ff":[7,0,2625,126],
+"dd/d27/structSmartAction.html#a3cace81063f401104ffbe3a120ff126b":[7,0,2625,301],
+"dd/d27/structSmartAction.html#a3e5b7fd7611d92071448e7355cbeba7c":[7,0,2625,304],
+"dd/d27/structSmartAction.html#a3e71e2a234985c7056b009edfeddc343":[7,0,2625,243],
+"dd/d27/structSmartAction.html#a3f42f2d1b59b3167632e17bad1f49db1":[7,0,2625,261],
+"dd/d27/structSmartAction.html#a3fb37b223722eb1a63edfbd8140b3804":[7,0,2625,52],
+"dd/d27/structSmartAction.html#a40c869c4a1d943b43048a232a9a97d32":[7,0,2625,0],
+"dd/d27/structSmartAction.html#a410d2acd26fa3235938826d95ae8d4fb":[7,0,2625,209],
+"dd/d27/structSmartAction.html#a4266b65cda766e539c175613f9da86e3":[7,0,2625,222],
+"dd/d27/structSmartAction.html#a42d460c85387880967b92e11db1ddd1e":[7,0,2625,179],
 "dd/d27/structSmartAction.html#a4302e4c906faed45367b648225960cc5":[7,0,2625,217],
 "dd/d27/structSmartAction.html#a435c6226fea0340c9cb99c28edb071d1":[7,0,2625,286],
 "dd/d27/structSmartAction.html#a43ba7be86e67031ad4ba2fae1c46a051":[7,0,2625,113],
@@ -237,17 +249,5 @@ var NAVTREEINDEX347 =
 "dd/d28/structDarkFallenAI.html":[7,0,983],
 "dd/d28/structDarkFallenAI.html#a0be0c32a52d954700c0677d111b82694":[7,0,983,0],
 "dd/d28/structDarkFallenAI.html#a21705f88c5a6e25709b6f0db049379bd":[7,0,983,4],
-"dd/d28/structDarkFallenAI.html#a365a5d5aa68ce35963e180f36b23ffe9":[7,0,983,2],
-"dd/d28/structDarkFallenAI.html#a3c91e48243ed3f35ba2951ed6e63b116":[7,0,983,11],
-"dd/d28/structDarkFallenAI.html#a3f5eedc3dc2acc99022986d60884db2f":[7,0,983,8],
-"dd/d28/structDarkFallenAI.html#a458d3c30754219de8a4a0e9acd661d11":[7,0,983,10],
-"dd/d28/structDarkFallenAI.html#a4cb8e0efdc9e5b96fd6a43f3488cf41e":[7,0,983,7],
-"dd/d28/structDarkFallenAI.html#a59df972ab6f5a00df0217a984f5904de":[7,0,983,3],
-"dd/d28/structDarkFallenAI.html#a5c1ba5dde31aa4d1f2f1e5fc45eb4b48":[7,0,983,1],
-"dd/d28/structDarkFallenAI.html#a7ac28f3199786f5e75f11f19c8353cbc":[7,0,983,12],
-"dd/d28/structDarkFallenAI.html#a9bca7b1181e8227009d6b6403cc319e5":[7,0,983,9],
-"dd/d28/structDarkFallenAI.html#acaf883142e1620a84f8bf29801dd860c":[7,0,983,5],
-"dd/d28/structDarkFallenAI.html#adafce856498f47b13a8ed9438b2a00c7":[7,0,983,6],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html":[7,0,3546],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a23b6afe1e35edc4013767b119b8e0218":[7,0,3546,1]
+"dd/d28/structDarkFallenAI.html#a365a5d5aa68ce35963e180f36b23ffe9":[7,0,983,2]
 };

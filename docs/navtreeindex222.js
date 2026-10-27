@@ -1,5 +1,12 @@
 var NAVTREEINDEX222 =
 {
+"d7/df1/UnitDefines_8h.html#a5fedcde6dc0e372427419d4471d6b773a35857aab2b9db67c9f59bef0da8040f3":[8,0,0,0,1,2,16,10,6,10,1],
+"d7/df1/UnitDefines_8h.html#a5fedcde6dc0e372427419d4471d6b773a64a14953a426339c3864d5f4356f6829":[8,0,0,0,1,2,16,10,6,10,4],
+"d7/df1/UnitDefines_8h.html#a5fedcde6dc0e372427419d4471d6b773ab836e676dc0c1d0375649b49b417961e":[8,0,0,0,1,2,16,10,6,10,3],
+"d7/df1/UnitDefines_8h.html#a7a47517140439714c5cf548d456720e7":[8,0,0,0,1,2,16,10,6,0],
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1":[8,0,0,0,1,2,16,10,6,19],
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a05e8449eb681731f65fe60937dfc7f8f":[8,0,0,0,1,2,16,10,6,19,3],
+"d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a12c50220041ceecc2aa5e9a33c9f7305":[8,0,0,0,1,2,16,10,6,19,6],
 "d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a22df419e604d852f4931359cab14ab0b":[8,0,0,0,1,2,16,10,6,19,9],
 "d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a3f7e87267b36315b72f5de8594e5dcc9":[8,0,0,0,1,2,16,10,6,19,5],
 "d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1a5f69ecdd2ac916f689d75e1aa3b3a24d":[8,0,0,0,1,2,16,10,6,19,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX222 =
 "d7/df5/classspell__dru__t10__restoration__4p__bonus__dummy.html#a3bd510824be1f2ab6864036224dceed9":[7,0,2949,2],
 "d7/df5/classspell__dru__t10__restoration__4p__bonus__dummy.html#a43272dc56e174c36c258086685f41fbc":[7,0,2949,1],
 "d7/df5/classspell__dru__t10__restoration__4p__bonus__dummy.html#a5f35a7963129eb22708c9e102550de82":[7,0,2949,4],
-"d7/df5/classspell__dru__t10__restoration__4p__bonus__dummy.html#afb2da9368612d8baa7dddcd8232b61c3":[7,0,2949,0],
-"d7/df6/structnpc__grimstone.html":[7,0,1872],
-"d7/df6/structnpc__grimstone.html#a03d41532eb767f0e09982ede11f0fb80":[7,0,1872,0],
-"d7/df6/structnpc__grimstone.html#a0a55b772ca85554507ed36ba620c14c4":[7,0,1872,6],
-"d7/df6/structnpc__grimstone.html#a0cb794b7343a42cc55c1be563acd4e52":[7,0,1872,12],
-"d7/df6/structnpc__grimstone.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1872,10],
-"d7/df6/structnpc__grimstone.html#a119ff38285b880d33266a7340ff1fe53":[7,0,1872,14],
-"d7/df6/structnpc__grimstone.html#a145a7bbecf4e061f44355948367f33bc":[7,0,1872,11]
+"d7/df5/classspell__dru__t10__restoration__4p__bonus__dummy.html#afb2da9368612d8baa7dddcd8232b61c3":[7,0,2949,0]
 };

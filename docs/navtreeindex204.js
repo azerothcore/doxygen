@@ -1,10 +1,17 @@
 var NAVTREEINDEX204 =
 {
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[7,0,13,8,5,4],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,34,8,5,4],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[7,0,13,8,5,0],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,34,8,5,0],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[7,0,13,8,5,6],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[5,0,34,8,5,6],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[7,0,13,8,5,2],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[5,0,34,8,5,2],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[5,0,34,8,5,3],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[7,0,13,8,5,3],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#ac65b0fc2609531c8657c4d83cf50dbfe":[7,0,13,8,5,7],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#ac65b0fc2609531c8657c4d83cf50dbfe":[5,0,34,8,5,7],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#ac65b0fc2609531c8657c4d83cf50dbfe":[7,0,13,8,5,7],
 "d7/d52/classSpellEvent.html":[7,0,4491],
 "d7/d52/classSpellEvent.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e":[7,0,4491,1],
 "d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921":[7,0,4491,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX204 =
 "d7/d60/structboss__keristrasza.html#a900a4a8428a04b880462b20196e94858":[7,0,587,1],
 "d7/d60/structboss__keristrasza.html#a97b6fe26a5bbc4a7c528939e82cd0ca5":[7,0,587,6],
 "d7/d60/structboss__keristrasza.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba":[7,0,587,2],
-"d7/d60/structboss__keristrasza.html#aa4c06ad8d599192c2f4ecb52f92e3a31":[7,0,587,10],
-"d7/d60/structboss__keristrasza.html#ac32f3e8f568535d4d197d383f9e51c5f":[7,0,587,8],
-"d7/d60/structnpc__pummeller.html":[7,0,2118],
-"d7/d60/structnpc__pummeller.html#a0c67bf3781fde8d4580aad093bf87291":[7,0,2118,0],
-"d7/d60/structnpc__pummeller.html#a12df7fb27b7bd54d0bf60c3e5faee037":[7,0,2118,3],
-"d7/d60/structnpc__pummeller.html#a9d61c35dc7f86314c6beb581539fd55d":[7,0,2118,2],
-"d7/d60/structnpc__pummeller.html#abc1ba4d0e95d33fe42af1014c2e8448f":[7,0,2118,4],
-"d7/d60/structnpc__pummeller.html#abdb3f0984c03780aee9dd55496fc7835":[7,0,2118,1]
+"d7/d60/structboss__keristrasza.html#aa4c06ad8d599192c2f4ecb52f92e3a31":[7,0,587,10]
 };

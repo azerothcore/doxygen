@@ -1,5 +1,12 @@
 var NAVTREEINDEX246 =
 {
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,34,10,4,1],
+"d9/d13/classspell__anubisath__mortal__strike.html":[7,0,2670],
+"d9/d13/classspell__anubisath__mortal__strike.html#a3c5a192302ec6d531037f8b5da1565f2":[7,0,2670,2],
+"d9/d13/classspell__anubisath__mortal__strike.html#a5945e24db52c6bacae7221b085dc877b":[7,0,2670,0],
+"d9/d13/classspell__anubisath__mortal__strike.html#acc987aa864a8333de7bd0b770eb9018d":[7,0,2670,1],
+"d9/d13/classspell__pri__renew.html":[7,0,3868],
+"d9/d13/classspell__pri__renew.html#a50102ae92f44fd7c2bd9afc3fec5a291":[7,0,3868,0],
 "d9/d13/classspell__pri__renew.html#a6e212284f72320356cfa2f0c2a59999d":[7,0,3868,2],
 "d9/d13/classspell__pri__renew.html#a985a52f71371443454d6dd36f7fe83b2":[7,0,3868,4],
 "d9/d13/classspell__pri__renew.html#ab6ba9d68b968ae41ee9c9869df686f02":[7,0,3868,1],
@@ -234,20 +241,13 @@ var NAVTREEINDEX246 =
 "d9/d28/structAreaPOIEntry.html#ad34c7f65fc077b39b6b71a1ff1a89cf5":[7,0,169,0],
 "d9/d28/structAreaPOIEntry.html#af9f4cd8b29daededd3d2b2f0cc53d213":[7,0,169,1],
 "d9/d28/structAreaPOIEntry.html#afcb7cc22d0ed260793b31f8893d13a0f":[7,0,169,5],
-"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[5,0,34,14,15],
+"d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html":[7,0,13,14,15],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[7,0,13,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a1e6d102e4063facad1230b55d4048702":[5,0,34,14,15,0],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[7,0,13,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#a2ec714ac25e784446e8a614587bd79b3":[5,0,34,14,15,1],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[7,0,13,14,15,2],
 "d9/d29/classWorldPackets_1_1Quest_1_1QuestUpdateComplete.html#ac44a95d88d2970ee3e8bf0a8c57d578d":[5,0,34,14,15,2],
-"d9/d29/classspell__item__goblin__bomb.html":[7,0,3435],
-"d9/d29/classspell__item__goblin__bomb.html#a0877a96dde66adb988628ebb93fe15b6":[7,0,3435,2],
-"d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[7,0,3435,1],
-"d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[7,0,3435,0],
-"d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[7,0,3435,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[7,0,13,15,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,15,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,15,2,0]
+"d9/d29/classspell__item__goblin__bomb.html":[7,0,3435]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX201 =
 {
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[7,0,13,12,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,34,12,3,2],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[7,0,13,12,3,2],
+"d7/d33/classnpc__ravenous__worg.html":[7,0,2134],
+"d7/d33/classnpc__ravenous__worg.html#ac966ae31d3a86c9435b14d9f50a5f4cb":[7,0,2134,2],
+"d7/d33/classnpc__ravenous__worg.html#ad7f8da1c82072367fe4a537620df9ac0":[7,0,2134,1],
+"d7/d34/AddonMgr_8h.html":[8,0,0,0,1,2,2,1],
 "d7/d34/AddonMgr_8h.html#a084249e215f787f3163d5d06ad2d256f":[8,0,0,0,1,2,2,1,3],
 "d7/d34/AddonMgr_8h.html#a2ea3deb6be3c64b7b58ed27ccf60c779":[8,0,0,0,1,2,2,1,4],
 "d7/d34/AddonMgr_8h.html#a6edf9a462d4afcaff40e69da1e75cca5":[8,0,0,0,1,2,2,1,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX201 =
 "d7/d3f/structboss__magmadar.html#af846ccbb6fa4a63b7ea04474deeb7db5":[7,0,618,1],
 "d7/d40/classspell__warl__create__healthstone.html":[7,0,4343],
 "d7/d40/classspell__warl__create__healthstone.html#a00c67b65bcfdeaf56295da6a64689d58":[7,0,4343,4],
-"d7/d40/classspell__warl__create__healthstone.html#a10e9691aa15869c82fba79072a314d7e":[7,0,4343,1],
-"d7/d40/classspell__warl__create__healthstone.html#a441927e0d8d7304030440c19458eb34d":[7,0,4343,0],
-"d7/d40/classspell__warl__create__healthstone.html#a90b8ae945aeb85ad6e8a120501288979":[7,0,4343,2],
-"d7/d40/classspell__warl__create__healthstone.html#aac95bd6f7409e1ae9d3f9cf0c7212990":[7,0,4343,3],
-"d7/d40/classspell__warl__create__healthstone.html#ae852b9df34612c074eab23b025c86870":[7,0,4343,5],
-"d7/d40/forge__of__souls_8h.html":[8,0,0,0,1,3,5,4,0,3],
-"d7/d40/forge__of__souls_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,4,0,3,1],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08":[8,0,0,0,1,3,5,4,0,3,5]
+"d7/d40/classspell__warl__create__healthstone.html#a10e9691aa15869c82fba79072a314d7e":[7,0,4343,1]
 };

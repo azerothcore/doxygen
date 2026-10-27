@@ -1,5 +1,15 @@
 var NAVTREEINDEX308 =
 {
+"db/dab/GridTerrainData_8h.html#ac0e95b704f5fbe7f2c5a728ab9ced4be":[8,0,0,0,1,2,19,9,24],
+"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624c":[8,0,0,0,1,2,19,9,35],
+"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca180818c6d53193ec0e26551c5eab121d":[8,0,0,0,1,2,19,9,35,3],
+"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca38c300f4fc9ce8a77aad4a30de05cad8":[8,0,0,0,1,2,19,9,35,1],
+"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca4042a3edb61fea753b1db70d894ac4eb":[8,0,0,0,1,2,19,9,35,6],
+"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca505a83f220c02df2f85c3810cd9ceb38":[8,0,0,0,1,2,19,9,35,0],
+"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca54788e1cdd051e56eea54771f3bf62d9":[8,0,0,0,1,2,19,9,35,5],
+"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca5e70882e3225a2c0cc991ee32af97a98":[8,0,0,0,1,2,19,9,35,7],
+"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624cac596ede97e877d22556117b5bdd4633a":[8,0,0,0,1,2,19,9,35,4],
+"db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624cadf9be6f7af7c3f7196c5c3e731de0a87":[8,0,0,0,1,2,19,9,35,2],
 "db/dab/GridTerrainData_8h.html#aefa74fa33f3eba2d39b407c2fd2e8aba":[8,0,0,0,1,2,19,9,17],
 "db/dab/GridTerrainData_8h.html#af2485144ba91e4d6202d195faaa192d3":[8,0,0,0,1,2,19,9,39],
 "db/dab/GridTerrainData_8h.html#af3921b43482dff8fc8b81784265e52f4":[8,0,0,0,1,2,19,9,34],
@@ -239,15 +249,5 @@ var NAVTREEINDEX308 =
 "db/dae/npcs__special_8cpp.html#af73994a8a9c9864b72a4afe05d232f9c":[8,0,0,0,1,3,10,14,70],
 "db/dae/npcs__special_8cpp.html#af73994a8a9c9864b72a4afe05d232f9ca731f1c8fa206bd1f031344f9604eee1e":[8,0,0,0,1,3,10,14,70,0],
 "db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83":[8,0,0,0,1,3,10,14,58],
-"db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83a5bbc3f7d0cd7c8781b29c9f6882a54ab":[8,0,0,0,1,3,10,14,58,0],
-"db/daf/structboss__eramas__brightblaze.html":[7,0,463],
-"db/daf/structboss__eramas__brightblaze.html#a14d1528750036f27948f5de8a2b44bd3":[7,0,463,0],
-"db/daf/structboss__eramas__brightblaze.html#ad34613d2795f7371a43891488044392a":[7,0,463,1],
-"db/db0/classBinarySpellDetectionTest.html":[7,0,377],
-"db/db0/classBinarySpellDetectionTest.html#ad6602a4579ff5c20d4a8a4a0bec0a155":[7,0,377,0],
-"db/db0/classspell__item__brewfest__hops.html":[7,0,3386],
-"db/db0/classspell__item__brewfest__hops.html#a2836863ea4bafc73f2adbb9176cbec60":[7,0,3386,6],
-"db/db0/classspell__item__brewfest__hops.html#a349827fe659ff3bee0a5dfc677c04825":[7,0,3386,1],
-"db/db0/classspell__item__brewfest__hops.html#a6ec300503503fa6f12a48a8494d41edd":[7,0,3386,0],
-"db/db0/classspell__item__brewfest__hops.html#a8c12c4ae3835322602347b654d96a8b7":[7,0,3386,2]
+"db/dae/npcs__special_8cpp.html#afee96b04979b126cbf48d283c21a1d83a5bbc3f7d0cd7c8781b29c9f6882a54ab":[8,0,0,0,1,3,10,14,58,0]
 };

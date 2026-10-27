@@ -402,12 +402,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  526</span>        }</div>
 <div class="line"><span class="lineno">  527</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1192</div></div>
-<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:670</div></div>
-<div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1372</div></div>
-<div class="ttc" id="aclassUnit_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition</b> Unit.h:1117</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:674</div></div>
+<div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1379</div></div>
+<div class="ttc" id="aclassUnit_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition</b> Unit.h:1121</div></div>
 <div class="ttc" id="aclassspell__item__with__mount__speed_html_afe306ed6057050baf342ee717723764d"><div class="ttname"><a href="../../de/da6/classspell__item__with__mount__speed.html#afe306ed6057050baf342ee717723764d">spell_item_with_mount_speed::getMountSpellId</a></div><div class="ttdeci">uint32 getMountSpellId()</div><div class="ttdef"><b>Definition</b> spell_item.cpp:502</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01372">Unit::CastSpell()</a>, <a class="el" href="../../#l01117">Unit::GetLevel()</a>, <a class="el" href="../../#l00502">getMountSpellId()</a>, and <a class="el" href="../../#l01192">AuraScript::GetTarget()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01379">Unit::CastSpell()</a>, <a class="el" href="../../#l01121">Unit::GetLevel()</a>, <a class="el" href="../../#l00502">getMountSpellId()</a>, and <a class="el" href="../../#l01192">AuraScript::GetTarget()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00538">Register()</a>.</p>
 
@@ -453,9 +453,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  534</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(spellId);</div>
 <div class="line"><span class="lineno">  535</span>        }</div>
 <div class="line"><span class="lineno">  536</span>    }</div>
-<div class="ttc" id="aclassUnit_html_aac612f06e84142d92dcfc432b5feb4ac"><div class="ttname"><a href="../../df/dd9/classUnit.html#aac612f06e84142d92dcfc432b5feb4ac">Unit::RemoveAurasDueToSpell</a></div><div class="ttdeci">void RemoveAurasDueToSpell(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, uint8 reqEffMask=0, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4959</div></div>
+<div class="ttc" id="aclassUnit_html_aac612f06e84142d92dcfc432b5feb4ac"><div class="ttname"><a href="../../df/dd9/classUnit.html#aac612f06e84142d92dcfc432b5feb4ac">Unit::RemoveAurasDueToSpell</a></div><div class="ttdeci">void RemoveAurasDueToSpell(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, uint8 reqEffMask=0, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4970</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00502">getMountSpellId()</a>, <a class="el" href="../../#l01192">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l04959">Unit::RemoveAurasDueToSpell()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00502">getMountSpellId()</a>, <a class="el" href="../../#l01192">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l04970">Unit::RemoveAurasDueToSpell()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00538">Register()</a>.</p>
 
@@ -563,9 +563,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  498</span>        }</div>
 <div class="line"><span class="lineno">  499</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  500</span>    }</div>
-<div class="ttc" id="aSpellMgr_8h_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition</b> SpellMgr.h:847</div></div>
+<div class="ttc" id="aSpellMgr_8h_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition</b> SpellMgr.h:851</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00482">SPELL_MITHRIL_SPURS</a>, <a class="el" href="../../#l00483">SPELL_MOUNT_SPEED_CARROT</a>, <a class="el" href="../../#l00484">SPELL_MOUNT_SPEED_RIDING</a>, and <a class="el" href="../../#l00847">sSpellMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00482">SPELL_MITHRIL_SPURS</a>, <a class="el" href="../../#l00483">SPELL_MOUNT_SPEED_CARROT</a>, <a class="el" href="../../#l00484">SPELL_MOUNT_SPEED_RIDING</a>, and <a class="el" href="../../#l00851">sSpellMgr</a>.</p>
 
 </div>
 </div>
@@ -578,7 +578,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/da6/classspell__item__with__mount__speed.html">spell_item_with_mount_speed</a></li>
-    <li class="footer">Generated on Mon Oct 26 2026 12:09:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Oct 27 2026 11:29:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

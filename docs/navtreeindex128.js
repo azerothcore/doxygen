@@ -1,5 +1,12 @@
 var NAVTREEINDEX128 =
 {
+"d4/d37/structnpc__general__andorov.html":[7,0,1860],
+"d4/d37/structnpc__general__andorov.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1860,11],
+"d4/d37/structnpc__general__andorov.html#a230803b7f29829118d105ec768941ffa":[7,0,1860,7],
+"d4/d37/structnpc__general__andorov.html#a38dd94fea45cf2c1821cb01e3d3e70d8":[7,0,1860,12],
+"d4/d37/structnpc__general__andorov.html#a38eadfe7e465c276f7496c5b51f60d03":[7,0,1860,8],
+"d4/d37/structnpc__general__andorov.html#a3add3fa13ffae3cd688eaf564c3f835d":[7,0,1860,5],
+"d4/d37/structnpc__general__andorov.html#a6897bb1ed63743ce8b225786d63910df":[7,0,1860,15],
 "d4/d37/structnpc__general__andorov.html#a701221e8fd8830a3586d9791fd8eca56":[7,0,1860,2],
 "d4/d37/structnpc__general__andorov.html#a728b73ed109ee6b2b45eb3f1415b4744":[7,0,1860,6],
 "d4/d37/structnpc__general__andorov.html#a9f1261cde233466b814b53be03406370":[7,0,1860,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX128 =
 "d4/d3e/classBattlegroundSA.html#a7b5aaf717ffc9735d0a5ea4defed46ce":[7,0,353,2],
 "d4/d3e/classBattlegroundSA.html#a7c2aa11d70a2e37942993e58afa525f9":[7,0,353,9],
 "d4/d3e/classBattlegroundSA.html#a805974e647577e8259f4f16a99e84ad0":[7,0,353,35],
-"d4/d3e/classBattlegroundSA.html#a9a00081f5b12039616140e2e019d370e":[7,0,353,44],
-"d4/d3e/classBattlegroundSA.html#aa4b2d9768d48926766c29a99e6efa303":[7,0,353,28],
-"d4/d3e/classBattlegroundSA.html#ab1aea69f1656f11d85dde0540a4a0aba":[7,0,353,48],
-"d4/d3e/classBattlegroundSA.html#ab1c4cb091a3be52084a1519660272de5":[7,0,353,46],
-"d4/d3e/classBattlegroundSA.html#ab7919ab5a05a6b463a1bd99eebcd5889":[7,0,353,24],
-"d4/d3e/classBattlegroundSA.html#ab86d8f8756c28623c3533bbb0e9c6222":[7,0,353,42],
-"d4/d3e/classBattlegroundSA.html#ab88a1d9f53a7f7037f5d273340b271e4":[7,0,353,43],
-"d4/d3e/classBattlegroundSA.html#aca0440f81eab500e1a1a0c916ba58cd2":[7,0,353,11]
+"d4/d3e/classBattlegroundSA.html#a9a00081f5b12039616140e2e019d370e":[7,0,353,44]
 };
