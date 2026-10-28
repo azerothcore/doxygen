@@ -1,7 +1,7 @@
 var searchData=
 [
   ['lambdabasicevent_0',['LambdaBasicEvent',['../df/daa/classLambdaBasicEvent.html#a4244b5e91413d71076d9cc3af230aed8',1,'LambdaBasicEvent']]],
-  ['land_1',['Land',['../d5/d05/classspell__svalna__revive__champion.html#ad2fd3d7c81e3ef22cb3767914f649fd0',1,'spell_svalna_revive_champion']]],
+  ['land_1',['land',['../d5/d05/classspell__svalna__revive__champion.html#ad2fd3d7c81e3ef22cb3767914f649fd0',1,'spell_svalna_revive_champion::Land()'],['../d5/dc9/structnpc__plague__cauldron__ghoul.html#aceae56263f0fa2f1831971f473966b2f',1,'npc_plague_cauldron_ghoul::Land()']]],
   ['lapseaction_2',['LapseAction',['../d2/d14/structboss__felblood__kaelthas.html#ae1ac5b5da2a548f5b1dc1bdffb303b25',1,'boss_felblood_kaelthas']]],
   ['lapseteleport_3',['lapseTeleport',['../dd/d60/classlapseTeleport.html#a55c4330397214bf3a43628b3067d4634',1,'lapseTeleport']]],
   ['last_4',['last',['../d4/d2d/classMovement_1_1SplineBase.html#ac9b6a775702923a14230b1818843be7e',1,'Movement::SplineBase']]],
@@ -32,7 +32,7 @@ var searchData=
   ['leaveseedpod_29',['LeaveSeedPod',['../df/dda/structnpc__crystalline__frayer.html#afe6ba31b18fa65aaa15daad3101149c2',1,'npc_crystalline_frayer']]],
   ['leechingthrowselector_30',['LeechingThrowSelector',['../d1/d8b/structLeechingThrowSelector.html#a4308c7be06e2e70d3a269b6dc78420cb',1,'LeechingThrowSelector']]],
   ['leftchannel_31',['LeftChannel',['../d2/d4b/classPlayer.html#ada4755c98d9d110eab9116f30f4f6b05',1,'Player']]],
-  ['length_32',['length',['../d9/d3a/classVec2D.html#a3a5d427abf67511628766f215542a691',1,'Vec2D::length()'],['../d5/dc1/classVec3D.html#aa99cf98be42720cb2e6eda8321d0585d',1,'Vec3D::length()'],['../d4/d90/classMovement_1_1Spline.html#a73b3a47713e07a5d07959a2eb17be87e',1,'Movement::Spline::length(index_type Idx) const'],['../d4/d90/classMovement_1_1Spline.html#aab929569bba2417387acd22f0634504d',1,'Movement::Spline::length() const'],['../d4/d90/classMovement_1_1Spline.html#a6791d5411365109dffcc699170f03291',1,'Movement::Spline::length(index_type first, index_type last) const']]],
+  ['length_32',['length',['../d9/d3a/classVec2D.html#a3a5d427abf67511628766f215542a691',1,'Vec2D::length()'],['../d4/d90/classMovement_1_1Spline.html#a6791d5411365109dffcc699170f03291',1,'Movement::Spline::length()'],['../d5/dc1/classVec3D.html#aa99cf98be42720cb2e6eda8321d0585d',1,'Vec3D::length()'],['../d4/d90/classMovement_1_1Spline.html#aab929569bba2417387acd22f0634504d',1,'Movement::Spline::length() const'],['../d4/d90/classMovement_1_1Spline.html#a73b3a47713e07a5d07959a2eb17be87e',1,'Movement::Spline::length(index_type Idx) const']]],
   ['lengthsquared_33',['lengthsquared',['../d9/d3a/classVec2D.html#aa93a7bd272380f3ab14ace62a90bb628',1,'Vec2D::lengthSquared()'],['../d5/dc1/classVec3D.html#a87ac62b18bdb6534dde07295ad3d7418',1,'Vec3D::lengthSquared()']]],
   ['levelupinfo_34',['LevelUpInfo',['../d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d',1,'WorldPackets::Misc::LevelUpInfo']]],
   ['lfg5guids_35',['lfg5guids',['../da/de4/classlfg_1_1Lfg5Guids.html#ae3c4d14ffe3bd3824efd53d3e66a5b30',1,'lfg::Lfg5Guids::Lfg5Guids()'],['../da/de4/classlfg_1_1Lfg5Guids.html#a9bb6a28de6b87b5de2de4d78c27eb345',1,'lfg::Lfg5Guids::Lfg5Guids(ObjectGuid g)'],['../da/de4/classlfg_1_1Lfg5Guids.html#aeb018ae41f1ab39481a103c01c96d5de',1,'lfg::Lfg5Guids::Lfg5Guids(Lfg5Guids const &amp;x)'],['../da/de4/classlfg_1_1Lfg5Guids.html#a74e7afce30fb2e2ca99b78df29e6975e',1,'lfg::Lfg5Guids::Lfg5Guids(Lfg5Guids const &amp;x, bool)']]],
@@ -218,7 +218,7 @@ var searchData=
   ['loadgameobjectquestenders_215',['LoadGameobjectQuestEnders',['../d5/dfb/classObjectMgr.html#a300c8e82451547a0b2aec4d33c8c1c79',1,'ObjectMgr']]],
   ['loadgameobjectquestitems_216',['LoadGameObjectQuestItems',['../d5/dfb/classObjectMgr.html#adeb2a399a3ab5e94d13f5c2e1f7fe73c',1,'ObjectMgr']]],
   ['loadgameobjectqueststarters_217',['LoadGameobjectQuestStarters',['../d5/dfb/classObjectMgr.html#ab8198021c58d9d7e2deb26296b8a755f',1,'ObjectMgr']]],
-  ['loadgameobjects_218',['loadgameobjects',['../d0/d69/classGridObjectLoader.html#ad577dbb6544e806d25b496796651ba5b',1,'GridObjectLoader::LoadGameObjects()'],['../d5/dfb/classObjectMgr.html#adec5d46f2a8478de1bd75690a237c936',1,'ObjectMgr::LoadGameobjects()']]],
+  ['loadgameobjects_218',['loadgameobjects',['../d5/dfb/classObjectMgr.html#adec5d46f2a8478de1bd75690a237c936',1,'ObjectMgr::LoadGameobjects()'],['../d0/d69/classGridObjectLoader.html#ad577dbb6544e806d25b496796651ba5b',1,'GridObjectLoader::LoadGameObjects()']]],
   ['loadgameobjectsummons_219',['LoadGameObjectSummons',['../d5/dfb/classObjectMgr.html#a26bad2d8e9cea665605db89b02180609',1,'ObjectMgr']]],
   ['loadgameobjecttemplate_220',['LoadGameObjectTemplate',['../d5/dfb/classObjectMgr.html#a169a991f361f2617b1e6e4bbb643486a',1,'ObjectMgr']]],
   ['loadgameobjecttemplateaddons_221',['LoadGameObjectTemplateAddons',['../d5/dfb/classObjectMgr.html#aabf5931580ae390099518d22bfa77994',1,'ObjectMgr']]],

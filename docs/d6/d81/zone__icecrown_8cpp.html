@@ -193,6 +193,20 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/db4/classspell__crashing__wave.html">spell_crashing_wave</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfb/structGhoulJumpData.html">GhoulJumpData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d5f/structWaveChance.html">WaveChance</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d10/structnpc__plague__cauldron__target.html">npc_plague_cauldron_target</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d71/structnpc__plague__cauldron__bunny.html">npc_plague_cauldron_bunny</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc9/structnpc__plague__cauldron__ghoul.html">npc_plague_cauldron_ghoul</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dae/classspell__cauldron__event__timer__aura.html">spell_cauldron_event_timer_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d01/classspell__cauldron__fluid__timer__aura.html">spell_cauldron_fluid_timer_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
@@ -609,9 +623,90 @@ Enumerations</h2></td></tr>
 <tr class="memitem:ad361bb8443208419f6cafbaeabadb081" id="r_ad361bb8443208419f6cafbaeabadb081"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ad361bb8443208419f6cafbaeabadb081">WaterTerror</a> { <a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ad361bb8443208419f6cafbaeabadb081af97515b7e2336d0552e2e936acb9d911">SPELL_WATER_TERROR_FROST_NOVA</a> = 57668
  }</td></tr>
 <tr class="separator:ad361bb8443208419f6cafbaeabadb081"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0ef391bcdf3b54c779b1e1ea5b8b964" id="r_ae0ef391bcdf3b54c779b1e1ea5b8b964"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964">BasicChemistry</a> { <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa971211abcc0b5f80710cdaabd7f0e61">NPC_PLAGUE_CAULDRON_KC_BUNNY</a> = 31767
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a0288a635bedbcea833a9874ad9274753">NPC_CAULDRON_TARGET_00</a> = 31773
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a> = 31880
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a1ca4f040cf843bb93274a979b188b0e2">NPC_PLAGUE_DRENCHED_GHOUL</a> = 32176
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a0d1b840ac4c1485f1c7e3b5153f5d9b8">NPC_RAMPAGING_GHOUL</a> = 32178
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a2777df522c326b86cbae044910bd8479">NPC_CAULDRON_TARGET_01</a> = 32427
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a> = 32431
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a5a80cd71e372c6423c3e2de3e865b3ba">NPC_CAULDRON_TARGET_02</a> = 32442
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a> = 32445
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964adf2382af1e59a95b5de2c10e087c298c">SPELL_PIERCE_ARMOR</a> = 6016
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a095595b3f68b4cb1b7b790005988e434">SPELL_ORANGE_RADIATION</a> = 45797
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa61e1ada0cfbb3e19124d0d5c4b4b9d4">SPELL_DISEASE_CLOUD</a> = 50106
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af9efde0aa727d4416f135ad425df0fc7">SPELL_NEUTRALIZING_DOSE_APPLIED</a> = 59659
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a9ab1eb7b7971c66cc2aa476cb01f2c71">SPELL_EVENT_TIMER_BUFF</a> = 59872
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa1f2a88ae6455e28a8036416a638dd51">SPELL_FLUID_TIMER_BUFF</a> = 59873
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad66adb5a58171fc223757e1a16f27b56">SPELL_CAULDRON_EVENT_FAILED</a> = 59874
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa395c2cde6edc963aeda7e2373fdf5e5">SPELL_CAULDRON_EVENT_COMPLETE</a> = 59875
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a063c475da25b2aa9762e76012f6dc686">SPELL_HUGE_GREEN_SPLASH</a> = 60059
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964acdfd138fc9fae2e3de60cceb27c774b7">SPELL_PLAGUE_BITE</a> = 60678
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a35b4bf2fdacd2ed7ad6bd7f098ea58b3">SPELL_EMERGE</a> = 66947
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a5508d85fb4a67786cddd05efdbf3dd72">SAY_CAULDRON_BOILS</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a46693620bacd055eee60962c89219f16">SAY_WAVE_EMERGES</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a014873849be19582957661988953b3d3">SAY_WAVE_EMPTY</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad50555c7b4439db1e1d7f027b4c52f3b">SAY_EVENT_COMPLETE</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa50c3316e676caf81743d3b6a557835e">SAY_FLUID_LOW</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad56f0cc8b80524c74784ba3c9ec14652">SAY_FLUID_CRITICAL</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a6df6fe3f313732f7ca5b64282a4c0c60">SAY_EVENT_FAILED</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a54d2595ba94eb29b3347891571f77444">GROUP_PLAGUE_SWARM</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a972eb332eae43091a385f5d0b4787d29">GROUP_NOTHING</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af380707cc090594c555ce6981175180d">ACTION_ADD_FLUID</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a4bae9f4fa8017c6180aa28503613dab8">ACTION_EVENT_FAILED</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a28ce38eeee245e725def1e3525e0c540">ACTION_EVENT_COMPLETE</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964add37d28d5cec7121340956fb0f865335">DATA_GHOUL_JUMP</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aea5992834aac50dbdb7d4b6d54614762">POINT_GHOUL_LANDED</a> = 1
+<br />
+ }</td></tr>
+<tr class="separator:ae0ef391bcdf3b54c779b1e1ea5b8b964"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:a4ef927b5beddf2136998e5eb2dfe0b08" id="r_a4ef927b5beddf2136998e5eb2dfe0b08"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> summoner, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> group, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> slot)</td></tr>
+<tr class="separator:a4ef927b5beddf2136998e5eb2dfe0b08"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3294527f6a2415f484e215fc938c971a" id="r_a3294527f6a2415f484e215fc938c971a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dfb/structGhoulJumpData.html">GhoulJumpData</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#a3294527f6a2415f484e215fc938c971a">GetGhoulJumpData</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id)</td></tr>
+<tr class="separator:a3294527f6a2415f484e215fc938c971a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a147460f9b9b578257acd1ced1ab12cd9" id="r_a147460f9b9b578257acd1ced1ab12cd9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#a147460f9b9b578257acd1ced1ab12cd9">AddSC_icecrown</a> ()</td></tr>
 <tr class="separator:a147460f9b9b578257acd1ced1ab12cd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -631,8 +726,151 @@ Variables</h2></td></tr>
 <tr class="separator:ae897423ac82564dc77695f14627d09f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a663ad32bcaa0a3ff0c70062f722be235" id="r_a663ad32bcaa0a3ff0c70062f722be235"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/df4/structPosition.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#a663ad32bcaa0a3ff0c70062f722be235">Mason3Pos</a> [3]</td></tr>
 <tr class="separator:a663ad32bcaa0a3ff0c70062f722be235"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9314b60f1bc95c04393f0e2806f3195" id="r_ad9314b60f1bc95c04393f0e2806f3195"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dfb/structGhoulJumpData.html">GhoulJumpData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ad9314b60f1bc95c04393f0e2806f3195">GhoulJumps</a> []</td></tr>
+<tr class="separator:ad9314b60f1bc95c04393f0e2806f3195"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae40705bb69c38bbfb24daddb83e5a82b" id="r_ae40705bb69c38bbfb24daddb83e5a82b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d5f/structWaveChance.html">WaveChance</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae40705bb69c38bbfb24daddb83e5a82b">WaveChances</a> []</td></tr>
+<tr class="separator:ae40705bb69c38bbfb24daddb83e5a82b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="ae0ef391bcdf3b54c779b1e1ea5b8b964" name="ae0ef391bcdf3b54c779b1e1ea5b8b964"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0ef391bcdf3b54c779b1e1ea5b8b964">&#9670;&#160;</a></span>BasicChemistry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964">BasicChemistry</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964aa971211abcc0b5f80710cdaabd7f0e61" name="ae0ef391bcdf3b54c779b1e1ea5b8b964aa971211abcc0b5f80710cdaabd7f0e61"></a>NPC_PLAGUE_CAULDRON_KC_BUNNY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a0288a635bedbcea833a9874ad9274753" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a0288a635bedbcea833a9874ad9274753"></a>NPC_CAULDRON_TARGET_00&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc" name="ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc"></a>NPC_CAULDRON_BUNNY_00&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a1ca4f040cf843bb93274a979b188b0e2" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a1ca4f040cf843bb93274a979b188b0e2"></a>NPC_PLAGUE_DRENCHED_GHOUL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a0d1b840ac4c1485f1c7e3b5153f5d9b8" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a0d1b840ac4c1485f1c7e3b5153f5d9b8"></a>NPC_RAMPAGING_GHOUL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a2777df522c326b86cbae044910bd8479" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a2777df522c326b86cbae044910bd8479"></a>NPC_CAULDRON_TARGET_01&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88" name="ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88"></a>NPC_CAULDRON_BUNNY_01&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a5a80cd71e372c6423c3e2de3e865b3ba" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a5a80cd71e372c6423c3e2de3e865b3ba"></a>NPC_CAULDRON_TARGET_02&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d" name="ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d"></a>NPC_CAULDRON_BUNNY_02&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964adf2382af1e59a95b5de2c10e087c298c" name="ae0ef391bcdf3b54c779b1e1ea5b8b964adf2382af1e59a95b5de2c10e087c298c"></a>SPELL_PIERCE_ARMOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a095595b3f68b4cb1b7b790005988e434" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a095595b3f68b4cb1b7b790005988e434"></a>SPELL_ORANGE_RADIATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964aa61e1ada0cfbb3e19124d0d5c4b4b9d4" name="ae0ef391bcdf3b54c779b1e1ea5b8b964aa61e1ada0cfbb3e19124d0d5c4b4b9d4"></a>SPELL_DISEASE_CLOUD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964af9efde0aa727d4416f135ad425df0fc7" name="ae0ef391bcdf3b54c779b1e1ea5b8b964af9efde0aa727d4416f135ad425df0fc7"></a>SPELL_NEUTRALIZING_DOSE_APPLIED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a9ab1eb7b7971c66cc2aa476cb01f2c71" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a9ab1eb7b7971c66cc2aa476cb01f2c71"></a>SPELL_EVENT_TIMER_BUFF&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964aa1f2a88ae6455e28a8036416a638dd51" name="ae0ef391bcdf3b54c779b1e1ea5b8b964aa1f2a88ae6455e28a8036416a638dd51"></a>SPELL_FLUID_TIMER_BUFF&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964ad66adb5a58171fc223757e1a16f27b56" name="ae0ef391bcdf3b54c779b1e1ea5b8b964ad66adb5a58171fc223757e1a16f27b56"></a>SPELL_CAULDRON_EVENT_FAILED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964aa395c2cde6edc963aeda7e2373fdf5e5" name="ae0ef391bcdf3b54c779b1e1ea5b8b964aa395c2cde6edc963aeda7e2373fdf5e5"></a>SPELL_CAULDRON_EVENT_COMPLETE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a063c475da25b2aa9762e76012f6dc686" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a063c475da25b2aa9762e76012f6dc686"></a>SPELL_HUGE_GREEN_SPLASH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964acdfd138fc9fae2e3de60cceb27c774b7" name="ae0ef391bcdf3b54c779b1e1ea5b8b964acdfd138fc9fae2e3de60cceb27c774b7"></a>SPELL_PLAGUE_BITE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a35b4bf2fdacd2ed7ad6bd7f098ea58b3" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a35b4bf2fdacd2ed7ad6bd7f098ea58b3"></a>SPELL_EMERGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a5508d85fb4a67786cddd05efdbf3dd72" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a5508d85fb4a67786cddd05efdbf3dd72"></a>SAY_CAULDRON_BOILS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a46693620bacd055eee60962c89219f16" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a46693620bacd055eee60962c89219f16"></a>SAY_WAVE_EMERGES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a014873849be19582957661988953b3d3" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a014873849be19582957661988953b3d3"></a>SAY_WAVE_EMPTY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964ad50555c7b4439db1e1d7f027b4c52f3b" name="ae0ef391bcdf3b54c779b1e1ea5b8b964ad50555c7b4439db1e1d7f027b4c52f3b"></a>SAY_EVENT_COMPLETE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964aa50c3316e676caf81743d3b6a557835e" name="ae0ef391bcdf3b54c779b1e1ea5b8b964aa50c3316e676caf81743d3b6a557835e"></a>SAY_FLUID_LOW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964ad56f0cc8b80524c74784ba3c9ec14652" name="ae0ef391bcdf3b54c779b1e1ea5b8b964ad56f0cc8b80524c74784ba3c9ec14652"></a>SAY_FLUID_CRITICAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a6df6fe3f313732f7ca5b64282a4c0c60" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a6df6fe3f313732f7ca5b64282a4c0c60"></a>SAY_EVENT_FAILED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a54d2595ba94eb29b3347891571f77444" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a54d2595ba94eb29b3347891571f77444"></a>GROUP_PLAGUE_SWARM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11"></a>GROUP_GHOUL_AND_PLAGUE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965"></a>GROUP_GHOUL_PAIR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537"></a>GROUP_DRENCHED_GHOUL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a972eb332eae43091a385f5d0b4787d29" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a972eb332eae43091a385f5d0b4787d29"></a>GROUP_NOTHING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964af380707cc090594c555ce6981175180d" name="ae0ef391bcdf3b54c779b1e1ea5b8b964af380707cc090594c555ce6981175180d"></a>ACTION_ADD_FLUID&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a4bae9f4fa8017c6180aa28503613dab8" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a4bae9f4fa8017c6180aa28503613dab8"></a>ACTION_EVENT_FAILED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964a28ce38eeee245e725def1e3525e0c540" name="ae0ef391bcdf3b54c779b1e1ea5b8b964a28ce38eeee245e725def1e3525e0c540"></a>ACTION_EVENT_COMPLETE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964add37d28d5cec7121340956fb0f865335" name="ae0ef391bcdf3b54c779b1e1ea5b8b964add37d28d5cec7121340956fb0f865335"></a>DATA_GHOUL_JUMP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae0ef391bcdf3b54c779b1e1ea5b8b964aea5992834aac50dbdb7d4b6d54614762" name="ae0ef391bcdf3b54c779b1e1ea5b8b964aea5992834aac50dbdb7d4b6d54614762"></a>POINT_GHOUL_LANDED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno"> 2133</span>{</div>
+<div class="line"><span class="lineno"> 2134</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa971211abcc0b5f80710cdaabd7f0e61">NPC_PLAGUE_CAULDRON_KC_BUNNY</a>        = 31767,</div>
+<div class="line"><span class="lineno"> 2135</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a0288a635bedbcea833a9874ad9274753">NPC_CAULDRON_TARGET_00</a>              = 31773,</div>
+<div class="line"><span class="lineno"> 2136</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a>               = 31880,</div>
+<div class="line"><span class="lineno"> 2137</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a1ca4f040cf843bb93274a979b188b0e2">NPC_PLAGUE_DRENCHED_GHOUL</a>           = 32176,</div>
+<div class="line"><span class="lineno"> 2138</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a0d1b840ac4c1485f1c7e3b5153f5d9b8">NPC_RAMPAGING_GHOUL</a>                 = 32178,</div>
+<div class="line"><span class="lineno"> 2139</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a2777df522c326b86cbae044910bd8479">NPC_CAULDRON_TARGET_01</a>              = 32427,</div>
+<div class="line"><span class="lineno"> 2140</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a>               = 32431,</div>
+<div class="line"><span class="lineno"> 2141</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a5a80cd71e372c6423c3e2de3e865b3ba">NPC_CAULDRON_TARGET_02</a>              = 32442,</div>
+<div class="line"><span class="lineno"> 2142</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a>               = 32445,</div>
+<div class="line"><span class="lineno"> 2143</span> </div>
+<div class="line"><span class="lineno"> 2144</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964adf2382af1e59a95b5de2c10e087c298c">SPELL_PIERCE_ARMOR</a>                  = 6016,</div>
+<div class="line"><span class="lineno"> 2145</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a095595b3f68b4cb1b7b790005988e434">SPELL_ORANGE_RADIATION</a>              = 45797,</div>
+<div class="line"><span class="lineno"> 2146</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa61e1ada0cfbb3e19124d0d5c4b4b9d4">SPELL_DISEASE_CLOUD</a>                 = 50106,</div>
+<div class="line"><span class="lineno"> 2147</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af9efde0aa727d4416f135ad425df0fc7">SPELL_NEUTRALIZING_DOSE_APPLIED</a>     = 59659,</div>
+<div class="line"><span class="lineno"> 2148</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a9ab1eb7b7971c66cc2aa476cb01f2c71">SPELL_EVENT_TIMER_BUFF</a>              = 59872,</div>
+<div class="line"><span class="lineno"> 2149</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa1f2a88ae6455e28a8036416a638dd51">SPELL_FLUID_TIMER_BUFF</a>              = 59873,</div>
+<div class="line"><span class="lineno"> 2150</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad66adb5a58171fc223757e1a16f27b56">SPELL_CAULDRON_EVENT_FAILED</a>         = 59874,</div>
+<div class="line"><span class="lineno"> 2151</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa395c2cde6edc963aeda7e2373fdf5e5">SPELL_CAULDRON_EVENT_COMPLETE</a>       = 59875,</div>
+<div class="line"><span class="lineno"> 2152</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a063c475da25b2aa9762e76012f6dc686">SPELL_HUGE_GREEN_SPLASH</a>             = 60059,</div>
+<div class="line"><span class="lineno"> 2153</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964acdfd138fc9fae2e3de60cceb27c774b7">SPELL_PLAGUE_BITE</a>                   = 60678,</div>
+<div class="line"><span class="lineno"> 2154</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a35b4bf2fdacd2ed7ad6bd7f098ea58b3">SPELL_EMERGE</a>                        = 66947,</div>
+<div class="line"><span class="lineno"> 2155</span> </div>
+<div class="line"><span class="lineno"> 2156</span>    <span class="comment">// creature_text of the cauldron targets</span></div>
+<div class="line"><span class="lineno"> 2157</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a5508d85fb4a67786cddd05efdbf3dd72">SAY_CAULDRON_BOILS</a>                  = 0,</div>
+<div class="line"><span class="lineno"> 2158</span> </div>
+<div class="line"><span class="lineno"> 2159</span>    <span class="comment">// creature_text of the cauldron bunnies</span></div>
+<div class="line"><span class="lineno"> 2160</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a46693620bacd055eee60962c89219f16">SAY_WAVE_EMERGES</a>                    = 0,</div>
+<div class="line"><span class="lineno"> 2161</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a014873849be19582957661988953b3d3">SAY_WAVE_EMPTY</a>                      = 1,</div>
+<div class="line"><span class="lineno"> 2162</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad50555c7b4439db1e1d7f027b4c52f3b">SAY_EVENT_COMPLETE</a>                  = 2,</div>
+<div class="line"><span class="lineno"> 2163</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa50c3316e676caf81743d3b6a557835e">SAY_FLUID_LOW</a>                       = 3,</div>
+<div class="line"><span class="lineno"> 2164</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad56f0cc8b80524c74784ba3c9ec14652">SAY_FLUID_CRITICAL</a>                  = 4,</div>
+<div class="line"><span class="lineno"> 2165</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a6df6fe3f313732f7ca5b64282a4c0c60">SAY_EVENT_FAILED</a>                    = 5,</div>
+<div class="line"><span class="lineno"> 2166</span> </div>
+<div class="line"><span class="lineno"> 2167</span>    <span class="comment">// creature_summon_groups of the cauldron bunnies</span></div>
+<div class="line"><span class="lineno"> 2168</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a54d2595ba94eb29b3347891571f77444">GROUP_PLAGUE_SWARM</a>                  = 0,</div>
+<div class="line"><span class="lineno"> 2169</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a>              = 1,</div>
+<div class="line"><span class="lineno"> 2170</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>                    = 2,</div>
+<div class="line"><span class="lineno"> 2171</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a>                = 3,</div>
+<div class="line"><span class="lineno"> 2172</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a972eb332eae43091a385f5d0b4787d29">GROUP_NOTHING</a>                       = 4,</div>
+<div class="line"><span class="lineno"> 2173</span> </div>
+<div class="line"><span class="lineno"> 2174</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af380707cc090594c555ce6981175180d">ACTION_ADD_FLUID</a>                    = 1,</div>
+<div class="line"><span class="lineno"> 2175</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a4bae9f4fa8017c6180aa28503613dab8">ACTION_EVENT_FAILED</a>                 = 2,</div>
+<div class="line"><span class="lineno"> 2176</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a28ce38eeee245e725def1e3525e0c540">ACTION_EVENT_COMPLETE</a>               = 3,</div>
+<div class="line"><span class="lineno"> 2177</span> </div>
+<div class="line"><span class="lineno"> 2178</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964add37d28d5cec7121340956fb0f865335">DATA_GHOUL_JUMP</a>                     = 1,</div>
+<div class="line"><span class="lineno"> 2179</span> </div>
+<div class="line"><span class="lineno"> 2180</span>    <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aea5992834aac50dbdb7d4b6d54614762">POINT_GHOUL_LANDED</a>                  = 1</div>
+<div class="line"><span class="lineno"> 2181</span>};</div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a014873849be19582957661988953b3d3"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a014873849be19582957661988953b3d3">SAY_WAVE_EMPTY</a></div><div class="ttdeci">@ SAY_WAVE_EMPTY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2161</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a0288a635bedbcea833a9874ad9274753"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a0288a635bedbcea833a9874ad9274753">NPC_CAULDRON_TARGET_00</a></div><div class="ttdeci">@ NPC_CAULDRON_TARGET_00</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2135</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a063c475da25b2aa9762e76012f6dc686"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a063c475da25b2aa9762e76012f6dc686">SPELL_HUGE_GREEN_SPLASH</a></div><div class="ttdeci">@ SPELL_HUGE_GREEN_SPLASH</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2152</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a095595b3f68b4cb1b7b790005988e434"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a095595b3f68b4cb1b7b790005988e434">SPELL_ORANGE_RADIATION</a></div><div class="ttdeci">@ SPELL_ORANGE_RADIATION</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2145</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a0d1b840ac4c1485f1c7e3b5153f5d9b8"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a0d1b840ac4c1485f1c7e3b5153f5d9b8">NPC_RAMPAGING_GHOUL</a></div><div class="ttdeci">@ NPC_RAMPAGING_GHOUL</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2138</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a1ca4f040cf843bb93274a979b188b0e2"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a1ca4f040cf843bb93274a979b188b0e2">NPC_PLAGUE_DRENCHED_GHOUL</a></div><div class="ttdeci">@ NPC_PLAGUE_DRENCHED_GHOUL</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2137</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a2777df522c326b86cbae044910bd8479"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a2777df522c326b86cbae044910bd8479">NPC_CAULDRON_TARGET_01</a></div><div class="ttdeci">@ NPC_CAULDRON_TARGET_01</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2139</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a28ce38eeee245e725def1e3525e0c540"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a28ce38eeee245e725def1e3525e0c540">ACTION_EVENT_COMPLETE</a></div><div class="ttdeci">@ ACTION_EVENT_COMPLETE</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2176</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a35b4bf2fdacd2ed7ad6bd7f098ea58b3"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a35b4bf2fdacd2ed7ad6bd7f098ea58b3">SPELL_EMERGE</a></div><div class="ttdeci">@ SPELL_EMERGE</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2154</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a></div><div class="ttdeci">@ GROUP_GHOUL_AND_PLAGUE</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2169</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a46693620bacd055eee60962c89219f16"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a46693620bacd055eee60962c89219f16">SAY_WAVE_EMERGES</a></div><div class="ttdeci">@ SAY_WAVE_EMERGES</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2160</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a4bae9f4fa8017c6180aa28503613dab8"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a4bae9f4fa8017c6180aa28503613dab8">ACTION_EVENT_FAILED</a></div><div class="ttdeci">@ ACTION_EVENT_FAILED</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2175</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a></div><div class="ttdeci">@ GROUP_DRENCHED_GHOUL</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2171</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a54d2595ba94eb29b3347891571f77444"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a54d2595ba94eb29b3347891571f77444">GROUP_PLAGUE_SWARM</a></div><div class="ttdeci">@ GROUP_PLAGUE_SWARM</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2168</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a5508d85fb4a67786cddd05efdbf3dd72"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a5508d85fb4a67786cddd05efdbf3dd72">SAY_CAULDRON_BOILS</a></div><div class="ttdeci">@ SAY_CAULDRON_BOILS</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2157</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a5a80cd71e372c6423c3e2de3e865b3ba"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a5a80cd71e372c6423c3e2de3e865b3ba">NPC_CAULDRON_TARGET_02</a></div><div class="ttdeci">@ NPC_CAULDRON_TARGET_02</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2141</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a6df6fe3f313732f7ca5b64282a4c0c60"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a6df6fe3f313732f7ca5b64282a4c0c60">SAY_EVENT_FAILED</a></div><div class="ttdeci">@ SAY_EVENT_FAILED</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2165</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a></div><div class="ttdeci">@ GROUP_GHOUL_PAIR</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2170</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a972eb332eae43091a385f5d0b4787d29"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a972eb332eae43091a385f5d0b4787d29">GROUP_NOTHING</a></div><div class="ttdeci">@ GROUP_NOTHING</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2172</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964a9ab1eb7b7971c66cc2aa476cb01f2c71"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a9ab1eb7b7971c66cc2aa476cb01f2c71">SPELL_EVENT_TIMER_BUFF</a></div><div class="ttdeci">@ SPELL_EVENT_TIMER_BUFF</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2148</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964aa1f2a88ae6455e28a8036416a638dd51"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa1f2a88ae6455e28a8036416a638dd51">SPELL_FLUID_TIMER_BUFF</a></div><div class="ttdeci">@ SPELL_FLUID_TIMER_BUFF</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2149</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964aa395c2cde6edc963aeda7e2373fdf5e5"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa395c2cde6edc963aeda7e2373fdf5e5">SPELL_CAULDRON_EVENT_COMPLETE</a></div><div class="ttdeci">@ SPELL_CAULDRON_EVENT_COMPLETE</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2151</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964aa50c3316e676caf81743d3b6a557835e"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa50c3316e676caf81743d3b6a557835e">SAY_FLUID_LOW</a></div><div class="ttdeci">@ SAY_FLUID_LOW</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2163</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964aa61e1ada0cfbb3e19124d0d5c4b4b9d4"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa61e1ada0cfbb3e19124d0d5c4b4b9d4">SPELL_DISEASE_CLOUD</a></div><div class="ttdeci">@ SPELL_DISEASE_CLOUD</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2146</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964aa971211abcc0b5f80710cdaabd7f0e61"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aa971211abcc0b5f80710cdaabd7f0e61">NPC_PLAGUE_CAULDRON_KC_BUNNY</a></div><div class="ttdeci">@ NPC_PLAGUE_CAULDRON_KC_BUNNY</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2134</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a></div><div class="ttdeci">@ NPC_CAULDRON_BUNNY_00</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2136</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964acdfd138fc9fae2e3de60cceb27c774b7"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964acdfd138fc9fae2e3de60cceb27c774b7">SPELL_PLAGUE_BITE</a></div><div class="ttdeci">@ SPELL_PLAGUE_BITE</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2153</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964ad50555c7b4439db1e1d7f027b4c52f3b"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad50555c7b4439db1e1d7f027b4c52f3b">SAY_EVENT_COMPLETE</a></div><div class="ttdeci">@ SAY_EVENT_COMPLETE</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2162</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964ad56f0cc8b80524c74784ba3c9ec14652"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad56f0cc8b80524c74784ba3c9ec14652">SAY_FLUID_CRITICAL</a></div><div class="ttdeci">@ SAY_FLUID_CRITICAL</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2164</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964ad66adb5a58171fc223757e1a16f27b56"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad66adb5a58171fc223757e1a16f27b56">SPELL_CAULDRON_EVENT_FAILED</a></div><div class="ttdeci">@ SPELL_CAULDRON_EVENT_FAILED</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2150</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a></div><div class="ttdeci">@ NPC_CAULDRON_BUNNY_01</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2140</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964add37d28d5cec7121340956fb0f865335"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964add37d28d5cec7121340956fb0f865335">DATA_GHOUL_JUMP</a></div><div class="ttdeci">@ DATA_GHOUL_JUMP</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2178</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964adf2382af1e59a95b5de2c10e087c298c"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964adf2382af1e59a95b5de2c10e087c298c">SPELL_PIERCE_ARMOR</a></div><div class="ttdeci">@ SPELL_PIERCE_ARMOR</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2144</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964aea5992834aac50dbdb7d4b6d54614762"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aea5992834aac50dbdb7d4b6d54614762">POINT_GHOUL_LANDED</a></div><div class="ttdeci">@ POINT_GHOUL_LANDED</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2180</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a></div><div class="ttdeci">@ NPC_CAULDRON_BUNNY_02</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2142</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964af380707cc090594c555ce6981175180d"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af380707cc090594c555ce6981175180d">ACTION_ADD_FLUID</a></div><div class="ttdeci">@ ACTION_ADD_FLUID</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2174</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ae0ef391bcdf3b54c779b1e1ea5b8b964af9efde0aa727d4416f135ad425df0fc7"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af9efde0aa727d4416f135ad425df0fc7">SPELL_NEUTRALIZING_DOSE_APPLIED</a></div><div class="ttdeci">@ SPELL_NEUTRALIZING_DOSE_APPLIED</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2147</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <a id="adc6d71d7da6e47d9baa23eeca72ce832" name="adc6d71d7da6e47d9baa23eeca72ce832"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#adc6d71d7da6e47d9baa23eeca72ce832">&#9670;&#160;</a></span>BlessedBanner</h2>
 
@@ -1459,26 +1697,32 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2128</span>{</div>
-<div class="line"><span class="lineno"> 2129</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/dab/classnpc__black__knight__graveyard.html">npc_black_knight_graveyard</a>();</div>
-<div class="line"><span class="lineno"> 2130</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d29/classnpc__battle__at__valhalas.html">npc_battle_at_valhalas</a>();</div>
-<div class="line"><span class="lineno"> 2131</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d28/classnpc__llod__generic.html">npc_llod_generic</a>();</div>
-<div class="line"><span class="lineno"> 2132</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/de1/classnpc__lord__arete.html">npc_lord_arete</a>();</div>
-<div class="line"><span class="lineno"> 2133</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d9d/classnpc__boneguard__footman.html">npc_boneguard_footman</a>();</div>
-<div class="line"><span class="lineno"> 2134</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d54/classnpc__tirions__gambit__tirion.html">npc_tirions_gambit_tirion</a>();</div>
-<div class="line"><span class="lineno"> 2135</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d93/classspell__switch__infragreen__bomber__station.html">spell_switch_infragreen_bomber_station</a>);</div>
-<div class="line"><span class="lineno"> 2136</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../df/dd8/classspell__charge__shield__bomber.html">spell_charge_shield_bomber</a>, <a class="code hl_class" href="../../d9/d63/classspell__charge__shield__bomber__aura.html">spell_charge_shield_bomber_aura</a>);</div>
-<div class="line"><span class="lineno"> 2137</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d44/classspell__fight__fire__bomber.html">spell_fight_fire_bomber</a>);</div>
-<div class="line"><span class="lineno"> 2138</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d66/classspell__anti__air__rocket__bomber.html">spell_anti_air_rocket_bomber</a>);</div>
-<div class="line"><span class="lineno"> 2139</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/db0/classnpc__infra__green__bomber__generic.html">npc_infra_green_bomber_generic</a>();</div>
-<div class="line"><span class="lineno"> 2140</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d58/classspell__onslaught__or__call__bone__gryphon.html">spell_onslaught_or_call_bone_gryphon</a>);</div>
-<div class="line"><span class="lineno"> 2141</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d16/classspell__deliver__gryphon.html">spell_deliver_gryphon</a>);</div>
-<div class="line"><span class="lineno"> 2142</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d9e/classnpc__guardian__pavilion.html">npc_guardian_pavilion</a>();</div>
-<div class="line"><span class="lineno"> 2143</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d55/classnpc__tournament__training__dummy.html">npc_tournament_training_dummy</a>();</div>
-<div class="line"><span class="lineno"> 2144</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/dec/classnpc__blessed__banner.html">npc_blessed_banner</a>();</div>
-<div class="line"><span class="lineno"> 2145</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d21/classnpc__frostbrood__skytalon.html">npc_frostbrood_skytalon</a>();</div>
-<div class="line"><span class="lineno"> 2146</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/db4/classspell__crashing__wave.html">spell_crashing_wave</a>);</div>
-<div class="line"><span class="lineno"> 2147</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2545</span>{</div>
+<div class="line"><span class="lineno"> 2546</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/dab/classnpc__black__knight__graveyard.html">npc_black_knight_graveyard</a>();</div>
+<div class="line"><span class="lineno"> 2547</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d29/classnpc__battle__at__valhalas.html">npc_battle_at_valhalas</a>();</div>
+<div class="line"><span class="lineno"> 2548</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d28/classnpc__llod__generic.html">npc_llod_generic</a>();</div>
+<div class="line"><span class="lineno"> 2549</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/de1/classnpc__lord__arete.html">npc_lord_arete</a>();</div>
+<div class="line"><span class="lineno"> 2550</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d9d/classnpc__boneguard__footman.html">npc_boneguard_footman</a>();</div>
+<div class="line"><span class="lineno"> 2551</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d54/classnpc__tirions__gambit__tirion.html">npc_tirions_gambit_tirion</a>();</div>
+<div class="line"><span class="lineno"> 2552</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d93/classspell__switch__infragreen__bomber__station.html">spell_switch_infragreen_bomber_station</a>);</div>
+<div class="line"><span class="lineno"> 2553</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../df/dd8/classspell__charge__shield__bomber.html">spell_charge_shield_bomber</a>, <a class="code hl_class" href="../../d9/d63/classspell__charge__shield__bomber__aura.html">spell_charge_shield_bomber_aura</a>);</div>
+<div class="line"><span class="lineno"> 2554</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d44/classspell__fight__fire__bomber.html">spell_fight_fire_bomber</a>);</div>
+<div class="line"><span class="lineno"> 2555</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d66/classspell__anti__air__rocket__bomber.html">spell_anti_air_rocket_bomber</a>);</div>
+<div class="line"><span class="lineno"> 2556</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/db0/classnpc__infra__green__bomber__generic.html">npc_infra_green_bomber_generic</a>();</div>
+<div class="line"><span class="lineno"> 2557</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d58/classspell__onslaught__or__call__bone__gryphon.html">spell_onslaught_or_call_bone_gryphon</a>);</div>
+<div class="line"><span class="lineno"> 2558</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d16/classspell__deliver__gryphon.html">spell_deliver_gryphon</a>);</div>
+<div class="line"><span class="lineno"> 2559</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d9e/classnpc__guardian__pavilion.html">npc_guardian_pavilion</a>();</div>
+<div class="line"><span class="lineno"> 2560</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d55/classnpc__tournament__training__dummy.html">npc_tournament_training_dummy</a>();</div>
+<div class="line"><span class="lineno"> 2561</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/dec/classnpc__blessed__banner.html">npc_blessed_banner</a>();</div>
+<div class="line"><span class="lineno"> 2562</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d21/classnpc__frostbrood__skytalon.html">npc_frostbrood_skytalon</a>();</div>
+<div class="line"><span class="lineno"> 2563</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/db4/classspell__crashing__wave.html">spell_crashing_wave</a>);</div>
+<div class="line"><span class="lineno"> 2564</span>    <a class="code hl_define" href="../../de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d5/d10/structnpc__plague__cauldron__target.html">npc_plague_cauldron_target</a>);</div>
+<div class="line"><span class="lineno"> 2565</span>    <a class="code hl_define" href="../../de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d7/d71/structnpc__plague__cauldron__bunny.html">npc_plague_cauldron_bunny</a>);</div>
+<div class="line"><span class="lineno"> 2566</span>    <a class="code hl_define" href="../../de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d5/dc9/structnpc__plague__cauldron__ghoul.html">npc_plague_cauldron_ghoul</a>);</div>
+<div class="line"><span class="lineno"> 2567</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/dae/classspell__cauldron__event__timer__aura.html">spell_cauldron_event_timer_aura</a>);</div>
+<div class="line"><span class="lineno"> 2568</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d01/classspell__cauldron__fluid__timer__aura.html">spell_cauldron_fluid_timer_aura</a>);</div>
+<div class="line"><span class="lineno"> 2569</span>}</div>
+<div class="ttc" id="aCreatureScript_8h_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition</b> CreatureScript.h:71</div></div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_a69b21d1b83cecaba944f4e9379bc866c"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a></div><div class="ttdeci">#define RegisterSpellAndAuraScriptPair(script_1, script_2)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:90</div></div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
 <div class="ttc" id="aclassnpc__battle__at__valhalas_html"><div class="ttname"><a href="../../d6/d29/classnpc__battle__at__valhalas.html">npc_battle_at_valhalas</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:135</div></div>
@@ -1493,6 +1737,8 @@ Variables</h2></td></tr>
 <div class="ttc" id="aclassnpc__tirions__gambit__tirion_html"><div class="ttname"><a href="../../d9/d54/classnpc__tirions__gambit__tirion.html">npc_tirions_gambit_tirion</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:705</div></div>
 <div class="ttc" id="aclassnpc__tournament__training__dummy_html"><div class="ttname"><a href="../../d6/d55/classnpc__tournament__training__dummy.html">npc_tournament_training_dummy</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1552</div></div>
 <div class="ttc" id="aclassspell__anti__air__rocket__bomber_html"><div class="ttname"><a href="../../dd/d66/classspell__anti__air__rocket__bomber.html">spell_anti_air_rocket_bomber</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1242</div></div>
+<div class="ttc" id="aclassspell__cauldron__event__timer__aura_html"><div class="ttname"><a href="../../da/dae/classspell__cauldron__event__timer__aura.html">spell_cauldron_event_timer_aura</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2501</div></div>
+<div class="ttc" id="aclassspell__cauldron__fluid__timer__aura_html"><div class="ttname"><a href="../../de/d01/classspell__cauldron__fluid__timer__aura.html">spell_cauldron_fluid_timer_aura</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2525</div></div>
 <div class="ttc" id="aclassspell__charge__shield__bomber__aura_html"><div class="ttname"><a href="../../d9/d63/classspell__charge__shield__bomber__aura.html">spell_charge_shield_bomber_aura</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1170</div></div>
 <div class="ttc" id="aclassspell__charge__shield__bomber_html"><div class="ttname"><a href="../../df/dd8/classspell__charge__shield__bomber.html">spell_charge_shield_bomber</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1139</div></div>
 <div class="ttc" id="aclassspell__crashing__wave_html"><div class="ttname"><a href="../../d5/db4/classspell__crashing__wave.html">spell_crashing_wave</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2111</div></div>
@@ -1500,10 +1746,91 @@ Variables</h2></td></tr>
 <div class="ttc" id="aclassspell__fight__fire__bomber_html"><div class="ttname"><a href="../../da/d44/classspell__fight__fire__bomber.html">spell_fight_fire_bomber</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1197</div></div>
 <div class="ttc" id="aclassspell__onslaught__or__call__bone__gryphon_html"><div class="ttname"><a href="../../d6/d58/classspell__onslaught__or__call__bone__gryphon.html">spell_onslaught_or_call_bone_gryphon</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1417</div></div>
 <div class="ttc" id="aclassspell__switch__infragreen__bomber__station_html"><div class="ttname"><a href="../../d4/d93/classspell__switch__infragreen__bomber__station.html">spell_switch_infragreen_bomber_station</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1098</div></div>
+<div class="ttc" id="astructnpc__plague__cauldron__bunny_html"><div class="ttname"><a href="../../d7/d71/structnpc__plague__cauldron__bunny.html">npc_plague_cauldron_bunny</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2293</div></div>
+<div class="ttc" id="astructnpc__plague__cauldron__ghoul_html"><div class="ttname"><a href="../../d5/dc9/structnpc__plague__cauldron__ghoul.html">npc_plague_cauldron_ghoul</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2423</div></div>
+<div class="ttc" id="astructnpc__plague__cauldron__target_html"><div class="ttname"><a href="../../d5/d10/structnpc__plague__cauldron__target.html">npc_plague_cauldron_target</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2243</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">RegisterSpellAndAuraScriptPair</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>, <a class="el" href="../../#l00090">RegisterSpellAndAuraScriptPair</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00182">AddNorthrendScripts()</a>.</p>
+
+</div>
+</div>
+<a id="a3294527f6a2415f484e215fc938c971a" name="a3294527f6a2415f484e215fc938c971a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3294527f6a2415f484e215fc938c971a">&#9670;&#160;</a></span>GetGhoulJumpData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/dfb/structGhoulJumpData.html">GhoulJumpData</a> const  * GetGhoulJumpData </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 2218</span>{</div>
+<div class="line"><span class="lineno"> 2219</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/dfb/structGhoulJumpData.html">GhoulJumpData</a> <span class="keyword">const</span>&amp; jump : <a class="code hl_variable" href="../../d6/d81/zone__icecrown_8cpp.html#ad9314b60f1bc95c04393f0e2806f3195">GhoulJumps</a>)</div>
+<div class="line"><span class="lineno"> 2220</span>        if (jump.id == id)</div>
+<div class="line"><span class="lineno"> 2221</span>            return &amp;jump;</div>
+<div class="line"><span class="lineno"> 2222</span> </div>
+<div class="line"><span class="lineno"> 2223</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 2224</span>}</div>
+<div class="ttc" id="astructGhoulJumpData_html"><div class="ttname"><a href="../../d7/dfb/structGhoulJumpData.html">GhoulJumpData</a></div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2193</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_ad9314b60f1bc95c04393f0e2806f3195"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#ad9314b60f1bc95c04393f0e2806f3195">GhoulJumps</a></div><div class="ttdeci">GhoulJumpData const GhoulJumps[]</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2201</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02201">GhoulJumps</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02426">npc_plague_cauldron_ghoul::IsSummonedBy()</a>.</p>
+
+</div>
+</div>
+<a id="a4ef927b5beddf2136998e5eb2dfe0b08" name="a4ef927b5beddf2136998e5eb2dfe0b08"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4ef927b5beddf2136998e5eb2dfe0b08">&#9670;&#160;</a></span>GhoulJumpId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GhoulJumpId </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>summoner</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>group</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>slot</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 2188</span>{</div>
+<div class="line"><span class="lineno"> 2189</span>    <span class="keywordflow">return</span> summoner * 100 + group * 10 + slot;</div>
+<div class="line"><span class="lineno"> 2190</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l02375">npc_plague_cauldron_bunny::SummonWave()</a>.</p>
 
 </div>
 </div>
@@ -1532,6 +1859,52 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno"> 1732</span>};</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l01824">npc_blessed_banner::npc_blessed_bannerAI::UpdateAI()</a>.</p>
+
+</div>
+</div>
+<a id="ad9314b60f1bc95c04393f0e2806f3195" name="ad9314b60f1bc95c04393f0e2806f3195"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9314b60f1bc95c04393f0e2806f3195">&#9670;&#160;</a></span>GhoulJumps</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/dfb/structGhoulJumpData.html">GhoulJumpData</a> const GhoulJumps[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a>, 0), { 6777.94f, 1611.23f, 389.033f }, 5.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       0), { 6765.83f, 1621.09f, 389.033f }, 5.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       1), { 6794.71f, 1623.46f, 389.033f }, 6.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a>,   0), { 6777.03f, 1608.18f, 389.033f }, 5.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a>, 0), { 6773.30f, 1583.22f, 389.033f }, 5.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       0), { 6763.36f, 1567.51f, 389.033f }, 6.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       1), { 6761.96f, 1600.88f, 389.033f }, 6.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a>,   0), { 6777.47f, 1583.80f, 389.033f }, 5.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a>, 0), { 6777.73f, 1558.13f, 389.033f }, 5.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       0), { 6764.14f, 1547.33f, 389.033f }, 6.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       1), { 6792.88f, 1548.01f, 389.033f }, 6.0f },</div>
+<div class="line">    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a>,   0), { 6776.98f, 1555.82f, 389.033f }, 5.0f }</div>
+<div class="line">}</div>
+<div class="ttc" id="azone__icecrown_8cpp_html_a4ef927b5beddf2136998e5eb2dfe0b08"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a></div><div class="ttdeci">constexpr uint32 GhoulJumpId(uint32 summoner, uint32 group, uint32 slot)</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:2187</div></div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 2202</span>{</div>
+<div class="line"><span class="lineno"> 2203</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a>, 0), { 6777.94f, 1611.23f, 389.033f }, 5.0f },</div>
+<div class="line"><span class="lineno"> 2204</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       0), { 6765.83f, 1621.09f, 389.033f }, 5.0f },</div>
+<div class="line"><span class="lineno"> 2205</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       1), { 6794.71f, 1623.46f, 389.033f }, 6.0f },</div>
+<div class="line"><span class="lineno"> 2206</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964aae3fdab275bb29d7bf79da97604cffcc">NPC_CAULDRON_BUNNY_00</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a>,   0), { 6777.03f, 1608.18f, 389.033f }, 5.0f },</div>
+<div class="line"><span class="lineno"> 2207</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a>, 0), { 6773.30f, 1583.22f, 389.033f }, 5.0f },</div>
+<div class="line"><span class="lineno"> 2208</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       0), { 6763.36f, 1567.51f, 389.033f }, 6.0f },</div>
+<div class="line"><span class="lineno"> 2209</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       1), { 6761.96f, 1600.88f, 389.033f }, 6.0f },</div>
+<div class="line"><span class="lineno"> 2210</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964ad9ada63b0f1b715cc8fb934070a52b88">NPC_CAULDRON_BUNNY_01</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a>,   0), { 6777.47f, 1583.80f, 389.033f }, 5.0f },</div>
+<div class="line"><span class="lineno"> 2211</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a>, 0), { 6777.73f, 1558.13f, 389.033f }, 5.0f },</div>
+<div class="line"><span class="lineno"> 2212</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       0), { 6764.14f, 1547.33f, 389.033f }, 6.0f },</div>
+<div class="line"><span class="lineno"> 2213</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       1), { 6792.88f, 1548.01f, 389.033f }, 6.0f },</div>
+<div class="line"><span class="lineno"> 2214</span>    { <a class="code hl_function" href="../../d6/d81/zone__icecrown_8cpp.html#a4ef927b5beddf2136998e5eb2dfe0b08">GhoulJumpId</a>(<a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964af27cbbfc8f87b9bc9969d6aefdbec30d">NPC_CAULDRON_BUNNY_02</a>, <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a>,   0), { 6776.98f, 1555.82f, 389.033f }, 5.0f }</div>
+<div class="line"><span class="lineno"> 2215</span>};</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l02217">GetGhoulJumpData()</a>.</p>
 
 </div>
 </div>
@@ -1691,13 +2064,44 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a id="ae40705bb69c38bbfb24daddb83e5a82b" name="ae40705bb69c38bbfb24daddb83e5a82b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae40705bb69c38bbfb24daddb83e5a82b">&#9670;&#160;</a></span>WaveChances</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/d5f/structWaveChance.html">WaveChance</a> const WaveChances[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a>, 30 },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a54d2595ba94eb29b3347891571f77444">GROUP_PLAGUE_SWARM</a>,     20 },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a>,   20 },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       20 },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a972eb332eae43091a385f5d0b4787d29">GROUP_NOTHING</a>,          10 }</div>
+<div class="line">}</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 2234</span>{</div>
+<div class="line"><span class="lineno"> 2235</span>    { <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a41ed3dd9428a67a78217484b740a2e11">GROUP_GHOUL_AND_PLAGUE</a>, 30 },</div>
+<div class="line"><span class="lineno"> 2236</span>    { <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a54d2595ba94eb29b3347891571f77444">GROUP_PLAGUE_SWARM</a>,     20 },</div>
+<div class="line"><span class="lineno"> 2237</span>    { <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a50bdc0ded149c6fa032333b682fdd537">GROUP_DRENCHED_GHOUL</a>,   20 },</div>
+<div class="line"><span class="lineno"> 2238</span>    { <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a751d42cb7234d85e659d39d579078965">GROUP_GHOUL_PAIR</a>,       20 },</div>
+<div class="line"><span class="lineno"> 2239</span>    { <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#ae0ef391bcdf3b54c779b1e1ea5b8b964a972eb332eae43091a385f5d0b4787d29">GROUP_NOTHING</a>,          10 }</div>
+<div class="line"><span class="lineno"> 2240</span>};</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l02400">npc_plague_cauldron_bunny::RollWaveGroup()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../d6/d81/zone__icecrown_8cpp.html">zone_icecrown.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 27 2026 11:28:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 28 2026 12:00:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

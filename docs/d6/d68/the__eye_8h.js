@@ -5,8 +5,8 @@ var the__eye_8h =
     [ "TheEyeScriptName", "d6/d68/the__eye_8h.html#a715610ea7ac0b366db509638136446dc", null ],
     [ "EyeData", "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3", [
       [ "DATA_ALAR", "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a66655c20f692a6d808496086aa954bea", null ],
-      [ "DATA_ASTROMANCER", "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3ae1fb90732fdb89170e0805914fa500b9", null ],
       [ "DATA_REAVER", "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a2a5e1f51e98d708c07843e2dacf7007f", null ],
+      [ "DATA_ASTROMANCER", "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3ae1fb90732fdb89170e0805914fa500b9", null ],
       [ "DATA_KAELTHAS", "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a9459cb9bb83f7a23115debb607cb25a3", null ],
       [ "MAX_ENCOUNTER", "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a7913656ef56deb3793c0c5f3d999d80d", null ],
       [ "DATA_THALADRED", "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3ae2ed8de980552f6a962032d1c5d09e82", null ],

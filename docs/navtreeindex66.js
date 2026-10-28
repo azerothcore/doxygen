@@ -1,5 +1,8 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5a/classnpc__bloodmage__laurith.html#a5a5151a56de3ad1012d9a795dbfb5bd5":[7,0,1706,2],
+"d2/d5b/boss__novos_8cpp.html":[8,0,0,0,1,3,5,3,1],
+"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,3,1,5],
 "d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a184ab33dcebe153863959d30c3e09f91":[8,0,0,0,1,3,5,3,1,5,0],
 "d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1d0dd62c4b1cdc71b86559a782c4b4f1":[8,0,0,0,1,3,5,3,1,5,4],
 "d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5216547b0d407e13c51118fdb18309a3":[8,0,0,0,1,3,5,3,1,5,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416a67c26d38a1c04c6defc255ec84508341":[8,0,0,0,1,3,2,28,5,7],
 "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416acb7d83e4f63d87d9e07acd3fe790cf3f":[8,0,0,0,1,3,2,28,5,0],
 "d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416aef4150f2e8b273cda80a22afb309dcbd":[8,0,0,0,1,3,2,28,5,2],
-"d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416aef8c0d8bbd31ac1280da5e1d047b090c":[8,0,0,0,1,3,2,28,5,4],
-"d2/d5c/classspell__karazhan__wrath__titans__aura.html":[7,0,3569],
-"d2/d5c/classspell__karazhan__wrath__titans__aura.html#a001de2ce29c768b328b93c66c6aca2f9":[7,0,3569,2],
-"d2/d5c/classspell__karazhan__wrath__titans__aura.html#a085f6affd2bf76fe66f9023e67725848":[7,0,3569,0]
+"d2/d5b/zone__silverpine__forest_8cpp.html#ac7d12f884ef22dca36021fe54df83416aef8c0d8bbd31ac1280da5e1d047b090c":[8,0,0,0,1,3,2,28,5,4]
 };
