@@ -1,14 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/d78/classspell__novos__summon__minions.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c":[7,0,3748,3],
-"d3/d78/classspell__novos__summon__minions.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa":[7,0,3748,0],
-"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html":[7,0,4280],
-"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a19221c8453f23a7d384f6a2cb24c2fc2":[7,0,4280,2],
-"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a71638bdecb0f580dceff7858441056d8":[7,0,4280,0],
-"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a741227928e07585b156ec716ae8b13da":[7,0,4280,1],
-"d3/d78/structnpc__expedition__trapper.html":[7,0,1827],
-"d3/d78/structnpc__expedition__trapper.html#a094ecbf1a719223d50c7d070989aa782":[7,0,1827,1],
-"d3/d78/structnpc__expedition__trapper.html#a11241b1513209a9964569ab29eb5dc64":[7,0,1827,3],
 "d3/d78/structnpc__expedition__trapper.html#a16a39f855263ebde21ddb03d4fe60460":[7,0,1827,4],
 "d3/d78/structnpc__expedition__trapper.html#ac924a9b9e23624de1460b0cdfe8c8a1b":[7,0,1827,0],
 "d3/d78/structnpc__expedition__trapper.html#ae24ec016a0f29f7bcb41935e1991f9fa":[7,0,1827,5],
@@ -248,6 +239,15 @@ var NAVTREEINDEX105 =
 "d3/d80/WorldSocket_8h.html":[8,0,0,0,1,2,39,10],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,17,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,17,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[7,0,5,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,17,4,0]
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,17,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[7,0,5,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,17,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,17,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[7,0,5,4,1],
+"d3/d81/GroupScript_8cpp.html":[8,0,0,0,1,2,38,0,55],
+"d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[8,0,0,0,1,2,38,0,55,0],
+"d3/d81/classAbominationDespawner.html":[7,0,22]
 };

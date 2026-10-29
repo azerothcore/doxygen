@@ -1,15 +1,5 @@
 var NAVTREEINDEX184 =
 {
-"d6/d67/classSpellProcPipelineTest.html#a39b6b0e42a22735909b0edf6de29d5f1":[7,0,4527,1],
-"d6/d68/HMAC_8h.html":[8,0,0,0,0,3,14],
-"d6/d68/HMAC_8h.html#a5186a2a02e2301ec3ea7b37d8b41097f":[8,0,0,0,0,3,14,1],
-"d6/d68/HMAC_8h.html#a80d906d20826d6c963f50eba5f7c4c2a":[8,0,0,0,0,3,14,2],
-"d6/d68/blackfathom__deeps_8h.html":[8,0,0,0,1,3,4,0,0],
-"d6/d68/blackfathom__deeps_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,4,0,0,0],
-"d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999f":[8,0,0,0,1,3,4,0,0,3],
-"d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa07ab7106db39ad73b3c7b57af9662339":[8,0,0,0,1,3,4,0,0,3,3],
-"d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa0af3bb485ee0abc369813b957b393eff":[8,0,0,0,1,3,4,0,0,3,4],
-"d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa35a6ccd78308a762b283d3f7c80e193c":[8,0,0,0,1,3,4,0,0,3,6],
 "d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa8200a023854e17a9655d2fa4102d8140":[8,0,0,0,1,3,4,0,0,3,1],
 "d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999fa9e410ded7ed0632a9c9b0159d0fa735f":[8,0,0,0,1,3,4,0,0,3,5],
 "d6/d68/blackfathom__deeps_8h.html#a57d2d4154291532e405ab880a40a999faacead6fa04e952d75dda66e3ee67aca1":[8,0,0,0,1,3,4,0,0,3,2],
@@ -225,8 +215,8 @@ var NAVTREEINDEX184 =
 "d6/d73/classspell__gluth__decimate__damage.html":[7,0,3194],
 "d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[7,0,3194,0],
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[7,0,3194,1],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[7,0,2020],
@@ -249,5 +239,15 @@ var NAVTREEINDEX184 =
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,8,2,3,3,0],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a6e3c4d3b708e8ce07968a075b3ffb22a":[8,0,0,0,1,3,5,8,2,3,3,1],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1ac54151b5c8f69a89047282c61104080e":[8,0,0,0,1,3,5,8,2,3,3,2],
-"d6/d75/boss__varos_8cpp.html#a3f03c0da16e093699a7a77f26d155c8c":[8,0,0,0,1,3,5,8,2,3,6]
+"d6/d75/boss__varos_8cpp.html#a3f03c0da16e093699a7a77f26d155c8c":[8,0,0,0,1,3,5,8,2,3,6],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,8,2,3,4],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca0782d4659617eca753d8e86bd0eacf3f":[8,0,0,0,1,3,5,8,2,3,4,12],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca14c8da7c0c50bc4f68f632ebe96ba167":[8,0,0,0,1,3,5,8,2,3,4,2],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f4a990d8e2da0c3c32429f5800a7c98":[8,0,0,0,1,3,5,8,2,3,4,1],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca476c08e4a5afa8fb72ee34601aa31aea":[8,0,0,0,1,3,5,8,2,3,4,11],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca5b8e694237c7855357feb415406b711f":[8,0,0,0,1,3,5,8,2,3,4,10],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca87e9bdbcad370474c4c3bb29bd8eaba1":[8,0,0,0,1,3,5,8,2,3,4,6],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca8aadb99fb905a6d56d982f9e512897ec":[8,0,0,0,1,3,5,8,2,3,4,8],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca8e14f62823848ae3fb017a4c8cef79f5":[8,0,0,0,1,3,5,8,2,3,4,3],
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca9fe07b80a3099720bbf99d05276a3e0d":[8,0,0,0,1,3,5,8,2,3,4,13]
 };

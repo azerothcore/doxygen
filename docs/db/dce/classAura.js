@@ -20,7 +20,6 @@ var classAura =
     [ "CalcMaxDuration", "db/dce/classAura.html#a97f212bb7332fdf03fccafe5389c1e0a", null ],
     [ "CalcMaxDuration", "db/dce/classAura.html#a507acdaa5041d3faa9a804e49c29264e", null ],
     [ "CalcProcChance", "db/dce/classAura.html#aa515b9daf648d268f02ef974b3573550", null ],
-    [ "CallScriptAfterCheckProcHandlers", "db/dce/classAura.html#a21722597230f267a7c32a80854f6c110", null ],
     [ "CallScriptAfterDispel", "db/dce/classAura.html#afa8b3462e2d68da5a9972c6cbd637022", null ],
     [ "CallScriptAfterEffectApplyHandlers", "db/dce/classAura.html#a76282958056070ecbf58c7a864ea7494", null ],
     [ "CallScriptAfterEffectProcHandlers", "db/dce/classAura.html#a97347f8dc5f2dd96c7c45a77c13988a5", null ],

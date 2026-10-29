@@ -1,6 +1,5 @@
 var classAuraScript =
 [
-    [ "AfterCheckProcHandler", "dd/d2e/classAuraScript_1_1AfterCheckProcHandler.html", "dd/d2e/classAuraScript_1_1AfterCheckProcHandler" ],
     [ "AuraDispelHandler", "d2/d19/classAuraScript_1_1AuraDispelHandler.html", "d2/d19/classAuraScript_1_1AuraDispelHandler" ],
     [ "AuraProcHandler", "d7/d9d/classAuraScript_1_1AuraProcHandler.html", "d7/d9d/classAuraScript_1_1AuraProcHandler" ],
     [ "CheckAreaTargetHandler", "d0/d99/classAuraScript_1_1CheckAreaTargetHandler.html", "d0/d99/classAuraScript_1_1CheckAreaTargetHandler" ],
@@ -68,7 +67,6 @@ var classAuraScript =
     [ "AfterEffectProc", "d5/d0f/classAuraScript.html#a537a64e3d248f230b6e3aab384261918", null ],
     [ "AfterEffectRemove", "d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf", null ],
     [ "AfterProc", "d5/d0f/classAuraScript.html#aaa931897d7190dbc2a1e780d9ea87a2b", null ],
-    [ "DoAfterCheckProc", "d5/d0f/classAuraScript.html#a863736f1713d88c9bcf0eb552c2aebd4", null ],
     [ "DoCheckAreaTarget", "d5/d0f/classAuraScript.html#a9afe5ca2d01661fb7fab59aa5d58c405", null ],
     [ "DoCheckEffectProc", "d5/d0f/classAuraScript.html#a414fb49ed9bed761a3f2571ae3ef05aa", null ],
     [ "DoCheckProc", "d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d", null ],

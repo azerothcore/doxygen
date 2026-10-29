@@ -1,14 +1,5 @@
 var NAVTREEINDEX106 =
 {
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,17,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[7,0,5,4,2],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,17,4,2],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[7,0,5,4,1],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,17,4,1],
-"d3/d81/GroupScript_8cpp.html":[8,0,0,0,1,2,38,0,55],
-"d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[8,0,0,0,1,2,38,0,55,0],
-"d3/d81/classAbominationDespawner.html":[7,0,22],
 "d3/d81/classAbominationDespawner.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e":[7,0,22,0],
 "d3/d81/classAbominationDespawner.html#a58b8faac1cdffa7230783a1d6439fcfb":[7,0,22,1],
 "d3/d81/classAbominationDespawner.html#af9089e566905b885887a5714ad5b0741":[7,0,22,2],
@@ -249,5 +240,14 @@ var NAVTREEINDEX106 =
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#a9058ce72bb956d7e90eff740c0f9633a":[7,0,1705,0,6],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#ae9d2f6b53898db04da58efe0deeceea5":[7,0,1705,0,4],
 "d3/d86/structnpc__blood__queen__lana__thel_1_1npc__blood__queen__lana__thelAI.html#af1aafdc45abcdfbdbea7f5b67f3bc620":[7,0,1705,0,1],
-"d3/d88/SpellHandler_8cpp.html":[8,0,0,0,1,2,22,30]
+"d3/d88/SpellHandler_8cpp.html":[8,0,0,0,1,2,22,30],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[5,0,34,1,1],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[7,0,13,1,1],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[7,0,13,1,1,0],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[5,0,34,1,1,0],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[7,0,13,1,1,2],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[5,0,34,1,1,2],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[7,0,13,1,1,3],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[5,0,34,1,1,3],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[7,0,13,1,1,1]
 };

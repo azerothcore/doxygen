@@ -1,15 +1,5 @@
 var NAVTREEINDEX179 =
 {
-"d6/d38/classAchievementGlobalMgr.html#ae36fdddc02c3621ec7b46662ad73a4f7":[7,0,122,31],
-"d6/d38/classAchievementGlobalMgr.html#af5f1bef1c574fe236d27278826211eac":[7,0,122,27],
-"d6/d38/classChatHandler.html":[7,0,894],
-"d6/d38/classChatHandler.html#a050e5644f350519a1f3d564c84d31108":[7,0,894,16],
-"d6/d38/classChatHandler.html#a0ca0561c39cf8c5f34f00c37c3140350":[7,0,894,8],
-"d6/d38/classChatHandler.html#a0e2b0a9da9e25f17c2f995505eeea940":[7,0,894,17],
-"d6/d38/classChatHandler.html#a13e7c9678f7556e56f62de28ccb7940f":[7,0,894,56],
-"d6/d38/classChatHandler.html#a19e62eb40db7bcfa58d6f9fc55e5cb42":[7,0,894,22],
-"d6/d38/classChatHandler.html#a1f915beeda589704808dc727c3edcb63":[7,0,894,62],
-"d6/d38/classChatHandler.html#a2276cef4cca3c6f8bdd75cc0faf37b34":[7,0,894,38],
 "d6/d38/classChatHandler.html#a24baacb6556d36625df4be583b8d675f":[7,0,894,68],
 "d6/d38/classChatHandler.html#a29884cdfd271e022362709b125e152f3":[7,0,894,5],
 "d6/d38/classChatHandler.html#a3295cee708d267aac165f9ee55d2e615":[7,0,894,4],
@@ -249,5 +239,15 @@ var NAVTREEINDEX179 =
 "d6/d3b/classCliHandler.html#a6a7ba928db9d41743d7cebd1ad98b084":[7,0,911,1],
 "d6/d3b/classCliHandler.html#a7a3f746595d9ca126747f5e0ba52c71b":[7,0,911,0],
 "d6/d3b/classCliHandler.html#aa1fafd68fca180506cc15680b695db9e":[7,0,911,11],
-"d6/d3b/classCliHandler.html#aadeaa84ce5d26951f506a2656c1d64d2":[7,0,911,12]
+"d6/d3b/classCliHandler.html#aadeaa84ce5d26951f506a2656c1d64d2":[7,0,911,12],
+"d6/d3b/classCliHandler.html#ab12ec41c55bc5f92461abff538a76b66":[7,0,911,2],
+"d6/d3b/classCliHandler.html#abbd02247d6094bf39b2791ba45e9942e":[7,0,911,9],
+"d6/d3b/classCliHandler.html#ad8c4ee6e45afff55d94dea9704bd2097":[7,0,911,8],
+"d6/d3b/classCliHandler.html#ae879bbfa69992caa7a0b1b2b3c7d939c":[7,0,911,4],
+"d6/d3b/classCliHandler.html#aefd8e9833bbe24c6414dc6259d078df6":[7,0,911,3],
+"d6/d3c/structnpc__darkfallen__tactician.html":[7,0,1786],
+"d6/d3c/structnpc__darkfallen__tactician.html#a26dcb830533771faf8ebc90995ea010b":[7,0,1786,1],
+"d6/d3c/structnpc__darkfallen__tactician.html#a946ccdf41d93a3477204e303c3404c5c":[7,0,1786,0],
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html":[7,0,1960,0],
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a04f09361f6bc4bc752ca773878187f79":[7,0,1960,0,0]
 };

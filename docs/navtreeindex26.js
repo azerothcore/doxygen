@@ -1,14 +1,5 @@
 var NAVTREEINDEX26 =
 {
-"d1/d14/classnpc__creditmarker__visit__with__ancestors.html#a60f7abac7198d8504d944828dceb1ffa":[7,0,1761,1],
-"d1/d14/classspell__pri__lightwell.html":[7,0,3862],
-"d1/d14/classspell__pri__lightwell.html#a33d46e5ebd418ea0242d958345cb44d2":[7,0,3862,1],
-"d1/d14/classspell__pri__lightwell.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae":[7,0,3862,3],
-"d1/d14/classspell__pri__lightwell.html#ad3497a9c986f65978d4b2553b0c9958f":[7,0,3862,0],
-"d1/d14/classspell__pri__lightwell.html#ade09cd376d00df8b5e709026e353f409":[7,0,3862,2],
-"d1/d15/structboss__renataki_1_1boss__renatakiAI.html":[7,0,689,0],
-"d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a29dd57c66245f30d12f32d31cc25cd55":[7,0,689,0,11],
-"d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a3a1abaef460d9abe1298080080d74c9d":[7,0,689,0,8],
 "d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a502bfa737cf97ae909144278a3e39bd0":[7,0,689,0,9],
 "d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a62d97adb310b55a2235737b854dc4aca":[7,0,689,0,5],
 "d1/d15/structboss__renataki_1_1boss__renatakiAI.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d":[7,0,689,0,4],
@@ -249,5 +240,14 @@ var NAVTREEINDEX26 =
 "d1/d16/classSpell.html#a9dad327981d8ca379abffb59a8120dc3":[7,0,2651,374],
 "d1/d16/classSpell.html#a9e7303d514d8049b1ad037e0494735ba":[7,0,2651,56],
 "d1/d16/classSpell.html#aa03328d3cd0d04d923500dd2d801be2d":[7,0,2651,14],
-"d1/d16/classSpell.html#aa160274138dbebf153c189d8f4cdb59c":[7,0,2651,376]
+"d1/d16/classSpell.html#aa160274138dbebf153c189d8f4cdb59c":[7,0,2651,376],
+"d1/d16/classSpell.html#aa19f9a8629e5ff119c87c8308c8d08d6":[7,0,2651,49],
+"d1/d16/classSpell.html#aa1eef1b2b1d1aec52584b95b9217b6fa":[7,0,2651,366],
+"d1/d16/classSpell.html#aa315cdc2ffad0c4cbc8e27a54aa0b7b2":[7,0,2651,4],
+"d1/d16/classSpell.html#aa44997677805ab1f8fab8eb739ce4a82":[7,0,2651,357],
+"d1/d16/classSpell.html#aa6b3f286ab915d146a2e10fcda068334":[7,0,2651,195],
+"d1/d16/classSpell.html#aa7031bfbd0cb6df5192d7ac6eaf965fc":[7,0,2651,345],
+"d1/d16/classSpell.html#aa70880f32c67326c5348b4d43e71b010":[7,0,2651,161],
+"d1/d16/classSpell.html#aa82587a1bed4b000e9e84af5927ea898":[7,0,2651,135],
+"d1/d16/classSpell.html#aa97dea4a1684b9818ac11df709e46ebc":[7,0,2651,192]
 };

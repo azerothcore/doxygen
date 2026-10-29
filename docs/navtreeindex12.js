@@ -1,6 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaad2643460e20b86800c3d4179aae799c9":[8,0,0,0,1,3,5,6,2,24,43],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaad5b6ecf8d0c39cef8253eb76993d6c7f":[8,0,0,0,1,3,5,6,2,24,31],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaada55f761193c5ce51964480004c8462b":[8,0,0,0,1,3,5,6,2,24,11],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaadffe1c54a228d5d124a47df2526383a4":[8,0,0,0,1,3,5,6,2,24,34],
@@ -99,9 +98,9 @@ var NAVTREEINDEX12 =
 "d0/d87/classgo__wg__vehicle__teleporter.html":[7,0,1243],
 "d0/d87/classgo__wg__vehicle__teleporter.html#a074ead770a3da6e9ffa4180a3525f4c8":[7,0,1243,1],
 "d0/d87/classgo__wg__vehicle__teleporter.html#a113aaf42c095000c1a016bfe60df11e7":[7,0,1243,2],
-"d0/d87/structTorlothCinematic.html":[7,0,4609],
-"d0/d87/structTorlothCinematic.html#a2be497dc190c1f01f939e12083739882":[7,0,4609,1],
-"d0/d87/structTorlothCinematic.html#ab4b8f837dbfb42bcbb161f81f846aad9":[7,0,4609,0],
+"d0/d87/structTorlothCinematic.html":[7,0,4608],
+"d0/d87/structTorlothCinematic.html#a2be497dc190c1f01f939e12083739882":[7,0,4608,1],
+"d0/d87/structTorlothCinematic.html#ab4b8f837dbfb42bcbb161f81f846aad9":[7,0,4608,0],
 "d0/d88/UpdateFetcher_8cpp.html":[8,0,0,0,1,1,3,2],
 "d0/d88/boss__hedrum_8cpp.html":[8,0,0,0,1,3,2,1,0,9],
 "d0/d88/boss__hedrum_8cpp.html#a518437f8a83303c8b99890b84ff89461":[8,0,0,0,1,3,2,1,0,9,2],
@@ -112,11 +111,11 @@ var NAVTREEINDEX12 =
 "d0/d88/boss__hedrum_8cpp.html#a5bd342133be8c2137b831460acc9298cab4be363fd22b70de1bbd2a8391a0ed1a":[8,0,0,0,1,3,2,1,0,9,1,2],
 "d0/d88/boss__hedrum_8cpp.html#a7a4c0f8014c785e5f061e674cfd2bd23":[8,0,0,0,1,3,2,1,0,9,4],
 "d0/d88/boss__hedrum_8cpp.html#a89d9028330c8dc18f9e316257103a7a3":[8,0,0,0,1,3,2,1,0,9,3],
-"d0/d88/structSpellRadiusEntry.html":[7,0,4535],
-"d0/d88/structSpellRadiusEntry.html#a74bb59afb808af45ceff6367468fca1e":[7,0,4535,3],
-"d0/d88/structSpellRadiusEntry.html#aa5db020808990dc98fc143e4a5e0d2b2":[7,0,4535,0],
-"d0/d88/structSpellRadiusEntry.html#ab82c1acb9309b17104958182d80b01d1":[7,0,4535,1],
-"d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[7,0,4535,2],
+"d0/d88/structSpellRadiusEntry.html":[7,0,4534],
+"d0/d88/structSpellRadiusEntry.html#a74bb59afb808af45ceff6367468fca1e":[7,0,4534,3],
+"d0/d88/structSpellRadiusEntry.html#aa5db020808990dc98fc143e4a5e0d2b2":[7,0,4534,0],
+"d0/d88/structSpellRadiusEntry.html#ab82c1acb9309b17104958182d80b01d1":[7,0,4534,1],
+"d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[7,0,4534,2],
 "d0/d89/boss__thorim_8cpp.html":[8,0,0,0,1,3,5,9,2,11],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369":[8,0,0,0,1,3,5,9,2,11,19],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a03db2c1cb03e4beb4ef4e8293a7dae18":[8,0,0,0,1,3,5,9,2,11,19,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX12 =
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a01912c7c4028db13d5f1095fce477908":[8,0,0,0,1,3,5,9,2,11,20,57],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a0347a8d89f24e030b2bf2f6309992de9":[8,0,0,0,1,3,5,9,2,11,20,14],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a074b702ae99198e6bb4c840144bb0372":[8,0,0,0,1,3,5,9,2,11,20,42],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a0755e10515b4b90b2d81da1b416da271":[8,0,0,0,1,3,5,9,2,11,20,24]
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a0755e10515b4b90b2d81da1b416da271":[8,0,0,0,1,3,5,9,2,11,20,24],
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a079fdbedeb449ce76d26fa93301be553":[8,0,0,0,1,3,5,9,2,11,20,40]
 };

@@ -1,14 +1,5 @@
 var NAVTREEINDEX63 =
 {
-"d2/d4b/classPlayer.html#a9db7bf014aa6b541253cef245cc34948":[7,0,2447,785],
-"d2/d4b/classPlayer.html#a9dc1c5de1b2f50ad693740ef4cdb786c":[7,0,2447,714],
-"d2/d4b/classPlayer.html#a9dc54ebeec010ad8923a87fedcaddce6":[7,0,2447,759],
-"d2/d4b/classPlayer.html#a9dd2faa75206006be403edae39dcb8cd":[7,0,2447,1296],
-"d2/d4b/classPlayer.html#a9df30430ce60344703a33ae012e92531":[7,0,2447,320],
-"d2/d4b/classPlayer.html#a9e7aea10b548d4cef60b4d6b1da6e89e":[7,0,2447,1202],
-"d2/d4b/classPlayer.html#a9e99ee8e3d5603c86e5ed99bb1d233ee":[7,0,2447,862],
-"d2/d4b/classPlayer.html#a9ea72cbc30ce91ae6ca1b5b03536737a":[7,0,2447,418],
-"d2/d4b/classPlayer.html#a9f0f6a9fb52e80f7d9d21a8740690470":[7,0,2447,1109],
 "d2/d4b/classPlayer.html#a9f21cc69fdddeb683e4df120b06f9ea5":[7,0,2447,962],
 "d2/d4b/classPlayer.html#a9f23cae8a3da0345a05c2a2bfedc2fe2":[7,0,2447,600],
 "d2/d4b/classPlayer.html#a9f3d9591da9267de25eaa612a03026c4":[7,0,2447,853],
@@ -249,5 +240,14 @@ var NAVTREEINDEX63 =
 "d2/d4b/classPlayer.html#acbb385231cd5853723fb712743a4e35c":[7,0,2447,251],
 "d2/d4b/classPlayer.html#acc65c752607dfcde32c7ec9020994ed4":[7,0,2447,960],
 "d2/d4b/classPlayer.html#acc6d1e4f6f7f6dbf9bc6b9ce55bf542d":[7,0,2447,605],
-"d2/d4b/classPlayer.html#acc74be61fb0e1f4d49bf5a5871bbcece":[7,0,2447,660]
+"d2/d4b/classPlayer.html#acc74be61fb0e1f4d49bf5a5871bbcece":[7,0,2447,660],
+"d2/d4b/classPlayer.html#acc9c8f50311ad05b07a2aab211aa49d2":[7,0,2447,715],
+"d2/d4b/classPlayer.html#accf76e6e8a7873fa245bda7526fb0c88":[7,0,2447,693],
+"d2/d4b/classPlayer.html#acd1db0281735759500d7d60d64fac40c":[7,0,2447,1311],
+"d2/d4b/classPlayer.html#acd2de16de2e3ffc77b0440a4b4447136":[7,0,2447,506],
+"d2/d4b/classPlayer.html#acd518e302646466f5d2b76719f13c8df":[7,0,2447,850],
+"d2/d4b/classPlayer.html#acd62549850f729befb28f0c962791e6d":[7,0,2447,1250],
+"d2/d4b/classPlayer.html#acd7ede64ca595b3a24189543d269e21a":[7,0,2447,410],
+"d2/d4b/classPlayer.html#acde9c80282ba99867f79d815b712a427":[7,0,2447,1085],
+"d2/d4b/classPlayer.html#ace2deabece11fa986a5ca0d8cbee2639":[7,0,2447,176]
 };

@@ -1,14 +1,5 @@
 var NAVTREEINDEX96 =
 {
-"d3/d18/boss__hadronox_8cpp.html#aca96f3c30dca527221f7521f4da7c92f":[8,0,0,0,1,3,5,0,1,2,24],
-"d3/d18/boss__hadronox_8cpp.html#ad209ba6d641758bf22351a6196d3c7c9":[8,0,0,0,1,3,5,0,1,2,16],
-"d3/d18/boss__hadronox_8cpp.html#ad47c7c04c61faa5009fa497e40a74a09":[8,0,0,0,1,3,5,0,1,2,18],
-"d3/d18/boss__hadronox_8cpp.html#ad6be14fc903bc7dfaec45c01a3346561":[8,0,0,0,1,3,5,0,1,2,20],
-"d3/d18/boss__hadronox_8cpp.html#ada858526fe00c875da6431bcd5ad17b1":[8,0,0,0,1,3,5,0,1,2,21],
-"d3/d18/boss__hadronox_8cpp.html#aee08b9c5c142757a7ca8939ebf5b7944":[8,0,0,0,1,3,5,0,1,2,17],
-"d3/d18/boss__hadronox_8cpp.html#af5baa506e65b4caa6be6d1c6661dfe63":[8,0,0,0,1,3,5,0,1,2,10],
-"d3/d18/boss__hadronox_8cpp.html#af5baa506e65b4caa6be6d1c6661dfe63a730c05e2d59a01072d37989ebe09bdfa":[8,0,0,0,1,3,5,0,1,2,10,0],
-"d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,0,1,2,11],
 "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a09669ceedfe82768c5fd5a2dafd042fc":[8,0,0,0,1,3,5,0,1,2,11,15],
 "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2084f8df4bb3a924b03a8bfff7f019dc":[8,0,0,0,1,3,5,0,1,2,11,8],
 "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d37532e7cf2ec727198d5679d437dca":[8,0,0,0,1,3,5,0,1,2,11,3],
@@ -48,10 +39,10 @@ var NAVTREEINDEX96 =
 "d3/d19/structArenaTeamScore.html#ae3e2b8e8a29c50ca20a42a0364349764":[7,0,206,3],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[7,0,0,91,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[5,0,0,103,0],
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[7,0,0,91,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[5,0,0,103,0,0],
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[7,0,0,91,0,1],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[7,0,0,91,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[5,0,0,103,0,1],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[7,0,0,91,0,1],
 "d3/d1a/classspell__pal__seal__of__vengeance__aura.html":[7,0,3821],
 "d3/d1a/classspell__pal__seal__of__vengeance__aura.html#a16545533c0a45b6bde0da3fbeaed75ae":[7,0,3821,3],
 "d3/d1a/classspell__pal__seal__of__vengeance__aura.html#a194bdf6e15ecf61533d40c0990e392a4":[7,0,3821,7],
@@ -249,5 +240,14 @@ var NAVTREEINDEX96 =
 "d3/d1f/classnpc__frost__freeze__trap.html#a88ed9aeb0403b3b625c858cd1e44a99f":[7,0,1848,2],
 "d3/d1f/classnpc__frost__freeze__trap.html#ac58ed2598fd4250f220208a91343f9b8":[7,0,1848,1],
 "d3/d20/classinstance__trial__of__the__champion.html":[7,0,1391],
-"d3/d20/classinstance__trial__of__the__champion.html#a7b97e3da119a7ad33a87c74647407bd8":[7,0,1391,1]
+"d3/d20/classinstance__trial__of__the__champion.html#a7b97e3da119a7ad33a87c74647407bd8":[7,0,1391,1],
+"d3/d20/classinstance__trial__of__the__champion.html#a9227119fc47f38cd82a1fc07c04b0c86":[7,0,1391,2],
+"d3/d21/boss__xevozz_8cpp.html":[8,0,0,0,1,3,5,12,5],
+"d3/d21/boss__xevozz_8cpp.html#a06823f38ce159119a322b18ac9bbfce8":[8,0,0,0,1,3,5,12,5,4],
+"d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[8,0,0,0,1,3,5,12,5,1],
+"d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a14bb8e4962b33b218755721b24a5c2ea":[8,0,0,0,1,3,5,12,5,1,1],
+"d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a700906602d16c0752aa1c5e1fa4f70b3":[8,0,0,0,1,3,5,12,5,1,0],
+"d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a7c3c5c0ee94b39edd6a148153059c740":[8,0,0,0,1,3,5,12,5,1,3],
+"d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a933075a6c1b330ca6724e8bcc62fed41":[8,0,0,0,1,3,5,12,5,1,2],
+"d3/d21/boss__xevozz_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,12,5,3]
 };

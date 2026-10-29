@@ -27,7 +27,6 @@ var spell__warrior_8cpp =
     [ "spell_warr_t3_prot_8p_bonus", "d2/dc9/classspell__warr__t3__prot__8p__bonus.html", "d2/dc9/classspell__warr__t3__prot__8p__bonus" ],
     [ "spell_warr_retaliation", "db/d23/classspell__warr__retaliation.html", "db/d23/classspell__warr__retaliation" ],
     [ "spell_warr_heroic_strike", "de/daf/classspell__warr__heroic__strike.html", "de/daf/classspell__warr__heroic__strike" ],
-    [ "spell_war_sudden_death_aura", "d1/d05/classspell__war__sudden__death__aura.html", "d1/d05/classspell__war__sudden__death__aura" ],
     [ "spell_warr_second_wind", "d0/da6/classspell__warr__second__wind.html", "d0/da6/classspell__warr__second__wind" ],
     [ "spell_warr_deep_wounds_aura", "da/d89/classspell__warr__deep__wounds__aura.html", "da/d89/classspell__warr__deep__wounds__aura" ],
     [ "spell_warr_extra_proc", "db/d2a/classspell__warr__extra__proc.html", "db/d2a/classspell__warr__extra__proc" ],

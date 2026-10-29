@@ -1,15 +1,5 @@
 var NAVTREEINDEX217 =
 {
-"d7/db0/classMap.html#ae2680ce896987200ebeae965a45ff468":[7,0,1525,131],
-"d7/db0/classMap.html#ae37764185b1adf2c6438025e4fa9091a":[7,0,1525,114],
-"d7/db0/classMap.html#ae56c5ae8bbdf60c787c1fd18d7ce2099":[7,0,1525,71],
-"d7/db0/classMap.html#ae5db24f651d5058d3177c7179cbd0a37":[7,0,1525,44],
-"d7/db0/classMap.html#ae6abef8754f27862b54c06c114efcb39":[7,0,1525,116],
-"d7/db0/classMap.html#ae70896defa5eb020eaf5e387d8fcd963":[7,0,1525,34],
-"d7/db0/classMap.html#ae759ebefcfc853ac1e057f18cae43da6":[7,0,1525,229],
-"d7/db0/classMap.html#ae91440e7f257616aee79efc0bb6021c6":[7,0,1525,83],
-"d7/db0/classMap.html#ae9f3e5261fbe241735938523f70adf10":[7,0,1525,248],
-"d7/db0/classMap.html#aeb1afbeb92aa93a0237fac3486574206":[7,0,1525,281],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ce":[7,0,1525,7],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea0eaf5082b275910be96f6c24dee43a60":[7,0,1525,7,6],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea3a9c23ef7c58735aec28042053a998f3":[7,0,1525,7,8],
@@ -136,8 +126,8 @@ var NAVTREEINDEX217 =
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840":[8,0,0,0,1,3,3,0,1,3,14],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8":[8,0,0,0,1,3,3,0,1,3,33],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6":[8,0,0,0,1,3,3,0,1,3,0],
-"d7/db4/structAcore_1_1has__type.html":[7,0,0,63],
 "d7/db4/structAcore_1_1has__type.html":[5,0,0,75],
+"d7/db4/structAcore_1_1has__type.html":[7,0,0,63],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[7,0,3983],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[7,0,3983,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[7,0,3983,1],
@@ -249,5 +239,15 @@ var NAVTREEINDEX217 =
 "d7/dba/classat__zulgurub__bridge__speech.html#a0ef9d44dc98ddee8fe5133862339808d":[7,0,263,0],
 "d7/dba/classat__zulgurub__bridge__speech.html#a1a3dbb3cbfbeb50c653134b8bae773f0":[7,0,263,1],
 "d7/dba/classspell__deathbringer__blood__link.html":[7,0,2806],
-"d7/dba/classspell__deathbringer__blood__link.html#a1c67a262eb95def51661919a3bad3437":[7,0,2806,3]
+"d7/dba/classspell__deathbringer__blood__link.html#a1c67a262eb95def51661919a3bad3437":[7,0,2806,3],
+"d7/dba/classspell__deathbringer__blood__link.html#a250c95310503cd59d73e45a9b9372268":[7,0,2806,2],
+"d7/dba/classspell__deathbringer__blood__link.html#a89c0706f21fe92fd443c3638181044ec":[7,0,2806,0],
+"d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[7,0,2806,1],
+"d7/dbb/DynamicObjectScript_8cpp.html":[8,0,0,0,1,2,38,0,45],
+"d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[8,0,0,0,1,2,38,0,45,0],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[5,0,34,14,16],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[7,0,13,14,16,0]
 };

@@ -1,14 +1,5 @@
 var NAVTREEINDEX60 =
 {
-"d2/d4b/classPlayer.html#a1418383e9acced614cdc50e96398f714":[7,0,2447,1022],
-"d2/d4b/classPlayer.html#a1428577a7085cfaa2074346cc8eb4155":[7,0,2447,976],
-"d2/d4b/classPlayer.html#a143d897039420194c9a5c68817ae5da4":[7,0,2447,1064],
-"d2/d4b/classPlayer.html#a144a3a724d55073438501522b396bc44":[7,0,2447,530],
-"d2/d4b/classPlayer.html#a14601efd0fa194842605e17c3275f62c":[7,0,2447,860],
-"d2/d4b/classPlayer.html#a149478667c74346c7ffcca94bd18f069":[7,0,2447,1113],
-"d2/d4b/classPlayer.html#a14a4c0bd0215f10b44ef739083e4f577":[7,0,2447,89],
-"d2/d4b/classPlayer.html#a14d47cb129a5f4beb605492181eba8b3":[7,0,2447,285],
-"d2/d4b/classPlayer.html#a154dcd260829c16a4881fc9c5e8e9629":[7,0,2447,533],
 "d2/d4b/classPlayer.html#a15c289720b4565df4cc9700d4a23c9c8":[7,0,2447,1146],
 "d2/d4b/classPlayer.html#a15d4f12c0ec6a062cd4d530d71353c7c":[7,0,2447,85],
 "d2/d4b/classPlayer.html#a15d67fc3f36afecc9beec53389b11bc2":[7,0,2447,277],
@@ -249,5 +240,14 @@ var NAVTREEINDEX60 =
 "d2/d4b/classPlayer.html#a4020949ee431d0e1c3674a320412bc00":[7,0,2447,1077],
 "d2/d4b/classPlayer.html#a407f3a3661e2b51f26ba73eb0e3dd6e2":[7,0,2447,207],
 "d2/d4b/classPlayer.html#a40b5c0dab43afd2bcbae046c68fe9df2":[7,0,2447,486],
-"d2/d4b/classPlayer.html#a40e7b0d61fd8a768cf6243ae3978cdea":[7,0,2447,1334]
+"d2/d4b/classPlayer.html#a40e7b0d61fd8a768cf6243ae3978cdea":[7,0,2447,1334],
+"d2/d4b/classPlayer.html#a40ef408803b5c1582d46a22627bee847":[7,0,2447,614],
+"d2/d4b/classPlayer.html#a4119b83fa78e608d8d946b1821c57fdf":[7,0,2447,199],
+"d2/d4b/classPlayer.html#a415cc3a064ec5eff09df370fab0b6846":[7,0,2447,1255],
+"d2/d4b/classPlayer.html#a418ac387bb96dd2bd13a8aaff112477c":[7,0,2447,1051],
+"d2/d4b/classPlayer.html#a42824b3f43779229c0ffb4577dabe045":[7,0,2447,312],
+"d2/d4b/classPlayer.html#a42b2ced88654d79bd07c4c3a65fcc0cd":[7,0,2447,681],
+"d2/d4b/classPlayer.html#a42cdf2cab1102fefe775f559baf2b932":[7,0,2447,321],
+"d2/d4b/classPlayer.html#a42d11f3a36bf8318942f370b9b50a830":[7,0,2447,59],
+"d2/d4b/classPlayer.html#a42d245fa476aa4d231aae1abcae14c8b":[7,0,2447,1306]
 };

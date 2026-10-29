@@ -4904,7 +4904,6 @@ var annotated_dup =
     [ "spell_voljin_war_drums", "de/d00/classspell__voljin__war__drums.html", "de/d00/classspell__voljin__war__drums" ],
     [ "spell_voodoo", "dd/d9f/classspell__voodoo.html", "dd/d9f/classspell__voodoo" ],
     [ "spell_wailing_souls_periodic_aura", "d2/dae/classspell__wailing__souls__periodic__aura.html", "d2/dae/classspell__wailing__souls__periodic__aura" ],
-    [ "spell_war_sudden_death_aura", "d1/d05/classspell__war__sudden__death__aura.html", "d1/d05/classspell__war__sudden__death__aura" ],
     [ "spell_warhead_detonate", "d4/dc6/classspell__warhead__detonate.html", "d4/dc6/classspell__warhead__detonate" ],
     [ "spell_warhead_fuse_aura", "d5/d79/classspell__warhead__fuse__aura.html", "d5/d79/classspell__warhead__fuse__aura" ],
     [ "spell_warl_banish", "d1/d44/classspell__warl__banish.html", "d1/d44/classspell__warl__banish" ],
