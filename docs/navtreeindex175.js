@@ -1,5 +1,6 @@
 var NAVTREEINDEX175 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca2dbe1d99d7001fc114076614f510fc05":[8,0,0,0,1,3,5,6,11,36,33],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca362a376bf04fc6f5e61e1817b500e182":[8,0,0,0,1,3,5,6,11,36,29],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca36f313c0558ba9a243a36a63f078c10c":[8,0,0,0,1,3,5,6,11,36,7],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca37353c980e3df3a448b3822919a09fe1":[8,0,0,0,1,3,5,6,11,36,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d1e/classnpc__vehicle__d16__propelled__delivery.html":[7,0,2310],
 "d6/d1e/classnpc__vehicle__d16__propelled__delivery.html#a93bed362ae78231b21327994a3e4cafd":[7,0,2310,1],
 "d6/d1e/classnpc__vehicle__d16__propelled__delivery.html#abda3dbcb251d7f1e614d089f630d0d1c":[7,0,2310,2],
-"d6/d1f/classspell__gen__proc__above__75.html":[7,0,3137],
-"d6/d1f/classspell__gen__proc__above__75.html#a9c0f4404275b274bd8af7be621eaa5b9":[7,0,3137,0]
+"d6/d1f/classspell__gen__proc__above__75.html":[7,0,3137]
 };

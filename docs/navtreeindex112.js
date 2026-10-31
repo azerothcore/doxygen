@@ -1,5 +1,6 @@
 var NAVTREEINDEX112 =
 {
+"d3/db5/classHolidayDateCalculator.html":[7,0,1305],
 "d3/db5/classHolidayDateCalculator.html#a133ee41b0b50d9eed90cd185aeec24c1":[7,0,1305,14],
 "d3/db5/classHolidayDateCalculator.html#a14e9aaaad7d51ffe047f66ad32739807":[7,0,1305,15],
 "d3/db5/classHolidayDateCalculator.html#a210710c9e3c17b35c4c90a118d6fa8b5":[7,0,1305,2],
@@ -78,8 +79,8 @@ var NAVTREEINDEX112 =
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,34,8,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[7,0,13,8,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,34,8,12,0],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,34,8,12,2],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[7,0,13,8,12,2],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,34,8,12,2],
 "d3/dbb/Battleground_8cpp.html":[8,0,0,0,1,2,8,9],
 "d3/dbb/classquest__commandscript.html":[7,0,2519],
 "d3/dbb/classquest__commandscript.html#a044c30fdaedd07060284bd37fd2e226c":[7,0,2519,3],
@@ -101,10 +102,10 @@ var NAVTREEINDEX112 =
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html":[5,0,20,0,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[5,0,20,0,2,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[7,0,6,0,2,1],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[7,0,6,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,20,0,2,2],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[7,0,6,0,2,3],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[7,0,6,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[5,0,20,0,2,3],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[7,0,6,0,2,3],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[7,0,6,0,2,0],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,20,0,2,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html":[7,0,4657,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX112 =
 "d3/dc2/structnpc__toc__warrior_1_1npc__toc__warriorAI.html#aa787deda09d9bbf2c54d51e618eb2a82":[7,0,2259,0,2],
 "d3/dc2/structnpc__toc__warrior_1_1npc__toc__warriorAI.html#ac815e13cbbe9a8833330e15213420c65":[7,0,2259,0,1],
 "d3/dc2/structnpc__toc__warrior_1_1npc__toc__warriorAI.html#ae8f9d3f5f2c9172442c7ba4a83275cc1":[7,0,2259,0,3],
-"d3/dc4/classCorpse.html":[7,0,941],
-"d3/dc4/classCorpse.html#a0196d9ba2d908262a65ff8fa8f34b76b":[7,0,941,19]
+"d3/dc4/classCorpse.html":[7,0,941]
 };

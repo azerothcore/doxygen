@@ -1,5 +1,8 @@
 var NAVTREEINDEX362 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3c5bf4be7d32770e0f3997daa1d68867":[8,0,0,0,1,2,38,0,77,1,58],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3e44d10d839ed859bf8c16495c8e6a6c":[8,0,0,0,1,2,38,0,77,1,169],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3f9885dc7cfd173dc47eb3c98e7d8675":[8,0,0,0,1,2,38,0,77,1,190],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3fa08968eb2d0acc747af4886085bee4":[8,0,0,0,1,2,38,0,77,1,120],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a40a1e3ddb279ae0a6244979b5335abe2":[8,0,0,0,1,2,38,0,77,1,59],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a40a9067cbc98fb2b70b757a9625bd078":[8,0,0,0,1,2,38,0,77,1,102],
@@ -246,8 +249,5 @@ var NAVTREEINDEX362 =
 "dd/dcd/structCreatureFamilyEntry.html#a4d9dd8baa3f7981633248513bb25f4ca":[7,0,954,6],
 "dd/dcd/structCreatureFamilyEntry.html#a802000cefb6c4d357edfc45cc291e21e":[7,0,954,7],
 "dd/dcd/structCreatureFamilyEntry.html#a84ba697182123cb3e7dd3ba07241e971":[7,0,954,0],
-"dd/dcd/structCreatureFamilyEntry.html#a937fc579ab2790f4a972f07d3453a762":[7,0,954,5],
-"dd/dcd/structCreatureFamilyEntry.html#ad4498d40b31d18742ee4ac235cb58a2e":[7,0,954,8],
-"dd/dcd/structCreatureFamilyEntry.html#ad5d722d74bc08d4de3edd54c2f24addb":[7,0,954,2],
-"dd/dce/classspell__lurker__below__spout.html":[7,0,3621]
+"dd/dcd/structCreatureFamilyEntry.html#a937fc579ab2790f4a972f07d3453a762":[7,0,954,5]
 };

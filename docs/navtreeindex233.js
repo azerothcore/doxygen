@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"d8/d74/classWorldSession.html#a88644f10a69c3c363b87d5966b5c7152":[4,1,20,196],
 "d8/d74/classWorldSession.html#a887d38c95280c2924d6143f2861eab07":[4,1,20,201],
 "d8/d74/classWorldSession.html#a88e19f9d00287db3f2330cb71d41b062":[4,1,20,413],
 "d8/d74/classWorldSession.html#a88f1fb0f0756ce80a0fa8c36524081e2":[4,1,20,237],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d8/d74/classWorldSession.html#aea65995356dd1408f56ccb8796ec582e":[4,1,20,198],
 "d8/d74/classWorldSession.html#aeb4031e1c420ca9647ae9d55d1095957":[4,1,20,578],
 "d8/d74/classWorldSession.html#aeb9c5d11267618b090c926ac7709a3cf":[4,1,20,560],
-"d8/d74/classWorldSession.html#aec0a4202c991dc0e6c5ccb8ef4224334":[4,1,20,287],
-"d8/d74/classWorldSession.html#aec42e39d400992ba7ae18f27bdee9cd9":[4,1,20,423]
+"d8/d74/classWorldSession.html#aec0a4202c991dc0e6c5ccb8ef4224334":[4,1,20,287]
 };

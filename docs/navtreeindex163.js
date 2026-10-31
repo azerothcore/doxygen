@@ -1,5 +1,6 @@
 var NAVTREEINDEX163 =
 {
+"d5/db2/BattlegroundWS_8h.html#a50801b1baa78c499341bfe44d88ffcf3aedcf50e072c7fbdbf39f7421e29c09fe":[8,0,0,0,1,2,8,1,21,13,6],
 "d5/db2/BattlegroundWS_8h.html#a50801b1baa78c499341bfe44d88ffcf3afcae781e82c805094dd5f1dcb7c0e788":[8,0,0,0,1,2,8,1,21,13,1],
 "d5/db2/BattlegroundWS_8h.html#a50801b1baa78c499341bfe44d88ffcf3afe1ff0fad52fd52ab78965a7465113d3":[8,0,0,0,1,2,8,1,21,13,0],
 "d5/db2/BattlegroundWS_8h.html#a559917f94b9cc817260b06ee0137bfc7":[8,0,0,0,1,2,8,1,21,3],
@@ -218,12 +219,12 @@ var NAVTREEINDEX163 =
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[7,0,4717,35],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[7,0,13,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,34,6,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[7,0,13,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,34,6,38,2],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[7,0,13,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[7,0,13,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,34,6,38,1],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,34,6,38,0],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[7,0,13,6,38,0],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,34,6,38,0],
 "d5/db6/classnpc__deathstalker__erland.html":[7,0,1791],
 "d5/db6/classnpc__deathstalker__erland.html#a81b20bc8c7249a59d69ba63ab32a5f06":[7,0,1791,3],
 "d5/db6/classnpc__deathstalker__erland.html#ab59235f212ddb985056cb8e32719b723":[7,0,1791,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX163 =
 "d5/db7/classboss__grobbulus__poison__cloud.html":[7,0,529],
 "d5/db7/classboss__grobbulus__poison__cloud.html#a2bb8ebec0ae79f20602e551f654e0761":[7,0,529,1],
 "d5/db7/classboss__grobbulus__poison__cloud.html#a34c68dd3e58b83c52f270eb1b194f2ed":[7,0,529,2],
-"d5/db8/classLootItemStorage.html":[7,0,1498],
-"d5/db8/classLootItemStorage.html#a36faeed6ef556fd13118c4ad34e38548":[7,0,1498,1]
+"d5/db8/classLootItemStorage.html":[7,0,1498]
 };

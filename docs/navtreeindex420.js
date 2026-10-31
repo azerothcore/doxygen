@@ -1,5 +1,9 @@
 var NAVTREEINDEX420 =
 {
+"df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3":[8,0,0,0,1,3,6,8,5,2],
+"df/d9a/OutdoorPvPNA_8h.html#a6da5d6b9a0ecd5b15ced61c27d1c8aa4":[8,0,0,0,1,3,6,8,11],
+"df/d9a/OutdoorPvPNA_8h.html#a6fd5686dd6cf4251b3b33513928f44bd":[8,0,0,0,1,3,6,8,23],
+"df/d9a/OutdoorPvPNA_8h.html#a74f493038b14c5e7e5a00c661339278e":[8,0,0,0,1,3,6,8,22],
 "df/d9a/OutdoorPvPNA_8h.html#a767a89853ad9fbcea5e94bae963b3168":[8,0,0,0,1,3,6,8,12],
 "df/d9a/OutdoorPvPNA_8h.html#a793a1d2d8d6683df19de9b728d2af1de":[8,0,0,0,1,3,6,8,20],
 "df/d9a/OutdoorPvPNA_8h.html#a8c04516b1462a78d64563849fe3136a1":[8,0,0,0,1,3,6,8,17],
@@ -245,9 +249,5 @@ var NAVTREEINDEX420 =
 "df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610":[8,0,0,0,1,2,7,2,9,1],
 "df/da2/Battlefield_8h.html#a77a99318a19e388592eb16534ef2005a":[8,0,0,0,1,2,7,2,8],
 "df/da2/Battlefield_8h.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117":[8,0,0,0,1,2,7,2,8,0],
-"df/da2/Battlefield_8h.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2":[8,0,0,0,1,2,7,2,8,1],
-"df/da2/Battlefield_8h.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55":[8,0,0,0,1,2,7,2,8,2],
-"df/da2/Battlefield_8h.html#a79df696836c3edc53ca1868aab7f6e76":[8,0,0,0,1,2,7,2,10],
-"df/da2/Battlefield_8h.html#a7c3836172413cb3b2cdabeb20b99f1b4":[8,0,0,0,1,2,7,2,7],
-"df/da2/Battlefield_8h.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007":[8,0,0,0,1,2,7,2,7,2]
+"df/da2/Battlefield_8h.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2":[8,0,0,0,1,2,7,2,8,1]
 };

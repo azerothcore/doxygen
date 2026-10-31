@@ -1,5 +1,6 @@
 var NAVTREEINDEX217 =
 {
+"d7/db0/classMap.html#aeb1afbeb92aa93a0237fac3486574206":[7,0,1525,281],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ce":[7,0,1525,7],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea0eaf5082b275910be96f6c24dee43a60":[7,0,1525,7,6],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea3a9c23ef7c58735aec28042053a998f3":[7,0,1525,7,8],
@@ -247,7 +248,6 @@ var NAVTREEINDEX217 =
 "d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[8,0,0,0,1,2,38,0,45,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[5,0,34,14,16],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[7,0,13,14,16,0]
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1]
 };

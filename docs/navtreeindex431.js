@@ -1,5 +1,9 @@
 var NAVTREEINDEX431 =
 {
+"df/de0/classat__zulgurub__entrance__speech.html#afef11c6a7e97befd07072826fa13be55":[7,0,265,0],
+"df/de0/structMechanicImmune.html":[7,0,1548],
+"df/de0/structMechanicImmune.html#a492e5e3c2373adba005034514b0a5a1e":[7,0,1548,1],
+"df/de0/structMechanicImmune.html#a4ea67fc10eedfaa2e5e029e242e1c32f":[7,0,1548,0],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html":[7,0,401,0],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#a101518193c0fb6bbd6892362a6f09b9c":[7,0,401,0,0],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#a3974065a80dedf3e673452e7f6f8e449":[7,0,401,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX431 =
 "df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[7,0,865,24],
 "df/df1/structCell.html#aa8d9ead1231c6119656eb132949d3a97":[7,0,865,18],
 "df/df1/structCell.html#aac53c1b488624eb2a64c99dc544f7d90":[7,0,865,13],
-"df/df1/structCell.html#ab3fe002db0c02530e0e81857857ab26b":[7,0,865,27],
-"df/df1/structCell.html#abc5ed731630ec862efb15d699d4e5213":[7,0,865,5],
-"df/df1/structCell.html#abd95fd440e9f8dab059a8c518c58eca2":[7,0,865,17],
-"df/df1/structCell.html#abe34b4a97c468b8db563092dda60340a":[7,0,865,3],
-"df/df1/structCell.html#abf5f46566b03eefa5509e8d4f5ad5003":[7,0,865,6]
+"df/df1/structCell.html#ab3fe002db0c02530e0e81857857ab26b":[7,0,865,27]
 };

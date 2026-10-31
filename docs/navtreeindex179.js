@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"d6/d38/classChatHandler.html#a2276cef4cca3c6f8bdd75cc0faf37b34":[7,0,894,38],
 "d6/d38/classChatHandler.html#a24baacb6556d36625df4be583b8d675f":[7,0,894,68],
 "d6/d38/classChatHandler.html#a29884cdfd271e022362709b125e152f3":[7,0,894,5],
 "d6/d38/classChatHandler.html#a3295cee708d267aac165f9ee55d2e615":[7,0,894,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d3c/structnpc__darkfallen__tactician.html":[7,0,1786],
 "d6/d3c/structnpc__darkfallen__tactician.html#a26dcb830533771faf8ebc90995ea010b":[7,0,1786,1],
 "d6/d3c/structnpc__darkfallen__tactician.html#a946ccdf41d93a3477204e303c3404c5c":[7,0,1786,0],
-"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html":[7,0,1960,0],
-"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a04f09361f6bc4bc752ca773878187f79":[7,0,1960,0,0]
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html":[7,0,1960,0]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX418 =
 {
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a8ec7cc3b7964c4aed1bfb7a9ca9cf296":[8,0,0,0,1,3,5,9,2,4,16,14],
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a97a0c887e487b234e6b6bfd581cd2d71":[8,0,0,0,1,3,5,9,2,4,16,12],
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289aa0065312e4cd2d95814094d99bc222e8":[8,0,0,0,1,3,5,9,2,4,16,21],
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ab0894d46cb2148828318903683a96a31":[8,0,0,0,1,3,5,9,2,4,16,23],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ac83a119b23ae87cccc7929c8c04c5d53":[8,0,0,0,1,3,5,9,2,4,16,16],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ad368067ec54a5e606d3cb580962d3d94":[8,0,0,0,1,3,5,9,2,4,16,7],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289adc26914d7abc7416416d0fae1cbf7074":[8,0,0,0,1,3,5,9,2,4,16,15],
@@ -245,9 +249,5 @@ var NAVTREEINDEX418 =
 "df/d8e/classMMAP_1_1MMapMgr.html#abd4bd2ef84d57be5000ab37ed36ded8c":[7,0,6,5,0],
 "df/d8e/classMMAP_1_1MMapMgr.html#abd4bd2ef84d57be5000ab37ed36ded8c":[5,0,20,5,0],
 "df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[7,0,6,5,5],
-"df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[5,0,20,5,5],
-"df/d8e/classMMAP_1_1MMapMgr.html#aead5607e8f61161464c388c889ca9938":[7,0,6,5,3],
-"df/d8e/classMMAP_1_1MMapMgr.html#aead5607e8f61161464c388c889ca9938":[5,0,20,5,3],
-"df/d8e/classMMAP_1_1MMapMgr.html#affca526b45b63f9c827a52baa212f02c":[5,0,20,5,2],
-"df/d8e/classMMAP_1_1MMapMgr.html#affca526b45b63f9c827a52baa212f02c":[7,0,6,5,2]
+"df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[5,0,20,5,5]
 };

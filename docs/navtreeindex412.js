@@ -1,5 +1,9 @@
 var NAVTREEINDEX412 =
 {
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a672c33684cb9cdf8e92ce290c013309a":[7,0,1401,0,6],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a7692d6fdf5933a4899b5ce5ca1569122":[7,0,1401,0,26],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a7ace228cf9b3f723077e57a9b3caf174":[7,0,1401,0,22],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a7b15def2fab40bf559f2aa6de6865b92":[7,0,1401,0,17],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a8f3c71a2c0625ba3c99b1e7ee6beffd6":[7,0,1401,0,20],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a934fbf3a27e1ff37b6a8729a75f81329":[7,0,1401,0,5],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a966b65f03a314e72c1e5206e4f1d9886":[7,0,1401,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX412 =
 "df/d3e/namespaceGameTime.html#ae2ff9233756dd88fa1aafcc1e1c0be4d":[5,0,15,5],
 "df/d3e/namespaceGameTime.html#ae5cc9f17fc6b8b15c678fa7a84a6e117":[5,0,15,7],
 "df/d3e/namespaceGameTime.html#af9a7dcb5dfa331445f56900767b13e8b":[5,0,15,0],
-"df/d3e/structBG__SA__RoundScore.html":[7,0,369],
-"df/d3e/structBG__SA__RoundScore.html#a4270f34fef655cb9ff9998b36055c3ec":[7,0,369,0],
-"df/d3e/structBG__SA__RoundScore.html#a728a3e4efbae3be9224c70f2d70000cf":[7,0,369,1],
-"df/d3e/structEquipmentInfo.html":[7,0,1059],
-"df/d3e/structEquipmentInfo.html#aa941274a50c076189d0957120ca25e5e":[7,0,1059,0]
+"df/d3e/structBG__SA__RoundScore.html":[7,0,369]
 };

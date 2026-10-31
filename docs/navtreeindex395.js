@@ -1,5 +1,8 @@
 var NAVTREEINDEX395 =
 {
+"de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62":[8,0,0,0,1,3,6,14,8,1],
+"de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82":[8,0,0,0,1,3,6,14,8,0],
+"de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1":[8,0,0,0,1,3,6,14,4],
 "de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614":[8,0,0,0,1,3,6,14,4,2],
 "de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5":[8,0,0,0,1,3,6,14,4,1],
 "de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d":[8,0,0,0,1,3,6,14,4,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX395 =
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77":[8,0,0,0,1,3,4,32,4,2],
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1":[8,0,0,0,1,3,4,32,4,6],
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e":[8,0,0,0,1,3,4,32,4,4],
-"de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827":[8,0,0,0,1,3,4,32,4,7],
-"de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec":[8,0,0,0,1,3,4,32,4,8],
-"de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f":[8,0,0,0,1,3,4,32,4,9],
-"de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a":[8,0,0,0,1,3,4,32,4,10]
+"de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827":[8,0,0,0,1,3,4,32,4,7]
 };

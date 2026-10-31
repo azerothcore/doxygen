@@ -1,5 +1,8 @@
 var NAVTREEINDEX367 =
 {
+"de/d00/structnpc__stormforged__lieutenant.html#ae721c276ba7413974d25449ef2c5f1a9":[7,0,2205,5],
+"de/d00/structnpc__stormforged__lieutenant.html#aef5101b1f28ccec1fc60ccb2981623b9":[7,0,2205,0],
+"de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html":[7,0,2236,0],
 "de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html#a0fc7ca1313a21c5f74539ce2dbd7465d":[7,0,2236,0,1],
 "de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html#a628772971a9c2a190ffe2fae6b0b6865":[7,0,2236,0,0],
 "de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html#ae96e0de4a36dde3237520e8a0ddd9f5f":[7,0,2236,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX367 =
 "de/d09/maraudon_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,4,3,1,1],
 "de/d09/maraudon_8h.html#afb6eb4f28419b652027fad41104a6d22a2baf48b3a213b74ed911f5426e7b2461":[8,0,0,0,1,3,4,3,1,1,0],
 "de/d09/maraudon_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[8,0,0,0,1,3,4,3,1,1,1],
-"de/d09/maraudon_8h.html#aff286ae066e6cc855674e730f4adba43":[8,0,0,0,1,3,4,3,1,2],
-"de/d09/maraudon_8h.html#aff286ae066e6cc855674e730f4adba43a909f3a15eda10ba6eebd32a86b56cfa3":[8,0,0,0,1,3,4,3,1,2,0],
-"de/d0a/SharedDefines_8h.html":[8,0,0,0,1,4,7],
-"de/d0a/SharedDefines_8h.html#a0105c40ec0c20daef3cbd8dfc5f473fd":[8,0,0,0,1,4,7,100]
+"de/d09/maraudon_8h.html#aff286ae066e6cc855674e730f4adba43":[8,0,0,0,1,3,4,3,1,2]
 };

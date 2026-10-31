@@ -21,6 +21,7 @@ var classScriptMgr =
     [ "CanGroupJoinBattlegroundQueue", "d2/d73/classScriptMgr.html#abe4426b3f9b5c6ec6b185b0ad6d2dc0d", null ],
     [ "CanGuildSendBankList", "d2/d73/classScriptMgr.html#aab5b5387fc8504063cbbc58c816cbeff", null ],
     [ "CanItemApplyEquipSpell", "d2/d73/classScriptMgr.html#ab5228751fff388a1f295bb89ab63882d", null ],
+    [ "CanLootOtherFactionItem", "d2/d73/classScriptMgr.html#af93f8b18b643d874af3ed1fb3f1b1093", null ],
     [ "CanPacketReceive", "d2/d73/classScriptMgr.html#ac756c6fba0cc477d4d383dd70448400b", null ],
     [ "CanPacketSend", "d2/d73/classScriptMgr.html#a483dbd524161ad219cded3dd1b76b384", null ],
     [ "CanPrepare", "d2/d73/classScriptMgr.html#a652c3ab17565a8a4ba716673cdec4499", null ],

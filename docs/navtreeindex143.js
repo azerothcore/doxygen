@@ -1,9 +1,10 @@
 var NAVTREEINDEX143 =
 {
+"d4/dcd/classspell__mage__cold__snap.html#aac68e0f75f39ab25cf490dc381414b96":[7,0,3635,2],
 "d4/dcd/classspell__mage__cold__snap.html#ad2840c719abd010c629747da138e9e32":[7,0,3635,3],
 "d4/dcd/classspell__mage__cold__snap.html#ae971bd1dccc9280620b6ea44dd552bd4":[7,0,3635,1],
-"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[7,0,13,6,11],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[5,0,34,6,11],
+"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[7,0,13,6,11],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#a015ba615ebe4ea09df8233f6a85332f4":[7,0,13,6,11,2],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#a015ba615ebe4ea09df8233f6a85332f4":[5,0,34,6,11,2],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#aecc28f8734a66c562c7baa1575b07ff9":[7,0,13,6,11,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX143 =
 "d4/dd0/classWorldObject.html#aea3d44f1e61c20c8b296ce4e39800423":[7,0,4744,224],
 "d4/dd0/classWorldObject.html#aea4cb1fba1a6e5f4bca18bbb84b86d2f":[7,0,4744,15],
 "d4/dd0/classWorldObject.html#aeabb8ef7d4741b002bc4c57199b2d3a5":[7,0,4744,1],
-"d4/dd0/classWorldObject.html#aec7cb6715db8949843d5eadf06b366fc":[7,0,4744,107],
-"d4/dd0/classWorldObject.html#aecec1bb44a3472e76f55f458a9c76c6a":[7,0,4744,228]
+"d4/dd0/classWorldObject.html#aec7cb6715db8949843d5eadf06b366fc":[7,0,4744,107]
 };

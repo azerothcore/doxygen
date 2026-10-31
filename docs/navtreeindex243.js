@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"d8/de6/boss__warmaster__voone_8cpp.html#a1b10b77865251702395e967f7d08cba4ad5abea2cad34b3bc9e90d92eb3927dd3":[8,0,0,0,1,3,2,1,1,14,1,1],
 "d8/de6/boss__warmaster__voone_8cpp.html#a46bbf91344c10e04ee369fcab5df3902":[8,0,0,0,1,3,2,1,1,14,5],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,1,1,14,4],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca0116639bee243d92b61fb03a198321e7":[8,0,0,0,1,3,2,1,1,14,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "d8/df6/classspell__gen__clone__weapon.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a":[7,0,3062,2],
 "d8/df6/classspell__icc__soul__missile.html":[7,0,3314],
 "d8/df6/classspell__icc__soul__missile.html#a808d2283be9714c14f22a2df0a52dd61":[7,0,3314,1],
-"d8/df6/classspell__icc__soul__missile.html#a843c9dc403404ddd2de667e57e01f00c":[7,0,3314,2],
-"d8/df6/classspell__icc__soul__missile.html#aac12da39c503615036120e3e0cd55622":[7,0,3314,0]
+"d8/df6/classspell__icc__soul__missile.html#a843c9dc403404ddd2de667e57e01f00c":[7,0,3314,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX300 =
 {
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75a6f84bb29dd2f2225cfaf4fd4555c640d":[8,0,0,0,1,3,9,4,177,10],
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75a752446db3a1c4917302c98be365852d5":[8,0,0,0,1,3,9,4,177,11],
 "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75aa42676d62ec9ab2083a6e29f3ebfa31a":[8,0,0,0,1,3,9,4,177,4],
 "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75aa7161ec6c3c0611495bbb6510658812c":[8,0,0,0,1,3,9,4,177,0],
 "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75ab76a679c0fba3121a9cb839cc942e75e":[8,0,0,0,1,3,9,4,177,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX300 =
 "db/d76/classspell__the__lich__king__necrotic__plague__jump__aura.html#af78da685e156bebea9f0a4881ebdfc9d":[7,0,4269,2],
 "db/d77/classspell__frost__giant__death__plague.html":[7,0,3013],
 "db/d77/classspell__frost__giant__death__plague.html#a3000d234134bb3d4b2e17fd1eff8f4f0":[7,0,3013,0],
-"db/d77/classspell__frost__giant__death__plague.html#a63e8e899cb1469dca26cd5fa34b85408":[7,0,3013,4],
-"db/d77/classspell__frost__giant__death__plague.html#a83b2fad7cdc189a17129e25a015952ff":[7,0,3013,2],
-"db/d77/classspell__frost__giant__death__plague.html#af058a0c458463bdba4a4eb73aa91c113":[7,0,3013,1]
+"db/d77/classspell__frost__giant__death__plague.html#a63e8e899cb1469dca26cd5fa34b85408":[7,0,3013,4]
 };

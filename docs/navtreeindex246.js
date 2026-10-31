@@ -1,5 +1,6 @@
 var NAVTREEINDEX246 =
 {
+"d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a7320475f165952ef8ebf69407b533248":[7,0,0,1,6,1],
 "d9/d08/structAcore_1_1ChatCommands_1_1Tail.html#a7320475f165952ef8ebf69407b533248":[5,0,0,2,6,1],
 "d9/d0c/SessionKeyGenerator_8h.html":[8,0,0,0,0,3,17],
 "d9/d0c/classnpc__simone.html":[7,0,2180],
@@ -53,18 +54,18 @@ var NAVTREEINDEX246 =
 "d9/d13/classAppender.html#ae13f18ba2b26260f64aedc1ce1806fef":[7,0,161,10],
 "d9/d13/classAppender.html#ae6c4e7120a54b7069e157fe9a397d455":[7,0,161,9],
 "d9/d13/classAppender.html#aed555d5a182fefce9bb570201e9f005f":[7,0,161,0],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[5,0,34,10,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[7,0,13,10,4],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[7,0,13,10,4,3],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[5,0,34,10,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[5,0,34,10,4,3],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,34,10,4,5],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[7,0,13,10,4,3],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[7,0,13,10,4,5],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[7,0,13,10,4,4],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,34,10,4,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,34,10,4,4],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[7,0,13,10,4,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[7,0,13,10,4,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,34,10,4,2],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[7,0,13,10,4,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,34,10,4,0],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[7,0,13,10,4,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,34,10,4,1],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[7,0,13,10,4,1],
 "d9/d13/classspell__anubisath__mortal__strike.html":[7,0,2674],
@@ -248,6 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d26/classCombatManager.html#a8a59f0f3548bd05ac8e1a9cac63d3e28":[7,0,913,2],
 "d9/d26/classCombatManager.html#a8bb19aea3111dfcc48985039ee1ca608":[7,0,913,4],
 "d9/d26/classCombatManager.html#a915de5d194aef283905da9beeba35b04":[7,0,913,39],
-"d9/d26/classCombatManager.html#a960afd93d3a0fe1ed19a7537890281a7":[7,0,913,24],
-"d9/d26/classCombatManager.html#aa52c206aea68bc6caa466ae6b584a0a7":[7,0,913,7]
+"d9/d26/classCombatManager.html#a960afd93d3a0fe1ed19a7537890281a7":[7,0,913,24]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX318 =
 {
+"db/dea/structSavedAddon.html#a075de88ce6e643cffb7c5bb55f7b1095":[7,0,2578,2],
+"db/dea/structSavedAddon.html#a6252c2ac491d0ebd9e84556f26cfa8cd":[7,0,2578,0],
 "db/dea/structSavedAddon.html#a7d04d21a29aa589429aab0d95172ca95":[7,0,2578,1],
 "db/deb/classspell__bronjahm__soulstorm__channel__ooc__aura.html":[7,0,2764],
 "db/deb/classspell__bronjahm__soulstorm__channel__ooc__aura.html#a18d92a82760992bc5d8503e3f774f208":[7,0,2764,3],
@@ -160,12 +162,12 @@ var NAVTREEINDEX318 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[7,0,1582,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[7,0,1582,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[7,0,1582,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[7,0,13,6,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[7,0,13,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[7,0,13,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[7,0,13,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,34,6,2,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX318 =
 "db/df2/classHealInfo.html#ae656cf383df85bb88c6486e5aac1df5b":[7,0,1298,1],
 "db/df2/classHealInfo.html#ae7a08b2e27a5ac316ed2d3bca7d2395d":[7,0,1298,11],
 "db/df2/classHealInfo.html#af0a2d7c40710cabbb88122de2650c705":[7,0,1298,17],
-"db/df2/classHealInfo.html#af2fd7934b1b1cd08dd4dcfeadc9c02df":[7,0,1298,21],
-"db/df2/classHealInfo.html#af95a6d6c94a72874c150a3deabce20ee":[7,0,1298,5],
-"db/df2/structGossipMenuItems.html":[7,0,1250]
+"db/df2/classHealInfo.html#af2fd7934b1b1cd08dd4dcfeadc9c02df":[7,0,1298,21]
 };

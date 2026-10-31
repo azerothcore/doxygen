@@ -1,5 +1,6 @@
 var NAVTREEINDEX136 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada9998d085c9f5766052a44ebd7cb37332":[8,0,0,0,1,3,5,2,1,1,46,0],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cadaa3802b35e29f4f77f9fcf61efb761e7b":[8,0,0,0,1,3,5,2,1,1,46,2],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cadac3e433073511298830a6d6c7b7871fb1":[8,0,0,0,1,3,5,2,1,1,46,9],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cadaf942ec6a614a398d5fb37e03c5fe5bee":[8,0,0,0,1,3,5,2,1,1,46,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX136 =
 "d4/d8b/classCharacterCache.html#acac49f94f842a1cf958893e74f09892c":[7,0,875,26],
 "d4/d8b/classCharacterCache.html#accaa1a6c032060efdde68d260f081998":[7,0,875,23],
 "d4/d8b/classCharacterCache.html#ad647d2194545d5dff7b64b0689d7f396":[7,0,875,21],
-"d4/d8b/classCharacterCache.html#aebd1785e1a7682c0f7755a8b0a28d5c9":[7,0,875,15],
-"d4/d8b/namespaceAcore_1_1Types.html":[5,0,0,16]
+"d4/d8b/classCharacterCache.html#aebd1785e1a7682c0f7755a8b0a28d5c9":[7,0,875,15]
 };

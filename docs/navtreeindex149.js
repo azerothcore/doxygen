@@ -1,5 +1,6 @@
 var NAVTREEINDEX149 =
 {
+"d5/d17/structnpc__love__in__air__snivel__real.html#a9f5b36d35ced9eb27375ca13fcfbc55d":[7,0,1997,0],
 "d5/d17/structnpc__love__in__air__snivel__real.html#ab1685b1ee34c81c689af3c3466b185f0":[7,0,1997,3],
 "d5/d19/classspell__shockwave__knockback.html":[7,0,4179],
 "d5/d19/classspell__shockwave__knockback.html#a162f60784fdec6b748151e5c2a7ed257":[7,0,4179,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX149 =
 "d5/d23/classScriptRegistry.html#ac9d98df16d3857ca556acda331064063":[7,0,2589,0],
 "d5/d23/classScriptRegistry.html#ad1fcde41ec854314c5e1cc50b916ac5d":[7,0,2589,3],
 "d5/d23/classScriptRegistry.html#aea1f4b1a1e5c0bb83160732833580b1d":[7,0,2589,11],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html":[7,0,3112],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html#a6fc446385881ddb4c94de73199649816":[7,0,3112,0]
+"d5/d23/classspell__gen__leeching__swarm__dmg.html":[7,0,3112]
 };

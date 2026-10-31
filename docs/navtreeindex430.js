@@ -1,5 +1,9 @@
 var NAVTREEINDEX430 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a78bbe08e6007188499933e592adf84cb":[8,0,0,0,1,3,5,6,4,57,0],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7bab4447dbe477353931faa9fef2a7f6":[8,0,0,0,1,3,5,6,4,57,1],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a89ff9f4f5aeda6e19ccf307d0539d1c8":[8,0,0,0,1,3,5,6,4,57,13],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8b7b42f22b7e61865c189cadfc3f62a9":[8,0,0,0,1,3,5,6,4,57,12],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a94918dcd5642e40f5e5cbb0f747bf283":[8,0,0,0,1,3,5,6,4,57,23],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a968c472e15619221d6355e667e9e7c0d":[8,0,0,0,1,3,5,6,4,57,9],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a994639ba60ae479a74ee6dfe98c3103c":[8,0,0,0,1,3,5,6,4,57,20],
@@ -245,9 +249,5 @@ var NAVTREEINDEX430 =
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#ad2258d2039a789f99ad4c0766726df85":[7,0,742,0,3],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#af96f6054547e377f401972273e6e86aa":[7,0,742,0,5],
 "df/de0/classat__zulgurub__entrance__speech.html":[7,0,265],
-"df/de0/classat__zulgurub__entrance__speech.html#a7f719eab3ca9fa7d5e7a26f721dc9f50":[7,0,265,1],
-"df/de0/classat__zulgurub__entrance__speech.html#afef11c6a7e97befd07072826fa13be55":[7,0,265,0],
-"df/de0/structMechanicImmune.html":[7,0,1548],
-"df/de0/structMechanicImmune.html#a492e5e3c2373adba005034514b0a5a1e":[7,0,1548,1],
-"df/de0/structMechanicImmune.html#a4ea67fc10eedfaa2e5e029e242e1c32f":[7,0,1548,0]
+"df/de0/classat__zulgurub__entrance__speech.html#a7f719eab3ca9fa7d5e7a26f721dc9f50":[7,0,265,1]
 };

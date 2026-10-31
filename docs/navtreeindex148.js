@@ -1,5 +1,6 @@
 var NAVTREEINDEX148 =
 {
+"d5/d09/classgo__l70__etc__music.html":[7,0,1196],
 "d5/d09/classgo__l70__etc__music.html#a5231ffc778830f8a49ae85a8c1173deb":[7,0,1196,2],
 "d5/d09/classgo__l70__etc__music.html#a766dccca12fc7959273ba1e3a278564f":[7,0,1196,1],
 "d5/d09/classspell__ooze__zap__channel__end.html":[7,0,3768],
@@ -248,6 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d17/structnpc__love__in__air__snivel__real.html":[7,0,1997],
 "d5/d17/structnpc__love__in__air__snivel__real.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028":[7,0,1997,1],
 "d5/d17/structnpc__love__in__air__snivel__real.html#a22ed25da8fe3441ef0e4183390983f40":[7,0,1997,2],
-"d5/d17/structnpc__love__in__air__snivel__real.html#a3bbee1ff355581772b337268775b8fbc":[7,0,1997,4],
-"d5/d17/structnpc__love__in__air__snivel__real.html#a9f5b36d35ced9eb27375ca13fcfbc55d":[7,0,1997,0]
+"d5/d17/structnpc__love__in__air__snivel__real.html#a3bbee1ff355581772b337268775b8fbc":[7,0,1997,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX167 =
 {
+"d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a1a62a843922448390151ed14e0ca2148":[7,0,2180,0,7],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a1b735e7c99ba743c74c10911ec08f12b":[7,0,2180,0,10],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a1c275b32a6d4730657e26e5a9c305eb6":[7,0,2180,0,3],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a698a3015b5ad25dfd9ec07dfbb991ea8":[7,0,2180,0,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX167 =
 "d5/de0/classgo__ethereum__stasis.html#ac36da8dccbebcaee605a878df3904c60":[7,0,1183,1],
 "d5/de0/classspell__yogg__saron__brain__link.html":[7,0,4452],
 "d5/de0/classspell__yogg__saron__brain__link.html#a599f604e872d3a5a4ed2b155caefdc9f":[7,0,4452,1],
-"d5/de0/classspell__yogg__saron__brain__link.html#ab79041a2536878498744555475bce5c8":[7,0,4452,2],
-"d5/de0/classspell__yogg__saron__brain__link.html#adaeee235184ddc36e90e532091183056":[7,0,4452,0]
+"d5/de0/classspell__yogg__saron__brain__link.html#ab79041a2536878498744555475bce5c8":[7,0,4452,2]
 };

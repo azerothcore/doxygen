@@ -1,5 +1,7 @@
 var NAVTREEINDEX316 =
 {
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a29fe7fcd9cb4c536742e099ec2606c75":[8,0,0,0,1,3,2,30,32,26],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a2f4d87243dce0de4ce3f02d4d732b152":[8,0,0,0,1,3,2,30,32,62],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a322c95fabf1cd36f6b26c2138b522a28":[8,0,0,0,1,3,2,30,32,1],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a324b4172568fd5fa8df147cb68ac804a":[8,0,0,0,1,3,2,30,32,3],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a3493fc849b2eed7a3981418b38a4b74d":[8,0,0,0,1,3,2,30,32,51],
@@ -137,10 +139,10 @@ var NAVTREEINDEX316 =
 "db/dd8/classspell__dk__ghoul__explode.html#a981f8547eae9b317111bf9a7016510ab":[7,0,2850,3],
 "db/dd8/classspell__dk__ghoul__explode.html#aa2c3399146b15f754e073e4fa08f3d5a":[7,0,2850,4],
 "db/dd8/classspell__dk__ghoul__explode.html#ad29179d9159700b52b0c21a779cd060b":[7,0,2850,2],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,0,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[7,0,0,5,0,7],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,0,8,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,0,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[7,0,0,5,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,0,8,0,7,0],
 "db/ddb/classConfigException.html":[7,0,923],
 "db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[7,0,923,0],
 "db/ddb/classTaskContext.html":[7,0,4577],
@@ -193,10 +195,10 @@ var NAVTREEINDEX316 =
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[7,0,13,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,34,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[7,0,13,6,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,34,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[7,0,13,6,48,2],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,34,6,48,0],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,34,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[7,0,13,6,48,0],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,34,6,48,0],
 "db/ddd/structSpellThreatEntry.html":[7,0,4543],
 "db/ddd/structSpellThreatEntry.html#a0d66e48d986f246e6aea08dd00837158":[7,0,4543,1],
 "db/ddd/structSpellThreatEntry.html#a35f5f8f7a3ac33768299913fecc1cf8d":[7,0,4543,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX316 =
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc702b5340bacde144caf1352322d17b":[8,0,0,0,1,3,2,4,9,7,2],
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298cadec0ab206c65ab3bb1d4edb9b70d88b4":[8,0,0,0,1,3,2,4,9,7,28],
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298cadf2b71d4639d8d9d3509193aecef9319":[8,0,0,0,1,3,2,4,9,7,24],
-"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298caebd70adab2397f35fa01427a839b8dc1":[8,0,0,0,1,3,2,4,9,7,9],
-"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298caf8f86645660d2627c607d89cf9f79cc1":[8,0,0,0,1,3,2,4,9,7,17],
-"db/dde/boss__shade__of__aran_8cpp.html#a9a1d7d4b22cef8ea676767f0f32c22cb":[8,0,0,0,1,3,2,4,9,11]
+"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298caebd70adab2397f35fa01427a839b8dc1":[8,0,0,0,1,3,2,4,9,7,9]
 };

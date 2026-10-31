@@ -1,5 +1,9 @@
 var NAVTREEINDEX413 =
 {
+"df/d3e/structBG__SA__RoundScore.html#a4270f34fef655cb9ff9998b36055c3ec":[7,0,369,0],
+"df/d3e/structBG__SA__RoundScore.html#a728a3e4efbae3be9224c70f2d70000cf":[7,0,369,1],
+"df/d3e/structEquipmentInfo.html":[7,0,1059],
+"df/d3e/structEquipmentInfo.html#aa941274a50c076189d0957120ca25e5e":[7,0,1059,0],
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html":[7,0,1358,0],
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a3a287b97db58c3489815f20ee0d37977":[7,0,1358,0,2],
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a61cb2b2bf09bb997457bc01a41e092e9":[7,0,1358,0,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX413 =
 "df/d52/classAuraApplicationStub.html":[7,0,294],
 "df/d52/classAuraApplicationStub.html#a1bf6810ab9723ce50ddf46789d2a5045":[7,0,294,5],
 "df/d52/classAuraApplicationStub.html#a1fab3395f580b30fa7b2257cbcacd26a":[7,0,294,7],
-"df/d52/classAuraApplicationStub.html#a30f0ddd6c6bbc974958a33ecee39135e":[7,0,294,3],
-"df/d52/classAuraApplicationStub.html#a653fb81ddfa4c7ad855d9f1fefe172f4":[7,0,294,8],
-"df/d52/classAuraApplicationStub.html#a824a2ec07e911fdb02054eff2091f2ea":[7,0,294,9],
-"df/d52/classAuraApplicationStub.html#a9027c5f622263c32b6f7bc4a11883ddc":[7,0,294,10],
-"df/d52/classAuraApplicationStub.html#a97383d45b0a015579a0f315474ecfcc5":[7,0,294,6]
+"df/d52/classAuraApplicationStub.html#a30f0ddd6c6bbc974958a33ecee39135e":[7,0,294,3]
 };

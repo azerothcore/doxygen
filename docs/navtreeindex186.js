@@ -1,5 +1,6 @@
 var NAVTREEINDEX186 =
 {
+"d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#a9e122d4533155c926904a13e8534d32e":[7,0,2043,0,2],
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#aa538d9d2ead26d6e085ecf62ec7d310f":[7,0,2043,0,6],
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#acb03513dd67988e0961632846021a42d":[7,0,2043,0,4],
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#ace872917954f4978f3568d7ddecf22ad":[7,0,2043,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX186 =
 "d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6da7621533195c3349796e979f26d97b803":[8,0,0,0,1,3,5,21,43,11],
 "d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6da77096ea2041729500de684b72c777bfc":[8,0,0,0,1,3,5,21,43,7],
 "d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6da8baff91a4b63ae24557664211ac1a981":[8,0,0,0,1,3,5,21,43,8],
-"d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6daab8cff025d36af2508fbeb0bbb85e2c1":[8,0,0,0,1,3,5,21,43,15],
-"d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6dabcc5df46fb949ebb26ecf2d6f4f60784":[8,0,0,0,1,3,5,21,43,17]
+"d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6daab8cff025d36af2508fbeb0bbb85e2c1":[8,0,0,0,1,3,5,21,43,15]
 };

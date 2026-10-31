@@ -1,5 +1,6 @@
 var NAVTREEINDEX142 =
 {
+"d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47ba729a01df4212b29320aea35148f0":[8,0,0,0,1,3,7,5,0,2,1,2],
 "d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,5,0,2,1,0],
 "d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a591a2f0b49badd23e75fc13e1f349335":[8,0,0,0,1,3,7,5,0,2,1,5],
 "d4/dc3/boss__dalliah__the__doomsayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7350ceb8fe6205ca308091e100fe6177":[8,0,0,0,1,3,7,5,0,2,1,6],
@@ -38,8 +39,8 @@ var NAVTREEINDEX142 =
 "d4/dc5/classspell__item__summon__argent__knight.html#a07157e7255d52acf6eb5d5e5c17e2190":[7,0,3522,0],
 "d4/dc5/classspell__item__summon__argent__knight.html#a0b2fd34dda3b23b574f6a5a0c4435006":[7,0,3522,1],
 "d4/dc5/classspell__item__summon__argent__knight.html#a59c6a1618faa5a44e1c37337b39a3cba":[7,0,3522,2],
-"d4/dc5/structWorldPackets_1_1Guild_1_1GuildBankSocketEnchant.html":[5,0,34,6,14],
 "d4/dc5/structWorldPackets_1_1Guild_1_1GuildBankSocketEnchant.html":[7,0,13,6,14],
+"d4/dc5/structWorldPackets_1_1Guild_1_1GuildBankSocketEnchant.html":[5,0,34,6,14],
 "d4/dc5/structWorldPackets_1_1Guild_1_1GuildBankSocketEnchant.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a":[7,0,13,6,14,1],
 "d4/dc5/structWorldPackets_1_1Guild_1_1GuildBankSocketEnchant.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a":[5,0,34,6,14,1],
 "d4/dc5/structWorldPackets_1_1Guild_1_1GuildBankSocketEnchant.html#ae682a8405a5fa1c70033d190dde25d99":[7,0,13,6,14,0],
@@ -134,18 +135,18 @@ var NAVTREEINDEX142 =
 "d4/dc6/classspell__warhead__detonate.html#a98e8a4b7bbe947b00f1bc32632736d59":[7,0,4345,0],
 "d4/dc6/classspell__warhead__detonate.html#acdfa4e1fc8e26a887e80521b1bea5150":[7,0,4345,2],
 "d4/dc6/classspell__warhead__detonate.html#aeec15705a41ad2ac0e59d90086591d96":[7,0,4345,3],
-"d4/dc7/classVMAP_1_1MeshTriangle.html":[5,0,31,12],
 "d4/dc7/classVMAP_1_1MeshTriangle.html":[7,0,11,12],
-"d4/dc7/classVMAP_1_1MeshTriangle.html#a36109fc79a9ca9c6bf19959fd1493e60":[7,0,11,12,1],
+"d4/dc7/classVMAP_1_1MeshTriangle.html":[5,0,31,12],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#a36109fc79a9ca9c6bf19959fd1493e60":[5,0,31,12,1],
-"d4/dc7/classVMAP_1_1MeshTriangle.html#a560bb163f63ff7202aade4d115f31664":[7,0,11,12,3],
+"d4/dc7/classVMAP_1_1MeshTriangle.html#a36109fc79a9ca9c6bf19959fd1493e60":[7,0,11,12,1],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#a560bb163f63ff7202aade4d115f31664":[5,0,31,12,3],
-"d4/dc7/classVMAP_1_1MeshTriangle.html#ac939c5e66526c67c067288b9d6484cac":[5,0,31,12,4],
+"d4/dc7/classVMAP_1_1MeshTriangle.html#a560bb163f63ff7202aade4d115f31664":[7,0,11,12,3],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#ac939c5e66526c67c067288b9d6484cac":[7,0,11,12,4],
+"d4/dc7/classVMAP_1_1MeshTriangle.html#ac939c5e66526c67c067288b9d6484cac":[5,0,31,12,4],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#aed1048a2b6745215a7b8f70dec378371":[5,0,31,12,2],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#aed1048a2b6745215a7b8f70dec378371":[7,0,11,12,2],
-"d4/dc7/classVMAP_1_1MeshTriangle.html#af99ecf0b02af73e6727095df1dce8422":[5,0,31,12,0],
 "d4/dc7/classVMAP_1_1MeshTriangle.html#af99ecf0b02af73e6727095df1dce8422":[7,0,11,12,0],
+"d4/dc7/classVMAP_1_1MeshTriangle.html#af99ecf0b02af73e6727095df1dce8422":[5,0,31,12,0],
 "d4/dc7/classspell__q12779__an__end__to__all__things.html":[7,0,3990],
 "d4/dc7/classspell__q12779__an__end__to__all__things.html#a07789d7d092eb1b6633200442466c52b":[7,0,3990,3],
 "d4/dc7/classspell__q12779__an__end__to__all__things.html#a27518fd5482e65e0324100057e747d68":[7,0,3990,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX142 =
 "d4/dcc/structMySQLConnectionInfo.html#ae60c54053d71eb9325df10701b1f42d3":[7,0,1594,0],
 "d4/dcc/structMySQLConnectionInfo.html#af5a51bd38ce1d58f65444d69b0283966":[7,0,1594,3],
 "d4/dcd/classspell__mage__cold__snap.html":[7,0,3635],
-"d4/dcd/classspell__mage__cold__snap.html#a870b9834d0860a2d017b74fbf33ae668":[7,0,3635,0],
-"d4/dcd/classspell__mage__cold__snap.html#aac68e0f75f39ab25cf490dc381414b96":[7,0,3635,2]
+"d4/dcd/classspell__mage__cold__snap.html#a870b9834d0860a2d017b74fbf33ae668":[7,0,3635,0]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX402 =
 {
+"de/dc6/structInstanceMapLoadRows_1_1BindRow.html#a73b641d14a2d5d9781f706ccc2865415":[7,0,1404,0,3],
+"de/dc7/structnpc__erekem__guard.html":[7,0,1820],
+"de/dc7/structnpc__erekem__guard.html#a05c81c2b1ec3bb48ae3003f8d825ffc0":[7,0,1820,1],
+"de/dc7/structnpc__erekem__guard.html#a13829cd26d18c42213be1f6640a2b979":[7,0,1820,5],
 "de/dc7/structnpc__erekem__guard.html#a31ea4b54a0adae7e3fee31d38af87c3e":[7,0,1820,2],
 "de/dc7/structnpc__erekem__guard.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5":[7,0,1820,0],
 "de/dc7/structnpc__erekem__guard.html#aacdc16855938d9f133b751f91b5e9402":[7,0,1820,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX402 =
 "de/dd9/AccountMgr_8h.html#ac0b6edf00d4a9c1e3c496e98fdf865aa":[8,0,0,0,1,2,0,1,5],
 "de/dd9/AccountMgr_8h.html#ad64d9bd18bac10ab1af09b042d734c64":[8,0,0,0,1,2,0,1,2],
 "de/dd9/AccountMgr_8h.html#aea3ae93168116461b6c0a7a984112175":[8,0,0,0,1,2,0,1,4],
-"de/dd9/classspell__dk__chains__of__ice__aura.html":[7,0,2838],
-"de/dd9/classspell__dk__chains__of__ice__aura.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5":[7,0,2838,2],
-"de/dd9/classspell__dk__chains__of__ice__aura.html#a64eb2c68651171f1cbda3aa98d58e68e":[7,0,2838,1],
-"de/dd9/classspell__dk__chains__of__ice__aura.html#adc387a1b001119b95179856c030853ad":[7,0,2838,0],
-"de/ddc/classIgbExplosionCheck.html":[7,0,1325]
+"de/dd9/classspell__dk__chains__of__ice__aura.html":[7,0,2838]
 };

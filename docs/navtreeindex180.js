@@ -1,5 +1,6 @@
 var NAVTREEINDEX180 =
 {
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a04f09361f6bc4bc752ca773878187f79":[7,0,1960,0,0],
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a0fa884bf3003267501f048d3f1287d42":[7,0,1960,0,11],
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a1b1757dd6e0775f1f4791b4feafd86fb":[7,0,1960,0,9],
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a3515e873adf5a097f66764887e3cc5a3":[7,0,1960,0,4],
@@ -126,12 +127,12 @@ var NAVTREEINDEX180 =
 "d6/d41/structboss__veknilash.html#ace8de3d9a397d0571da1f5bdd2ba84d5":[7,0,779,2],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[5,0,13,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html":[7,0,3,0],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[5,0,13,0,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[7,0,3,0,0],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a0f99979c533fb388a2086f419c110f2b":[5,0,13,0,0],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[5,0,13,0,1],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a42027be1e7cb7a3589caeafea25d2f75":[7,0,3,0,1],
-"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[5,0,13,0,2],
 "d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[7,0,3,0,2],
+"d6/d43/structFactorySelector_1_1PermissibleOrderPred.html#a5872cf90e79107749c4900cb471b2f16":[5,0,13,0,2],
 "d6/d44/WardenCheckExpectedResultHookTest_8cpp.html":[8,0,0,0,2,2,0,13,0],
 "d6/d46/classspell__sha__heroism.html":[7,0,4135],
 "d6/d46/classspell__sha__heroism.html#a1374c764b20b95febbca44c593bde218":[7,0,4135,3],
@@ -200,14 +201,14 @@ var NAVTREEINDEX180 =
 "d6/d4b/classspell__electrical__storm__proc.html#aebe9055301495dd3a21736b9a2a35f31":[7,0,2973,0],
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html":[7,0,0,5,0,8],
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html":[5,0,0,8,0,8],
-"d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[5,0,0,8,0,8,0],
 "d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[7,0,0,5,0,8,0],
+"d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[5,0,0,8,0,8,0],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[5,0,31,25],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[7,0,11,25],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[5,0,31,25,1],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[7,0,11,25,1],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a0548c3fdb216c115a7d3843e4fbc6de3":[5,0,31,25,5],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a0548c3fdb216c115a7d3843e4fbc6de3":[7,0,11,25,5],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a0548c3fdb216c115a7d3843e4fbc6de3":[5,0,31,25,5],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a29addcb613bc63a100633e612d1dc2d2":[7,0,11,25,0],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a29addcb613bc63a100633e612d1dc2d2":[5,0,31,25,0],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3":[7,0,11,25,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX180 =
 "d6/d4f/BattlefieldWG_8h.html#a1632ab800297621fdeabb462c1a206d3":[8,0,0,0,1,2,7,0,1,30],
 "d6/d4f/BattlefieldWG_8h.html#a1a9362fc649e780f8a7e22202fa12f9c":[8,0,0,0,1,2,7,0,1,26],
 "d6/d4f/BattlefieldWG_8h.html#a1c77d9e019ffe8d4bad9e01823bf27b8":[8,0,0,0,1,2,7,0,1,50],
-"d6/d4f/BattlefieldWG_8h.html#a2219f07adfc66fe196d304b64c574212":[8,0,0,0,1,2,7,0,1,46],
-"d6/d4f/BattlefieldWG_8h.html#a41a2f2df15bf8bbcbb7f13637db65670":[8,0,0,0,1,2,7,0,1,40]
+"d6/d4f/BattlefieldWG_8h.html#a2219f07adfc66fe196d304b64c574212":[8,0,0,0,1,2,7,0,1,46]
 };

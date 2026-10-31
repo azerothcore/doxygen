@@ -1,8 +1,9 @@
 var NAVTREEINDEX218 =
 {
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[7,0,13,14,16,0],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#ae31656f1e3b3d145809113a8b7ce4400":[5,0,34,14,16,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[5,0,34,14,16,2],
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#afce18ee4eea44b6c223ff2efc782d31d":[7,0,13,14,16,2],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[7,0,4185],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[7,0,4185,3],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[7,0,4185,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX218 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a4f23dac870942ad3216b56b2302b828a":[7,0,1394,0,10],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5088f3f2083ec3ed5ba3466abea76252":[7,0,1394,0,24],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a566e3c3ddf7e5ccd03cacadc11033782":[7,0,1394,0,8],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5cde0ab5d71242b2f84915f873f46ce2":[7,0,1394,0,46],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5ef40665d44e1088042161ee9aa7f057":[7,0,1394,0,22]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5cde0ab5d71242b2f84915f873f46ce2":[7,0,1394,0,46]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX386 =
 {
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a6b4de4e8d4250a7dedba74d70c364d9e":[8,0,0,0,1,2,41,9,63,40],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a6be082acf3ec6226f302ef54deba7559":[8,0,0,0,1,2,41,9,63,41],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a6c21f80c1ecd8262fc1349eece91ec39":[8,0,0,0,1,2,41,9,63,47],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a6ca19cbc942cd306b4143a4c17041728":[8,0,0,0,1,2,41,9,63,19],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a7127bc77ddfb8193b045d89e73b367ec":[8,0,0,0,1,2,41,9,63,13],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a7273fc0906b645cf5665fe488f4aede4":[8,0,0,0,1,2,41,9,63,37],
@@ -246,8 +249,5 @@ var NAVTREEINDEX386 =
 "de/d3a/classCasterAI.html#a2a24cdc24b665c52363dae587572fc4d":[7,0,859,2],
 "de/d3a/classCasterAI.html#a561dbc6713a8ec58ef6b23ae4d04d81b":[7,0,859,5],
 "de/d3a/classCasterAI.html#ad436decd8b3da4323cf3fdb4a9e5a849":[7,0,859,3],
-"de/d3a/classCasterAI.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e":[7,0,859,0],
-"de/d3a/classat__karazhan__mirkblood__approach.html":[7,0,239],
-"de/d3a/classat__karazhan__mirkblood__approach.html#a032600991e9fc1aaf026adf2e63314e5":[7,0,239,0],
-"de/d3a/classat__karazhan__mirkblood__approach.html#aaece848faa4f1086ac0b16802a1e765e":[7,0,239,1]
+"de/d3a/classCasterAI.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e":[7,0,859,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#aa5cd735c22d46e1b756f87f3952033a1":[7,0,474,0,4],
 "d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#acee81492b9b751df587a3a2cdd691ab3":[7,0,474,0,5],
 "d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#af2fbf866f87d568ee6028f0931d3b74e":[7,0,474,0,7],
 "d4/d22/structboss__hodir.html":[7,0,553],
@@ -118,8 +119,8 @@ var NAVTREEINDEX126 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,0,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,0,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,0,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[7,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[7,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[7,0,2732],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[7,0,2732,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[7,0,2732,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9":[8,0,0,0,1,3,6,6,4,0],
 "d4/d2b/OutdoorPvPHP_8h.html#ae64775fc45fae501937d72c9d55c8dc1":[8,0,0,0,1,3,6,6,11],
 "d4/d2b/OutdoorPvPHP_8h.html#ae6571d986fbbf7b469cf495033f46516":[8,0,0,0,1,3,6,6,13],
-"d4/d2b/RealmList_8h.html":[8,0,0,0,1,4,3,3],
-"d4/d2b/RealmList_8h.html#a639c880efde6e31a4bf6be6b5bcc3cd3":[8,0,0,0,1,4,3,3,2]
+"d4/d2b/RealmList_8h.html":[8,0,0,0,1,4,3,3]
 };

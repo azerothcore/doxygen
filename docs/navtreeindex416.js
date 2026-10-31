@@ -1,5 +1,9 @@
 var NAVTREEINDEX416 =
 {
+"df/d6f/namespaceAcore_1_1Module.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7":[5,0,0,9,0],
+"df/d6f/namespaceAcore_1_1Module.html#ac16569c9333f642e54fa7a4ec6a948e3":[5,0,0,9,1],
+"df/d6f/structboss__eydis_1_1boss__eydisAI.html":[7,0,471,0],
+"df/d6f/structboss__eydis_1_1boss__eydisAI.html#a0e97e184b2a2f610730cd3d455702955":[7,0,471,0,0],
 "df/d6f/structboss__eydis_1_1boss__eydisAI.html#aa5ae64cfe003a25859364a12cb871199":[7,0,471,0,1],
 "df/d6f/structboss__thorim__arena__npcs.html":[7,0,752],
 "df/d6f/structboss__thorim__arena__npcs.html#a2f23cddcf5a0db42ba24730dfbe54976":[7,0,752,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX416 =
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3":[7,0,774,0,11],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a3bed38b10a87baf50e9c9a57229bd464":[7,0,774,0,7],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a681a103b6cf937dad3fb15e5be358c26":[7,0,774,0,10],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a71ef70c1b504be2b00be1a70e85bc18a":[7,0,774,0,9],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a76ab9327e04b82b534a9b3ea59b377d1":[7,0,774,0,1],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a9ba6e2620a25728bf30d4d813a82b781":[7,0,774,0,2],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ab410ed8d64cd91bd6c4b78b2ed678eab":[7,0,774,0,5],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#abde00baf4099361b8c26e6e0cf6c1517":[7,0,774,0,3]
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a71ef70c1b504be2b00be1a70e85bc18a":[7,0,774,0,9]
 };

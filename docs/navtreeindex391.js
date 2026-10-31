@@ -1,5 +1,8 @@
 var NAVTREEINDEX391 =
 {
+"de/d5f/structboss__chrono__lord__deja.html#ab5324b2993f2fd1ec3290eb962ef6065":[7,0,428,2],
+"de/d5f/structboss__chrono__lord__deja.html#acdef53bd447c30d87bd15af3bf4200bc":[7,0,428,5],
+"de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html":[7,0,2107,0],
 "de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a03bfcd0ea38073ff8481188d1b570553":[7,0,2107,0,2],
 "de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a1507ab4bdade501cf92f843cec20842d":[7,0,2107,0,7],
 "de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html#a1ba3692738d6bd474d54fe8910a7f316":[7,0,2107,0,10],
@@ -56,8 +59,8 @@ var NAVTREEINDEX391 =
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f":[8,0,0,0,1,3,2,23,5,1],
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7":[8,0,0,0,1,3,2,23,5,0],
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9":[8,0,0,0,1,3,2,23,5,4],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[7,0,13,6,30],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[5,0,34,6,30],
+"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[7,0,13,6,30],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[5,0,34,6,30,2],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[7,0,13,6,30,2],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#aa24738cdd040a883782b50189abdf240":[5,0,34,6,30,1],
@@ -98,10 +101,10 @@ var NAVTREEINDEX391 =
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html":[7,0,13,7,7],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a1952e2d54b77437731b693f4eace83ac":[5,0,34,7,7,2],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a1952e2d54b77437731b693f4eace83ac":[7,0,13,7,7,2],
-"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a3da812593b22ef506a9d61e16b5485d1":[7,0,13,7,7,1],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a3da812593b22ef506a9d61e16b5485d1":[5,0,34,7,7,1],
-"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a61a4f0fb74db04cdc11c0729bc104f7a":[5,0,34,7,7,4],
+"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a3da812593b22ef506a9d61e16b5485d1":[7,0,13,7,7,1],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a61a4f0fb74db04cdc11c0729bc104f7a":[7,0,13,7,7,4],
+"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a61a4f0fb74db04cdc11c0729bc104f7a":[5,0,34,7,7,4],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a8833543c4f179be97476a26152ec049b":[7,0,13,7,7,3],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a8833543c4f179be97476a26152ec049b":[5,0,34,7,7,3],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#af8d6189ed0209b4f70e32f92c00e13fb":[5,0,34,7,7,0],
@@ -111,8 +114,8 @@ var NAVTREEINDEX391 =
 "de/d6c/classspell__item__death__choice.html#aad337f75e2132940ed3cfef209e1c73b":[7,0,3405,2],
 "de/d6c/classspell__item__death__choice.html#ac162e47e5334e15865a315b1a30fc645":[7,0,3405,0],
 "de/d6c/classspell__item__death__choice.html#afc4741f952c253924de7397d991a24ac":[7,0,3405,3],
-"de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,17,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html":[7,0,5,19],
+"de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,17,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,17,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[7,0,5,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[7,0,5,19,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX391 =
 "de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a3730748e081139cd1ea6c20cd956aa58":[5,0,17,61,15],
 "de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a41059907b2febc8999f03523bd285421":[5,0,17,61,9],
 "de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a593787d28828b964a48a797bb670ac3f":[5,0,17,61,4],
-"de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a59394c8e82825594d5cc7be68e652480":[5,0,17,61,7],
-"de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a5a246cd808c6b25e3ac9cf68452a9f3b":[5,0,17,61,1],
-"de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a80ab24f22dc7eeaedf170d219ec3e015":[5,0,17,61,12],
-"de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a843a0a69e134eb584c8e42713b094f6d":[5,0,17,61,5]
+"de/d72/namespacelfg.html#a253373c800edd65165575f01c960a500a59394c8e82825594d5cc7be68e652480":[5,0,17,61,7]
 };

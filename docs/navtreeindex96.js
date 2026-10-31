@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,0,1,2,11],
 "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a09669ceedfe82768c5fd5a2dafd042fc":[8,0,0,0,1,3,5,0,1,2,11,15],
 "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2084f8df4bb3a924b03a8bfff7f019dc":[8,0,0,0,1,3,5,0,1,2,11,8],
 "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d37532e7cf2ec727198d5679d437dca":[8,0,0,0,1,3,5,0,1,2,11,3],
@@ -39,10 +40,10 @@ var NAVTREEINDEX96 =
 "d3/d19/structArenaTeamScore.html#ae3e2b8e8a29c50ca20a42a0364349764":[7,0,206,3],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[7,0,0,91,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[5,0,0,103,0],
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[5,0,0,103,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[7,0,0,91,0,0],
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[5,0,0,103,0,1],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[5,0,0,103,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[7,0,0,91,0,1],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[5,0,0,103,0,1],
 "d3/d1a/classspell__pal__seal__of__vengeance__aura.html":[7,0,3821],
 "d3/d1a/classspell__pal__seal__of__vengeance__aura.html#a16545533c0a45b6bde0da3fbeaed75ae":[7,0,3821,3],
 "d3/d1a/classspell__pal__seal__of__vengeance__aura.html#a194bdf6e15ecf61533d40c0990e392a4":[7,0,3821,7],
@@ -98,14 +99,14 @@ var NAVTREEINDEX96 =
 "d3/d1b/classnpc__prof__leather.html#afdf3a42c20903efd7f45ab0042f79de0":[7,0,2117,3],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html":[7,0,2063,0],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html#a76ede7ef27a41a284821e690c88375c9":[7,0,2063,0,0],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[5,0,0,51],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[7,0,0,39],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[7,0,0,39,1],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[5,0,0,51],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[5,0,0,51,1],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[7,0,0,39,0],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[7,0,0,39,1],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,0,51,0],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[7,0,0,39,2],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[7,0,0,39,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,0,51,2],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[7,0,0,39,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[7,0,0,39,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,0,51,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[7,0,0,39,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a14bb8e4962b33b218755721b24a5c2ea":[8,0,0,0,1,3,5,12,5,1,1],
 "d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a700906602d16c0752aa1c5e1fa4f70b3":[8,0,0,0,1,3,5,12,5,1,0],
 "d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a7c3c5c0ee94b39edd6a148153059c740":[8,0,0,0,1,3,5,12,5,1,3],
-"d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a933075a6c1b330ca6724e8bcc62fed41":[8,0,0,0,1,3,5,12,5,1,2],
-"d3/d21/boss__xevozz_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,12,5,3]
+"d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a933075a6c1b330ca6724e8bcc62fed41":[8,0,0,0,1,3,5,12,5,1,2]
 };

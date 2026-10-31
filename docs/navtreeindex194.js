@@ -1,5 +1,6 @@
 var NAVTREEINDEX194 =
 {
+"d6/dd8/structnpc__ichor__globule.html#a1e52599fab1b7e33d958f9815f73c6eb":[7,0,1937,1],
 "d6/dd8/structnpc__ichor__globule.html#a221c58177666ea1eb4a6b831916297eb":[7,0,1937,7],
 "d6/dd8/structnpc__ichor__globule.html#a3d1e68f4b809286d57355de7d4482ae6":[7,0,1937,5],
 "d6/dd8/structnpc__ichor__globule.html#a59443a6748d81ef27a030f8656697fc1":[7,0,1937,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX194 =
 "d6/de6/classspell__cthun__digestive__acid.html":[7,0,2802],
 "d6/de6/classspell__cthun__digestive__acid.html#a08dce8b98afadc134166a615b4496151":[7,0,2802,0],
 "d6/de6/classspell__cthun__digestive__acid.html#a6a04dbb7c66324e701a8db0ee0334123":[7,0,2802,2],
-"d6/de6/classspell__cthun__digestive__acid.html#a9ebb34665b176e4e60f085da65183d8e":[7,0,2802,1],
-"d6/de6/classspell__gen__bm__on.html":[7,0,3051]
+"d6/de6/classspell__cthun__digestive__acid.html#a9ebb34665b176e4e60f085da65183d8e":[7,0,2802,1]
 };

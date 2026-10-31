@@ -1,5 +1,8 @@
 var NAVTREEINDEX333 =
 {
+"dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a609616e5136cf11bc16f9bb30ba92879":[7,0,2329,0,15],
+"dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a61490f8c63f8056ac9f145ed8dd789c7":[7,0,2329,0,3],
+"dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a62499326ee1814f96be82cd97314ac6c":[7,0,2329,0,2],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a73e482ebbb1566738e6775a574500dc8":[7,0,2329,0,12],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#abd2bcd37ea38f68e97d322ad870de40e":[7,0,2329,0,6],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#abec9f353a1430afae12c21273bf32197":[7,0,2329,0,9],
@@ -141,14 +144,14 @@ var NAVTREEINDEX333 =
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#a0767ac60151517b803e871a0fcb25967":[7,0,2899,1],
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#ac0b2cf06027c2f658745d6a90dfc76a1":[7,0,2899,0],
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#afd1e28b224035aef5ac109f38d7e118d":[7,0,2899,2],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html":[7,0,13,19],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html":[5,0,34,19],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html":[7,0,13,19],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[5,0,34,19,3],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[7,0,13,19,3],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[5,0,34,19,1],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[7,0,13,19,1],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[7,0,13,19,0],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[5,0,34,19,0],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[7,0,13,19,0],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[5,0,34,19,2],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[7,0,13,19,2],
 "dc/d6d/classgo__crystalline__tear.html":[7,0,1173],
@@ -246,8 +249,5 @@ var NAVTREEINDEX333 =
 "dc/d75/classspell__azjol__nerub__fixate.html#a1e166c53e2051f3fae1b085a76a08c3f":[7,0,2704,1],
 "dc/d75/classspell__azjol__nerub__fixate.html#a3405c1b04f2e623662c7acaa6810278c":[7,0,2704,2],
 "dc/d75/classspell__azjol__nerub__fixate.html#aaa650972803d14e4d74be977430b04f6":[7,0,2704,0],
-"dc/d75/classspell__dragonblight__devour__ghoul.html":[7,0,2890],
-"dc/d75/classspell__dragonblight__devour__ghoul.html#a6e3bbfb11816f72ae85efb4defb23ad7":[7,0,2890,2],
-"dc/d75/classspell__dragonblight__devour__ghoul.html#a8df8d5addea956e80ad0a30ff8f73050":[7,0,2890,0],
-"dc/d75/classspell__dragonblight__devour__ghoul.html#adf6593e47a5766c40e7e3859fce00f81":[7,0,2890,1]
+"dc/d75/classspell__dragonblight__devour__ghoul.html":[7,0,2890]
 };

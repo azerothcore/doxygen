@@ -1,5 +1,9 @@
 var NAVTREEINDEX414 =
 {
+"df/d52/classAuraApplicationStub.html#a653fb81ddfa4c7ad855d9f1fefe172f4":[7,0,294,8],
+"df/d52/classAuraApplicationStub.html#a824a2ec07e911fdb02054eff2091f2ea":[7,0,294,9],
+"df/d52/classAuraApplicationStub.html#a9027c5f622263c32b6f7bc4a11883ddc":[7,0,294,10],
+"df/d52/classAuraApplicationStub.html#a97383d45b0a015579a0f315474ecfcc5":[7,0,294,6],
 "df/d52/classAuraApplicationStub.html#aa4afd58cae5bcfd203d61a1044d72d57":[7,0,294,12],
 "df/d52/classAuraApplicationStub.html#ad4040b722b12e54aa630abfa78cdaabd":[7,0,294,4],
 "df/d52/classAuraApplicationStub.html#ad74cccf28b56c1fe88988df229319dae":[7,0,294,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX414 =
 "df/d5c/QueryPackets_8h.html":[8,0,0,0,1,2,39,0,30],
 "df/d5c/classnpc__commandscript.html":[7,0,1743],
 "df/d5c/classnpc__commandscript.html#a08e5b7111edb323c12791d8745bd5662":[7,0,1743,40],
-"df/d5c/classnpc__commandscript.html#a0b63867896d7979cd73016b499d2b0b4":[7,0,1743,3],
-"df/d5c/classnpc__commandscript.html#a0bad5809380706d0569a3c0235f14af2":[7,0,1743,15],
-"df/d5c/classnpc__commandscript.html#a0d2565ece36041bc6c07d1ccdbfdc7fa":[7,0,1743,5],
-"df/d5c/classnpc__commandscript.html#a14ae3d6ba855b81e0a31aa700dbe09d5":[7,0,1743,25],
-"df/d5c/classnpc__commandscript.html#a16fe889389b58c80f75a96f522440460":[7,0,1743,34]
+"df/d5c/classnpc__commandscript.html#a0b63867896d7979cd73016b499d2b0b4":[7,0,1743,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX135 =
 {
+"d4/d7d/structnpc__pet__shaman__earth__elemental.html#ab7f72d0d574322965f1d0b23f144f1be":[7,0,2088,4],
 "d4/d7d/structnpc__pet__shaman__earth__elemental.html#ad9b48901b1d96e59ce60af6411a8baaf":[7,0,2088,2],
 "d4/d7e/NPCPackets_8h.html":[8,0,0,0,1,2,39,0,24],
 "d4/d7e/structnpc__assembly__lightning.html":[7,0,1672],
@@ -248,6 +249,5 @@ var NAVTREEINDEX135 =
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada4a98b6e61667225f497d8365630e72df":[8,0,0,0,1,3,5,2,1,1,46,3],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada5540d6687faadb9887397324b33591ed":[8,0,0,0,1,3,5,2,1,1,46,1],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada72998a4d83035498eb434a926b3c605c":[8,0,0,0,1,3,5,2,1,1,46,4],
-"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada8a7a86cecbd82f651dc88384ca189df3":[8,0,0,0,1,3,5,2,1,1,46,6],
-"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada9998d085c9f5766052a44ebd7cb37332":[8,0,0,0,1,3,5,2,1,1,46,0]
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada8a7a86cecbd82f651dc88384ca189df3":[8,0,0,0,1,3,5,2,1,1,46,6]
 };

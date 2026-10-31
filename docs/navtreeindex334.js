@@ -1,5 +1,8 @@
 var NAVTREEINDEX334 =
 {
+"dc/d75/classspell__dragonblight__devour__ghoul.html#a6e3bbfb11816f72ae85efb4defb23ad7":[7,0,2890,2],
+"dc/d75/classspell__dragonblight__devour__ghoul.html#a8df8d5addea956e80ad0a30ff8f73050":[7,0,2890,0],
+"dc/d75/classspell__dragonblight__devour__ghoul.html#adf6593e47a5766c40e7e3859fce00f81":[7,0,2890,1],
 "dc/d75/classspell__dragonblight__devour__ghoul.html#afdabca016ed5eae85a0bdb3fd9d695ec":[7,0,2890,3],
 "dc/d76/Arena_8cpp.html":[8,0,0,0,1,2,8,2],
 "dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html":[7,0,299,15],
@@ -246,8 +249,5 @@ var NAVTREEINDEX334 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a5b6171794c5b49e8ee439de7bdc51ba5":[7,0,2054,0,2],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a838f1354e24c47e1c52e4b50e2b93c85":[7,0,2054,0,7],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a89e506868e3191362545e34d21528b8f":[7,0,2054,0,1],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#ac3e1bc9dc819138741eb3b4448051547":[7,0,2054,0,4],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a":[7,0,2054,0,6],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[7,0,2054,0,8],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[7,0,2054,0,9]
+"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#ac3e1bc9dc819138741eb3b4448051547":[7,0,2054,0,4]
 };

@@ -439,6 +439,7 @@ var CharacterDatabase_8h =
       [ "CHAR_SEL_PET_DECLINED_NAME", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa197a224bf1d85874d0165a3f185fa35", null ],
       [ "CHAR_UPD_CHAR_PET_NAME", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af39eba7eee7fe92ec811b66e9e879a78", null ],
       [ "CHAR_UPD_CHAR_PET_SLOT_BY_ID", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a529723f0f5a9f115997644377f82c6d0", null ],
+      [ "CHAR_UPD_CHAR_PET_SLOT_BY_SLOT_EXCLUDE_ID", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a141bbc20fee02982e4e278f4a9b981be", null ],
       [ "CHAR_DEL_CHAR_PET_BY_ID", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a973f03047a0b6d5510e4c4c548e06678", null ],
       [ "CHAR_DEL_CHAR_PET_BY_SLOT", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a2f75c76f4c606ae5521ea4ace6423fc4", null ],
       [ "CHAR_REP_CHAR_PET", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9fd16a37ceb5819cc3832264f5591418", null ],

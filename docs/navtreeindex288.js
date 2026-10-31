@@ -1,6 +1,8 @@
 var NAVTREEINDEX288 =
 {
+"da/de4/classspell__pos__rimefang__frost__nova.html#ac49eaa96ebb95a38f54a9bb6321f5585":[7,0,3846,2],
 "da/de5/structAcore_1_1Impl_1_1list__size_3_01type__list_3_01Ts_8_8_8_01_4_01_4.html":[5,0,0,8,11],
+"da/de5/structAcore_1_1Impl_1_1list__size_3_01type__list_3_01Ts_8_8_8_01_4_01_4.html":[7,0,0,5,11],
 "da/de5/structAcore_1_1Impl_1_1list__size_3_01type__list_3_01Ts_8_8_8_01_4_01_4.html#a33bcf73dbeb7103a6e34c8de0185e611":[5,0,0,8,11,0],
 "da/de5/structAcore_1_1Impl_1_1list__size_3_01type__list_3_01Ts_8_8_8_01_4_01_4.html#a33bcf73dbeb7103a6e34c8de0185e611":[7,0,0,5,11,0],
 "da/de5/structboss__high__king__maulgar.html":[7,0,549],
@@ -247,7 +249,5 @@ var NAVTREEINDEX288 =
 "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1e":[8,0,0,0,1,3,5,2,1,6,12],
 "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea089dd6eb274dcbe6c622439d7b0285d1":[8,0,0,0,1,3,5,2,1,6,12,1],
 "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea1d3557d5f8da750348e4bda8b8ee9bf4":[8,0,0,0,1,3,5,2,1,6,12,0],
-"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea24c967ce32dbd558bf379dedb1fe725e":[8,0,0,0,1,3,5,2,1,6,12,2],
-"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea4bf6d797bf054f1764a10085b0777116":[8,0,0,0,1,3,5,2,1,6,12,8],
-"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea5b60ba4438ad02187e3d426638eaf6bd":[8,0,0,0,1,3,5,2,1,6,12,6]
+"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea24c967ce32dbd558bf379dedb1fe725e":[8,0,0,0,1,3,5,2,1,6,12,2]
 };

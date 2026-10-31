@@ -1,5 +1,6 @@
 var NAVTREEINDEX201 =
 {
+"d7/d2d/classPassengerController.html#af4271e53792477394a5c1022ed8fb30f":[7,0,2423,5],
 "d7/d2d/classPlayerDump.html":[7,0,2457],
 "d7/d2d/classPlayerDump.html#a457c89834631206d39453721e41af28e":[7,0,2457,0],
 "d7/d2d/classPlayerDump.html#a69c8e6c412ac09099752a3ad388f5467":[7,0,2457,1],
@@ -49,8 +50,8 @@ var NAVTREEINDEX201 =
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,34,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,34,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[7,0,13,12,3,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[7,0,13,12,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,34,12,3,2],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[7,0,13,12,3,2],
 "d7/d33/classnpc__ravenous__worg.html":[7,0,2138],
@@ -248,6 +249,5 @@ var NAVTREEINDEX201 =
 "d7/d3d/classWDT__file.html#a89ddf5d1527ac16a5d05790769d266b3":[7,0,4705,4],
 "d7/d3d/classWDT__file.html#add675f96f010e67ca1df01b029c9ebfb":[7,0,4705,3],
 "d7/d3d/classWDT__file.html#aee6c7e1e402cf986e754753c5e8aee72":[7,0,4705,2],
-"d7/d3d/classWDT__file.html#afa32849d31abde3cb2c9f3b558816368":[7,0,4705,0],
-"d7/d3d/classWaypointMgr.html":[7,0,4700]
+"d7/d3d/classWDT__file.html#afa32849d31abde3cb2c9f3b558816368":[7,0,4705,0]
 };

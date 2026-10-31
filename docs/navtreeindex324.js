@@ -1,5 +1,7 @@
 var NAVTREEINDEX324 =
 {
+"dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a227c3acd56593b27613cd6b86c450b07":[8,0,0,0,1,3,5,9,2,9,30,49],
+"dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a239c7bcb6ba8b855cff14fc4aaa3bcbb":[8,0,0,0,1,3,5,9,2,9,30,18],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a27e249733a4a590428dc06f94fa42acc":[8,0,0,0,1,3,5,9,2,9,30,1],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a2a65edd541cbb9511059a862de52e43b":[8,0,0,0,1,3,5,9,2,9,30,30],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a2a8f468c9a1e1a2b7ba99a37efc49fd8":[8,0,0,0,1,3,5,9,2,9,30,11],
@@ -173,16 +175,16 @@ var NAVTREEINDEX324 =
 "dc/d29/boss__mimiron_8cpp.html#acb8328e170a92d1db4eabfe0852921c0":[8,0,0,0,1,3,5,9,2,9,28],
 "dc/d29/boss__mimiron_8cpp.html#ade9efbea832ad4ad7704a224e792d207":[8,0,0,0,1,3,5,9,2,9,37],
 "dc/d29/boss__mimiron_8cpp.html#ae87f21ed02c2f3995e248950ba0edfde":[8,0,0,0,1,3,5,9,2,9,26],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[7,0,13,11,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[5,0,34,11,2],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[7,0,13,11,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[7,0,13,11,2,0],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[7,0,13,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,34,11,2,1],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[7,0,13,11,2,3],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[7,0,13,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,34,11,2,3],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[7,0,13,11,2,2],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[7,0,13,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[5,0,34,11,2,2],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[7,0,13,11,2,2],
 "dc/d29/classspell__gen__clone__weapon__aura.html":[7,0,3063],
 "dc/d29/classspell__gen__clone__weapon__aura.html#a0529b56b30fa7bb97c014bbc2ee4a96a":[7,0,3063,3],
 "dc/d29/classspell__gen__clone__weapon__aura.html#a18e05511c2dc0b934a97e323fccc3f50":[7,0,3063,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX324 =
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963eac3911e5e77f18a17f7d0f2874231bd57":[8,0,0,0,1,3,7,1,0,3,31],
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963eaca58320c192ffd4ea2b25ba5a18607e3":[8,0,0,0,1,3,7,1,0,3,4],
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ead0a2867f318115992e6532f35f4be435":[8,0,0,0,1,3,7,1,0,3,24],
-"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ead846f49cb69da503a25ec27203c079d6":[8,0,0,0,1,3,7,1,0,3,3],
-"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963eae1b0d699d7641a9915328068ba5559e3":[8,0,0,0,1,3,7,1,0,3,26],
-"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963eae655582904a7e7592fdc197cebfd5511":[8,0,0,0,1,3,7,1,0,3,23]
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ead846f49cb69da503a25ec27203c079d6":[8,0,0,0,1,3,7,1,0,3,3]
 };

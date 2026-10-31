@@ -1,5 +1,9 @@
 var NAVTREEINDEX403 =
 {
+"de/dd9/classspell__dk__chains__of__ice__aura.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5":[7,0,2838,2],
+"de/dd9/classspell__dk__chains__of__ice__aura.html#a64eb2c68651171f1cbda3aa98d58e68e":[7,0,2838,1],
+"de/dd9/classspell__dk__chains__of__ice__aura.html#adc387a1b001119b95179856c030853ad":[7,0,2838,0],
+"de/ddc/classIgbExplosionCheck.html":[7,0,1325],
 "de/ddc/classIgbExplosionCheck.html#a28ce6685366e99db2aa1e4022012f943":[7,0,1325,1],
 "de/ddc/classIgbExplosionCheck.html#a413ee8f2218621d274d118aea967dc9b":[7,0,1325,2],
 "de/ddc/classIgbExplosionCheck.html#ae67cca111f26a275614810cbe053bcd8":[7,0,1325,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX403 =
 "de/dea/structnpc__corrupted__totem.html#ac128625268820d2e9b1f0ef5ead975e9":[7,0,1752,5],
 "de/dea/structnpc__corrupted__totem.html#ae8314903c9006b7bca94a47115a0d05b":[7,0,1752,1],
 "de/deb/LogCommon_8h.html":[8,0,0,0,0,9,10],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803":[8,0,0,0,0,9,10,0],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b":[8,0,0,0,0,9,10,0,0],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2":[8,0,0,0,0,9,10,0,5],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3":[8,0,0,0,0,9,10,0,4],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46":[8,0,0,0,0,9,10,0,1]
+"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803":[8,0,0,0,0,9,10,0]
 };

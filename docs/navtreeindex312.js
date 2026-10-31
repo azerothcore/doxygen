@@ -1,5 +1,7 @@
 var NAVTREEINDEX312 =
 {
+"db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6":[8,0,0,0,1,3,5,6,12,105],
+"db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6a0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,5,6,12,105,1],
 "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6a4e099987cb2efa91f8834dabdf704cc4":[8,0,0,0,1,3,5,6,12,105,2],
 "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6a8271bf723a74d49c9a4cf81f134cf956":[8,0,0,0,1,3,5,6,12,105,0],
 "db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96":[8,0,0,0,1,3,5,6,12,105,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX312 =
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a87af515cc9a6cf73bf602b8c9bed725e":[7,0,2233,0,13],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aa273d1429c6e82196b5b9f32c4232996":[7,0,2233,0,5],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aa681945f635c2ff9bd23d407d48c003d":[7,0,2233,0,25],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aa74db6940f44d81369944ec85a292a1d":[7,0,2233,0,14],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ab3cb1a4b08608c9270b957804756d6d8":[7,0,2233,0,9],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ab3fac4faa54b273d67df8f1c39cc2f29":[7,0,2233,0,2]
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aa74db6940f44d81369944ec85a292a1d":[7,0,2233,0,14]
 };

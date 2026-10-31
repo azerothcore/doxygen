@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298ca9fe07b80a3099720bbf99d05276a3e0d":[8,0,0,0,1,3,5,8,2,3,4,13],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298caa23322b1bf5fb3a45bdd2e203daf0dfd":[8,0,0,0,1,3,5,8,2,3,4,4],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298cabc56841947e95a75399043840b1afc88":[8,0,0,0,1,3,5,8,2,3,4,14],
 "d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298cac568bb3333987a7d2d4a3f1d1f860a7f":[8,0,0,0,1,3,5,8,2,3,4,0],
@@ -217,8 +218,8 @@ var NAVTREEINDEX185 =
 "d6/d7c/WardenMac_8h.html":[8,0,0,0,1,2,47,7],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,0,32],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[7,0,0,20],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,0,32,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[7,0,0,20,0],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,0,32,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[7,0,0,20,1],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[5,0,0,32,1],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[5,0,0,32,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#a40d7584c68f5f6516eb9a7deaaad7c86":[7,0,2043,0,12],
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#a40f05363f38d71954c9fb8773c382444":[7,0,2043,0,5],
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#a5f20faa7f7007989298009b88b3ecbc8":[7,0,2043,0,1],
-"d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#a82f2c29b380be95303e1558776ea2d88":[7,0,2043,0,0],
-"d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#a9e122d4533155c926904a13e8534d32e":[7,0,2043,0,2]
+"d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#a82f2c29b380be95303e1558776ea2d88":[7,0,2043,0,0]
 };

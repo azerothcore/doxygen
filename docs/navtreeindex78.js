@@ -1,5 +1,6 @@
 var NAVTREEINDEX78 =
 {
+"d2/de0/CharacterCache_8h.html":[8,0,0,0,1,2,9,1],
 "d2/de0/CharacterCache_8h.html#a7a32c898b33d6163d83a32f46d58517c":[8,0,0,0,1,2,9,1,2],
 "d2/de0/GuildHandler_8cpp.html":[8,0,0,0,1,2,22,14],
 "d2/de0/classspell__dreamwalker__summoner.html":[7,0,2904],
@@ -248,6 +249,5 @@ var NAVTREEINDEX78 =
 "d2/de9/classSpellInfo.html#a7a74ea4ffeca2826ffa10f7b4e586ab5":[7,0,4499,124],
 "d2/de9/classSpellInfo.html#a7b1e55eb305977d80f0f5dbabf4e2ae2":[7,0,4499,23],
 "d2/de9/classSpellInfo.html#a7d20c900cea6e14c29e20434282f0d6f":[7,0,4499,109],
-"d2/de9/classSpellInfo.html#a7e496d4dc01e50c75feab5c951c17894":[7,0,4499,14],
-"d2/de9/classSpellInfo.html#a7f41763dc08f0ec7435bbbfc9c30ac2b":[7,0,4499,149]
+"d2/de9/classSpellInfo.html#a7e496d4dc01e50c75feab5c951c17894":[7,0,4499,14]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX321 =
 {
+"dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,2,4,1,2],
+"dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,2,4,1,2,5],
 "dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba2ab2d3749086e3919a191a23d6da610c":[8,0,0,0,1,3,2,4,1,2,2],
 "dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,4,1,2,0],
 "dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,2,4,1,2,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005":[7,0,880,2],
 "dc/d08/classspell__trollgore__invader__taunt.html":[7,0,4303],
 "dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[7,0,4303,2],
-"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[7,0,4303,0],
-"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[7,0,4303,1],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[7,0,1706,0]
+"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[7,0,4303,0]
 };

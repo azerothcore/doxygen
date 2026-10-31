@@ -1,5 +1,8 @@
 var NAVTREEINDEX387 =
 {
+"de/d3a/classat__karazhan__mirkblood__approach.html":[7,0,239],
+"de/d3a/classat__karazhan__mirkblood__approach.html#a032600991e9fc1aaf026adf2e63314e5":[7,0,239,0],
+"de/d3a/classat__karazhan__mirkblood__approach.html#aaece848faa4f1086ac0b16802a1e765e":[7,0,239,1],
 "de/d3a/classspell__warlords__rage.html":[7,0,4391],
 "de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[7,0,4391,0],
 "de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[7,0,4391,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX387 =
 "de/d3d/LFGMgr_8h.html#a2ecfd5a00384574f784eb4dcd16ec7abab5b960f36f997ad211ccd39fdd8b7227":[8,0,0,0,1,2,15,5,34,1],
 "de/d3d/LFGMgr_8h.html#a2ecfd5a00384574f784eb4dcd16ec7ababb809a2241eb417131fced2fab9b042d":[8,0,0,0,1,2,15,5,34,4],
 "de/d3d/LFGMgr_8h.html#a359159fc18660e1597cc4a90255412f1":[8,0,0,0,1,2,15,5,19],
-"de/d3d/LFGMgr_8h.html#a44b05d5c4dd27aa794f6cec4816524b6":[8,0,0,0,1,2,15,5,36],
-"de/d3d/LFGMgr_8h.html#a4b4f05b0e6e1405dd9e8f44ed1da0382":[8,0,0,0,1,2,15,5,15],
-"de/d3d/LFGMgr_8h.html#a65f1d8636d10579769f79b63216ff29d":[8,0,0,0,1,2,15,5,22],
-"de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06d":[8,0,0,0,1,2,15,5,32]
+"de/d3d/LFGMgr_8h.html#a44b05d5c4dd27aa794f6cec4816524b6":[8,0,0,0,1,2,15,5,36]
 };

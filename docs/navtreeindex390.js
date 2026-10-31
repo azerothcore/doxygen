@@ -1,5 +1,8 @@
 var NAVTREEINDEX390 =
 {
+"de/d59/classSplineHandler.html":[7,0,4547],
+"de/d59/classSplineHandler.html#a7c5aac2d12e13bad1c38c4e8860ed27f":[7,0,4547,0],
+"de/d59/classSplineHandler.html#aa5d1bddc2435eee76f493229740ecf9e":[7,0,4547,1],
 "de/d59/classSplineHandler.html#aaafb07271736d8bc89d07aafbbae7f25":[7,0,4547,2],
 "de/d59/classgo__simon__cluster.html":[7,0,1220],
 "de/d59/classgo__simon__cluster.html#a9fd9799604de44c91803511c45b67786":[7,0,1220,1],
@@ -12,8 +15,8 @@ var NAVTREEINDEX390 =
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[7,0,3408,1],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[7,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,0,8,3],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,0,8,3,0],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[7,0,0,5,3,0],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,0,8,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[8,0,0,0,1,3,5,7,12],
 "de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[8,0,0,0,1,3,5,7,12,10],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,5,7,12,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX390 =
 "de/d5f/structboss__chrono__lord__deja.html#a02c279fb1cfccd38dc60ba7c610cf859":[7,0,428,3],
 "de/d5f/structboss__chrono__lord__deja.html#a535c0c157c60804188ad8c4413c277dd":[7,0,428,4],
 "de/d5f/structboss__chrono__lord__deja.html#a68eb4941364f9fac121aa3d610d45f48":[7,0,428,1],
-"de/d5f/structboss__chrono__lord__deja.html#a85f82d4bde99b7e1d05fba82177916e6":[7,0,428,0],
-"de/d5f/structboss__chrono__lord__deja.html#ab5324b2993f2fd1ec3290eb962ef6065":[7,0,428,2],
-"de/d5f/structboss__chrono__lord__deja.html#acdef53bd447c30d87bd15af3bf4200bc":[7,0,428,5],
-"de/d61/structnpc__pos__leader_1_1npc__pos__leaderAI.html":[7,0,2107,0]
+"de/d5f/structboss__chrono__lord__deja.html#a85f82d4bde99b7e1d05fba82177916e6":[7,0,428,0]
 };

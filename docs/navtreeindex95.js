@@ -1,5 +1,6 @@
 var NAVTREEINDEX95 =
 {
+"d3/d0d/GridNotifiers_8h.html#a707574f70dccac2c48163c9083e774bbab1c94ca2fbc3e78fc30069c8d0f01680":[8,0,0,0,1,2,19,1,1,82,0],
 "d3/d0d/GridNotifiers_8h.html#a707574f70dccac2c48163c9083e774bbae8d17c0da74738394ddb55b65c299180":[8,0,0,0,1,2,19,1,1,82,1],
 "d3/d0d/classnpc__icc__buff__switcher.html":[7,0,1921],
 "d3/d0d/classnpc__icc__buff__switcher.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba":[7,0,1921,1],
@@ -79,16 +80,16 @@ var NAVTREEINDEX95 =
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ae5939466cf9b4fbb63eb136baf62767f":[5,0,10,3],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ae8c5d4dc123b8a900254bcbc82c1ffbe":[5,0,10,5],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#afe5cf638b3ba626c9dc18258d4c528fa":[5,0,10,1],
-"d3/d13/structADT_1_1MODF.html":[5,0,2,1],
 "d3/d13/structADT_1_1MODF.html":[7,0,1,1],
-"d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[7,0,1,1,2],
+"d3/d13/structADT_1_1MODF.html":[5,0,2,1],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[5,0,2,1,2],
-"d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,2,1,7],
+"d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[7,0,1,1,2],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[7,0,1,1,7],
+"d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,2,1,7],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[5,0,2,1,0],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[7,0,1,1,0],
-"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,2,1,6],
 "d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[7,0,1,1,6],
+"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,2,1,6],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[5,0,2,1,4],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[7,0,1,1,4],
 "d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[5,0,2,1,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX95 =
 "d3/d18/boss__hadronox_8cpp.html#ada858526fe00c875da6431bcd5ad17b1":[8,0,0,0,1,3,5,0,1,2,21],
 "d3/d18/boss__hadronox_8cpp.html#aee08b9c5c142757a7ca8939ebf5b7944":[8,0,0,0,1,3,5,0,1,2,17],
 "d3/d18/boss__hadronox_8cpp.html#af5baa506e65b4caa6be6d1c6661dfe63":[8,0,0,0,1,3,5,0,1,2,10],
-"d3/d18/boss__hadronox_8cpp.html#af5baa506e65b4caa6be6d1c6661dfe63a730c05e2d59a01072d37989ebe09bdfa":[8,0,0,0,1,3,5,0,1,2,10,0],
-"d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,0,1,2,11]
+"d3/d18/boss__hadronox_8cpp.html#af5baa506e65b4caa6be6d1c6661dfe63a730c05e2d59a01072d37989ebe09bdfa":[8,0,0,0,1,3,5,0,1,2,10,0]
 };

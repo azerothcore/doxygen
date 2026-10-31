@@ -1,5 +1,7 @@
 var NAVTREEINDEX315 =
 {
+"db/dd7/classinstance__halls__of__reflection.html#ae80da2574ffbfe10416a2c8428fb5a1c":[7,0,1349,8],
+"db/dd7/classinstance__halls__of__reflection.html#aea464174de65d57e6b7d6d958404eb4f":[7,0,1349,9],
 "db/dd7/classinstance__halls__of__reflection.html#af8dd9fd8a8ab76ae4f3c8c10b9186962":[7,0,1349,25],
 "db/dd7/classinstance__halls__of__reflection.html#aff25146fb4e9d3dacc20a44ceabf187a":[7,0,1349,12],
 "db/dd7/classspell__q12058__the__runic__prophecies.html":[7,0,3957],
@@ -247,7 +249,5 @@ var NAVTREEINDEX315 =
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a2403767853506f0a47ef01ddcce35300":[8,0,0,0,1,3,2,30,32,21],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a263077fc3e20e15e351300d743f92034":[8,0,0,0,1,3,2,30,32,7],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a266a9b4ce1523433155ce09c822e7901":[8,0,0,0,1,3,2,30,32,8],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a27ab956dac46f3cc206157a0950c5aab":[8,0,0,0,1,3,2,30,32,67],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a29fe7fcd9cb4c536742e099ec2606c75":[8,0,0,0,1,3,2,30,32,26],
-"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a2f4d87243dce0de4ce3f02d4d732b152":[8,0,0,0,1,3,2,30,32,62]
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#aa150cfbaeca14e2e5cb1edb77450cc74a27ab956dac46f3cc206157a0950c5aab":[8,0,0,0,1,3,2,30,32,67]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX168 =
 {
+"d5/de0/classspell__yogg__saron__brain__link.html#adaeee235184ddc36e90e532091183056":[7,0,4452,0],
 "d5/de1/classnpc__lord__arete.html":[7,0,1992],
 "d5/de1/classnpc__lord__arete.html#a212d003e9acb5f141197b5c4d10163a4":[7,0,1992,2],
 "d5/de1/classnpc__lord__arete.html#a929e3f3346bf4dbaee127463eaf4ffcc":[7,0,1992,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX168 =
 "d5/dee/structboss__gatewatcher__iron__hand.html":[7,0,510],
 "d5/dee/structboss__gatewatcher__iron__hand.html#a1973142412b4094dbd9fa51600741148":[7,0,510,3],
 "d5/dee/structboss__gatewatcher__iron__hand.html#a36b10cd02b35b6e106687b08bc80bfa6":[7,0,510,1],
-"d5/dee/structboss__gatewatcher__iron__hand.html#aa6a9f456d158e4c0332816c7e65ec155":[7,0,510,2],
-"d5/dee/structboss__gatewatcher__iron__hand.html#aef70e713007af38b510f0a3b8c082b24":[7,0,510,0]
+"d5/dee/structboss__gatewatcher__iron__hand.html#aa6a9f456d158e4c0332816c7e65ec155":[7,0,510,2]
 };
