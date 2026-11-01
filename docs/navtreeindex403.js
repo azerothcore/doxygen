@@ -1,5 +1,14 @@
 var NAVTREEINDEX403 =
 {
+"de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4":[8,0,0,0,1,2,0,1,7,1],
+"de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c":[8,0,0,0,1,2,0,1,7,2],
+"de/dd9/AccountMgr_8h.html#a1296774e1021cb68d7829832d153b2e3":[8,0,0,0,1,2,0,1,6],
+"de/dd9/AccountMgr_8h.html#a134ebf22666a6525929447b2d869d400":[8,0,0,0,1,2,0,1,1],
+"de/dd9/AccountMgr_8h.html#a45827712253b6d66092106cef5ae724b":[8,0,0,0,1,2,0,1,3],
+"de/dd9/AccountMgr_8h.html#ac0b6edf00d4a9c1e3c496e98fdf865aa":[8,0,0,0,1,2,0,1,5],
+"de/dd9/AccountMgr_8h.html#ad64d9bd18bac10ab1af09b042d734c64":[8,0,0,0,1,2,0,1,2],
+"de/dd9/AccountMgr_8h.html#aea3ae93168116461b6c0a7a984112175":[8,0,0,0,1,2,0,1,4],
+"de/dd9/classspell__dk__chains__of__ice__aura.html":[7,0,2838],
 "de/dd9/classspell__dk__chains__of__ice__aura.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5":[7,0,2838,2],
 "de/dd9/classspell__dk__chains__of__ice__aura.html#a64eb2c68651171f1cbda3aa98d58e68e":[7,0,2838,1],
 "de/dd9/classspell__dk__chains__of__ice__aura.html#adc387a1b001119b95179856c030853ad":[7,0,2838,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX403 =
 "de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[7,0,3813,0],
 "de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[7,0,3813,2],
 "de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[7,0,3813,1],
-"de/dea/structnpc__corrupted__totem.html":[7,0,1752],
-"de/dea/structnpc__corrupted__totem.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4":[7,0,1752,3],
-"de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[7,0,1752,4],
-"de/dea/structnpc__corrupted__totem.html#a5e0c58b341fe25a5d682b68e9eee207f":[7,0,1752,0],
-"de/dea/structnpc__corrupted__totem.html#a953cf5af625b9b5a4ab6704d5b1b664c":[7,0,1752,6],
-"de/dea/structnpc__corrupted__totem.html#aa3c6b1a3df61c9e98c62efadff637578":[7,0,1752,2],
-"de/dea/structnpc__corrupted__totem.html#ac128625268820d2e9b1f0ef5ead975e9":[7,0,1752,5],
-"de/dea/structnpc__corrupted__totem.html#ae8314903c9006b7bca94a47115a0d05b":[7,0,1752,1],
-"de/deb/LogCommon_8h.html":[8,0,0,0,0,9,10],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803":[8,0,0,0,0,9,10,0]
+"de/dea/structnpc__corrupted__totem.html":[7,0,1752]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX97 =
 {
+"d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a7c3c5c0ee94b39edd6a148153059c740":[8,0,0,0,1,3,5,12,5,1,3],
+"d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a933075a6c1b330ca6724e8bcc62fed41":[8,0,0,0,1,3,5,12,5,1,2],
 "d3/d21/boss__xevozz_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,12,5,3],
 "d3/d21/boss__xevozz_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,12,5,3,2],
 "d3/d21/boss__xevozz_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2956a00f71a979d099e9c94262b15f0a":[8,0,0,0,1,3,5,12,5,3,5],
@@ -147,12 +149,12 @@ var NAVTREEINDEX97 =
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#af344a6e6bb42609887ee8a3022e9d8e5":[7,0,350,0,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[7,0,13,13,4],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[5,0,34,13,4],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[7,0,13,13,4,3],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[5,0,34,13,4,3],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[7,0,13,13,4,3],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[7,0,13,13,4,1],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[5,0,34,13,4,1],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[7,0,13,13,4,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[5,0,34,13,4,2],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[7,0,13,13,4,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[7,0,13,13,4,0],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[5,0,34,13,4,0],
 "d3/d26/classspell__ioc__launch.html":[7,0,3377],
@@ -180,12 +182,12 @@ var NAVTREEINDEX97 =
 "d3/d2a/classspell__sha__thunderstorm.html#ade4f3cb676f1cc92b0e75f85367dc3e0":[7,0,4162,2],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[7,0,0,4,0,6],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,0,7,0,6],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,0,7,0,6,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[7,0,0,4,0,6,1],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[7,0,0,4,0,6,0],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,0,7,0,6,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,0,7,0,6,0],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[7,0,0,4,0,6,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[7,0,0,4,0,6,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,0,7,0,6,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[7,0,0,4,0,6,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[7,0,1803],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a27b5988d777347832795581b0186c09f":[7,0,1803,5],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a35962dcbbef32dbc7f63dfa33cffd4b4":[7,0,1803,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d2e/classspell__igb__below__zero.html#a77c63e85233e2ef14bf06c82ad27c4b2":[7,0,3328,2],
 "d3/d2e/classspell__igb__below__zero.html#aff4f05a5a4742a408646000b7cece38c":[7,0,3328,1],
 "d3/d2f/classspell__sindragosa__frost__breath.html":[7,0,4183],
-"d3/d2f/classspell__sindragosa__frost__breath.html#a7b7254e7c6cb0d819dd003ffd19d0731":[7,0,4183,3],
-"d3/d2f/classspell__sindragosa__frost__breath.html#a9f77330d81fef646dd5d5399800cba66":[7,0,4183,0],
-"d3/d2f/classspell__sindragosa__frost__breath.html#ad759f6215e722f799156b4bdddcb7af1":[7,0,4183,2]
+"d3/d2f/classspell__sindragosa__frost__breath.html#a7b7254e7c6cb0d819dd003ffd19d0731":[7,0,4183,3]
 };

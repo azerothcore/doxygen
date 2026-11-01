@@ -82,19 +82,15 @@ var karazhan_8h =
       [ "DATA_ATTUMEN", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641", null ],
       [ "DATA_MOROES", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94abbd9f6f0dafb9bf017b3b53776a0469d", null ],
       [ "DATA_MAIDEN", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94af6b62877e52f7e560f6cac5887461741", null ],
-      [ "DATA_OPTIONAL_BOSS", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a427c8127cf6a8a21b09528d9807f7ef5", null ],
       [ "DATA_OPERA_PERFORMANCE", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94af60c19ee0917a7b80fcfaead15b64c11", null ],
       [ "DATA_CURATOR", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a423649c075618715f7b4e5ab821bf492", null ],
-      [ "DATA_ARAN", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94ac034fb12aeaf0c4947b1ee6abaf71995", null ],
       [ "DATA_TERESTIAN", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a9b8d41116bfd0e2974abe3fbd29a7e01", null ],
+      [ "DATA_ARAN", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94ac034fb12aeaf0c4947b1ee6abaf71995", null ],
       [ "DATA_NETHERSPITE", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a8cc79bf181057813d5125ee85aa8cb78", null ],
       [ "DATA_CHESS_EVENT", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94ad947cfd0d6dba92ad5fc1140a36c5f13", null ],
       [ "DATA_MALCHEZAAR", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a704c192043e88ea7137d75f67fa5a122", null ],
       [ "DATA_NIGHTBANE", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94ad9c601dfad3d6d50da02d542a4d8ed1f", null ],
-      [ "DATA_SERVANT_QUARTERS", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94af9f16aaabe7e7b98b938d4a5c3f4d3c8", null ],
       [ "DATA_OPERA_OZ_DEATHCOUNT", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94af0c7efb194b7941a48560244ca0979eb", null ],
-      [ "DATA_KILREK", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a0e5f2f7091093e4ca383f81440abbd2c", null ],
-      [ "MAX_ENCOUNTERS", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a9cfa5bdc17e1d5a590d300b530b36a25", null ],
       [ "DATA_GO_CURTAINS", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a15060153c82a820fe712f9df46ba86c9", null ],
       [ "DATA_GO_STAGEDOORLEFT", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a39ba7b188f4550553037dcd4032d9899", null ],
       [ "DATA_GO_STAGEDOORRIGHT", "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a127313b73b730df2c8a7fbb3e3e753d7", null ],
@@ -144,6 +140,7 @@ var karazhan_8h =
       [ "GO_RAJ_BALCONY", "da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490a8f491dbd6bab1d17f7962d0c94c21f62", null ]
     ] ],
     [ "KZMisc", "da/d76/karazhan_8h.html#a82e2e83730ff4a6f26b5f3bc5fd3383f", [
+      [ "DATA_SERVANT_QUARTERS_KILLED", "da/d76/karazhan_8h.html#a82e2e83730ff4a6f26b5f3bc5fd3383faa59b40e3daa4b16d3bfb14e7bd924a1f", null ],
       [ "OPTIONAL_BOSS_REQUIRED_DEATH_COUNT", "da/d76/karazhan_8h.html#a82e2e83730ff4a6f26b5f3bc5fd3383fac14588ad8776b1e58b24c2f9b6c34079", null ],
       [ "ACTION_CHESS_PIECE_RESET_ORIENTATION", "da/d76/karazhan_8h.html#a82e2e83730ff4a6f26b5f3bc5fd3383fa4b01db7690f55018430a897601d7047a", null ]
     ] ],
@@ -153,5 +150,6 @@ var karazhan_8h =
       [ "EVENT_RAJ", "da/d76/karazhan_8h.html#aae819809d62fa7f2e4ce8db25bb00855a89266bd2d8bd19100e7f725e2404e074", null ]
     ] ],
     [ "GetKarazhanAI", "da/d76/karazhan_8h.html#a29ab08074ba985d34a372b332ab4aa58", null ],
-    [ "EncounterCount", "da/d76/karazhan_8h.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "EncounterCount", "da/d76/karazhan_8h.html#a31d630c40753c29f94ceac2db5e451a8", null ],
+    [ "PersistentDataCount", "da/d76/karazhan_8h.html#aa38a92afffebaf4b33726515956b256b", null ]
 ];

@@ -7,7 +7,6 @@ var structnpc__snobold__vassal_1_1npc__snobold__vassalAI =
     [ "EnterEvadeMode", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af90a7a944c7429677d088c83557cfca8", null ],
     [ "GetGormok", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af15be2c0361e5bfa835438e7fcd1372c", null ],
     [ "JustDied", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a60c1704617e99239d60d24d6b7513c1a", null ],
     [ "LoseCarrier", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ae048456834db0f1903624ee1ca32941b", null ],
     [ "MoveInLineOfSight", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
     [ "Reset", "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af794f46b1a7af97b52683954b556c27d", null ],

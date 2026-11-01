@@ -1,5 +1,7 @@
 var NAVTREEINDEX203 =
 {
+"d7/d46/classAuraEffect.html#a6a0bdae4c5cae40a812b7cf5b00f4233":[7,0,295,93],
+"d7/d46/classAuraEffect.html#a6a83116c26a189ee818608f1c1be2a9d":[7,0,295,66],
 "d7/d46/classAuraEffect.html#a6ea46b2ccefe8e6a25eef466847503aa":[7,0,295,26],
 "d7/d46/classAuraEffect.html#a6f11a0855c476d2f991995a449bcf6ae":[7,0,295,32],
 "d7/d46/classAuraEffect.html#a71194f9e306aa0a2f477d59f9f0a3b97":[7,0,295,190],
@@ -247,7 +249,5 @@ var NAVTREEINDEX203 =
 "d7/d4c/classTwilightCutterSelector.html#accea6e932c44d083fbb4dc41c5102b3d":[7,0,4636,0],
 "d7/d4c/structCSymbolInfoPackage.html":[7,0,976],
 "d7/d4c/structCSymbolInfoPackage.html#a83aa5dabea5089b64c13f168a2564d30":[7,0,976,0],
-"d7/d4c/structnpc__underbat.html":[7,0,2299],
-"d7/d4c/structnpc__underbat.html#a710a010d3425b7171ee45d8465fd6b2b":[7,0,2299,0],
-"d7/d4c/structnpc__underbat.html#a7644a73c2a5bcbbe0a3db5c782169752":[7,0,2299,4]
+"d7/d4c/structnpc__underbat.html":[7,0,2299]
 };

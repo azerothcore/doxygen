@@ -1,5 +1,14 @@
 var NAVTREEINDEX401 =
 {
+"de/db6/classspell__dk__raise__ally__trigger.html#ad46fedf6ef019d1b5e93d98e7bba8417":[7,0,2870,1],
+"de/db7/classQueryCallback.html":[7,0,2516],
+"de/db7/classQueryCallback.html#a0c1c3dbbe82846340770760cf9c11aa4":[7,0,2516,17],
+"de/db7/classQueryCallback.html#a127cf43567892ef69ac864862165308a":[7,0,2516,20],
+"de/db7/classQueryCallback.html#a18c36fe01e5bc1ffa92b1ddf9a1873e8":[7,0,2516,5],
+"de/db7/classQueryCallback.html#a2de8fa0d761f5e412b95209db02ceb11":[7,0,2516,19],
+"de/db7/classQueryCallback.html#a4421543960dfbf550988ba4e7aa71a1f":[7,0,2516,18],
+"de/db7/classQueryCallback.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa":[7,0,2516,16],
+"de/db7/classQueryCallback.html#a4fa575b3a905906cde2fe1c24362639e":[7,0,2516,6],
 "de/db7/classQueryCallback.html#a5e53829af90b6661ffcf0eefdb5c8f25":[7,0,2516,10],
 "de/db7/classQueryCallback.html#a63276ee687270e668e7c51876ced5fb1":[7,0,2516,14],
 "de/db7/classQueryCallback.html#a66ee303783486beec802351027c466e0":[7,0,2516,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX401 =
 "de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adbf364a6418001fedd40eebdd48104de":[8,0,0,0,1,3,4,1,0,2,4,4],
 "de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aefae4435f09c51b42ce9eca527457d04":[8,0,0,0,1,3,4,1,0,2,4,2],
 "de/dc3/classspell__systems__shutdown__aura.html":[7,0,4227],
-"de/dc3/classspell__systems__shutdown__aura.html#a332d01b39295ea9a11773be9aa9c3fb3":[7,0,4227,4],
-"de/dc3/classspell__systems__shutdown__aura.html#a5aec8606684637bbdb1e819254f5d483":[7,0,4227,0],
-"de/dc3/classspell__systems__shutdown__aura.html#adcc21606209dc2f32c1173c7ab4c5579":[7,0,4227,2],
-"de/dc3/classspell__systems__shutdown__aura.html#add485a2fd5fdd068d7258d3c9c0d9c2b":[7,0,4227,1],
-"de/dc3/classspell__systems__shutdown__aura.html#af1db6ca387cf0733ba4b9c324172d692":[7,0,4227,3],
-"de/dc4/CircularBuffer_8h.html":[8,0,0,0,0,15,4],
-"de/dc6/structInstanceMapLoadRows_1_1BindRow.html":[7,0,1404,0],
-"de/dc6/structInstanceMapLoadRows_1_1BindRow.html#a3f4f3f829d354ccc92491445d1efd1b2":[7,0,1404,0,2],
-"de/dc6/structInstanceMapLoadRows_1_1BindRow.html#a6cd2390616ebbc07b0fa55886d1e545d":[7,0,1404,0,0],
-"de/dc6/structInstanceMapLoadRows_1_1BindRow.html#a6d6358cd25aaf909fb02e01b994a6a92":[7,0,1404,0,1]
+"de/dc3/classspell__systems__shutdown__aura.html#a332d01b39295ea9a11773be9aa9c3fb3":[7,0,4227,4]
 };

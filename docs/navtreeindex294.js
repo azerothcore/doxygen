@@ -1,7 +1,10 @@
 var NAVTREEINDEX294 =
 {
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,7,0],
+"db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[8,0,0,0,1,3,2,6,0,7,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,7],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,7],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,7,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,7,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,7,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,0,7,7,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[7,0,1941,0],
@@ -23,8 +26,8 @@ var NAVTREEINDEX294 =
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[7,0,695],
 "db/d21/structboss__runemaster__molgeim.html#a0597a7360c24899e9f74f1d3f289e9c5":[7,0,695,3],
 "db/d21/structboss__runemaster__molgeim.html#a148c913fcc44c8dfd05260d76d389538":[7,0,695,12],
@@ -246,8 +249,5 @@ var NAVTREEINDEX294 =
 "db/d31/classspell__item__shifting__naaru__silver.html":[7,0,3510],
 "db/d31/classspell__item__shifting__naaru__silver.html#a34ad4890c7ce30427537e36980057e57":[7,0,3510,1],
 "db/d31/classspell__item__shifting__naaru__silver.html#a713e694cad6f1cf533d45f5d633da36e":[7,0,3510,2],
-"db/d31/classspell__item__shifting__naaru__silver.html#aa6d10399bba721ff7a3651508fcdf449":[7,0,3510,0],
-"db/d31/structgo__beacon_1_1go__beaconAI.html":[7,0,1159,0],
-"db/d31/structgo__beacon_1_1go__beaconAI.html#a083094ececd327c833649da6a755c635":[7,0,1159,0,2],
-"db/d31/structgo__beacon_1_1go__beaconAI.html#a10bd78bf6c2451fe95163eb9083bdf44":[7,0,1159,0,1]
+"db/d31/classspell__item__shifting__naaru__silver.html#aa6d10399bba721ff7a3651508fcdf449":[7,0,3510,0]
 };

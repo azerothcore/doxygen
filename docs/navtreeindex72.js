@@ -1,5 +1,7 @@
 var NAVTREEINDEX72 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af357cec611c81e4d0165679829923f3a":[8,0,0,0,1,3,10,3,21,0],
+"d2/d8e/boss__emerald__dragons_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afaea4f919e1ba859d8b534e192b3f254":[8,0,0,0,1,3,10,3,21,6],
 "d2/d8e/structEmotesTextSoundEntry.html":[7,0,1050],
 "d2/d8e/structEmotesTextSoundEntry.html#a17a267412c8a1527370b1e67ea5b6211":[7,0,1050,4],
 "d2/d8e/structEmotesTextSoundEntry.html#a60760a3e9768f1b189a4373ffe0b9bca":[7,0,1050,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX72 =
 "d2/d99/structboss__jormungarAI.html#af8f47b7cbad0adb835c1bdcf40ca5288":[7,0,576,14],
 "d2/d99/structboss__jormungarAI.html#afc3042265ef2d7f3b1dd347ae4f4fcf2":[7,0,576,22],
 "d2/d99/structboss__jormungarAI.html#afd345729b079d2dacd8f37f4481968f1":[7,0,576,7],
-"d2/d9a/GameEventScript_8h.html":[8,0,0,0,1,2,38,0,50],
-"d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44b":[8,0,0,0,1,2,38,0,50,1],
-"d2/d9a/GameEventScript_8h.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f":[8,0,0,0,1,2,38,0,50,1,2]
+"d2/d9a/GameEventScript_8h.html":[8,0,0,0,1,2,38,0,50]
 };

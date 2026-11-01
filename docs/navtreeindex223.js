@@ -1,5 +1,7 @@
 var NAVTREEINDEX223 =
 {
+"d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4a611a24e7db53ef46584dcfb70d8343e5":[8,0,0,0,1,2,16,10,6,15,3],
+"d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4a6b955cd0b06dc21205ec64d584ef8030":[8,0,0,0,1,2,16,10,6,15,5],
 "d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4aace23680916adc6b61fe44054c841e57":[8,0,0,0,1,2,16,10,6,15,7],
 "d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4ac2a44df3d73187f2e899d731f1e84908":[8,0,0,0,1,2,16,10,6,15,4],
 "d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de":[8,0,0,0,1,2,16,10,6,15,1],
@@ -111,8 +113,8 @@ var NAVTREEINDEX223 =
 "d7/df9/structAcore_1_1CreatureSearcher.html":[5,0,0,58],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,0,58,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[7,0,0,46,2],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[7,0,0,46,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[5,0,0,58,1],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[7,0,0,46,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[7,0,0,46,5],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[5,0,0,58,5],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[7,0,0,46,3],
@@ -163,8 +165,8 @@ var NAVTREEINDEX223 =
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[7,0,0,4,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,0,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[7,0,0,4,0,2,2],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,0,7,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[7,0,0,4,0,2,1],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,0,7,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[7,0,0,4,0,2,0],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,0,7,0,2,0],
 "d7/dfd/Argon2_8cpp.html":[8,0,0,0,0,3,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX223 =
 "d8/d03/LootMgr_8cpp.html#a24e17720ba3e69cf816688664f0e981a":[8,0,0,0,1,2,24,2,5],
 "d8/d03/LootMgr_8cpp.html#a2ffebb5466d0f97fdaa495088a046a51":[8,0,0,0,1,2,24,2,2],
 "d8/d03/LootMgr_8cpp.html#a3148b185e4fb344eaa918ccc37ff8e84":[8,0,0,0,1,2,24,2,21],
-"d8/d03/LootMgr_8cpp.html#a433757800c8ee4e9b654d504a4ee828a":[8,0,0,0,1,2,24,2,23],
-"d8/d03/LootMgr_8cpp.html#a556a2458977647462ba38f61da196218":[8,0,0,0,1,2,24,2,27],
-"d8/d03/LootMgr_8cpp.html#a5df89c4848d191ab038eed9a8f81b913":[8,0,0,0,1,2,24,2,18]
+"d8/d03/LootMgr_8cpp.html#a433757800c8ee4e9b654d504a4ee828a":[8,0,0,0,1,2,24,2,23]
 };

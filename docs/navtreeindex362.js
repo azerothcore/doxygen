@@ -1,5 +1,14 @@
 var NAVTREEINDEX362 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a336ba08240724fa74f4d4ab371f32527":[8,0,0,0,1,2,38,0,77,1,50],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a352b65e761257cee6aa285d62f8ee648":[8,0,0,0,1,2,38,0,77,1,160],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3563a18d88151f87d63e6688e422295f":[8,0,0,0,1,2,38,0,77,1,75],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a35874bb6e4d573dd21e1c79c64804d38":[8,0,0,0,1,2,38,0,77,1,62],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a368c058b9f3862907521720c6de6ab57":[8,0,0,0,1,2,38,0,77,1,39],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a383986e4e1b1b96e5c921fcf222b7bf8":[8,0,0,0,1,2,38,0,77,1,112],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38b3899c46b1d16f8071921fd6dd1516":[8,0,0,0,1,2,38,0,77,1,99],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38bd0023c59c4a5bc8761e35b54466c0":[8,0,0,0,1,2,38,0,77,1,3],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a38efb7a553791fde288eb6139f8f4b71":[8,0,0,0,1,2,38,0,77,1,138],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3c5bf4be7d32770e0f3997daa1d68867":[8,0,0,0,1,2,38,0,77,1,58],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3e44d10d839ed859bf8c16495c8e6a6c":[8,0,0,0,1,2,38,0,77,1,169],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3f9885dc7cfd173dc47eb3c98e7d8675":[8,0,0,0,1,2,38,0,77,1,190],
@@ -240,14 +249,5 @@ var NAVTREEINDEX362 =
 "dd/dcd/classspell__mage__combustion.html":[7,0,3636],
 "dd/dcd/classspell__mage__combustion.html#a0b104698a7c763bee1af656e127591bd":[7,0,3636,2],
 "dd/dcd/classspell__mage__combustion.html#a493e63aafcbfd4279cabe91aaa21cee2":[7,0,3636,3],
-"dd/dcd/classspell__mage__combustion.html#a4aadc249b5c568b5317c4eb41abeb6b4":[7,0,3636,0],
-"dd/dcd/classspell__mage__combustion.html#acc3d194b3f23ecfe42c40d011c957138":[7,0,3636,1],
-"dd/dcd/structCreatureFamilyEntry.html":[7,0,954],
-"dd/dcd/structCreatureFamilyEntry.html#a23ca0ae7c45790a24f58546970194abf":[7,0,954,1],
-"dd/dcd/structCreatureFamilyEntry.html#a3eacdd8639c6dd25dbd3205a58860cf9":[7,0,954,3],
-"dd/dcd/structCreatureFamilyEntry.html#a49d9d7847cc4d54891d83166eb277740":[7,0,954,4],
-"dd/dcd/structCreatureFamilyEntry.html#a4d9dd8baa3f7981633248513bb25f4ca":[7,0,954,6],
-"dd/dcd/structCreatureFamilyEntry.html#a802000cefb6c4d357edfc45cc291e21e":[7,0,954,7],
-"dd/dcd/structCreatureFamilyEntry.html#a84ba697182123cb3e7dd3ba07241e971":[7,0,954,0],
-"dd/dcd/structCreatureFamilyEntry.html#a937fc579ab2790f4a972f07d3453a762":[7,0,954,5]
+"dd/dcd/classspell__mage__combustion.html#a4aadc249b5c568b5317c4eb41abeb6b4":[7,0,3636,0]
 };

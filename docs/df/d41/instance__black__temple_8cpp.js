@@ -19,5 +19,6 @@ var instance__black__temple_8cpp =
     [ "boundaries", "df/d41/instance__black__temple_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "df/d41/instance__black__temple_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "df/d41/instance__black__temple_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "df/d41/instance__black__temple_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
     [ "summonData", "df/d41/instance__black__temple_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

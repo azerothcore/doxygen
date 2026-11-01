@@ -1,5 +1,8 @@
 var NAVTREEINDEX260 =
 {
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac55b3ad799ddc48197c4dc507c294029":[8,0,0,0,1,3,10,13,1,2],
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aca4d12fa0069e07146f1259635ffd1f8":[8,0,0,0,1,3,10,13,1,7],
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adfc30827aa03a92202ded36bb2eeb055":[8,0,0,0,1,3,10,13,1,11],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af091bb270eec4531ea53b0794614fe60":[8,0,0,0,1,3,10,13,1,8],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af41e3ca718218c275eedc900be080915":[8,0,0,0,1,3,10,13,1,3],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc674d1a4457fa4f8b49cedb71c08782":[8,0,0,0,1,3,10,13,1,9],
@@ -223,16 +226,16 @@ var NAVTREEINDEX260 =
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a00e241b298e0351d26c59ac59df3ad62":[7,0,13,14,13,4],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a0a1a4435755f778bb263ad65d305a5e9":[5,0,34,14,13,6],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a0a1a4435755f778bb263ad65d305a5e9":[7,0,13,14,13,6],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6427713c318210153964d9ee29df155b":[7,0,13,14,13,3],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6427713c318210153964d9ee29df155b":[5,0,34,14,13,3],
+"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6427713c318210153964d9ee29df155b":[7,0,13,14,13,3],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6f2392423f15178d7a07665a808e6e64":[5,0,34,14,13,1],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a6f2392423f15178d7a07665a808e6e64":[7,0,13,14,13,1],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a9f7eccb75e106acd2d8a1372aa85fd4f":[7,0,13,14,13,5],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a9f7eccb75e106acd2d8a1372aa85fd4f":[5,0,34,14,13,5],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#abc41116b77ad21277dbf88b7c904bfe7":[5,0,34,14,13,2],
+"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#a9f7eccb75e106acd2d8a1372aa85fd4f":[7,0,13,14,13,5],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#abc41116b77ad21277dbf88b7c904bfe7":[7,0,13,14,13,2],
-"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#ac6e44b351690b0a24565a13cad87ec89":[5,0,34,14,13,0],
+"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#abc41116b77ad21277dbf88b7c904bfe7":[5,0,34,14,13,2],
 "d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#ac6e44b351690b0a24565a13cad87ec89":[7,0,13,14,13,0],
+"d9/dda/classWorldPackets_1_1Quest_1_1QuestUpdateAddKill.html#ac6e44b351690b0a24565a13cad87ec89":[5,0,34,14,13,0],
 "d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html":[7,0,2486],
 "d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html#a731c4d061ea551b10c488cad55c88113":[7,0,2486,0],
 "d9/ddb/ObjectVisibilityContainer_8h.html":[8,0,0,0,1,2,16,5,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX260 =
 "d9/ddc/ItemEnchantmentMgr_8cpp.html#ab462bc366dd954f1c0b539c408b74c01":[8,0,0,0,1,2,16,4,4,1],
 "d9/ddc/ItemEnchantmentMgr_8cpp.html#ab5e9dd6a265a402e7a9499fdaae1e850":[8,0,0,0,1,2,16,4,4,2],
 "d9/ddc/structQueryCallback_1_1QueryCallbackData.html":[7,0,2516,0],
-"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a135161ac21cd4f11f2178acc8316afea":[7,0,2516,0,5],
-"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a384db60c65e7823fdbc0ff430ac8dfe1":[7,0,2516,0,13],
-"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a3bf0675bb0e337d06f1e7ef31d7622fe":[7,0,2516,0,10],
-"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a43aa5b63c21480a9a02e5b1705f5e46a":[7,0,2516,0,0]
+"d9/ddc/structQueryCallback_1_1QueryCallbackData.html#a135161ac21cd4f11f2178acc8316afea":[7,0,2516,0,5]
 };

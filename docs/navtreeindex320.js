@@ -1,5 +1,9 @@
 var NAVTREEINDEX320 =
 {
+"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa2f4ab59da4c1e9fe3eeb53cf20832f0e":[8,0,0,0,1,3,9,8,86,4],
+"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa51f8e22e332e2e3e0c715d547355fc82":[8,0,0,0,1,3,9,8,86,1],
+"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa65e0966966b77379f295a0601ef33dc3":[8,0,0,0,1,3,9,8,86,7],
+"db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa745be6578f398745e5058bbc362f36d7":[8,0,0,0,1,3,9,8,86,6],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaa7934ecc64f2c4dfbbbf853d6bb82b7d5":[8,0,0,0,1,3,9,8,86,2],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaaa3171e13a9b70448bd2c64b75fe23ce4":[8,0,0,0,1,3,9,8,86,3],
 "db/dfb/spell__quest_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaae3bf8440b92fce514fdeb81a4d5cbe15":[8,0,0,0,1,3,9,8,86,0],
@@ -107,8 +111,8 @@ var NAVTREEINDEX320 =
 "db/dfb/structnpc__wounded__skirmisher.html#a891e879af5da1f181c94e528c59a81f1":[7,0,2341,4],
 "db/dfb/structnpc__wounded__skirmisher.html#acca266640c099718d2a0fd4f6a3c47ab":[7,0,2341,3],
 "db/dfb/structnpc__wounded__skirmisher.html#ae5fab920fcb16b57e0ed53a1177d319b":[7,0,2341,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[7,0,13,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
@@ -214,8 +218,8 @@ var NAVTREEINDEX320 =
 "dc/d04/classachievement__flame__leviathan__shutout.html":[7,0,56],
 "dc/d04/classachievement__flame__leviathan__shutout.html#a555e0d206b7f730665d301c7e03b23e6":[7,0,56,0],
 "dc/d04/classachievement__flame__leviathan__shutout.html#af548232f563fd387bc8ee25b696a2f99":[7,0,56,1],
-"dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
 "dc/d04/conceptAcore_1_1AnyTypeList.html":[5,0,0,140],
+"dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
 "dc/d05/InstancePackets_8h.html":[8,0,0,0,1,2,39,0,16],
 "dc/d05/classnpc__wounded__blood__elf.html":[7,0,2340],
 "dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[7,0,2340,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca19fd751bdf0b8d401d30a76edb682723":[8,0,0,0,1,3,2,4,1,1,2],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca2754cdfe3abaa36af80434b488e4cc11":[8,0,0,0,1,3,2,4,1,1,3],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca65b03c8218033c2fbc5f7ccfb454c4f2":[8,0,0,0,1,3,2,4,1,1,7],
-"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca7e76c33295c4469c0995f9891c4ba780":[8,0,0,0,1,3,2,4,1,1,6],
-"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca8934d7c1a86aa663dd516e759a774822":[8,0,0,0,1,3,2,4,1,1,1],
-"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca96e3140ab635d00121baf8c0ee6a76ad":[8,0,0,0,1,3,2,4,1,1,0],
-"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bb78e60c9b828cf088458619da656f8":[8,0,0,0,1,3,2,4,1,1,4],
-"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298cad7ae14a78d5df48baefa84e1e188c418":[8,0,0,0,1,3,2,4,1,1,5]
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca7e76c33295c4469c0995f9891c4ba780":[8,0,0,0,1,3,2,4,1,1,6]
 };

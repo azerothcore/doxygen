@@ -1,5 +1,14 @@
 var NAVTREEINDEX350 =
 {
+"dd/d3b/structGameObjectTemplate.html#a39743397d41d850032bd0c4da44da320":[7,0,1130,38],
+"dd/d3b/structGameObjectTemplate.html#a3b25c483e197fb6ce050314cc2c41863":[7,0,1130,115],
+"dd/d3b/structGameObjectTemplate.html#a3b9bdfd15ea2de1cf1e35a6fa0a3b333":[7,0,1130,177],
+"dd/d3b/structGameObjectTemplate.html#a3bed0438e64bba77df2505f0b76c9f95":[7,0,1130,75],
+"dd/d3b/structGameObjectTemplate.html#a4141b7f565db013b7db62d0dcab482e8":[7,0,1130,59],
+"dd/d3b/structGameObjectTemplate.html#a418f58f2fd6eab62897690a9f4ce995d":[7,0,1130,146],
+"dd/d3b/structGameObjectTemplate.html#a42fd2055bfa639da0c4dd630bf9c1705":[7,0,1130,141],
+"dd/d3b/structGameObjectTemplate.html#a4380b94d68c95fe58150b87e0042bd9a":[7,0,1130,41],
+"dd/d3b/structGameObjectTemplate.html#a4471e52498d2eaf89f7157a02e8708fe":[7,0,1130,187],
 "dd/d3b/structGameObjectTemplate.html#a4ca3d6d63a39b27e6abd7a5d8efd3ae2":[7,0,1130,46],
 "dd/d3b/structGameObjectTemplate.html#a4f344e83ba7939c9769b42ad671c61e2":[7,0,1130,117],
 "dd/d3b/structGameObjectTemplate.html#a5173779bed75c4a873225939fed21e6f":[7,0,1130,184],
@@ -159,8 +168,8 @@ var NAVTREEINDEX350 =
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,31,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[5,0,31,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[7,0,11,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html":[7,0,1397,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX350 =
 "dd/d45/structItemRandomSuffixEntry.html#a45e694082c1dbdeef5229561f617d584":[7,0,1434,1],
 "dd/d45/structItemRandomSuffixEntry.html#a66d78860d81c497765b5e68b5fd2ae18":[7,0,1434,2],
 "dd/d46/PetPackets_8h.html":[8,0,0,0,1,2,39,0,28],
-"dd/d46/structnpc__acherus__necromancer.html":[7,0,1623],
-"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2":[7,0,1623,0],
-"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2a02fcb61eb2865c2931b343279c576bdf":[7,0,1623,0,0],
-"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2a516304af17aecc599764eba99a2d72ec":[7,0,1623,0,2],
-"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2aca9db407c87adeb91205451a67ffffc5":[7,0,1623,0,1],
-"dd/d46/structnpc__acherus__necromancer.html#a12c4bdf68162eba82d4563c2108ce1d2aff67cf343aa56c92996f9d55cd622a98":[7,0,1623,0,3],
-"dd/d46/structnpc__acherus__necromancer.html#a575ad749490b1eb3d2008edc617dac29":[7,0,1623,3],
-"dd/d46/structnpc__acherus__necromancer.html#a760c67141517cc43cfd7f0fce3ca4c00":[7,0,1623,6],
-"dd/d46/structnpc__acherus__necromancer.html#a85d1d46abb4703ad814e2069c3252966":[7,0,1623,7],
-"dd/d46/structnpc__acherus__necromancer.html#a91ed69a6a7042da16e17b639cfd11539":[7,0,1623,1]
+"dd/d46/structnpc__acherus__necromancer.html":[7,0,1623]
 };

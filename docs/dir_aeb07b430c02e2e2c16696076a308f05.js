@@ -5,5 +5,6 @@ var dir_aeb07b430c02e2e2c16696076a308f05 =
     [ "ObjectScaleTest.cpp", "dc/d8e/ObjectScaleTest_8cpp.html", null ],
     [ "PlayerCharmAITest.cpp", "de/dbe/PlayerCharmAITest_8cpp.html", null ],
     [ "RageWeaponSpeedHitFactorTest.cpp", "d0/d81/RageWeaponSpeedHitFactorTest_8cpp.html", "d0/d81/RageWeaponSpeedHitFactorTest_8cpp" ],
-    [ "ResetAttackTimerTest.cpp", "d4/d5d/ResetAttackTimerTest_8cpp.html", "d4/d5d/ResetAttackTimerTest_8cpp" ]
+    [ "ResetAttackTimerTest.cpp", "d4/d5d/ResetAttackTimerTest_8cpp.html", "d4/d5d/ResetAttackTimerTest_8cpp" ],
+    [ "VehiclePlayerBoardingTest.cpp", "db/dee/VehiclePlayerBoardingTest_8cpp.html", null ]
 ];

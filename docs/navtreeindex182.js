@@ -1,5 +1,7 @@
 var NAVTREEINDEX182 =
 {
+"d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302":[8,0,0,0,1,3,2,8,0,12],
+"d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f":[8,0,0,0,1,3,2,8,0,12,6],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069":[8,0,0,0,1,3,2,8,0,12,2],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23":[8,0,0,0,1,3,2,8,0,12,1],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4":[8,0,0,0,1,3,2,8,0,12,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d5b/classspell__renew__skirmisher.html#ae621e95feb69b54f9aef5d77577a15ae":[7,0,4046,1],
 "d6/d5c/classAcore_1_1ACLogSink.html":[7,0,0,7],
 "d6/d5c/classAcore_1_1ACLogSink.html":[5,0,0,19],
-"d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,0,19,2],
-"d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[7,0,0,7,2],
-"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[5,0,0,19,4]
+"d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,0,19,2]
 };

@@ -202,7 +202,8 @@ var trial__of__the__crusader_8h =
       [ "LOC_TIRION_FINAL", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0aaff57b49e1bf3c939e647bd033dcdee9", null ],
       [ "LOC_MAGE", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a810159af1117741062eb356360b68915", null ],
       [ "LOC_OPEN_PORTAL_TARGET", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a08d6e7bc478533d006c16baa4368bb0b", null ],
-      [ "LOC_BARRETT", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0ac3db505d0ea2337915c8c6cd542ac365", null ]
+      [ "LOC_BARRETT", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0ac3db505d0ea2337915c8c6cd542ac365", null ],
+      [ "LOC_BEASTS_COMBAT_STALKER", "da/de8/trial__of__the__crusader_8h.html#a2f65b8f64c26923f2b3c373a4ccbc2f0a88e6da98abcf48f057b799054906440a", null ]
     ] ],
     [ "NPCs", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_BARRETT_BEASTS", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cae5fc240df760986c07b6e1e360e55397", null ],
@@ -223,6 +224,7 @@ var trial__of__the__crusader_8h =
       [ "NPC_DREADSCALE", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2f879627663a713f5148188b5f20bdc7", null ],
       [ "NPC_ACIDMAW", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca7963a5c6123551188537a1f9cf5a13d5", null ],
       [ "NPC_ICEHOWL", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca71f485d2c53a459dac063ef7d281acef", null ],
+      [ "NPC_BEASTS_COMBAT_STALKER", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca75290dd5c10177a8c3aef60acf72b22c", null ],
       [ "NPC_JARAXXUS", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caac25095e3ea26543a51245351b82d3d7", null ],
       [ "NPC_MISTRESS_OF_PAIN", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca1d4846e8c3400fd4728fb92351b215cc", null ],
       [ "NPC_PURPLE_GROUND", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2b97ccf88d83f82ac619a6d4e2077d81", null ],

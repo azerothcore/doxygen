@@ -2,6 +2,7 @@ var structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusad
 [
     [ "instance_trial_of_the_crusader_InstanceMapScript", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#acecad7aafc47ed88bb60c383cff489da", null ],
     [ "CheckAchievementCriteriaMeet", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a22b6f2e040bab5b08a7fc559c176ba8d", null ],
+    [ "DespawnBeastsCombatStalker", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a2c70e3021e9901672256310c6f425370", null ],
     [ "DespawnChampionPets", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#adbdc2284d393fb96d2cf1a857c4cb92b", null ],
     [ "DoCheckDedicatedInsanity", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#ad5b58403cc2952aa3c477393ddd077f1", null ],
     [ "DoNeedCleanup", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a684f8867e28c8c8840e15bf88c96d4e7", null ],
@@ -41,6 +42,7 @@ var structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusad
     [ "NPC_AcidmawGUID", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#aa474fb37429e524e668f726b24e3bd56", null ],
     [ "NPC_AnubarakGUID", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a54d1295fb1448e6511d93dcccae09abf", null ],
     [ "NPC_BarrettGUID", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#aa2e9d2cf47eeddc070a3c8c8ce772e59", null ],
+    [ "NPC_BeastsCombatStalkerGUID", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a34b1df3b8f89a100c24b56f7c50c813e", null ],
     [ "NPC_ChampionGUIDs", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a939f54b02869aa5a172e0a11df3ed0c4", null ],
     [ "NPC_ChampionPetGUIDs", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a02036324e18ba22e081fc4c5b5d7d97f", null ],
     [ "NPC_DarkbaneGUID", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#af2ecec115ad745e5a064417c92906f3c", null ],

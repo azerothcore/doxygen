@@ -1,5 +1,7 @@
 var NAVTREEINDEX113 =
 {
+"d3/dc2/structnpc__toc__warrior_1_1npc__toc__warriorAI.html#ae8f9d3f5f2c9172442c7ba4a83275cc1":[7,0,2259,0,3],
+"d3/dc4/classCorpse.html":[7,0,941],
 "d3/dc4/classCorpse.html#a0196d9ba2d908262a65ff8fa8f34b76b":[7,0,941,19],
 "d3/dc4/classCorpse.html#a025404f6d3fcd7392960b48d636236d4":[7,0,941,13],
 "d3/dc4/classCorpse.html#a0797893bed1654fac3a6bd7a0cbd7225":[7,0,941,7],
@@ -97,10 +99,10 @@ var NAVTREEINDEX113 =
 "d3/dcd/structAcore_1_1PlayerListSearcher.html":[7,0,0,96],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#a5cec285c685fce6ac215ac0cde740168":[7,0,0,96,1],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#a5cec285c685fce6ac215ac0cde740168":[5,0,0,108,1],
-"d3/dcd/structAcore_1_1PlayerListSearcher.html#a82520531c26a6c9645956739538cd286":[7,0,0,96,0],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#a82520531c26a6c9645956739538cd286":[5,0,0,108,0],
-"d3/dcd/structAcore_1_1PlayerListSearcher.html#a87980d05e12069a42baea27ee0e937d3":[7,0,0,96,2],
+"d3/dcd/structAcore_1_1PlayerListSearcher.html#a82520531c26a6c9645956739538cd286":[7,0,0,96,0],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#a87980d05e12069a42baea27ee0e937d3":[5,0,0,108,2],
+"d3/dcd/structAcore_1_1PlayerListSearcher.html#a87980d05e12069a42baea27ee0e937d3":[7,0,0,96,2],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#ad49658237a1e6bf54852d4fc127ea660":[7,0,0,96,3],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#ad49658237a1e6bf54852d4fc127ea660":[5,0,0,108,3],
 "d3/dcd/structAcore_1_1PlayerListSearcher.html#ae61e586baa621b0dbd15d453d1320091":[7,0,0,96,4],
@@ -112,8 +114,8 @@ var NAVTREEINDEX113 =
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a104b8bece6ea78ba049dc592e54311be":[7,0,0,82,4],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a28d97af524c2bab39e1bd2e5508e434b":[7,0,0,82,1],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a28d97af524c2bab39e1bd2e5508e434b":[5,0,0,94,1],
-"d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a2a58a6bcff73142e21c082bf2c11eff2":[7,0,0,82,5],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a2a58a6bcff73142e21c082bf2c11eff2":[5,0,0,94,5],
+"d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a2a58a6bcff73142e21c082bf2c11eff2":[7,0,0,82,5],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a5d19a23e7da2e5e5ed417d0a9623ffbb":[5,0,0,94,3],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a5d19a23e7da2e5e5ed417d0a9623ffbb":[7,0,0,82,3],
 "d3/dce/classAcore_1_1NearestGameObjectEntryInObjectRangeCheck.html#a7d57ae865868d4848caf088c4520b2a7":[5,0,0,94,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX113 =
 "d3/dcf/Battleground_8h.html#ad38b6d141d358ab270694a77db413e50aba8dd9984d50b5a179ebf2dec66d8c01":[8,0,0,0,1,2,8,10,9,1],
 "d3/dcf/Battleground_8h.html#ad52f89016e62a2e840d6f6d901f45fcb":[8,0,0,0,1,2,8,10,29],
 "d3/dcf/Battleground_8h.html#adaf4c7ba6bcfbc7874021a0d0b3fec17":[8,0,0,0,1,2,8,10,19],
-"d3/dcf/Battleground_8h.html#adaf4c7ba6bcfbc7874021a0d0b3fec17a125e8e1d51a14fc3196c61f5d0a8df20":[8,0,0,0,1,2,8,10,19,2],
-"d3/dcf/Battleground_8h.html#adaf4c7ba6bcfbc7874021a0d0b3fec17a15def0f31a69b93556d7d32810aab391":[8,0,0,0,1,2,8,10,19,1],
-"d3/dcf/Battleground_8h.html#adaf4c7ba6bcfbc7874021a0d0b3fec17a45770618ddc2f8bbaaed7f03adcfa211":[8,0,0,0,1,2,8,10,19,0]
+"d3/dcf/Battleground_8h.html#adaf4c7ba6bcfbc7874021a0d0b3fec17a125e8e1d51a14fc3196c61f5d0a8df20":[8,0,0,0,1,2,8,10,19,2]
 };

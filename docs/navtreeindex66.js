@@ -1,5 +1,7 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2375df4683a40c95e9d73dc07b67971":[8,0,0,0,1,3,5,3,1,5,5],
+"d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af728f91b867885926207b4aa983da4be":[8,0,0,0,1,3,5,3,1,5,2],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,3,1,7],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,3,1,7,2],
 "d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,3,1,7,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX66 =
 "d2/d5c/classspell__karazhan__wrath__titans__aura.html#a42ae1d2f846815480dc02e7e5f92527e":[7,0,3575,4],
 "d2/d5c/classspell__karazhan__wrath__titans__aura.html#ad4db3b85cab89e4922ac4935b0cdcbd5":[7,0,3575,3],
 "d2/d5c/classspell__karazhan__wrath__titans__aura.html#ae5c0f54c072fa5f4bb69af0acd74053c":[7,0,3575,1],
-"d2/d5c/structSpellTargetSelector.html":[7,0,4542],
-"d2/d5c/structSpellTargetSelector.html#a309ed04630cfb92810b7f51376b3917c":[7,0,4542,3],
-"d2/d5c/structSpellTargetSelector.html#a53c27c23f2d9846903e1ff9b479a36b1":[7,0,4542,1]
+"d2/d5c/structSpellTargetSelector.html":[7,0,4542]
 };

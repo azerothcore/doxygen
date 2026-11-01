@@ -1,5 +1,7 @@
 var NAVTREEINDEX168 =
 {
+"d5/de0/classspell__yogg__saron__brain__link.html#a599f604e872d3a5a4ed2b155caefdc9f":[7,0,4452,1],
+"d5/de0/classspell__yogg__saron__brain__link.html#ab79041a2536878498744555475bce5c8":[7,0,4452,2],
 "d5/de0/classspell__yogg__saron__brain__link.html#adaeee235184ddc36e90e532091183056":[7,0,4452,0],
 "d5/de1/classnpc__lord__arete.html":[7,0,1992],
 "d5/de1/classnpc__lord__arete.html#a212d003e9acb5f141197b5c4d10163a4":[7,0,1992,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX168 =
 "d5/dee/classachievement__less__rabi.html#a16b200bf93fa2571c8b31359ad7ca151":[7,0,77,1],
 "d5/dee/classachievement__less__rabi.html#aee43dd7623f7fecc20a0acb15f342a99":[7,0,77,0],
 "d5/dee/structboss__gatewatcher__iron__hand.html":[7,0,510],
-"d5/dee/structboss__gatewatcher__iron__hand.html#a1973142412b4094dbd9fa51600741148":[7,0,510,3],
-"d5/dee/structboss__gatewatcher__iron__hand.html#a36b10cd02b35b6e106687b08bc80bfa6":[7,0,510,1],
-"d5/dee/structboss__gatewatcher__iron__hand.html#aa6a9f456d158e4c0332816c7e65ec155":[7,0,510,2]
+"d5/dee/structboss__gatewatcher__iron__hand.html#a1973142412b4094dbd9fa51600741148":[7,0,510,3]
 };

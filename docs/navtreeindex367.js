@@ -1,5 +1,14 @@
 var NAVTREEINDEX367 =
 {
+"de/d00/structboss__roar.html#a67df04e89c877d565753ac077aa923c7":[7,0,691,9],
+"de/d00/structboss__roar.html#a93e1d81bcff8b31841ae65628759ee7e":[7,0,691,0],
+"de/d00/structboss__roar.html#a9a2778a803d6d41b256759b29452cc51":[7,0,691,1],
+"de/d00/structboss__roar.html#aaaa0d33697fe1abc0df5bf9ecb249ffc":[7,0,691,6],
+"de/d00/structnpc__stormforged__lieutenant.html":[7,0,2205],
+"de/d00/structnpc__stormforged__lieutenant.html#a262ac995279b1a936534c858e21122a9":[7,0,2205,1],
+"de/d00/structnpc__stormforged__lieutenant.html#a4c207f0ef172585b97695b63e119d1bc":[7,0,2205,3],
+"de/d00/structnpc__stormforged__lieutenant.html#abc359564370152b28a002a801ba1ab3d":[7,0,2205,2],
+"de/d00/structnpc__stormforged__lieutenant.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa":[7,0,2205,4],
 "de/d00/structnpc__stormforged__lieutenant.html#ae721c276ba7413974d25449ef2c5f1a9":[7,0,2205,5],
 "de/d00/structnpc__stormforged__lieutenant.html#aef5101b1f28ccec1fc60ccb2981623b9":[7,0,2205,0],
 "de/d00/structnpc__tiger__matriarch__credit_1_1npc__tiger__matriarch__creditAI.html":[7,0,2236,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX367 =
 "de/d09/classspell__apothecary__lingering__fumes.html#afa662fbe1b777047259ac6212961f7a5":[7,0,2676,0],
 "de/d09/classspell__mage__polymorph__cast__visual.html":[7,0,3667],
 "de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[7,0,3667,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[7,0,3667,4],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a6b03fbcf18612d9bb7361c3e4f022dc0":[7,0,3667,2],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a73eabf1e68c966f31fe8d83c2fd925c1":[7,0,3667,1],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a9df13e3e8895854bc086fbfaccfb1b2c":[7,0,3667,3],
-"de/d09/maraudon_8h.html":[8,0,0,0,1,3,4,3,1],
-"de/d09/maraudon_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,4,3,1,0],
-"de/d09/maraudon_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,4,3,1,1],
-"de/d09/maraudon_8h.html#afb6eb4f28419b652027fad41104a6d22a2baf48b3a213b74ed911f5426e7b2461":[8,0,0,0,1,3,4,3,1,1,0],
-"de/d09/maraudon_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[8,0,0,0,1,3,4,3,1,1,1],
-"de/d09/maraudon_8h.html#aff286ae066e6cc855674e730f4adba43":[8,0,0,0,1,3,4,3,1,2]
+"de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[7,0,3667,4]
 };

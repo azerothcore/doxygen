@@ -1,5 +1,7 @@
 var NAVTREEINDEX157 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac30a7fffce926f242ab144155b2b8d4a":[8,0,0,0,1,2,0,3,4,155],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac35e274321f0b0365d432261254935e0":[8,0,0,0,1,2,0,3,4,483],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac3cd6ee991a630b9a2c79dbb1b6ef958":[8,0,0,0,1,2,0,3,4,124],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac46d28ebff5d12a0ab897cd3253cc8ff":[8,0,0,0,1,2,0,3,4,283],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04ac4897d3b4cf7d0a4dd88d77832c67887":[8,0,0,0,1,2,0,3,4,92],
@@ -213,8 +215,8 @@ var NAVTREEINDEX157 =
 "d5/d76/classPlayerTaxi.html#abf0d776badac2d25cf823609d5fec799":[7,0,2469,22],
 "d5/d76/classPlayerTaxi.html#ae4a6a1a97932c90ca79a282f131711e7":[7,0,2469,6],
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[7,0,2469,11],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[7,0,13,15,3],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,34,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[7,0,13,15,3,0],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,34,15,3,0],
 "d5/d76/structboss__faction__championsAI.html":[7,0,473],
@@ -247,7 +249,5 @@ var NAVTREEINDEX157 =
 "d5/d78/classachievement__iron__dwarf__medium__rare.html":[7,0,71],
 "d5/d78/classachievement__iron__dwarf__medium__rare.html#aabef3a345057265ac70c6cc0c98d552d":[7,0,71,1],
 "d5/d78/classachievement__iron__dwarf__medium__rare.html#afb3716aab7693ba0493db24999e4b1ee":[7,0,71,0],
-"d5/d79/Appender_8h.html":[8,0,0,0,0,9,1],
-"d5/d79/boss__porung_8cpp.html":[8,0,0,0,1,3,7,4,3,1],
-"d5/d79/boss__porung_8cpp.html#a16774215bba3b38580ea51987d64cff1":[8,0,0,0,1,3,7,4,3,1,4]
+"d5/d79/Appender_8h.html":[8,0,0,0,0,9,1]
 };

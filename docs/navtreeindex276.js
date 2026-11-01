@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"da/d76/karazhan_8h.html#ae24e433b8d42cf365463d73feb31d490af4c704eaa3da4b08b0af73caa86f7411":[8,0,0,0,1,3,2,4,15,9,12],
 "da/d76/structnpc__ulduar__snow__mound.html":[7,0,2295],
 "da/d76/structnpc__ulduar__snow__mound.html#a1856c3bba24842f33720a83e1de40421":[7,0,2295,5],
 "da/d76/structnpc__ulduar__snow__mound.html#a3f66ad92d616050bb67cb1a5e33ffa74":[7,0,2295,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69c89b0f65f6bfde5f92493f0e3ecf75":[8,0,0,0,1,3,5,6,10,72,15],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a737c33193f12241e682a2965cb34ecab":[8,0,0,0,1,3,5,6,10,72,41],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7a07788329d8b23ec18c3f264400d538":[8,0,0,0,1,3,5,6,10,72,64],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7b26fb7df9cb5761e5eebc086d6157ae":[8,0,0,0,1,3,5,6,10,72,49],
-"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d8b41671b52159f904161ba74639894":[8,0,0,0,1,3,5,6,10,72,1]
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7b26fb7df9cb5761e5eebc086d6157ae":[8,0,0,0,1,3,5,6,10,72,49]
 };

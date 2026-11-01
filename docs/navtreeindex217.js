@@ -1,5 +1,7 @@
 var NAVTREEINDEX217 =
 {
+"d7/db0/classMap.html#ae91440e7f257616aee79efc0bb6021c6":[7,0,1525,83],
+"d7/db0/classMap.html#ae9f3e5261fbe241735938523f70adf10":[7,0,1525,248],
 "d7/db0/classMap.html#aeb1afbeb92aa93a0237fac3486574206":[7,0,1525,281],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ce":[7,0,1525,7],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea0eaf5082b275910be96f6c24dee43a60":[7,0,1525,7,6],
@@ -246,8 +248,6 @@ var NAVTREEINDEX217 =
 "d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[7,0,2806,1],
 "d7/dbb/DynamicObjectScript_8cpp.html":[8,0,0,0,1,2,38,0,45],
 "d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[8,0,0,0,1,2,38,0,45,0],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16],
 "d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[5,0,34,14,16],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[7,0,13,14,16,1],
-"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html#a35a0b6609205c7eaa1ea6c3e4e1486ac":[5,0,34,14,16,1]
+"d7/dbb/classWorldPackets_1_1Quest_1_1QuestUpdateFailedTimer.html":[7,0,13,14,16]
 };

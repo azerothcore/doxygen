@@ -3,6 +3,10 @@ var black__temple_8h =
     [ "BlackTempleScriptName", "dc/d2a/black__temple_8h.html#a243ab345bc2afb16874f5b74a17a6573", null ],
     [ "DataHeader", "dc/d2a/black__temple_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "RegisterBlackTempleCreatureAI", "dc/d2a/black__temple_8h.html#ab6382fded356896b4f184b37a938565f", null ],
+    [ "BTPersistentData", "dc/d2a/black__temple_8h.html#a2629202f605d925b79e498906f3fe96d", [
+      [ "PERSISTENT_DATA_ILLIDAN_GATE", "dc/d2a/black__temple_8h.html#a2629202f605d925b79e498906f3fe96dafbbbab2f8978980f9da235869969c053", null ],
+      [ "PERSISTENT_DATA_COUNT", "dc/d2a/black__temple_8h.html#a2629202f605d925b79e498906f3fe96da327cde1f8f9908a139da6e4deb38dc76", null ]
+    ] ],
     [ "CreatureIds", "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963e", [
       [ "NPC_HIGH_WARLORD_NAJENTUS", "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea3bd64cc6d235f0cf12460381ec110071", null ],
       [ "NPC_SUPREMUS", "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963eaec79a7f47ccb54b092483e34f531f105", null ],
@@ -49,7 +53,6 @@ var black__temple_8h =
       [ "DATA_RELIQUARY_OF_SOULS", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22afff0ce92917c32d2dfa0e8fbe2163909", null ],
       [ "DATA_MOTHER_SHAHRAZ", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a1376eb57d0ca08bdea0c6826c0ac9309", null ],
       [ "DATA_ILLIDARI_COUNCIL", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a048903542ee13601cfa0542a17fd9bf2", null ],
-      [ "DATA_AKAMA_ILLIDAN", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a6823b0c7903b37d6414fed3414ef7967", null ],
       [ "DATA_ILLIDAN_STORMRAGE", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a5351b4b10703b2ef2b5157126a98a383", null ],
       [ "MAX_ENCOUNTERS", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25", null ],
       [ "DATA_AKAMA_SHADE", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a7bae60b2df9f6e52d5f2837b47831a09", null ],
@@ -57,7 +60,9 @@ var black__temple_8h =
       [ "DATA_HIGH_NETHERMANCER_ZEREVOR", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a163ac53b570bfdf51deddf4ccc085a23", null ],
       [ "DATA_LADY_MALANDE", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a9d02a7c08767d8e3b196beb6b83b1406", null ],
       [ "DATA_VERAS_DARKSHADOW", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a5766136b7ea9b90e0e7b2ecd01a4dd3c", null ],
-      [ "DATA_BLACK_TEMPLE_TRIGGER", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a90bddab9e7eaa2bd37ab4ef577913aa3", null ]
+      [ "DATA_BLACK_TEMPLE_TRIGGER", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a90bddab9e7eaa2bd37ab4ef577913aa3", null ],
+      [ "DATA_AKAMA_ILLIDAN", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a6823b0c7903b37d6414fed3414ef7967", null ],
+      [ "DATA_ILLIDAN_GATE", "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a94064e4fd5cfd802224b98efc0d3be5e", null ]
     ] ],
     [ "GameObjectIds", "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999f", [
       [ "GO_NAJENTUS_GATE", "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999faca41db9c2a1e5d4549b9962459b451b0", null ],

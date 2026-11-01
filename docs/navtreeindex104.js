@@ -1,5 +1,7 @@
 var NAVTREEINDEX104 =
 {
+"d3/d6a/classnpc__isla__starmane.html":[7,0,1955],
+"d3/d6a/classnpc__isla__starmane.html#a0ea2dbaab4115772f92849e06aa85575":[7,0,1955,2],
 "d3/d6a/classnpc__isla__starmane.html#af30b3658d8f19be0dc07cb35eeb04668":[7,0,1955,1],
 "d3/d6a/classnpc__isla__starmane.html#afeda3da3761e96e2901ea06c5a26fa3a":[7,0,1955,3],
 "d3/d6c/classAuraEffectStub.html":[7,0,296],
@@ -34,14 +36,14 @@ var NAVTREEINDEX104 =
 "d3/d6c/classboss__gothik.html#aea7aec86c4132521fb7b9b6e87baf289":[7,0,522,2],
 "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html":[7,0,0,4,2],
 "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html":[5,0,0,7,2],
-"d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html#a0167a663fcde7c1de2b15e3622f90c7c":[5,0,0,7,2,1],
 "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html#a0167a663fcde7c1de2b15e3622f90c7c":[7,0,0,4,2,1],
+"d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html#a0167a663fcde7c1de2b15e3622f90c7c":[5,0,0,7,2,1],
 "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html#a057a5b8b65db8b8084b79a217a95308d":[5,0,0,7,2,0],
 "d3/d6c/structAcore_1_1Hyperlinks_1_1FoundLinkData.html#a057a5b8b65db8b8084b79a217a95308d":[7,0,0,4,2,0],
 "d3/d6d/classAcore_1_1RespawnDo.html":[5,0,0,117],
 "d3/d6d/classAcore_1_1RespawnDo.html":[7,0,0,105],
-"d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[5,0,0,117,2],
 "d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[7,0,0,105,2],
+"d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[5,0,0,117,2],
 "d3/d6d/classAcore_1_1RespawnDo.html#a4551ca2e0fdb6540a724c9c2b43484c6":[7,0,0,105,4],
 "d3/d6d/classAcore_1_1RespawnDo.html#a4551ca2e0fdb6540a724c9c2b43484c6":[5,0,0,117,4],
 "d3/d6d/classAcore_1_1RespawnDo.html#a66335f45bb1f3c770887b263e9d84236":[7,0,0,105,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX104 =
 "d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html":[7,0,4280],
 "d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a19221c8453f23a7d384f6a2cb24c2fc2":[7,0,4280,2],
 "d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a71638bdecb0f580dceff7858441056d8":[7,0,4280,0],
-"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a741227928e07585b156ec716ae8b13da":[7,0,4280,1],
-"d3/d78/structnpc__expedition__trapper.html":[7,0,1827],
-"d3/d78/structnpc__expedition__trapper.html#a094ecbf1a719223d50c7d070989aa782":[7,0,1827,1]
+"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a741227928e07585b156ec716ae8b13da":[7,0,4280,1]
 };

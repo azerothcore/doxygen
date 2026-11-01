@@ -1,5 +1,16 @@
 var NAVTREEINDEX334 =
 {
+"dc/d74/classspell__yogg__saron__sanity.html":[7,0,4467],
+"dc/d74/classspell__yogg__saron__sanity.html#a38b8425689f91b91e23096d658b462cf":[7,0,4467,0],
+"dc/d74/classspell__yogg__saron__sanity.html#a43362033f7422a0b9918ddd3b7e480cc":[7,0,4467,1],
+"dc/d74/classspell__yogg__saron__sanity.html#a6d5e27f728ee3980d33d417fb437c9c6":[7,0,4467,2],
+"dc/d74/cs__list_8cpp.html":[8,0,0,0,1,3,0,28],
+"dc/d74/cs__list_8cpp.html#a81af00772e7a06ad952109222b1f53a3":[8,0,0,0,1,3,0,28,1],
+"dc/d75/classspell__azjol__nerub__fixate.html":[7,0,2704],
+"dc/d75/classspell__azjol__nerub__fixate.html#a1e166c53e2051f3fae1b085a76a08c3f":[7,0,2704,1],
+"dc/d75/classspell__azjol__nerub__fixate.html#a3405c1b04f2e623662c7acaa6810278c":[7,0,2704,2],
+"dc/d75/classspell__azjol__nerub__fixate.html#aaa650972803d14e4d74be977430b04f6":[7,0,2704,0],
+"dc/d75/classspell__dragonblight__devour__ghoul.html":[7,0,2890],
 "dc/d75/classspell__dragonblight__devour__ghoul.html#a6e3bbfb11816f72ae85efb4defb23ad7":[7,0,2890,2],
 "dc/d75/classspell__dragonblight__devour__ghoul.html#a8df8d5addea956e80ad0a30ff8f73050":[7,0,2890,0],
 "dc/d75/classspell__dragonblight__devour__ghoul.html#adf6593e47a5766c40e7e3859fce00f81":[7,0,2890,1],
@@ -238,16 +249,5 @@ var NAVTREEINDEX334 =
 "dc/d81/classCreatureTextMgr.html#aef06823ec3f9b56e8ee25b28b453193f":[7,0,971,18],
 "dc/d82/AhoCorasick_8h.html":[8,0,0,0,0,15,1],
 "dc/d82/cs__modify_8cpp.html":[8,0,0,0,1,3,0,34],
-"dc/d82/cs__modify_8cpp.html#a9cbb6ad3c630cbeb9ba39b4552f72e87":[8,0,0,0,1,3,0,34,1],
-"dc/d82/structChampionPosition.html":[7,0,868],
-"dc/d82/structChampionPosition.html#a8a88b0191d28ef6af8f41db627552602":[7,0,868,0],
-"dc/d82/structChampionPosition.html#ac4e55af666e269440953ced038c1a8de":[7,0,868,1],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html":[7,0,2054,0],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a43f7fa66ff39bca177d30fc1d0d78080":[7,0,2054,0,0],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a4e202eef928e54bd52160705bba5cc35":[7,0,2054,0,3],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a575531a144c46ae3084e56e452125f16":[7,0,2054,0,5],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a5b6171794c5b49e8ee439de7bdc51ba5":[7,0,2054,0,2],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a838f1354e24c47e1c52e4b50e2b93c85":[7,0,2054,0,7],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a89e506868e3191362545e34d21528b8f":[7,0,2054,0,1],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#ac3e1bc9dc819138741eb3b4448051547":[7,0,2054,0,4]
+"dc/d82/cs__modify_8cpp.html#a9cbb6ad3c630cbeb9ba39b4552f72e87":[8,0,0,0,1,3,0,34,1]
 };

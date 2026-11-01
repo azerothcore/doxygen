@@ -1,5 +1,7 @@
 var NAVTREEINDEX174 =
 {
+"d6/d0c/go__scripts_8cpp.html#acf70bf5aef6a5c87e11c5a783bf28bbea931fe46d052fd8a6e36aa1c9931a7c89":[8,0,0,0,1,3,10,5,64,5],
+"d6/d0c/go__scripts_8cpp.html#acf70bf5aef6a5c87e11c5a783bf28bbeaa10106ffc02139319351b94eb8f77b1b":[8,0,0,0,1,3,10,5,64,0],
 "d6/d0c/go__scripts_8cpp.html#acf70bf5aef6a5c87e11c5a783bf28bbeab97f413b0b7481dc69fad37ab15aa1ee":[8,0,0,0,1,3,10,5,64,1],
 "d6/d0c/go__scripts_8cpp.html#acf70bf5aef6a5c87e11c5a783bf28bbeae72761714f81f491e8d5bd55f336d615":[8,0,0,0,1,3,10,5,64,4],
 "d6/d0c/go__scripts_8cpp.html#ad3497c9e799c29ee7456d5df987187c1":[8,0,0,0,1,3,10,5,88],
@@ -208,10 +210,10 @@ var NAVTREEINDEX174 =
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[7,0,1389,0,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[7,0,13,6,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[7,0,13,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[7,0,13,6,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[7,0,13,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[7,0,13,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,34,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[7,0,13,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[7,0,13,6,42,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca0be15cc67c008518155540600fc897d0":[8,0,0,0,1,3,5,6,11,36,32],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca0d49b7e59413ed4f59a68a58e64b2edd":[8,0,0,0,1,3,5,6,11,36,10],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca10fbb3bf24dfd4059cb2279debed2aeb":[8,0,0,0,1,3,5,6,11,36,8],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca1d68ae3135f5b0386b0af87dd73e8779":[8,0,0,0,1,3,5,6,11,36,4],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca24951442368a6109bb53751b06760686":[8,0,0,0,1,3,5,6,11,36,26],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca297ac684cd3fa815d7021b0943a36fae":[8,0,0,0,1,3,5,6,11,36,11]
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca1d68ae3135f5b0386b0af87dd73e8779":[8,0,0,0,1,3,5,6,11,36,4]
 };

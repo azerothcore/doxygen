@@ -1,5 +1,7 @@
 var NAVTREEINDEX148 =
 {
+"d5/d09/classPetAura.html#adc1b329e1f303b5ad3f353abb4343cdf":[7,0,2436,6],
+"d5/d09/classPetAura.html#ae33bb99ab341f66fb2f296ccd6617e63":[7,0,2436,3],
 "d5/d09/classgo__l70__etc__music.html":[7,0,1196],
 "d5/d09/classgo__l70__etc__music.html#a5231ffc778830f8a49ae85a8c1173deb":[7,0,1196,2],
 "d5/d09/classgo__l70__etc__music.html#a766dccca12fc7959273ba1e3a278564f":[7,0,1196,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d16/structboss__lucifron.html#a9ebfc9877165aaadd2ea446995f4cf99":[7,0,615,2],
 "d5/d16/structboss__lucifron.html#ae392b01817d9160ef0c80387406ad6fa":[7,0,615,1],
 "d5/d17/structnpc__love__in__air__snivel__real.html":[7,0,1997],
-"d5/d17/structnpc__love__in__air__snivel__real.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028":[7,0,1997,1],
-"d5/d17/structnpc__love__in__air__snivel__real.html#a22ed25da8fe3441ef0e4183390983f40":[7,0,1997,2],
-"d5/d17/structnpc__love__in__air__snivel__real.html#a3bbee1ff355581772b337268775b8fbc":[7,0,1997,4]
+"d5/d17/structnpc__love__in__air__snivel__real.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028":[7,0,1997,1]
 };

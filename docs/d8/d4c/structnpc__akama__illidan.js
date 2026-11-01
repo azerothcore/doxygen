@@ -5,6 +5,7 @@ var structnpc__akama__illidan =
     [ "DoAction", "d8/d4c/structnpc__akama__illidan.html#af68f04faaf8a1893a82674cf1f2dd453", null ],
     [ "JustEngagedWith", "d8/d4c/structnpc__akama__illidan.html#a8c78b3586673ee9e330272494ee74eab", null ],
     [ "JustReachedHome", "d8/d4c/structnpc__akama__illidan.html#a8804c0e0b77673fee6beb3c0cd58be59", null ],
+    [ "JustRespawned", "d8/d4c/structnpc__akama__illidan.html#ad65281231568041c75395492303ffe1d", null ],
     [ "JustSummoned", "d8/d4c/structnpc__akama__illidan.html#a54b185a813a4271eef06173b8109d6cf", null ],
     [ "KilledUnit", "d8/d4c/structnpc__akama__illidan.html#a7838b6161a2ea9e0231f142a534de767", null ],
     [ "MovementInform", "d8/d4c/structnpc__akama__illidan.html#a32116d23bd508d9791f31fbc257398d0", null ],

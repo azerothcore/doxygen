@@ -1,5 +1,15 @@
 var NAVTREEINDEX425 =
 {
+"df/dd4/structBattlegroundScore.html#a980da19452275b2848f064410628da88":[7,0,355,4],
+"df/dd4/structBattlegroundScore.html#ab4fd369438d0715d0fae5c17eedf14b8":[7,0,355,7],
+"df/dd4/structBattlegroundScore.html#abf5bd1519df8e56a7ecfeddd1ca0218a":[7,0,355,5],
+"df/dd4/structBattlegroundScore.html#abfd85adf3977a5b9b122d89781f08d14":[7,0,355,16],
+"df/dd4/structBattlegroundScore.html#adcf01c124ea66990fc63fee5ea3b3eeb":[7,0,355,12],
+"df/dd4/structBattlegroundScore.html#add869c398158195c32be0aa2d5786d4d":[7,0,355,3],
+"df/dd4/structBattlegroundScore.html#ae384f32b0c73e16c56090af803be3779":[7,0,355,14],
+"df/dd4/structBattlegroundScore.html#ae5e399ad4749489f1b8feb4f3b2d8c1e":[7,0,355,20],
+"df/dd4/structBattlegroundScore.html#aeb6613d7343a9b356aebc63d1e1cb585":[7,0,355,24],
+"df/dd4/structBattlegroundScore.html#af9610e48d6fb67f06c008bdfe4333c21":[7,0,355,21],
 "df/dd5/classUlduarVehicleScaleTest.html":[7,0,4644],
 "df/dd5/spell__shaman_8cpp.html":[8,0,0,0,1,3,9,10],
 "df/dd5/spell__shaman_8cpp.html#a3082f46075e4e453c37bc429c9d57a1a":[8,0,0,0,1,3,9,10,61],
@@ -239,15 +249,5 @@ var NAVTREEINDEX425 =
 "df/dd9/classUnit.html#a1c6661bf4dada1a879e5727b1a8b2362":[7,0,4647,57],
 "df/dd9/classUnit.html#a1c67ab14bc96bf669a9dd57d04a5edc0":[7,0,4647,475],
 "df/dd9/classUnit.html#a1ca5e1b306bffb4b27ceb58eda4e978f":[7,0,4647,917],
-"df/dd9/classUnit.html#a1d4215a0962f4de733865337595f4063":[7,0,4647,850],
-"df/dd9/classUnit.html#a1d52e887c40e087252647958a47e933c":[7,0,4647,795],
-"df/dd9/classUnit.html#a1d65e3fd1561c63731762e1bd90fb3f7":[7,0,4647,146],
-"df/dd9/classUnit.html#a1da6b0550230616c9dd52234bbcb1cf3":[7,0,4647,927],
-"df/dd9/classUnit.html#a1e69fbab577551800dadbd0611998572":[7,0,4647,574],
-"df/dd9/classUnit.html#a1ea5dd018a829cf7aae73fc7e72a6507":[7,0,4647,813],
-"df/dd9/classUnit.html#a1ed7bebb7769f200cc2625ae2a1988b0":[7,0,4647,160],
-"df/dd9/classUnit.html#a1ed9a17a4f9c74be7f57474434aa528b":[7,0,4647,958],
-"df/dd9/classUnit.html#a1f133c042285f311c455f73e7cdff3fb":[7,0,4647,469],
-"df/dd9/classUnit.html#a1f1c9408465967c12bfb01e7c4752956":[7,0,4647,610],
-"df/dd9/classUnit.html#a1f335b0669bc7f67d33dfa0dd9f027a0":[7,0,4647,148]
+"df/dd9/classUnit.html#a1d4215a0962f4de733865337595f4063":[7,0,4647,850]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX424 =
 {
+"df/dc1/classspell__pri__body__and__soul.html#af7d9ac7e014bbda32275bb584f5e2660":[7,0,3850,3],
+"df/dc1/classspell__pri__body__and__soul.html#affbff48ab9421bda51b3a5781188546d":[7,0,3850,1],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html":[7,0,763,0],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a431dafbcc3a6581d771e810a85a92a0b":[7,0,763,0,4],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a4af8eb8863e7ee1559bc156b7f28e8d8":[7,0,763,0,5],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a56ca98fa12190d6d9d459bc5e569ae04":[7,0,763,0,9],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a912bcccd309ccd1f043c5aae633e78fe":[7,0,763,0,8],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a97c16b1689cfdb7fa680381964cb272a":[7,0,763,0,6],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a98474fcfbc56c7850ae054b7489eaa4f":[7,0,763,0,0],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#ac4e2ed28ba7863630cd54c8f6c11455f":[7,0,763,0,1],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ad501bb34a0014be0abc965aae5383e21":[7,0,763,0,2],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ae2a3b691f1580275228204ea8ccaf846":[7,0,763,0,7],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#af6a6cfd1ec54546c2e70ea60f871b564":[7,0,763,0,3],
@@ -72,8 +82,8 @@ var NAVTREEINDEX424 =
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[7,0,13,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[7,0,13,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[7,0,13,2,1,0],
 "df/dc7/structboss__yoggsaron__voice.html":[7,0,821],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[7,0,821,2],
 "df/dc7/structboss__yoggsaron__voice.html#a094522e81d1d19de660b75fb06ea4224":[7,0,821,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX424 =
 "df/dd4/structBattlegroundScore.html#a769f81da2366d081d526aafec54da5e7":[7,0,355,0],
 "df/dd4/structBattlegroundScore.html#a7e92af662817ddaac630db378e941ebb":[7,0,355,13],
 "df/dd4/structBattlegroundScore.html#a8624cd06dba95d86e60f62675baf044c":[7,0,355,2],
-"df/dd4/structBattlegroundScore.html#a96b8bb236b9e997ecc4e6fed72a8bf00":[7,0,355,11],
-"df/dd4/structBattlegroundScore.html#a980da19452275b2848f064410628da88":[7,0,355,4],
-"df/dd4/structBattlegroundScore.html#ab4fd369438d0715d0fae5c17eedf14b8":[7,0,355,7],
-"df/dd4/structBattlegroundScore.html#abf5bd1519df8e56a7ecfeddd1ca0218a":[7,0,355,5],
-"df/dd4/structBattlegroundScore.html#abfd85adf3977a5b9b122d89781f08d14":[7,0,355,16],
-"df/dd4/structBattlegroundScore.html#adcf01c124ea66990fc63fee5ea3b3eeb":[7,0,355,12],
-"df/dd4/structBattlegroundScore.html#add869c398158195c32be0aa2d5786d4d":[7,0,355,3],
-"df/dd4/structBattlegroundScore.html#ae384f32b0c73e16c56090af803be3779":[7,0,355,14],
-"df/dd4/structBattlegroundScore.html#ae5e399ad4749489f1b8feb4f3b2d8c1e":[7,0,355,20],
-"df/dd4/structBattlegroundScore.html#aeb6613d7343a9b356aebc63d1e1cb585":[7,0,355,24],
-"df/dd4/structBattlegroundScore.html#af9610e48d6fb67f06c008bdfe4333c21":[7,0,355,21]
+"df/dd4/structBattlegroundScore.html#a96b8bb236b9e997ecc4e6fed72a8bf00":[7,0,355,11]
 };

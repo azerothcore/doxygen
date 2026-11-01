@@ -1,5 +1,16 @@
 var NAVTREEINDEX341 =
 {
+"dc/dd9/classnpc__icc__valkyr__herald.html#a9d06e0dec8cb960d34c2089c1c0d8ccb":[7,0,1934,1],
+"dc/dd9/classspell__igb__rocket__pack__useable__aura.html":[7,0,3343],
+"dc/dd9/classspell__igb__rocket__pack__useable__aura.html#a04f449a062b20e6f9ebc35857a051ed3":[7,0,3343,2],
+"dc/dd9/classspell__igb__rocket__pack__useable__aura.html#a9ce86d32957af07313af379b4176d0b3":[7,0,3343,1],
+"dc/dd9/classspell__igb__rocket__pack__useable__aura.html#aa10821981f3e80262850e5c46449d5d0":[7,0,3343,3],
+"dc/dd9/classspell__igb__rocket__pack__useable__aura.html#ab5b7bc1cc347ea368a9f2753b4c020a7":[7,0,3343,5],
+"dc/dd9/classspell__igb__rocket__pack__useable__aura.html#ac98e9c47a7cb177c0624cda37d1836e2":[7,0,3343,4],
+"dc/dd9/classspell__igb__rocket__pack__useable__aura.html#afd45699e853a5b57f3e9ae7bc4165bfb":[7,0,3343,0],
+"dc/dd9/classspell__pilgrims__bounty__food.html":[7,0,3836],
+"dc/dd9/classspell__pilgrims__bounty__food.html#a07ac70b6e91c61dcb59c368381a877dd":[7,0,3836,0],
+"dc/dd9/classspell__pilgrims__bounty__food.html#a55115ca986d5226588d168ced7ab1f55":[7,0,3836,1],
 "dc/dd9/classspell__pilgrims__bounty__food.html#ad8811bf48dfb564afcd82cf51b860255":[7,0,3836,2],
 "dc/dd9/structDuelInfo.html":[7,0,1027],
 "dc/dd9/structDuelInfo.html#a183f336e52fe7cdaa34dbb43991d0c39":[7,0,1027,0],
@@ -238,16 +249,5 @@ var NAVTREEINDEX341 =
 "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dacb5e8ddf99b5a719efc4f19ec46dd9e3":[8,0,0,0,1,3,3,1,29,18],
 "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dacfd88d4ffdbbb55e5768fd361a09b608":[8,0,0,0,1,3,3,1,29,5],
 "dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad41deaeb36aa8f65bf9a38d26c886a89":[8,0,0,0,1,3,3,1,29,16],
-"dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad64f9bf98d7b9fc7cd56ff59b0e7b201":[8,0,0,0,1,3,3,1,29,3],
-"dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad9a15738ffeb4bf6f8eab5e9dd25f7d4":[8,0,0,0,1,3,3,1,29,2],
-"dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dada4808a60dcf3d2cee150fa32b7c244d":[8,0,0,0,1,3,3,1,29,10],
-"dc/ddf/brewfest_8cpp.html#a7b95e86ce715aad734d059cfc0cf88d7":[8,0,0,0,1,3,3,1,43],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973":[8,0,0,0,1,3,3,1,32],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a0205e563ef02a63cc107e98c2ae143de":[8,0,0,0,1,3,3,1,32,5],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a0390a90037471f50b78d999c6a161a97":[8,0,0,0,1,3,3,1,32,11],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a0eabeeae0a975034ece1e8c0f113949d":[8,0,0,0,1,3,3,1,32,6],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a18ceb4b834e4055eafff7c87cc3982b3":[8,0,0,0,1,3,3,1,32,24],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a20801a420279ee89ae3b528c04aed13b":[8,0,0,0,1,3,3,1,32,28],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a28d0aa8ef3be216bdd5b49951aa0b84a":[8,0,0,0,1,3,3,1,32,25],
-"dc/ddf/brewfest_8cpp.html#a810128d55b244da5d6f3e1244e683973a2f3e155a7c252d8c8ecbda4b25da7914":[8,0,0,0,1,3,3,1,32,20]
+"dc/ddf/brewfest_8cpp.html#a6549548cdb3ada527a0bd16635d61b6dad64f9bf98d7b9fc7cd56ff59b0e7b201":[8,0,0,0,1,3,3,1,29,3]
 };
