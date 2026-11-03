@@ -1,5 +1,13 @@
 var NAVTREEINDEX402 =
 {
+"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,4,1,0,2,4],
+"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[8,0,0,0,1,3,4,1,0,2,4,3],
+"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[8,0,0,0,1,3,4,1,0,2,4,1],
+"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad35764f66527c79f568416706f54f562":[8,0,0,0,1,3,4,1,0,2,4,0],
+"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adbf364a6418001fedd40eebdd48104de":[8,0,0,0,1,3,4,1,0,2,4,4],
+"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aefae4435f09c51b42ce9eca527457d04":[8,0,0,0,1,3,4,1,0,2,4,2],
+"de/dc3/classspell__systems__shutdown__aura.html":[7,0,4227],
+"de/dc3/classspell__systems__shutdown__aura.html#a332d01b39295ea9a11773be9aa9c3fb3":[7,0,4227,4],
 "de/dc3/classspell__systems__shutdown__aura.html#a5aec8606684637bbdb1e819254f5d483":[7,0,4227,0],
 "de/dc3/classspell__systems__shutdown__aura.html#adcc21606209dc2f32c1173c7ab4c5579":[7,0,4227,2],
 "de/dc3/classspell__systems__shutdown__aura.html#add485a2fd5fdd068d7258d3c9c0d9c2b":[7,0,4227,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX402 =
 "de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314":[7,0,1403,7],
 "de/dd8/classspell__reliquary__of__souls__fixate.html":[7,0,4043],
 "de/dd8/classspell__reliquary__of__souls__fixate.html#a04973145ed594b88afe2acc0cacb10c6":[7,0,4043,0],
-"de/dd8/classspell__reliquary__of__souls__fixate.html#a7c8ca525cd6822d21551331ce37ce5dd":[7,0,4043,2],
-"de/dd8/classspell__reliquary__of__souls__fixate.html#a90c0513a6dba2f2e6619dd8c77544991":[7,0,4043,1],
-"de/dd9/AccountMgr_8h.html":[8,0,0,0,1,2,0,1],
-"de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703e":[8,0,0,0,1,2,0,1,7],
-"de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24":[8,0,0,0,1,2,0,1,7,5],
-"de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d":[8,0,0,0,1,2,0,1,7,6],
-"de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18":[8,0,0,0,1,2,0,1,7,0],
-"de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1":[8,0,0,0,1,2,0,1,7,3],
-"de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c":[8,0,0,0,1,2,0,1,7,4]
+"de/dd8/classspell__reliquary__of__souls__fixate.html#a7c8ca525cd6822d21551331ce37ce5dd":[7,0,4043,2]
 };

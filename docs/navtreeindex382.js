@@ -1,5 +1,13 @@
 var NAVTREEINDEX382 =
 {
+"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6a709706759bc4cad92916d8b1f070c1a5":[8,0,0,0,1,3,4,27,8,10],
+"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6a94972f2086da11a89348b01001f0f78b":[8,0,0,0,1,3,4,27,8,1],
+"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6aaeee6879311fff39df2258f56000ed46":[8,0,0,0,1,3,4,27,8,12],
+"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6ac502f63ee8f999f45e4599cb07f7c9fb":[8,0,0,0,1,3,4,27,8,7],
+"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6ad0c4bfda8d7326ad9de433ef312d80fe":[8,0,0,0,1,3,4,27,8,8],
+"de/d14/zone__tanaris_8cpp.html#a37701b2c74106cf0388b7bb342de1bf6adb8c6e85b360e8f939f58c4d98c9ff5d":[8,0,0,0,1,3,4,27,8,13],
+"de/d14/zone__tanaris_8cpp.html#a637f2ece77285feff35a76f446e13296":[8,0,0,0,1,3,4,27,11],
+"de/d14/zone__tanaris_8cpp.html#a664764efa00aaadfd6e4510fe26486d8":[8,0,0,0,1,3,4,27,7],
 "de/d14/zone__tanaris_8cpp.html#a664764efa00aaadfd6e4510fe26486d8a4ee489332c793185c566210d9bf91269":[8,0,0,0,1,3,4,27,7,1],
 "de/d14/zone__tanaris_8cpp.html#a664764efa00aaadfd6e4510fe26486d8a704ce77b08e582a06d3e38b4714ff5e3":[8,0,0,0,1,3,4,27,7,0],
 "de/d14/zone__tanaris_8cpp.html#a664764efa00aaadfd6e4510fe26486d8a73b0724093ccf1b7960c55c236c1502c":[8,0,0,0,1,3,4,27,7,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX382 =
 "de/d1c/classGameObject.html#ab386485a79b7ac41ba767de03afe536d":[7,0,1115,51],
 "de/d1c/classGameObject.html#ab59bf4ecd632ea6de8fbd511dc973f68":[7,0,1115,0],
 "de/d1c/classGameObject.html#ab5ac8f189161e66aa507c1d0203d9a08":[7,0,1115,134],
-"de/d1c/classGameObject.html#ab66b763f081a5b8aff8ba58dae0562fe":[7,0,1115,91],
-"de/d1c/classGameObject.html#ab738211337d40a507adb9a561daaa21e":[7,0,1115,111],
-"de/d1c/classGameObject.html#ab86dbdd42afcc616739c55a4c484ca9e":[7,0,1115,176],
-"de/d1c/classGameObject.html#ab9d712cb86e4080d5a658ee85e634bd8":[7,0,1115,101],
-"de/d1c/classGameObject.html#ab9e968195513dd7b0fcb777c6ee25cb5":[7,0,1115,54],
-"de/d1c/classGameObject.html#aba31a575220897950068920d12272747":[7,0,1115,156],
-"de/d1c/classGameObject.html#abb3cd2ea4845cd0adaa3e9dd6cca57bf":[7,0,1115,159],
-"de/d1c/classGameObject.html#abd15f30773dca3789fbfa92f02202df1":[7,0,1115,177],
-"de/d1c/classGameObject.html#abeef893dae50cca573ee41be97125c40":[7,0,1115,87]
+"de/d1c/classGameObject.html#ab66b763f081a5b8aff8ba58dae0562fe":[7,0,1115,91]
 };

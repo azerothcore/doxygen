@@ -1,5 +1,13 @@
 var NAVTREEINDEX422 =
 {
+"df/da7/classBattleground.html#a8742f1afea9768a67e84aafacc618d75":[7,0,330,139],
+"df/da7/classBattleground.html#a88582ec11d22cae371ac6ffcc316877c":[7,0,330,233],
+"df/da7/classBattleground.html#a894561102fd36f3cad0e2861d0b8821d":[7,0,330,157],
+"df/da7/classBattleground.html#a899679fefc6ec036466c4abe2e71d25b":[7,0,330,165],
+"df/da7/classBattleground.html#a89ad7beedc7aca0506c87d983b74eee4":[7,0,330,1],
+"df/da7/classBattleground.html#a8a2f64b459fdd5c3fe6c556a44202a7f":[7,0,330,208],
+"df/da7/classBattleground.html#a8a507c4d4237c30326bcf1a0bf8f82b3":[7,0,330,26],
+"df/da7/classBattleground.html#a8c095e425130c2460d3ad85f85238ffe":[7,0,330,106],
 "df/da7/classBattleground.html#a8c499d8b29631281063c066fe908a9be":[7,0,330,251],
 "df/da7/classBattleground.html#a8ca3356d984db0c5b6e09d61cf7a406c":[7,0,330,103],
 "df/da7/classBattleground.html#a8f4e174fb4339f237fd3974f3612d1ff":[7,0,330,211],
@@ -241,13 +249,5 @@ var NAVTREEINDEX422 =
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#af266d40889fbecd50a118a579b711757":[7,0,528,0,2],
 "df/db2/MapScripts_8cpp.html":[8,0,0,0,1,2,38,1],
 "df/db2/structnpc__claw__tentacle.html":[7,0,1737],
-"df/db2/structnpc__claw__tentacle.html#a10f1c68d5f49dd1614e7e939498db37b":[7,0,1737,0],
-"df/db2/structnpc__claw__tentacle.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc":[7,0,1737,2],
-"df/db2/structnpc__claw__tentacle.html#aa566b417d1b766668133dd1d6a58293f":[7,0,1737,1],
-"df/db2/structnpc__claw__tentacle.html#aaf3a3380a33aadc2023d192dfa85cfb2":[7,0,1737,3],
-"df/db2/structnpc__claw__tentacle.html#ab979781a8f77267348595cfa17341bae":[7,0,1737,5],
-"df/db2/structnpc__claw__tentacle.html#ae7d521445680167add653717c7ae4c86":[7,0,1737,4],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html":[7,0,1761,0],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a29132346f117ba785039057619edb9e7":[7,0,1761,0,3],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[7,0,1761,0,1]
+"df/db2/structnpc__claw__tentacle.html#a10f1c68d5f49dd1614e7e939498db37b":[7,0,1737,0]
 };

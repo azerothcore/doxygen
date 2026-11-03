@@ -1,5 +1,13 @@
 var NAVTREEINDEX414 =
 {
+"df/d51/structMMAP_1_1MapTiles.html":[7,0,6,3],
+"df/d51/structMMAP_1_1MapTiles.html":[5,0,20,3],
+"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,3,4],
+"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[7,0,6,3,4],
+"df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[5,0,20,3,3],
+"df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[7,0,6,3,3],
+"df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[5,0,20,3,1],
+"df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[7,0,6,3,1],
 "df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[5,0,20,3,5],
 "df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[7,0,6,3,5],
 "df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[5,0,20,3,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX414 =
 "df/d57/classnpc__prospector__remtravel.html#aa213161fc60e615682252125f6c58f7f":[7,0,2121,1],
 "df/d57/classnpc__prospector__remtravel.html#aa8e1bb551036684b05c1b3bea4c66b1d":[7,0,2121,2],
 "df/d58/classspell__gen__obsidian__armor.html":[7,0,3125],
-"df/d58/classspell__gen__obsidian__armor.html#a1ba43a41ca6909f2bd377290b1b0b12b":[7,0,3125,0],
-"df/d58/classspell__gen__obsidian__armor.html#a9d0df8ec96c17661daaf620dd88cecd5":[7,0,3125,1],
-"df/d58/classspell__gen__obsidian__armor.html#ab6e36f24dea949c8cedaaed0d5fa9517":[7,0,3125,4],
-"df/d58/classspell__gen__obsidian__armor.html#ae533e87550b1aedc67b67c217495286d":[7,0,3125,3],
-"df/d58/classspell__gen__obsidian__armor.html#af474a768c441fb666163f4ebd5068393":[7,0,3125,2],
-"df/d59/structWeatherData.html":[4,2,8],
-"df/d5a/MySQLHacks_8h.html":[8,0,0,0,1,1,0,20],
-"df/d5a/MySQLHacks_8h.html#a9962b927652e90357369e67230dbc127":[8,0,0,0,1,1,0,20,5],
-"df/d5b/classinstance__stratholme.html":[7,0,1381]
+"df/d58/classspell__gen__obsidian__armor.html#a1ba43a41ca6909f2bd377290b1b0b12b":[7,0,3125,0]
 };

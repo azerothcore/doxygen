@@ -1,5 +1,13 @@
 var NAVTREEINDEX366 =
 {
+"dd/df1/classspell__mage__hot__streak.html":[7,0,3650],
+"dd/df1/classspell__mage__hot__streak.html#a194c83ebc29c4522b5fc313a3ab4d1dd":[7,0,3650,1],
+"dd/df1/classspell__mage__hot__streak.html#a4a8e3c9d8754844d74e72cb328c44221":[7,0,3650,4],
+"dd/df1/classspell__mage__hot__streak.html#a6dfd4dc774e58a8881b20a31d4c1be56":[7,0,3650,2],
+"dd/df1/classspell__mage__hot__streak.html#a886d2b1a2bf2f25bde5248edcef9733d":[7,0,3650,3],
+"dd/df1/classspell__mage__hot__streak.html#ab98571b7f614d66c44c25d0d2c6aa738":[7,0,3650,0],
+"dd/df1/namespaceAcore_1_1Net.html":[5,0,0,10],
+"dd/df1/namespaceAcore_1_1Net.html#a2617cb1c747a45e5af4e2c32cc29d5de":[5,0,0,10,3],
 "dd/df1/namespaceAcore_1_1Net.html#abb8b9761e1df323f5c258c0a12da7bd4":[5,0,0,10,0],
 "dd/df1/namespaceAcore_1_1Net.html#af108d05a57113d16ab9c8f3b26870be2":[5,0,0,10,2],
 "dd/df1/namespaceAcore_1_1Net.html#af75b2c10ca445dc89c53b7ed8d17eae0":[5,0,0,10,1],
@@ -79,10 +87,10 @@ var NAVTREEINDEX366 =
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[7,0,0,6,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[5,0,0,53,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[7,0,0,41,0],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,0,53,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[7,0,0,41,0,3],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a21f4b8baf1c80cc8c5f029be8daa63e2":[5,0,0,53,0,0],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,0,53,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a21f4b8baf1c80cc8c5f029be8daa63e2":[7,0,0,41,0,0],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a21f4b8baf1c80cc8c5f029be8daa63e2":[5,0,0,53,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[5,0,0,53,0,2],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[7,0,0,41,0,2],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a47837894025e1fa4e114f5efb5ec83bc":[5,0,0,53,0,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX366 =
 "de/d00/classspell__voljin__war__drums.html":[7,0,4342],
 "de/d00/classspell__voljin__war__drums.html#a041c84fd605abd36b8f774903a5200dc":[7,0,4342,3],
 "de/d00/classspell__voljin__war__drums.html#a7657ffcc0b055b838408de4dd5f778f3":[7,0,4342,0],
-"de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[7,0,4342,1],
-"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[7,0,4342,2],
-"de/d00/structboss__roar.html":[7,0,691],
-"de/d00/structboss__roar.html#a198044653632b93838c0f79c06cb7640":[7,0,691,2],
-"de/d00/structboss__roar.html#a1db42b2b1a19ac4a959a51ce17c8ae32":[7,0,691,4],
-"de/d00/structboss__roar.html#a255d406f8bab62593a3eeda0e4e3d646":[7,0,691,7],
-"de/d00/structboss__roar.html#a3c79bea69740601ad89f0765f3af99f2":[7,0,691,3],
-"de/d00/structboss__roar.html#a54b45b1fdacc2b3982e21580b9b4d26a":[7,0,691,8],
-"de/d00/structboss__roar.html#a632929b026815a524bd79748e768e3fc":[7,0,691,5]
+"de/d00/classspell__voljin__war__drums.html#ace2c23ec11d09cfb6f101a2dbd8b9d89":[7,0,4342,1]
 };

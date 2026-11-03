@@ -1,5 +1,13 @@
 var NAVTREEINDEX408 =
 {
+"df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da0a333865e8ae65ce8f5bb03f905dee29":[4,2,19,11],
+"df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da0a333865e8ae65ce8f5bb03f905dee29":[4,2,34],
+"df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da13bf6f46f69defe7fbea2c659e6d3873":[4,2,19,4],
+"df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da13bf6f46f69defe7fbea2c659e6d3873":[4,2,25],
+"df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da185c2513fb0f271a64db1feb5691def0":[4,2,26],
+"df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da185c2513fb0f271a64db1feb5691def0":[4,2,19,10],
+"df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da2a382668c4c73bc864079b0cf1602da6":[4,2,33],
+"df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da2a382668c4c73bc864079b0cf1602da6":[4,2,19,6],
 "df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da33ce6050f5c9a8dbbfc2556756f960c3":[4,2,19,3],
 "df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da33ce6050f5c9a8dbbfc2556756f960c3":[4,2,31],
 "df/d17/group__world.html#gga32b7b9e733438755c99c2abd6cb8c94da35248c6d29502ee854f2a9c92a1c9204":[4,2,32],
@@ -241,13 +249,5 @@ var NAVTREEINDEX408 =
 "df/d20/classnpc__commander__dawnforge.html#a6089b087b7c3b18659e23c677814318b":[7,0,1741,2],
 "df/d20/classnpc__commander__dawnforge.html#ab4d430725f68f906e9c8def66b1d6646":[7,0,1741,1],
 "df/d20/classspell__love__in__air__perfume__immune.html":[7,0,3618],
-"df/d20/classspell__love__in__air__perfume__immune.html#a1534b010301dbaff66d41443142c50b7":[7,0,3618,1],
-"df/d20/classspell__love__in__air__perfume__immune.html#a97a0003cca808e5b03f720bb3be07419":[7,0,3618,3],
-"df/d20/classspell__love__in__air__perfume__immune.html#ab4bba02a5e2196ad65ccea94a4615a9d":[7,0,3618,2],
-"df/d20/classspell__love__in__air__perfume__immune.html#ad48d832fef881bfb517fb8df694b7507":[7,0,3618,0],
-"df/d20/instance__blackwing__lair_8cpp.html":[8,0,0,0,1,3,2,1,2,9],
-"df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789fa":[8,0,0,0,1,3,2,1,2,9,4],
-"df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0":[8,0,0,0,1,3,2,1,2,9,4,0],
-"df/d20/instance__blackwing__lair_8cpp.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e":[8,0,0,0,1,3,2,1,2,9,4,1],
-"df/d20/instance__blackwing__lair_8cpp.html#a2c79c628fd8c60d02dc0b2368a70be04":[8,0,0,0,1,3,2,1,2,9,11]
+"df/d20/classspell__love__in__air__perfume__immune.html#a1534b010301dbaff66d41443142c50b7":[7,0,3618,1]
 };

@@ -209,6 +209,7 @@ var ulduar_8h =
       [ "TIMER_ALGALON_DEFEATED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78ae039e5d4811a447446b8e6ede2e87b3a", null ],
       [ "TIMER_ALGALON_TO_SUMMON", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a9f056a676818f118e5ecaf457621049f", null ],
       [ "TIMER_ALGALON_SUMMONED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a5f51d62708072679b70f5283207a7158", null ],
+      [ "TIMER_ALGALON_MINUTES", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a6c4e2f643febd33045dd5089d2f26f16", null ],
       [ "SPELL_TELEPORT", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a625ad0393d1c2c5e2c1c0b14e70eaae7", null ],
       [ "EVENT_KEEPER_TELEPORTED", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a09eab20d82c1a916d3803d0d9ba5ea1d", null ],
       [ "NPC_ANCIENT_GATE_WORLD_TRIGGER", "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a06e56523043bff1d28dc30bd1ebd531d", null ],
@@ -309,6 +310,7 @@ var ulduar_8h =
       [ "PERSISTENT_DATA_MAGE_BARRIER", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ae4fa74b63b7b02c1327ad0ba02048289", null ],
       [ "PERSISTENT_DATA_ALGALON_FIRST_PULL", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a82d9214f5129dbe5397eafe40e38c91d", null ],
       [ "PERSISTENT_DATA_LEVIATHAN_VEHICLES_USABLE", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a8fc40be86fe99dbb702b52c7ce0f85a6", null ],
+      [ "PERSISTENT_DATA_ALGALON_DEADLINE", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ad96f91cb40f4e04ecbb9e151256bd873", null ],
       [ "MAX_PERSISTENT_DATA", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ade8daf2d97d89b7bc637c9b5550e0449", null ]
     ] ],
     [ "GetUlduarAI", "d9/df7/ulduar_8h.html#aab0d4e386149b9e2e10cf46466c6e373", null ],

@@ -1,10 +1,5 @@
 var NAVTREEINDEX41 =
 {
-"d1/da9/structboss__flame__leviathan__defense__turret.html#a413187aa01c119d088846a216f093baa":[7,0,487,9],
-"d1/da9/structboss__flame__leviathan__defense__turret.html#a47ccbb6d0b4429763606b5a1e5719e79":[7,0,487,0],
-"d1/da9/structboss__flame__leviathan__defense__turret.html#a5f4fe282b2a9e1ba1f8dacd38572c94f":[7,0,487,8],
-"d1/da9/structboss__flame__leviathan__defense__turret.html#a6865c79397cb1c6efcba9952c9a9b61f":[7,0,487,4],
-"d1/da9/structboss__flame__leviathan__defense__turret.html#a9d6e48e613a65f7a3bec76ce6ea73574":[7,0,487,7],
 "d1/da9/structboss__flame__leviathan__defense__turret.html#ac15aadce1954d827b7e833ed761faf10":[7,0,487,2],
 "d1/da9/structboss__flame__leviathan__defense__turret.html#ae5e411c86e88c4da2a74c7281a7c7e6b":[7,0,487,6],
 "d1/da9/structboss__flame__leviathan__defense__turret.html#aeb9fe92f81b3734512106aa73c983a35":[7,0,487,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX41 =
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a8dc0eb96b2b8c1ebbfa8877e0a724863":[8,0,0,0,1,2,16,10,5,43,19],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a91c90cf6520636e6b4c15d39ec5444c1":[8,0,0,0,1,2,16,10,5,43,16],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a94d8882488a6e4c8b7c0fa69404dd203":[8,0,0,0,1,2,16,10,5,43,15],
-"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3ab3a78fef2da3fc0e2430e43fb5a056a3":[8,0,0,0,1,2,16,10,5,43,3]
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3ab3a78fef2da3fc0e2430e43fb5a056a3":[8,0,0,0,1,2,16,10,5,43,3],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3ac6b983128756e95cc801eb7d66152898":[8,0,0,0,1,2,16,10,5,43,17],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3ad8f51dcce3b8655b15492b13753e7a1a":[8,0,0,0,1,2,16,10,5,43,1],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3aebb0887e5009f73e469b757cf96b1e96":[8,0,0,0,1,2,16,10,5,43,10],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3aee4b09551f2283f499ae1206937a3acb":[8,0,0,0,1,2,16,10,5,43,9],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3aefdc5bd23a2977847198bcf2b3b12a29":[8,0,0,0,1,2,16,10,5,43,2]
 };

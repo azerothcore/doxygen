@@ -1,5 +1,13 @@
 var NAVTREEINDEX367 =
 {
+"de/d00/classspell__voljin__war__drums.html#ae9be2e8124edf50b98824c584aaa32cf":[7,0,4342,2],
+"de/d00/structboss__roar.html":[7,0,691],
+"de/d00/structboss__roar.html#a198044653632b93838c0f79c06cb7640":[7,0,691,2],
+"de/d00/structboss__roar.html#a1db42b2b1a19ac4a959a51ce17c8ae32":[7,0,691,4],
+"de/d00/structboss__roar.html#a255d406f8bab62593a3eeda0e4e3d646":[7,0,691,7],
+"de/d00/structboss__roar.html#a3c79bea69740601ad89f0765f3af99f2":[7,0,691,3],
+"de/d00/structboss__roar.html#a54b45b1fdacc2b3982e21580b9b4d26a":[7,0,691,8],
+"de/d00/structboss__roar.html#a632929b026815a524bd79748e768e3fc":[7,0,691,5],
 "de/d00/structboss__roar.html#a67df04e89c877d565753ac077aa923c7":[7,0,691,9],
 "de/d00/structboss__roar.html#a93e1d81bcff8b31841ae65628759ee7e":[7,0,691,0],
 "de/d00/structboss__roar.html#a9a2778a803d6d41b256759b29452cc51":[7,0,691,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX367 =
 "de/d07/classHealInfoStub.html#ad8c263f50edf324a72ca366f6caf4377":[7,0,1299,10],
 "de/d07/classHealInfoStub.html#ae011c5a0f72cd5581e661793c3ac2fdc":[7,0,1299,1],
 "de/d07/classHealInfoStub.html#ae599d81216cbcaa69f206ac6eca6d886":[7,0,1299,2],
-"de/d07/classHealInfoStub.html#afa2b7c6e93b387f16e2b545adc4fa05c":[7,0,1299,0],
-"de/d09/classspell__apothecary__lingering__fumes.html":[7,0,2676],
-"de/d09/classspell__apothecary__lingering__fumes.html#a4a898b0b096583af33f1f691a252b2ed":[7,0,2676,3],
-"de/d09/classspell__apothecary__lingering__fumes.html#aca33d0a7c792a6ac18deaaa945a28a26":[7,0,2676,2],
-"de/d09/classspell__apothecary__lingering__fumes.html#acd21d059ce10a64a3fe648d104d75ec1":[7,0,2676,1],
-"de/d09/classspell__apothecary__lingering__fumes.html#afa662fbe1b777047259ac6212961f7a5":[7,0,2676,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html":[7,0,3667],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[7,0,3667,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[7,0,3667,4]
+"de/d07/classHealInfoStub.html#afa2b7c6e93b387f16e2b545adc4fa05c":[7,0,1299,0]
 };

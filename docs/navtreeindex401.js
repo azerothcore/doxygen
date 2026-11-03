@@ -1,5 +1,13 @@
 var NAVTREEINDEX401 =
 {
+"de/db5/classBattlegroundDS.html#a97ed6f531b1de3eaf93c585e205e7f54":[7,0,337,3],
+"de/db5/classBattlegroundDS.html#aaef0cac1f3283c56117efcc484a0abfc":[7,0,337,10],
+"de/db5/classBattlegroundDS.html#ab9ab60253daa5318dcdb6675c8919cd5":[7,0,337,7],
+"de/db5/classBattlegroundDS.html#ae008bf979e6984856237938dfe743ec7":[7,0,337,5],
+"de/db5/classBattlegroundDS.html#ae215043c2c10df9f9339e2a6dbcb185e":[7,0,337,6],
+"de/db6/classspell__dk__raise__ally__trigger.html":[7,0,2870],
+"de/db6/classspell__dk__raise__ally__trigger.html#a9472b79a272aff36be657b66883d822f":[7,0,2870,0],
+"de/db6/classspell__dk__raise__ally__trigger.html#ace15e1f5c158f1f203862b40da2cf8fc":[7,0,2870,2],
 "de/db6/classspell__dk__raise__ally__trigger.html#ad46fedf6ef019d1b5e93d98e7bba8417":[7,0,2870,1],
 "de/db7/classQueryCallback.html":[7,0,2516],
 "de/db7/classQueryCallback.html#a0c1c3dbbe82846340770760cf9c11aa4":[7,0,2516,17],
@@ -241,13 +249,5 @@ var NAVTREEINDEX401 =
 "de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298ca78dd404ee86524d51bcd1ba5160da7be":[8,0,0,0,1,3,4,1,0,2,3,1],
 "de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298ca938ccdbb9c9416feed54c170293796d8":[8,0,0,0,1,3,4,1,0,2,3,2],
 "de/dc2/boss__azgalor_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,4,1,0,2,3,4],
-"de/dc2/boss__azgalor_8cpp.html#a5c48a4529f47bdf31a6695f69f35cc99":[8,0,0,0,1,3,4,1,0,2,5],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,4,1,0,2,4],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[8,0,0,0,1,3,4,1,0,2,4,3],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[8,0,0,0,1,3,4,1,0,2,4,1],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad35764f66527c79f568416706f54f562":[8,0,0,0,1,3,4,1,0,2,4,0],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adbf364a6418001fedd40eebdd48104de":[8,0,0,0,1,3,4,1,0,2,4,4],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aefae4435f09c51b42ce9eca527457d04":[8,0,0,0,1,3,4,1,0,2,4,2],
-"de/dc3/classspell__systems__shutdown__aura.html":[7,0,4227],
-"de/dc3/classspell__systems__shutdown__aura.html#a332d01b39295ea9a11773be9aa9c3fb3":[7,0,4227,4]
+"de/dc2/boss__azgalor_8cpp.html#a5c48a4529f47bdf31a6695f69f35cc99":[8,0,0,0,1,3,4,1,0,2,5]
 };

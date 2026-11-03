@@ -1,9 +1,11 @@
 var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
 [
     [ "instance_ulduar_InstanceMapScript", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac09484c22521c3319e7c9d7677c1f751", null ],
+    [ "AlgalonMinutesLeft", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a4be74ac35d22a621a8ff7ac4ea3d89a6", null ],
     [ "CheckAchievementCriteriaMeet", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a86c743405bc0e33247a6e1799c083ffd", null ],
     [ "CheckRequiredBosses", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#abbf6cb96cff9fe36d668253e86208e52", null ],
     [ "DespawnLeviathanGauntlet", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab1ee54aec4bcf62c5f31d843f6bf403e", null ],
+    [ "ExpireAlgalonCountdown", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ae8bdb08c0d5fd43a4e7cbc424480763c", null ],
     [ "FillInitialWorldStates", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a881215831485df502c95b2ea99f593e4", null ],
     [ "GetData", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab73afbc81283f58b786e1b62848df3e2", null ],
     [ "GetGuidData", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac2feda8cd6838208b4125660768bd149", null ],

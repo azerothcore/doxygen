@@ -1,5 +1,13 @@
 var NAVTREEINDEX425 =
 {
+"df/dd4/structBattlegroundScore.html#a4d26e490899eb5af44e0723fb248f601":[7,0,355,15],
+"df/dd4/structBattlegroundScore.html#a5f488c25aa439166d145713c67e7d085":[7,0,355,18],
+"df/dd4/structBattlegroundScore.html#a63896aeb8982219273915162085b603d":[7,0,355,8],
+"df/dd4/structBattlegroundScore.html#a6c8707bff5cba6cec40bd4fed4ac1f60":[7,0,355,10],
+"df/dd4/structBattlegroundScore.html#a769f81da2366d081d526aafec54da5e7":[7,0,355,0],
+"df/dd4/structBattlegroundScore.html#a7e92af662817ddaac630db378e941ebb":[7,0,355,13],
+"df/dd4/structBattlegroundScore.html#a8624cd06dba95d86e60f62675baf044c":[7,0,355,2],
+"df/dd4/structBattlegroundScore.html#a96b8bb236b9e997ecc4e6fed72a8bf00":[7,0,355,11],
 "df/dd4/structBattlegroundScore.html#a980da19452275b2848f064410628da88":[7,0,355,4],
 "df/dd4/structBattlegroundScore.html#ab4fd369438d0715d0fae5c17eedf14b8":[7,0,355,7],
 "df/dd4/structBattlegroundScore.html#abf5bd1519df8e56a7ecfeddd1ca0218a":[7,0,355,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX425 =
 "df/dd9/classUnit.html#a1aa013dc05741dbd3bc5a13aca1f54df":[7,0,4647,343],
 "df/dd9/classUnit.html#a1aa082e9622cb927207ac837ec6cab6f":[7,0,4647,52],
 "df/dd9/classUnit.html#a1afc1e413f12c5bd7bc00c926fa05833":[7,0,4647,73],
-"df/dd9/classUnit.html#a1b2e0bb4188512b464d98062f503e857":[7,0,4647,46],
-"df/dd9/classUnit.html#a1b3e9a1837499e7bc9f301b3a17d569e":[7,0,4647,942],
-"df/dd9/classUnit.html#a1b5426ed0a821b78377faac8113796b1":[7,0,4647,192],
-"df/dd9/classUnit.html#a1bbfd6ed9dbd8e094278548724b129e4":[7,0,4647,447],
-"df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399":[7,0,4647,674],
-"df/dd9/classUnit.html#a1c6661bf4dada1a879e5727b1a8b2362":[7,0,4647,57],
-"df/dd9/classUnit.html#a1c67ab14bc96bf669a9dd57d04a5edc0":[7,0,4647,475],
-"df/dd9/classUnit.html#a1ca5e1b306bffb4b27ceb58eda4e978f":[7,0,4647,917],
-"df/dd9/classUnit.html#a1d4215a0962f4de733865337595f4063":[7,0,4647,850]
+"df/dd9/classUnit.html#a1b2e0bb4188512b464d98062f503e857":[7,0,4647,46]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX396 =
 {
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e":[8,0,0,0,1,3,4,32,5,2],
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b":[8,0,0,0,1,3,4,32,5,0],
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7":[8,0,0,0,1,3,4,32,5,10],
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484":[8,0,0,0,1,3,4,32,5,7],
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9":[8,0,0,0,1,3,4,32,5,9],
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b":[8,0,0,0,1,3,4,32,5,5],
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64":[8,0,0,0,1,3,4,32,5,3],
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296":[8,0,0,0,1,3,4,32,5,6],
 "de/d98/zone__ungoro__crater_8cpp.html#a6e2c88161cee97e0e405ef83abcc653f":[8,0,0,0,1,3,4,32,6],
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0":[8,0,0,0,1,3,4,32,4],
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838":[8,0,0,0,1,3,4,32,4,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX396 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a24d8e9529344c98c4c487c94c1607792":[8,0,0,0,1,1,0,0,1,1,469],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a268c0e3662fbf193f64411eed7ec1a6e":[8,0,0,0,1,1,0,0,1,1,107],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a26bb2c6af3003484824da406edf04f2c":[8,0,0,0,1,1,0,0,1,1,96],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a26fe2cb975c2100502149a40d4576b62":[8,0,0,0,1,1,0,0,1,1,158],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a28fd4b7969831aaac8a3398daacdfbdf":[8,0,0,0,1,1,0,0,1,1,10],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a29767e41b86787ff93265d6eb9b06aed":[8,0,0,0,1,1,0,0,1,1,304],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a29e35f966d1d719c65b84e3c2a596ab0":[8,0,0,0,1,1,0,0,1,1,339],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a2a1f7aaad6e836856e8ad32207fa8570":[8,0,0,0,1,1,0,0,1,1,374],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a2abfb2ed59e855784ce7fd40b16d9802":[8,0,0,0,1,1,0,0,1,1,35],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a2ad49e7b9eb2182b7c39597275ffea13":[8,0,0,0,1,1,0,0,1,1,418],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a2b8b7856343015436321ec4eaa0b5b18":[8,0,0,0,1,1,0,0,1,1,428],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a2c46030a891222c049ab29fb64b7510a":[8,0,0,0,1,1,0,0,1,1,12]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a26fe2cb975c2100502149a40d4576b62":[8,0,0,0,1,1,0,0,1,1,158]
 };

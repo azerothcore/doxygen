@@ -1,5 +1,13 @@
 var NAVTREEINDEX406 =
 {
+"df/d02/classspell__xt002__submerged.html#ab20e548d7c0a837ee4cb7198c09e53ee":[7,0,4450,1],
+"df/d04/classspell__putricide__ooze__channel.html":[7,0,3899],
+"df/d04/classspell__putricide__ooze__channel.html#a0dab3a666abd6d8c1486a6e71ce98c20":[7,0,3899,0],
+"df/d04/classspell__putricide__ooze__channel.html#a15373dc2a0767e011faf504f6377e24d":[7,0,3899,4],
+"df/d04/classspell__putricide__ooze__channel.html#a17b20a391d70ae487774d52ed0e5dbd7":[7,0,3899,5],
+"df/d04/classspell__putricide__ooze__channel.html#a296ec09cec9661123ea5c86f3f262f32":[7,0,3899,3],
+"df/d04/classspell__putricide__ooze__channel.html#a7619f7ec6dc0ce14293414729731ed00":[7,0,3899,6],
+"df/d04/classspell__putricide__ooze__channel.html#a8338cc31a3c494c1cb24d015a11fbd64":[7,0,3899,1],
 "df/d04/classspell__putricide__ooze__channel.html#a9adbad7cc2185b22fb16135e78114548":[7,0,3899,2],
 "df/d04/classspell__putricide__ooze__channel.html#abe6d3ad0f06b2370f1a5985878d6af3d":[7,0,3899,7],
 "df/d04/structnpc__darkfallen__advisor.html":[7,0,1782],
@@ -241,13 +249,5 @@ var NAVTREEINDEX406 =
 "df/d14/ObjectDefines_8h.html#a89f7f74fa54f0edb8bf2fdf50319a39f":[8,0,0,0,1,2,16,5,3,4],
 "df/d14/ObjectDefines_8h.html#a913c166f7a4cd692f382db2df507a059":[8,0,0,0,1,2,16,5,3,7],
 "df/d14/ObjectDefines_8h.html#a9417df9da24d43d6fc32162e559e0b71":[8,0,0,0,1,2,16,5,3,16],
-"df/d14/ObjectDefines_8h.html#a96e2044bb0ae3b931a0f9f096e883595":[8,0,0,0,1,2,16,5,3,14],
-"df/d14/ObjectDefines_8h.html#a9d99b4056bf875fdb55ac9420fba982a":[8,0,0,0,1,2,16,5,3,6],
-"df/d14/ObjectDefines_8h.html#ab6869459c32ee6c2253af552a1144ddc":[8,0,0,0,1,2,16,5,3,15],
-"df/d14/ObjectDefines_8h.html#ac0046f058b6628976d44bbe6847d4a36":[8,0,0,0,1,2,16,5,3,19],
-"df/d14/ObjectDefines_8h.html#ac04af878f8585da7f1264b4042bac15b":[8,0,0,0,1,2,16,5,3,3],
-"df/d14/ObjectDefines_8h.html#ac42804b48d734699eef6b8f584e2fb90":[8,0,0,0,1,2,16,5,3,22],
-"df/d14/ObjectDefines_8h.html#acce67ab26aa86441d3f07fb597fdf887":[8,0,0,0,1,2,16,5,3,29],
-"df/d14/ObjectDefines_8h.html#ad7ca43faef12f55e2d72393f26d69ba7":[8,0,0,0,1,2,16,5,3,20],
-"df/d14/ObjectDefines_8h.html#addc54387901d7793730428b2982d3f55":[8,0,0,0,1,2,16,5,3,33]
+"df/d14/ObjectDefines_8h.html#a96e2044bb0ae3b931a0f9f096e883595":[8,0,0,0,1,2,16,5,3,14]
 };

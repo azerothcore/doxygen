@@ -1,10 +1,5 @@
 var NAVTREEINDEX50 =
 {
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a62df923649cc0dd38690e2a91e9db2ab":[8,0,0,0,1,3,9,2,217,34],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a6c15aaa8b0be966efc69dc76fa4eec8e":[8,0,0,0,1,3,9,2,217,19],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a6ee638fb3355a5a3c255f86b2fa727be":[8,0,0,0,1,3,9,2,217,1],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a868998753ee059dc34b813552ba19ff3":[8,0,0,0,1,3,9,2,217,21],
-"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a889ecfb6f3bfeaca17681e087d987533":[8,0,0,0,1,3,9,2,217,22],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a95961506c1103807bfa3426d9852d111":[8,0,0,0,1,3,9,2,217,31],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a988b6b551f675a749c09e0eef26097bf":[8,0,0,0,1,3,9,2,217,0],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aa464f41542e6ae2a6b832472c5d99197":[8,0,0,0,1,3,9,2,217,16],
@@ -249,5 +244,10 @@ var NAVTREEINDEX50 =
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a5a16e7c47b42d1f8da9dde7b14f5c513":[7,0,1341,0,12],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a5b0977c0b20d6302ce6c5f8a14e78e90":[7,0,1341,0,2],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a7f9d7f14c3223fa7bf7b7999d1f41105":[7,0,1341,0,8],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a93e7b63eae8d1e21b7e5c57fa370e801":[7,0,1341,0,6]
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#a93e7b63eae8d1e21b7e5c57fa370e801":[7,0,1341,0,6],
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#aa903356acce9401a139e30fb6839f4df":[7,0,1341,0,3],
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#aacdc6a4029fceddfa56155b296012aa3":[7,0,1341,0,0],
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#aad49d9f3f3c974e5c2f3a42b22759b9a":[7,0,1341,0,4],
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ab4d27deece6b8274300904571fb62e90":[7,0,1341,0,13],
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ab7130c806073258f4efae9e9177587be":[7,0,1341,0,10]
 };

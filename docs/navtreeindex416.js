@@ -1,5 +1,13 @@
 var NAVTREEINDEX416 =
 {
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html":[7,0,522,0],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a18ae481969ed0885122058b0ebf98cc8":[7,0,522,0,0],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1e4526d104670d4899ef6dd5760c2437":[7,0,522,0,14],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1efec7ad0793812f83e808b961059875":[7,0,522,0,1],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a31f3993b01755f45f3fe997d599a52d4":[7,0,522,0,9],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a40e40340002d05d97aa944c14af4030c":[7,0,522,0,2],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073":[7,0,522,0,15],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a6c2f0b49dec037f300206341bbb0f0a0":[7,0,522,0,8],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a73b20994a1949731b83a3a28b70ad9d1":[7,0,522,0,3],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9bbe9412721e4173ef37a1dbd494c262":[7,0,522,0,6],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9c4e6647c05785664cd23fce73d8ca87":[7,0,522,0,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX416 =
 "df/d77/classspell__drakkari__colossus__face__me.html":[7,0,2895],
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[7,0,2895,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[7,0,2895,2],
-"df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[7,0,2895,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
-"df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
-"df/d78/classspell__dk__ghoul__thrash.html":[7,0,2851],
-"df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[7,0,2851,0],
-"df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[7,0,2851,1],
-"df/d78/classspell__dk__ghoul__thrash.html#a857a010e6426e931ca872f66803b99b9":[7,0,2851,2],
-"df/d78/classspell__dk__ghoul__thrash.html#ab64625ce305efb9dc92780c945b4fd62":[7,0,2851,3],
-"df/d78/classspell__hate__to__zero.html":[7,0,3242]
+"df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[7,0,2895,0]
 };

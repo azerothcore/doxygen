@@ -1,5 +1,13 @@
 var NAVTREEINDEX410 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aac106d3d2c3214466d98817e4d282d4d":[8,0,0,0,1,2,16,5,0,4,6,148],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aacc16e0dae2a94d7f3f3a136bd421c02":[8,0,0,0,1,2,16,5,0,4,6,243],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aad27c730802e67c9e9cace991d64bdbb":[8,0,0,0,1,2,16,5,0,4,6,214],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aadb8466a0770ef91d4e31e50b1d5bf1e":[8,0,0,0,1,2,16,5,0,4,6,245],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aaf5220c031538f14e62edb39923a0ccf":[8,0,0,0,1,2,16,5,0,4,6,54],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab01bcc653653a26eb6e713848d62bc34":[8,0,0,0,1,2,16,5,0,4,6,5],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab01c90aebf78a9a599563a1baee44c24":[8,0,0,0,1,2,16,5,0,4,6,146],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab03ade509459f44b324a728b42af409c":[8,0,0,0,1,2,16,5,0,4,6,199],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab04ec13083a035a0f57e7d73310ed65a":[8,0,0,0,1,2,16,5,0,4,6,213],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab410028b13d1462c739c70d42eb11e62":[8,0,0,0,1,2,16,5,0,4,6,112],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ab5d8d3f6c63cd6c752325e9e43bc3b22":[8,0,0,0,1,2,16,5,0,4,6,68],
@@ -241,13 +249,5 @@ var NAVTREEINDEX410 =
 "df/d27/classautobroadcast__commandscript.html#aaebf528b045b05b038d2a3f8801d3c85":[7,0,312,4],
 "df/d27/classautobroadcast__commandscript.html#af6445843506ac2b4c2b5c158480aab8c":[7,0,312,5],
 "df/d27/classnpc__magwin.html":[7,0,2003],
-"df/d27/classnpc__magwin.html#a1a45602fd312a4c436b09fb7b90ac1d4":[7,0,2003,1],
-"df/d27/classnpc__magwin.html#a83bee0fd5c1494f2bb732fe9e0ed1594":[7,0,2003,2],
-"df/d27/classspell__gen__bm__off.html":[7,0,3050],
-"df/d27/classspell__gen__bm__off.html#a0ca6ec06108f964432f1cafc00b96313":[7,0,3050,1],
-"df/d27/classspell__gen__bm__off.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5":[7,0,3050,0],
-"df/d28/classTransaction.html":[7,0,4614],
-"df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444":[7,0,4614,0],
-"df/d28/classTransaction.html#a867b7a92080104278aef5fb4975a4a52":[7,0,4614,1],
-"df/d28/classTransaction.html#aa0a81814abe26d456018c3bc9153cd4d":[7,0,4614,2]
+"df/d27/classnpc__magwin.html#a1a45602fd312a4c436b09fb7b90ac1d4":[7,0,2003,1]
 };

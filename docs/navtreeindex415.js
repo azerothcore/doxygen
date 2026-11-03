@@ -1,5 +1,13 @@
 var NAVTREEINDEX415 =
 {
+"df/d58/classspell__gen__obsidian__armor.html#a9d0df8ec96c17661daaf620dd88cecd5":[7,0,3125,1],
+"df/d58/classspell__gen__obsidian__armor.html#ab6e36f24dea949c8cedaaed0d5fa9517":[7,0,3125,4],
+"df/d58/classspell__gen__obsidian__armor.html#ae533e87550b1aedc67b67c217495286d":[7,0,3125,3],
+"df/d58/classspell__gen__obsidian__armor.html#af474a768c441fb666163f4ebd5068393":[7,0,3125,2],
+"df/d59/structWeatherData.html":[4,2,8],
+"df/d5a/MySQLHacks_8h.html":[8,0,0,0,1,1,0,20],
+"df/d5a/MySQLHacks_8h.html#a9962b927652e90357369e67230dbc127":[8,0,0,0,1,1,0,20,5],
+"df/d5b/classinstance__stratholme.html":[7,0,1381],
 "df/d5b/classinstance__stratholme.html#a3d3d2e773029dd1c4bc1a59a94c4e015":[7,0,1381,2],
 "df/d5b/classinstance__stratholme.html#a42ac504b2790af8c37a44e87fbd9c6c1":[7,0,1381,1],
 "df/d5b/structQuestVisitor.html":[7,0,2534],
@@ -241,13 +249,5 @@ var NAVTREEINDEX415 =
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a8295974ee1f663dd0d22bcc4f0e0fa92":[7,0,340,4],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#ae3f19e55206e1a8097fe173a8a37aa12":[7,0,340,0],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#afe89eccc8c21351edb4ce943d937e521":[7,0,340,3],
-"df/d6e/BattlegroundBE_8cpp.html":[8,0,0,0,1,2,8,1,4],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html":[7,0,522,0],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a18ae481969ed0885122058b0ebf98cc8":[7,0,522,0,0],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1e4526d104670d4899ef6dd5760c2437":[7,0,522,0,14],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1efec7ad0793812f83e808b961059875":[7,0,522,0,1],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a31f3993b01755f45f3fe997d599a52d4":[7,0,522,0,9],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a40e40340002d05d97aa944c14af4030c":[7,0,522,0,2],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073":[7,0,522,0,15],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a6c2f0b49dec037f300206341bbb0f0a0":[7,0,522,0,8]
+"df/d6e/BattlegroundBE_8cpp.html":[8,0,0,0,1,2,8,1,4]
 };

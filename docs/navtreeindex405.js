@@ -1,5 +1,13 @@
 var NAVTREEINDEX405 =
 {
+"de/df5/classOutdoorPvPNA.html#a7538d64bb494644eae3cc7db03dd631f":[7,0,2404,10],
+"de/df5/classOutdoorPvPNA.html#a7bab429e723c0ac1eb2f8cd3501f13be":[7,0,2404,2],
+"de/df5/classOutdoorPvPNA.html#ab55683b771104878c69239314a9782f4":[7,0,2404,3],
+"de/df5/classOutdoorPvPNA.html#acbdae42245c71e4274296649d8d08e9e":[7,0,2404,0],
+"de/df5/classOutdoorPvPNA.html#ae7dd540746946513cd7bf8e29296c068":[7,0,2404,6],
+"de/df5/classOutdoorPvPNA.html#ae9a93ddac1ca439f0f269d7ac7597593":[7,0,2404,7],
+"de/df5/classWorldLocation.html":[7,0,4738],
+"de/df5/classWorldLocation.html#a019c9b00af8ee60c911430d1ce758662":[7,0,4738,11],
 "de/df5/classWorldLocation.html#a04d7814f5d846259c5af562ce856f468":[7,0,4738,1],
 "de/df5/classWorldLocation.html#a0b3f13522d288dde484c70cbf8ef5fc5":[7,0,4738,2],
 "de/df5/classWorldLocation.html#a2682e56ae4f0ce4b517a8ba3cd2798b1":[7,0,4738,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX405 =
 "df/d02/classAcore_1_1Impl_1_1GenericHMAC.html#aedfd7b158be9825a58db629e5253422e":[5,0,0,8,9,6],
 "df/d02/classspell__xt002__submerged.html":[7,0,4450],
 "df/d02/classspell__xt002__submerged.html#a48a0a37b8e6f799ee9035bb766fd6db2":[7,0,4450,2],
-"df/d02/classspell__xt002__submerged.html#aade3cab1f80d1762bfad48407f4b91cc":[7,0,4450,0],
-"df/d02/classspell__xt002__submerged.html#ab20e548d7c0a837ee4cb7198c09e53ee":[7,0,4450,1],
-"df/d04/classspell__putricide__ooze__channel.html":[7,0,3899],
-"df/d04/classspell__putricide__ooze__channel.html#a0dab3a666abd6d8c1486a6e71ce98c20":[7,0,3899,0],
-"df/d04/classspell__putricide__ooze__channel.html#a15373dc2a0767e011faf504f6377e24d":[7,0,3899,4],
-"df/d04/classspell__putricide__ooze__channel.html#a17b20a391d70ae487774d52ed0e5dbd7":[7,0,3899,5],
-"df/d04/classspell__putricide__ooze__channel.html#a296ec09cec9661123ea5c86f3f262f32":[7,0,3899,3],
-"df/d04/classspell__putricide__ooze__channel.html#a7619f7ec6dc0ce14293414729731ed00":[7,0,3899,6],
-"df/d04/classspell__putricide__ooze__channel.html#a8338cc31a3c494c1cb24d015a11fbd64":[7,0,3899,1]
+"df/d02/classspell__xt002__submerged.html#aade3cab1f80d1762bfad48407f4b91cc":[7,0,4450,0]
 };

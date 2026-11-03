@@ -1,5 +1,13 @@
 var NAVTREEINDEX413 =
 {
+"df/d3e/namespaceGameTime.html":[5,0,15],
+"df/d3e/namespaceGameTime.html#a443eccf314fe436192278d425d6d8220":[5,0,15,4],
+"df/d3e/namespaceGameTime.html#a45712735241c9563a12fc3da54fb144d":[5,0,15,8],
+"df/d3e/namespaceGameTime.html#a5d35a6ba984a07c98aad70bb266989cf":[5,0,15,13],
+"df/d3e/namespaceGameTime.html#a6acb8998bc9dae720531cb39082262f2":[5,0,15,6],
+"df/d3e/namespaceGameTime.html#a6d0d49f37e25e497391157b2a2ec90c1":[5,0,15,2],
+"df/d3e/namespaceGameTime.html#a78088a0637670a1ab5125a1388f7ca52":[5,0,15,14],
+"df/d3e/namespaceGameTime.html#a872d34d3f9d420cfc749073c809931f9":[5,0,15,3],
 "df/d3e/namespaceGameTime.html#a874057035d37aa57afc5064acffba119":[5,0,15,11],
 "df/d3e/namespaceGameTime.html#a9a28ffdb4bb387919d2dd70a51080ce0":[5,0,15,10],
 "df/d3e/namespaceGameTime.html#aa393fef2187ebdd6aa34379b0f1504d7":[5,0,15,12],
@@ -241,13 +249,5 @@ var NAVTREEINDEX413 =
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html":[7,0,3885],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a17a07973a3c043683fc4fe0d1fc45156":[7,0,3885,1],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a3751a14d6e36140ee368d8ded6df03ee":[7,0,3885,2],
-"df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[7,0,3885,0],
-"df/d51/structMMAP_1_1MapTiles.html":[7,0,6,3],
-"df/d51/structMMAP_1_1MapTiles.html":[5,0,20,3],
-"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,3,4],
-"df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[7,0,6,3,4],
-"df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[5,0,20,3,3],
-"df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[7,0,6,3,3],
-"df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[5,0,20,3,1],
-"df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[7,0,6,3,1]
+"df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[7,0,3885,0]
 };

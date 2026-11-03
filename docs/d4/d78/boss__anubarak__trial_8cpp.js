@@ -1,19 +1,18 @@
 var boss__anubarak__trial_8cpp =
 [
     [ "HideNpcEvent", "d4/d2d/classHideNpcEvent.html", "d4/d2d/classHideNpcEvent" ],
-    [ "boss_anubarak_trial", "db/dfd/classboss__anubarak__trial.html", "db/dfd/classboss__anubarak__trial" ],
-    [ "boss_anubarak_trial::boss_anubarak_trialAI", "d3/df2/structboss__anubarak__trial_1_1boss__anubarak__trialAI.html", "d3/df2/structboss__anubarak__trial_1_1boss__anubarak__trialAI" ],
-    [ "npc_swarm_scarab", "d9/dcc/classnpc__swarm__scarab.html", "d9/dcc/classnpc__swarm__scarab" ],
-    [ "npc_swarm_scarab::npc_swarm_scarabAI", "d4/d9e/structnpc__swarm__scarab_1_1npc__swarm__scarabAI.html", "d4/d9e/structnpc__swarm__scarab_1_1npc__swarm__scarabAI" ],
-    [ "npc_frost_sphere", "d9/d9b/classnpc__frost__sphere.html", "d9/d9b/classnpc__frost__sphere" ],
-    [ "npc_frost_sphere::npc_frost_sphereAI", "dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI.html", "dd/d17/structnpc__frost__sphere_1_1npc__frost__sphereAI" ],
-    [ "npc_nerubian_burrower", "db/d07/classnpc__nerubian__burrower.html", "db/d07/classnpc__nerubian__burrower" ],
-    [ "npc_nerubian_burrower::npc_nerubian_burrowerAI", "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html", "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI" ],
-    [ "npc_anubarak_spike", "d1/dfc/classnpc__anubarak__spike.html", "d1/dfc/classnpc__anubarak__spike" ],
-    [ "npc_anubarak_spike::npc_anubarak_spikeAI", "d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html", "d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI" ],
+    [ "boss_anubarak_trial", "dd/db8/structboss__anubarak__trial.html", "dd/db8/structboss__anubarak__trial" ],
+    [ "npc_swarm_scarab", "d6/dfb/structnpc__swarm__scarab.html", "d6/dfb/structnpc__swarm__scarab" ],
+    [ "npc_frost_sphere", "d3/d62/structnpc__frost__sphere.html", "d3/d62/structnpc__frost__sphere" ],
+    [ "npc_nerubian_burrower", "dd/d73/structnpc__nerubian__burrower.html", "dd/d73/structnpc__nerubian__burrower" ],
+    [ "npc_anubarak_spike", "d3/d36/structnpc__anubarak__spike.html", "d3/d36/structnpc__anubarak__spike" ],
     [ "spell_pursuing_spikes_aura", "d8/dde/classspell__pursuing__spikes__aura.html", "d8/dde/classspell__pursuing__spikes__aura" ],
     [ "spell_gen_leeching_swarm_aura", "de/d15/classspell__gen__leeching__swarm__aura.html", "de/d15/classspell__gen__leeching__swarm__aura" ],
     [ "spell_gen_leeching_swarm_dmg", "d5/d23/classspell__gen__leeching__swarm__dmg.html", "d5/d23/classspell__gen__leeching__swarm__dmg" ],
+    [ "AnubActions", "d4/d78/boss__anubarak__trial_8cpp.html#ac1c306cc8a71ffb0df805308cc4f0f27", [
+      [ "ACTION_SCARAB_SUBMERGE", "d4/d78/boss__anubarak__trial_8cpp.html#ac1c306cc8a71ffb0df805308cc4f0f27a0106d8c7aba85186a44f8717529d8400", null ],
+      [ "ACTION_SPIKE_FAIL", "d4/d78/boss__anubarak__trial_8cpp.html#ac1c306cc8a71ffb0df805308cc4f0f27ae9ebb133be032759238dce481290f64f", null ]
+    ] ],
     [ "AnubEvents", "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7", [
       [ "EVENT_RESPAWN_SPHERE", "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7a0597adc13f5dd2eb4fe687ddbae1deee", null ],
       [ "EVENT_ENRAGE", "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7a470d03afa22c989a62d65ba1ce60863b", null ],
@@ -25,7 +24,8 @@ var boss__anubarak__trial_8cpp =
       [ "EVENT_EMERGE_2", "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7a153792d957579f6b5e9942939f9992cb", null ],
       [ "EVENT_SPELL_SUMMON_SPIKE", "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7a986aa1943c71247df01ee0a3120362b3", null ],
       [ "EVENT_SPELL_SHADOW_STRIKE", "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7af9cc8caa8e5f67aa9c74749e244dde2c", null ],
-      [ "EVENT_SUMMON_SCARAB", "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7a7a702862eae47fe3ce32723b1560bc23", null ]
+      [ "EVENT_SUMMON_SCARAB", "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7a7a702862eae47fe3ce32723b1560bc23", null ],
+      [ "EVENT_SPELL_DETERMINATION", "d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7a7b447d51d67146965f90cb6728bea15f", null ]
     ] ],
     [ "AnubNPCs", "d4/d78/boss__anubarak__trial_8cpp.html#a950017bc99bfb958b7c8617784f4db25", [
       [ "NPC_FROST_SPHERE", "d4/d78/boss__anubarak__trial_8cpp.html#a950017bc99bfb958b7c8617784f4db25a168177bf6448a582c61896b0103da6b3", null ],
@@ -77,10 +77,10 @@ var boss__anubarak__trial_8cpp =
       [ "SAY_DEATH", "d4/d78/boss__anubarak__trial_8cpp.html#aaa815423de25318c68dccd5d793b42d9a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "EMOTE_SPIKE", "d4/d78/boss__anubarak__trial_8cpp.html#aaa815423de25318c68dccd5d793b42d9af530b7fc089ed8a5a0d47fdebb0c85de", null ]
     ] ],
-    [ "eLeechingSwarmSpells", "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691", [
-      [ "SPELL_LEECHING_SWARM_DMG", "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abf1892ca2530ac3edd2138a6b2d2ce6f", null ],
-      [ "SPELL_LEECHING_SWARM_HEAL", "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abbeb09babd5e62fe38115c52feb726f4", null ]
+    [ "LeechingSwarmSpells", "d4/d78/boss__anubarak__trial_8cpp.html#ac6498d858c42ac339251b5917af15b35", [
+      [ "SPELL_LEECHING_SWARM_DMG", "d4/d78/boss__anubarak__trial_8cpp.html#ac6498d858c42ac339251b5917af15b35abf1892ca2530ac3edd2138a6b2d2ce6f", null ],
+      [ "SPELL_LEECHING_SWARM_HEAL", "d4/d78/boss__anubarak__trial_8cpp.html#ac6498d858c42ac339251b5917af15b35abbeb09babd5e62fe38115c52feb726f4", null ]
     ] ],
     [ "AddSC_boss_anubarak_trial", "d4/d78/boss__anubarak__trial_8cpp.html#a58e9222dd2a3eacee9779116fd46ab48", null ],
-    [ "AnubLocs", "d4/d78/boss__anubarak__trial_8cpp.html#a3101a2bec64ee0361d6e1e30f3dead1f", null ]
+    [ "AnubLocs", "d4/d78/boss__anubarak__trial_8cpp.html#a67bcdcf3b974adad6baaf06d1998eb96", null ]
 ];

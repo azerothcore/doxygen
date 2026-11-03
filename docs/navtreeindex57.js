@@ -1,13 +1,5 @@
 var NAVTREEINDEX57 =
 {
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a5fccf6f7c794fa9a3b5d84fa16b3e103":[8,0,0,0,1,2,8,1,1,10,14],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a7ba8860dd59d25ccaf62bbbb7013b273":[8,0,0,0,1,2,8,1,1,10,10],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a8cd23628f5cb3d874e2b6799430ca4c5":[8,0,0,0,1,2,8,1,1,10,19],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a928f8a26d7ddcc2cec91cb204e743817":[8,0,0,0,1,2,8,1,1,10,24],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a9cde6affef60e332122963574c994230":[8,0,0,0,1,2,8,1,1,10,0],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254aa3b9498412e6798dbe0619f472849a7b":[8,0,0,0,1,2,8,1,1,10,20],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254aa501df1803557d6bf095074604206b66":[8,0,0,0,1,2,8,1,1,10,8],
-"d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254aaf1ed05e79654c99430e1acfd7ee208f":[8,0,0,0,1,2,8,1,1,10,4],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254abf84e4f0e1e7f3c5d5ef2adffb21ea9d":[8,0,0,0,1,2,8,1,1,10,13],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ac28800a8fe47d19f4f22a6e4158d245d":[8,0,0,0,1,2,8,1,1,10,25],
 "d2/d35/BattlegroundAB_8h.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ac4100a1f28c5573ab7dea73d50298873":[8,0,0,0,1,2,8,1,1,10,11],
@@ -249,5 +241,13 @@ var NAVTREEINDEX57 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a4c4c2f502f00ca48bb7419434d88ea3a":[7,0,2258,0,0],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2258,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2258,0,2],
-"d2/d39/classDBCFile_1_1NotFound.html":[7,0,992,2]
+"d2/d39/classDBCFile_1_1NotFound.html":[7,0,992,2],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,1],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,0],
+"d2/d39/classboss__varos.html":[7,0,775],
+"d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
+"d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
+"d2/d39/classspell__rog__tricks__of__the__trade.html":[7,0,4077],
+"d2/d39/classspell__rog__tricks__of__the__trade.html#a38ede5147a11c41770c4483a70d81e5d":[7,0,4077,0],
+"d2/d39/classspell__rog__tricks__of__the__trade.html#abcc738fc154e6be5de168fb23be806f4":[7,0,4077,1]
 };

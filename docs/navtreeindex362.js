@@ -1,5 +1,13 @@
 var NAVTREEINDEX362 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a27f71468300c58dc100ab0150ff2a743":[8,0,0,0,1,2,38,0,77,1,94],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2ad7d98a46f7e3412297f574c1fefde2":[8,0,0,0,1,2,38,0,77,1,148],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2b18b8770fe63f09162f18a839ef9594":[8,0,0,0,1,2,38,0,77,1,64],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2c7ab8bbd80c7c503e931f4d35622c44":[8,0,0,0,1,2,38,0,77,1,149],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2e15f842374590b7e5b007d7c2845130":[8,0,0,0,1,2,38,0,77,1,191],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a2fee78ad9180d81965e77a15b54cf511":[8,0,0,0,1,2,38,0,77,1,118],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a31d2931d624e05681312995be34a8892":[8,0,0,0,1,2,38,0,77,1,109],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a32c95212865430cc59177264b236d62b":[8,0,0,0,1,2,38,0,77,1,155],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a336ba08240724fa74f4d4ab371f32527":[8,0,0,0,1,2,38,0,77,1,50],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a352b65e761257cee6aa285d62f8ee648":[8,0,0,0,1,2,38,0,77,1,160],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3563a18d88151f87d63e6688e422295f":[8,0,0,0,1,2,38,0,77,1,75],
@@ -241,13 +249,5 @@ var NAVTREEINDEX362 =
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d":[8,0,0,0,1,3,4,11,2,4,4],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d":[8,0,0,0,1,3,4,11,2,4,7],
 "dd/dcb/zulfarrak_8h.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8":[8,0,0,0,1,3,4,11,2,4,8],
-"dd/dcb/zulfarrak_8h.html#afc0f10884b3d0ad6a6e73e3767fa3538":[8,0,0,0,1,3,4,11,2,8],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html":[7,0,3037],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a551d8d6dd43c83d9a693c5971fa5c224":[7,0,3037,1],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#a6647a8e35009cf8559e4957a666f037a":[7,0,3037,2],
-"dd/dcd/classspell__gen__area__aura__select__players__and__caster.html#aab7e3693e5744cf444e643f7cdfdf738":[7,0,3037,0],
-"dd/dcd/classspell__mage__combustion.html":[7,0,3636],
-"dd/dcd/classspell__mage__combustion.html#a0b104698a7c763bee1af656e127591bd":[7,0,3636,2],
-"dd/dcd/classspell__mage__combustion.html#a493e63aafcbfd4279cabe91aaa21cee2":[7,0,3636,3],
-"dd/dcd/classspell__mage__combustion.html#a4aadc249b5c568b5317c4eb41abeb6b4":[7,0,3636,0]
+"dd/dcb/zulfarrak_8h.html#afc0f10884b3d0ad6a6e73e3767fa3538":[8,0,0,0,1,3,4,11,2,8]
 };

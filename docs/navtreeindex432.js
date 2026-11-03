@@ -1,5 +1,13 @@
 var NAVTREEINDEX432 =
 {
+"df/df1/structCell.html#a15c6d9e68123ebceaf3520a383f5b7e8":[7,0,865,11],
+"df/df1/structCell.html#a19403f38934194c715adc45e9d530dc9":[7,0,865,29],
+"df/df1/structCell.html#a394510643e8664cf12b5efaf5cb99f71":[7,0,865,0],
+"df/df1/structCell.html#a3ff5ef7877f8b91e5797ef8b176870fa":[7,0,865,20],
+"df/df1/structCell.html#a40eda303ad77ca42a04b00a504d49b19":[7,0,865,28],
+"df/df1/structCell.html#a6ba637c4f7e1e563197b8006c19f00e1":[7,0,865,7],
+"df/df1/structCell.html#a6ccf5bbce503433022fce680363b4e3a":[7,0,865,14],
+"df/df1/structCell.html#a7766818a31b73b5b9f4e44936f331141":[7,0,865,12],
 "df/df1/structCell.html#a7d1cd3f96ae97b9685662645e027c388":[7,0,865,9],
 "df/df1/structCell.html#a7e3921913a75e9fb551235e974732e4c":[7,0,865,8],
 "df/df1/structCell.html#a83d1e587eeb791007c845f9ea52ab42f":[7,0,865,25],
@@ -241,13 +249,5 @@ var NAVTREEINDEX432 =
 "df/dfc/classspell__item__pet__healing.html#a61a84072d467596b8b2b2704ecbca03a":[7,0,3488,1],
 "df/dfc/classspell__item__pet__healing.html#aa1d3ef35912daa094bd9527280d0064b":[7,0,3488,3],
 "df/dfc/classspell__item__pet__healing.html#ad96085df198965575061ab989195983a":[7,0,3488,0],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[7,0,4264],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[7,0,4264,2],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[7,0,4264,1],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[7,0,4264,0],
-"df/dff/classinstance__old__hillsbrad.html":[7,0,1365],
-"df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[7,0,1365,2],
-"df/dff/classinstance__old__hillsbrad.html#a1ba2d39ae8f9209055de4b944cc535d8":[7,0,1365,1],
-"dir_0357f93aab1892c02aa89cc280efb408.html":[8,0,0,0,1,3,7,2,3],
-"dir_035874e76bcc0de7e09cf1c5f0f17641.html":[8,0,0,0,1,3,7,4]
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[7,0,4264]
 };

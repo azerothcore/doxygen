@@ -1,10 +1,29 @@
 var instance__trial__of__the__crusader_8cpp =
 [
-    [ "instance_trial_of_the_crusader", "d3/dd7/classinstance__trial__of__the__crusader.html", "d3/dd7/classinstance__trial__of__the__crusader" ],
-    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html", "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript" ],
+    [ "instance_trial_of_the_crusader", "d8/d7d/structinstance__trial__of__the__crusader.html", "d8/d7d/structinstance__trial__of__the__crusader" ],
     [ "InstanceMisc", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a051557b3d6e020ae9d3322350657d974", [
-      [ "VEHICLE_SNOBOLD_CARRIER", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a051557b3d6e020ae9d3322350657d974ad99ce5dca445596a19708d1a27e90458", null ]
+      [ "VEHICLE_SNOBOLD_CARRIER", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a051557b3d6e020ae9d3322350657d974ad99ce5dca445596a19708d1a27e90458", null ],
+      [ "GO_PORTAL_TO_DALARAN", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a051557b3d6e020ae9d3322350657d974a1da1d512918d1732cc81b35fb728f07a", null ],
+      [ "ITEM_VALANYR", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a051557b3d6e020ae9d3322350657d974abfe604ce9858e8dac7a6d02366bdc99b", null ],
+      [ "MAX_ATTEMPTS", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a051557b3d6e020ae9d3322350657d974a1426461f6b434dbd550dae960cd965e4", null ],
+      [ "DEDICATED_INSANITY_ITEM_LEVEL", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a051557b3d6e020ae9d3322350657d974af1043a648ae6c6fe04cfbaeedef354f1", null ]
+    ] ],
+    [ "InstanceSpells", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad7d2a4a9a9e50488891a21c446f7736f", [
+      [ "SPELL_BERSERK", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad7d2a4a9a9e50488891a21c446f7736fad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
+      [ "SPELL_FEL_LIGHTNING", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad7d2a4a9a9e50488891a21c446f7736fa8d26c330ee3df2c044c9407a916b040e", null ],
+      [ "SPELL_ARTHAS_PORTAL", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad7d2a4a9a9e50488891a21c446f7736fa2f29709d20708b595b8d34d0dcecaba7", null ],
+      [ "SPELL_DESTROY_FLOOR_KNOCKUP", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad7d2a4a9a9e50488891a21c446f7736fa6e3210d4c9f7a5afb8bfc604f4e5132c", null ]
+    ] ],
+    [ "NorthrendBeastsMask", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ab457a845d4fe0b3b38a5b4d38fd34ca2", [
+      [ "BEASTS_MASK_GORMOK_DEAD", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ab457a845d4fe0b3b38a5b4d38fd34ca2a97e3148c91c450437179e8127ae53e45", null ],
+      [ "BEASTS_MASK_JORMUNGARS_DEAD", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ab457a845d4fe0b3b38a5b4d38fd34ca2a12a3e53a69a47c381ba4c55de4fb30c1", null ],
+      [ "BEASTS_MASK_ICEHOWL_DEAD", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ab457a845d4fe0b3b38a5b4d38fd34ca2a186447a11c5f72835f3d12154232c742", null ],
+      [ "BEASTS_MASK_ALL_DEAD", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ab457a845d4fe0b3b38a5b4d38fd34ca2adcbdb5f51f6e168c85a360801e1f3bef", null ],
+      [ "BEASTS_MASK_JORMUNGARS_RELEASED", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ab457a845d4fe0b3b38a5b4d38fd34ca2a313491f3c4d942f39e2fe6573e30fc06", null ],
+      [ "BEASTS_MASK_ICEHOWL_RELEASED", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ab457a845d4fe0b3b38a5b4d38fd34ca2acb8e7d407fd5fa653799f1910ae92c0b", null ]
     ] ],
     [ "AddSC_instance_trial_of_the_crusader", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#af823cabf441f9e6a5443da42df4fda4f", null ],
-    [ "validDedicatedInsanityItems", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad29a01125872f689fb9953e9b3beb8e8", null ]
+    [ "creatureData", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "DedicatedInsanityItems", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a2bb2e44f489c252390b848d8fd5bab94", null ],
+    [ "gameObjectData", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

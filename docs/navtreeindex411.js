@@ -1,5 +1,13 @@
 var NAVTREEINDEX411 =
 {
+"df/d27/classnpc__magwin.html#a83bee0fd5c1494f2bb732fe9e0ed1594":[7,0,2003,2],
+"df/d27/classspell__gen__bm__off.html":[7,0,3050],
+"df/d27/classspell__gen__bm__off.html#a0ca6ec06108f964432f1cafc00b96313":[7,0,3050,1],
+"df/d27/classspell__gen__bm__off.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5":[7,0,3050,0],
+"df/d28/classTransaction.html":[7,0,4614],
+"df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444":[7,0,4614,0],
+"df/d28/classTransaction.html#a867b7a92080104278aef5fb4975a4a52":[7,0,4614,1],
+"df/d28/classTransaction.html#aa0a81814abe26d456018c3bc9153cd4d":[7,0,4614,2],
 "df/d29/oculus_8h.html":[8,0,0,0,1,3,5,8,2,6],
 "df/d29/oculus_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,8,2,6,0],
 "df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5":[8,0,0,0,1,3,5,8,2,6,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX411 =
 "df/d31/structWaveDataCreature.html#a2d5f42a6b1a309c8db74febcedf457eb":[7,0,4699,3],
 "df/d31/structWaveDataCreature.html#a6346259269af7f2936f959f87288dd69":[7,0,4699,4],
 "df/d31/structWaveDataCreature.html#aa57ff686c5fde12269e231333d8a8bef":[7,0,4699,2],
-"df/d31/structWaveDataCreature.html#ad51fb68e41e04490f658a4c4f62612bd":[7,0,4699,1],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html":[7,0,1401,0],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a03e0ecaffa85c23edacf5bf526fcb4b1":[7,0,1401,0,25],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a070aeb3e9535f30f6a8af4374bc06115":[7,0,1401,0,12],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a0c79e03ddb1efdc9981fbe77a57cc1ba":[7,0,1401,0,21],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fa360a2d3a28add4e73df28882788ad":[7,0,1401,0,0],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fdf151b16fc486a2448ad4ea138653e":[7,0,1401,0,15],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a21127a6bfd0eb47445b9727313a657e6":[7,0,1401,0,19],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a2dba82a79b82db7358638a59799b69e4":[7,0,1401,0,28]
+"df/d31/structWaveDataCreature.html#ad51fb68e41e04490f658a4c4f62612bd":[7,0,4699,1]
 };

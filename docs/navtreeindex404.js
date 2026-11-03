@@ -1,5 +1,13 @@
 var NAVTREEINDEX404 =
 {
+"de/de9/SpellProcEquipmentTest_8cpp.html#ae6e67189670b8ff19e187042fc35b9f1":[8,0,0,0,2,2,0,11,20,23],
+"de/de9/SpellProcEquipmentTest_8cpp.html#ae98f34a798ccbe023ff60c740baf668c":[8,0,0,0,2,2,0,11,20,13],
+"de/de9/classspell__pal__righteous__vengeance.html":[7,0,3813],
+"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[7,0,3813,3],
+"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[7,0,3813,0],
+"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[7,0,3813,2],
+"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[7,0,3813,1],
+"de/dea/structnpc__corrupted__totem.html":[7,0,1752],
 "de/dea/structnpc__corrupted__totem.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4":[7,0,1752,3],
 "de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[7,0,1752,4],
 "de/dea/structnpc__corrupted__totem.html#a5e0c58b341fe25a5d682b68e9eee207f":[7,0,1752,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX404 =
 "de/df5/classOutdoorPvPNA.html#a2ede6e7dc54424d9729a094557b14792":[7,0,2404,4],
 "de/df5/classOutdoorPvPNA.html#a312c5f2aaa35a9f83740c1bdd9772b9e":[7,0,2404,5],
 "de/df5/classOutdoorPvPNA.html#a4074a96974fe1b5e6d9149c8eee36e71":[7,0,2404,9],
-"de/df5/classOutdoorPvPNA.html#a49ac785929dd16bf0735b32b787763e9":[7,0,2404,1],
-"de/df5/classOutdoorPvPNA.html#a7538d64bb494644eae3cc7db03dd631f":[7,0,2404,10],
-"de/df5/classOutdoorPvPNA.html#a7bab429e723c0ac1eb2f8cd3501f13be":[7,0,2404,2],
-"de/df5/classOutdoorPvPNA.html#ab55683b771104878c69239314a9782f4":[7,0,2404,3],
-"de/df5/classOutdoorPvPNA.html#acbdae42245c71e4274296649d8d08e9e":[7,0,2404,0],
-"de/df5/classOutdoorPvPNA.html#ae7dd540746946513cd7bf8e29296c068":[7,0,2404,6],
-"de/df5/classOutdoorPvPNA.html#ae9a93ddac1ca439f0f269d7ac7597593":[7,0,2404,7],
-"de/df5/classWorldLocation.html":[7,0,4738],
-"de/df5/classWorldLocation.html#a019c9b00af8ee60c911430d1ce758662":[7,0,4738,11]
+"de/df5/classOutdoorPvPNA.html#a49ac785929dd16bf0735b32b787763e9":[7,0,2404,1]
 };

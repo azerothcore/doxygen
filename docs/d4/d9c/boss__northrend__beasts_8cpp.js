@@ -34,9 +34,6 @@ var boss__northrend__beasts_8cpp =
       [ "EVENT_SPELL_HEAD_CRACK", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47beaa47654495e3e87a9a33b1de31191f3976", null ],
       [ "EVENT_DISMOUNTED_ATTACK", "d4/d9c/boss__northrend__beasts_8cpp.html#ac2ac05656603473719a8d058efa47beaa1d7e9fedee1252a3569c213d9cacf61b", null ]
     ] ],
-    [ "GormokNPCs", "d4/d9c/boss__northrend__beasts_8cpp.html#ace3e6fd9cd2bc524c90a6e7a95d28cfb", [
-      [ "NPC_SNOBOLD_VASSAL", "d4/d9c/boss__northrend__beasts_8cpp.html#ace3e6fd9cd2bc524c90a6e7a95d28cfba27d3b8f133394b5e83ea2baf76f7281d", null ]
-    ] ],
     [ "GormokSpells", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769", [
       [ "SPELL_IMPALE", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769aed97c932510c91b6057175b2df166f63", null ],
       [ "SPELL_STAGGERING_STOMP", "d4/d9c/boss__northrend__beasts_8cpp.html#a9134540f938b78214a9fba529973a769abc140d9f29940e54fb6a6b98a72979a7", null ],

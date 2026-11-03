@@ -1,10 +1,5 @@
 var NAVTREEINDEX44 =
 {
-"d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e7b39ade041ee3421630ef241db1676":[8,0,0,0,1,3,2,4,12,19,14],
-"d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298ca1c24a9da48685f3b699190f5d7b68d56":[8,0,0,0,1,3,2,4,12,19,0],
-"d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298ca22f61cc2672af1d6c7ccb70aab8bac72":[8,0,0,0,1,3,2,4,12,19,2],
-"d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8":[8,0,0,0,1,3,2,4,12,19,13],
-"d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298ca41cca4c21173b2616bfca0b0759d7e21":[8,0,0,0,1,3,2,4,12,19,9],
 "d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298ca4fa0d16edf7d6ab0d51d2091231d148b":[8,0,0,0,1,3,2,4,12,19,5],
 "d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298ca6916758407d222f86a68f3136f5b43e1":[8,0,0,0,1,3,2,4,12,19,1],
 "d1/dbd/bosses__opera_8cpp.html#a5bd342133be8c2137b831460acc9298ca6bee2818aaaee066c2aaeb1a967219fc":[8,0,0,0,1,3,2,4,12,19,10],
@@ -77,16 +72,16 @@ var NAVTREEINDEX44 =
 "d1/dc0/classspell__q12620__the__lifewarden__wrath.html#af698a946e07235c18c8b785a1f775ec9":[7,0,3976,1],
 "d1/dc0/classspell__q12620__the__lifewarden__wrath.html#afd34935d8ab7d66589ca3c99ba0bfe48":[7,0,3976,0],
 "d1/dc1/DatabaseLoader_8cpp.html":[8,0,0,0,1,1,0,6],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[5,0,0,95],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[7,0,0,83],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[5,0,0,95],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[7,0,0,83,3],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[5,0,0,95,3],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[5,0,0,95,1],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[7,0,0,83,1],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[5,0,0,95,2],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[7,0,0,83,2],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#ab0e4734202edf26b69881ab85abe1d93":[7,0,0,83,0],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#ab0e4734202edf26b69881ab85abe1d93":[5,0,0,95,0],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#ab0e4734202edf26b69881ab85abe1d93":[7,0,0,83,0],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#af27a870fb654a130bf1e4ac1472fdffc":[5,0,0,95,4],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#af27a870fb654a130bf1e4ac1472fdffc":[7,0,0,83,4],
 "d1/dc1/classnpc__anachronos__the__ancient.html":[7,0,1644],
@@ -249,5 +244,10 @@ var NAVTREEINDEX44 =
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca1fa32d70e75c5bd1facfb42ada748007":[8,0,0,0,1,2,3,2,5,16,157],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca2101744b425ae953b34a36ccde2e3c61":[8,0,0,0,1,2,3,2,5,16,105],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca23ccc60b2e8b30135af31277dcd700db":[8,0,0,0,1,2,3,2,5,16,53],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca23ebbd6ddea5026ddb9c8fa15ec40ff1":[8,0,0,0,1,2,3,2,5,16,95]
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca23ebbd6ddea5026ddb9c8fa15ec40ff1":[8,0,0,0,1,2,3,2,5,16,95],
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca24af43095e468098b595d3336223394c":[8,0,0,0,1,2,3,2,5,16,51],
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca257084ea5456ad022ccad6c735912155":[8,0,0,0,1,2,3,2,5,16,124],
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca2a185be9abd8458b671496a511b5f747":[8,0,0,0,1,2,3,2,5,16,15],
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca2a72a68bda830170427416d82ebcadca":[8,0,0,0,1,2,3,2,5,16,49],
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca2b1608d8533efbcc9a63811f09c6c2ef":[8,0,0,0,1,2,3,2,5,16,174]
 };

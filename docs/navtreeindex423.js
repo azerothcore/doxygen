@@ -1,5 +1,13 @@
 var NAVTREEINDEX423 =
 {
+"df/db2/structnpc__claw__tentacle.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc":[7,0,1737,2],
+"df/db2/structnpc__claw__tentacle.html#aa566b417d1b766668133dd1d6a58293f":[7,0,1737,1],
+"df/db2/structnpc__claw__tentacle.html#aaf3a3380a33aadc2023d192dfa85cfb2":[7,0,1737,3],
+"df/db2/structnpc__claw__tentacle.html#ab979781a8f77267348595cfa17341bae":[7,0,1737,5],
+"df/db2/structnpc__claw__tentacle.html#ae7d521445680167add653717c7ae4c86":[7,0,1737,4],
+"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html":[7,0,1761,0],
+"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a29132346f117ba785039057619edb9e7":[7,0,1761,0,3],
+"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[7,0,1761,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[7,0,1761,0,2],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[7,0,1761,0,0],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[7,0,13,10,8],
@@ -241,13 +249,5 @@ var NAVTREEINDEX423 =
 "df/dbf/classspell__item__mingos__fortune__generator.html#a2a414ce6309b0bbbdb3fb4612215ca03":[7,0,3474,3],
 "df/dbf/classspell__item__mingos__fortune__generator.html#a527f606fd6e583eab56146a689f73e69":[7,0,3474,1],
 "df/dbf/classspell__item__mingos__fortune__generator.html#ac34b3d95ea2888a164deaa3db6671e8b":[7,0,3474,2],
-"df/dbf/classspell__item__mingos__fortune__generator.html#ae1321cc7d119e1f2c8c2029f8ada60a3":[7,0,3474,0],
-"df/dc0/structHodirHelperData.html":[7,0,1304],
-"df/dc0/structHodirHelperData.html#accc6fc59e13a0897ae168fae33ee4c7d":[7,0,1304,0],
-"df/dc0/structHodirHelperData.html#aeca90e17f8b6f5b40f0f703ef9fe2b73":[7,0,1304,1],
-"df/dc1/classspell__pri__body__and__soul.html":[7,0,3850],
-"df/dc1/classspell__pri__body__and__soul.html#a0113a45bd4c28d1769df7b675de697ed":[7,0,3850,2],
-"df/dc1/classspell__pri__body__and__soul.html#a63844728796945e892985720296d0c07":[7,0,3850,5],
-"df/dc1/classspell__pri__body__and__soul.html#aa575597dab0670e768e20a3a06c6dc0a":[7,0,3850,4],
-"df/dc1/classspell__pri__body__and__soul.html#ae4e6d0683039ca5e8ff1877248048b3b":[7,0,3850,0]
+"df/dbf/classspell__item__mingos__fortune__generator.html#ae1321cc7d119e1f2c8c2029f8ada60a3":[7,0,3474,0]
 };

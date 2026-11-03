@@ -2163,7 +2163,7 @@ var searchData=
   ['npc_5fsnivel_5fally_2160',['NPC_SNIVEL_ALLY',['../db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390a3220e4e00221ab3d31933abb9148c5b8',1,'love_in_air.cpp']]],
   ['npc_5fsnivel_5fcounter_2161',['NPC_SNIVEL_COUNTER',['../db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390a3a051cf873e140277c5e6cf875b4744c',1,'love_in_air.cpp']]],
   ['npc_5fsnivel_5fhorde_2162',['NPC_SNIVEL_HORDE',['../db/d67/love__in__air_8cpp.html#a191047c88fb3938e07cfc65599e94390afd77d31a7c753031a2ccca7f7dacb5f2',1,'love_in_air.cpp']]],
-  ['npc_5fsnobold_5fvassal_2163',['NPC_SNOBOLD_VASSAL',['../d4/d9c/boss__northrend__beasts_8cpp.html#ace3e6fd9cd2bc524c90a6e7a95d28cfba27d3b8f133394b5e83ea2baf76f7281d',1,'boss_northrend_beasts.cpp']]],
+  ['npc_5fsnobold_5fvassal_2163',['NPC_SNOBOLD_VASSAL',['../da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca27d3b8f133394b5e83ea2baf76f7281d',1,'trial_of_the_crusader.h']]],
   ['npc_5fsnow_5fmound_5f4_2164',['NPC_SNOW_MOUND_4',['../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00caa11811fdbfb8f74e252570087685666e',1,'ulduar.cpp']]],
   ['npc_5fsnow_5fmound_5f6_2165',['NPC_SNOW_MOUND_6',['../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb',1,'ulduar.cpp']]],
   ['npc_5fsnow_5fmound_5f8_2166',['NPC_SNOW_MOUND_8',['../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512',1,'ulduar.cpp']]],

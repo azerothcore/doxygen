@@ -1,5 +1,13 @@
 var NAVTREEINDEX424 =
 {
+"df/dc0/structHodirHelperData.html":[7,0,1304],
+"df/dc0/structHodirHelperData.html#accc6fc59e13a0897ae168fae33ee4c7d":[7,0,1304,0],
+"df/dc0/structHodirHelperData.html#aeca90e17f8b6f5b40f0f703ef9fe2b73":[7,0,1304,1],
+"df/dc1/classspell__pri__body__and__soul.html":[7,0,3850],
+"df/dc1/classspell__pri__body__and__soul.html#a0113a45bd4c28d1769df7b675de697ed":[7,0,3850,2],
+"df/dc1/classspell__pri__body__and__soul.html#a63844728796945e892985720296d0c07":[7,0,3850,5],
+"df/dc1/classspell__pri__body__and__soul.html#aa575597dab0670e768e20a3a06c6dc0a":[7,0,3850,4],
+"df/dc1/classspell__pri__body__and__soul.html#ae4e6d0683039ca5e8ff1877248048b3b":[7,0,3850,0],
 "df/dc1/classspell__pri__body__and__soul.html#af7d9ac7e014bbda32275bb584f5e2660":[7,0,3850,3],
 "df/dc1/classspell__pri__body__and__soul.html#affbff48ab9421bda51b3a5781188546d":[7,0,3850,1],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html":[7,0,763,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX424 =
 "df/dd4/structBattlegroundScore.html#a2f7da4c5f4a8cb4f35f38dafa25b4e10":[7,0,355,26],
 "df/dd4/structBattlegroundScore.html#a3b793df338929c4129e46a6a7fb6422f":[7,0,355,23],
 "df/dd4/structBattlegroundScore.html#a48bd0fadfbe327307702712c991a6866":[7,0,355,9],
-"df/dd4/structBattlegroundScore.html#a4c261e2bbed00da9b7e1865aeeedb48e":[7,0,355,22],
-"df/dd4/structBattlegroundScore.html#a4d26e490899eb5af44e0723fb248f601":[7,0,355,15],
-"df/dd4/structBattlegroundScore.html#a5f488c25aa439166d145713c67e7d085":[7,0,355,18],
-"df/dd4/structBattlegroundScore.html#a63896aeb8982219273915162085b603d":[7,0,355,8],
-"df/dd4/structBattlegroundScore.html#a6c8707bff5cba6cec40bd4fed4ac1f60":[7,0,355,10],
-"df/dd4/structBattlegroundScore.html#a769f81da2366d081d526aafec54da5e7":[7,0,355,0],
-"df/dd4/structBattlegroundScore.html#a7e92af662817ddaac630db378e941ebb":[7,0,355,13],
-"df/dd4/structBattlegroundScore.html#a8624cd06dba95d86e60f62675baf044c":[7,0,355,2],
-"df/dd4/structBattlegroundScore.html#a96b8bb236b9e997ecc4e6fed72a8bf00":[7,0,355,11]
+"df/dd4/structBattlegroundScore.html#a4c261e2bbed00da9b7e1865aeeedb48e":[7,0,355,22]
 };
