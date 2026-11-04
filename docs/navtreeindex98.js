@@ -1,5 +1,10 @@
 var NAVTREEINDEX98 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8c43942afa45ca4dc86220f95fcaf973":[8,0,0,0,1,3,5,9,2,13,52,64],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8cf1d392f97e7fd80eb9423b207f78fd":[8,0,0,0,1,3,5,9,2,13,52,36],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a93765f7d3172274cec20d272f39baf7c":[8,0,0,0,1,3,5,9,2,13,52,75],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a9733d28569b14d2d60cee84beffb40a8":[8,0,0,0,1,3,5,9,2,13,52,70],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a98770a74e11a382246a37020ee55cff5":[8,0,0,0,1,3,5,9,2,13,52,80],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a99dafe011587776469921116368d804e":[8,0,0,0,1,3,5,9,2,13,52,20],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a9aa8082d2cca5849c4c7379cba168818":[8,0,0,0,1,3,5,9,2,13,52,38],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a9b2938c47c7b0bbea0df742bf78c9061":[8,0,0,0,1,3,5,9,2,13,52,61],
@@ -207,10 +212,10 @@ var NAVTREEINDEX98 =
 "d3/d34/structboss__yauj.html":[7,0,801],
 "d3/d34/structboss__yauj.html#a15ab7b6b35d29fb1552b11586163320e":[7,0,801,0],
 "d3/d34/structboss__yauj.html#a94a2fa960e6924bde9ba6934a56ed684":[7,0,801,1],
-"d3/d35/classSendEncounterUnit.html":[7,0,2597],
-"d3/d35/classSendEncounterUnit.html#a5300ba7c1a8001bbf52c56fc2e5dc331":[7,0,2597,0],
-"d3/d35/classSendEncounterUnit.html#a6e1569fb7fa159fe702defbab1e123b6":[7,0,2597,2],
-"d3/d35/classSendEncounterUnit.html#ae21b67f8fe8a0677778436563872495f":[7,0,2597,1],
+"d3/d35/classSendEncounterUnit.html":[7,0,2598],
+"d3/d35/classSendEncounterUnit.html#a5300ba7c1a8001bbf52c56fc2e5dc331":[7,0,2598,0],
+"d3/d35/classSendEncounterUnit.html#a6e1569fb7fa159fe702defbab1e123b6":[7,0,2598,2],
+"d3/d35/classSendEncounterUnit.html#ae21b67f8fe8a0677778436563872495f":[7,0,2598,1],
 "d3/d36/BattlegroundUtils_8cpp.html":[8,0,0,0,1,2,8,18],
 "d3/d36/BattlegroundUtils_8cpp.html#a37cb97319fde2ce5eaaef583591063a9":[8,0,0,0,1,2,8,18,0],
 "d3/d36/BattlegroundUtils_8cpp.html#ab22bdb52b0357434faced9df19db9d81":[8,0,0,0,1,2,8,18,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a28eafd5c0cb7bb8e01efbb06f7b34233":[8,0,0,0,2,2,0,11,10,8],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a2d4b85c0008eabeb4461f01bccaf89f8":[8,0,0,0,2,2,0,11,10,10],
 "d3/d37/SpellProcArcanePotencyTest_8cpp.html#a364de25f6fd5bb612f3c4bc96219139b":[8,0,0,0,2,2,0,11,10,21],
-"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a36cc74c392392b4e050fd3a9a93ec059":[8,0,0,0,2,2,0,11,10,11],
-"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a57dc9556cf0be707c2dc83b18da58713":[8,0,0,0,2,2,0,11,10,3],
-"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a7bdbbcb320798ba3d70ef6f54ce1a57a":[8,0,0,0,2,2,0,11,10,7],
-"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a92d64ca04bcabf0bac5ef88dd39f9e9f":[8,0,0,0,2,2,0,11,10,12],
-"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a9d62c3db90beab7feca6eae255c63b32":[8,0,0,0,2,2,0,11,10,6],
-"d3/d37/SpellProcArcanePotencyTest_8cpp.html#aafc20e2202faf9465b6499dbe0c5bba4":[8,0,0,0,2,2,0,11,10,17]
+"d3/d37/SpellProcArcanePotencyTest_8cpp.html#a36cc74c392392b4e050fd3a9a93ec059":[8,0,0,0,2,2,0,11,10,11]
 };

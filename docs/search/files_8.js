@@ -104,9 +104,11 @@ var searchData=
   ['itemhandler_2ecpp_101',['ItemHandler.cpp',['../d1/d0d/ItemHandler_8cpp.html',1,'']]],
   ['itempackets_2ecpp_102',['ItemPackets.cpp',['../db/ddc/ItemPackets_8cpp.html',1,'']]],
   ['itempackets_2eh_103',['ItemPackets.h',['../d9/d8a/ItemPackets_8h.html',1,'']]],
-  ['itemscript_2eh_104',['ItemScript.h',['../d4/d9e/ItemScript_8h.html',1,'']]],
-  ['itemtemplate_2eh_105',['ItemTemplate.h',['../db/d8b/ItemTemplate_8h.html',1,'']]],
-  ['iteratorpair_2eh_106',['IteratorPair.h',['../d7/d38/IteratorPair_8h.html',1,'']]],
-  ['ivmapmgr_2eh_107',['IVMapMgr.h',['../db/d23/IVMapMgr_8h.html',1,'']]],
-  ['iworld_2eh_108',['IWorld.h',['../d2/d78/IWorld_8h.html',1,'']]]
+  ['itemrecovery_2ecpp_104',['ItemRecovery.cpp',['../d3/dd3/ItemRecovery_8cpp.html',1,'']]],
+  ['itemrecovery_2eh_105',['ItemRecovery.h',['../d3/d3b/ItemRecovery_8h.html',1,'']]],
+  ['itemscript_2eh_106',['ItemScript.h',['../d4/d9e/ItemScript_8h.html',1,'']]],
+  ['itemtemplate_2eh_107',['ItemTemplate.h',['../db/d8b/ItemTemplate_8h.html',1,'']]],
+  ['iteratorpair_2eh_108',['IteratorPair.h',['../d7/d38/IteratorPair_8h.html',1,'']]],
+  ['ivmapmgr_2eh_109',['IVMapMgr.h',['../db/d23/IVMapMgr_8h.html',1,'']]],
+  ['iworld_2eh_110',['IWorld.h',['../d2/d78/IWorld_8h.html',1,'']]]
 ];

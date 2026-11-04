@@ -30,6 +30,7 @@ var spell__warrior_8cpp =
     [ "spell_warr_second_wind", "d0/da6/classspell__warr__second__wind.html", "d0/da6/classspell__warr__second__wind" ],
     [ "spell_warr_deep_wounds_aura", "da/d89/classspell__warr__deep__wounds__aura.html", "da/d89/classspell__warr__deep__wounds__aura" ],
     [ "spell_warr_extra_proc", "db/d2a/classspell__warr__extra__proc.html", "db/d2a/classspell__warr__extra__proc" ],
+    [ "spell_warr_weapon_required_proc", "d0/d78/classspell__warr__weapon__required__proc.html", "d0/d78/classspell__warr__weapon__required__proc" ],
     [ "spell_warr_sword_and_board", "d4/d16/classspell__warr__sword__and__board.html", "d4/d16/classspell__warr__sword__and__board" ],
     [ "spell_warr_glyph_of_blocking", "d7/dbc/classspell__warr__glyph__of__blocking.html", "d7/dbc/classspell__warr__glyph__of__blocking" ],
     [ "spell_warr_item_t10_prot_4p_bonus", "d3/df5/classspell__warr__item__t10__prot__4p__bonus.html", "d3/df5/classspell__warr__item__t10__prot__4p__bonus" ],
@@ -48,7 +49,6 @@ var spell__warrior_8cpp =
       [ "SPELL_VICTORIOUS", "d8/d08/spell__warrior_8cpp.html#acef4cb7843a5797044c12329577e75e8a6c47455bc25393e351efe78e597da4f5", null ]
     ] ],
     [ "WarriorSpellIcons", "d8/d08/spell__warrior_8cpp.html#ab839a76a51d15a04f4078d37863416a9", [
-      [ "WARRIOR_ICON_ID_SUDDEN_DEATH", "d8/d08/spell__warrior_8cpp.html#ab839a76a51d15a04f4078d37863416a9a8158541edee02c4b1d6938cf9f09fb1a", null ],
       [ "WARRIOR_ICON_ID_SECOND_WIND", "d8/d08/spell__warrior_8cpp.html#ab839a76a51d15a04f4078d37863416a9a4de030c11b06f63daf9f6865e04a0ec2", null ]
     ] ],
     [ "WarriorSpells", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768", [
@@ -71,6 +71,8 @@ var spell__warrior_8cpp =
       [ "SPELL_WARRIOR_LAST_STAND_TRIGGERED", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a5ebdf3517f0c76e8d4ca19001ab76d74", null ],
       [ "SPELL_WARRIOR_RETALIATION_DAMAGE", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a099d2b17aad4abc8896d537aa7a4b4cf", null ],
       [ "SPELL_WARRIOR_SLAM", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ad5de1a56b0253c8fe37933a4a816616d", null ],
+      [ "SPELL_WARRIOR_SUDDEN_DEATH", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a0d46e0cd5cc26d88def49df35fd668c7", null ],
+      [ "SPELL_WARRIOR_SUDDEN_DEATH_R1", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a594d01fd7e515c32b62691d7e142a222", null ],
       [ "SPELL_WARRIOR_SUNDER_ARMOR", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ae04cc461efc31f2bd955feb06e5cb2b9", null ],
       [ "SPELL_WARRIOR_SWEEPING_STRIKES_EXTRA_ATTACK_1", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a2ec0523292b0b09cb93ea0c081b33726", null ],
       [ "SPELL_WARRIOR_SWEEPING_STRIKES_EXTRA_ATTACK_2", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768af0eb8067f814fe86f0cb1418cdce7571", null ],

@@ -1302,7 +1302,10 @@ var Language_8h =
       [ "LANG_ACCOUNT_INFO_CHAR_OFFLINE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa1fb70cc56f36e84b3dcdf4f4e432d0bf", null ],
       [ "LANG_REMOVEITEM_NONE_LEFT", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaa361e4325cb760bb40d183cbe671dbd2", null ],
       [ "LANG_CHARACTER_ONLINE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aab83262d01758b40d09a4fadd42175fa8", null ],
-      [ "LANG_CHARACTER_OFFLINE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa757d9a2e0609c71391de14741f2a3f01", null ]
+      [ "LANG_CHARACTER_OFFLINE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa757d9a2e0609c71391de14741f2a3f01", null ],
+      [ "LANG_ITEM_RESTORE_LIST_VENDORED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa23d2d4f241b0be14e34dd5ea5049ce70", null ],
+      [ "LANG_ITEM_RESTORE_LIST_DISENCHANTED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7e482877543ae71d3d7c23c54727eee1", null ],
+      [ "LANG_ITEM_RESTORE_IN_BUYBACK", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa8dba891c3cc01368803334dfab2dae59", null ]
     ] ],
     [ "BroadcastTextIds", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6", [
       [ "BROADCAST_TEXT_ACHIEVEMENT_EARNED", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6a92e90d9d24b6459082d3d5bd86a2ac83", null ],

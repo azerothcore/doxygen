@@ -610,7 +610,6 @@ var group__u2w =
       [ "QueuePacket", "d8/d74/classWorldSession.html#a4968ea39ddad12829b885244eaf1dd51", null ],
       [ "ReadAddonsInfo", "d8/d74/classWorldSession.html#a43567aa41487121120cb2e54e529e7c7", null ],
       [ "ReadMovementInfo", "d8/d74/classWorldSession.html#aa80c54788709121f97341e939c1241a7", null ],
-      [ "recoveryItem", "d8/d74/classWorldSession.html#abe565b6a8774099e67c27721b01d9224", null ],
       [ "ResetTimeOutTime", "d8/d74/classWorldSession.html#ae0e743d72f66c8ae96d9bec226fa9ad6", null ],
       [ "ResetTimeSync", "d8/d74/classWorldSession.html#a9507583c2c17d240ef570b56dd1b5664", null ],
       [ "SaveTutorialsData", "d8/d74/classWorldSession.html#ad213a0094c787fb36624e86dc71add03", null ],

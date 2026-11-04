@@ -6,5 +6,7 @@ var dir_4b91de77c0d3c1b17ed3a22a8949a24f =
     [ "Item.h", "d1/dd4/Item_8h.html", "d1/dd4/Item_8h" ],
     [ "ItemEnchantmentMgr.cpp", "d9/ddc/ItemEnchantmentMgr_8cpp.html", "d9/ddc/ItemEnchantmentMgr_8cpp" ],
     [ "ItemEnchantmentMgr.h", "da/d50/ItemEnchantmentMgr_8h.html", "da/d50/ItemEnchantmentMgr_8h" ],
+    [ "ItemRecovery.cpp", "d3/dd3/ItemRecovery_8cpp.html", null ],
+    [ "ItemRecovery.h", "d3/d3b/ItemRecovery_8h.html", "d3/d3b/ItemRecovery_8h" ],
     [ "ItemTemplate.h", "db/d8b/ItemTemplate_8h.html", "db/d8b/ItemTemplate_8h" ]
 ];

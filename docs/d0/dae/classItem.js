@@ -27,6 +27,7 @@ var classItem =
     [ "GetEnchantmentCharges", "d0/dae/classItem.html#ac27e7947dd9a6da1aca668d555b2184a", null ],
     [ "GetEnchantmentDuration", "d0/dae/classItem.html#a40dc439415bfb4cafb9ac302a48fd578", null ],
     [ "GetEnchantmentId", "d0/dae/classItem.html#a3101b3bc0f7feae75e77130da5f3b9a5", null ],
+    [ "GetEnchantmentsString", "d0/dae/classItem.html#a0c51139d2872a3b62a2b80710b3f3288", null ],
     [ "GetEnchantRequiredLevel", "d0/dae/classItem.html#a019fa708d2baa81f9c4572e4b191882f", null ],
     [ "GetGemCountWithID", "d0/dae/classItem.html#a3be08c327fae639c12214f12e13fe316", null ],
     [ "GetGemCountWithLimitCategory", "d0/dae/classItem.html#aca7f06a47c56803ecb744676fc30cb53", null ],

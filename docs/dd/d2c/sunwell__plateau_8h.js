@@ -7,7 +7,6 @@ var sunwell__plateau_8h =
       [ "DATA_KALECGOS", "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a053405afb85048224c161919aebd795d", null ],
       [ "DATA_BRUTALLUS", "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449", null ],
       [ "DATA_FELMYST", "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a8244063ae9be398c5c0d7d738bf808f5", null ],
-      [ "DATA_FELMYST_DOORS", "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8abfdc4b398c439a21c62f0a64e19f02e2", null ],
       [ "DATA_EREDAR_TWINS", "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a39be6ac90bcfca3b91b5e1e3b66bec17", null ],
       [ "DATA_MURU", "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff", null ],
       [ "DATA_KILJAEDEN", "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a714c38738ede08215fb54db2648e3bf2", null ],
@@ -22,6 +21,7 @@ var sunwell__plateau_8h =
       [ "NPC_FELMYST", "dd/d2c/sunwell__plateau_8h.html#a92f6fd626e1834a4cc509efc1186963eada4dc907da4e272049be1438b6be2c58", null ],
       [ "NPC_DEMONIC_VAPOR_TRAIL", "dd/d2c/sunwell__plateau_8h.html#a92f6fd626e1834a4cc509efc1186963ea232b476054dedb381bbec49a47b8a329", null ],
       [ "NPC_UNYIELDING_DEAD", "dd/d2c/sunwell__plateau_8h.html#a92f6fd626e1834a4cc509efc1186963ea3af9fffdc8b165ffb5577d7283f606ec", null ],
+      [ "NPC_KALECGOS_FELMYST", "dd/d2c/sunwell__plateau_8h.html#a92f6fd626e1834a4cc509efc1186963eae1e303b4d4bf9ea5161f503fcfdb062e", null ],
       [ "NPC_GRAND_WARLOCK_ALYTHESS", "dd/d2c/sunwell__plateau_8h.html#a92f6fd626e1834a4cc509efc1186963ea2be55b6bc595225faf81ef20423d0be3", null ],
       [ "NPC_LADY_SACROLASH", "dd/d2c/sunwell__plateau_8h.html#a92f6fd626e1834a4cc509efc1186963ea10b27700d2b01494f6c99cda36787455", null ],
       [ "NPC_SHADOW_IMAGE", "dd/d2c/sunwell__plateau_8h.html#a92f6fd626e1834a4cc509efc1186963eae0febca922e8832fefb2ced88d81b02b", null ],
@@ -53,7 +53,8 @@ var sunwell__plateau_8h =
       [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_2", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22aec03c7cc948b18ef8cf9f0679c52d59f", null ],
       [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_3", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22af0b1696449fcc3c87159e1b1dd68322e", null ],
       [ "DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_4", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a0f8218ec08638a02f12ee6a3447ceefa", null ],
-      [ "DATA_ICEBARRIER", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a0606a3b5c339e60928ac75714f1aa1f1", null ]
+      [ "DATA_ICEBARRIER", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22a0606a3b5c339e60928ac75714f1aa1f1", null ],
+      [ "DATA_FIRE_BARRIER", "dd/d2c/sunwell__plateau_8h.html#afb6eb4f28419b652027fad41104a6d22ae872e518d2b4aa48231842fcda756339", null ]
     ] ],
     [ "GameObjectIds", "dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999f", [
       [ "GO_FORCE_FIELD", "dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999fa41a52f5e53bb796196d3a37538b470b9", null ],
@@ -71,5 +72,14 @@ var sunwell__plateau_8h =
     [ "SpellIds", "dd/d2c/sunwell__plateau_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e", [
       [ "SPELL_SUMMON_FELBLAZE", "dd/d2c/sunwell__plateau_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae7c0ec69e05b573c37d93c72f3c02928", null ]
     ] ],
-    [ "GetSunwellPlateauAI", "dd/d2c/sunwell__plateau_8h.html#a0198140f94836b058b6c839d2880dbbf", null ]
+    [ "SWPPersistentData", "dd/d2c/sunwell__plateau_8h.html#a978af12372c7a5dc6c8f211cd42c244f", [
+      [ "PERSISTENT_DATA_FIRE_BARRIER", "dd/d2c/sunwell__plateau_8h.html#a978af12372c7a5dc6c8f211cd42c244fac77a15a3b6ba0c42dcd1671fa8284e18", null ],
+      [ "PERSISTENT_DATA_COUNT", "dd/d2c/sunwell__plateau_8h.html#a978af12372c7a5dc6c8f211cd42c244fa327cde1f8f9908a139da6e4deb38dc76", null ]
+    ] ],
+    [ "SWPPoints", "dd/d2c/sunwell__plateau_8h.html#a4d1415af6433d07b3a7ca1f0601793a9", [
+      [ "POINT_KALECGOS_FELMYST", "dd/d2c/sunwell__plateau_8h.html#a4d1415af6433d07b3a7ca1f0601793a9a14575207f12db0accf568468ea5a6c0d", null ]
+    ] ],
+    [ "GetSunwellPlateauAI", "dd/d2c/sunwell__plateau_8h.html#a0198140f94836b058b6c839d2880dbbf", null ],
+    [ "KalecgosFelmystLandPos", "dd/d2c/sunwell__plateau_8h.html#acd7bec38655e8ee3022813a495026546", null ],
+    [ "KalecgosFelmystSpawnPos", "dd/d2c/sunwell__plateau_8h.html#a6b34d9adf2a3c766e674c1b24bbb0a17", null ]
 ];

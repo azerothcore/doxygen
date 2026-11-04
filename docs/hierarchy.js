@@ -856,6 +856,7 @@ var hierarchy =
         [ "spell_warr_sword_and_board", "d4/d16/classspell__warr__sword__and__board.html", null ],
         [ "spell_warr_t3_prot_8p_bonus", "d2/dc9/classspell__warr__t3__prot__8p__bonus.html", null ],
         [ "spell_warr_vigilance", "d4/dd6/classspell__warr__vigilance.html", null ],
+        [ "spell_warr_weapon_required_proc", "d0/d78/classspell__warr__weapon__required__proc.html", null ],
         [ "spell_web_wrap_damage", "d3/d00/classspell__web__wrap__damage.html", null ],
         [ "spell_wintergrasp_hide_small_elementals_aura", "d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html", null ],
         [ "spell_xt002_321_boombot_aura", "d5/ddd/classspell__xt002__321__boombot__aura.html", null ],
@@ -3652,6 +3653,7 @@ var hierarchy =
     [ "RealSpellTestCase", "d8/d84/structRealSpellTestCase.html", null ],
     [ "DBCFile::Record", "d6/d96/classDBCFile_1_1Record.html", null ],
     [ "DBCFileLoader::Record", "d9/df7/classDBCFileLoader_1_1Record.html", null ],
+    [ "RecoveryItem", "de/db1/structRecoveryItem.html", null ],
     [ "RegularGrid2D< T, Node, NodeCreatorFunc, PositionFunc >", "db/d62/classRegularGrid2D.html", [
       [ "DynTreeImpl", "da/d8d/structDynTreeImpl.html", null ]
     ] ],

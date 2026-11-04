@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['lfg_0',['lfg',['../de/d72/namespacelfg.html',1,'']]]
+  ['itemrecovery_0',['ItemRecovery',['../dc/da0/namespaceItemRecovery.html',1,'']]]
 ];

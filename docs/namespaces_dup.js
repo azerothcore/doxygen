@@ -109,6 +109,13 @@ var namespaces_dup =
       [ "GetProductVersionStr", "d3/d2c/namespaceGitRevision.html#abbfa02a4b9aba10f263252be4d3f48fc", null ],
       [ "GetSourceDirectory", "d3/d2c/namespaceGitRevision.html#a1062fcec3676f562803f4775d95a9594", null ]
     ] ],
+    [ "ItemRecovery", "dc/da0/namespaceItemRecovery.html", [
+      [ "DeleteFromDB", "dc/da0/namespaceItemRecovery.html#a2ec915cbfd5641b0abe8beb905afbc35", null ],
+      [ "IsInBuyback", "dc/da0/namespaceItemRecovery.html#a818be554293b59360181fd08ab81665c", null ],
+      [ "Load", "dc/da0/namespaceItemRecovery.html#a074ad35364fee8062b2943d1fb893902", null ],
+      [ "Restore", "dc/da0/namespaceItemRecovery.html#ad50212d6e3a6385c53a1196557dcd612", null ],
+      [ "Save", "dc/da0/namespaceItemRecovery.html#aba8bb85058eb9806188799f6284fb744", null ]
+    ] ],
     [ "lfg", "de/d72/namespacelfg.html", "de/d72/namespacelfg" ],
     [ "MageSpellFlags", "d3/d98/namespaceMageSpellFlags.html", [
       [ "ARCANE_BLAST", "d3/d98/namespaceMageSpellFlags.html#a3cf9b20a3fe729ee462b2431e9ba830f", null ],
