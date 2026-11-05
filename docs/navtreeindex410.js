@@ -1,5 +1,9 @@
 var NAVTREEINDEX410 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7734f162388203e49d131fec30fd795e":[8,0,0,0,1,2,16,5,0,4,6,67],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a77f4da68cf83b5f3ac8680f7f9c0370d":[8,0,0,0,1,2,16,5,0,4,6,78],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a781565bf5ad5771c78cdb93870dc8f95":[8,0,0,0,1,2,16,5,0,4,6,76],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a78c66f483e148831040080bd93991237":[8,0,0,0,1,2,16,5,0,4,6,223],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a79bbde3bd7e439a29e7453da2a5b557d":[8,0,0,0,1,2,16,5,0,4,6,136],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7a38ebe68ba7f5fc514789abe842adc1":[8,0,0,0,1,2,16,5,0,4,6,170],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7c01656429ff96f72b601bcbe2b7cbfe":[8,0,0,0,1,2,16,5,0,4,6,189],
@@ -227,9 +231,9 @@ var NAVTREEINDEX410 =
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a43fe84c2717d73e20a2562f596a84f36":[7,0,3566,3],
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a4ab8e285bae57560eee85d3a837ac2f5":[7,0,3566,4],
 "df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#acd400b0a061d1814591e33d16bf4180a":[7,0,3566,0],
-"df/d22/classnpc__gunship__rocketeer.html":[7,0,1883],
-"df/d22/classnpc__gunship__rocketeer.html#a4f9c1b09e9e5b9dd337fe9210ab7038c":[7,0,1883,2],
-"df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[7,0,1883,1],
+"df/d22/classnpc__gunship__rocketeer.html":[7,0,1882],
+"df/d22/classnpc__gunship__rocketeer.html#a4f9c1b09e9e5b9dd337fe9210ab7038c":[7,0,1882,2],
+"df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[7,0,1882,1],
 "df/d23/classspell__black__temple__spell__absorption__aura.html":[7,0,2726],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#a1075139fc82cd8e1b30d4bc0f89fbfe0":[7,0,2726,2],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#a1c054ce067a620e16611cbb9e784cee1":[7,0,2726,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX410 =
 "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3d":[8,0,0,0,1,3,2,2,1,3],
 "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da19745206ad675de76c56ec85bcaf87ce":[8,0,0,0,1,3,2,2,1,3,8],
 "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da40a650d396a3bd814fdd3d305946808e":[8,0,0,0,1,3,2,2,1,3,3],
-"df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da47c93fe13dc1f5bcfe9dbd7ccfc88463":[8,0,0,0,1,3,2,2,1,3,0],
-"df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da5085d2ae1dca4ed99207259d6d1aec8e":[8,0,0,0,1,3,2,2,1,3,5],
-"df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da630f5f7acbba4ddc77a43313dfe06e55":[8,0,0,0,1,3,2,2,1,3,6],
-"df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3daa62d0bcdd70d06d582e35b0183b62bfa":[8,0,0,0,1,3,2,2,1,3,9],
-"df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dab4f246f333db2b004ffc7b6372e92640":[8,0,0,0,1,3,2,2,1,3,1]
+"df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da47c93fe13dc1f5bcfe9dbd7ccfc88463":[8,0,0,0,1,3,2,2,1,3,0]
 };

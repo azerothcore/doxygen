@@ -24,8 +24,6 @@ var go__scripts_8cpp =
     [ "go_darkmoon_faire_music::go_darkmoon_faire_musicAI", "d5/d5c/structgo__darkmoon__faire__music_1_1go__darkmoon__faire__musicAI.html", "d5/d5c/structgo__darkmoon__faire__music_1_1go__darkmoon__faire__musicAI" ],
     [ "go_midsummer_music", "d3/dd3/classgo__midsummer__music.html", "d3/dd3/classgo__midsummer__music" ],
     [ "go_midsummer_music::go_midsummer_musicAI", "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html", "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI" ],
-    [ "go_gilded_brazier", "db/d7b/classgo__gilded__brazier.html", "db/d7b/classgo__gilded__brazier" ],
-    [ "go_gilded_brazier::go_gilded_brazierAI", "d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html", "d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI" ],
     [ "go_tablet_of_the_seven", "d5/d5a/classgo__tablet__of__the__seven.html", "d5/d5a/classgo__tablet__of__the__seven" ],
     [ "go_jump_a_tron", "d2/d01/classgo__jump__a__tron.html", "d2/d01/classgo__jump__a__tron" ],
     [ "go_sacred_fire_of_life", "da/d97/classgo__sacred__fire__of__life.html", "da/d97/classgo__sacred__fire__of__life" ],
@@ -140,12 +138,6 @@ var go__scripts_8cpp =
     ] ],
     [ "Flames", "d6/d0c/go__scripts_8cpp.html#a86fc43e3cc7466f40ccad6b24f41be22", [
       [ "SPELL_FLAMES", "d6/d0c/go__scripts_8cpp.html#a86fc43e3cc7466f40ccad6b24f41be22a783c7b41db9c6b8418d0e3f1a7d5257f", null ]
-    ] ],
-    [ "GildedBrazier", "d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373e", [
-      [ "EVENT_STILLBLADE_SPAWN", "d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be", null ],
-      [ "EVENT_RESET_BRAZIER", "d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310", null ],
-      [ "NPC_STILLBLADE", "d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eacca99fdfb73aa6e8eb169b184cfed371", null ],
-      [ "QUEST_THE_FIRST_TRIAL", "d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373ea35e07db4aff89a4b282cd425703e3a3f", null ]
     ] ],
     [ "Heat", "d6/d0c/go__scripts_8cpp.html#acb117480e1211071a9d8031a50fb1286", [
       [ "SPELL_HEAT", "d6/d0c/go__scripts_8cpp.html#acb117480e1211071a9d8031a50fb1286a9329da13a5cbfa0d7dad14d7aeceeac7", null ]

@@ -57,7 +57,6 @@ var classPet =
     [ "Remove", "df/d14/classPet.html#aad26ada9ab82a5ec5a327976f4f51167", null ],
     [ "RemoveFromWorld", "df/d14/classPet.html#a10d8a224dc5726395aa872a6caaf9429", null ],
     [ "removeSpell", "df/d14/classPet.html#a8b746e4d29e8c0b9f1ed2d7b3be2c0f7", null ],
-    [ "RemoveSpellCooldown", "df/d14/classPet.html#aacc07541096ebdb1f20dcc786b4abedb", null ],
     [ "ResetAuraUpdateMaskForRaid", "df/d14/classPet.html#a0d4a246c42acbae6c5898246dc4b0de7", null ],
     [ "resetTalents", "df/d14/classPet.html#ae3c907fb96ae318cb5766374090b8d5d", null ],
     [ "resetTalentsForAllPetsOf", "df/d14/classPet.html#ab1abe749d93699ce7b7fba55403796c1", null ],

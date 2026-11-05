@@ -179,6 +179,7 @@ var classCreature =
     [ "RemoveCorpse", "db/dd5/classCreature.html#a6f6a5dc263a9c68e7712b01da2065dd9", null ],
     [ "RemoveFromWorld", "db/dd5/classCreature.html#a5e3a0a2c171f9b056431b86fdafe8993", null ],
     [ "RemoveLootMode", "db/dd5/classCreature.html#a0d4802359de5858daf0a5c10832babb8", null ],
+    [ "RemoveSpellCooldown", "db/dd5/classCreature.html#a44b3ffa55792926f9d3bc91d9fb74ca7", null ],
     [ "ResetLootMode", "db/dd5/classCreature.html#a1404fb29824015dba3452c3689b9a411", null ],
     [ "ResetPickPocketLootTime", "db/dd5/classCreature.html#ad3fb795c36f38751c68c4b9c2053d58e", null ],
     [ "ResetPlayerDamageReq", "db/dd5/classCreature.html#a60b1016d6fa165a27d5024eb906fba0c", null ],

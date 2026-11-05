@@ -1,5 +1,10 @@
 var NAVTREEINDEX398 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9c117ed798fac970e320276a1c751bab":[8,0,0,0,1,1,0,0,1,1,242],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9dcca0a2d3520569fa3956b6da86f5e9":[8,0,0,0,1,1,0,0,1,1,326],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9e05ac6125554ce6feb96b091c88b68c":[8,0,0,0,1,1,0,0,1,1,119],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9f53b18d4e728f4b3f2811d3c6598b65":[8,0,0,0,1,1,0,0,1,1,251],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9fb31a6ff391ca8b955a51b557092b08":[8,0,0,0,1,1,0,0,1,1,362],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9fd16a37ceb5819cc3832264f5591418":[8,0,0,0,1,1,0,0,1,1,440],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9ff01f62afe768714ae301fd8e35d8d1":[8,0,0,0,1,1,0,0,1,1,190],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa065a29b210f4708857eefd82d227891":[8,0,0,0,1,1,0,0,1,1,102],
@@ -216,9 +221,9 @@ var NAVTREEINDEX398 =
 "de/da5/classboss__sjonnir__malformed__ooze.html":[7,0,718],
 "de/da5/classboss__sjonnir__malformed__ooze.html#a22807bb07692511c5ec87073d98c2604":[7,0,718,2],
 "de/da5/classboss__sjonnir__malformed__ooze.html#ad151bc07b032b6cceed046d1b25ecc08":[7,0,718,1],
-"de/da5/classinstance__ragefire__chasm.html":[7,0,1368],
-"de/da5/classinstance__ragefire__chasm.html#a0568996a61ef91688b9f223cb3782e5a":[7,0,1368,2],
-"de/da5/classinstance__ragefire__chasm.html#ab7f27d3e73b24d16dcf9b114f7dd4b36":[7,0,1368,1],
+"de/da5/classinstance__ragefire__chasm.html":[7,0,1367],
+"de/da5/classinstance__ragefire__chasm.html#a0568996a61ef91688b9f223cb3782e5a":[7,0,1367,2],
+"de/da5/classinstance__ragefire__chasm.html#ab7f27d3e73b24d16dcf9b114f7dd4b36":[7,0,1367,1],
 "de/da5/vmapexport_8cpp.html":[8,0,0,0,3,4,12],
 "de/da5/vmapexport_8cpp.html#a12b965536bcabf2e2edd7db2196630cd":[8,0,0,0,3,4,12,17],
 "de/da5/vmapexport_8cpp.html#a17b22c7645963c9e5c277b72605a4966":[8,0,0,0,3,4,12,22],
@@ -244,10 +249,5 @@ var NAVTREEINDEX398 =
 "de/da5/vmapexport_8cpp.html#afc9839262206eb10094c1769141ae146":[8,0,0,0,3,4,12,3],
 "de/da6/boss__prince__malchezaar_8cpp.html":[8,0,0,0,1,3,2,4,7],
 "de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4":[8,0,0,0,1,3,2,4,7,5],
-"de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ab9ec1415fb27c06f233c0de1a05d3ab1":[8,0,0,0,1,3,2,4,7,5,1],
-"de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ae01caa8a3a49c7815ab75eb7f901a63d":[8,0,0,0,1,3,2,4,7,5,0],
-"de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4af80aaa14ff05f8c4fbfb1b502997d25b":[8,0,0,0,1,3,2,4,7,5,2],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643":[8,0,0,0,1,3,2,4,7,7],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,2,4,7,7,5],
-"de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a28e73bd4ce105114b8dd8e3626bfe762":[8,0,0,0,1,3,2,4,7,7,2]
+"de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ab9ec1415fb27c06f233c0de1a05d3ab1":[8,0,0,0,1,3,2,4,7,5,1]
 };

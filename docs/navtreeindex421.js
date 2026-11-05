@@ -1,5 +1,9 @@
 var NAVTREEINDEX421 =
 {
+"df/d9f/structnpc__ulduar__flash__freeze.html#ab02f8319a4f2aa0b6c9e5a0134de73fc":[7,0,2280,3],
+"df/d9f/structnpc__ulduar__flash__freeze.html#af381d671e1b64c6135ed6c76b1eef213":[7,0,2280,1],
+"df/da0/classspell__item__fetch__ball.html":[7,0,3433],
+"df/da0/classspell__item__fetch__ball.html#a3153b6c6814922cd7220e19b06f2a602":[7,0,3433,2],
 "df/da0/classspell__item__fetch__ball.html#a72e57e8a4bdb9a4fcd73e3519b6025ea":[7,0,3433,0],
 "df/da0/classspell__item__fetch__ball.html#aac4d3c8ecde3652c65c05abad5c8eaeb":[7,0,3433,1],
 "df/da1/boss__black__knight_8cpp.html":[8,0,0,0,1,3,5,2,0,1],
@@ -153,10 +157,10 @@ var NAVTREEINDEX421 =
 "df/da5/classspell__ice__spear__control__aura.html#ae1479b53d8c0575947a7ce7cae4747c4":[7,0,3323,2],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[5,0,35,1,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[7,0,13,1,0],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[7,0,13,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[5,0,35,1,0,1],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[7,0,13,1,0,0],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[7,0,13,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[5,0,35,1,0,0],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[7,0,13,1,0,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[7,0,13,1,0,2],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[5,0,35,1,0,2],
 "df/da6/classspell__gurtogg__eject.html":[7,0,3210],
@@ -245,9 +249,5 @@ var NAVTREEINDEX421 =
 "df/da7/classBattleground.html#a45a815c86212b354daaf839fae33b919":[7,0,330,89],
 "df/da7/classBattleground.html#a466175ebe7393077447cc246c83c5e84":[7,0,330,59],
 "df/da7/classBattleground.html#a476285ec168eec279bf3d1a4bb99603d":[7,0,330,4],
-"df/da7/classBattleground.html#a47766d59a63f48306cedc29d0a2e4598":[7,0,330,115],
-"df/da7/classBattleground.html#a484f56188cd64eebe033d80091cdbfcf":[7,0,330,175],
-"df/da7/classBattleground.html#a49ddcc93f9d450bd0f81bb831f264aa1":[7,0,330,198],
-"df/da7/classBattleground.html#a4aec80e93d36c9d22033e764d0e426a9":[7,0,330,80],
-"df/da7/classBattleground.html#a4cfd483f662820fcd1ffaa0169719c5e":[7,0,330,153]
+"df/da7/classBattleground.html#a47766d59a63f48306cedc29d0a2e4598":[7,0,330,115]
 };

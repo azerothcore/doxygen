@@ -88,6 +88,7 @@ var classPlayerScript =
     [ "OnPlayerCanSendErrorAlreadyLooted", "d0/d5b/classPlayerScript.html#a610ff70105814e8aaa534cb285eaed35", null ],
     [ "OnPlayerCanSendMail", "d0/d5b/classPlayerScript.html#a45e08ab8ba42ef8205f56fcfdaf7c7d1", null ],
     [ "OnPlayerCanSetTradeItem", "d0/d5b/classPlayerScript.html#a61af25953c5be86e15d87b6b714ca818", null ],
+    [ "OnPlayerCanSpeakUnlearnedLanguage", "d0/d5b/classPlayerScript.html#a38d05231cbe1c552d85777291147b82f", null ],
     [ "OnPlayerCanUnequipItem", "d0/d5b/classPlayerScript.html#a5e638e22a2a917df3d2b3885f28b511a", null ],
     [ "OnPlayerCanUpdateSkill", "d0/d5b/classPlayerScript.html#a70cdc27660ed927fb989389f7ea423f4", null ],
     [ "OnPlayerCanUseChat", "d0/d5b/classPlayerScript.html#ae0899bf8a7bd336ae28de910ec822ee4", null ],

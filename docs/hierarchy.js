@@ -2628,7 +2628,6 @@ var hierarchy =
       [ "go_father_flame", "d3/dfc/structgo__father__flame.html", null ],
       [ "go_firework_show", "dd/d5e/structgo__firework__show.html", null ],
       [ "go_flames::go_flamesAI", "d9/d25/structgo__flames_1_1go__flamesAI.html", null ],
-      [ "go_gilded_brazier::go_gilded_brazierAI", "d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html", null ],
       [ "go_heat::go_heatAI", "dd/d0d/structgo__heat_1_1go__heatAI.html", null ],
       [ "go_l70_etc_music::go_l70_etc_musicAI", "d8/db8/structgo__l70__etc__music_1_1go__l70__etc__musicAI.html", null ],
       [ "go_loosely_turned_soil::go_loosely_turned_soilAI", "d7/df4/structgo__loosely__turned__soil_1_1go__loosely__turned__soilAI.html", null ],
@@ -4428,7 +4427,6 @@ var hierarchy =
         [ "go_fel_crystalforge", "d0/dda/classgo__fel__crystalforge.html", null ],
         [ "go_finklestein_cauldron", "d2/d9d/classgo__finklestein__cauldron.html", null ],
         [ "go_flames", "de/ddf/classgo__flames.html", null ],
-        [ "go_gilded_brazier", "db/d7b/classgo__gilded__brazier.html", null ],
         [ "go_gong_of_bethekk", "d8/d9a/classgo__gong__of__bethekk.html", null ],
         [ "go_heat", "d2/df6/classgo__heat.html", null ],
         [ "go_hive_pod", "d0/dc2/classgo__hive__pod.html", null ],
@@ -4798,7 +4796,9 @@ var hierarchy =
       [ "FindStartTimeForStageTest", "d6/d50/classFindStartTimeForStageTest.html", null ],
       [ "GameObjectSummonGroupTest", "de/d0c/classGameObjectSummonGroupTest.html", null ],
       [ "HolidayDateCalculatorTest", "d5/d72/classHolidayDateCalculatorTest.html", null ],
-      [ "IntegrationTestFixture", "d2/de4/classIntegrationTestFixture.html", null ],
+      [ "IntegrationTestFixture", "d2/de4/classIntegrationTestFixture.html", [
+        [ "PlayerCanFlyControlLossTest", "d1/dae/classPlayerCanFlyControlLossTest.html", null ]
+      ] ],
       [ "LowLevelsMinPlayersOverrideTest", "dd/d7c/classLowLevelsMinPlayersOverrideTest.html", null ],
       [ "MissileBarrageTest", "d9/d82/classMissileBarrageTest.html", null ],
       [ "ModuleLocaleTest", "db/dcb/classModuleLocaleTest.html", null ],

@@ -339,6 +339,7 @@ var classScriptMgr =
     [ "OnPlayerCanSendErrorAlreadyLooted", "d2/d73/classScriptMgr.html#a3107538cfc068e17614dcefa2b9742a2", null ],
     [ "OnPlayerCanSendMail", "d2/d73/classScriptMgr.html#a5ef418257355a639f678ba69d2384808", null ],
     [ "OnPlayerCanSetTradeItem", "d2/d73/classScriptMgr.html#a336614606d3deebd7fc4fa44dce5587b", null ],
+    [ "OnPlayerCanSpeakUnlearnedLanguage", "d2/d73/classScriptMgr.html#a0dc7d7985539370adac92f5b8fc453d0", null ],
     [ "OnPlayerCanUnequipItem", "d2/d73/classScriptMgr.html#af6e0fa56fda72d308cf69125d866764e", null ],
     [ "OnPlayerCanUpdateSkill", "d2/d73/classScriptMgr.html#a90f71782ee49a4fc3178d4882fd56ea5", null ],
     [ "OnPlayerCanUseChat", "d2/d73/classScriptMgr.html#a9b5b517888400cf6b8a8dbe63e14a9d5", null ],

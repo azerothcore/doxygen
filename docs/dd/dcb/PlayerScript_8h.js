@@ -34,6 +34,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_ON_DUEL_START", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a5f10644dff50505ab0df06220624d1a8", null ],
       [ "PLAYERHOOK_ON_DUEL_END", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a0f9525fba1f627a99e7f8e7c19688050", null ],
       [ "PLAYERHOOK_ON_BEFORE_SEND_CHAT_MESSAGE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7cfbb437aa109eb58d3070c5c236c9ff", null ],
+      [ "PLAYERHOOK_CAN_SPEAK_UNLEARNED_LANGUAGE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aad04c20b13da03186c74787d7f4a7a46", null ],
       [ "PLAYERHOOK_ON_EMOTE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a43d5a2d46876df1d33576a0f51012cd1", null ],
       [ "PLAYERHOOK_ON_TEXT_EMOTE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a221799360250c2c96d0d7265e675c005", null ],
       [ "PLAYERHOOK_ON_SPELL_CAST", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a493d7f3ef76f284ebdaed121a4807fc9", null ],

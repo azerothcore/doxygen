@@ -1,5 +1,9 @@
 var NAVTREEINDEX321 =
 {
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bb78e60c9b828cf088458619da656f8":[8,0,0,0,1,3,2,4,1,1,4],
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298cad7ae14a78d5df48baefa84e1e188c418":[8,0,0,0,1,3,2,4,1,1,5],
+"dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,2,4,1,2],
+"dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,2,4,1,2,5],
 "dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba2ab2d3749086e3919a191a23d6da610c":[8,0,0,0,1,3,2,4,1,2,2],
 "dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,2,4,1,2,0],
 "dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,2,4,1,2,4],
@@ -41,14 +45,14 @@ var NAVTREEINDEX321 =
 "dc/d07/boss__magtheridon_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[8,0,0,0,1,3,7,4,2,0,9],
 "dc/d07/boss__magtheridon_8cpp.html#aab072245ab577ff0e12efe20a536b99aa96283caf31f749500082e1812dcefef3":[8,0,0,0,1,3,7,4,2,0,9,0],
 "dc/d07/boss__magtheridon_8cpp.html#ada1a60765162a3d503bec2ceb23a6c87":[8,0,0,0,1,3,7,4,2,0,12],
-"dc/d07/classInstanceMapScript.html":[7,0,1405],
-"dc/d07/classInstanceMapScript.html#a221dd91e2d2f761e66d990a6cae42306":[7,0,1405,1],
-"dc/d07/classInstanceMapScript.html#a4efcd2ea9d4bd654b7454cd55541af14":[7,0,1405,0],
-"dc/d07/classInstanceMapScript.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8":[7,0,1405,2],
-"dc/d07/classInstanceMapScript.html#ab77651bb427813a7e119057c3dc53ca8":[7,0,1405,3],
-"dc/d07/classnpc__captain__brandon.html":[7,0,1728],
-"dc/d07/classnpc__captain__brandon.html#a3d77951d8d9dbc14fad2fd52d84118a3":[7,0,1728,2],
-"dc/d07/classnpc__captain__brandon.html#ad522dd280882d894b5d32e7c888f2360":[7,0,1728,1],
+"dc/d07/classInstanceMapScript.html":[7,0,1404],
+"dc/d07/classInstanceMapScript.html#a221dd91e2d2f761e66d990a6cae42306":[7,0,1404,1],
+"dc/d07/classInstanceMapScript.html#a4efcd2ea9d4bd654b7454cd55541af14":[7,0,1404,0],
+"dc/d07/classInstanceMapScript.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8":[7,0,1404,2],
+"dc/d07/classInstanceMapScript.html#ab77651bb427813a7e119057c3dc53ca8":[7,0,1404,3],
+"dc/d07/classnpc__captain__brandon.html":[7,0,1727],
+"dc/d07/classnpc__captain__brandon.html#a3d77951d8d9dbc14fad2fd52d84118a3":[7,0,1727,2],
+"dc/d07/classnpc__captain__brandon.html#ad522dd280882d894b5d32e7c888f2360":[7,0,1727,1],
 "dc/d07/classspell__hydross__mark__of__hydross.html":[7,0,3308],
 "dc/d07/classspell__hydross__mark__of__hydross.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6":[7,0,3308,1],
 "dc/d07/classspell__hydross__mark__of__hydross.html#adbfce9b247a8a36d143243955372dc91":[7,0,3308,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[7,0,880,0],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a73a5ddacd8892d2300be313cfc12f534":[7,0,880,1],
 "dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005":[7,0,880,2],
-"dc/d08/classspell__trollgore__invader__taunt.html":[7,0,4304],
-"dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[7,0,4304,2],
-"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[7,0,4304,0],
-"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[7,0,4304,1],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[7,0,1706,0]
+"dc/d08/classspell__trollgore__invader__taunt.html":[7,0,4304]
 };
