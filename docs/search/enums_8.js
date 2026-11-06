@@ -37,7 +37,7 @@ var searchData=
   ['instancespells_34',['InstanceSpells',['../dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad7d2a4a9a9e50488891a21c446f7736f',1,'instance_trial_of_the_crusader.cpp']]],
   ['instantflightgossipaction_35',['InstantFlightGossipAction',['../da/dbf/Player_8h.html#a514c5df95b0c6a0bc4b13808f94d8f82',1,'Player.h']]],
   ['instantstatue_36',['InstantStatue',['../db/d6e/spell__item_8cpp.html#a5009822b241b572e55f82d5ca8081af7',1,'spell_item.cpp']]],
-  ['internalindex_37',['InternalIndex',['../d1/d49/classDatabaseWorkerPool.html#ae15d4d3ffe735226b82d1dcc2cdc65e1',1,'DatabaseWorkerPool']]],
+  ['internalindex_37',['internalindex',['../d1/d49/classDatabaseWorkerPool.html#ae15d4d3ffe735226b82d1dcc2cdc65e1',1,'DatabaseWorkerPool::InternalIndex'],['../d1/d40/classModuleDatabasePool.html#ae4fb9ae50a8958598d5499988aba5f91',1,'ModuleDatabasePool::InternalIndex']]],
   ['invaderevents_38',['InvaderEvents',['../d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576d',1,'violet_hold.cpp']]],
   ['inventorypackslots_39',['InventoryPackSlots',['../da/dbf/Player_8h.html#a3f01594f5f05965df25a0f1ebba196f4',1,'Player.h']]],
   ['inventoryresult_40',['InventoryResult',['../d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20fa',1,'Item.h']]],

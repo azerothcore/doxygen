@@ -161,21 +161,21 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
-<div class="line"><span class="lineno">   35</span>    std::vector&lt;std::string_view&gt; tokens = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(infoString, <span class="charliteral">&#39;;&#39;</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">if</span> (tokens.size() != 5 &amp;&amp; tokens.size() != 6)</div>
-<div class="line"><span class="lineno">   38</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a2659372561aae5feb8da121984354ef3">host</a>.assign(tokens.at(0));</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a37b89660afb3ee085e817836e9d1d01f">port_or_socket</a>.assign(tokens.at(1));</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a6bf4166ebb99ea30a3894e3d8833bde6">user</a>.assign(tokens.at(2));</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#af5a51bd38ce1d58f65444d69b0283966">password</a>.assign(tokens.at(3));</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a7e65a418ad668772e4ce1b298d92f10a">database</a>.assign(tokens.at(4));</div>
-<div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>    <span class="keywordflow">if</span> (tokens.size() == 6)</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a90e5a934b4ec46e5783248a1a80a4830">ssl</a>.assign(tokens.at(5));</div>
-<div class="line"><span class="lineno">   48</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
+<div class="line"><span class="lineno">   36</span>    std::vector&lt;std::string_view&gt; tokens = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(infoString, <span class="charliteral">&#39;;&#39;</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   37</span> </div>
+<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">if</span> (tokens.size() != 5 &amp;&amp; tokens.size() != 6)</div>
+<div class="line"><span class="lineno">   39</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   40</span> </div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a2659372561aae5feb8da121984354ef3">host</a>.assign(tokens.at(0));</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a37b89660afb3ee085e817836e9d1d01f">port_or_socket</a>.assign(tokens.at(1));</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a6bf4166ebb99ea30a3894e3d8833bde6">user</a>.assign(tokens.at(2));</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#af5a51bd38ce1d58f65444d69b0283966">password</a>.assign(tokens.at(3));</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a7e65a418ad668772e4ce1b298d92f10a">database</a>.assign(tokens.at(4));</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">if</span> (tokens.size() == 6)</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a90e5a934b4ec46e5783248a1a80a4830">ssl</a>.assign(tokens.at(5));</div>
+<div class="line"><span class="lineno">   49</span>}</div>
 <div class="ttc" id="anamespaceAcore_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition</b> Tokenize.cpp:20</div></div>
 <div class="ttc" id="astructMySQLConnectionInfo_html_a2659372561aae5feb8da121984354ef3"><div class="ttname"><a href="../../d4/dcc/structMySQLConnectionInfo.html#a2659372561aae5feb8da121984354ef3">MySQLConnectionInfo::host</a></div><div class="ttdeci">std::string host</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:49</div></div>
 <div class="ttc" id="astructMySQLConnectionInfo_html_a37b89660afb3ee085e817836e9d1d01f"><div class="ttname"><a href="../../d4/dcc/structMySQLConnectionInfo.html#a37b89660afb3ee085e817836e9d1d01f">MySQLConnectionInfo::port_or_socket</a></div><div class="ttdeci">std::string port_or_socket</div><div class="ttdef"><b>Definition</b> MySQLConnection.h:50</div></div>
@@ -201,7 +201,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00610">MySQLConnection::_HandleMySQLErrno()</a>, <a class="el" href="../../#l00546">MySQLConnection::GetPreparedStatement()</a>, <a class="el" href="../../#l00033">MySQLConnectionInfo()</a>, <a class="el" href="../../#l00046">ModuleDatabasePool::Open()</a>, and <a class="el" href="../../#l00091">MySQLConnection::Open()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00617">MySQLConnection::_HandleMySQLErrno()</a>, <a class="el" href="../../#l00553">MySQLConnection::GetPreparedStatement()</a>, <a class="el" href="../../#l00034">MySQLConnectionInfo()</a>, <a class="el" href="../../#l00080">ModuleDatabasePool::Open()</a>, <a class="el" href="../../#l00092">MySQLConnection::Open()</a>, <a class="el" href="../../#l00113">ModuleDatabasePool::OpenConnections()</a>, and <a class="el" href="../../#l00168">ModuleDatabasePool::PrepareStatements()</a>.</p>
 
 </div>
 </div>
@@ -217,7 +217,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00610">MySQLConnection::_HandleMySQLErrno()</a>, <a class="el" href="../../#l00033">MySQLConnectionInfo()</a>, and <a class="el" href="../../#l00091">MySQLConnection::Open()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00617">MySQLConnection::_HandleMySQLErrno()</a>, <a class="el" href="../../#l00034">MySQLConnectionInfo()</a>, and <a class="el" href="../../#l00092">MySQLConnection::Open()</a>.</p>
 
 </div>
 </div>
@@ -233,7 +233,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00033">MySQLConnectionInfo()</a>, and <a class="el" href="../../#l00091">MySQLConnection::Open()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00034">MySQLConnectionInfo()</a>, and <a class="el" href="../../#l00092">MySQLConnection::Open()</a>.</p>
 
 </div>
 </div>
@@ -249,7 +249,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00610">MySQLConnection::_HandleMySQLErrno()</a>, <a class="el" href="../../#l00033">MySQLConnectionInfo()</a>, and <a class="el" href="../../#l00091">MySQLConnection::Open()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00617">MySQLConnection::_HandleMySQLErrno()</a>, <a class="el" href="../../#l00034">MySQLConnectionInfo()</a>, and <a class="el" href="../../#l00092">MySQLConnection::Open()</a>.</p>
 
 </div>
 </div>
@@ -265,7 +265,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00033">MySQLConnectionInfo()</a>, and <a class="el" href="../../#l00091">MySQLConnection::Open()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00034">MySQLConnectionInfo()</a>, and <a class="el" href="../../#l00092">MySQLConnection::Open()</a>.</p>
 
 </div>
 </div>
@@ -281,7 +281,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00033">MySQLConnectionInfo()</a>, and <a class="el" href="../../#l00091">MySQLConnection::Open()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00034">MySQLConnectionInfo()</a>, and <a class="el" href="../../#l00092">MySQLConnection::Open()</a>.</p>
 
 </div>
 </div>
@@ -295,7 +295,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/dcc/structMySQLConnectionInfo.html">MySQLConnectionInfo</a></li>
-    <li class="footer">Generated on Thu Nov 5 2026 13:54:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Nov 6 2026 13:45:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

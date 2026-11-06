@@ -112,6 +112,8 @@ $(document).ready(function(){initNavTree('d6/dd2/classPingOperation.html','../..
   <div class="headertitle"><div class="title">PingOperation Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">SQLOperation.h</a>&quot;</code></p>
 <div class="dynheader">
 Inheritance diagram for PingOperation:</div>
 <div class="dyncontent">
@@ -125,7 +127,6 @@ Inheritance diagram for PingOperation:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
 <tr class="memitem:a90b33b3679699a6a20fcd1e61ed7f737" id="r_a90b33b3679699a6a20fcd1e61ed7f737"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dd2/classPingOperation.html#a90b33b3679699a6a20fcd1e61ed7f737">Execute</a> () override</td></tr>
-<tr class="memdesc:a90b33b3679699a6a20fcd1e61ed7f737"><td class="mdescLeft">&#160;</td><td class="mdescRight">Operation for idle delaythreads.  <br /></td></tr>
 <tr class="separator:a90b33b3679699a6a20fcd1e61ed7f737"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
@@ -163,27 +164,26 @@ Additional Inherited Members</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">private</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">private</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Operation for idle delaythreads. </p>
-
 <p>Implements <a class="el" href="../../da/d08/classSQLOperation.html#aff1090554bc4a6fe7a33270e63416e19">SQLOperation</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   48</span>    {</div>
-<div class="line"><span class="lineno">   49</span>        <a class="code hl_variable" href="../../da/d08/classSQLOperation.html#adf322db48064fcf4528f713f857f1b40">m_conn</a>-&gt;<a class="code hl_function" href="../../d5/db3/classMySQLConnection.html#a690c6afae2cfa2938700a32fdce91d7d">Ping</a>();</div>
-<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   51</span>    }</div>
-<div class="ttc" id="aclassMySQLConnection_html_a690c6afae2cfa2938700a32fdce91d7d"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a690c6afae2cfa2938700a32fdce91d7d">MySQLConnection::Ping</a></div><div class="ttdeci">void Ping()</div><div class="ttdef"><b>Definition</b> MySQLConnection.cpp:516</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  523</span>{</div>
+<div class="line"><span class="lineno">  524</span>    <a class="code hl_variable" href="../../da/d08/classSQLOperation.html#adf322db48064fcf4528f713f857f1b40">m_conn</a>-&gt;<a class="code hl_function" href="../../d5/db3/classMySQLConnection.html#a690c6afae2cfa2938700a32fdce91d7d">Ping</a>();</div>
+<div class="line"><span class="lineno">  525</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  526</span>}</div>
+<div class="ttc" id="aclassMySQLConnection_html_a690c6afae2cfa2938700a32fdce91d7d"><div class="ttname"><a href="../../d5/db3/classMySQLConnection.html#a690c6afae2cfa2938700a32fdce91d7d">MySQLConnection::Ping</a></div><div class="ttdeci">void Ping()</div><div class="ttdef"><b>Definition</b> MySQLConnection.cpp:517</div></div>
 <div class="ttc" id="aclassSQLOperation_html_adf322db48064fcf4528f713f857f1b40"><div class="ttname"><a href="../../da/d08/classSQLOperation.html#adf322db48064fcf4528f713f857f1b40">SQLOperation::m_conn</a></div><div class="ttdeci">MySQLConnection * m_conn</div><div class="ttdef"><b>Definition</b> SQLOperation.h:56</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">SQLOperation::m_conn</a>, and <a class="el" href="../../#l00516">MySQLConnection::Ping()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00056">SQLOperation::m_conn</a>, and <a class="el" href="../../#l00517">MySQLConnection::Ping()</a>.</p>
 
 </div>
 </div>
-<hr/>The documentation for this class was generated from the following file:<ul>
-<li>azerothcore-wotlk/src/server/database/Database/<a class="el" href="../../">DatabaseWorkerPool.cpp</a></li>
+<hr/>The documentation for this class was generated from the following files:<ul>
+<li>azerothcore-wotlk/src/server/database/Database/<a class="el" href="../../">SQLOperation.h</a></li>
+<li>azerothcore-wotlk/src/server/database/Database/<a class="el" href="../../">MySQLConnection.cpp</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -191,7 +191,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dd2/classPingOperation.html">PingOperation</a></li>
-    <li class="footer">Generated on Thu Nov 5 2026 13:54:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Nov 6 2026 13:46:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
