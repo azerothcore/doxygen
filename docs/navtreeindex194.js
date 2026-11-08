@@ -1,5 +1,7 @@
 var NAVTREEINDEX194 =
 {
+"d6/dd9/boss__skadi_8cpp.html#a250372292659bed7ae290d8621f88ccfaba4027a0bf01bbe406c51c579cde7f5e":[8,0,0,0,1,3,5,10,1,1,11,0],
+"d6/dd9/boss__skadi_8cpp.html#a250372292659bed7ae290d8621f88ccfafbc7b13e19f6f61e1a328e32343b95d0":[8,0,0,0,1,3,5,10,1,1,11,1],
 "d6/dd9/boss__skadi_8cpp.html#a3b338962b46bf75dd39d5d74d3ed2d4a":[8,0,0,0,1,3,5,10,1,1,20],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,10,1,1,17],
 "d6/dd9/boss__skadi_8cpp.html#a5bd342133be8c2137b831460acc9298ca12963cbf075e245f47724a9d5465257b":[8,0,0,0,1,3,5,10,1,1,17,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX194 =
 "d6/de7/classspell__pri__mana__leech.html#a4cb08499767ab58f0e525c382b662fbd":[7,0,3866,4],
 "d6/de7/classspell__pri__mana__leech.html#a7b9426e18b454bf631992518c2bdbde0":[7,0,3866,6],
 "d6/de7/classspell__pri__mana__leech.html#a82218c6f6319c60c26a7d4ec01b64bf9":[7,0,3866,1],
-"d6/de7/classspell__pri__mana__leech.html#aa6165f28706d49940dd1f62065631119":[7,0,3866,5],
-"d6/de7/classspell__pri__mana__leech.html#ab8f483be4d01aa2460c90b043d7a441b":[7,0,3866,3],
-"d6/de7/classspell__pri__mana__leech.html#ab9054a6d771022e4bf2b495c30ad8361":[7,0,3866,2]
+"d6/de7/classspell__pri__mana__leech.html#aa6165f28706d49940dd1f62065631119":[7,0,3866,5]
 };

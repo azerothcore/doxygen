@@ -1,5 +1,7 @@
 var NAVTREEINDEX179 =
 {
+"d6/d38/classChatHandler.html#a93c66f4db98f9fa0e8f09445f36acdac":[7,0,894,18],
+"d6/d38/classChatHandler.html#a951840fcd02a7b80eba052ff0639aad9":[7,0,894,20],
 "d6/d38/classChatHandler.html#a9819eb4f3d8aecfe12d794fe87c811f4":[7,0,894,13],
 "d6/d38/classChatHandler.html#a9eb9fd8a86753697f7b978b80b6d7a7f":[7,0,894,52],
 "d6/d38/classChatHandler.html#aa6ba050fe60067fcfb5fe02b4f2d5530":[7,0,894,24],
@@ -247,7 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d3d/structnpc__terenas__menethil_1_1npc__terenas__menethilAI.html#ae61e4919b99a2b9195a389992947a125":[7,0,2222,0,6],
 "d6/d3d/structnpc__terenas__menethil_1_1npc__terenas__menethilAI.html#ae62a6f965ffb11d633190f1ca4122bc9":[7,0,2222,0,2],
 "d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html":[7,0,4704],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8":[7,0,4704,29],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1bd7efd399a13fe679c76a8f3c2e59ee":[7,0,4704,11],
-"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb":[7,0,4704,26]
+"d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8":[7,0,4704,29]
 };

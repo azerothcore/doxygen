@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"d5/dfb/classObjectMgr.html#aff7a95599cbe0e0d5911a1a98781137d":[7,0,2367,312],
+"d5/dfb/classObjectMgr.html#aff8770b00f2f83eb459815fad61e1d6f":[7,0,2367,288],
 "d5/dfb/classspell__brewfest__apple__trap.html":[7,0,2756],
 "d5/dfb/classspell__brewfest__apple__trap.html#a03f752d4d4762698e5777a4ae0e395cf":[7,0,2756,2],
 "d5/dfb/classspell__brewfest__apple__trap.html#a3498c9eb96bf1a6a85ded114e995850c":[7,0,2756,0],
@@ -216,14 +218,14 @@ var NAVTREEINDEX172 =
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[7,0,0,5,6,4],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[5,0,0,8,6,0],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[7,0,0,5,6,0],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[5,0,0,8,6,7],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[7,0,0,5,6,7],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[5,0,0,8,6,6],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[5,0,0,8,6,7],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[7,0,0,5,6,6],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[5,0,0,8,6,2],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[5,0,0,8,6,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[7,0,0,5,6,2],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[5,0,0,8,6,5],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[5,0,0,8,6,2],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[7,0,0,5,6,5],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[5,0,0,8,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[5,0,0,8,6,3],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[7,0,0,5,6,3],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[7,0,0,5,6,1],
@@ -243,11 +245,9 @@ var NAVTREEINDEX172 =
 "d6/d09/classSpawnedPoolData.html#a12d99faba9817b421ed017809f5b5522":[7,0,2647,13],
 "d6/d09/classSpawnedPoolData.html#a165a58aeee8e57f3a1f325aad6194fca":[7,0,2647,5],
 "d6/d09/classSpawnedPoolData.html#a25dc9578a54fd03f8dc52cd540be0fc3":[7,0,2647,1],
-"d6/d09/classSpawnedPoolData.html#a3332ac01f79565a51a42ced1ccda75ce":[7,0,2647,18],
 "d6/d09/classSpawnedPoolData.html#a3332ac01f79565a51a42ced1ccda75ce":[7,0,2647,19],
+"d6/d09/classSpawnedPoolData.html#a3332ac01f79565a51a42ced1ccda75ce":[7,0,2647,18],
 "d6/d09/classSpawnedPoolData.html#a359ce23f8902a5d167c371fa08b77622":[7,0,2647,8],
 "d6/d09/classSpawnedPoolData.html#a3acf82d50d29f8a6709f3945852814b3":[7,0,2647,0],
-"d6/d09/classSpawnedPoolData.html#a482389c673a3dad0a989584daeff718e":[7,0,2647,21],
-"d6/d09/classSpawnedPoolData.html#a5f817e3b7c3d5b828862c74a221d4a84":[7,0,2647,23],
-"d6/d09/classSpawnedPoolData.html#a65c0992944ce39744ae424335c1ac8db":[7,0,2647,22]
+"d6/d09/classSpawnedPoolData.html#a482389c673a3dad0a989584daeff718e":[7,0,2647,21]
 };

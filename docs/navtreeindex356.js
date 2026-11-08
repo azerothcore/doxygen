@@ -1,5 +1,7 @@
 var NAVTREEINDEX356 =
 {
+"dd/d8b/classMotdMgr.html#a21aa89787d5b0bbf69158f799122edd5":[7,0,1578,5],
+"dd/d8b/classMotdMgr.html#a7e317c2855b4ff96c2796081988bdf4f":[7,0,1578,6],
 "dd/d8b/classMotdMgr.html#ab589dd8bfad950e02ee716ea9005253f":[7,0,1578,1],
 "dd/d8b/classitem__commandscript.html":[7,0,1418],
 "dd/d8b/classitem__commandscript.html#a22f9cb46f2c3701fc5c9136c87c09435":[7,0,1418,0],
@@ -220,12 +222,12 @@ var NAVTREEINDEX356 =
 "dd/d8d/structboss__halycon.html#a48bd1245ac5b76dac543a4389a8b37be":[7,0,537,1],
 "dd/d8d/structboss__halycon.html#a8a88f0d26b4702fd1b4f015cc1366362":[7,0,537,0],
 "dd/d8d/structboss__halycon.html#acc375743131ce5643d04ae355b6d68b4":[7,0,537,4],
-"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[5,0,35,13,3],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[7,0,13,13,3],
+"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[5,0,35,13,3],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[7,0,13,13,3,0],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[5,0,35,13,3,0],
-"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[7,0,13,13,3,1],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[5,0,35,13,3,1],
+"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[7,0,13,13,3,1],
 "dd/d8e/classspell__gen__despawn__self.html":[7,0,3075],
 "dd/d8e/classspell__gen__despawn__self.html#a738318535196b3d55e8f1b3da4f76c95":[7,0,3075,1],
 "dd/d8e/classspell__gen__despawn__self.html#a9037eddf4c9ce96c15c57e8906bd9a5f":[7,0,3075,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX356 =
 "dd/d8f/structnpc__enslaved__proto__drake.html#ad2a25f78a82e0f2cef1e7809cb1d7d89":[7,0,1817,1],
 "dd/d8f/structnpc__enslaved__proto__drake.html#adb997badd8831dea7763eaecc93b7773":[7,0,1817,6],
 "dd/d8f/structnpc__enslaved__proto__drake.html#aec835fdc8b1beb270176d5341d26c265":[7,0,1817,0],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[5,0,0,25],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[7,0,0,13],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[7,0,0,13,0]
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[5,0,0,25]
 };

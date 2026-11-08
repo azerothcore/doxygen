@@ -1,5 +1,7 @@
 var NAVTREEINDEX225 =
 {
+"d8/d12/structnpc__infra__green__bomber__generic_1_1npc__infra__green__bomber__genericAI.html#a5727c839b7dd02ea64eccce3606688d1":[7,0,1944,0,4],
+"d8/d12/structnpc__infra__green__bomber__generic_1_1npc__infra__green__bomber__genericAI.html#a79676717b7c6219ea74ebe5a580eab28":[7,0,1944,0,3],
 "d8/d12/structnpc__infra__green__bomber__generic_1_1npc__infra__green__bomber__genericAI.html#a8f860368df96e430b441c8316db99c93":[7,0,1944,0,1],
 "d8/d12/structnpc__infra__green__bomber__generic_1_1npc__infra__green__bomber__genericAI.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc":[7,0,1944,0,2],
 "d8/d12/structnpc__infra__green__bomber__generic_1_1npc__infra__green__bomber__genericAI.html#ae8795439197b9cbfb70bbf5a672b8019":[7,0,1944,0,6],
@@ -242,12 +244,10 @@ var NAVTREEINDEX225 =
 "d8/d20/SpellAuras_8h.html":[8,0,0,0,1,2,41,0,4],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html":[7,0,0,48],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html":[5,0,0,60],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[7,0,0,48,3],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[5,0,0,60,3],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a47b3e24f7100d13180ad1946647999ae":[7,0,0,48,0],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[7,0,0,48,3],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a47b3e24f7100d13180ad1946647999ae":[5,0,0,60,0],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a92d1c58d76d5d450892338d0e1856dc0":[7,0,0,48,2],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a47b3e24f7100d13180ad1946647999ae":[7,0,0,48,0],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a92d1c58d76d5d450892338d0e1856dc0":[5,0,0,60,2],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#aa45be322836be588d8df2b253a22ee5c":[5,0,0,60,5],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#aa45be322836be588d8df2b253a22ee5c":[7,0,0,48,5]
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a92d1c58d76d5d450892338d0e1856dc0":[7,0,0,48,2]
 };

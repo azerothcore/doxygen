@@ -1,5 +1,7 @@
 var NAVTREEINDEX382 =
 {
+"de/d12/VMapTools_8h.html#aa54c7fcd0c551f1db5fc34a2f6b11e74":[8,0,0,0,0,1,10,2],
+"de/d12/classAllCreatureScript.html":[7,0,154],
 "de/d12/classAllCreatureScript.html#a1e568b6f85a8b60a65a987c8d081ca3e":[7,0,154,6],
 "de/d12/classAllCreatureScript.html#a2cf3bd5ad27bf97fde905bc69a6dec5e":[7,0,154,1],
 "de/d12/classAllCreatureScript.html#a31659a18df4206122a56ce69f3e4809d":[7,0,154,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX382 =
 "de/d1c/classGameObject.html#a6c584d5d6a7e7d357d8d8975e967edd5":[7,0,1115,10],
 "de/d1c/classGameObject.html#a6d1d06e0cdc6ace4ad5b6581f9983a7c":[7,0,1115,113],
 "de/d1c/classGameObject.html#a6f60bc385f38fe16997894b47d2cf3f9":[7,0,1115,195],
-"de/d1c/classGameObject.html#a711ba7caffb564c6d26e3460f80047cb":[7,0,1115,46],
-"de/d1c/classGameObject.html#a74af72f3c57d69a83f02a79a51c55738":[7,0,1115,109],
-"de/d1c/classGameObject.html#a75c7d2fb3387f66bdcee4b8e1267d6ef":[7,0,1115,141]
+"de/d1c/classGameObject.html#a711ba7caffb564c6d26e3460f80047cb":[7,0,1115,46]
 };

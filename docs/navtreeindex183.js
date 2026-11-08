@@ -1,5 +1,7 @@
 var NAVTREEINDEX183 =
 {
+"d6/d5d/structLogHeader.html#aff4e4f46725d72923bac3e197ae7d2e3":[7,0,1488,4],
+"d6/d5e/PathCommon_8h.html":[8,0,0,0,3,2,6],
 "d6/d5e/PathCommon_8h.html#a030b28c9f552c0de4a4b4844fc5e6101":[8,0,0,0,3,2,6,0],
 "d6/d5e/PathCommon_8h.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6":[8,0,0,0,3,2,6,0,0],
 "d6/d5e/PathCommon_8h.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687":[8,0,0,0,3,2,6,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d68/classspell__gen__bg__preparation.html#accf6cc89fed8dbf7c3cee201f1e9e806":[7,0,3047,0],
 "d6/d68/classspell__gen__bg__preparation.html#ad96a6059cb2f4bdf8e2b341d0a6e294f":[7,0,3047,4],
 "d6/d68/classspell__gen__bg__preparation.html#aff726eef4dbd10dd71f1614ab6755ea1":[7,0,3047,3],
-"d6/d68/structnpc__flameshocker.html":[7,0,1835],
-"d6/d68/structnpc__flameshocker.html#a13cb88e2b33df2d910fb73053684b420":[7,0,1835,2],
-"d6/d68/structnpc__flameshocker.html#aba94a5bcec75c649049d5816a53ace58":[7,0,1835,1]
+"d6/d68/structnpc__flameshocker.html":[7,0,1835]
 };

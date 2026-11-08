@@ -1,5 +1,7 @@
 var NAVTREEINDEX182 =
 {
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a2023ffb2903e2113d956d53e72447764":[8,0,0,0,1,3,9,0,67,53],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a2179a0340bd4b408d78de3d2b563db12":[8,0,0,0,1,3,9,0,67,26],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a234b494cc45b5d3addb18fa3dfb73e5c":[8,0,0,0,1,3,9,0,67,2],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a23e4d40e601e91d21c3d955781a52ddb":[8,0,0,0,1,3,9,0,67,56],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a2aed45563fba2244820b2c42126a6d6a":[8,0,0,0,1,3,9,0,67,9],
@@ -220,18 +222,18 @@ var NAVTREEINDEX182 =
 "d6/d5c/classAcore_1_1ACLogSink.html":[5,0,0,19],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,0,19,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[7,0,0,7,2],
-"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[7,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[5,0,0,19,4],
+"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[7,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,0,19,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[7,0,0,7,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[7,0,0,7,1],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[5,0,0,19,1],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[7,0,0,7,3],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,0,19,3],
-"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[5,0,0,34],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[7,0,0,22],
-"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,0,34,0],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[5,0,0,34],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[7,0,0,22,0],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,0,34,0],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html":[7,0,2744],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a2301414a88dcbf4bdc8a486ec4be994e":[7,0,2744,5],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a43fc6a16aca217ef043fa34a58391357":[7,0,2744,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d5d/structLogHeader.html#a95d3f116ef30a096970ee4f3dd10e2ed":[7,0,1488,6],
 "d6/d5d/structLogHeader.html#aa5ed2806342a36723f1317105ebc13fa":[7,0,1488,0],
 "d6/d5d/structLogHeader.html#abf0c90aa56c9f74e4139b4a1ead3115e":[7,0,1488,1],
-"d6/d5d/structLogHeader.html#acdcbe4c10ad6143b756638349c185ae5":[7,0,1488,2],
-"d6/d5d/structLogHeader.html#aff4e4f46725d72923bac3e197ae7d2e3":[7,0,1488,4],
-"d6/d5e/PathCommon_8h.html":[8,0,0,0,3,2,6]
+"d6/d5d/structLogHeader.html#acdcbe4c10ad6143b756638349c185ae5":[7,0,1488,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX300 =
 {
+"db/d6e/spell__item_8cpp.html#a9125e7bd2bb628408accceaac03cbf96a09a4f94d54da72b35220c9d8711fdd9a":[8,0,0,0,1,3,9,4,190,0],
+"db/d6e/spell__item_8cpp.html#a9206680d9ac44d81dddcca671878b21e":[8,0,0,0,1,3,9,4,172],
 "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19":[8,0,0,0,1,3,9,4,176],
 "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19a1db81c4c6f2c0e30e67842ae35bd03df":[8,0,0,0,1,3,9,4,176,0],
 "db/d6e/spell__item_8cpp.html#a950b3b79963edb52bb22c52735760c19a292e4ce388b3e31d2531773dad4c9522":[8,0,0,0,1,3,9,4,176,4],
@@ -211,12 +213,12 @@ var NAVTREEINDEX300 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[7,0,2583,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[7,0,0,108,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[5,0,0,120,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[7,0,0,108,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[5,0,0,120,0,1],
 "db/d72/structLootItem.html":[7,0,1496],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[7,0,1496,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[7,0,1496,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX300 =
 "db/d73/classnpc__idol__room__spawner.html#ac51fed89c27ebf6ae3cf65ca8909eab1":[7,0,1937,1],
 "db/d73/classspell__item__pendant__of__the__violet__eye.html":[7,0,3487],
 "db/d73/classspell__item__pendant__of__the__violet__eye.html#ad9f4946abaf474e31b518b57e1de5bf1":[7,0,3487,2],
-"db/d73/classspell__item__pendant__of__the__violet__eye.html#adf2825375a332d2829778d2a57c6f511":[7,0,3487,1],
-"db/d73/classspell__item__pendant__of__the__violet__eye.html#ae67afabe644d2e11f85950d02325373a":[7,0,3487,0],
-"db/d73/classspell__q12641__rain__of__darkness.html":[7,0,3982]
+"db/d73/classspell__item__pendant__of__the__violet__eye.html#adf2825375a332d2829778d2a57c6f511":[7,0,3487,1]
 };

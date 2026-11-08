@@ -1,5 +1,7 @@
 var NAVTREEINDEX235 =
 {
+"d8/d81/VMapMgr2_8cpp.html":[8,0,0,0,0,1,0,5],
+"d8/d81/classspell__q12987__read__pronouncement.html":[7,0,4000],
 "d8/d81/classspell__q12987__read__pronouncement.html#a50ced6d5a475ccad9429dfbb05130394":[7,0,4000,0],
 "d8/d81/classspell__q12987__read__pronouncement.html#a8c09775f642335252c6e548900dc9d3a":[7,0,4000,2],
 "d8/d81/classspell__q12987__read__pronouncement.html#abd02e129b1201449d473a66aea77d569":[7,0,4000,1],
@@ -180,12 +182,12 @@ var NAVTREEINDEX235 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4666,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4666,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4666,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,35,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,35,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,35,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,35,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,35,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[7,0,586],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[7,0,586,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[7,0,586,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX235 =
 "d8/d8e/classHookList.html#a3a4a52377c59e360b9aa164940b06285":[7,0,1311,3],
 "d8/d8e/classHookList.html#a5bb439ae8dd02302f19581d2771c570c":[7,0,1311,6],
 "d8/d8e/classHookList.html#a6dffd4b0ef103e34fca8d474856ca8d3":[7,0,1311,2],
-"d8/d8e/classHookList.html#ab7d2c8fa95d8256bba7b6b3ccdcff251":[7,0,1311,1],
-"d8/d8e/classHookList.html#ae5c430c031dffae3c3b270c527b0cc70":[7,0,1311,4],
-"d8/d90/classinstance__blackfathom__deeps.html":[7,0,1332]
+"d8/d8e/classHookList.html#ab7d2c8fa95d8256bba7b6b3ccdcff251":[7,0,1311,1]
 };

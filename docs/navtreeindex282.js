@@ -1,5 +1,7 @@
 var NAVTREEINDEX282 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422eca4f9d035431da4bdb746a4e08fc6425e0":[8,0,0,0,1,3,7,13,42,1],
+"da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422eca6cadc7fa90937b8d5727d19ad97478dc":[8,0,0,0,1,3,7,13,42,2],
 "da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422eca84c159e72b76bf1699302c28c7da3016":[8,0,0,0,1,3,7,13,42,5],
 "da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422ecac7fd29ccba65af8d63b83beb9cdbb597":[8,0,0,0,1,3,7,13,42,4],
 "da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422ecad453298ccc9b6b3ab0523dfafb9f548f":[8,0,0,0,1,3,7,13,42,0],
@@ -130,8 +132,8 @@ var NAVTREEINDEX282 =
 "da/dae/classspell__dru__glyph__of__shred.html#a92286b3f92c332165ba5d850c7f1ec9b":[7,0,2923,3],
 "da/dae/classspell__dru__glyph__of__shred.html#ad47d6005c7fafce9fe5941d4c05cd6d0":[7,0,2923,0],
 "da/dae/classspell__dru__glyph__of__shred.html#afdfb44a437afb1329794fe4d0e8d3874":[7,0,2923,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[7,0,13,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,35,8,10],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[7,0,13,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,35,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[7,0,13,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,35,8,10,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX282 =
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,0,3,0,3,1],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,0,3,0,3,3],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,7,0,3,0,3,0],
-"da/db5/structlfg_1_1LfgProposal.html":[7,0,5,10],
-"da/db5/structlfg_1_1LfgProposal.html":[5,0,18,10],
-"da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[7,0,5,10,7]
+"da/db5/structlfg_1_1LfgProposal.html":[7,0,5,10]
 };

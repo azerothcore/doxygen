@@ -1,5 +1,7 @@
 var NAVTREEINDEX227 =
 {
+"d8/d35/structCastSpellExtraArgs.html#a69a2dd620aa1df727931451ea0db48ac":[7,0,862,12],
+"d8/d35/structCastSpellExtraArgs.html#a6a2107d1c9ab21b51e810a32a5c6f165":[7,0,862,8],
 "d8/d35/structCastSpellExtraArgs.html#a7f5e5133a161e38b890b4c3987656ccf":[7,0,862,5],
 "d8/d35/structCastSpellExtraArgs.html#a8678546c5b7f2e9df5f6bdab8ecaa3d5":[7,0,862,9],
 "d8/d35/structCastSpellExtraArgs.html#a8a88c84c5e59e6e2321a47d0d19f3e4b":[7,0,862,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX227 =
 "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ae15c008b2a35216cb0ad9551894dfd3f":[8,0,0,0,1,3,5,10,1,6,3,8],
 "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ae7e91ea718aa7b9c33376b971834bda2":[8,0,0,0,1,3,5,10,1,6,3,10],
 "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63af401dca375b515a11f8341799438d677":[8,0,0,0,1,3,5,10,1,6,3,1],
-"d8/d3c/structItemLimitCategoryEntry.html":[7,0,1429],
-"d8/d3c/structItemLimitCategoryEntry.html#a5edc6442e026b12dae654fa86440a11a":[7,0,1429,1],
-"d8/d3c/structItemLimitCategoryEntry.html#a76553ecf9f880a5e5967f818123742fd":[7,0,1429,2]
+"d8/d3c/structItemLimitCategoryEntry.html":[7,0,1429]
 };

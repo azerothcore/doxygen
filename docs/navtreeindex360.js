@@ -1,5 +1,7 @@
 var NAVTREEINDEX360 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aa28430f0a5d0543cda73d5c7b6edf40a":[8,0,0,0,1,3,5,23,36,0],
+"dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aa7a7afd87ce65cacea1c3cc271699f32":[8,0,0,0,1,3,5,23,36,2],
 "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aef782ab1e88176f53486813628fea63d":[8,0,0,0,1,3,5,23,36,4],
 "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b":[8,0,0,0,1,3,5,23,36,6],
 "dd/db2/zone__storm__peaks_8cpp.html#a13f23d172b595c02e80c65c040685644":[8,0,0,0,1,3,5,23,45],
@@ -232,12 +234,12 @@ var NAVTREEINDEX360 =
 "dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[7,0,642,1],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[7,0,642,10],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[7,0,642,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,0,8,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
 "dd/dbc/classspell__warr__vigilance__trigger.html":[7,0,4425],
 "dd/dbc/classspell__warr__vigilance__trigger.html#a1b9a4c78a43cf406f1db75c518a343ea":[7,0,4425,3],
 "dd/dbc/classspell__warr__vigilance__trigger.html#ab363d596d2d1e030f0cc07126b40e921":[7,0,4425,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX360 =
 "dd/dbd/classspell__item__crystal__spire__of__karabor.html#a13c9e5a0a2a6945dfa5a4425be08703d":[7,0,3401,2],
 "dd/dbd/classspell__item__crystal__spire__of__karabor.html#a5fd08c4ff5ba410458a67eb91e612267":[7,0,3401,1],
 "dd/dbd/classspell__item__crystal__spire__of__karabor.html#adb21bbda83cf0fdc30e64cabc0fb0d1c":[7,0,3401,0],
-"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html":[7,0,1850,0],
-"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a0ffc4cd2e9b61ad17c516f062d161feb":[7,0,1850,0,4],
-"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a24bb49f47dcf85c95039d0495a89e126":[7,0,1850,0,3]
+"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html":[7,0,1850,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX330 =
 {
+"dc/d39/structnpc__janalai__hatcher.html#ab775a888ae1002eed3ed548ab89ca2e4":[7,0,1957,5],
+"dc/d39/structnpc__janalai__hatcher.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12":[7,0,1957,9],
 "dc/d3a/classStandUpEvent.html":[7,0,4558],
 "dc/d3a/classStandUpEvent.html#a2f68b19898c65b9229159d9133b3d7cf":[7,0,4558,0],
 "dc/d3a/classStandUpEvent.html#a456a494140657d81b203834f7b88d5d1":[7,0,4558,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX330 =
 "dc/d49/classspell__gen__showlabel__on.html#a2c88a98e1f76f62f745dbd83fa939506":[7,0,3159,0],
 "dc/d49/classspell__gen__showlabel__on.html#a93dcf131a040c95ef1b8cc5ec1d3bc37":[7,0,3159,1],
 "dc/d4a/classAuctionHouseWorkerThread.html":[7,0,278],
-"dc/d4a/classAuctionHouseWorkerThread.html#a2b455c5d62c280c97d30d3b02ce7601d":[7,0,278,8],
-"dc/d4a/classAuctionHouseWorkerThread.html#a31f1510cd146eac4718c6577caf72cc4":[7,0,278,12],
-"dc/d4a/classAuctionHouseWorkerThread.html#a3cc7697e74c9acd6dd902a75044d64d3":[7,0,278,4]
+"dc/d4a/classAuctionHouseWorkerThread.html#a2b455c5d62c280c97d30d3b02ce7601d":[7,0,278,8]
 };

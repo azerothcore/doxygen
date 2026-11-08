@@ -1,5 +1,7 @@
 var NAVTREEINDEX249 =
 {
+"d9/d48/structnpc__medivh__bm.html#a1a33f613b083763c952882cdb82a35c1":[7,0,2011,6],
+"d9/d48/structnpc__medivh__bm.html#a1d4fe5bc964d12e812a178c68e2f037f":[7,0,2011,10],
 "d9/d48/structnpc__medivh__bm.html#a23f04c433faf7da663b2edffb2a0440d":[7,0,2011,0],
 "d9/d48/structnpc__medivh__bm.html#a45e129d61c3987e4bff94485db739eb1":[7,0,2011,11],
 "d9/d48/structnpc__medivh__bm.html#a6e766596b69b52690635ee91e6e8d164":[7,0,2011,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX249 =
 "d9/d57/classspell__freezing__cloud__damage.html#ad92126f58e8ac8c83449725bc29fda8b":[7,0,3008,0],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html":[7,0,1390,0],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a02e6df2528dc6be81fd4cdcd6fc69472":[7,0,1390,0,3],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a06fe3738599d1ee074fcbbe20dcd6349":[7,0,1390,0,5],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a1300b4370a3b3d69559eaea9dc20e838":[7,0,1390,0,19],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a143d2cd7d70384c0e164dba58c087c5d":[7,0,1390,0,4]
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a06fe3738599d1ee074fcbbe20dcd6349":[7,0,1390,0,5]
 };

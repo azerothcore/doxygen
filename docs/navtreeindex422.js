@@ -1,5 +1,7 @@
 var NAVTREEINDEX422 =
 {
+"df/da7/classBattleground.html#a3bd97b3f9648bb9dbf1aa37dc7baeca6":[7,0,330,239],
+"df/da7/classBattleground.html#a3bfa820dd5ca7c2a3d0f6ac6ee9adb1f":[7,0,330,240],
 "df/da7/classBattleground.html#a3cf144c23cb91a7b7da6c94c47da60de":[7,0,330,226],
 "df/da7/classBattleground.html#a3d7ecd40b66cb331a19a40813406086a":[7,0,330,125],
 "df/da7/classBattleground.html#a3e7c5522e47f34a28113da603895112d":[7,0,330,91],
@@ -196,8 +198,8 @@ var NAVTREEINDEX422 =
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,35,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[7,0,13,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,35,2,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,35,2,9,2],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[7,0,13,2,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,35,2,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[7,0,3060],
 "df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[7,0,3060,2],
 "df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[7,0,3060,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX422 =
 "df/daa/classLambdaBasicEvent.html#a8771a49f00554372b5ed38816abbd253":[7,0,1447,1],
 "df/daa/classspell__doomfire.html":[7,0,2889],
 "df/daa/classspell__doomfire.html#a093b09be5abde91a1487d67a7a554d30":[7,0,2889,3],
-"df/daa/classspell__doomfire.html#a24058b120f4fa06b89f6d582c53a365a":[7,0,2889,2],
-"df/daa/classspell__doomfire.html#a59a9c4dfe06859daac5bb69fa5d20e95":[7,0,2889,1],
-"df/daa/classspell__doomfire.html#aa94e4d6a31a08959a5287b863737c2e2":[7,0,2889,0]
+"df/daa/classspell__doomfire.html#a24058b120f4fa06b89f6d582c53a365a":[7,0,2889,2]
 };

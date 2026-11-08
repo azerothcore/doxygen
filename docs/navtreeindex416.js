@@ -1,5 +1,7 @@
 var NAVTREEINDEX416 =
 {
+"df/d68/structnpc__flame__of__azzinoth.html#ae797d929b0e9c8953a4c9efd392a21f3":[7,0,1834,5],
+"df/d6a/boss__warlord__najentus_8cpp.html":[8,0,0,0,1,3,7,1,9],
 "df/d6a/boss__warlord__najentus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,7,1,9,5],
 "df/d6a/boss__warlord__najentus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9b580e191197b2fffc3b57c3854324d1":[8,0,0,0,1,3,7,1,9,5,0],
 "df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,7,1,9,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX416 =
 "df/d72/classAccountMgr.html#a30b6e5cf1733f0143f86aaeff600215c":[7,0,30,20],
 "df/d72/classAccountMgr.html#a3382c6430bfbf14e32ca11b5ac68fc23":[7,0,30,7],
 "df/d72/classAccountMgr.html#a378d0337dd3fdb837530c4fbb11d5f39":[7,0,30,2],
-"df/d72/classAccountMgr.html#a3dee71cb876511a98423727312e60a99":[7,0,30,4],
-"df/d72/classAccountMgr.html#a4fb760897161c3d463f842b28bcf7c20":[7,0,30,13],
-"df/d72/classAccountMgr.html#a542396a3e0f8ab0af8800a567afa45c3":[7,0,30,28]
+"df/d72/classAccountMgr.html#a3dee71cb876511a98423727312e60a99":[7,0,30,4]
 };

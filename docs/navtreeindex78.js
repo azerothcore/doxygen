@@ -218,7 +218,6 @@ var NAVTREEINDEX78 =
 "d2/de9/classSpellInfo.html#a74f4db121e6f113d34825a6e437c8d97":[7,0,4501,3],
 "d2/de9/classSpellInfo.html#a75b3a93f43d40d6268103e412cf57797":[7,0,4501,145],
 "d2/de9/classSpellInfo.html#a75e80fd4e12d1c445584627bb4bf9c84":[7,0,4501,73],
-"d2/de9/classSpellInfo.html#a76a5a1dbcfa36ca9bb00ee896760ca43":[7,0,4501,22],
 "d2/de9/classSpellInfo.html#a78bbf3a5574a188116846fbc77a57768":[7,0,4501,195],
 "d2/de9/classSpellInfo.html#a7909fc70161065f6107211ee8ed3c6bf":[7,0,4501,179],
 "d2/de9/classSpellInfo.html#a79f537bec2a06fb538a6ad7f888c7b8b":[7,0,4501,117],
@@ -249,5 +248,6 @@ var NAVTREEINDEX78 =
 "d2/de9/classSpellInfo.html#a90cea176a06543484be7809b8ec25441":[7,0,4501,183],
 "d2/de9/classSpellInfo.html#a910589a69440308d9cddfb4bc741e457":[7,0,4501,10],
 "d2/de9/classSpellInfo.html#a922014dec721a3c3725d821080f959e0":[7,0,4501,113],
-"d2/de9/classSpellInfo.html#a9255e2efd806f99a9ef5b7a3ea0ab627":[7,0,4501,28]
+"d2/de9/classSpellInfo.html#a9255e2efd806f99a9ef5b7a3ea0ab627":[7,0,4501,28],
+"d2/de9/classSpellInfo.html#a93b51808183b35049d7e5847acee0390":[7,0,4501,84]
 };

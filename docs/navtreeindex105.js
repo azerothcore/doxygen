@@ -246,8 +246,8 @@ var NAVTREEINDEX105 =
 "d3/d80/WorldSocket_8h.html":[8,0,0,0,1,2,39,10],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[7,0,5,4,0],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3]
 };

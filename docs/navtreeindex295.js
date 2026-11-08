@@ -1,5 +1,7 @@
 var NAVTREEINDEX295 =
 {
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a2b8c47299a68e7d69008083d49aa1c33":[7,0,2306,0,10],
+"db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a2b99d9de8ccc94725510c97e170ac8d5":[7,0,2306,0,6],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a46c748273b495368255f8668f5da8bdd":[7,0,2306,0,11],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a4e4a3d24f853fda03c52dc11b56f4306":[7,0,2306,0,15],
 "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a575802dd7bf6d7359724d725b62ce604":[7,0,2306,0,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX295 =
 "db/d41/structnpc__sentinel__leader.html#a583c43b047dd5c172938d60ef647ecd5":[7,0,2167,0],
 "db/d41/structnpc__sentinel__leader.html#a6d51ada16fac1f5eda8b09aede746a4b":[7,0,2167,2],
 "db/d41/structnpc__sentinel__leader.html#a803c324e790cd74e90ff6c2adde37ba3":[7,0,2167,6],
-"db/d41/structnpc__sentinel__leader.html#a92c83a7fcc04df1db3be1d16f4a461d0":[7,0,2167,1],
-"db/d41/structnpc__sentinel__leader.html#aa689bb8189eb8cf842a0aa63bb9f1a73":[7,0,2167,4],
-"db/d41/structnpc__sentinel__leader.html#ad638ba6ce33753af6a0165c053a90d78":[7,0,2167,3]
+"db/d41/structnpc__sentinel__leader.html#a92c83a7fcc04df1db3be1d16f4a461d0":[7,0,2167,1]
 };

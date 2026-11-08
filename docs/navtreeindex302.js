@@ -1,5 +1,7 @@
 var NAVTREEINDEX302 =
 {
+"db/d81/structnpc__costumed__orphan__matron.html#a0b913090588613ac00ea928f6273d56f":[7,0,1756,0],
+"db/d81/structnpc__costumed__orphan__matron.html#a1a9c58c087b8addf8e482375737d6c49":[7,0,1756,4],
 "db/d81/structnpc__costumed__orphan__matron.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533":[7,0,1756,2],
 "db/d81/structnpc__costumed__orphan__matron.html#a4679d807df8749265ba0453c5b7588f1":[7,0,1756,6],
 "db/d81/structnpc__costumed__orphan__matron.html#a5292ab4e45fe3a858b3a59ef4a79bb34":[7,0,1756,8],
@@ -239,15 +241,13 @@ var NAVTREEINDEX302 =
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[7,0,13,13,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,35,13,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[7,0,13,13,1,2],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,35,13,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[7,0,13,13,1,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,35,13,1,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,35,13,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[7,0,13,13,1,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,35,13,1,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html":[7,0,3415],
 "db/d89/classspell__item__dimensional__ripper__area52.html#a600eb87e8bbedd3504e3d259f89e3785":[7,0,3415,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052":[7,0,3415,0],
 "db/d89/classspell__item__dimensional__ripper__area52.html#a8ae826705bd1a1f1da3160be73926d7b":[7,0,3415,2],
-"db/d89/classspell__item__dimensional__ripper__area52.html#abda715e38cf19fa7276ec4f4a12d3b63":[7,0,3415,3],
-"db/d8a/SpellProcAttributeTest_8cpp.html":[8,0,0,0,2,2,0,11,11],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a02bd4f6e5e771d5f4ef2cd70cf84a7fb":[8,0,0,0,2,2,0,11,11,5]
+"db/d89/classspell__item__dimensional__ripper__area52.html#abda715e38cf19fa7276ec4f4a12d3b63":[7,0,3415,3]
 };

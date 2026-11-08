@@ -1,5 +1,7 @@
 var NAVTREEINDEX256 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ab0b53acc2b4505b4fea9d904562757d0":[8,0,0,0,1,3,5,9,2,1,12,3],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165accde0f15acdcdd79daae690e26a51739":[8,0,0,0,1,3,5,9,2,1,12,9],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ad2144fd58d2461cfcb17fd2a61fe59bc":[8,0,0,0,1,3,5,9,2,1,12,0],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ad3a87a2c88efa21ff935e2ee8e6fb1ac":[8,0,0,0,1,3,5,9,2,1,12,11],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165adb3c4c4961002363d163bc8a85a9e168":[8,0,0,0,1,3,5,9,2,1,12,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX256 =
 "d9/d93/classspell__shadow__sickle__periodic__damage.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef":[7,0,4171,2],
 "d9/d93/structSpellRangeEntry.html":[7,0,4537],
 "d9/d93/structSpellRangeEntry.html#a127a46f2382edea750ca567d5ea3d304":[7,0,4537,3],
-"d9/d93/structSpellRangeEntry.html#a12b3cb0e28ed0f47ff5ccea09fc8b860":[7,0,4537,0],
-"d9/d93/structSpellRangeEntry.html#a9691134e5cb1e15e3c93ea05a653975d":[7,0,4537,2],
-"d9/d93/structSpellRangeEntry.html#ab6ccf4a64672a6ade01f59cdeeeb85cb":[7,0,4537,1]
+"d9/d93/structSpellRangeEntry.html#a12b3cb0e28ed0f47ff5ccea09fc8b860":[7,0,4537,0]
 };

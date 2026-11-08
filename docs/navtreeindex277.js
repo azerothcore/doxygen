@@ -1,5 +1,7 @@
 var NAVTREEINDEX277 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a66178d358d605e8d45d757f38a175b7a":[8,0,0,0,1,3,5,6,10,72,57],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a690000692f6f0bcf8467ac5ae22e55a0":[8,0,0,0,1,3,5,6,10,72,69],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69c89b0f65f6bfde5f92493f0e3ecf75":[8,0,0,0,1,3,5,6,10,72,15],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a737c33193f12241e682a2965cb34ecab":[8,0,0,0,1,3,5,6,10,72,41],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7a07788329d8b23ec18c3f264400d538":[8,0,0,0,1,3,5,6,10,72,64],
@@ -45,8 +47,8 @@ var NAVTREEINDEX277 =
 "da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[7,0,4293,1],
 "da/d7b/MapMgr_8h.html":[8,0,0,0,1,2,26,10],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[8,0,0,0,1,2,26,10,1],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[7,0,9,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,30,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[7,0,9,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,30,0,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[7,0,9,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[8,0,0,0,1,3,2,11,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX277 =
 "da/d82/classreload__commandscript.html#a0085e14e5614df1414d85f5da4f3df59":[7,0,2558,88],
 "da/d82/classreload__commandscript.html#a00cf8720f1766bbc6633b19983348a8f":[7,0,2558,2],
 "da/d82/classreload__commandscript.html#a02258ba1e2dbd951a80de2a989e9c462":[7,0,2558,33],
-"da/d82/classreload__commandscript.html#a0419dd67a787b989d7353a1682965de4":[7,0,2558,94],
-"da/d82/classreload__commandscript.html#a04935c677cdb7330740209c5c8d3dc8a":[7,0,2558,63],
-"da/d82/classreload__commandscript.html#a05d401cc819d506d3e682413d7096d48":[7,0,2558,59]
+"da/d82/classreload__commandscript.html#a0419dd67a787b989d7353a1682965de4":[7,0,2558,94]
 };

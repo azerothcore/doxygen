@@ -1,5 +1,7 @@
 var NAVTREEINDEX341 =
 {
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html":[7,0,4278],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a0fc7ca43a0d82058fc04277742231388":[7,0,4278,2],
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a5bb82c03f7c34e6febd3fe8aa57d4723":[7,0,4278,1],
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html#adfbfcf4ad8671ca4eaa439705f7b6c2a":[7,0,4278,0],
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[7,0,4278,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX341 =
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca2c4d79de099eba7bc6b0698b65705ded":[8,0,0,0,1,3,3,1,38,3],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca36ad54bbee5d57f9f7f912a8ed3a140a":[8,0,0,0,1,3,3,1,38,5],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784caf2538d75def0c158b7a28c33187f39d0":[8,0,0,0,1,3,3,1,38,6],
-"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784caf5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,3,1,38,0],
-"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784cafc9c1989ff6b959b21add6f92af072d8":[8,0,0,0,1,3,3,1,38,2],
-"dc/ddf/brewfest_8cpp.html#a14ebf7554847176e636b96243a89f663":[8,0,0,0,1,3,3,1,33]
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784caf5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,3,1,38,0]
 };

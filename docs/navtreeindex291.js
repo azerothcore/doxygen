@@ -1,5 +1,7 @@
 var NAVTREEINDEX291 =
 {
+"da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[8,0,0,0,1,3,5,9,2,2,13,2],
+"da/df9/boss__auriaya_8cpp.html#ae1c5560392584167965878b18d36a29f":[8,0,0,0,1,3,5,9,2,2,10],
 "da/df9/boss__auriaya_8cpp.html#ae1c5560392584167965878b18d36a29fa3643bbf75101b82f5399848d40ab546b":[8,0,0,0,1,3,5,9,2,2,10,1],
 "da/df9/boss__auriaya_8cpp.html#ae1c5560392584167965878b18d36a29fa60a67ce75cca72014e14ad7e8a85d6cd":[8,0,0,0,1,3,5,9,2,2,10,2],
 "da/df9/boss__auriaya_8cpp.html#ae1c5560392584167965878b18d36a29fae9458a3edab778dc2f3052c1f6002db5":[8,0,0,0,1,3,5,9,2,2,10,0],
@@ -146,8 +148,8 @@ var NAVTREEINDEX291 =
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[7,0,0,93],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,0,105,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[7,0,0,93,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[7,0,0,93,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,0,105,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[7,0,0,93,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,0,105,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[7,0,0,93,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[7,0,0,93,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX291 =
 "db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b":[8,0,0,0,3,2,9,3,2],
 "db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e":[8,0,0,0,3,2,9,3,1],
 "db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04":[8,0,0,0,3,2,9,3,3],
-"db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1":[8,0,0,0,3,2,9,3,0],
-"db/d0b/classspell__oculus__evasive__charges__aura.html":[7,0,3757],
-"db/d0b/classspell__oculus__evasive__charges__aura.html#a2cb77175d7341752bdd8733cfcfe8ed3":[7,0,3757,3]
+"db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1":[8,0,0,0,3,2,9,3,0]
 };

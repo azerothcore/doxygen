@@ -1,5 +1,7 @@
 var NAVTREEINDEX234 =
 {
+"d8/d74/classWorldSession.html#af6218ea9fbf792eb1b82129eddb16cb9":[4,1,20,553],
+"d8/d74/classWorldSession.html#af692e9e281da0af57b30bd06144495d5":[4,1,20,383],
 "d8/d74/classWorldSession.html#af71c30216ee03e9a298661e9df5e1f5d":[4,1,20,505],
 "d8/d74/classWorldSession.html#af75608b38cebbb6cb46d7d0a44521265":[4,1,20,119],
 "d8/d74/classWorldSession.html#af780fe6265d6efe063e51344fe1b88ee":[4,1,20,632],
@@ -86,8 +88,8 @@ var NAVTREEINDEX234 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,1001,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,35,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,35,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,35,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1633],
@@ -247,7 +249,5 @@ var NAVTREEINDEX234 =
 "d8/d80/classspell__item__piccolo__of__the__flaming__fire.html":[7,0,3490],
 "d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d":[7,0,3490,0],
 "d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#a4f0f4d29231ef1976d726b66f6277ca8":[7,0,3490,1],
-"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#ad75843039e582b64da28b4818f48aeb3":[7,0,3490,2],
-"d8/d81/VMapMgr2_8cpp.html":[8,0,0,0,0,1,0,5],
-"d8/d81/classspell__q12987__read__pronouncement.html":[7,0,4000]
+"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#ad75843039e582b64da28b4818f48aeb3":[7,0,3490,2]
 };

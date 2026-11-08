@@ -1,5 +1,7 @@
 var NAVTREEINDEX419 =
 {
+"df/d8a/classboss__baroness__anastari.html#a60f04c10d9b942cacf74a1dc8364dbbe":[7,0,412,1],
+"df/d8b/WardenPayloadMgr_8cpp.html":[8,0,0,0,1,2,47,8],
 "df/d8b/classspell__item__rocket__chicken.html":[7,0,3503],
 "df/d8b/classspell__item__rocket__chicken.html#a000f8fd84e7292ac759b64a8a25d3ca2":[7,0,3503,0],
 "df/d8b/classspell__item__rocket__chicken.html#a2848e44f1520cc32af916a8e6578c3ea":[7,0,3503,1],
@@ -88,12 +90,12 @@ var NAVTREEINDEX419 =
 "df/d8d/structSmartTarget.html#afd68fe281c872f9d960b7eb40cc5fba9":[7,0,2637,29],
 "df/d8e/classMMAP_1_1MMapMgr.html":[7,0,6,5],
 "df/d8e/classMMAP_1_1MMapMgr.html":[5,0,21,5],
-"df/d8e/classMMAP_1_1MMapMgr.html#a0891f2313f7c78182334b43e304bafd0":[7,0,6,5,1],
 "df/d8e/classMMAP_1_1MMapMgr.html#a0891f2313f7c78182334b43e304bafd0":[5,0,21,5,1],
-"df/d8e/classMMAP_1_1MMapMgr.html#a2b1efdb836189224a7ac1247b6c397e5":[7,0,6,5,4],
+"df/d8e/classMMAP_1_1MMapMgr.html#a0891f2313f7c78182334b43e304bafd0":[7,0,6,5,1],
 "df/d8e/classMMAP_1_1MMapMgr.html#a2b1efdb836189224a7ac1247b6c397e5":[5,0,21,5,4],
-"df/d8e/classMMAP_1_1MMapMgr.html#abd4bd2ef84d57be5000ab37ed36ded8c":[7,0,6,5,0],
+"df/d8e/classMMAP_1_1MMapMgr.html#a2b1efdb836189224a7ac1247b6c397e5":[7,0,6,5,4],
 "df/d8e/classMMAP_1_1MMapMgr.html#abd4bd2ef84d57be5000ab37ed36ded8c":[5,0,21,5,0],
+"df/d8e/classMMAP_1_1MMapMgr.html#abd4bd2ef84d57be5000ab37ed36ded8c":[7,0,6,5,0],
 "df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[5,0,21,5,5],
 "df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[7,0,6,5,5],
 "df/d8e/classMMAP_1_1MMapMgr.html#aead5607e8f61161464c388c889ca9938":[5,0,21,5,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX419 =
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a812b4f1348c8c73b30cf48373602798c":[7,0,674,0,5],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a89fe035de2076c7d82434a6b955ced3f":[7,0,674,0,6],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#aac80ae1b85bde17ae6c71193f31df52e":[7,0,674,0,13],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#acb14e5177a73ffe49c5113f5ea5ddf13":[7,0,674,0,19],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ad1e9ac4b158ee387369ac1aeeb5abe4c":[7,0,674,0,21],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#adf0e15ab7cae6d73d0ac4d97d63de6b3":[7,0,674,0,7]
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#acb14e5177a73ffe49c5113f5ea5ddf13":[7,0,674,0,19]
 };

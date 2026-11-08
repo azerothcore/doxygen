@@ -1,9 +1,9 @@
 var NAVTREEINDEX39 =
 {
-"d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[5,0,22,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[7,0,7,0,1],
-"d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[5,0,22,0,3],
+"d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[5,0,22,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[7,0,7,0,3],
+"d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[5,0,22,0,3],
 "d1/d8d/structAuctionSearcherUpdate.html":[7,0,283],
 "d1/d8d/structAuctionSearcherUpdate.html#a34cb7ede5d2108065a51a80396d6fc55":[7,0,283,2],
 "d1/d8d/structAuctionSearcherUpdate.html#a3f61acebd3d594e3a23d682d2d5292bc":[7,0,283,3],
@@ -204,8 +204,8 @@ var NAVTREEINDEX39 =
 "d1/d95/SpellProcTargetResolutionTest_8cpp.html#ae0ceced3da7b46834d403b94be7bd498":[8,0,0,0,2,2,0,11,27,1],
 "d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html":[5,0,35,22],
 "d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html":[7,0,13,22],
-"d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html#a4e30376bb16ea56434e65761a2f4a55d":[5,0,35,22,0],
 "d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html#a4e30376bb16ea56434e65761a2f4a55d":[7,0,13,22,0],
+"d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html#a4e30376bb16ea56434e65761a2f4a55d":[5,0,35,22,0],
 "d1/d95/classnpc__bone__spike.html":[7,0,1707],
 "d1/d95/classnpc__bone__spike.html#a887a9156f550ca55047fa501e1709d95":[7,0,1707,2],
 "d1/d95/classnpc__bone__spike.html#ac93d7a45eaeae8d7adf2a3b313825aed":[7,0,1707,1],

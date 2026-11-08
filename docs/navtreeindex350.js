@@ -1,5 +1,7 @@
 var NAVTREEINDEX350 =
 {
+"dd/d3b/structGameObjectTemplate.html#a1c3ee1358cfe29d08587a6d014d97845":[7,0,1130,111],
+"dd/d3b/structGameObjectTemplate.html#a1c78664b7272010dac83e9f4ea132330":[7,0,1130,185],
 "dd/d3b/structGameObjectTemplate.html#a1c7b9dcd793986593ef5cac164b65994":[7,0,1130,124],
 "dd/d3b/structGameObjectTemplate.html#a1d040e006c528b983e8ee3e197acb036":[7,0,1130,107],
 "dd/d3b/structGameObjectTemplate.html#a1d650ba932c6a46239a9dbafc22b40fd":[7,0,1130,57],
@@ -187,16 +189,16 @@ var NAVTREEINDEX350 =
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[8,0,0,0,1,2,31,1,7,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[7,0,11,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,32,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,32,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[7,0,11,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[5,0,32,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[7,0,11,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,32,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[5,0,32,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,32,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[7,0,11,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,32,8,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html":[7,0,1396,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a07a9861d018a35cd295f65b7e68a5bd1":[7,0,1396,0,8],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a1259cf1ed03095fb3e93f6aab203aa99":[7,0,1396,0,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX350 =
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ab827933527ed7b4a04b162034876ced8":[7,0,2008,0,0],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ac697fc6cbc20c7f316845ed26436049b":[7,0,2008,0,6],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#acd6f45abb93f3f043cd85647405a50f6":[7,0,2008,0,4],
-"dd/d44/structboss__akilzon.html":[7,0,384],
-"dd/d44/structboss__akilzon.html#a1a5ffe4c6aabeaa39971f2376761a7d7":[7,0,384,5],
-"dd/d44/structboss__akilzon.html#a2783ec5db681651f8c43c238e9ed25f3":[7,0,384,4]
+"dd/d44/structboss__akilzon.html":[7,0,384]
 };

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
+  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
   ['bachievcacherare_1',['bAchievCacheRare',['../d4/d22/structboss__hodir.html#a9e82c04f57105550e3c21c66d98829f5',1,'boss_hodir']]],
   ['bachievcheese_2',['bAchievCheese',['../d4/d22/structboss__hodir.html#af1faea8be0fe1468f6f313ea143501cf',1,'boss_hodir']]],
   ['bachievcoolestfriends_3',['bAchievCoolestFriends',['../d4/d22/structboss__hodir.html#a42f8a10a8b148d9f0bfd9eb943a15f03',1,'boss_hodir']]],
@@ -42,9 +42,9 @@ var searchData=
   ['baseattacktime_39',['BaseAttackTime',['../d1/d61/structCreatureTemplate.html#a4600b8b2117a7b2ae7006c8a373886b8',1,'CreatureTemplate']]],
   ['basedamage_40',['BaseDamage',['../d7/d80/structCreatureBaseStats.html#a40f54b64689ca8c3d2b0de81384dbea9',1,'CreatureBaseStats']]],
   ['basefilesdirectory_41',['baseFilesDirectory',['../d3/d36/structDBUpdaterInfo.html#a5e5118773a1b9e24e5596a7f10619d25',1,'DBUpdaterInfo']]],
-  ['basehealth_42',['basehealth',['../d7/d80/structCreatureBaseStats.html#a83cee007ec623b19bb2b002d16180d2d',1,'CreatureBaseStats::BaseHealth'],['../d6/dcb/structPlayerClassLevelInfo.html#a034ae3d2b5b14ce454710ca8f92ffee0',1,'PlayerClassLevelInfo::basehealth']]],
+  ['basehealth_42',['basehealth',['../d6/dcb/structPlayerClassLevelInfo.html#a034ae3d2b5b14ce454710ca8f92ffee0',1,'PlayerClassLevelInfo::basehealth'],['../d7/d80/structCreatureBaseStats.html#a83cee007ec623b19bb2b002d16180d2d',1,'CreatureBaseStats::BaseHealth']]],
   ['baselevel_43',['baselevel',['../d5/dc7/structSpellEntry.html#aaf7c8448b3091e0fca4aead24165d0e1',1,'SpellEntry::BaseLevel'],['../d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591',1,'SpellInfo::BaseLevel']]],
-  ['basemana_44',['basemana',['../d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats::BaseMana'],['../d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo::basemana']]],
+  ['basemana_44',['basemana',['../d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo::basemana'],['../d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats::BaseMana']]],
   ['basemovespeed_45',['basemovespeed',['../d1/deb/Unit_8cpp.html#a8dfa2f38da75227699c2156368f188c7',1,'baseMoveSpeed:&#160;Unit.cpp'],['../d1/daf/Unit_8h.html#a8dfa2f38da75227699c2156368f188c7',1,'baseMoveSpeed:&#160;Unit.cpp']]],
   ['basepoints_46',['BasePoints',['../da/db9/classSpellEffectInfo.html#ac0803c6cd41e62d0011fda578e794676',1,'SpellEffectInfo']]],
   ['baserepclassmask_47',['BaseRepClassMask',['../de/d14/structFactionEntry.html#ae73655de567de3766fcb3bbfb7f9eed3',1,'FactionEntry']]],

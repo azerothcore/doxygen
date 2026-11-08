@@ -7,7 +7,7 @@ var searchData=
   ['jeklikcavehomeposition_4',['JeklikCaveHomePosition',['../de/dac/boss__jeklik_8cpp.html#a356691fb1fda39a6fc69d756f3188dba',1,'boss_jeklik.cpp']]],
   ['joinmessage_5',['joinMessage',['../d1/d9c/classChannelRights.html#af8797ef8c642f3a954b1581fb54ed545',1,'ChannelRights']]],
   ['joinpos_6',['joinPos',['../d2/dc2/structEntryPointData.html#abfdc0ccd945f60e0a3ec37d278c96940',1,'EntryPointData']]],
-  ['jointime_7',['jointime',['../dd/d51/structGroupQueueInfo.html#a44939a98ff1ec940e42e79faf31a2e9a',1,'GroupQueueInfo::JoinTime'],['../d5/d69/structlfg_1_1LfgQueueData.html#a240fcc11f3fd9d27fa913f80828522f2',1,'lfg::LfgQueueData::joinTime']]],
+  ['jointime_7',['jointime',['../d5/d69/structlfg_1_1LfgQueueData.html#a240fcc11f3fd9d27fa913f80828522f2',1,'lfg::LfgQueueData::joinTime'],['../dd/d51/structGroupQueueInfo.html#a44939a98ff1ec940e42e79faf31a2e9a',1,'GroupQueueInfo::JoinTime']]],
   ['jump_8',['jump',['../dd/d27/structSmartAction.html#a85ce78a3fa69eb45aeeb951d94492e53',1,'SmartAction::jump'],['../d2/dd1/structMovementInfo.html#a920a536b873fcc63dd6bb22882a7a8ea',1,'MovementInfo::jump']]],
   ['jumpdistance_9',['JumpDistance',['../d2/de9/classSpellInfo.html#a488de86d200a06710977c145dc37b2c2',1,'SpellInfo']]],
   ['jumping_10',['jumping',['../d8/dbb/structnpc__pet__gen__plump__turkey.html#a8486512b7594f2ce759fcb580f1baf34',1,'npc_pet_gen_plump_turkey']]],

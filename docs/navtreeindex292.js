@@ -1,5 +1,7 @@
 var NAVTREEINDEX292 =
 {
+"db/d0b/classspell__oculus__evasive__charges__aura.html":[7,0,3757],
+"db/d0b/classspell__oculus__evasive__charges__aura.html#a2cb77175d7341752bdd8733cfcfe8ed3":[7,0,3757,3],
 "db/d0b/classspell__oculus__evasive__charges__aura.html#a4de69fb4aa8e1506581ed01c42dc8f76":[7,0,3757,4],
 "db/d0b/classspell__oculus__evasive__charges__aura.html#a6764750586be8b57d52a2dba87d89e76":[7,0,3757,1],
 "db/d0b/classspell__oculus__evasive__charges__aura.html#ac852d761940494f78b50ba3b060057a2":[7,0,3757,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX292 =
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a8d2e9c77e658d9208f978dd55aa92e2d":[8,0,0,0,1,3,9,6,56,24],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a90a5d2b7327d3b1e72ac8b7731299938":[8,0,0,0,1,3,9,6,56,35],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a90b8d4b96753977c3a37a7c3f52eb930":[8,0,0,0,1,3,9,6,56,0],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5":[8,0,0,0,1,3,9,6,56,30],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e95c58cacee6e93d45b58d780f6cbc1":[8,0,0,0,1,3,9,6,56,14],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aa04478bfbd9088482d32a2b9be1baf68":[8,0,0,0,1,3,9,6,56,50]
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5":[8,0,0,0,1,3,9,6,56,30]
 };

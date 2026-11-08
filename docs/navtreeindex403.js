@@ -1,5 +1,7 @@
 var NAVTREEINDEX403 =
 {
+"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a624c256f29d3cefed0bb909da3841853":[7,0,2007,0,5],
+"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a630312f70a2f22683311a66e5a4f9ec6":[7,0,2007,0,8],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a6b9a435245ddce156d0657aa9e35175b":[7,0,2007,0,10],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a72eb39e259aed0ab230d4d43722cba13":[7,0,2007,0,3],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a749690b386c0c726d11b77bc705b9b01":[7,0,2007,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX403 =
 "de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384":[8,0,0,0,1,3,5,6,9,40,3],
 "de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9":[8,0,0,0,1,3,5,6,9,40,2],
 "de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2ac721c35c9678e8037cbf6b74b55c56d2":[8,0,0,0,1,3,5,6,9,40,1],
-"de/de5/boss__sindragosa_8cpp.html#ab4bf0a7be8988b78eebfae9ccd04e5cc":[8,0,0,0,1,3,5,6,9,44],
-"de/de5/boss__sindragosa_8cpp.html#acad9865b90facba32500bfc607ffc5d7":[8,0,0,0,1,3,5,6,9,47],
-"de/de5/boss__sindragosa_8cpp.html#ad9df9f629c749423494d1f5a315dba71":[8,0,0,0,1,3,5,6,9,49]
+"de/de5/boss__sindragosa_8cpp.html#ab4bf0a7be8988b78eebfae9ccd04e5cc":[8,0,0,0,1,3,5,6,9,44]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX342 =
 {
+"dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784cafc9c1989ff6b959b21add6f92af072d8":[8,0,0,0,1,3,3,1,38,2],
+"dc/ddf/brewfest_8cpp.html#a14ebf7554847176e636b96243a89f663":[8,0,0,0,1,3,3,1,33],
 "dc/ddf/brewfest_8cpp.html#a14ebf7554847176e636b96243a89f663a027d4077cde87fd4a1ae2ed918c72887":[8,0,0,0,1,3,3,1,33,1],
 "dc/ddf/brewfest_8cpp.html#a14ebf7554847176e636b96243a89f663a8ee82bf806ca0d2d14e8e91877942bc4":[8,0,0,0,1,3,3,1,33,3],
 "dc/ddf/brewfest_8cpp.html#a14ebf7554847176e636b96243a89f663ab974bef4b163b78c262252509b9352c1":[8,0,0,0,1,3,3,1,33,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX342 =
 "dc/de7/structboss__fathomlord__karathress.html#a05c483ea61011926c260b43f6c01cac3":[7,0,480,0],
 "dc/de7/structboss__fathomlord__karathress.html#a1e03da049ad75a464de5dd15ac5e6d88":[7,0,480,4],
 "dc/de7/structboss__fathomlord__karathress.html#a3a692ef94d555e991a7cd34dee9812d9":[7,0,480,5],
-"dc/de7/structboss__fathomlord__karathress.html#a4c356359be50b626a28fab4a803386f8":[7,0,480,2],
-"dc/de7/structboss__fathomlord__karathress.html#a52f76cb43a32c5f59cbc7476f0df8646":[7,0,480,7],
-"dc/de7/structboss__fathomlord__karathress.html#adc5685244341e353c6dac67b0191d877":[7,0,480,1]
+"dc/de7/structboss__fathomlord__karathress.html#a4c356359be50b626a28fab4a803386f8":[7,0,480,2]
 };

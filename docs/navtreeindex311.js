@@ -1,5 +1,7 @@
 var NAVTREEINDEX311 =
 {
+"db/dc8/structScriptedAI.html#ae42895b19083d367b23bf44acb8e9939":[7,0,2585,6],
+"db/dc8/structScriptedAI.html#ae4f7745f11ada2597eac7150fbb679bd":[7,0,2585,50],
 "db/dc8/structScriptedAI.html#aed92985b04ceba51543d50cefc1644a5":[7,0,2585,47],
 "db/dc8/structScriptedAI.html#af52d479cf8cc9d22827598aa45bccba4":[7,0,2585,45],
 "db/dc8/structScriptedAI.html#af5c4c2aa7107593244f0d4cf02c47dcb":[7,0,2585,15],
@@ -48,8 +50,8 @@ var NAVTREEINDEX311 =
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[5,0,21,0,0,6],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[5,0,21,0,0,3],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[7,0,6,0,0,3],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[5,0,21,0,0,1],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[7,0,6,0,0,1],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[5,0,21,0,0,1],
 "db/dca/structboss__felmyst.html":[7,0,482],
 "db/dca/structboss__felmyst.html#a0233ebbcbb21d100425ac76223e839be":[7,0,482,4],
 "db/dca/structboss__felmyst.html#a0e429d8cf49946c0232b9c405c340356":[7,0,482,10],
@@ -83,8 +85,8 @@ var NAVTREEINDEX311 =
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[7,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[7,0,7,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,22,4,1],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,22,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[7,0,7,4,2],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,22,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,22,4,0],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[7,0,7,4,0],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html":[7,0,3978],
@@ -247,7 +249,5 @@ var NAVTREEINDEX311 =
 "db/dd0/classspell__item__aura__of__madness.html":[7,0,3387],
 "db/dd0/classspell__item__aura__of__madness.html#a32ca1fb3bb75fb98cb8aec38adf54325":[7,0,3387,2],
 "db/dd0/classspell__item__aura__of__madness.html#a7bf47ecb24b3427dda1980f68b41cfe8":[7,0,3387,0],
-"db/dd0/classspell__item__aura__of__madness.html#a92468411049bd05eda99e676edefcf6e":[7,0,3387,1],
-"db/dd0/classspell__item__aura__of__madness.html#a9a531733a3e7426a3bf6aa50ab86f4d9":[7,0,3387,3],
-"db/dd1/classspell__dru__glyph__of__innervate.html":[7,0,2920]
+"db/dd0/classspell__item__aura__of__madness.html#a92468411049bd05eda99e676edefcf6e":[7,0,3387,1]
 };

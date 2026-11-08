@@ -1,5 +1,7 @@
 var NAVTREEINDEX361 =
 {
+"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a0ffc4cd2e9b61ad17c516f062d161feb":[7,0,1850,0,4],
+"dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a24bb49f47dcf85c95039d0495a89e126":[7,0,1850,0,3],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a2c5729ee3371e562869878ff3a7b84bd":[7,0,1850,0,1],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#a8575d258d63e28626cffd7fc2160bee6":[7,0,1850,0,5],
 "dd/dbe/structnpc__frostbrood__skytalon_1_1npc__frostbrood__skytalonAI.html#ae763333503176eb7e8ce407868243958":[7,0,1850,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX361 =
 "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a288a6566bfd3b580254b27984e4ab870":[8,0,0,0,1,3,5,9,2,10,22,17],
 "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a3c9a38b5b63a64cb294908fb3fd0f6f1":[8,0,0,0,1,3,5,9,2,10,22,14],
 "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a4d306b0f028482abe360fdb67fc49dcd":[8,0,0,0,1,3,5,9,2,10,22,1],
-"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a4e49fde4fe8ce8fa992cf9a3a4584afc":[8,0,0,0,1,3,5,9,2,10,22,20],
-"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a55ffe5948f00439d16540fb80c20a405":[8,0,0,0,1,3,5,9,2,10,22,15],
-"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a5bd3989375e50a4167a7adf751a6995c":[8,0,0,0,1,3,5,9,2,10,22,6]
+"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a4e49fde4fe8ce8fa992cf9a3a4584afc":[8,0,0,0,1,3,5,9,2,10,22,20]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX255 =
 {
+"d9/d7c/SpellProcChargeTest_8cpp.html#a89db4a2cf2935011d4e98ff3385c25d8":[8,0,0,0,2,2,0,11,14,9],
+"d9/d7c/SpellProcChargeTest_8cpp.html#a8ae02922feb6d525efc5203b349d36d8":[8,0,0,0,2,2,0,11,14,11],
 "d9/d7c/SpellProcChargeTest_8cpp.html#a8cddad3956dbe3afd8a23e969ba46d05":[8,0,0,0,2,2,0,11,14,8],
 "d9/d7c/SpellProcChargeTest_8cpp.html#ab8fbc8d09d454845b486266a32ec0055":[8,0,0,0,2,2,0,11,14,10],
 "d9/d7c/SpellProcChargeTest_8cpp.html#ac539918ba1c029cc1ea195c532da00ad":[8,0,0,0,2,2,0,11,14,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX255 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a470d03afa22c989a62d65ba1ce60863b":[8,0,0,0,1,3,5,9,2,1,12,15],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a64c1fb1d0c8db3c5308fc59434f1aa6f":[8,0,0,0,1,3,5,9,2,1,12,4],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a8af35ba8d407858ebd5eb5ccebd0fcf5":[8,0,0,0,1,3,5,9,2,1,12,5],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a94c76b59138e1ce34314b5bd42963b03":[8,0,0,0,1,3,5,9,2,1,12,6],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ab0b53acc2b4505b4fea9d904562757d0":[8,0,0,0,1,3,5,9,2,1,12,3],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165accde0f15acdcdd79daae690e26a51739":[8,0,0,0,1,3,5,9,2,1,12,9]
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a94c76b59138e1ce34314b5bd42963b03":[8,0,0,0,1,3,5,9,2,1,12,6]
 };

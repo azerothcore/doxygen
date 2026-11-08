@@ -1,5 +1,7 @@
 var NAVTREEINDEX201 =
 {
+"d7/d32/classBIH_1_1BuildStats.html#a6546dd9cc0de2cba9159f6ab2477b81f":[7,0,375,1,10],
+"d7/d32/classBIH_1_1BuildStats.html#a77e7b7ff44c0f16fc2b5d4370c18751b":[7,0,375,1,1],
 "d7/d32/classBIH_1_1BuildStats.html#a84aa8066e8e19902aecec45607d7a93d":[7,0,375,1,14],
 "d7/d32/classBIH_1_1BuildStats.html#a855eb250661d80a9313b926556e12168":[7,0,375,1,5],
 "d7/d32/classBIH_1_1BuildStats.html#a90121f1721624ae2be8b3e6860d02f23":[7,0,375,1,7],
@@ -8,8 +10,8 @@ var NAVTREEINDEX201 =
 "d7/d32/classBIH_1_1BuildStats.html#acd34211244a97c08193421818f326ff9":[7,0,375,1,6],
 "d7/d32/classBIH_1_1BuildStats.html#ae8cf4ba9eaa7dc424914483ab3fafeba":[7,0,375,1,4],
 "d7/d32/classBIH_1_1BuildStats.html#afbedc638e0117b7ca5c5f1e447846717":[7,0,375,1,12],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,35,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[7,0,13,12,3],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,35,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,35,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[7,0,13,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[7,0,13,12,3,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX201 =
 "d7/d3f/WheatyExceptionReport_8cpp.html#a9f2ce59205c508258855d0568854e367":[8,0,0,0,0,5,2,6],
 "d7/d3f/WheatyExceptionReport_8cpp.html#a9fff8ce906026fe3179e50e97182d90d":[8,0,0,0,0,5,2,8],
 "d7/d3f/WheatyExceptionReport_8cpp.html#ac7bef5d85e3dcd73eef56ad39ffc84a9":[8,0,0,0,0,5,2,4],
-"d7/d3f/WheatyExceptionReport_8cpp.html#af8660cbefcf140a8992e862e401bc473":[8,0,0,0,0,5,2,1],
-"d7/d3f/classnpc__eris__hevenfire.html":[7,0,1820],
-"d7/d3f/classnpc__eris__hevenfire.html#a1e0baec5706cfddd678b58eb9359997e":[7,0,1820,3]
+"d7/d3f/WheatyExceptionReport_8cpp.html#af8660cbefcf140a8992e862e401bc473":[8,0,0,0,0,5,2,1]
 };

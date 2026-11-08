@@ -1,6 +1,8 @@
 var NAVTREEINDEX338 =
 {
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad7cf8778e608128fad236f9eb7448c66":[7,0,13,14,4,0],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef":[7,0,13,14,4,1],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef":[5,0,35,14,4,1],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4":[7,0,13,14,4,3],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4":[5,0,35,14,4,3],
 "dc/dae/gruuls__lair_8h.html":[8,0,0,0,1,3,7,3,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX338 =
 "dc/db5/classspell__festergut__gaseous__blight.html":[7,0,2995],
 "dc/db5/classspell__festergut__gaseous__blight.html#a0bdef74dbd65d938eb5eac32f6612fe1":[7,0,2995,1],
 "dc/db5/classspell__festergut__gaseous__blight.html#a276018baa590b942d90c457faea10040":[7,0,2995,0],
-"dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[7,0,2995,3],
-"dc/db5/classspell__festergut__gaseous__blight.html#a7afc131b5dd31ec6b225fdd38f0edf34":[7,0,2995,2],
-"dc/db5/classspell__item__persistent__shield.html":[7,0,3488]
+"dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[7,0,2995,3]
 };

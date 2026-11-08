@@ -1,5 +1,7 @@
 var NAVTREEINDEX316 =
 {
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadaed3a52bdb2c0475569fc92e4e6f328d6":[8,0,0,0,1,3,2,30,27,67],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadaeda98e29c3cba85ba350773017ee26c9":[8,0,0,0,1,3,2,30,27,93],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadaef2a730698b25d99ec34419cdfac857d":[8,0,0,0,1,3,2,30,27,65],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadaf23dfe013daf4c17081796357a59eaed":[8,0,0,0,1,3,2,30,27,19],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadaf39e52c0b87a32e709571cb38e189bb4":[8,0,0,0,1,3,2,30,27,21],
@@ -215,8 +217,8 @@ var NAVTREEINDEX316 =
 "db/ddc/ItemPackets_8cpp.html":[8,0,0,0,1,2,39,0,17],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[7,0,13,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,35,6,48],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,35,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[7,0,13,6,48,1],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,35,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,35,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[7,0,13,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,35,6,48,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX316 =
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b33e390228cb1d719203989d0810230":[8,0,0,0,1,3,2,4,9,7,3],
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca14d7769fc60a7bb1b489145b8494f966":[8,0,0,0,1,3,2,4,9,7,16],
 "db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e":[8,0,0,0,1,3,2,4,9,7,0],
-"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca288097afcfa267b89c9bac7a599c43ed":[8,0,0,0,1,3,2,4,9,7,20],
-"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b2b8efa4765cef187663035ee47ef6d":[8,0,0,0,1,3,2,4,9,7,21],
-"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca4799ed6726a007f936e2fb219cbc98f6":[8,0,0,0,1,3,2,4,9,7,22]
+"db/dde/boss__shade__of__aran_8cpp.html#a5bd342133be8c2137b831460acc9298ca288097afcfa267b89c9bac7a599c43ed":[8,0,0,0,1,3,2,4,9,7,20]
 };

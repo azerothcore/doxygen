@@ -22,7 +22,7 @@ var classSpellInfo =
     [ "CheckExplicitTarget", "d2/de9/classSpellInfo.html#abac744e5ec697350e40809cd19d32bdd", null ],
     [ "CheckLocation", "d2/de9/classSpellInfo.html#a8cfaa909a0cfb808c1a7bee63a66e863", null ],
     [ "CheckShapeshift", "d2/de9/classSpellInfo.html#a26313abc0abdcb24255443a9074ac028", null ],
-    [ "CheckTarget", "d2/de9/classSpellInfo.html#a76a5a1dbcfa36ca9bb00ee896760ca43", null ],
+    [ "CheckTarget", "d2/de9/classSpellInfo.html#a993b735765dff4f711047d57bc5bcd2d", null ],
     [ "CheckTargetCreatureType", "d2/de9/classSpellInfo.html#a7b1e55eb305977d80f0f5dbabf4e2ae2", null ],
     [ "ComputeIsCritCapable", "d2/de9/classSpellInfo.html#a262dd4008aa7e03be9a40f7cada52d9c", null ],
     [ "ComputeIsStackableWithRanks", "d2/de9/classSpellInfo.html#a57e626cd8a9cae805e1a0e21259d9025", null ],

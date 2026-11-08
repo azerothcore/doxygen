@@ -1,5 +1,7 @@
 var NAVTREEINDEX423 =
 {
+"df/daa/classspell__doomfire.html#a59a9c4dfe06859daac5bb69fa5d20e95":[7,0,2889,1],
+"df/daa/classspell__doomfire.html#aa94e4d6a31a08959a5287b863737c2e2":[7,0,2889,0],
 "df/dab/boss__krystallus_8cpp.html":[8,0,0,0,1,3,5,9,1,0],
 "df/dab/boss__krystallus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,9,1,0,6],
 "df/dab/boss__krystallus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,9,1,0,6,2],
@@ -96,8 +98,8 @@ var NAVTREEINDEX423 =
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,35,10,8,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[7,0,13,10,8,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,35,10,8,1],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,35,10,8,0],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[7,0,13,10,8,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,35,10,8,0],
 "df/db5/boss__meathook_8cpp.html":[8,0,0,0,1,3,4,1,1,3],
 "df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[8,0,0,0,1,3,4,1,1,3,5],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,4,1,1,3,4],
@@ -183,8 +185,8 @@ var NAVTREEINDEX423 =
 "df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[7,0,2240,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[7,0,13,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,35,6,50],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[7,0,13,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,35,6,50,1],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[7,0,13,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[7,0,13,6,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,35,6,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[7,0,13,6,50,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX423 =
 "df/dbb/structboss__flame__leviathan.html#ac371303cfea41e4f043a8d1bee24520c":[7,0,486,16],
 "df/dbb/structboss__flame__leviathan.html#ac726c99f43d48fd1e9e8b43fe20e8bb9":[7,0,486,22],
 "df/dbb/structboss__flame__leviathan.html#ac84312fff12d10097d4364dc0dac8207":[7,0,486,11],
-"df/dbb/structboss__flame__leviathan.html#acdcac20923bb0a52abef0590f03b8b05":[7,0,486,6],
-"df/dbb/structboss__flame__leviathan.html#acf26fcd0d918ae113d1ff5e4358cfc1c":[7,0,486,18],
-"df/dbb/structboss__flame__leviathan.html#ad5f0d06bbe2e5e821bbaf616c4dc1288":[7,0,486,2]
+"df/dbb/structboss__flame__leviathan.html#acdcac20923bb0a52abef0590f03b8b05":[7,0,486,6]
 };

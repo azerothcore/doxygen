@@ -1,5 +1,7 @@
 var NAVTREEINDEX431 =
 {
+"df/ddc/classTaskScheduler.html#a0d12cd444cf5319cc2a22fce53158cdc":[7,0,4580,33],
+"df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830":[7,0,4580,40],
 "df/ddc/classTaskScheduler.html#a0e14d7b24d018a41c9dc849e1421d5e7":[7,0,4580,12],
 "df/ddc/classTaskScheduler.html#a0e4b7eea4d37cf6d9ae66330d6349626":[7,0,4580,17],
 "df/ddc/classTaskScheduler.html#a16b63643c58023c8e22f75e5782af4bf":[7,0,4580,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX431 =
 "df/de9/classspell__pri__power__word__shield.html#aaf1e16dbc8d33aadcbf74dc4cebe715b":[7,0,3872,1],
 "df/dea/classspell__mt__phoenix__burn.html":[7,0,3734],
 "df/dea/classspell__mt__phoenix__burn.html#a45726adacf1d30b5488df54f57447c0c":[7,0,3734,2],
-"df/dea/classspell__mt__phoenix__burn.html#a5ca38a2828359e4f373323d1d6cc91cf":[7,0,3734,0],
-"df/dea/classspell__mt__phoenix__burn.html#aa0956db2d03405a54893bc30516f5839":[7,0,3734,1],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html":[7,0,2155,0]
+"df/dea/classspell__mt__phoenix__burn.html#a5ca38a2828359e4f373323d1d6cc91cf":[7,0,3734,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX264 =
 {
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ad0f4ce2cad8fad01ce1ebb017cb15dcb":[8,0,0,0,1,3,5,9,2,16,7,55],
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ad229f7b4841038ed947ca7b7d20db3b5":[8,0,0,0,1,3,5,9,2,16,7,68],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ad3403a415697cbc370b4555696c94485":[8,0,0,0,1,3,5,9,2,16,7,27],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ad80bfbe25038c08402895e95c2a1692f":[8,0,0,0,1,3,5,9,2,16,7,63],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ada2b5d4ee76ec85ba61c530e684190be":[8,0,0,0,1,3,5,9,2,16,7,37],
@@ -118,16 +120,16 @@ var NAVTREEINDEX264 =
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a785bb6fdb254a050a5c5e3e9df49a850":[7,0,1758,0,2],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#ad58a2f3746da7862658fb3b9e1580836":[7,0,1758,0,0],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#ae034fd80a80a1300a10e68dc97600f2a":[7,0,1758,0,1],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[7,0,13,6,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[5,0,35,6,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[7,0,13,6,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[7,0,13,6,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,35,6,3,2],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,35,6,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[7,0,13,6,3,1],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[7,0,13,6,3,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,35,6,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[5,0,35,6,3,3],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[7,0,13,6,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[7,0,13,6,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,35,6,3,0],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[7,0,13,6,3,0],
 "da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html":[5,0,35,14,7],
 "da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html":[7,0,13,14,7],
 "da/d01/classWorldPackets_1_1Quest_1_1QuestLogFull.html#aab5d1b5ceb0e9fffd588d95d92640897":[7,0,13,14,7,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX264 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a39e301a074c376e4a98a7d8222017733":[8,0,0,0,1,2,49,4,1,216],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a39fa86848d489a0a39a059861718b3de":[8,0,0,0,1,2,49,4,1,93],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a3abf2ff4272c8c74da449def1d014330":[8,0,0,0,1,2,49,4,1,428],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a3bdd55a95c0850f6bb6e1230d83f1473":[8,0,0,0,1,2,49,4,1,304],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a3c29b5e38b5d601fd9c20369414c7033":[8,0,0,0,1,2,49,4,1,110],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a3c2ca8f9ef5ba4346dc8225531e3503c":[8,0,0,0,1,2,49,4,1,91]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a3bdd55a95c0850f6bb6e1230d83f1473":[8,0,0,0,1,2,49,4,1,304]
 };

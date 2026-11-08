@@ -1,10 +1,10 @@
 var NAVTREEINDEX79 =
 {
-"d2/de9/classSpellInfo.html#a93b51808183b35049d7e5847acee0390":[7,0,4501,84],
 "d2/de9/classSpellInfo.html#a94eda8ee2088025443e0724f159f17f6":[7,0,4501,63],
 "d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a":[7,0,4501,55],
 "d2/de9/classSpellInfo.html#a984c1ea12c7a47027ec61f2712492806":[7,0,4501,164],
 "d2/de9/classSpellInfo.html#a9904a9ebdd084815af5ef6d1653ffbbd":[7,0,4501,154],
+"d2/de9/classSpellInfo.html#a993b735765dff4f711047d57bc5bcd2d":[7,0,4501,22],
 "d2/de9/classSpellInfo.html#a99fae2785bf72093933e2d0ab107c18f":[7,0,4501,56],
 "d2/de9/classSpellInfo.html#a9a2b7ff5d4740b1c2e01b29a126ec306":[7,0,4501,50],
 "d2/de9/classSpellInfo.html#a9ab37b7b7987ad85cc0bbaad45f2b905":[7,0,4501,133],

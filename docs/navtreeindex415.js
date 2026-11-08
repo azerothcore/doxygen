@@ -1,5 +1,7 @@
 var NAVTREEINDEX415 =
 {
+"df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb":[8,0,0,0,1,3,2,1,0,0,30,2],
+"df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59":[8,0,0,0,1,3,2,1,0,0,30,3],
 "df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8":[8,0,0,0,1,3,2,1,0,0,30,4],
 "df/d57/blackrock__depths_8cpp.html#a2dfe0b3ef8a6a2dd0a5135c85ea27ba6":[8,0,0,0,1,3,2,1,0,0,21],
 "df/d57/blackrock__depths_8cpp.html#a2dfe0b3ef8a6a2dd0a5135c85ea27ba6a2a986d33143dcbac779768af1925408d":[8,0,0,0,1,3,2,1,0,0,21,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX415 =
 "df/d68/structnpc__flame__of__azzinoth.html#a5254057af0371a08ea01fe91502c2a20":[7,0,1834,1],
 "df/d68/structnpc__flame__of__azzinoth.html#a7a1c9b967e6a79721dea8cbca44cbb5b":[7,0,1834,4],
 "df/d68/structnpc__flame__of__azzinoth.html#acdeb046c2214bd449257ba1b932c8a5c":[7,0,1834,0],
-"df/d68/structnpc__flame__of__azzinoth.html#ad2e7085fcd985a08cc2e317485a8fff1":[7,0,1834,3],
-"df/d68/structnpc__flame__of__azzinoth.html#ae797d929b0e9c8953a4c9efd392a21f3":[7,0,1834,5],
-"df/d6a/boss__warlord__najentus_8cpp.html":[8,0,0,0,1,3,7,1,9]
+"df/d68/structnpc__flame__of__azzinoth.html#ad2e7085fcd985a08cc2e317485a8fff1":[7,0,1834,3]
 };
