@@ -1,5 +1,9 @@
 var NAVTREEINDEX143 =
 {
+"d4/dce/structnpc__yor.html#aa698540b646fd870b33afbaf19ddbe07":[7,0,2345,2],
+"d4/dd0/classWorldObject.html":[7,0,4746],
+"d4/dd0/classWorldObject.html#a00db62e79f895c1fe3893c95ee30b6fe":[7,0,4746,134],
+"d4/dd0/classWorldObject.html#a015008a20c5aa787718a296427e7976d":[7,0,4746,76],
 "d4/dd0/classWorldObject.html#a01ba49d253cef5ec2604ee539163efdd":[7,0,4746,166],
 "d4/dd0/classWorldObject.html#a0258dadf1db614691699f75c007799a3":[7,0,4746,114],
 "d4/dd0/classWorldObject.html#a02c8907385453a63d87b80c8a0503d09":[7,0,4746,34],
@@ -245,9 +249,5 @@ var NAVTREEINDEX143 =
 "d4/dd0/classWorldObject.html#afc786081f657fd125cfc0b7d938305e9":[7,0,4746,213],
 "d4/dd0/classWorldObject.html#afcae34940d170de7583765d9531b0f77":[7,0,4746,8],
 "d4/dd1/classspell__gen__dalaran__disguise.html":[7,0,3072],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a77ed10819633ae2bc381023da0feb31b":[7,0,3072,3],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a8b20e2ffed94ec9438dc9b756ba76693":[7,0,3072,0],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a9e29ea947d5415471d991a4e1cd699ac":[7,0,3072,1],
-"d4/dd1/classspell__gen__dalaran__disguise.html#aa4bc27415893009581b317637599a85a":[7,0,3072,2],
-"d4/dd2/classachievement__i__have__the__coolest__friends.html":[7,0,67]
+"d4/dd1/classspell__gen__dalaran__disguise.html#a77ed10819633ae2bc381023da0feb31b":[7,0,3072,3]
 };

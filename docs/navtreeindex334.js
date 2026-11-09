@@ -1,5 +1,10 @@
 var NAVTREEINDEX334 =
 {
+"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac92f7b96f45a4bac217e44696316be55":[8,0,0,0,1,3,5,7,5,8,3],
+"dc/d70/classnpc__toc5__grand__champion__minion.html":[7,0,2241],
+"dc/d70/classnpc__toc5__grand__champion__minion.html#a55acf397b94ba63b1db626dc1041b28e":[7,0,2241,2],
+"dc/d70/classnpc__toc5__grand__champion__minion.html#a5761757b3cbbbce8ada4770805eb8de5":[7,0,2241,1],
+"dc/d72/classspell__hun__animal__handler.html":[7,0,3266],
 "dc/d72/classspell__hun__animal__handler.html#a8f078f8370eacba197ceb2068b6a538d":[7,0,3266,2],
 "dc/d72/classspell__hun__animal__handler.html#ab249a493050c5527eeec8913e94cfc64":[7,0,3266,1],
 "dc/d72/classspell__hun__animal__handler.html#ac0018b57967a3d3ae71aa81745032f15":[7,0,3266,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX334 =
 "dc/d7e/WorldMock_8h.html":[8,0,0,0,2,1,13],
 "dc/d7e/WorldMock_8h.html#abb65cb085124c346fd32ac4b92f0baa9":[8,0,0,0,2,1,13,1],
 "dc/d7e/classboss__essence__of__desire.html":[7,0,467],
-"dc/d7e/classboss__essence__of__desire.html#a14b66470c508fa24e214062aeec0aae6":[7,0,467,2],
-"dc/d7e/classboss__essence__of__desire.html#a5006ce57dd19c2a80e961dedca8c503d":[7,0,467,1],
-"dc/d81/classCreatureTextMgr.html":[7,0,971],
-"dc/d81/classCreatureTextMgr.html#a00cc7ebfdb0702de8af841dcbbddcc3b":[7,0,971,0],
-"dc/d81/classCreatureTextMgr.html#a0b94720ae3ab22ba8bb961f26f47548b":[7,0,971,11],
-"dc/d81/classCreatureTextMgr.html#a1159c9ba36268a33dbeb52a78dda72f2":[7,0,971,8]
+"dc/d7e/classboss__essence__of__desire.html#a14b66470c508fa24e214062aeec0aae6":[7,0,467,2]
 };

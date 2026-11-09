@@ -1,5 +1,10 @@
 var NAVTREEINDEX425 =
 {
+"df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741":[7,0,4140,1],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html":[7,0,1665,0],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0aa59fdf0668d64f3b670c595579ba81":[7,0,1665,0,3],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1665,0,8],
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a1a0c00c09c348f746730c9743d4b7b6b":[7,0,1665,0,4],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a20b62b48f5cf92106fcd1860d9e91956":[7,0,1665,0,5],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a87382571221c608017fd2d4cb99193dc":[7,0,1665,0,12],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#abbfbb5a1e116c6deb3db23f12ff8994f":[7,0,1665,0,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX425 =
 "df/dd9/classUnit.html#a05e3e75fa26b33d0af910830f2b0e818":[7,0,4649,618],
 "df/dd9/classUnit.html#a05e8016f2af572e9019e2fc10f7e77d1":[7,0,4649,793],
 "df/dd9/classUnit.html#a063342b925eb0e652cd08bb349dd26fc":[7,0,4649,35],
-"df/dd9/classUnit.html#a0679821cba7b3361497706bc348d8d32":[7,0,4649,517],
-"df/dd9/classUnit.html#a06be9fa51184bba7eb092e8cc65db641":[7,0,4649,988],
-"df/dd9/classUnit.html#a06e2dc4dd1a74c3b45ae2ea42a70d056":[7,0,4649,959],
-"df/dd9/classUnit.html#a06efb9335107f8b14351954a4ec6599b":[7,0,4649,652],
-"df/dd9/classUnit.html#a07e3ea0e73b3ac9987aedd33c99873c9":[7,0,4649,702],
-"df/dd9/classUnit.html#a080cb9749e810cdb61c36430b179c26f":[7,0,4649,501]
+"df/dd9/classUnit.html#a0679821cba7b3361497706bc348d8d32":[7,0,4649,517]
 };

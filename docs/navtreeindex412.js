@@ -1,5 +1,10 @@
 var NAVTREEINDEX412 =
 {
+"df/d30/boss__gluth_8cpp.html#aab85b5fd85bcf5fb7502bb23c974791c":[8,0,0,0,1,3,5,7,3,8],
+"df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,7,3,5],
+"df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a45a02971c185e780ad327934f4ea2259":[8,0,0,0,1,3,5,7,3,5,4],
+"df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[8,0,0,0,1,3,5,7,3,5,1],
+"df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4b28b406cda8e52b72782b205ea9cadf":[8,0,0,0,1,3,5,7,3,5,0],
 "df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a68aee4d3836ea1f092892343b48edaf3":[8,0,0,0,1,3,5,7,3,5,5],
 "df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,7,3,5,3],
 "df/d30/boss__gluth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa14c943127f3ae15ef51e18fcc3aa97":[8,0,0,0,1,3,5,7,3,5,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX412 =
 "df/d3d/classBfCapturePoint.html#a5a375223e2be7103bf6d9b411bb95b2c":[7,0,362,10],
 "df/d3d/classBfCapturePoint.html#a605d9ced3b467ff21c638490b1f089f0":[7,0,362,5],
 "df/d3d/classBfCapturePoint.html#a67d01513cc9f41ce103f214a85bcf5c6":[7,0,362,3],
-"df/d3d/classBfCapturePoint.html#a7c727552544f98f3ace8e42c2d1cca02":[7,0,362,11],
-"df/d3d/classBfCapturePoint.html#a8174a10f3afcadc9d86928fad6d7f143":[7,0,362,20],
-"df/d3d/classBfCapturePoint.html#a828856e871ab12e7222f542fcfebf6e3":[7,0,362,18],
-"df/d3d/classBfCapturePoint.html#a887af016c482f532f38b3aa10ce6e546":[7,0,362,13],
-"df/d3d/classBfCapturePoint.html#aa4290b17ee300ad0779e67aad8b8c943":[7,0,362,23],
-"df/d3d/classBfCapturePoint.html#aa5d1cf8097e181ffb0563c334a896f29":[7,0,362,27]
+"df/d3d/classBfCapturePoint.html#a7c727552544f98f3ace8e42c2d1cca02":[7,0,362,11]
 };

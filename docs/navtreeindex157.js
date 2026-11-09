@@ -1,5 +1,9 @@
 var NAVTREEINDEX157 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acaba5e31c21b78137761711c5653f5c2":[8,0,0,0,1,2,0,3,4,527],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acb0423f389b2e6b08bb8a6fdb3ae7e66":[8,0,0,0,1,2,0,3,4,232],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acb2e2ddd481512e1704185e923bf5e43":[8,0,0,0,1,2,0,3,4,469],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acb3b6d8d245a7223c99750fd41f348af":[8,0,0,0,1,2,0,3,4,534],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acb681494ef5f3700c262e63fe346e2ad":[8,0,0,0,1,2,0,3,4,644],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acb76370b10c5cc73d3da0130929a29f2":[8,0,0,0,1,2,0,3,4,28],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04acb912f969ae0a8c7b4ffad812e078e8e":[8,0,0,0,1,2,0,3,4,583],
@@ -191,8 +195,8 @@ var NAVTREEINDEX157 =
 "d5/d76/classPlayerTaxi.html#ae63c6941e0e8b7c0920cc1f255641e4d":[7,0,2469,11],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[5,0,35,15,3],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html":[7,0,13,15,3],
-"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,35,15,3,0],
 "d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[7,0,13,15,3,0],
+"d5/d76/structWorldPackets_1_1Strings_1_1RawBytes.html#a25f2d2033711c905ed702d844416c250":[5,0,35,15,3,0],
 "d5/d76/structboss__faction__championsAI.html":[7,0,473],
 "d5/d76/structboss__faction__championsAI.html#a38394cc3ee369fb5bb580d3702792604":[7,0,473,16],
 "d5/d76/structboss__faction__championsAI.html#a3c8e2e446e6325597f1687201698a2c6":[7,0,473,8],
@@ -245,9 +249,5 @@ var NAVTREEINDEX157 =
 "d5/d79/classCreatureAI.html":[7,0,948],
 "d5/d79/classCreatureAI.html#a047d300ab37a17b0ff5ee133c31aa08d":[7,0,948,44],
 "d5/d79/classCreatureAI.html#a0619d01bf9eab0b2201fefccb829bc45":[7,0,948,10],
-"d5/d79/classCreatureAI.html#a0bb800c2785607e1318c339d62c724e8":[7,0,948,73],
-"d5/d79/classCreatureAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,948,75],
-"d5/d79/classCreatureAI.html#a100ffdac1244f5a7fdb3692cb903a119":[7,0,948,1],
-"d5/d79/classCreatureAI.html#a1280f8bcf72254ad31c453b810615f87":[7,0,948,41],
-"d5/d79/classCreatureAI.html#a12d4493d7e3dbb67131e360638efb2d3":[7,0,948,2]
+"d5/d79/classCreatureAI.html#a0bb800c2785607e1318c339d62c724e8":[7,0,948,73]
 };

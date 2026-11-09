@@ -1,5 +1,10 @@
 var NAVTREEINDEX410 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a620e2b180c32676ef84e63f013b5f36a":[8,0,0,0,1,2,16,5,0,4,6,113],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a622e274f53c8d18661f3997af38c99ac":[8,0,0,0,1,2,16,5,0,4,6,216],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a62bb19b832db89226e9dbff5aa5096de":[8,0,0,0,1,2,16,5,0,4,6,21],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a62d7f81e6666500d36310c8cc3c21bfe":[8,0,0,0,1,2,16,5,0,4,6,215],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a63e75ffbe278d996f62d8f4ac29e0411":[8,0,0,0,1,2,16,5,0,4,6,1],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a64bf61552817623f34e04d0a90982a8e":[8,0,0,0,1,2,16,5,0,4,6,69],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a658f12c04ee4c831ac7c41627315b9d0":[8,0,0,0,1,2,16,5,0,4,6,166],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a65a8142f4727b52425e593eb2727d9f4":[8,0,0,0,1,2,16,5,0,4,6,91],
@@ -244,10 +249,5 @@ var NAVTREEINDEX410 =
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fa8b5005617fee45461762adae1efc1577":[8,0,0,0,1,2,16,5,0,4,3,0],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fab399837e3e7e2c2a23e9c906e197e51a":[8,0,0,0,1,2,16,5,0,4,3,3],
 "df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fad08f691f9fe08339350689b33ca12d66":[8,0,0,0,1,2,16,5,0,4,3,2],
-"df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fadaa7d9082664b40fc2ae6f6e16718baf":[8,0,0,0,1,2,16,5,0,4,3,7],
-"df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fafc2d5c4efc978f20006403e5949b0c84":[8,0,0,0,1,2,16,5,0,4,3,1],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html":[7,0,3566],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a216d723f309ffa46df4bba7af79752c8":[7,0,3566,2],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a3da85c726007690220e9b4f81d30f185":[7,0,3566,1],
-"df/d21/classspell__kalecgos__curse__of__boundless__agony__aura.html#a43fe84c2717d73e20a2562f596a84f36":[7,0,3566,3]
+"df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fadaa7d9082664b40fc2ae6f6e16718baf":[8,0,0,0,1,2,16,5,0,4,3,7]
 };

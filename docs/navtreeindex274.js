@@ -1,5 +1,10 @@
 var NAVTREEINDEX274 =
 {
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[5,0,18,14,7],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[7,0,5,14,7],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[7,0,5,14,0],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[5,0,18,14,0],
+"da/d5f/structnpc__ulduar__hodir__shaman.html":[7,0,2284],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a02476e4ddb2287c647a2a4bd7e342150":[7,0,2284,8],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a08af85d3446c86443ff5a620b159d000":[7,0,2284,5],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa":[7,0,2284,9],
@@ -244,10 +249,5 @@ var NAVTREEINDEX274 =
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420ae73234222b3a934423cb2c47827d9055":[8,0,0,0,1,2,5,3,24,1],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420af48b05fc2213181717f3490c46c63094":[8,0,0,0,1,2,5,3,24,10],
 "da/d70/AuctionHouseSearcher_8h.html#add0df1394d287b79672ebf01c59138c1":[8,0,0,0,1,2,5,3,20],
-"da/d70/AuctionHouseSearcher_8h.html#afefbc3444cfffa5e2fe0ded42a20e407":[8,0,0,0,1,2,5,3,21],
-"da/d70/classat__icc__saurfang__portal.html":[7,0,233],
-"da/d70/classat__icc__saurfang__portal.html#a7f30058251c520634a0b7bad08380e5d":[7,0,233,0],
-"da/d70/classat__icc__saurfang__portal.html#a8980fe0e67aa33335f0fdb947a294213":[7,0,233,1],
-"da/d70/classspell__gen__petrified__bark.html":[7,0,3135],
-"da/d70/classspell__gen__petrified__bark.html#a514ba9c8222312bb213fcebb418d2499":[7,0,3135,1]
+"da/d70/AuctionHouseSearcher_8h.html#afefbc3444cfffa5e2fe0ded42a20e407":[8,0,0,0,1,2,5,3,21]
 };

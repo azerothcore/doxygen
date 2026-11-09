@@ -1,5 +1,9 @@
 var NAVTREEINDEX167 =
 {
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,1,1,0,12],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a7129217f8f0a9588a819f2265a47b5":[8,0,0,0,1,3,5,1,1,0,12,4],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[8,0,0,0,1,3,5,1,1,0,12,3],
+"d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca378ccb5999e81f68ffc266ce546dedfb":[8,0,0,0,1,3,5,1,1,0,12,5],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca39413b7e4df59092af453c9df76a6f58":[8,0,0,0,1,3,5,1,1,0,12,8],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca61c1c673dcdc637c18e45a16fcad5cbe":[8,0,0,0,1,3,5,1,1,0,12,2],
 "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca66942423c2eaaf561eb862af838d78ce":[8,0,0,0,1,3,5,1,1,0,12,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX167 =
 "d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a78569ce7a1386704a7b7389d30d62d8e":[8,0,0,0,1,3,5,7,0,3,1],
 "d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a7d02805c6e8da030fdc84d7a5ff82ce7":[8,0,0,0,1,3,5,7,0,3,3],
 "d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,7,0,3,2],
-"d5/de3/boss__anubrekhan_8cpp.html#a186758cdf7f07419df3770b278368f7b":[8,0,0,0,1,3,5,7,0,5],
-"d5/de3/boss__anubrekhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,7,0,2],
-"d5/de3/boss__anubrekhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04":[8,0,0,0,1,3,5,7,0,2,0],
-"d5/de3/boss__anubrekhan_8cpp.html#a36f4d95de326f7b4132b469869110c12":[8,0,0,0,1,3,5,7,0,1],
-"d5/de3/boss__anubrekhan_8cpp.html#a36f4d95de326f7b4132b469869110c12a268b84956ae24cf9c5237ba0a2850f8f":[8,0,0,0,1,3,5,7,0,1,1]
+"d5/de3/boss__anubrekhan_8cpp.html#a186758cdf7f07419df3770b278368f7b":[8,0,0,0,1,3,5,7,0,5]
 };

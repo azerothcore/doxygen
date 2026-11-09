@@ -1,5 +1,9 @@
 var NAVTREEINDEX131 =
 {
+"d4/d5b/boss__priestess__delrissa_8cpp.html#a69a87f4136ce5047201d16765c524033ab79970da263d22f87e8c192d563ac9e5":[8,0,0,0,1,3,2,5,1,17,3],
+"d4/d5b/boss__priestess__delrissa_8cpp.html#a69a87f4136ce5047201d16765c524033aec57197c9e71a7dbe4c5cc4f3fd516b3":[8,0,0,0,1,3,2,5,1,17,5],
+"d4/d5b/boss__priestess__delrissa_8cpp.html#a69a87f4136ce5047201d16765c524033af7874436e39c4730d80ac16bafd6feb8":[8,0,0,0,1,3,2,5,1,17,4],
+"d4/d5b/boss__priestess__delrissa_8cpp.html#a69a87f4136ce5047201d16765c524033affdfb7a077825dc6792fbc0da351e871":[8,0,0,0,1,3,2,5,1,17,0],
 "d4/d5b/boss__priestess__delrissa_8cpp.html#a6f54cd5c10f2d1b54ed5c7a5c389ed27":[8,0,0,0,1,3,2,5,1,19],
 "d4/d5b/boss__priestess__delrissa_8cpp.html#a6f54cd5c10f2d1b54ed5c7a5c389ed27a01c8d326e5347f6017bbe58a6bd868ca":[8,0,0,0,1,3,2,5,1,19,3],
 "d4/d5b/boss__priestess__delrissa_8cpp.html#a6f54cd5c10f2d1b54ed5c7a5c389ed27a5a0d904d66dec096d1d013333b118f88":[8,0,0,0,1,3,2,5,1,19,4],
@@ -94,10 +98,10 @@ var NAVTREEINDEX131 =
 "d4/d5d/structlfg_1_1LfgUpdateData.html":[7,0,5,17],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a01326fafaa2ce562b5710d1d7ca75330":[7,0,5,17,0],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a01326fafaa2ce562b5710d1d7ca75330":[5,0,18,17,0],
-"d4/d5d/structlfg_1_1LfgUpdateData.html#a0e9b49693248b438dbc508e230a870db":[5,0,18,17,4],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a0e9b49693248b438dbc508e230a870db":[7,0,5,17,4],
-"d4/d5d/structlfg_1_1LfgUpdateData.html#a146e43854f66bf57f703d7089a24481e":[5,0,18,17,6],
+"d4/d5d/structlfg_1_1LfgUpdateData.html#a0e9b49693248b438dbc508e230a870db":[5,0,18,17,4],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a146e43854f66bf57f703d7089a24481e":[7,0,5,17,6],
+"d4/d5d/structlfg_1_1LfgUpdateData.html#a146e43854f66bf57f703d7089a24481e":[5,0,18,17,6],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a248682a712dd43b8c4601830aae4ddec":[7,0,5,17,2],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a248682a712dd43b8c4601830aae4ddec":[5,0,18,17,2],
 "d4/d5d/structlfg_1_1LfgUpdateData.html#a398f1b9ce0737d833fe4566ecea20e31":[7,0,5,17,3],
@@ -124,10 +128,10 @@ var NAVTREEINDEX131 =
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#a00e778dd78dca96391d200e18dfc2c9d":[7,0,11,6,2],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#a57f40f48c26829f7da9e48efd839d773":[5,0,32,6,3],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#a57f40f48c26829f7da9e48efd839d773":[7,0,11,6,3],
-"d4/d5f/classVMAP_1_1IntersectionCallBack.html#ab377424b7edd0274f61967619700f841":[7,0,11,6,1],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#ab377424b7edd0274f61967619700f841":[5,0,32,6,1],
-"d4/d5f/classVMAP_1_1IntersectionCallBack.html#ac07872b93851fa7a4e3ec643652b44cf":[7,0,11,6,0],
+"d4/d5f/classVMAP_1_1IntersectionCallBack.html#ab377424b7edd0274f61967619700f841":[7,0,11,6,1],
 "d4/d5f/classVMAP_1_1IntersectionCallBack.html#ac07872b93851fa7a4e3ec643652b44cf":[5,0,32,6,0],
+"d4/d5f/classVMAP_1_1IntersectionCallBack.html#ac07872b93851fa7a4e3ec643652b44cf":[7,0,11,6,0],
 "d4/d5f/classnpc__mei__francis__mount.html":[7,0,2012],
 "d4/d5f/classnpc__mei__francis__mount.html#ab34facb1d4d9a542710340493488eaa8":[7,0,2012,1],
 "d4/d5f/classnpc__mei__francis__mount.html#ac1f14e0b94662432b399d6dfeb8a8107":[7,0,2012,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX131 =
 "d4/d66/boss__aeonus_8cpp.html#a823d3a37eeaefe7ecff6a68197460425":[8,0,0,0,1,3,4,1,3,0,3],
 "d4/d66/boss__aeonus_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[8,0,0,0,1,3,4,1,3,0,2],
 "d4/d66/boss__aeonus_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,4,1,3,0,2,3],
-"d4/d66/boss__aeonus_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba24b88fffa83116640b9dcfd4596553da":[8,0,0,0,1,3,4,1,3,0,2,1],
-"d4/d66/boss__aeonus_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,4,1,3,0,2,0],
-"d4/d66/boss__aeonus_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba55f111609d7846e27c2f642b9f46b1ac":[8,0,0,0,1,3,4,1,3,0,2,4],
-"d4/d66/boss__aeonus_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,4,1,3,0,2,2],
-"d4/d66/classspell__auriaya__sentinel__blast.html":[7,0,2695]
+"d4/d66/boss__aeonus_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba24b88fffa83116640b9dcfd4596553da":[8,0,0,0,1,3,4,1,3,0,2,1]
 };

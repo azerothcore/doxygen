@@ -1,5 +1,10 @@
 var NAVTREEINDEX365 =
 {
+"dd/dda/structboss__marli.html#aff86376080fdcb9773e0a4b2751d3ae6":[7,0,629,2],
+"dd/ddb/class__SpellScript.html":[7,0,18],
+"dd/ddb/class__SpellScript.html#a0ee15cbc62cccd346ce148c6acbe96f9":[7,0,18,17],
+"dd/ddb/class__SpellScript.html#a1094c9cbb65098fe0733ff54dce04388":[7,0,18,3],
+"dd/ddb/class__SpellScript.html#a38bdb79ae6d11489dd6007485c1510de":[7,0,18,19],
 "dd/ddb/class__SpellScript.html#a3f9d5cd0ea4eadbdb6a72f73875c0585":[7,0,18,18],
 "dd/ddb/class__SpellScript.html#a423786f1fc45a010a4ebc16db2645a1f":[7,0,18,10],
 "dd/ddb/class__SpellScript.html#a6a2621e4aeda24af6ec55b9a8c461262":[7,0,18,4],
@@ -231,12 +236,12 @@ var NAVTREEINDEX365 =
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,0,28,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,0,28,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[7,0,0,16,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[7,0,0,16,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,0,28,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[7,0,0,16,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,0,28,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[7,0,0,16,2],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,0,28,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[7,0,0,16,0],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,0,28,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[7,0,3202],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a570bb63c6ed7af58b0b886e8a954dea9":[7,0,3202,3],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761":[7,0,3202,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX365 =
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#ad7ba015a7878adad0820cf378d2632ca":[7,0,3202,2],
 "dd/dec/classChannelMgr.html":[7,0,870],
 "dd/dec/classChannelMgr.html#a17ce7f88be65f0432ab663dd264eb16e":[7,0,870,12],
-"dd/dec/classChannelMgr.html#a1ac5de545c0cb91088176fae883748ed":[7,0,870,14],
-"dd/dec/classChannelMgr.html#a26ffff762f0aa2d28be005fb2d914821":[7,0,870,7],
-"dd/dec/classChannelMgr.html#a2f9099cf528aacae9110d349841e57a7":[7,0,870,3],
-"dd/dec/classChannelMgr.html#a418644f22226851f452e7698eab973eb":[7,0,870,6],
-"dd/dec/classChannelMgr.html#a41bbe928d2e50c899a10b4b7da0e1a68":[7,0,870,13],
-"dd/dec/classChannelMgr.html#a4e153c81aede8182160b0a5ab89e5b4b":[7,0,870,1]
+"dd/dec/classChannelMgr.html#a1ac5de545c0cb91088176fae883748ed":[7,0,870,14]
 };

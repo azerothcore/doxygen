@@ -1,5 +1,10 @@
 var NAVTREEINDEX297 =
 {
+"db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463ea1e75e4729bfd2f856f8d28ac9dc62880":[8,0,0,0,1,3,5,0,0,5,7,1],
+"db/d53/boss__prince__taldaram_8cpp.html#a50ba2acfd483f395e71abb80f687463ea858ba1dc5b34b3ff5f41a194feea519f":[8,0,0,0,1,3,5,0,0,5,7,0],
+"db/d53/boss__prince__taldaram_8cpp.html#a510a69ce2349de27459f197969d0af94":[8,0,0,0,1,3,5,0,0,5,9],
+"db/d53/boss__prince__taldaram_8cpp.html#a510a69ce2349de27459f197969d0af94a455d59e80d18bd8c384c041c38c68b9a":[8,0,0,0,1,3,5,0,0,5,9,1],
+"db/d53/boss__prince__taldaram_8cpp.html#a510a69ce2349de27459f197969d0af94a9a2289458e7b2c3c0012634bc5891a67":[8,0,0,0,1,3,5,0,0,5,9,2],
 "db/d53/boss__prince__taldaram_8cpp.html#a510a69ce2349de27459f197969d0af94af20383c1216195d925ba8e456946c988":[8,0,0,0,1,3,5,0,0,5,9,0],
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,0,0,5,8],
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298ca0191744df42ac27cb16895d2f704b93f":[8,0,0,0,1,3,5,0,0,5,8,6],
@@ -18,12 +23,12 @@ var NAVTREEINDEX297 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[8,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[8,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[8,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,35,6,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[7,0,13,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,35,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[7,0,13,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[7,0,13,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,35,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[7,0,13,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[7,0,3235],
 "db/d55/classspell__hallows__end__candy.html#a7e6ecd28a6b1f161619e179bc386388e":[7,0,3235,0],
 "db/d55/classspell__hallows__end__candy.html#a87a787c6ab3804847c90266f570381c6":[7,0,3235,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX297 =
 "db/d5c/structboss__vezax.html#a79c3312d27ef44cf3aa2fb4b94e0ee0a":[7,0,784,7],
 "db/d5c/structboss__vezax.html#a88331ae2f7cc9625aaf36836abf244f0":[7,0,784,10],
 "db/d5c/structboss__vezax.html#a8e9210793b5b00d81bf5f1a3eb214f29":[7,0,784,0],
-"db/d5c/structboss__vezax.html#ab339f12be1e9da262f6243cfe22908c2":[7,0,784,6],
-"db/d5c/structboss__vezax.html#ab9288041d27b2cf2bf352085ba13ace1":[7,0,784,9],
-"db/d5c/structboss__vezax.html#ac22557ea0f60a04d51f016cc09d99417":[7,0,784,4],
-"db/d5c/structboss__vezax.html#ac7c14cfbae5d031615e7f62ded2045c1":[7,0,784,1],
-"db/d5c/structboss__vezax.html#ad57dabcfafbd2a10b1dbb39751600bb9":[7,0,784,5],
-"db/d5c/structboss__vezax.html#adc5e49598b2a9c463a91da0d50dbe3dc":[7,0,784,12]
+"db/d5c/structboss__vezax.html#ab339f12be1e9da262f6243cfe22908c2":[7,0,784,6]
 };

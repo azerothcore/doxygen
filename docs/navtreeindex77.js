@@ -1,5 +1,9 @@
 var NAVTREEINDEX77 =
 {
+"d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a162870aad6c99276f760b2e37b42c6c9":[7,0,603,0,17],
+"d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a277180410090d1857bcc8962e22d965d":[7,0,603,0,0],
+"d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a325834b73d181e0506e1ea40380cddac":[7,0,603,0,8],
+"d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a563f30e5e2a46c514cb114ef72dfa9e8":[7,0,603,0,3],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a6ab4dc86911debb47e9d1784cb65dbb8":[7,0,603,0,7],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a72971bdfe394da6fe94ce340143ab060":[7,0,603,0,14],
 "d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html#a7eec8900602522cf39dd3a8dba733649":[7,0,603,0,9],
@@ -26,8 +30,8 @@ var NAVTREEINDEX77 =
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#a88f9d4e72273f8f835e809b27d5b52d8":[7,0,2135,0,2],
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#ab3c6c27a31f12443efcad314cbfa1129":[7,0,2135,0,5],
 "d2/dd1/structnpc__ravenclaw__apparition_1_1npc__ravenclaw__apparitionAI.html#af3f6ea6094b82e06ce7ef2d4432bd88a":[7,0,2135,0,4],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,35,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[7,0,13,2,8],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[5,0,35,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,35,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[7,0,13,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,35,2,8,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX77 =
 "d2/de1/classlearn__commandscript.html#a2dc980af9662b3b1c783e3603732ca01":[7,0,1451,14],
 "d2/de1/classlearn__commandscript.html#a44b538a1031ad69bec762f1a791cf11f":[7,0,1451,11],
 "d2/de1/classlearn__commandscript.html#a7ef51367ab7ab1c360390ff5552c0f51":[7,0,1451,0],
-"d2/de1/classlearn__commandscript.html#a88e28ec43968c5a8b0bfd1f190d89a98":[7,0,1451,4],
-"d2/de1/classlearn__commandscript.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8":[7,0,1451,1],
-"d2/de1/classlearn__commandscript.html#a956716b7743dfc6de922b0badf40aeda":[7,0,1451,6],
-"d2/de1/classlearn__commandscript.html#a985d2a10f01808c4bff2922b1530e911":[7,0,1451,3],
-"d2/de1/classlearn__commandscript.html#aaa19e92798ac56355a95e625ead56556":[7,0,1451,9]
+"d2/de1/classlearn__commandscript.html#a88e28ec43968c5a8b0bfd1f190d89a98":[7,0,1451,4]
 };

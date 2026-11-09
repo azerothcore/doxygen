@@ -1,5 +1,10 @@
 var NAVTREEINDEX364 =
 {
+"dd/dd4/classBattlegroundEY.html#a4aecc5819c764e9d8877128b4f88c5ee":[7,0,338,27],
+"dd/dd4/classBattlegroundEY.html#a57ad26ba5c2bd943b6cef0b7e1c89047":[7,0,338,21],
+"dd/dd4/classBattlegroundEY.html#a5d5bac36a19271758235be840f78e3c3":[7,0,338,18],
+"dd/dd4/classBattlegroundEY.html#a5ebf4beb2d3209a1256cc422ee3a7bd9":[7,0,338,6],
+"dd/dd4/classBattlegroundEY.html#a6794c411d4e1d70073da9c4f2a243de5":[7,0,338,43],
 "dd/dd4/classBattlegroundEY.html#a684cd0542820ac28867093c717f139b1":[7,0,338,29],
 "dd/dd4/classBattlegroundEY.html#a6f7775340f04768d873d511630a5adee":[7,0,338,17],
 "dd/dd4/classBattlegroundEY.html#a78d122110a9ab5ec21e32d8108ce6ba6":[7,0,338,4],
@@ -199,12 +204,12 @@ var NAVTREEINDEX364 =
 "dd/dd6/structboss__falric.html#aaf36f9748993381c39b6b26bdfa33dca":[7,0,475,8],
 "dd/dd6/structboss__falric.html#ad157b74477a84d13ab1a5bd5d9275d17":[7,0,475,0],
 "dd/dd6/structboss__falric.html#addda2f3fe13801f533069c8e5b83cdbd":[7,0,475,2],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,35,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[7,0,13,6,6],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[7,0,13,6,6,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,35,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,35,6,6,6],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[7,0,13,6,6,2],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[7,0,13,6,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,35,6,6,2],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[7,0,13,6,6,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,35,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[7,0,13,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,35,6,6,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX364 =
 "dd/dda/structboss__marli.html#ac74bd382c3dc826f7e4426bec3557094":[7,0,629,5],
 "dd/dda/structboss__marli.html#ad6977930dac1cddd2162f7db1b239c83":[7,0,629,3],
 "dd/dda/structboss__marli.html#ada18ae0feb0c512267ec6bd83b8ac591":[7,0,629,6],
-"dd/dda/structboss__marli.html#af2b3f0e75ad60b6a9d013a3e9654021e":[7,0,629,7],
-"dd/dda/structboss__marli.html#aff86376080fdcb9773e0a4b2751d3ae6":[7,0,629,2],
-"dd/ddb/class__SpellScript.html":[7,0,18],
-"dd/ddb/class__SpellScript.html#a0ee15cbc62cccd346ce148c6acbe96f9":[7,0,18,17],
-"dd/ddb/class__SpellScript.html#a1094c9cbb65098fe0733ff54dce04388":[7,0,18,3],
-"dd/ddb/class__SpellScript.html#a38bdb79ae6d11489dd6007485c1510de":[7,0,18,19]
+"dd/dda/structboss__marli.html#af2b3f0e75ad60b6a9d013a3e9654021e":[7,0,629,7]
 };

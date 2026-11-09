@@ -1,5 +1,10 @@
 var NAVTREEINDEX234 =
 {
+"d8/d74/classWorldSession.html#af48014753194bb451b7eec7b9b72e022":[4,1,20,330],
+"d8/d74/classWorldSession.html#af4a39b2bc51c6a9de29bdf06652b720a":[4,1,20,609],
+"d8/d74/classWorldSession.html#af518ac76dcdfced86a87c3e3c10836a7":[4,1,20,572],
+"d8/d74/classWorldSession.html#af51f82e3837d6a41d0799823d1cb1854":[4,1,20,478],
+"d8/d74/classWorldSession.html#af553dfbbb05274ac70665a8736aeae2a":[4,1,20,134],
 "d8/d74/classWorldSession.html#af6218ea9fbf792eb1b82129eddb16cb9":[4,1,20,553],
 "d8/d74/classWorldSession.html#af692e9e281da0af57b30bd06144495d5":[4,1,20,383],
 "d8/d74/classWorldSession.html#af71c30216ee03e9a298661e9df5e1f5d":[4,1,20,505],
@@ -86,12 +91,12 @@ var NAVTREEINDEX234 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[7,0,1001,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,1001,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,1001,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,35,6,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,35,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,35,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1633],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1633,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1633,7],
@@ -244,10 +249,5 @@ var NAVTREEINDEX234 =
 "d8/d80/classspell__hodir__storm__cloud__aura.html":[7,0,3255],
 "d8/d80/classspell__hodir__storm__cloud__aura.html#a2bb4fe398e6b225dd14bdb51e3f01522":[7,0,3255,3],
 "d8/d80/classspell__hodir__storm__cloud__aura.html#a4cc9b379480c50e1116e3dab03afeaad":[7,0,3255,1],
-"d8/d80/classspell__hodir__storm__cloud__aura.html#ac82d5a47f5eca266eed99ab65f9eb5bf":[7,0,3255,2],
-"d8/d80/classspell__hodir__storm__cloud__aura.html#ae22cd3b6f7cf515e80dd1125349dd152":[7,0,3255,0],
-"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html":[7,0,3490],
-"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d":[7,0,3490,0],
-"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#a4f0f4d29231ef1976d726b66f6277ca8":[7,0,3490,1],
-"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#ad75843039e582b64da28b4818f48aeb3":[7,0,3490,2]
+"d8/d80/classspell__hodir__storm__cloud__aura.html#ac82d5a47f5eca266eed99ab65f9eb5bf":[7,0,3255,2]
 };

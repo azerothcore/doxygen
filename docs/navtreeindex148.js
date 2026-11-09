@@ -1,5 +1,9 @@
 var NAVTREEINDEX148 =
 {
+"d5/d0a/classRoll.html#a9c86d54397c4ce46d691e77cc476ffe6":[7,0,2571,14],
+"d5/d0a/classRoll.html#acfd3e2d5fb152a9848e6e4fe47111bad":[7,0,2571,10],
+"d5/d0a/classRoll.html#ae02ba19cfd317143e839cd4a3751a3eb":[7,0,2571,16],
+"d5/d0a/classRoll.html#aeeac3fb83c410a3d256c0cbf45f48e95":[7,0,2571,17],
 "d5/d0a/classRoll.html#af0c8c87b3fa9cd45cf51e774123d3b58":[7,0,2571,3],
 "d5/d0a/classRoll.html#af4877388e7efe95452541a3d2788fa7f":[7,0,2571,7],
 "d5/d0a/classRoll.html#af5484bd16d8ac5f6d8040d3828fcecf4":[7,0,2571,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d1b/classThreatManager.html#a25aa066ba98678029d373def665bfb42":[7,0,4596,68],
 "d5/d1b/classThreatManager.html#a28082594272f1862847e7aef13da83df":[7,0,4596,84],
 "d5/d1b/classThreatManager.html#a2c35d814781a0556350a841bfb100420":[7,0,4596,54],
-"d5/d1b/classThreatManager.html#a2e63557d01578bc111ddab2bc4f74375":[7,0,4596,39],
-"d5/d1b/classThreatManager.html#a33142681c18b609a64084b691541f638":[7,0,4596,14],
-"d5/d1b/classThreatManager.html#a33a4be0d31c7a33cbac65761a0cf82f2":[7,0,4596,59],
-"d5/d1b/classThreatManager.html#a340c969a0b007410e7c8249465b611dc":[7,0,4596,16],
-"d5/d1b/classThreatManager.html#a355652fad31e7454a4d4babe126e8f0f":[7,0,4596,79]
+"d5/d1b/classThreatManager.html#a2e63557d01578bc111ddab2bc4f74375":[7,0,4596,39]
 };

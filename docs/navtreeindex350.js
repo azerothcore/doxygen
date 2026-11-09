@@ -1,5 +1,10 @@
 var NAVTREEINDEX350 =
 {
+"dd/d3b/structGameObjectTemplate.html#a18f755bd8a231eb200e091809e2622dd":[7,0,1130,94],
+"dd/d3b/structGameObjectTemplate.html#a19610d1dbeacd9f5ee907fa427d6663d":[7,0,1130,0],
+"dd/d3b/structGameObjectTemplate.html#a1a879956168a8be401faa15827f91477":[7,0,1130,61],
+"dd/d3b/structGameObjectTemplate.html#a1bc816bf3e90d0cc0487e7a2d4a79f87":[7,0,1130,62],
+"dd/d3b/structGameObjectTemplate.html#a1bed78efc783fd519e7cb9e788c0ca36":[7,0,1130,172],
 "dd/d3b/structGameObjectTemplate.html#a1c3ee1358cfe29d08587a6d014d97845":[7,0,1130,111],
 "dd/d3b/structGameObjectTemplate.html#a1c78664b7272010dac83e9f4ea132330":[7,0,1130,185],
 "dd/d3b/structGameObjectTemplate.html#a1c7b9dcd793986593ef5cac164b65994":[7,0,1130,124],
@@ -189,12 +194,12 @@ var NAVTREEINDEX350 =
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[8,0,0,0,1,2,31,1,7,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[7,0,11,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,32,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,32,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[7,0,11,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,32,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[5,0,32,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a17eef5c7a0ebf9b9963740a10fca459f":[7,0,11,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,32,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[7,0,11,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[5,0,32,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ab59b10bde437cca895b69c2035174b6d":[7,0,11,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[7,0,11,8,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX350 =
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2008,0,5],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a2106ab4d32d0f221f62eeffd93f71380":[7,0,2008,0,1],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a3b022feb2303875d32ad981e84f66854":[7,0,2008,0,3],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a5d4826dcf893f444a42dedba57460110":[7,0,2008,0,7],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a6b9b2ed76e26f908ff2272ad8744a59e":[7,0,2008,0,2],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ab827933527ed7b4a04b162034876ced8":[7,0,2008,0,0],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#ac697fc6cbc20c7f316845ed26436049b":[7,0,2008,0,6],
-"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#acd6f45abb93f3f043cd85647405a50f6":[7,0,2008,0,4],
-"dd/d44/structboss__akilzon.html":[7,0,384]
+"dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a5d4826dcf893f444a42dedba57460110":[7,0,2008,0,7]
 };

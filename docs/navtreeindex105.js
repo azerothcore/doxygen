@@ -1,5 +1,9 @@
 var NAVTREEINDEX105 =
 {
+"d3/d78/classspell__novos__summon__minions.html#a6f036bb2d42f248e0c252158a5ecedf1":[7,0,3749,2],
+"d3/d78/classspell__novos__summon__minions.html#a71b28156c628aacbc6cb481038c0e76c":[7,0,3749,1],
+"d3/d78/classspell__novos__summon__minions.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c":[7,0,3749,3],
+"d3/d78/classspell__novos__summon__minions.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa":[7,0,3749,0],
 "d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html":[7,0,4281],
 "d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a19221c8453f23a7d384f6a2cb24c2fc2":[7,0,4281,2],
 "d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a71638bdecb0f580dceff7858441056d8":[7,0,4281,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d7f/structgo__sister__mercy.html#a5ad9020e2717ef93d97a742ec16b14e6":[7,0,1220,1],
 "d3/d80/WorldSocket_8h.html":[8,0,0,0,1,2,39,10],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[7,0,5,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[7,0,5,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3]
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4]
 };

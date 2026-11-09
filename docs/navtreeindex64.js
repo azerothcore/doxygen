@@ -1,5 +1,9 @@
 var NAVTREEINDEX64 =
 {
+"d2/d4b/classPlayer.html#ad20935f534838bbd307856e87cd007d5":[7,0,2446,531],
+"d2/d4b/classPlayer.html#ad20fffe222d8dce887ad6b29ecf9dc04":[7,0,2446,1162],
+"d2/d4b/classPlayer.html#ad2344c58fd2e1ec94326f4b036ff9ea5":[7,0,2446,387],
+"d2/d4b/classPlayer.html#ad27cc2a187a5fd95caea942957061a9b":[7,0,2446,1183],
 "d2/d4b/classPlayer.html#ad2a088f6d678a60ac7998394b1c9e82f":[7,0,2446,542],
 "d2/d4b/classPlayer.html#ad2da72ef6841c93652986dcded97c960":[7,0,2446,1212],
 "d2/d4b/classPlayer.html#ad2debe6316c3b6ebab131713336f3284":[7,0,2446,485],
@@ -238,16 +242,12 @@ var NAVTREEINDEX64 =
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[7,0,13,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,35,8,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[7,0,13,8,0,1],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[7,0,13,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,35,8,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[7,0,13,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,35,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[7,0,13,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,35,8,0,3],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[7,0,13,8,0,3],
 "d2/d4c/classspell__item__reindeer__transformation.html":[7,0,3500],
-"d2/d4c/classspell__item__reindeer__transformation.html#a8dcd509be4d9034e8c0262bdcb2cf189":[7,0,3500,2],
-"d2/d4c/classspell__item__reindeer__transformation.html#acb0b66631c0b3df227ee371e2e4000ac":[7,0,3500,1],
-"d2/d4c/classspell__item__reindeer__transformation.html#ad6d449ac393851166d8be653639c7d05":[7,0,3500,0],
-"d2/d4c/classspell__item__reindeer__transformation.html#af8f4e6bb32120c8113ddddcda17ae51d":[7,0,3500,3],
-"d2/d4c/classspell__malygos__vortex__visual.html":[7,0,3682]
+"d2/d4c/classspell__item__reindeer__transformation.html#a8dcd509be4d9034e8c0262bdcb2cf189":[7,0,3500,2]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX52 =
 {
+"d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415":[8,0,0,0,1,2,3,4,4,5],
+"d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c":[8,0,0,0,1,2,3,4,4,3],
+"d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0":[8,0,0,0,1,2,3,4,4,0],
+"d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58":[8,0,0,0,1,2,3,4,4,2],
 "d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059":[8,0,0,0,1,2,3,4,4,4],
 "d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0":[8,0,0,0,1,2,3,4,4,1],
 "d2/d07/boss__watchkeeper__gargolmar_8cpp.html":[8,0,0,0,1,3,7,4,1,2],
@@ -75,14 +79,14 @@ var NAVTREEINDEX52 =
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ad501fe77b1d678cb593be6a0a8afd0a8":[7,0,2385,11],
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae16e1448e5c21daea0a56ede78b3174a":[7,0,2385,1],
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae907325621c0c0a40fc1e7761b81e832":[7,0,2385,10],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[7,0,13,12,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[5,0,35,12,2],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[7,0,13,12,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[7,0,13,12,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,35,12,2,2],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[7,0,13,12,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,35,12,2,3],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,35,12,2,1],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[7,0,13,12,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[7,0,13,12,2,1],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,35,12,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,35,12,2,0],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[7,0,13,12,2,0],
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html":[7,0,3534],
@@ -245,9 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d14/structboss__felblood__kaelthas.html#a984dcde8d78adbce00e307eb3c4d32b8":[7,0,481,2],
 "d2/d14/structboss__felblood__kaelthas.html#aae902304d9e7ef27bdb9bde8cdf85605":[7,0,481,3],
 "d2/d14/structboss__felblood__kaelthas.html#ab4e884a341fa25a555c160f6978861fc":[7,0,481,8],
-"d2/d14/structboss__felblood__kaelthas.html#abde9a26abd8eef0b8cd25cbd6522d899":[7,0,481,7],
-"d2/d14/structboss__felblood__kaelthas.html#ae1ac5b5da2a548f5b1dc1bdffb303b25":[7,0,481,6],
-"d2/d14/structboss__felblood__kaelthas.html#ae29fb38a2f7dcf778b4443bc56f10e84":[7,0,481,1],
-"d2/d14/structboss__felblood__kaelthas.html#affea155d0eb2b4dda1b9dc8847fc2444":[7,0,481,4],
-"d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html":[7,0,2234,0]
+"d2/d14/structboss__felblood__kaelthas.html#abde9a26abd8eef0b8cd25cbd6522d899":[7,0,481,7]
 };

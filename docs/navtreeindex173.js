@@ -1,13 +1,17 @@
 var NAVTREEINDEX173 =
 {
+"d6/d09/classSpawnedPoolData.html#a3332ac01f79565a51a42ced1ccda75ce":[7,0,2647,18],
+"d6/d09/classSpawnedPoolData.html#a359ce23f8902a5d167c371fa08b77622":[7,0,2647,8],
+"d6/d09/classSpawnedPoolData.html#a3acf82d50d29f8a6709f3945852814b3":[7,0,2647,0],
+"d6/d09/classSpawnedPoolData.html#a482389c673a3dad0a989584daeff718e":[7,0,2647,21],
 "d6/d09/classSpawnedPoolData.html#a5f817e3b7c3d5b828862c74a221d4a84":[7,0,2647,23],
 "d6/d09/classSpawnedPoolData.html#a65c0992944ce39744ae424335c1ac8db":[7,0,2647,22],
 "d6/d09/classSpawnedPoolData.html#a7c45dd2c6997ec782311de2045ed3240":[7,0,2647,6],
 "d6/d09/classSpawnedPoolData.html#a91fc6637b2f7e0b2a2a0d0affd55f928":[7,0,2647,20],
 "d6/d09/classSpawnedPoolData.html#a94d148833c7df1f2eacc779d1606884d":[7,0,2647,7],
 "d6/d09/classSpawnedPoolData.html#aa5a3584718d0fb70094628a924d4a62b":[7,0,2647,14],
-"d6/d09/classSpawnedPoolData.html#aacc2dc95c6d0ebb71e350b90fe425fae":[7,0,2647,11],
 "d6/d09/classSpawnedPoolData.html#aacc2dc95c6d0ebb71e350b90fe425fae":[7,0,2647,12],
+"d6/d09/classSpawnedPoolData.html#aacc2dc95c6d0ebb71e350b90fe425fae":[7,0,2647,11],
 "d6/d09/classSpawnedPoolData.html#aaea1258432d3c4061c08430f076cf20e":[7,0,2647,27],
 "d6/d09/classSpawnedPoolData.html#ab9e8b69c2eba9aa762ced961937932e6":[7,0,2647,9],
 "d6/d09/classSpawnedPoolData.html#abe8f0066dfccdc2f28abda68a83bd0a3":[7,0,2647,26],
@@ -245,9 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d0c/go__scripts_8cpp.html#aeb45547dcb7fcfa8a220196202e29ead":[8,0,0,0,1,3,10,5,67],
 "d6/d0c/go__scripts_8cpp.html#aeb45547dcb7fcfa8a220196202e29eada8a6d9cfd8e359afb76b8eb63a183a59d":[8,0,0,0,1,3,10,5,67,0],
 "d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fc":[8,0,0,0,1,3,10,5,78],
-"d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca51957276e00d01081d2a598d1055985b":[8,0,0,0,1,3,10,5,78,0],
-"d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca65bfe4ffff93d1df9a6fdfcb6e760f0c":[8,0,0,0,1,3,10,5,78,1],
-"d6/d0f/classspell__dk__anti__magic__zone.html":[7,0,2829],
-"d6/d0f/classspell__dk__anti__magic__zone.html#a2419bff95bad81a0f63c4988f14eb3f9":[7,0,2829,4],
-"d6/d0f/classspell__dk__anti__magic__zone.html#a279a025cac490ee3647f47584b59179f":[7,0,2829,1]
+"d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca51957276e00d01081d2a598d1055985b":[8,0,0,0,1,3,10,5,78,0]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX256 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a0ca75d3d28cc8715d58618900624c42c":[8,0,0,0,1,3,5,9,2,1,12,7],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a470d03afa22c989a62d65ba1ce60863b":[8,0,0,0,1,3,5,9,2,1,12,15],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a64c1fb1d0c8db3c5308fc59434f1aa6f":[8,0,0,0,1,3,5,9,2,1,12,4],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a8af35ba8d407858ebd5eb5ccebd0fcf5":[8,0,0,0,1,3,5,9,2,1,12,5],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a94c76b59138e1ce34314b5bd42963b03":[8,0,0,0,1,3,5,9,2,1,12,6],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ab0b53acc2b4505b4fea9d904562757d0":[8,0,0,0,1,3,5,9,2,1,12,3],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165accde0f15acdcdd79daae690e26a51739":[8,0,0,0,1,3,5,9,2,1,12,9],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ad2144fd58d2461cfcb17fd2a61fe59bc":[8,0,0,0,1,3,5,9,2,1,12,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX256 =
 "d9/d92/VehicleScript_8cpp.html":[8,0,0,0,1,2,38,0,90],
 "d9/d92/VehicleScript_8cpp.html#af505a519aaa0d7e6070eb203075ff98d":[8,0,0,0,1,2,38,0,90,0],
 "d9/d93/classspell__shadow__sickle__periodic__damage.html":[7,0,4171],
-"d9/d93/classspell__shadow__sickle__periodic__damage.html#a3711004edaef7242d9cae1f23f9b7467":[7,0,4171,1],
-"d9/d93/classspell__shadow__sickle__periodic__damage.html#ad22b433005b2678bde3516a01eaaaa60":[7,0,4171,0],
-"d9/d93/classspell__shadow__sickle__periodic__damage.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef":[7,0,4171,2],
-"d9/d93/structSpellRangeEntry.html":[7,0,4537],
-"d9/d93/structSpellRangeEntry.html#a127a46f2382edea750ca567d5ea3d304":[7,0,4537,3],
-"d9/d93/structSpellRangeEntry.html#a12b3cb0e28ed0f47ff5ccea09fc8b860":[7,0,4537,0]
+"d9/d93/classspell__shadow__sickle__periodic__damage.html#a3711004edaef7242d9cae1f23f9b7467":[7,0,4171,1]
 };

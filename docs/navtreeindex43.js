@@ -1,5 +1,9 @@
 var NAVTREEINDEX43 =
 {
+"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a1216634009d635f5a1658cae62f92133":[7,0,1910,0,2],
+"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a126b67aacdfd0d96ad443944e9244f3b":[7,0,1910,0,11],
+"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a19042362c0dc7da80b81d284d2fa7e4b":[7,0,1910,0,16],
+"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a19527a426055c689a36f5b02e2978307":[7,0,1910,0,5],
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a235353e41ee463f43f3d18a7b4f5a75d":[7,0,1910,0,7],
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a483e2a5a89b3dc4cfd51bb78732a6af2":[7,0,1910,0,8],
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a51c68ff78150b7351dc34edf7a51e1a7":[7,0,1910,0,0],
@@ -149,10 +153,10 @@ var NAVTREEINDEX43 =
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[5,0,0,57],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[7,0,0,45,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[5,0,0,57,3],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[7,0,0,45,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[5,0,0,57,2],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[7,0,0,45,0],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[7,0,0,45,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,0,57,0],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[7,0,0,45,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[7,0,0,45,1],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[5,0,0,57,1],
 "d1/dbb/instance__utgarde__keep_8cpp.html":[8,0,0,0,1,3,5,10,0,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX43 =
 "d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a009f7b2c7db6772795964d79e824fe39":[8,0,0,0,1,3,2,4,12,12,8],
 "d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a0dda02ca8b0812b786fac669f561391c":[8,0,0,0,1,3,2,4,12,12,7],
 "d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a194fbd5649914540419c9ab385bdfb9c":[8,0,0,0,1,3,2,4,12,12,6],
-"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a19f1f43f33da2e3c24ef30ccc998df70":[8,0,0,0,1,3,2,4,12,12,10],
-"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a24c2cac9c8ddf33be8197356def8ce06":[8,0,0,0,1,3,2,4,12,12,22],
-"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a255a3ba1abdb2bedfa0db5dde6110b24":[8,0,0,0,1,3,2,4,12,12,3],
-"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a481eeb6f4a512282e700abafc3a0ec9b":[8,0,0,0,1,3,2,4,12,12,13],
-"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a63f9a7ea6c7612489c4e38baba5b29a2":[8,0,0,0,1,3,2,4,12,12,20]
+"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a19f1f43f33da2e3c24ef30ccc998df70":[8,0,0,0,1,3,2,4,12,12,10]
 };

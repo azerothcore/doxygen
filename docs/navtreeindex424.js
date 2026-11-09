@@ -1,5 +1,10 @@
 var NAVTREEINDEX424 =
 {
+"df/dbb/structboss__flame__leviathan.html#ab29c468e9c530508232c3c511416ff92":[7,0,486,19],
+"df/dbb/structboss__flame__leviathan.html#ac371303cfea41e4f043a8d1bee24520c":[7,0,486,16],
+"df/dbb/structboss__flame__leviathan.html#ac726c99f43d48fd1e9e8b43fe20e8bb9":[7,0,486,22],
+"df/dbb/structboss__flame__leviathan.html#ac84312fff12d10097d4364dc0dac8207":[7,0,486,11],
+"df/dbb/structboss__flame__leviathan.html#acdcac20923bb0a52abef0590f03b8b05":[7,0,486,6],
 "df/dbb/structboss__flame__leviathan.html#acf26fcd0d918ae113d1ff5e4358cfc1c":[7,0,486,18],
 "df/dbb/structboss__flame__leviathan.html#ad5f0d06bbe2e5e821bbaf616c4dc1288":[7,0,486,2],
 "df/dbb/structboss__flame__leviathan.html#ad6ef9a66605f6bf8955cfaa4dc16b311":[7,0,486,10],
@@ -18,14 +23,14 @@ var NAVTREEINDEX424 =
 "df/dbc/structSpellDifficultyEntry.html":[7,0,4492],
 "df/dbc/structSpellDifficultyEntry.html#a0272b3c1130508a2681035c91ee416e6":[7,0,4492,0],
 "df/dbc/structSpellDifficultyEntry.html#a231d22a763ddcd9f1fbdab81521dcf67":[7,0,4492,1],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[7,0,0,79],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[5,0,0,91],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[5,0,0,91,5],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[7,0,0,79],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[7,0,0,79,5],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,0,91,2],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[5,0,0,91,5],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[7,0,0,79,2],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,0,91,4],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,0,91,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[7,0,0,79,4],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,0,91,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[7,0,0,79,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,0,91,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[7,0,0,79,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX424 =
 "df/dcb/classspell__sha__item__mana__surge.html#a0c3020d44608920a2820e73e0b9e4b42":[7,0,4140,4],
 "df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb":[7,0,4140,0],
 "df/dcb/classspell__sha__item__mana__surge.html#a482dd09de6cba9f5a36a6cdad1b82a0a":[7,0,4140,3],
-"df/dcb/classspell__sha__item__mana__surge.html#a8eccfbb749b85bbb850874324f17bbde":[7,0,4140,2],
-"df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741":[7,0,4140,1],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html":[7,0,1665,0],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0aa59fdf0668d64f3b670c595579ba81":[7,0,1665,0,3],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1665,0,8],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a1a0c00c09c348f746730c9743d4b7b6b":[7,0,1665,0,4]
+"df/dcb/classspell__sha__item__mana__surge.html#a8eccfbb749b85bbb850874324f17bbde":[7,0,4140,2]
 };

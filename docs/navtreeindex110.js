@@ -1,5 +1,9 @@
 var NAVTREEINDEX110 =
 {
+"d3/da1/npc__professions_8cpp.html#a83b511800a09185fd7b8fb1c1b132b34":[8,0,0,0,1,3,10,10,57],
+"d3/da1/npc__professions_8cpp.html#a866a8392c34c5d075c83b816ad300cc9":[8,0,0,0,1,3,10,10,28],
+"d3/da1/npc__professions_8cpp.html#a89c8ca2f57787c511c9ec27c7b407d05":[8,0,0,0,1,3,10,10,15],
+"d3/da1/npc__professions_8cpp.html#a8fe057ad54244e21fc59785db4e575fd":[8,0,0,0,1,3,10,10,32],
 "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295":[8,0,0,0,1,3,10,10,50],
 "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295a0da2b3228a7f1c1713ced0920e25dd48":[8,0,0,0,1,3,10,10,50,3],
 "d3/da1/npc__professions_8cpp.html#aa71b3c85d99219502766814af4dde295a0eb63455291588802b121b70e77c8085":[8,0,0,0,1,3,10,10,50,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX110 =
 "d3/da9/classWorldState.html#ade529a26b08fca422a215c5aac78bb52":[7,0,4756,28],
 "d3/da9/classWorldState.html#adea39d5d407e56368e4a67dd959d0c78":[7,0,4756,29],
 "d3/da9/classWorldState.html#ae24c140bb68aacc7d749dabeefba5f63":[7,0,4756,36],
-"d3/da9/classWorldState.html#ae529d95330f8037a21cea02cc079b0cd":[7,0,4756,2],
-"d3/da9/classWorldState.html#ae922047e213d43094fbc45e9d73cc9c7":[7,0,4756,66],
-"d3/da9/classWorldState.html#aedccbddea39cd0a6ddf835147ca27da1":[7,0,4756,72],
-"d3/da9/classWorldState.html#aeff00c48b4887f6be5ec67a0d70a39be":[7,0,4756,35],
-"d3/da9/classWorldState.html#af41ca189b0ec20d9dc3f78d7f191011e":[7,0,4756,13]
+"d3/da9/classWorldState.html#ae529d95330f8037a21cea02cc079b0cd":[7,0,4756,2]
 };

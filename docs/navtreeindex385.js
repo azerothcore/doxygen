@@ -1,5 +1,10 @@
 var NAVTREEINDEX385 =
 {
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#aa2c83296cbe8d49de7bc7262b792e8b3":[7,0,1204,0,4],
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#abd96d9b4f2c5f41e4a85606b22e1b0cf":[7,0,1204,0,5],
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875":[7,0,1204,0,2],
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980":[7,0,1204,0,0],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html":[7,0,3430],
 "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#a7ba07407ce43ea4bfb03bc232ed409e3":[7,0,3430,1],
 "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad907078d049340da77dcfd25a312e32b":[7,0,3430,2],
 "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad9987f6b17c9522be954a1b75aed1fc5":[7,0,3430,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX385 =
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a681e8c43ac04d1194334566f73ee1449":[8,0,0,0,1,2,41,9,65,1],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7057c645998b72657fb18e41e12dc25f":[8,0,0,0,1,2,41,9,65,0],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7352283120084279478da1de4d3db9d0":[8,0,0,0,1,2,41,9,65,2],
-"de/d30/SpellMgr_8h.html#aa10abaefa9eb85e4ab3ae20543519d8e":[8,0,0,0,1,2,41,9,34],
-"de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d":[8,0,0,0,1,2,41,9,20],
-"de/d30/SpellMgr_8h.html#aa48a311ee3f1729a60deb3e4cddca333":[8,0,0,0,1,2,41,9,23],
-"de/d30/SpellMgr_8h.html#aaf44c511d7aca68a0e2f56287dc2999d":[8,0,0,0,1,2,41,9,22],
-"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dd":[8,0,0,0,1,2,41,9,76],
-"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dda46a0c095d861d5528e67a20473b207e4":[8,0,0,0,1,2,41,9,76,1]
+"de/d30/SpellMgr_8h.html#aa10abaefa9eb85e4ab3ae20543519d8e":[8,0,0,0,1,2,41,9,34]
 };

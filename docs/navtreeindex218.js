@@ -1,5 +1,10 @@
 var NAVTREEINDEX218 =
 {
+"d7/dbc/structnpc__wild__wyrm.html#aeaa4f0327f06ee67a63fd15b914ffac8":[7,0,2334,4],
+"d7/dbc/structnpc__wild__wyrm.html#afdd165233995f79aa9ec82d7c2c1f258":[7,0,2334,2],
+"d7/dbd/classspell__item__vanquished__clutches.html":[7,0,3548],
+"d7/dbd/classspell__item__vanquished__clutches.html#a80799c42f9f31f49d20d880dd377e3b4":[7,0,3548,1],
+"d7/dbd/classspell__item__vanquished__clutches.html#ab9c732cc91f926331dea6b94c1021801":[7,0,3548,0],
 "d7/dbd/classspell__item__vanquished__clutches.html#ae012e6852f079682fbafc776dec3455b":[7,0,3548,2],
 "d7/dbd/classspell__item__vanquished__clutches.html#afc10f1989ae4b9cff7527f2d73180cde":[7,0,3548,3],
 "d7/dbd/cs__gm_8cpp.html":[8,0,0,0,1,3,0,17],
@@ -244,10 +249,5 @@ var NAVTREEINDEX218 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab828e9e47568e9a10957cf333c83c4f2":[7,0,1393,0,37],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#abbf6cb96cff9fe36d668253e86208e52":[7,0,1393,0,3],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#abc483aa947dc5eaccd65a60bcd894b59":[7,0,1393,0,41],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac09484c22521c3319e7c9d7677c1f751":[7,0,1393,0,0],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac2feda8cd6838208b4125660768bd149":[7,0,1393,0,8],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#acf3803f7c36401f8d07d338deb85f8bf":[7,0,1393,0,13],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ad03c27a0167ecd9ee2e560c053b040ca":[7,0,1393,0,11],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ada77fe641387c5d96a11ed70884c1e5e":[7,0,1393,0,15],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ae1ed3e78b681abe62d64b5db1cc3df50":[7,0,1393,0,22]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac09484c22521c3319e7c9d7677c1f751":[7,0,1393,0,0]
 };

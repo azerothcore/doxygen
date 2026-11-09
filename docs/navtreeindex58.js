@@ -1,5 +1,9 @@
 var NAVTREEINDEX58 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#ad9b4c5bfe589f9f6b1ea405752347585":[8,0,0,0,1,3,5,14,151],
+"d2/d38/northrend__script__loader_8cpp.html#ada8b6081df07a02725323b1c08577108":[8,0,0,0,1,3,5,14,77],
+"d2/d38/northrend__script__loader_8cpp.html#ae05057811020071be5480076d0ffe62b":[8,0,0,0,1,3,5,14,54],
+"d2/d38/northrend__script__loader_8cpp.html#ae344295d2e46a26142cddea95f183f6d":[8,0,0,0,1,3,5,14,103],
 "d2/d38/northrend__script__loader_8cpp.html#ae47cbd658715d6b011726de03b430167":[8,0,0,0,1,3,5,14,42],
 "d2/d38/northrend__script__loader_8cpp.html#ae5788cee443fac1a3087c196646b17d8":[8,0,0,0,1,3,5,14,43],
 "d2/d38/northrend__script__loader_8cpp.html#ae765020272823251654ec47ea2876c2d":[8,0,0,0,1,3,5,14,52],
@@ -20,8 +24,8 @@ var NAVTREEINDEX58 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[7,0,2257,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[7,0,2257,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[7,0,992,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,0],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,1],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[7,0,992,2,0],
 "d2/d39/classboss__varos.html":[7,0,775],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[7,0,775,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[7,0,775,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX58 =
 "d2/d48/classChannel.html#a4bcbbd17fbd89a56e4d34e10ec2102a2":[7,0,869,53],
 "d2/d48/classChannel.html#a506603c461b70982db86543e76e40da0":[7,0,869,84],
 "d2/d48/classChannel.html#a5238e1b4133ac9d8a495fefeded33f50":[7,0,869,87],
-"d2/d48/classChannel.html#a5419778722a0c51b79263a2e06b33168":[7,0,869,82],
-"d2/d48/classChannel.html#a55d47bd560dabc6cb3f85a46c103ad19":[7,0,869,100],
-"d2/d48/classChannel.html#a5842a9563dab31098695ba83183ff503":[7,0,869,111],
-"d2/d48/classChannel.html#a58931be15d72ce5ca755d9c953cdab45":[7,0,869,9],
-"d2/d48/classChannel.html#a591082b95ce284fd51cd70ea640e737e":[7,0,869,52]
+"d2/d48/classChannel.html#a5419778722a0c51b79263a2e06b33168":[7,0,869,82]
 };

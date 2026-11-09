@@ -1,5 +1,9 @@
 var NAVTREEINDEX50 =
 {
+"d1/de4/spell__generic_8cpp.html#a9619a0950242f2808f5bc0feead05ee8aada45b698725da25ea2613a0738e970a":[8,0,0,0,1,3,9,2,173,1],
+"d1/de4/spell__generic_8cpp.html#a9619a0950242f2808f5bc0feead05ee8abefa8d46065bc69e9c652543f6d33c63":[8,0,0,0,1,3,9,2,173,5],
+"d1/de4/spell__generic_8cpp.html#a99b94a224cc4fa67cd9b003342face3e":[8,0,0,0,1,3,9,2,177],
+"d1/de4/spell__generic_8cpp.html#a99b94a224cc4fa67cd9b003342face3ea27f8e525276497202072f3ab15fd21d0":[8,0,0,0,1,3,9,2,177,0],
 "d1/de4/spell__generic_8cpp.html#a99b94a224cc4fa67cd9b003342face3ea43c313556adb02fd9848c6bf3508a155":[8,0,0,0,1,3,9,2,177,2],
 "d1/de4/spell__generic_8cpp.html#a99b94a224cc4fa67cd9b003342face3ea54fe6fe3b9ba1b84181ded70d260b9c8":[8,0,0,0,1,3,9,2,177,4],
 "d1/de4/spell__generic_8cpp.html#a99b94a224cc4fa67cd9b003342face3eaab2ad775c80cd952e6ece746e0f14992":[8,0,0,0,1,3,9,2,177,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX50 =
 "d1/df0/structnpc__razorscale__dark__rune__guardian.html#af9dafde2780d5be7a6e22025299dc013":[7,0,2138,9],
 "d1/df0/structnpc__razorscale__dark__rune__guardian.html#afd7fcb578ea65c7a060215257bcc5589":[7,0,2138,4],
 "d1/df1/classspell__galdarah__transform.html":[7,0,3022],
-"d1/df1/classspell__galdarah__transform.html#a6469efa0e1fabaf1cb366f119a1158c1":[7,0,3022,0],
-"d1/df1/classspell__galdarah__transform.html#a88c3961d5757dd0c75be4acc7de6e45b":[7,0,3022,3],
-"d1/df1/classspell__galdarah__transform.html#aac410690d906867216b40a49d8f15318":[7,0,3022,1],
-"d1/df1/classspell__galdarah__transform.html#ae8c7acabe93fc33d13f0b8848415eabf":[7,0,3022,2],
-"d1/df1/classspell__gen__consumption.html":[7,0,3066]
+"d1/df1/classspell__galdarah__transform.html#a6469efa0e1fabaf1cb366f119a1158c1":[7,0,3022,0]
 };

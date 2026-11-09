@@ -1,5 +1,10 @@
 var NAVTREEINDEX235 =
 {
+"d8/d80/classspell__hodir__storm__cloud__aura.html#ae22cd3b6f7cf515e80dd1125349dd152":[7,0,3255,0],
+"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html":[7,0,3490],
+"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d":[7,0,3490,0],
+"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#a4f0f4d29231ef1976d726b66f6277ca8":[7,0,3490,1],
+"d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#ad75843039e582b64da28b4818f48aeb3":[7,0,3490,2],
 "d8/d81/VMapMgr2_8cpp.html":[8,0,0,0,0,1,0,5],
 "d8/d81/classspell__q12987__read__pronouncement.html":[7,0,4000],
 "d8/d81/classspell__q12987__read__pronouncement.html#a50ced6d5a475ccad9429dfbb05130394":[7,0,4000,0],
@@ -184,8 +189,8 @@ var NAVTREEINDEX235 =
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4666,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,35,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,35,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,35,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,35,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[7,0,586],
@@ -244,10 +249,5 @@ var NAVTREEINDEX235 =
 "d8/d8e/AuraLoadedStateTest_8cpp.html":[8,0,0,0,2,2,0,11,0],
 "d8/d8e/AuraLoadedStateTest_8cpp.html#a3c2cf023118b4939342706355b5e3e23":[8,0,0,0,2,2,0,11,0,0],
 "d8/d8e/classHookList.html":[7,0,1311],
-"d8/d8e/classHookList.html#a13d85caabd15541389f8e93e99b768b0":[7,0,1311,5],
-"d8/d8e/classHookList.html#a2d6f26f422402c3dcc0e026587201f9e":[7,0,1311,0],
-"d8/d8e/classHookList.html#a3a4a52377c59e360b9aa164940b06285":[7,0,1311,3],
-"d8/d8e/classHookList.html#a5bb439ae8dd02302f19581d2771c570c":[7,0,1311,6],
-"d8/d8e/classHookList.html#a6dffd4b0ef103e34fca8d474856ca8d3":[7,0,1311,2],
-"d8/d8e/classHookList.html#ab7d2c8fa95d8256bba7b6b3ccdcff251":[7,0,1311,1]
+"d8/d8e/classHookList.html#a13d85caabd15541389f8e93e99b768b0":[7,0,1311,5]
 };

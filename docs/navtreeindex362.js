@@ -1,5 +1,10 @@
 var NAVTREEINDEX362 =
 {
+"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a150e396f9798bfba68078c51afc82d40":[8,0,0,0,1,3,5,9,2,10,22,8],
+"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a288a6566bfd3b580254b27984e4ab870":[8,0,0,0,1,3,5,9,2,10,22,17],
+"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a3c9a38b5b63a64cb294908fb3fd0f6f1":[8,0,0,0,1,3,5,9,2,10,22,14],
+"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a4d306b0f028482abe360fdb67fc49dcd":[8,0,0,0,1,3,5,9,2,10,22,1],
+"dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a4e49fde4fe8ce8fa992cf9a3a4584afc":[8,0,0,0,1,3,5,9,2,10,22,20],
 "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a55ffe5948f00439d16540fb80c20a405":[8,0,0,0,1,3,5,9,2,10,22,15],
 "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a5bd3989375e50a4167a7adf751a6995c":[8,0,0,0,1,3,5,9,2,10,22,6],
 "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a6d91f37731dc57fa44e1b3b1e06966f3":[8,0,0,0,1,3,5,9,2,10,22,23],
@@ -244,10 +249,5 @@ var NAVTREEINDEX362 =
 "dd/dcb/classChaseMovementGenerator.html#a6aa7761c76b70e6a171696f1afaac141":[7,0,890,5],
 "dd/dcb/classChaseMovementGenerator.html#a802b80cc6ae928821c06121001365db6":[7,0,890,6],
 "dd/dcb/classChaseMovementGenerator.html#a80f2f31af93c87371208f2febd03f698":[7,0,890,21],
-"dd/dcb/classChaseMovementGenerator.html#a81cb99fcec507afb4b0dc8d8a3081cdc":[7,0,890,18],
-"dd/dcb/classChaseMovementGenerator.html#a8eae21b6df1513ecd17407d59bf52fb2":[7,0,890,26],
-"dd/dcb/classChaseMovementGenerator.html#a9b29cbccc856e2ca05f7a3d83bbe03b0":[7,0,890,17],
-"dd/dcb/classChaseMovementGenerator.html#aad69ac268be888468f5952344c1be090":[7,0,890,24],
-"dd/dcb/classChaseMovementGenerator.html#ab0567cf1d03116cd65b0cab461eccece":[7,0,890,20],
-"dd/dcb/classChaseMovementGenerator.html#ab26ee9709942a38a6e713c0385328e15":[7,0,890,3]
+"dd/dcb/classChaseMovementGenerator.html#a81cb99fcec507afb4b0dc8d8a3081cdc":[7,0,890,18]
 };

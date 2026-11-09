@@ -1,5 +1,10 @@
 var NAVTREEINDEX281 =
 {
+"da/d9a/kalimdor__script__loader_8cpp.html#ace30a63c79022e9c238e630fae8333ba":[8,0,0,0,1,3,4,13,0],
+"da/d9a/kalimdor__script__loader_8cpp.html#ad2db27e6c9cca073dd3485a6d0b0cd21":[8,0,0,0,1,3,4,13,26],
+"da/d9a/kalimdor__script__loader_8cpp.html#ad39c6347a486714f364a0a6e068595f6":[8,0,0,0,1,3,4,13,56],
+"da/d9a/kalimdor__script__loader_8cpp.html#ad5084792878eac0ddee89b141241831c":[8,0,0,0,1,3,4,13,16],
+"da/d9a/kalimdor__script__loader_8cpp.html#adb12054830457ab1180edce761b72bf0":[8,0,0,0,1,3,4,13,31],
 "da/d9a/kalimdor__script__loader_8cpp.html#adb1b78926a09436f6897c9050ef2d9ef":[8,0,0,0,1,3,4,13,47],
 "da/d9a/kalimdor__script__loader_8cpp.html#ae5d674fbd346082d81f6f6720eed1081":[8,0,0,0,1,3,4,13,75],
 "da/d9a/kalimdor__script__loader_8cpp.html#ae7ff175f63ed6dcb6b39ddd95361f8bc":[8,0,0,0,1,3,4,13,19],
@@ -244,10 +249,5 @@ var NAVTREEINDEX281 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89af0e74bb51810c096483e41a3186f4387":[8,0,0,0,1,3,7,13,36,19],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89af28f06266655235767f00124047eb0cf":[8,0,0,0,1,3,7,13,36,2],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89af2a1f731d0c25557696e9cd443d290ea":[8,0,0,0,1,3,7,13,36,6],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89afd5151bfc238f19eb8763743dccf425a":[8,0,0,0,1,3,7,13,36,16],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ab69ef601d31d0264381d9af5e06f7769":[8,0,0,0,1,3,7,13,31],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422ec":[8,0,0,0,1,3,7,13,42],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422eca0b8ea699ea2283c1b89030430b100428":[8,0,0,0,1,3,7,13,42,6],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422eca1f64ef182504e0be2caa5bb708cbd0fa":[8,0,0,0,1,3,7,13,42,3],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422eca353ae26eabea41367f83995cef9290e1":[8,0,0,0,1,3,7,13,42,7]
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89afd5151bfc238f19eb8763743dccf425a":[8,0,0,0,1,3,7,13,36,16]
 };

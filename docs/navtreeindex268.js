@@ -1,5 +1,10 @@
 var NAVTREEINDEX268 =
 {
+"da/d18/structnpc__koltira__deathweaver.html#a8c40b2c1d232d2cf4cc4e1f2e99a431c":[7,0,1971,5],
+"da/d18/structnpc__koltira__deathweaver.html#ab2f9e13993b7b0a357a3264c487e77aa":[7,0,1971,8],
+"da/d18/structnpc__koltira__deathweaver.html#abd016ea1f5bc6e2167e5e09d1d05bf27":[7,0,1971,6],
+"da/d1a/LockedQueue_8h.html":[8,0,0,0,0,14,0],
+"da/d1c/DuelHandler_8cpp.html":[8,0,0,0,1,2,22,12],
 "da/d1d/boss__void__reaver_8cpp.html":[8,0,0,0,1,3,7,5,2,3],
 "da/d1d/boss__void__reaver_8cpp.html#a28ac0e4c009a9641eced9517d2c0e8b6":[8,0,0,0,1,3,7,5,2,3,2],
 "da/d1d/boss__void__reaver_8cpp.html#a28ac0e4c009a9641eced9517d2c0e8b6a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,5,2,3,2,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX268 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a18f4480fd46ee5d636d2edc066db8f3f":[8,0,0,0,1,2,41,0,0,6,289],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a192726eee68dbd523135d5b127c187fe":[8,0,0,0,1,2,41,0,0,6,45],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a192ee77678cf950c944373e6b1e9e1eb":[8,0,0,0,1,2,41,0,0,6,47],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a19d9956582157d0b9be1d9365b5be6a0":[8,0,0,0,1,2,41,0,0,6,241],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1a0187ab21626c9032d7398c0b98941d":[8,0,0,0,1,2,41,0,0,6,262],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1a7d44003e8e47f586aedc2352fe5c90":[8,0,0,0,1,2,41,0,0,6,310],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1b980e2a09de4ec8747945e8ee141f10":[8,0,0,0,1,2,41,0,0,6,220],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1c3516bb8442ba5d970c928ffc976689":[8,0,0,0,1,2,41,0,0,6,36],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1cf455504c89b555aaca6ed87eb7eff4":[8,0,0,0,1,2,41,0,0,6,168]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a19d9956582157d0b9be1d9365b5be6a0":[8,0,0,0,1,2,41,0,0,6,241]
 };

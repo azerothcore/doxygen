@@ -1,5 +1,10 @@
 var NAVTREEINDEX320 =
 {
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a73cc106ecf58fcd3a75fa23f9ff7a21c":[8,0,0,0,1,3,9,8,90,1],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a75f2bd8178978b50d3468b559443d53f":[8,0,0,0,1,3,9,8,90,12],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212ab615aa6946f4f3296576bd7a171642a1":[8,0,0,0,1,3,9,8,90,16],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212adcb7cd282ac86f04ca8fe5f7e18afff3":[8,0,0,0,1,3,9,8,90,7],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212afab1cf99094765c03ba4c7a5a2d5b7f0":[8,0,0,0,1,3,9,8,90,4],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212afc70a74b4ff83ace1c62d0a27ed8e589":[8,0,0,0,1,3,9,8,90,10],
 "db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00c":[8,0,0,0,1,3,9,8,107],
 "db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00ca13f0566b0ca3096731d7cb26218482bb":[8,0,0,0,1,3,9,8,107,4],
@@ -139,8 +144,8 @@ var NAVTREEINDEX320 =
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,35,12,1,2],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,35,12,1,0],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
 "db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html":[7,0,1356,0],
 "db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html#a1523ad04993ce4ddf5b503355f7c856a":[7,0,1356,0,0],
 "db/dfe/ALEScript_8h.html":[8,0,0,0,1,2,38,0,7],
@@ -244,10 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[7,0,2339,2],
 "dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[7,0,2339,1],
 "dc/d05/structboss__anomalus.html":[7,0,393],
-"dc/d05/structboss__anomalus.html#a067c4b5dfb5e68a3d91f043d34ea0929":[7,0,393,9],
-"dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77":[7,0,393,10],
-"dc/d05/structboss__anomalus.html#a3c0413f30d96268cab724856334e61ee":[7,0,393,5],
-"dc/d05/structboss__anomalus.html#a41e257481921a122dba30348559e05fb":[7,0,393,3],
-"dc/d05/structboss__anomalus.html#a5d3d77b49e256e09bbb613e810dfc60b":[7,0,393,8],
-"dc/d05/structboss__anomalus.html#a7224e8cf6e849d7115f88c7198fdb023":[7,0,393,4]
+"dc/d05/structboss__anomalus.html#a067c4b5dfb5e68a3d91f043d34ea0929":[7,0,393,9]
 };

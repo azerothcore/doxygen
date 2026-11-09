@@ -48,7 +48,8 @@ var boss__flame__leviathan_8cpp =
       [ "EVENT_SOUND_BEGINNING", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
       [ "EVENT_EJECT_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ],
       [ "EVENT_CHECK_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ],
-      [ "EVENT_LASH", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a22fa755486a1fb689392a1b568e9ad02", null ]
+      [ "EVENT_LASH", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a22fa755486a1fb689392a1b568e9ad02", null ],
+      [ "EVENT_FREYA_WARD_WAVE", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa340768098bd12b0420651018ed6200b", null ]
     ] ],
     [ "GosNpcs", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550", [
       [ "NPC_FLAME_LEVIATHAN_TURRET", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550aae2afab8f90fc421a8f5e65c951e9cb5", null ],
@@ -60,6 +61,7 @@ var boss__flame__leviathan_8cpp =
       [ "NPC_THORIM_HAMMER", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a42fb03580eb6a12b82418816be1053ea", null ],
       [ "NPC_FREYA_WARD_TARGET", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a9e68a574bc975a18cab5cc6ebc77787e", null ],
       [ "NPC_FREYA_WARD", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a91b4a78b7c33890565989e3e3ef060e5", null ],
+      [ "NPC_WARD_OF_LIFE", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a2d28d4eb6a80010f80215aa7b7d432b9", null ],
       [ "NPC_MIMIRONS_INFERNO_TARGET", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a15f7a4fccee6706cf6570e10fb10e262", null ],
       [ "NPC_MIMIRONS_INFERNO", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a07eaf75bbeeb4e9dadbbb83c032fb9ab", null ],
       [ "NPC_HODIRS_FURY_TARGET", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550ac9df80b7060d515a6c56922446ec1cab", null ],
@@ -85,6 +87,7 @@ var boss__flame__leviathan_8cpp =
       [ "SPELL_HODIRS_FURY", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53ae1237ca2b71bf2bf0740b3218b20909f", null ],
       [ "SPELL_HODIRS_FURY_STUN", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53ae52eae46bf4b2b7630f3da58c06489f8", null ],
       [ "SPELL_FREYA_WARD", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a028b043faeb2b40a757a5cfada259817", null ],
+      [ "SPELL_FREYA_WARD_SECOND_SUMMON", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53ae5dd1c6d5a3917aaa1fd62768c4cca1b", null ],
       [ "SPELL_MIMIRONS_INFERNO", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a48105a8ccc3842282a4656bafc698bde", null ],
       [ "SPELL_MIMIRONS_INFERNO_DAMAGE", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a0fbdb3d3f24ce8b6e6f7cad616b28a9a", null ],
       [ "SPELL_THORIMS_HAMMER", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a4bbb8b6054896524f46fa07c97412123", null ],
@@ -116,7 +119,8 @@ var boss__flame__leviathan_8cpp =
       [ "ACTION_START_NORGANNON_BRANN", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4a0f6a7b01c892a189b8f05641208019", null ],
       [ "ACTION_START_BRANN_EVENT", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae4a2b814a20663576ffdaabaaba64ece", null ],
       [ "ACTION_DESPAWN_ADDS", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa2688213359050adf6beb4393bb81ae0", null ],
-      [ "ACTION_DELAY_CANNON", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae0acc301295db4db245993798dadb18f", null ]
+      [ "ACTION_DELAY_CANNON", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae0acc301295db4db245993798dadb18f", null ],
+      [ "FREYA_WARD_LASHERS_PER_WAVE", "d1/d88/boss__flame__leviathan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad2e6336bafede479090092e98223f5f0", null ]
     ] ],
     [ "SalvagedChopper", "d1/d88/boss__flame__leviathan_8cpp.html#a0a27f83267907965702b6d1ce25123d0", [
       [ "SPELL_GRAB_PYRITE", "d1/d88/boss__flame__leviathan_8cpp.html#a0a27f83267907965702b6d1ce25123d0aa9d1131bf397df498ccfd8cf2624acfd", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX144 =
 {
+"d4/dd1/classspell__gen__dalaran__disguise.html#a8b20e2ffed94ec9438dc9b756ba76693":[7,0,3072,0],
+"d4/dd1/classspell__gen__dalaran__disguise.html#a9e29ea947d5415471d991a4e1cd699ac":[7,0,3072,1],
+"d4/dd1/classspell__gen__dalaran__disguise.html#aa4bc27415893009581b317637599a85a":[7,0,3072,2],
+"d4/dd2/classachievement__i__have__the__coolest__friends.html":[7,0,67],
 "d4/dd2/classachievement__i__have__the__coolest__friends.html#a87fd2d5702fe33ee8b09042c66897636":[7,0,67,0],
 "d4/dd2/classachievement__i__have__the__coolest__friends.html#aa77aa6129967601ede2f3fc44b2ee1aa":[7,0,67,1],
 "d4/dd2/structLajTransformData.html":[7,0,1446],
@@ -245,9 +249,5 @@ var NAVTREEINDEX144 =
 "d4/dd9/structAchievementCriteriaEntry.html#aad40bccb3ac3e04099a97a1f392ecd0a":[7,0,119,65],
 "d4/dd9/structAchievementCriteriaEntry.html#ab37d137668bd4a20149db0d47311809e":[7,0,119,53],
 "d4/dd9/structAchievementCriteriaEntry.html#ab3a277c29ce9a0dd8e8a71040091857e":[7,0,119,107],
-"d4/dd9/structAchievementCriteriaEntry.html#ab6ab9a9979b301e7835806d4f804886a":[7,0,119,92],
-"d4/dd9/structAchievementCriteriaEntry.html#abac6b773ed48c525b7600514562257b3":[7,0,119,115],
-"d4/dd9/structAchievementCriteriaEntry.html#abb4f7fb6587550e17aca2b411de81687":[7,0,119,111],
-"d4/dd9/structAchievementCriteriaEntry.html#abb5da1e2d15b61d1beeeea30955f22e1":[7,0,119,25],
-"d4/dd9/structAchievementCriteriaEntry.html#abd2d9fb3dc7d18aaf8a49d20258dfe09":[7,0,119,17]
+"d4/dd9/structAchievementCriteriaEntry.html#ab6ab9a9979b301e7835806d4f804886a":[7,0,119,92]
 };

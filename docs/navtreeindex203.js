@@ -1,5 +1,10 @@
 var NAVTREEINDEX203 =
 {
+"d7/d46/classAuraEffect.html#a90f9b0656c55d016c70c02936dd73c9b":[7,0,295,140],
+"d7/d46/classAuraEffect.html#a92d0072fcf334ace5a8a29d5a58616e0":[7,0,295,154],
+"d7/d46/classAuraEffect.html#a94ad6938ac754595a00f0f5a8e2019c5":[7,0,295,208],
+"d7/d46/classAuraEffect.html#a9558df628dc0b414dae883571ead3ee9":[7,0,295,170],
+"d7/d46/classAuraEffect.html#a95b987b958ac0ce5653d44029a31ea59":[7,0,295,116],
 "d7/d46/classAuraEffect.html#a964b95da784412c60c9310227a614549":[7,0,295,192],
 "d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0":[7,0,295,209],
 "d7/d46/classAuraEffect.html#a9939adabdadcf853bbabb848afb5e8b4":[7,0,295,115],
@@ -244,10 +249,5 @@ var NAVTREEINDEX203 =
 "d7/d4d/structWintergraspTowerData.html#ade8af6bff39a72f7052b7b0db14b207d":[7,0,4728,3],
 "d7/d4e/classgo__brewfest__music.html":[7,0,1166],
 "d7/d4e/classgo__brewfest__music.html#a50f36a6d0a72e7188dbe1bdaa09f1888":[7,0,1166,2],
-"d7/d4e/classgo__brewfest__music.html#a787963a5ee591933d62fdb52911f9a77":[7,0,1166,1],
-"d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html":[7,0,4255],
-"d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html#a359814a44d4fe58c9f6e7a31c75d7c49":[7,0,4255,0],
-"d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html#a4c6c0903180f3f18d6d9e715efc9f391":[7,0,4255,1],
-"d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html#a713b82bc3d82a8324ce4dd090059f463":[7,0,4255,2],
-"d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html#ac8e362d9f76350da106e128138737c5c":[7,0,4255,3]
+"d7/d4e/classgo__brewfest__music.html#a787963a5ee591933d62fdb52911f9a77":[7,0,1166,1]
 };

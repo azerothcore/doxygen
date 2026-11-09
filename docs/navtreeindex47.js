@@ -1,5 +1,9 @@
 var NAVTREEINDEX47 =
 {
+"d1/dc9/classgo__apexis__relic.html#a91ff5a986ee62b628456e9f5c75f6bc9":[7,0,1156,0],
+"d1/dc9/classgo__apexis__relic.html#ae8f7167ba5b973881e32d604691dc15a":[7,0,1156,1],
+"d1/dc9/structboss__drakkisath.html":[7,0,447],
+"d1/dc9/structboss__drakkisath.html#a502ca053bb96215c8386ee694a963cfa":[7,0,447,1],
 "d1/dc9/structboss__drakkisath.html#a77fdb667d0dc262dcacc5e988cf5fc8e":[7,0,447,0],
 "d1/dc9/structboss__drakkisath.html#a90bf913d6d94e5fc6d982049dd96e3b1":[7,0,447,2],
 "d1/dc9/structboss__drakkisath.html#ac1cb21a95bbfcfbffc5a3046b233c183":[7,0,447,4],
@@ -36,10 +40,10 @@ var NAVTREEINDEX47 =
 "d1/dce/classnpc__crusade__recruit.html":[7,0,1762],
 "d1/dce/classnpc__crusade__recruit.html#a412f0d153676758fda8c1f7f1e9dda44":[7,0,1762,2],
 "d1/dce/classnpc__crusade__recruit.html#a6e130f153c506255ef5ece1baf006028":[7,0,1762,1],
-"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html":[7,0,0,26],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html":[5,0,0,38],
-"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a2af638499152888a698b0fc1570e46ed":[5,0,0,38,5],
+"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html":[7,0,0,26],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a2af638499152888a698b0fc1570e46ed":[7,0,0,26,5],
+"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a2af638499152888a698b0fc1570e46ed":[5,0,0,38,5],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a4ed3a469f35cb7b64ad5f144281b7910":[5,0,0,38,0],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a4ed3a469f35cb7b64ad5f144281b7910":[7,0,0,26,0],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a6b0d852333ee74a20281ce7de5a45b98":[5,0,0,38,4],
@@ -48,8 +52,8 @@ var NAVTREEINDEX47 =
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a6e1026191fd4b1b45696a60f45b1b7b8":[5,0,0,38,1],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a9ebd1a1d9716dfda55509396947c1a83":[7,0,0,26,2],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a9ebd1a1d9716dfda55509396947c1a83":[5,0,0,38,2],
-"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#adacade7450b0af19540ea705e1bd438b":[5,0,0,38,3],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#adacade7450b0af19540ea705e1bd438b":[7,0,0,26,3],
+"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#adacade7450b0af19540ea705e1bd438b":[5,0,0,38,3],
 "d1/dd0/BankHandler_8cpp.html":[8,0,0,0,1,2,22,5],
 "d1/dd0/EventProcessor_8h.html":[8,0,0,0,0,15,13],
 "d1/dd0/EventProcessor_8h.html#a393840b719db78b29da806c1237fceb0":[8,0,0,0,0,15,13,3],
@@ -84,8 +88,8 @@ var NAVTREEINDEX47 =
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html":[7,0,11,27],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a07ea1ce999e5cea578af77cb47280748":[5,0,32,27,0],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a07ea1ce999e5cea578af77cb47280748":[7,0,11,27,0],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[5,0,32,27,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[7,0,11,27,2],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[5,0,32,27,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[5,0,32,27,1],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[7,0,11,27,1],
 "d1/dd4/Item_8h.html":[8,0,0,0,1,2,16,4,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX47 =
 "d1/dd5/classRandomMovementGenerator.html":[7,0,2539],
 "d1/dd5/classRandomMovementGenerator.html#a10626f514ae30260131303cf2ecbb36d":[7,0,2539,12],
 "d1/dd5/classRandomMovementGenerator.html#a10a0a69bc08109087de88171900f3f84":[7,0,2539,17],
-"d1/dd5/classRandomMovementGenerator.html#a18b8596043e93675adf92fe3e1cff71d":[7,0,2539,1],
-"d1/dd5/classRandomMovementGenerator.html#a1934d0e4248932f4afdb2dc228c29910":[7,0,2539,22],
-"d1/dd5/classRandomMovementGenerator.html#a20b49e85e5d6d29ed351a645ac3b71c7":[7,0,2539,13],
-"d1/dd5/classRandomMovementGenerator.html#a3835858ec9154f759a2cf5ea3863d3c8":[7,0,2539,19],
-"d1/dd5/classRandomMovementGenerator.html#a4a68bad00340f11dc3b85d5bde1d5e39":[7,0,2539,15]
+"d1/dd5/classRandomMovementGenerator.html#a18b8596043e93675adf92fe3e1cff71d":[7,0,2539,1]
 };

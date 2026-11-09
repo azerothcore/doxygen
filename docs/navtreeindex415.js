@@ -1,5 +1,10 @@
 var NAVTREEINDEX415 =
 {
+"df/d57/blackrock__depths_8cpp.html#a28ee3503a173aad11926aa2efcfd5509":[8,0,0,0,1,3,2,1,0,0,12],
+"df/d57/blackrock__depths_8cpp.html#a28ee3503a173aad11926aa2efcfd5509afa16f15ee50d119564f3592f910cb7c3":[8,0,0,0,1,3,2,1,0,0,12,0],
+"df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11af":[8,0,0,0,1,3,2,1,0,0,30],
+"df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10":[8,0,0,0,1,3,2,1,0,0,30,1],
+"df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc":[8,0,0,0,1,3,2,1,0,0,30,0],
 "df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb":[8,0,0,0,1,3,2,1,0,0,30,2],
 "df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59":[8,0,0,0,1,3,2,1,0,0,30,3],
 "df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8":[8,0,0,0,1,3,2,1,0,0,30,4],
@@ -162,8 +167,8 @@ var NAVTREEINDEX415 =
 "df/d5d/classspell__dru__revitalize.html#a43704e8ddf8eb94adf27225eb02135bd":[7,0,2944,0],
 "df/d5d/classspell__dru__revitalize.html#a626ebecdbb7e431af364fa9bcde38644":[7,0,2944,1],
 "df/d5d/classspell__dru__revitalize.html#ab56bed8649452b9ae7ac07bf6ee16641":[7,0,2944,2],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[7,0,9,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,30,2],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[7,0,9,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a833c7d3a8a42ea95cc91200433de5e1e":[5,0,30,2,0],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a833c7d3a8a42ea95cc91200433de5e1e":[7,0,9,2,0],
 "df/d5e/boss__buru_8cpp.html":[8,0,0,0,1,3,4,8,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX415 =
 "df/d68/classinstance__blood__furnace.html":[7,0,1336],
 "df/d68/classinstance__blood__furnace.html#a885ba94e1777dfd6586daca304622d3d":[7,0,1336,2],
 "df/d68/classinstance__blood__furnace.html#a925a045fa518e72c1eff02fe3c66202b":[7,0,1336,1],
-"df/d68/structnpc__flame__of__azzinoth.html":[7,0,1834],
-"df/d68/structnpc__flame__of__azzinoth.html#a24eba1a6cdea4971573a6f4b2dd34fb3":[7,0,1834,2],
-"df/d68/structnpc__flame__of__azzinoth.html#a5254057af0371a08ea01fe91502c2a20":[7,0,1834,1],
-"df/d68/structnpc__flame__of__azzinoth.html#a7a1c9b967e6a79721dea8cbca44cbb5b":[7,0,1834,4],
-"df/d68/structnpc__flame__of__azzinoth.html#acdeb046c2214bd449257ba1b932c8a5c":[7,0,1834,0],
-"df/d68/structnpc__flame__of__azzinoth.html#ad2e7085fcd985a08cc2e317485a8fff1":[7,0,1834,3]
+"df/d68/structnpc__flame__of__azzinoth.html":[7,0,1834]
 };

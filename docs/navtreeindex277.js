@@ -1,5 +1,10 @@
 var NAVTREEINDEX277 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a568f8c5f16c01d67bc7311e89b9c12d0":[8,0,0,0,1,3,5,6,10,72,29],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a58ba43f76463f2e50d8003bb53cce562":[8,0,0,0,1,3,5,6,10,72,62],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6273288116f824c35ae0343fd0161964":[8,0,0,0,1,3,5,6,10,72,46],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a63b2e64ae8d59500575435e10ae42a48":[8,0,0,0,1,3,5,6,10,72,3],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a645255314065f3f783385d240e0bfef4":[8,0,0,0,1,3,5,6,10,72,4],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a66178d358d605e8d45d757f38a175b7a":[8,0,0,0,1,3,5,6,10,72,57],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a690000692f6f0bcf8467ac5ae22e55a0":[8,0,0,0,1,3,5,6,10,72,69],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69c89b0f65f6bfde5f92493f0e3ecf75":[8,0,0,0,1,3,5,6,10,72,15],
@@ -244,10 +249,5 @@ var NAVTREEINDEX277 =
 "da/d81/classspell__random__lightning__visual__effect.html":[7,0,4033],
 "da/d81/classspell__random__lightning__visual__effect.html#a62b0ce71caeff96705b15aa240ddd09f":[7,0,4033,2],
 "da/d81/classspell__random__lightning__visual__effect.html#a8bda9327c4244af41c513528ad5c818c":[7,0,4033,0],
-"da/d81/classspell__random__lightning__visual__effect.html#aba5a03c94fa5d87c46a91369875c0ab2":[7,0,4033,1],
-"da/d82/classreload__commandscript.html":[7,0,2558],
-"da/d82/classreload__commandscript.html#a0085e14e5614df1414d85f5da4f3df59":[7,0,2558,88],
-"da/d82/classreload__commandscript.html#a00cf8720f1766bbc6633b19983348a8f":[7,0,2558,2],
-"da/d82/classreload__commandscript.html#a02258ba1e2dbd951a80de2a989e9c462":[7,0,2558,33],
-"da/d82/classreload__commandscript.html#a0419dd67a787b989d7353a1682965de4":[7,0,2558,94]
+"da/d81/classspell__random__lightning__visual__effect.html#aba5a03c94fa5d87c46a91369875c0ab2":[7,0,4033,1]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX291 =
 {
+"da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0380f4999e3cfa0a0930f2191ff6b22c":[8,0,0,0,1,3,5,9,2,2,13,4],
+"da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,9,2,2,13,0],
+"da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a532dda2af249d6245366a455505ac407":[8,0,0,0,1,3,5,9,2,2,13,3],
+"da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a73da65945074f762b356139feae3bd5a":[8,0,0,0,1,3,5,9,2,2,13,5],
+"da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,9,2,2,13,1],
 "da/df9/boss__auriaya_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[8,0,0,0,1,3,5,9,2,2,13,2],
 "da/df9/boss__auriaya_8cpp.html#ae1c5560392584167965878b18d36a29f":[8,0,0,0,1,3,5,9,2,2,10],
 "da/df9/boss__auriaya_8cpp.html#ae1c5560392584167965878b18d36a29fa3643bbf75101b82f5399848d40ab546b":[8,0,0,0,1,3,5,9,2,2,10,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX291 =
 "db/d0b/TerrainBuilder_8h.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289":[8,0,0,0,3,2,9,2,1],
 "db/d0b/TerrainBuilder_8h.html#a7eb8c24e8759cfd1ebd37b1efc72618b":[8,0,0,0,3,2,9,11],
 "db/d0b/TerrainBuilder_8h.html#a94a0ee7c4f225dfc488737a7ba825bae":[8,0,0,0,3,2,9,9],
-"db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165":[8,0,0,0,3,2,9,3],
-"db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12":[8,0,0,0,3,2,9,3,4],
-"db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b":[8,0,0,0,3,2,9,3,2],
-"db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e":[8,0,0,0,3,2,9,3,1],
-"db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04":[8,0,0,0,3,2,9,3,3],
-"db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1":[8,0,0,0,3,2,9,3,0]
+"db/d0b/TerrainBuilder_8h.html#aa0140172b3856ff5a4e0db0227a41165":[8,0,0,0,3,2,9,3]
 };

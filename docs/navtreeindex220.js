@@ -1,5 +1,10 @@
 var NAVTREEINDEX220 =
 {
+"d7/dce/classspell__black__morass__corrupt__medivh.html#ab858e9f6505fa32cc7325087d29fee8b":[7,0,2715,4],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#acc4db638e0d858085dc3fb2d6b45f7ec":[7,0,2715,3],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#ae4761ac3bce02903a7266511d80503f9":[7,0,2715,1],
+"d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html":[7,0,2195,0],
+"d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html#a09205661674dd011ffe425deaadde053":[7,0,2195,0,1],
 "d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html#a5c6f9bca1004af163ddb074b606330be":[7,0,2195,0,0],
 "d7/dcf/NetworkThread_8h.html":[8,0,0,0,1,4,1,1],
 "d7/dcf/structCreatureModel.html":[7,0,958],
@@ -244,10 +249,5 @@ var NAVTREEINDEX220 =
 "d7/de3/classspell__flamewreath__aura.html#af26ef4eae84aa3982287fde0b4f65dcd":[7,0,3002,2],
 "d7/de4/classachievement__share__the__love.html":[7,0,97],
 "d7/de4/classachievement__share__the__love.html#a3eaa89eaa356b0e2f8b5c688439baf9c":[7,0,97,0],
-"d7/de4/classachievement__share__the__love.html#a9d6b6d19611d1482111692de9f2b1cc8":[7,0,97,1],
-"d7/de4/structGossipTextOption.html":[7,0,1253],
-"d7/de4/structGossipTextOption.html#a046d637b91807db067c6e7050184322d":[7,0,1253,4],
-"d7/de4/structGossipTextOption.html#a0f67a651fdb3f3217279015c9e3fb292":[7,0,1253,1],
-"d7/de4/structGossipTextOption.html#a33bc5a0c156918b00380710aeb275d3d":[7,0,1253,2],
-"d7/de4/structGossipTextOption.html#a5c743df7a7ad634c5b3f3376547fda00":[7,0,1253,3]
+"d7/de4/classachievement__share__the__love.html#a9d6b6d19611d1482111692de9f2b1cc8":[7,0,97,1]
 };

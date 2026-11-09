@@ -1,5 +1,10 @@
 var NAVTREEINDEX356 =
 {
+"dd/d8b/classMotdMgr.html":[7,0,1578],
+"dd/d8b/classMotdMgr.html#a0acc39f8c58f6446a337e2d33f15731a":[7,0,1578,0],
+"dd/d8b/classMotdMgr.html#a0eac0994f742f9a5cbd912abc308d1a7":[7,0,1578,3],
+"dd/d8b/classMotdMgr.html#a1a6ce19decdaf6cd778cf331bdc0c1ef":[7,0,1578,4],
+"dd/d8b/classMotdMgr.html#a1eb1b16519bafaffe3b48b9835aab11e":[7,0,1578,2],
 "dd/d8b/classMotdMgr.html#a21aa89787d5b0bbf69158f799122edd5":[7,0,1578,5],
 "dd/d8b/classMotdMgr.html#a7e317c2855b4ff96c2796081988bdf4f":[7,0,1578,6],
 "dd/d8b/classMotdMgr.html#ab589dd8bfad950e02ee716ea9005253f":[7,0,1578,1],
@@ -226,8 +231,8 @@ var NAVTREEINDEX356 =
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[5,0,35,13,3],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[7,0,13,13,3,0],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[5,0,35,13,3,0],
-"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[5,0,35,13,3,1],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[7,0,13,13,3,1],
+"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[5,0,35,13,3,1],
 "dd/d8e/classspell__gen__despawn__self.html":[7,0,3075],
 "dd/d8e/classspell__gen__despawn__self.html#a738318535196b3d55e8f1b3da4f76c95":[7,0,3075,1],
 "dd/d8e/classspell__gen__despawn__self.html#a9037eddf4c9ce96c15c57e8906bd9a5f":[7,0,3075,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX356 =
 "dd/d8f/structnpc__enslaved__proto__drake.html":[7,0,1817],
 "dd/d8f/structnpc__enslaved__proto__drake.html#a252f84198df610bac44b6bd9cd80602e":[7,0,1817,4],
 "dd/d8f/structnpc__enslaved__proto__drake.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5":[7,0,1817,2],
-"dd/d8f/structnpc__enslaved__proto__drake.html#a888219a604e4c95a5a3e442fcf8c1a39":[7,0,1817,3],
-"dd/d8f/structnpc__enslaved__proto__drake.html#a89b48d6fb010bc9611b625e5f02b94d3":[7,0,1817,5],
-"dd/d8f/structnpc__enslaved__proto__drake.html#ad2a25f78a82e0f2cef1e7809cb1d7d89":[7,0,1817,1],
-"dd/d8f/structnpc__enslaved__proto__drake.html#adb997badd8831dea7763eaecc93b7773":[7,0,1817,6],
-"dd/d8f/structnpc__enslaved__proto__drake.html#aec835fdc8b1beb270176d5341d26c265":[7,0,1817,0],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[5,0,0,25]
+"dd/d8f/structnpc__enslaved__proto__drake.html#a888219a604e4c95a5a3e442fcf8c1a39":[7,0,1817,3]
 };

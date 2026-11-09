@@ -1,5 +1,9 @@
 var NAVTREEINDEX79 =
 {
+"d2/de9/classSpellInfo.html#a910589a69440308d9cddfb4bc741e457":[7,0,4501,10],
+"d2/de9/classSpellInfo.html#a922014dec721a3c3725d821080f959e0":[7,0,4501,113],
+"d2/de9/classSpellInfo.html#a9255e2efd806f99a9ef5b7a3ea0ab627":[7,0,4501,28],
+"d2/de9/classSpellInfo.html#a93b51808183b35049d7e5847acee0390":[7,0,4501,84],
 "d2/de9/classSpellInfo.html#a94eda8ee2088025443e0724f159f17f6":[7,0,4501,63],
 "d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a":[7,0,4501,55],
 "d2/de9/classSpellInfo.html#a984c1ea12c7a47027ec61f2712492806":[7,0,4501,164],
@@ -245,9 +249,5 @@ var NAVTREEINDEX79 =
 "d2/dea/classGameEventAIHookWorker.html#ad72640a18d2d32a9201c965089ee49cf":[7,0,1109,0],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html":[8,0,0,0,1,3,7,0,3,1],
 "d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,0,3,1,2],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298ca29c5fb4170a680a3555a6cf180c5458d":[8,0,0,0,1,3,7,0,3,1,2,4],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[8,0,0,0,1,3,7,0,3,1,2,2],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e1ac33c7fbf31e632a6b7d122991f58":[8,0,0,0,1,3,7,0,3,1,2,0],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298cab79970da263d22f87e8c192d563ac9e5":[8,0,0,0,1,3,7,0,3,1,2,3],
-"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298cad39824970b373b4225010b0ddc8ef66f":[8,0,0,0,1,3,7,0,3,1,2,1]
+"d2/deb/boss__blackheart__the__inciter_8cpp.html#a5bd342133be8c2137b831460acc9298ca29c5fb4170a680a3555a6cf180c5458d":[8,0,0,0,1,3,7,0,3,1,2,4]
 };

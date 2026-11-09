@@ -1,5 +1,9 @@
 var NAVTREEINDEX184 =
 {
+"d6/d68/classspell__gen__bg__preparation.html#accf6cc89fed8dbf7c3cee201f1e9e806":[7,0,3047,0],
+"d6/d68/classspell__gen__bg__preparation.html#ad96a6059cb2f4bdf8e2b341d0a6e294f":[7,0,3047,4],
+"d6/d68/classspell__gen__bg__preparation.html#aff726eef4dbd10dd71f1614ab6755ea1":[7,0,3047,3],
+"d6/d68/structnpc__flameshocker.html":[7,0,1835],
 "d6/d68/structnpc__flameshocker.html#a13cb88e2b33df2d910fb73053684b420":[7,0,1835,2],
 "d6/d68/structnpc__flameshocker.html#aba94a5bcec75c649049d5816a53ace58":[7,0,1835,1],
 "d6/d68/structnpc__flameshocker.html#ac1631ee1802a4014d71bd86567f5d5dd":[7,0,1835,0],
@@ -191,8 +195,8 @@ var NAVTREEINDEX184 =
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[7,0,3195,1],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[7,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,0,8,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,0,8,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[7,0,0,5,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[7,0,2019],
 "d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[7,0,2019,11],
 "d6/d73/structnpc__mimirons__inferno.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,2019,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d75/classAuraScript_1_1EffectManaShieldHandler.html":[7,0,299,11],
 "d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a1aec2af2a69a90b8038d612d9ebddc2b":[7,0,299,11,2],
 "d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a234fb0f6749072f9cc6310f80b3b9583":[7,0,299,11,0],
-"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a30ac72ee0a22ac3e71bcb2eeda903dbc":[7,0,299,11,1],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html":[7,0,1641,0],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html#a0a073e4c216985607aa51099044ff6c5":[7,0,1641,0,4],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html#a0bda0f95bd97b9e755a745a8ea41ba49":[7,0,1641,0,3],
-"d6/d75/structnpc__ame_1_1npc__ameAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1641,0,6]
+"d6/d75/classAuraScript_1_1EffectManaShieldHandler.html#a30ac72ee0a22ac3e71bcb2eeda903dbc":[7,0,299,11,1]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX339 =
 {
+"dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[7,0,1844,1],
+"dc/db5/classspell__festergut__gaseous__blight.html":[7,0,2995],
+"dc/db5/classspell__festergut__gaseous__blight.html#a0bdef74dbd65d938eb5eac32f6612fe1":[7,0,2995,1],
+"dc/db5/classspell__festergut__gaseous__blight.html#a276018baa590b942d90c457faea10040":[7,0,2995,0],
+"dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[7,0,2995,3],
 "dc/db5/classspell__festergut__gaseous__blight.html#a7afc131b5dd31ec6b225fdd38f0edf34":[7,0,2995,2],
 "dc/db5/classspell__item__persistent__shield.html":[7,0,3488],
 "dc/db5/classspell__item__persistent__shield.html#a980784152abf41e91b5fe5a9c2e3d5dc":[7,0,3488,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX339 =
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a09aa9baed84ec849bd5a34d02aec8db3":[7,0,2064,0],
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a2706a4ba7876f299b02d2e720f512af2":[7,0,2064,4],
 "dc/dc7/structnpc__parasitic__shadowfiend.html#a306c696d4243c4525d0a3908a212135d":[7,0,2064,3],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#a4dc9fe2b60fc97bd836701244a069d4d":[7,0,2064,2],
-"dc/dc7/structnpc__parasitic__shadowfiend.html#ac7600aed313f1413cb9b522d60d30329":[7,0,2064,1],
-"dc/dc8/classspell__pri__guardian__spirit.html":[7,0,3857],
-"dc/dc8/classspell__pri__guardian__spirit.html#a3b0527ce7f1fd6afaa57f942275ec81b":[7,0,3857,6],
-"dc/dc8/classspell__pri__guardian__spirit.html#a456c1bd5b284f642d1e040de52eee24b":[7,0,3857,3],
-"dc/dc8/classspell__pri__guardian__spirit.html#a57bfd4e7178e9e7c3df12c025d0c7d9e":[7,0,3857,1]
+"dc/dc7/structnpc__parasitic__shadowfiend.html#a4dc9fe2b60fc97bd836701244a069d4d":[7,0,2064,2]
 };
