@@ -1,5 +1,6 @@
 var NAVTREEINDEX37 =
 {
+"d1/d74/classspell__ayamiss__swarmer__swarm.html#a2dc1edf537f58133fb4daabde9f43843":[7,0,2699,1],
 "d1/d74/classspell__ayamiss__swarmer__swarm.html#a8aea4a40472aec4cbb7001fbd63db24c":[7,0,2699,0],
 "d1/d74/classspell__ayamiss__swarmer__swarm.html#ac2e82c7e626658faa968f75c26688b43":[7,0,2699,3],
 "d1/d74/classspell__ayamiss__swarmer__swarm.html#ae856c6e70ededa95c0308596a9f980af":[7,0,2699,2],
@@ -233,12 +234,12 @@ var NAVTREEINDEX37 =
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,0,24],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[7,0,0,12,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,0,24,0],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[7,0,0,12,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,0,24,2],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[7,0,0,12,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,0,24,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[7,0,0,12,1],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,0,24,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[7,0,0,12,4],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,0,24,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[7,0,0,12,3],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,0,24,3],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html":[8,0,0,0,1,3,7,5,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX37 =
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[8,0,0,0,1,3,7,5,1,1,2,1],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1ab91a7173d2ec7a5afbe6232482c3aec1":[8,0,0,0,1,3,7,5,1,1,2,5],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1ac57b141e1ae28a3566a5ff37d088267c":[8,0,0,0,1,3,7,5,1,1,2,2],
-"d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1acebbfa1f13b8de4f039f5d550063c7bf":[8,0,0,0,1,3,7,5,1,1,2,3],
-"d1/d85/boss__high__botanist__freywinn_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[8,0,0,0,1,3,7,5,1,1,1]
+"d1/d85/boss__high__botanist__freywinn_8cpp.html#a16774215bba3b38580ea51987d64cff1acebbfa1f13b8de4f039f5d550063c7bf":[8,0,0,0,1,3,7,5,1,1,2,3]
 };

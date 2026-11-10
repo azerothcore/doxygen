@@ -1,5 +1,12 @@
 var NAVTREEINDEX300 =
 {
+"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba049e0d56c3f30d8991dde2beae302c4f":[8,0,0,0,1,3,9,4,196,2],
+"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba22aa014dbddc9e42d31d6fbb92b0aeb8":[8,0,0,0,1,3,9,4,196,3],
+"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba6043d1df5adcc31fa3205fa20ab0c14c":[8,0,0,0,1,3,9,4,196,1],
+"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba9ad2ccfa253f4ce3df97eff0f5e257a7":[8,0,0,0,1,3,9,4,196,5],
+"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba9de9ad38a5a101face3812197275230b":[8,0,0,0,1,3,9,4,196,4],
+"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfbad52b52587673db6f2db5bb6076bbf04f":[8,0,0,0,1,3,9,4,196,0],
+"db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874":[8,0,0,0,1,3,9,4,266],
 "db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874a5570c7ea9badfab720d1709af0c3942e":[8,0,0,0,1,3,9,4,266,1],
 "db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874a86844389607a221573ef4b4d17fdb561":[8,0,0,0,1,3,9,4,266,3],
 "db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874a9b29c6adc599fce7f686640bc94c2974":[8,0,0,0,1,3,9,4,266,0],
@@ -218,8 +225,8 @@ var NAVTREEINDEX300 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[7,0,2583,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[7,0,0,108,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#ac75099d31a74b697073a85278d3399ab":[7,0,0,108,0,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX300 =
 "db/d72/structLootItem.html#a688e1b5f1a3ae5b4215b330bc2969777":[7,0,1496,16],
 "db/d72/structLootItem.html#a6c7ebacba676e5e109eab812546c91c2":[7,0,1496,1],
 "db/d72/structLootItem.html#a9021fa353f7538706349702498a4e778":[7,0,1496,13],
-"db/d72/structLootItem.html#ac89b265105cce50b87fae1e75cf23b4f":[7,0,1496,6],
-"db/d72/structLootItem.html#ae9f49e27fd81c235fdc2c754918f55c4":[7,0,1496,9],
-"db/d72/structLootItem.html#aec6043508b50b16f04e9b4fbf8742677":[7,0,1496,19],
-"db/d72/structLootItem.html#af50758cf8e8ad77e42197b13d849ae08":[7,0,1496,12],
-"db/d72/structOutdoorPvPData.html":[7,0,2398],
-"db/d72/structOutdoorPvPData.html#a6b17e959f80e7b3f2f3352a345eebcf9":[7,0,2398,0],
-"db/d72/structOutdoorPvPData.html#aaddf1f172211966f5d727e6238889223":[7,0,2398,1],
-"db/d73/classnpc__idol__room__spawner.html":[7,0,1937]
+"db/d72/structLootItem.html#ac89b265105cce50b87fae1e75cf23b4f":[7,0,1496,6]
 };

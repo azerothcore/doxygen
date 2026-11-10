@@ -1,15 +1,5 @@
 var NAVTREEINDEX403 =
 {
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html":[7,0,2007,0],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a0519438fda724a06a0c6f8ed2d7d533d":[7,0,2007,0,7],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a0de69b5fda6342217697ad264d64d4e6":[7,0,2007,0,1],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a32281f8dfa1c8af8fe6bcac2a8be4220":[7,0,2007,0,0],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a456b5de60672120f82506d177faf6b47":[7,0,2007,0,2],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a624c256f29d3cefed0bb909da3841853":[7,0,2007,0,5],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a630312f70a2f22683311a66e5a4f9ec6":[7,0,2007,0,8],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a6b9a435245ddce156d0657aa9e35175b":[7,0,2007,0,10],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a72eb39e259aed0ab230d4d43722cba13":[7,0,2007,0,3],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a749690b386c0c726d11b77bc705b9b01":[7,0,2007,0,4],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#aa50d3a21103dc769d162b1c917100630":[7,0,2007,0,9],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#ad4c671be4f16f23ddf2f2f84b0bd4c94":[7,0,2007,0,6],
 "de/dd5/CommandScript_8h.html":[8,0,0,0,1,2,38,0,38],
@@ -249,5 +239,15 @@ var NAVTREEINDEX403 =
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa7c535c2bdebb4fae44045ee7ee5e403":[8,0,0,0,1,3,5,6,9,42,5],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[8,0,0,0,1,3,5,6,9,42,9],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af419b383d681d359cf16b9ec1488ade9":[8,0,0,0,1,3,5,6,9,42,4],
-"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2":[8,0,0,0,1,3,5,6,9,40]
+"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2":[8,0,0,0,1,3,5,6,9,40],
+"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a1692d6bde9dc261e4640407e74939f34":[8,0,0,0,1,3,5,6,9,40,0],
+"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a377cf238d0cce494a7f053ed39555384":[8,0,0,0,1,3,5,6,9,40,3],
+"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aa66c1da9054c9537f93429076211aec9":[8,0,0,0,1,3,5,6,9,40,2],
+"de/de5/boss__sindragosa_8cpp.html#aa95b79e156766fc09a64d3217691f0d2ac721c35c9678e8037cbf6b74b55c56d2":[8,0,0,0,1,3,5,6,9,40,1],
+"de/de5/boss__sindragosa_8cpp.html#ab4bf0a7be8988b78eebfae9ccd04e5cc":[8,0,0,0,1,3,5,6,9,44],
+"de/de5/boss__sindragosa_8cpp.html#acad9865b90facba32500bfc607ffc5d7":[8,0,0,0,1,3,5,6,9,47],
+"de/de5/boss__sindragosa_8cpp.html#ad9df9f629c749423494d1f5a315dba71":[8,0,0,0,1,3,5,6,9,49],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,6,9,37],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a032399a8694d3b2b1da724a5a08794e8":[8,0,0,0,1,3,5,6,9,37,23],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15d3a6c7820c6fa062831396ec9324f2":[8,0,0,0,1,3,5,6,9,37,11]
 };

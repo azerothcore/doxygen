@@ -1,5 +1,11 @@
 var NAVTREEINDEX191 =
 {
+"d6/db3/classrbac_1_1RBACPermission.html#aabdbec412cd1a1192c8fb4089ab268aa":[7,0,8,1,3],
+"d6/db3/classrbac_1_1RBACPermission.html#aabdbec412cd1a1192c8fb4089ab268aa":[5,0,29,1,3],
+"d6/db3/classrbac_1_1RBACPermission.html#ab467166c941c8dc01d3d2bd3ce7a06fc":[5,0,29,1,6],
+"d6/db3/classrbac_1_1RBACPermission.html#ab467166c941c8dc01d3d2bd3ce7a06fc":[7,0,8,1,6],
+"d6/db3/classrbac_1_1RBACPermission.html#ab7e942f35ee798e52b6e44b5eb35957d":[5,0,29,1,0],
+"d6/db3/classrbac_1_1RBACPermission.html#ab7e942f35ee798e52b6e44b5eb35957d":[7,0,8,1,0],
 "d6/db3/classrbac_1_1RBACPermission.html#abadc5213769b1aa15ed3fea56087760e":[7,0,8,1,1],
 "d6/db3/classrbac_1_1RBACPermission.html#abadc5213769b1aa15ed3fea56087760e":[5,0,29,1,1],
 "d6/db3/classrbac_1_1RBACPermission.html#ac9626c0aae11a3189fc15d086fb0bd96":[7,0,8,1,2],
@@ -69,10 +75,10 @@ var NAVTREEINDEX191 =
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0":[8,0,0,0,1,3,10,6,4,2],
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe":[8,0,0,0,1,3,10,6,4,0],
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[8,0,0,0,1,3,10,6,5],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[7,0,0,5,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,0,8,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,0,8,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[7,0,0,5,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[7,0,0,5,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,0,8,0,29,0],
 "d6/dba/CombatAI_8h.html":[8,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[8,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[8,0,0,0,1,2,3,0,1,7],
@@ -243,11 +249,5 @@ var NAVTREEINDEX191 =
 "d6/dbf/structInstancePlayerBind.html#a9327f62b74eea3a1a525b2fec6d90b69":[7,0,1405,1],
 "d6/dbf/structInstancePlayerBind.html#ab35249eb791941b484ecc321b1102b24":[7,0,1405,2],
 "d6/dbf/structInstancePlayerBind.html#abc20bba094d04eb724d03b8290102981":[7,0,1405,0],
-"d6/dc0/structCreatureSpellCooldown.html":[7,0,963],
-"d6/dc0/structCreatureSpellCooldown.html#a27330a80d711087f1894b2ce816c33b8":[7,0,963,2],
-"d6/dc0/structCreatureSpellCooldown.html#a53364a501b0ce66e05ec0e6638f6cb6e":[7,0,963,1],
-"d6/dc0/structCreatureSpellCooldown.html#a6d234a93951992640df5720a2885be3e":[7,0,963,0],
-"d6/dc0/structCreatureSpellCooldown.html#a9c1c5f2b6e9a6cd015085e79b043e483":[7,0,963,3],
-"d6/dc1/ChatCommandTags_8h.html":[8,0,0,0,1,2,11,1,7],
-"d6/dc1/ChatCommandTags_8h.html#a474622d2cd7db21b03271a0f2c3237b9":[8,0,0,0,1,2,11,1,7,15]
+"d6/dc0/structCreatureSpellCooldown.html":[7,0,963]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX386 =
 {
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7352283120084279478da1de4d3db9d0":[8,0,0,0,1,2,41,9,65,2],
+"de/d30/SpellMgr_8h.html#aa10abaefa9eb85e4ab3ae20543519d8e":[8,0,0,0,1,2,41,9,34],
 "de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d":[8,0,0,0,1,2,41,9,20],
 "de/d30/SpellMgr_8h.html#aa48a311ee3f1729a60deb3e4cddca333":[8,0,0,0,1,2,41,9,23],
 "de/d30/SpellMgr_8h.html#aaf44c511d7aca68a0e2f56287dc2999d":[8,0,0,0,1,2,41,9,22],
@@ -247,7 +249,5 @@ var NAVTREEINDEX386 =
 "de/d34/classSessionScript.html":[7,0,2610],
 "de/d34/classSessionScript.html#a38af0c7fcfb9187d5795d2858be668ef":[7,0,2610,1],
 "de/d34/classSessionScript.html#a526960f434665b49b41483e7dd64bcce":[7,0,2610,2],
-"de/d34/classSessionScript.html#abcb2b96997e16966f8cc519856fbad56":[7,0,2610,0],
-"de/d34/classspell__gordunni__trap.html":[7,0,3197],
-"de/d34/classspell__gordunni__trap.html#a28c0efdb7274372a43e286a923e08f56":[7,0,3197,3]
+"de/d34/classSessionScript.html#abcb2b96997e16966f8cc519856fbad56":[7,0,2610,0]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX225 =
 {
+"d8/d12/structboss__ayamiss.html#a10111f97236c2846181aa20f7d9b64fd":[7,0,406,7],
+"d8/d12/structboss__ayamiss.html#a166238b9395a426a7333cf71a38c6c5c":[7,0,406,8],
+"d8/d12/structboss__ayamiss.html#a4281f761256cd93c19aea0a76239512d":[7,0,406,5],
+"d8/d12/structboss__ayamiss.html#a52f584da6d3d1b87fe91528dc25b8c5e":[7,0,406,2],
+"d8/d12/structboss__ayamiss.html#a6bc1f0767785efb5a5fb005b49338032":[7,0,406,6],
+"d8/d12/structboss__ayamiss.html#aa6dd99f8085d1424acf07cc124ac210c":[7,0,406,9],
 "d8/d12/structboss__ayamiss.html#aaaf1b765256f4a6342d16bd7767f92cf":[7,0,406,4],
 "d8/d12/structboss__ayamiss.html#ab098ee0f8872d1cf9d34993c01971921":[7,0,406,10],
 "d8/d12/structboss__ayamiss.html#acddcbb06b7d5980e199ef11103fabf7c":[7,0,406,3],
@@ -20,8 +26,8 @@ var NAVTREEINDEX225 =
 "d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[7,0,156,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[7,0,13,24],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,35,24],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,35,24,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[7,0,13,24,0],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,35,24,0],
 "d8/d14/instance__shattered__halls_8cpp.html":[8,0,0,0,1,3,7,4,3,4],
 "d8/d14/instance__shattered__halls_8cpp.html#a206458c4d90391b7cb2b182c06ad6360":[8,0,0,0,1,3,7,4,3,4,3],
 "d8/d14/instance__shattered__halls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,4,3,4,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX225 =
 "d8/d1d/classnpc__pos__after__first__boss.html":[7,0,2101],
 "d8/d1d/classnpc__pos__after__first__boss.html#a3f807335f79218ecc70c32f5496267a6":[7,0,2101,2],
 "d8/d1d/classnpc__pos__after__first__boss.html#a76ae57195ceca454928245f2db12f68c":[7,0,2101,1],
-"d8/d1e/classspell__q55__sacred__cleansing.html":[7,0,4020],
-"d8/d1e/classspell__q55__sacred__cleansing.html#a4aa8a16350a7a55706841471fd985ca2":[7,0,4020,0],
-"d8/d1e/classspell__q55__sacred__cleansing.html#a50a8f2d777169aaeef88533b66b88fb2":[7,0,4020,1],
-"d8/d20/SpellAuras_8h.html":[8,0,0,0,1,2,41,0,4],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html":[7,0,0,48],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html":[5,0,0,60],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[5,0,0,60,3]
+"d8/d1e/classspell__q55__sacred__cleansing.html":[7,0,4020]
 };

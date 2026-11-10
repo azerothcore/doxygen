@@ -4,6 +4,7 @@ var structnpc__expedition__engineer =
     [ "DoAction", "d0/d31/structnpc__expedition__engineer.html#a3d6ae901e36064d9530c53a81f3283c4", null ],
     [ "IsEast", "d0/d31/structnpc__expedition__engineer.html#aaad4dea3d9d22df71cb0aa9a362ee89d", null ],
     [ "Reset", "d0/d31/structnpc__expedition__engineer.html#a52036cb7114c752dee00a0eeab247c1c", null ],
+    [ "StopRepairing", "d0/d31/structnpc__expedition__engineer.html#a19c1724343a928fc40d4c9c8c439633c", null ],
     [ "UpdateAI", "d0/d31/structnpc__expedition__engineer.html#a0d28f6c2705414fbed53db59f49d31c1", null ],
     [ "_harpoonGUID", "d0/d31/structnpc__expedition__engineer.html#a658a071b9b9db16d59aadcf7345545be", null ],
     [ "_instance", "d0/d31/structnpc__expedition__engineer.html#aeb8e60ec32b8701e5e38f95665dc6651", null ],

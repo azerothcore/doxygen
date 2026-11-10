@@ -1,10 +1,17 @@
 var NAVTREEINDEX318 =
 {
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2fb1ef015f7b9a790ba1af73dc80ba35":[7,0,0,5,13,7],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2fb1ef015f7b9a790ba1af73dc80ba35":[5,0,0,8,13,7],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a599e2093215f70dc4f2f7db08965d816":[7,0,0,5,13,2],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a599e2093215f70dc4f2f7db08965d816":[5,0,0,8,13,2],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a63d8a4e4c085467d33d56fd3adf0f751":[5,0,0,8,13,5],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a63d8a4e4c085467d33d56fd3adf0f751":[7,0,0,5,13,5],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a75063e89049903fb5305d67ea1a02034":[5,0,0,8,13,6],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[5,0,0,8,13,8],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a75063e89049903fb5305d67ea1a02034":[7,0,0,5,13,6],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[7,0,0,5,13,8],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[5,0,0,8,13,1],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[5,0,0,8,13,8],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[7,0,0,5,13,1],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[5,0,0,8,13,1],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[7,0,0,5,13,4],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[5,0,0,8,13,4],
 "db/de9/classspell__pursue.html":[7,0,3887],
@@ -192,8 +199,8 @@ var NAVTREEINDEX318 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[7,0,1581,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[7,0,1581,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[7,0,1581,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,35,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[7,0,13,6,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,35,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,35,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[7,0,13,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[7,0,13,6,2,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX318 =
 "db/df1/classRaiseDeadCheck.html#abc6439e5b457f2f6e832f504167a392d":[7,0,2537,0],
 "db/df1/classspell__warl__life__tap.html":[7,0,4373],
 "db/df1/classspell__warl__life__tap.html#a6c6dee3de2c54536765cfdd97f4fd0c0":[7,0,4373,6],
-"db/df1/classspell__warl__life__tap.html#a846862b62f5750801cd804133f290d5d":[7,0,4373,0],
-"db/df1/classspell__warl__life__tap.html#a865fa526f2131703a668e113ba0d7849":[7,0,4373,5],
-"db/df1/classspell__warl__life__tap.html#aa56609d3c75a69fb62e302622fd11c3c":[7,0,4373,2],
-"db/df1/classspell__warl__life__tap.html#ab5e281028c009a4b317111de9a0a17e3":[7,0,4373,4],
-"db/df1/classspell__warl__life__tap.html#acec7437ba80e4ae491020448a36e4559":[7,0,4373,3],
-"db/df1/classspell__warl__life__tap.html#af43b3626cb4e5cfebcb22d9b014cb82d":[7,0,4373,1],
-"db/df1/structboss__terestian__illhoof.html":[7,0,739],
-"db/df1/structboss__terestian__illhoof.html#a0007e35a38efce5edada2f47a9bb89c6":[7,0,739,7]
+"db/df1/classspell__warl__life__tap.html#a846862b62f5750801cd804133f290d5d":[7,0,4373,0]
 };

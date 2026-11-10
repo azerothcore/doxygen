@@ -1,6 +1,8 @@
 var NAVTREEINDEX395 =
 {
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,0,8,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[7,0,0,5,0,26,0],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[5,0,0,8,0,26,0],
 "de/d8d/structArenaScore.html":[7,0,189],
 "de/d8d/structArenaScore.html#a3fe2ab34a9abc4d8c4ff863334cf2c84":[7,0,189,1],
 "de/d8d/structArenaScore.html#a486ee0e05ac5160f0fb174e2a1e061bb":[7,0,189,5],
@@ -12,8 +14,8 @@ var NAVTREEINDEX395 =
 "de/d8e/classspell__gen__random__target32.html#a361aed7e74a9f01d665018fd0c3addb1":[7,0,3146,1],
 "de/d8e/classspell__gen__random__target32.html#a99d08536d2555390a7399a6d2fc199e6":[7,0,3146,0],
 "de/d8e/classspell__gen__random__target32.html#aa96b1ff5297d670481d1d8afa9356ef9":[7,0,3146,2],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[7,0,0,5,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[5,0,0,8,8],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[7,0,0,5,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[5,0,0,8,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[7,0,0,5,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[5,0,0,8,8,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX395 =
 "de/d97/boss__mother__shahraz_8cpp.html#a8f6047bf081000d04bc3e62773bb940d":[8,0,0,0,1,3,7,1,4,10],
 "de/d97/boss__mother__shahraz_8cpp.html#aa2f32f15b6262419a3ae65c1e03571b7":[8,0,0,0,1,3,7,1,4,11],
 "de/d97/boss__mother__shahraz_8cpp.html#affb3b1d0a5e58e190441a75a04fd086a":[8,0,0,0,1,3,7,1,4,12],
-"de/d97/classboss__tyrannus.html":[7,0,769],
-"de/d97/classboss__tyrannus.html#a81373192ffea8817cb72b80f4629da43":[7,0,769,1],
-"de/d97/classboss__tyrannus.html#ad107030de1427d070305f5dcef96c016":[7,0,769,2]
+"de/d97/classboss__tyrannus.html":[7,0,769]
 };

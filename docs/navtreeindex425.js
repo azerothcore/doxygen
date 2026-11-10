@@ -1,15 +1,5 @@
 var NAVTREEINDEX425 =
 {
-"df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741":[7,0,4140,1],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html":[7,0,1665,0],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0aa59fdf0668d64f3b670c595579ba81":[7,0,1665,0,3],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1665,0,8],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a1a0c00c09c348f746730c9743d4b7b6b":[7,0,1665,0,4],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a20b62b48f5cf92106fcd1860d9e91956":[7,0,1665,0,5],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a87382571221c608017fd2d4cb99193dc":[7,0,1665,0,12],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#abbfbb5a1e116c6deb3db23f12ff8994f":[7,0,1665,0,0],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac458fc9a331dc7edfdc764215b1926e8":[7,0,1665,0,10],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac9951514f27f343ae96e856f484e7baf":[7,0,1665,0,11],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aed2921c1f6bc0507bf9e6f02f224ab44":[7,0,1665,0,6],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aedf4dcd909c1009fedfde593522454ec":[7,0,1665,0,2],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af570597c33add7ac5ebf3d01e8c9b2df":[7,0,1665,0,9],
@@ -249,5 +239,15 @@ var NAVTREEINDEX425 =
 "df/dd9/classUnit.html#a05e3e75fa26b33d0af910830f2b0e818":[7,0,4649,618],
 "df/dd9/classUnit.html#a05e8016f2af572e9019e2fc10f7e77d1":[7,0,4649,793],
 "df/dd9/classUnit.html#a063342b925eb0e652cd08bb349dd26fc":[7,0,4649,35],
-"df/dd9/classUnit.html#a0679821cba7b3361497706bc348d8d32":[7,0,4649,517]
+"df/dd9/classUnit.html#a0679821cba7b3361497706bc348d8d32":[7,0,4649,517],
+"df/dd9/classUnit.html#a06be9fa51184bba7eb092e8cc65db641":[7,0,4649,988],
+"df/dd9/classUnit.html#a06e2dc4dd1a74c3b45ae2ea42a70d056":[7,0,4649,959],
+"df/dd9/classUnit.html#a06efb9335107f8b14351954a4ec6599b":[7,0,4649,652],
+"df/dd9/classUnit.html#a07e3ea0e73b3ac9987aedd33c99873c9":[7,0,4649,702],
+"df/dd9/classUnit.html#a080cb9749e810cdb61c36430b179c26f":[7,0,4649,501],
+"df/dd9/classUnit.html#a0839378167049038c2857252d3b14738":[7,0,4649,384],
+"df/dd9/classUnit.html#a085d47fd164802e379e9a90a528da2d3":[7,0,4649,224],
+"df/dd9/classUnit.html#a087d27124192bac6a5418e91c7a38275":[7,0,4649,396],
+"df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90":[7,0,4649,844],
+"df/dd9/classUnit.html#a0914a3a6a93fcb7bb3774e21c4a42208":[7,0,4649,582]
 };

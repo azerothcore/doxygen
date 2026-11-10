@@ -1,5 +1,12 @@
 var NAVTREEINDEX320 =
 {
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4fa36744d4024e3ccc322f0225e357a0":[8,0,0,0,1,3,9,8,90,15],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a53d0e13b5246c20e54735a47681b433d":[8,0,0,0,1,3,9,8,90,17],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a571a8811f1f5dadf97d0f2975b3c4c73":[8,0,0,0,1,3,9,8,90,8],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a606f7af45e95db31d83434f773f49c28":[8,0,0,0,1,3,9,8,90,5],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a6474a07bde766d299fee1fabe61075da":[8,0,0,0,1,3,9,8,90,13],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a6b4e4e3dbb139e67c67940b0022e1ba7":[8,0,0,0,1,3,9,8,90,11],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a6edf004590c39a20deadab7e311be4ac":[8,0,0,0,1,3,9,8,90,18],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a73cc106ecf58fcd3a75fa23f9ff7a21c":[8,0,0,0,1,3,9,8,90,1],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a75f2bd8178978b50d3468b559443d53f":[8,0,0,0,1,3,9,8,90,12],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212ab615aa6946f4f3296576bd7a171642a1":[8,0,0,0,1,3,9,8,90,16],
@@ -242,12 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d04/classachievement__flame__leviathan__shutout.html":[7,0,56],
 "dc/d04/classachievement__flame__leviathan__shutout.html#a555e0d206b7f730665d301c7e03b23e6":[7,0,56,0],
 "dc/d04/classachievement__flame__leviathan__shutout.html#af548232f563fd387bc8ee25b696a2f99":[7,0,56,1],
-"dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
-"dc/d04/conceptAcore_1_1AnyTypeList.html":[5,0,0,140],
-"dc/d05/InstancePackets_8h.html":[8,0,0,0,1,2,39,0,16],
-"dc/d05/classnpc__wounded__blood__elf.html":[7,0,2339],
-"dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[7,0,2339,2],
-"dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[7,0,2339,1],
-"dc/d05/structboss__anomalus.html":[7,0,393],
-"dc/d05/structboss__anomalus.html#a067c4b5dfb5e68a3d91f043d34ea0929":[7,0,393,9]
+"dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0]
 };

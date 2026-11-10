@@ -1,5 +1,11 @@
 var NAVTREEINDEX238 =
 {
+"d8/daa/classspell__infected__worgen__bite__aura.html#a3ee65a1391c340e471adfc7ac653dd50":[7,0,3374,3],
+"d8/daa/classspell__infected__worgen__bite__aura.html#ab54795dc49ca453db40494a694158a98":[7,0,3374,0],
+"d8/daa/classspell__infected__worgen__bite__aura.html#addd4fac4cc8a93d800abacb144e3303c":[7,0,3374,2],
+"d8/dab/SpellAuras_8cpp.html":[8,0,0,0,1,2,41,0,3],
+"d8/dab/SpellAuras_8cpp.html#a2c54ebda028a15512cff94e01f9f92d8":[8,0,0,0,1,2,41,0,3,1],
+"d8/dab/SpellAuras_8cpp.html#a35cf5d451332db8c1e4a11f23b11d0ec":[8,0,0,0,1,2,41,0,3,0],
 "d8/dab/SpellAuras_8cpp.html#a49c1eff45f8eb67e523f8593923a5df0":[8,0,0,0,1,2,41,0,3,2],
 "d8/dab/classspell__oculus__soar__aura.html":[7,0,3762],
 "d8/dab/classspell__oculus__soar__aura.html#a09481646f8ec90b0135d93d83cc18929":[7,0,3762,4],
@@ -237,17 +243,11 @@ var NAVTREEINDEX238 =
 "d8/dbc/classspell__najentus__hurl__spine.html#a0296aa3d00d0d12e213d95b8520c50dc":[7,0,3740,1],
 "d8/dbc/classspell__najentus__hurl__spine.html#a4cd7135ff9e4ef605635f1eccc01ba65":[7,0,3740,2],
 "d8/dbc/classspell__najentus__hurl__spine.html#ab105ff1efd0fe20585ac3dc6c60f81a2":[7,0,3740,0],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[7,0,0,29],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[5,0,0,41],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[7,0,0,29],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[5,0,0,41,4],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[7,0,0,29,4],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[5,0,0,41,2],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[7,0,0,29,2],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[7,0,0,29,3],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[5,0,0,41,3],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[5,0,0,41,1],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ac1eda8f85259230fb382a3b6e58b6798":[7,0,0,29,1],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[7,0,0,29,5],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae372500b3a21cb65a11045dcc6f094a8":[5,0,0,41,5],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#ae636bd72045687920ec1d460508bc74b":[7,0,0,29,0]
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a70c477213c8b271d3402857edd87ef8b":[5,0,0,41,2],
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a9c43efd575de2edfdaa0b84def91c727":[7,0,0,29,3]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX309 =
 {
+"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a0d56e33d93a59f8fc434430256e433c8":[8,0,0,0,1,3,10,14,53,0],
+"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a66545b36633f24cc05333d976b7da411":[8,0,0,0,1,3,10,14,53,4],
+"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a8715715b3195ecb4b951f725b8fbbf75":[8,0,0,0,1,3,10,14,53,2],
+"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70ae834f7769d8681be0b836b828ac53e0a":[8,0,0,0,1,3,10,14,53,1],
+"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2":[8,0,0,0,1,3,10,14,59],
+"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a01db61624ef7ce8f1201777aa9a44d7c":[8,0,0,0,1,3,10,14,59,24],
+"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a0563e5105f9d04664585d47f1f13d2cb":[8,0,0,0,1,3,10,14,59,15],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a14b70284bd43bdd47ff9113a79260eb8":[8,0,0,0,1,3,10,14,59,23],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a16c198632451ae6bd2a10933d4bd6488":[8,0,0,0,1,3,10,14,59,20],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a1c7f4aef855e320f769eb7f5cc4877cf":[8,0,0,0,1,3,10,14,59,1],
@@ -221,8 +228,8 @@ var NAVTREEINDEX309 =
 "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558":[5,0,22,16,0],
 "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642":[5,0,22,16,4],
 "db/db7/namespaceMovement.html#aff10e913762216c0735a8a3530ee25d2":[5,0,22,27],
-"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[5,0,0,8,0,9],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[7,0,0,5,0,9],
+"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[5,0,0,8,0,9],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[5,0,0,8,0,9,0],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[7,0,0,5,0,9,0],
 "db/db8/classProcChanceTestHelper.html":[7,0,2498],
@@ -242,12 +249,5 @@ var NAVTREEINDEX309 =
 "db/db8/classProcChanceTestHelper.html#a6f7564c8a12d1531afe97c4f61fb23ac":[7,0,2498,17],
 "db/db8/classProcChanceTestHelper.html#a7439889744f4ef6e5c8e38d0c29760a4":[7,0,2498,33],
 "db/db8/classProcChanceTestHelper.html#a7e6ac7a1826cb4120992404ba8f1a277":[7,0,2498,39],
-"db/db8/classProcChanceTestHelper.html#a8dc56ead24e175f021aacf33410b8dbb":[7,0,2498,35],
-"db/db8/classProcChanceTestHelper.html#a97323266b01f9dcf63a38b00684d12c9":[7,0,2498,32],
-"db/db8/classProcChanceTestHelper.html#a9fabb85c7059a3df250ab3c68eca624e":[7,0,2498,15],
-"db/db8/classProcChanceTestHelper.html#aa5e3341309f011bf99711d3244cc9e1d":[7,0,2498,11],
-"db/db8/classProcChanceTestHelper.html#aa954818dda0fc9921217b052ddd1a169":[7,0,2498,25],
-"db/db8/classProcChanceTestHelper.html#ab3d733d9e66b5e9554501be5e09349f7":[7,0,2498,20],
-"db/db8/classProcChanceTestHelper.html#ab9fa7b4e963eef370817b26fc07a14e5":[7,0,2498,13],
-"db/db8/classProcChanceTestHelper.html#abe1c702ac0906af725a638f04dcdeb69":[7,0,2498,24]
+"db/db8/classProcChanceTestHelper.html#a8dc56ead24e175f021aacf33410b8dbb":[7,0,2498,35]
 };

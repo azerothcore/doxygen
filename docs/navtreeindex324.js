@@ -1,5 +1,12 @@
 var NAVTREEINDEX324 =
 {
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#a0882a32bfa1f067701d921a72b7c79b5":[8,0,0,0,1,3,7,5,0,5,3],
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,5,0,5,2],
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298ca01c8d326e5347f6017bbe58a6bd868ca":[8,0,0,0,1,3,7,5,0,5,2,2],
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298ca4151543c68c0bdea45c8fba50371784d":[8,0,0,0,1,3,7,5,0,5,2,0],
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298cadb72665839c4e1a455c082fd2ab65b43":[8,0,0,0,1,3,7,5,0,5,2,1],
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298cadb8f879d06dfb7dc0449c3be2c3e69f9":[8,0,0,0,1,3,7,5,0,5,2,3],
+"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[8,0,0,0,1,3,7,5,0,5,1],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,5,0,5,1,3],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,5,0,5,1,0],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,5,0,5,1,1],
@@ -214,8 +221,8 @@ var NAVTREEINDEX324 =
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,35,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,35,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[7,0,13,11,2,3],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[7,0,13,11,2,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[5,0,35,11,2,2],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[7,0,13,11,2,2],
 "dc/d29/classspell__gen__clone__weapon__aura.html":[7,0,3064],
 "dc/d29/classspell__gen__clone__weapon__aura.html#a0529b56b30fa7bb97c014bbc2ee4a96a":[7,0,3064,3],
 "dc/d29/classspell__gen__clone__weapon__aura.html#a18e05511c2dc0b934a97e323fccc3f50":[7,0,3064,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX324 =
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999f":[8,0,0,0,1,3,7,1,0,6],
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa0effff99f23ad7afa973c32e132667ac":[8,0,0,0,1,3,7,1,0,6,11],
 "dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa1eb13881675a3055393d334f54354a4b":[8,0,0,0,1,3,7,1,0,6,3],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa47530829a742dae04392ce6d9752e4f9":[8,0,0,0,1,3,7,1,0,6,6],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa4953136f0d1a5c81a6423295903ce5eb":[8,0,0,0,1,3,7,1,0,6,4],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa7245352acd89bb98f7bb88d42891147e":[8,0,0,0,1,3,7,1,0,6,8],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa7378981eb780646c36b9d8773f548625":[8,0,0,0,1,3,7,1,0,6,2],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa7683a41573f01cc6ba11c3eaa5da9f9a":[8,0,0,0,1,3,7,1,0,6,7],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa8e531c18de08e4bad88428fed785d3e6":[8,0,0,0,1,3,7,1,0,6,5],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999faca41db9c2a1e5d4549b9962459b451b0":[8,0,0,0,1,3,7,1,0,6,0],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999facfa7ddf5e74d67bae385a4810e53c0d2":[8,0,0,0,1,3,7,1,0,6,10]
+"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa47530829a742dae04392ce6d9752e4f9":[8,0,0,0,1,3,7,1,0,6,6]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX299 =
 {
+"db/d6a/classnpc__marzon__silent__blade.html":[7,0,2005],
+"db/d6a/classnpc__marzon__silent__blade.html#a8fa1c0e11555df45005f37fd9de7f3a8":[7,0,2005,1],
+"db/d6a/classnpc__marzon__silent__blade.html#aadde9b84b46c594e41ae8ca3ae0265a1":[7,0,2005,2],
+"db/d6a/classspell__spawn__drakonid.html":[7,0,4208],
+"db/d6a/classspell__spawn__drakonid.html#a21c5eb1511cb4035f795ff1d22797e34":[7,0,4208,0],
+"db/d6a/classspell__spawn__drakonid.html#a5308de47023b89e4ff8680158a502ac0":[7,0,4208,1],
+"db/d6a/classspell__spawn__drakonid.html#a5f148d259b1102b1046e6a3ac096fea8":[7,0,4208,2],
 "db/d6a/classspell__spawn__drakonid.html#a75f89d90b9e68288e54e1e0bd3b2ce98":[7,0,4208,3],
 "db/d6d/classnpc__argent__soldier.html":[7,0,1665],
 "db/d6d/classnpc__argent__soldier.html#aa308b4cf1df6edf0666d06e0ddab0797":[7,0,1665,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX299 =
 "db/d6e/spell__item_8cpp.html#a8813a65967ea52c62eac03888ede93eaace3f0b910cb7e9fe1967bcba0150bd38":[8,0,0,0,1,3,9,4,233,0],
 "db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdc":[8,0,0,0,1,3,9,4,186],
 "db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdca256bd618922aa914efebd4d0601aeecf":[8,0,0,0,1,3,9,4,186,0],
-"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfb":[8,0,0,0,1,3,9,4,196],
-"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba049e0d56c3f30d8991dde2beae302c4f":[8,0,0,0,1,3,9,4,196,2],
-"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba22aa014dbddc9e42d31d6fbb92b0aeb8":[8,0,0,0,1,3,9,4,196,3],
-"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba6043d1df5adcc31fa3205fa20ab0c14c":[8,0,0,0,1,3,9,4,196,1],
-"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba9ad2ccfa253f4ce3df97eff0f5e257a7":[8,0,0,0,1,3,9,4,196,5],
-"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba9de9ad38a5a101face3812197275230b":[8,0,0,0,1,3,9,4,196,4],
-"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfbad52b52587673db6f2db5bb6076bbf04f":[8,0,0,0,1,3,9,4,196,0],
-"db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874":[8,0,0,0,1,3,9,4,266]
+"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfb":[8,0,0,0,1,3,9,4,196]
 };

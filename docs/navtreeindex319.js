@@ -1,5 +1,12 @@
 var NAVTREEINDEX319 =
 {
+"db/df1/classspell__warl__life__tap.html#a865fa526f2131703a668e113ba0d7849":[7,0,4373,5],
+"db/df1/classspell__warl__life__tap.html#aa56609d3c75a69fb62e302622fd11c3c":[7,0,4373,2],
+"db/df1/classspell__warl__life__tap.html#ab5e281028c009a4b317111de9a0a17e3":[7,0,4373,4],
+"db/df1/classspell__warl__life__tap.html#acec7437ba80e4ae491020448a36e4559":[7,0,4373,3],
+"db/df1/classspell__warl__life__tap.html#af43b3626cb4e5cfebcb22d9b014cb82d":[7,0,4373,1],
+"db/df1/structboss__terestian__illhoof.html":[7,0,739],
+"db/df1/structboss__terestian__illhoof.html#a0007e35a38efce5edada2f47a9bb89c6":[7,0,739,7],
 "db/df1/structboss__terestian__illhoof.html#a1c48b03152be7188e471399fad8979d7":[7,0,739,2],
 "db/df1/structboss__terestian__illhoof.html#a2f25021cfbc9e466d73c13de8116d8f1":[7,0,739,6],
 "db/df1/structboss__terestian__illhoof.html#a5750bf4f12ac01216335a926f885e136":[7,0,739,0],
@@ -116,8 +123,8 @@ var NAVTREEINDEX319 =
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,35,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[7,0,13,7,6,1],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,35,7,6,1],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[7,0,13,7,6,0],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[5,0,35,7,6,0],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#ae3bb2ac16b8712a3eb731913af26961c":[7,0,13,7,6,0],
 "db/df8/classpool__commandscript.html":[7,0,2475],
 "db/df8/classpool__commandscript.html#a377a405a1dae394c6f17579c0f2751eb":[7,0,2475,4],
 "db/df8/classpool__commandscript.html#a41308abbe25e1e50325923f62f2fa3af":[7,0,2475,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX319 =
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a3e89fae53932e31a67bc37d7b688f2c6":[8,0,0,0,1,3,9,8,90,2],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4411e2f8adfa007dc7a31040237b9abe":[8,0,0,0,1,3,9,8,90,6],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4a956540bf457e206223deb1ada0c15d":[8,0,0,0,1,3,9,8,90,0],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4ce3f4dd29b10b23e1529ea8cdccf0e9":[8,0,0,0,1,3,9,8,90,14],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4fa36744d4024e3ccc322f0225e357a0":[8,0,0,0,1,3,9,8,90,15],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a53d0e13b5246c20e54735a47681b433d":[8,0,0,0,1,3,9,8,90,17],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a571a8811f1f5dadf97d0f2975b3c4c73":[8,0,0,0,1,3,9,8,90,8],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a606f7af45e95db31d83434f773f49c28":[8,0,0,0,1,3,9,8,90,5],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a6474a07bde766d299fee1fabe61075da":[8,0,0,0,1,3,9,8,90,13],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a6b4e4e3dbb139e67c67940b0022e1ba7":[8,0,0,0,1,3,9,8,90,11],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a6edf004590c39a20deadab7e311be4ac":[8,0,0,0,1,3,9,8,90,18]
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4ce3f4dd29b10b23e1529ea8cdccf0e9":[8,0,0,0,1,3,9,8,90,14]
 };

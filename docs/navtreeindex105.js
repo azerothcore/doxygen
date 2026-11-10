@@ -1,5 +1,10 @@
 var NAVTREEINDEX105 =
 {
+"d3/d77/structnpc__shambling__horror__icc_1_1npc__shambling__horror__iccAI.html#abae6058591022057e93d48da3db1b8bc":[7,0,2173,0,4],
+"d3/d77/structnpc__shambling__horror__icc_1_1npc__shambling__horror__iccAI.html#ac5bab3d9f360e4e00dcab9abc3799865":[7,0,2173,0,3],
+"d3/d77/structnpc__shambling__horror__icc_1_1npc__shambling__horror__iccAI.html#aed90f2c487c28190c7af630f4ea2fa13":[7,0,2173,0,2],
+"d3/d77/structnpc__shambling__horror__icc_1_1npc__shambling__horror__iccAI.html#af12b65fe4f77e8b2d3f5c87379dd69d2":[7,0,2173,0,5],
+"d3/d78/classspell__novos__summon__minions.html":[7,0,3749],
 "d3/d78/classspell__novos__summon__minions.html#a6f036bb2d42f248e0c252158a5ecedf1":[7,0,3749,2],
 "d3/d78/classspell__novos__summon__minions.html#a71b28156c628aacbc6cb481038c0e76c":[7,0,3749,1],
 "d3/d78/classspell__novos__summon__minions.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c":[7,0,3749,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#aaadeb10c22c598cd10ccde83425fbf71":[7,0,459,6],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#ab1c7da00e8e1a20d2592ec26862867fc":[7,0,459,5],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#ad94aef1875a5a863f78dc84a964638f9":[7,0,459,7],
-"d3/d7f/structgo__sister__mercy.html":[7,0,1220],
-"d3/d7f/structgo__sister__mercy.html#a3c29ef699afe163b9a505f472709a795":[7,0,1220,0],
-"d3/d7f/structgo__sister__mercy.html#a5ad9020e2717ef93d97a742ec16b14e6":[7,0,1220,1],
-"d3/d80/WorldSocket_8h.html":[8,0,0,0,1,2,39,10],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[7,0,5,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4]
+"d3/d7f/structgo__sister__mercy.html":[7,0,1220]
 };

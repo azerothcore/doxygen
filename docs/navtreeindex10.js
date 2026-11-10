@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d76/classLFGUpdateRequest.html":[7,0,1456],
 "d0/d76/classLFGUpdateRequest.html#a15258001db5870a0f52bb0c72cba3587":[7,0,1456,1],
 "d0/d76/classLFGUpdateRequest.html#a1bb4423241495aebab83ebc1acf66510":[7,0,1456,3],
 "d0/d76/classLFGUpdateRequest.html#a27e818e5d985ac91be6eca14a1ebd73f":[7,0,1456,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d7e/SpellProcConditionsTest_8cpp.html#aa21111bf368710bb371df701ac3d9605":[8,0,0,0,2,2,0,11,15,15],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#aad9ded9be3413cb7f378667f4a722c69":[8,0,0,0,2,2,0,11,15,5],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#ab3427884061021fed7a1ca0fe3734f58":[8,0,0,0,2,2,0,11,15,17],
-"d0/d7e/SpellProcConditionsTest_8cpp.html#ac8de39cce4e4e53370683b6cfc3107df":[8,0,0,0,2,2,0,11,15,19],
-"d0/d7e/SpellProcConditionsTest_8cpp.html#ac9c4ddea21cb583ab41f9664e0a55a27":[8,0,0,0,2,2,0,11,15,14]
+"d0/d7e/SpellProcConditionsTest_8cpp.html#ac8de39cce4e4e53370683b6cfc3107df":[8,0,0,0,2,2,0,11,15,19]
 };

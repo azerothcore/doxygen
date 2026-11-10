@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"d0/d55/AllCommandScript_8h.html#a0c35d8c2fdd730a0360fd00502881c03":[8,0,0,0,1,2,38,0,11,1],
 "d0/d55/AllCommandScript_8h.html#a57c7df35e0370887ade698d62704997b":[8,0,0,0,1,2,38,0,11,2],
 "d0/d55/AllCommandScript_8h.html#a57c7df35e0370887ade698d62704997ba7d51819392ef067de524c06437fab836":[8,0,0,0,1,2,38,0,11,2,2],
 "d0/d55/AllCommandScript_8h.html#a57c7df35e0370887ade698d62704997bab762a34db533207a5f8f5b0db870f0b0":[8,0,0,0,1,2,38,0,11,2,0],
@@ -80,16 +81,16 @@ var NAVTREEINDEX6 =
 "d0/d58/structSpellEnchantProcEntry.html#a6bbb4046cd4c068c990aa28844e4588b":[7,0,4496,0],
 "d0/d58/structSpellEnchantProcEntry.html#ac5d048f7ee803d61d5d3c59bb80a015d":[7,0,4496,1],
 "d0/d58/structSpellEnchantProcEntry.html#adb76c11f0073a2738374c98c01fda009":[7,0,4496,2],
-"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html":[5,0,35,10,6],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html":[7,0,13,10,6],
-"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a23500c61c0653f39c8c8a96ab34d0bf0":[7,0,13,10,6,0],
+"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html":[5,0,35,10,6],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a23500c61c0653f39c8c8a96ab34d0bf0":[5,0,35,10,6,0],
+"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a23500c61c0653f39c8c8a96ab34d0bf0":[7,0,13,10,6,0],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a7ee57120fc5221ccf1e18d877d5bccff":[7,0,13,10,6,1],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a7ee57120fc5221ccf1e18d877d5bccff":[5,0,35,10,6,1],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#abd8640cb98238f339218c3b945885c97":[7,0,13,10,6,3],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#abd8640cb98238f339218c3b945885c97":[5,0,35,10,6,3],
-"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#ad4ff3977c260035145d6acd00429d81e":[7,0,13,10,6,2],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#ad4ff3977c260035145d6acd00429d81e":[5,0,35,10,6,2],
+"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#ad4ff3977c260035145d6acd00429d81e":[7,0,13,10,6,2],
 "d0/d59/classspell__item__dementia.html":[7,0,3411],
 "d0/d59/classspell__item__dementia.html#a0c43d96bf2e59fd67790f327cf14d71e":[7,0,3411,2],
 "d0/d59/classspell__item__dementia.html#a1c85329bcafd6c327d1862feabc1eed0":[7,0,3411,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "d0/d5b/classPlayerScript.html#aad9c53f38209b82f76e73a8bf847c452":[7,0,2464,137],
 "d0/d5b/classPlayerScript.html#aaf088b928f0bf7a9c69dd6c852daa2be":[7,0,2464,12],
 "d0/d5b/classPlayerScript.html#aafaf3841ad2715c85e4fb1e4a34a25c5":[7,0,2464,153],
-"d0/d5b/classPlayerScript.html#ab1aa7309009b5fa7422d0358e659ccc5":[7,0,2464,147],
-"d0/d5b/classPlayerScript.html#ab1b576bf4850da8b38ec6d22cf4d3d5c":[7,0,2464,69]
+"d0/d5b/classPlayerScript.html#ab1aa7309009b5fa7422d0358e659ccc5":[7,0,2464,147]
 };

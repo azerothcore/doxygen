@@ -1,5 +1,11 @@
 var NAVTREEINDEX186 =
 {
+"d6/d7e/boss__kazrogal_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,4,1,0,3,5],
+"d6/d7e/boss__kazrogal_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[8,0,0,0,1,3,4,1,0,3,5,2],
+"d6/d7e/boss__kazrogal_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[8,0,0,0,1,3,4,1,0,3,5,0],
+"d6/d7e/boss__kazrogal_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac0cfa7807ddb019c2598d7966aebeb8d":[8,0,0,0,1,3,4,1,0,3,5,1],
+"d6/d7f/MapRefMgr_8h.html":[8,0,0,0,1,2,26,12],
+"d6/d7f/classUpdateFetcher.html":[7,0,4659],
 "d6/d7f/classUpdateFetcher.html#a0f766525f7f9757a0cf14059952825f0":[7,0,4659,30],
 "d6/d7f/classUpdateFetcher.html#a24699e8cc9d32551c24be563904bfdec":[7,0,4659,14],
 "d6/d7f/classUpdateFetcher.html#a286570b46c2ddd612b97de8e4ef4bd49":[7,0,4659,25],
@@ -243,11 +249,5 @@ var NAVTREEINDEX186 =
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a17c9debeb079d541a0d4e5ab242316f5":[8,0,0,0,1,3,5,21,38,14],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a1cd628fe8ad12d4928e8a1c4eb98ef76":[8,0,0,0,1,3,5,21,38,27],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a1ebc63cb3206d070bf31d20eaa47b071":[8,0,0,0,1,3,5,21,38,0],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a235a481c745b0420c25c5fe2184e13ce":[8,0,0,0,1,3,5,21,38,22],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a256fd25f172fa42871e6171e67568f28":[8,0,0,0,1,3,5,21,38,23],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a31d9d300cdaf55e35fe5e82398aab206":[8,0,0,0,1,3,5,21,38,2],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a33886550fcce093bd39450d188489113":[8,0,0,0,1,3,5,21,38,24],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a38b5a8beb861bdb868b9cf7646cbfb39":[8,0,0,0,1,3,5,21,38,31],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a40caac803a16ce93df2fbf68fe9042f7":[8,0,0,0,1,3,5,21,38,11],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a46c467599f797bb6282c4d94bc07aa73":[8,0,0,0,1,3,5,21,38,1]
+"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a235a481c745b0420c25c5fe2184e13ce":[8,0,0,0,1,3,5,21,38,22]
 };

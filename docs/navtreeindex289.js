@@ -1,5 +1,12 @@
 var NAVTREEINDEX289 =
 {
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caf690bf35b5c6595d363f51e9c549bdd5":[8,0,0,0,1,3,5,2,1,6,9,37],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caf7450338b09408688119d3a7924e3c21":[8,0,0,0,1,3,5,2,1,6,9,44],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cafa78ae1836f41b9a03c37956f021aadb":[8,0,0,0,1,3,5,2,1,6,9,33],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cafbb36f076189caf98d6e60a370aeb4d3":[8,0,0,0,1,3,5,2,1,6,9,1],
+"da/de8/trial__of__the__crusader_8h.html#a7e4250fe656a3a8203945083084977f1":[8,0,0,0,1,3,5,2,1,6,17],
+"da/de8/trial__of__the__crusader_8h.html#a8b3538aefe50c563922daa87d66869a7":[8,0,0,0,1,3,5,2,1,6,12],
+"da/de8/trial__of__the__crusader_8h.html#a8b3538aefe50c563922daa87d66869a7abf40af296967a97d709baabd51fb00b5":[8,0,0,0,1,3,5,2,1,6,12,0],
 "da/de8/trial__of__the__crusader_8h.html#a907166c4236421dcb4fd522251f52255":[8,0,0,0,1,3,5,2,1,6,11],
 "da/de8/trial__of__the__crusader_8h.html#a907166c4236421dcb4fd522251f52255a2594368e698cf4e81db60025c01c1108":[8,0,0,0,1,3,5,2,1,6,11,7],
 "da/de8/trial__of__the__crusader_8h.html#a907166c4236421dcb4fd522251f52255a2e19681299a3ee1e1ba042a3e37f38e5":[8,0,0,0,1,3,5,2,1,6,11,8],
@@ -242,12 +249,5 @@ var NAVTREEINDEX289 =
 "da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[7,0,4488,5],
 "da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[7,0,4488,4],
 "da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[7,0,4488,1],
-"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[7,0,4488,3],
-"da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[7,0,4488,0],
-"da/df1/classMetric.html":[7,0,1550],
-"da/df1/classMetric.html#a069ffe856af041ad52e7a3457a879f1c":[7,0,1550,29],
-"da/df1/classMetric.html#a1063712aaca72d92ec956faca429367e":[7,0,1550,27],
-"da/df1/classMetric.html#a124025419c5b48f64d67e0a77d9c17f0":[7,0,1550,19],
-"da/df1/classMetric.html#a1474d1913f1db34a25d318b46e21a2b2":[7,0,1550,7],
-"da/df1/classMetric.html#a22934a06eb31e77c7ae3e26265a12272":[7,0,1550,3]
+"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[7,0,4488,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a2a482b716f537866a815085ead9cfd38":[7,0,13,0,1,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a2a482b716f537866a815085ead9cfd38":[5,0,35,0,1,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#aaf2cd8c1c3d67301cc40af78f138daa0":[5,0,35,0,1,3],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#aaf2cd8c1c3d67301cc40af78f138daa0":[7,0,13,0,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "d0/d54/classCaptainSurviveTalk.html#a43a1b1da17ed41ae765aabc47c858f80":[7,0,854,0],
 "d0/d54/classCaptainSurviveTalk.html#a871cf08e8c7fced2971cae8abbc20454":[7,0,854,1],
 "d0/d54/classCaptainSurviveTalk.html#ac8de506afb4688560ea637918d07b01e":[7,0,854,2],
-"d0/d55/AllCommandScript_8h.html":[8,0,0,0,1,2,38,0,11],
-"d0/d55/AllCommandScript_8h.html#a0c35d8c2fdd730a0360fd00502881c03":[8,0,0,0,1,2,38,0,11,1]
+"d0/d55/AllCommandScript_8h.html":[8,0,0,0,1,2,38,0,11]
 };

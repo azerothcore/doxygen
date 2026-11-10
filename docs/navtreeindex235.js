@@ -1,5 +1,11 @@
 var NAVTREEINDEX235 =
 {
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af90a7a944c7429677d088c83557cfca8":[7,0,2183,0,4],
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#afc140e6f9fc1ec78914aecc5150345b0":[7,0,2183,0,16],
+"d8/d80/classspell__hodir__storm__cloud__aura.html":[7,0,3255],
+"d8/d80/classspell__hodir__storm__cloud__aura.html#a2bb4fe398e6b225dd14bdb51e3f01522":[7,0,3255,3],
+"d8/d80/classspell__hodir__storm__cloud__aura.html#a4cc9b379480c50e1116e3dab03afeaad":[7,0,3255,1],
+"d8/d80/classspell__hodir__storm__cloud__aura.html#ac82d5a47f5eca266eed99ab65f9eb5bf":[7,0,3255,2],
 "d8/d80/classspell__hodir__storm__cloud__aura.html#ae22cd3b6f7cf515e80dd1125349dd152":[7,0,3255,0],
 "d8/d80/classspell__item__piccolo__of__the__flaming__fire.html":[7,0,3490],
 "d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d":[7,0,3490,0],
@@ -187,10 +193,10 @@ var NAVTREEINDEX235 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[7,0,4666,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[7,0,4666,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[7,0,4666,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,35,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[7,0,13,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,35,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[7,0,13,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[7,0,13,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,35,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[7,0,586],
@@ -243,11 +249,5 @@ var NAVTREEINDEX235 =
 "d8/d8d/structTaxiPathEntry.html#a8e87b02059c2c1e4b1dd2760c99cb004":[7,0,4582,0],
 "d8/d8d/structboss__lady__malande.html":[7,0,604],
 "d8/d8d/structboss__lady__malande.html#a6d9d09a49fc87bbbda02387f78bb3739":[7,0,604,3],
-"d8/d8d/structboss__lady__malande.html#a8cb693d203463dcba809e7ffc23c6868":[7,0,604,0],
-"d8/d8d/structboss__lady__malande.html#ad5cf6e7b0000c7f96d8606088fb13d31":[7,0,604,1],
-"d8/d8d/structboss__lady__malande.html#af4b5f376e387851e15517de03636acde":[7,0,604,2],
-"d8/d8e/AuraLoadedStateTest_8cpp.html":[8,0,0,0,2,2,0,11,0],
-"d8/d8e/AuraLoadedStateTest_8cpp.html#a3c2cf023118b4939342706355b5e3e23":[8,0,0,0,2,2,0,11,0,0],
-"d8/d8e/classHookList.html":[7,0,1311],
-"d8/d8e/classHookList.html#a13d85caabd15541389f8e93e99b768b0":[7,0,1311,5]
+"d8/d8d/structboss__lady__malande.html#a8cb693d203463dcba809e7ffc23c6868":[7,0,604,0]
 };

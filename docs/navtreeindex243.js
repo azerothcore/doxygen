@@ -1,5 +1,11 @@
 var NAVTREEINDEX243 =
 {
+"d8/de4/structnpc__alexstrasza.html#ab47f439968b7e9358158eae3e31f4e29":[7,0,1635,1],
+"d8/de4/structnpc__alexstrasza.html#acadf7b1ff63e266fd1f6eeaf533f9514":[7,0,1635,2],
+"d8/de4/structnpc__alexstrasza.html#aec1c93eee408ecefbceec22be4b90dba":[7,0,1635,3],
+"d8/de5/boss__maiden__of__grief_8cpp.html":[8,0,0,0,1,3,5,9,1,1],
+"d8/de5/boss__maiden__of__grief_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,9,1,1,4],
+"d8/de5/boss__maiden__of__grief_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,9,1,1,4,2],
 "d8/de5/boss__maiden__of__grief_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,9,1,1,4,0],
 "d8/de5/boss__maiden__of__grief_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7383ad6f7ac5159821054233685b7bb8":[8,0,0,0,1,3,5,9,1,1,4,3],
 "d8/de5/boss__maiden__of__grief_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,9,1,1,4,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX243 =
 "d8/df6/TypeContainerFunctions_8h.html#a826d2d5fc544299a171fc4d192b13b70":[8,0,0,0,0,6,5,19],
 "d8/df6/TypeContainerFunctions_8h.html#a9ef193f0c3493fdaeeaa5b0816714d1c":[8,0,0,0,0,6,5,15],
 "d8/df6/TypeContainerFunctions_8h.html#aa0fbdf0f576bf824c7502b6254a7e6f5":[8,0,0,0,0,6,5,35],
-"d8/df6/TypeContainerFunctions_8h.html#aa25dd64d4a28b7d93e2c8bf4cf93d888":[8,0,0,0,0,6,5,18],
-"d8/df6/TypeContainerFunctions_8h.html#aabad64220427f3e58499a7ac255bae78":[8,0,0,0,0,6,5,1],
-"d8/df6/TypeContainerFunctions_8h.html#aace2fb0f6527ad522bb0604bfd39afaf":[8,0,0,0,0,6,5,16],
-"d8/df6/TypeContainerFunctions_8h.html#aad11d3ae8df8f5c95f05dcf291d5640c":[8,0,0,0,0,6,5,24],
-"d8/df6/TypeContainerFunctions_8h.html#ab412b2504203d71c6f46869b32a4a5ef":[8,0,0,0,0,6,5,28],
-"d8/df6/TypeContainerFunctions_8h.html#ab54306147e78491102a30b754f9add91":[8,0,0,0,0,6,5,10],
-"d8/df6/TypeContainerFunctions_8h.html#ab9dd42a824e7e453b99fa89a888c82f9":[8,0,0,0,0,6,5,33]
+"d8/df6/TypeContainerFunctions_8h.html#aa25dd64d4a28b7d93e2c8bf4cf93d888":[8,0,0,0,0,6,5,18]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX360 =
 {
+"dd/db2/structGtRegenMPPerSptEntry.html":[7,0,1283],
+"dd/db2/structGtRegenMPPerSptEntry.html#a614fdab0bf0be8c91775b49d020cdc7c":[7,0,1283,0],
+"dd/db2/zone__storm__peaks_8cpp.html":[8,0,0,0,1,3,5,23],
+"dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26":[8,0,0,0,1,3,5,23,39],
+"dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26a216b4c566f3bb6e1ccb804989b5534ec":[8,0,0,0,1,3,5,23,39,2],
+"dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26a392dcbdfd30138c1cc769a3bfeb68430":[8,0,0,0,1,3,5,23,39,3],
+"dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26ac9f68e52ae04ed769ef8584e4d1c28f8":[8,0,0,0,1,3,5,23,39,1],
 "dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26aed224fcf38261c2346031905865da961":[8,0,0,0,1,3,5,23,39,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4":[8,0,0,0,1,3,5,23,36],
 "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4a1afe71f4391266cff2080bee59e58245":[8,0,0,0,1,3,5,23,36,5],
@@ -241,13 +248,6 @@ var NAVTREEINDEX360 =
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[7,0,642,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,0,8,2,1,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
-"dd/dbc/classspell__warr__vigilance__trigger.html":[7,0,4425],
-"dd/dbc/classspell__warr__vigilance__trigger.html#a1b9a4c78a43cf406f1db75c518a343ea":[7,0,4425,3],
-"dd/dbc/classspell__warr__vigilance__trigger.html#ab363d596d2d1e030f0cc07126b40e921":[7,0,4425,1],
-"dd/dbc/classspell__warr__vigilance__trigger.html#ab3f88b7443eb4f32339c3b687431fda2":[7,0,4425,0],
-"dd/dbc/classspell__warr__vigilance__trigger.html#ab9041b811e80e220828d5db59b724682":[7,0,4425,2]
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1]
 };

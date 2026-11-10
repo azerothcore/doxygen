@@ -1,5 +1,12 @@
 var NAVTREEINDEX294 =
 {
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff":[8,0,0,0,1,3,2,6,0,4,5],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819":[8,0,0,0,1,3,2,6,0,4,7],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197":[8,0,0,0,1,3,2,6,0,4,11],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad5df01fa14643489f7d2ec5d42eb6dbc":[8,0,0,0,1,3,2,6,0,4,8],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dae7faaec3da413d29c15543c1cfd4fd33":[8,0,0,0,1,3,2,6,0,4,4],
+"db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05":[8,0,0,0,1,3,2,6,0,5],
+"db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a0ce6ce17f4bd616ac4b7f88cc1b8055b":[8,0,0,0,1,3,2,6,0,5,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a0fcfe6f63ec53eec1c7288c2d2ad751b":[8,0,0,0,1,3,2,6,0,5,8],
 "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a53713ddb24f070a66180520e0abaf2f0":[8,0,0,0,1,3,2,6,0,5,1],
 "db/d20/instance__scarlet__monastery_8cpp.html#a62d54c8986d76e6f8bd1c35cc6596d05a6b507c51667988a41d3020c26af2db9e":[8,0,0,0,1,3,2,6,0,5,0],
@@ -52,8 +59,8 @@ var NAVTREEINDEX294 =
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[8,0,0,0,1,2,7,5,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,35,6,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,35,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,35,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,35,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[7,0,695],
@@ -242,12 +249,5 @@ var NAVTREEINDEX294 =
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html":[7,0,766,0],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a033f10bba4ba89aa0111d4cb520540e6":[7,0,766,0,9],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a0c62ac244e57b1b90101e1ba89a60d27":[7,0,766,0,1],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a136b51ede30d63d87228d35e8b6f2c7a":[7,0,766,0,4],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a22a8a7696fb23b9eab01d42cd45644de":[7,0,766,0,8],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd":[7,0,766,0,3],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a6ab1d215ed077883781b0c0188282c5e":[7,0,766,0,7],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a9c945841926d5b08f37c6a720dd25a14":[7,0,766,0,6],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#aab05bab963d603c3cb70edfd62a84b49":[7,0,766,0,0],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#ada770d51f63c841c500ffc3197a7a89f":[7,0,766,0,5],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#af7076251fc1fad1dc259d747934910e2":[7,0,766,0,2]
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a136b51ede30d63d87228d35e8b6f2c7a":[7,0,766,0,4]
 };

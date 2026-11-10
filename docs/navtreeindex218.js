@@ -1,5 +1,11 @@
 var NAVTREEINDEX218 =
 {
+"d7/dbc/structnpc__wild__wyrm.html#a3d12d555ab7c992ca37e826609b3cd72":[7,0,2334,7],
+"d7/dbc/structnpc__wild__wyrm.html#a7adb3a9f2d17c55995218219c2af13a6":[7,0,2334,0],
+"d7/dbc/structnpc__wild__wyrm.html#a7fa0ac4d2feaf62b08c4667c8f0b7474":[7,0,2334,9],
+"d7/dbc/structnpc__wild__wyrm.html#adbbf5b93476eef2ef54f51d2523a726e":[7,0,2334,8],
+"d7/dbc/structnpc__wild__wyrm.html#adcc805b0880d95c185af4a587474c2d2":[7,0,2334,3],
+"d7/dbc/structnpc__wild__wyrm.html#ade2cc59d0afcf5ebfd7c6fbd694e0809":[7,0,2334,10],
 "d7/dbc/structnpc__wild__wyrm.html#aeaa4f0327f06ee67a63fd15b914ffac8":[7,0,2334,4],
 "d7/dbc/structnpc__wild__wyrm.html#afdd165233995f79aa9ec82d7c2c1f258":[7,0,2334,2],
 "d7/dbd/classspell__item__vanquished__clutches.html":[7,0,3548],
@@ -243,11 +249,5 @@ var NAVTREEINDEX218 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aaa3315b262109938f69f6186fe49fdfc":[7,0,1393,0,46],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab1ee54aec4bcf62c5f31d843f6bf403e":[7,0,1393,0,4],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab20ce8718a0d6f94f5959c4f2d4984c3":[7,0,1393,0,28],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab5c95c62c2175575486556bd5eb84910":[7,0,1393,0,31],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab73afbc81283f58b786e1b62848df3e2":[7,0,1393,0,7],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab77f8f29c1a367e25934f94e2ddf91f7":[7,0,1393,0,36],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab828e9e47568e9a10957cf333c83c4f2":[7,0,1393,0,37],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#abbf6cb96cff9fe36d668253e86208e52":[7,0,1393,0,3],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#abc483aa947dc5eaccd65a60bcd894b59":[7,0,1393,0,41],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac09484c22521c3319e7c9d7677c1f751":[7,0,1393,0,0]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab5c95c62c2175575486556bd5eb84910":[7,0,1393,0,31]
 };

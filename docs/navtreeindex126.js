@@ -1,5 +1,10 @@
 var NAVTREEINDEX126 =
 {
+"d4/d22/structboss__hodir.html#a319c9a0bb8e9771b8fb89df5055628ef":[7,0,553,17],
+"d4/d22/structboss__hodir.html#a31c3693cdf73d684a5a39963ff5a4121":[7,0,553,13],
+"d4/d22/structboss__hodir.html#a33f6771817e47bda0fc2067a40258cc1":[7,0,553,16],
+"d4/d22/structboss__hodir.html#a35dd93db8580c4b8a971f129e3fd3827":[7,0,553,5],
+"d4/d22/structboss__hodir.html#a388eaf944b07001390f4f1796a8918b7":[7,0,553,2],
 "d4/d22/structboss__hodir.html#a42f8a10a8b148d9f0bfd9eb943a15f03":[7,0,553,23],
 "d4/d22/structboss__hodir.html#a4e075098d5ae6f553efcac0b76e777b5":[7,0,553,6],
 "d4/d22/structboss__hodir.html#a60b899abe9b1ab2c04be675d3ce54f68":[7,0,553,4],
@@ -107,8 +112,8 @@ var NAVTREEINDEX126 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,0,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,0,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,0,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[7,0,0,5,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,0,8,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[7,0,2733],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[7,0,2733,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[7,0,2733,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,9,0,1,6,3],
 "d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,9,0,1,6,0],
 "d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4d8e5b12f693213d64aa0c3015681ca3":[8,0,0,0,1,3,5,9,0,1,6,1],
-"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,9,0,1,6,2],
-"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01":[8,0,0,0,1,3,5,9,0,1,3],
-"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a3fc75f85681abc880dc451562f449186":[8,0,0,0,1,3,5,9,0,1,3,3],
-"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a5545d513600badfbae47148bc756ed64":[8,0,0,0,1,3,5,9,0,1,3,2],
-"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a7525c00b2c7e38d5b3b1d300c33411dc":[8,0,0,0,1,3,5,9,0,1,3,4],
-"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06":[8,0,0,0,1,3,5,9,0,1,3,0]
+"d4/d2b/boss__ionar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,5,9,0,1,6,2]
 };

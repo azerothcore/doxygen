@@ -1,5 +1,12 @@
 var NAVTREEINDEX267 =
 {
+"da/d07/classByteBuffer.html#a9ce46ba3fcd156ea7119a91231339aa9":[7,0,844,72],
+"da/d07/classByteBuffer.html#aa083c5fac68ef7176271fe2f72a9285f":[7,0,844,1],
+"da/d07/classByteBuffer.html#aa70d33b89e626033048985b9340a414f":[7,0,844,34],
+"da/d07/classByteBuffer.html#aa7b1246e84bc9010cf14a66385b85e07":[7,0,844,12],
+"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[7,0,844,58],
+"da/d07/classByteBuffer.html#aae5d8ea772e7adcea4e7b533ae25fb94":[7,0,844,59],
+"da/d07/classByteBuffer.html#ab14206d336f09c4096a84a27c9bb6777":[7,0,844,51],
 "da/d07/classByteBuffer.html#ab271141a122689d48a5780c2e6165dba":[7,0,844,2],
 "da/d07/classByteBuffer.html#ab79d655f99fa581903b95229a424a608":[7,0,844,69],
 "da/d07/classByteBuffer.html#ab8a60a8541fca5e7a2c55dcdcebf16e3":[7,0,844,40],
@@ -242,12 +249,5 @@ var NAVTREEINDEX267 =
 "da/d17/structEnchantDuration.html#a3de1a8d64aea4c5c1f984a74c6bb017d":[7,0,1051,4],
 "da/d17/structEnchantDuration.html#a3f4edafbc9b09cb5ab660bc68af435f3":[7,0,1051,3],
 "da/d17/structEnchantDuration.html#a52448f2bb8b788193a69fe9a2d8729f3":[7,0,1051,1],
-"da/d17/structEnchantDuration.html#ae803f6a9ce9cdb0dbb133bc85b6613ab":[7,0,1051,2],
-"da/d18/structnpc__koltira__deathweaver.html":[7,0,1971],
-"da/d18/structnpc__koltira__deathweaver.html#a099e6f33720417ff376343ad9e64abae":[7,0,1971,4],
-"da/d18/structnpc__koltira__deathweaver.html#a110d20298f724095b1c526714268c98e":[7,0,1971,7],
-"da/d18/structnpc__koltira__deathweaver.html#a23a56674749f287a59fa34fe3027a800":[7,0,1971,3],
-"da/d18/structnpc__koltira__deathweaver.html#a4d71e3da1340693b08127d9647efb7bb":[7,0,1971,0],
-"da/d18/structnpc__koltira__deathweaver.html#a5997672bc9bea9d119b79fdc9bd70b2e":[7,0,1971,2],
-"da/d18/structnpc__koltira__deathweaver.html#a708ed9530e94397252d28b0f25e5f0c0":[7,0,1971,1]
+"da/d17/structEnchantDuration.html#ae803f6a9ce9cdb0dbb133bc85b6613ab":[7,0,1051,2]
 };

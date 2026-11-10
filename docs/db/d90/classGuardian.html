@@ -4143,8 +4143,8 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1447</span>                <span class="keywordflow">if</span> (aur-&gt;GetEffect(0))</div>
 <div class="line"><span class="lineno"> 1448</span>                    aur-&gt;GetEffect(0)-&gt;SetAmount(-aurEff-&gt;GetSpellInfo()-&gt;Effects[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>].CalcValue());</div>
 <div class="line"><span class="lineno"> 1449</span> </div>
-<div class="line"><span class="lineno"> 1450</span>        <span class="comment">// Added to perm ghoul by default</span></div>
-<div class="line"><span class="lineno"> 1451</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/dd9/classUnit.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">IsPet</a>())</div>
+<div class="line"><span class="lineno"> 1450</span>        <span class="comment">// only the permanent ghoul is a pet</span></div>
+<div class="line"><span class="lineno"> 1451</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/dd9/classUnit.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">IsPet</a>())</div>
 <div class="line"><span class="lineno"> 1452</span>        {</div>
 <div class="line"><span class="lineno"> 1453</span>            <a class="code hl_function" href="../../df/dd9/classUnit.html#a51d433dde350cd94d7c3c43e30ca997f">AddAura</a>(<a class="code hl_enumvalue" href="../../d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a790da5379479457306e297f148bcd6ac">SPELL_DK_PET_SCALING_01</a>, <span class="keyword">this</span>);</div>
 <div class="line"><span class="lineno"> 1454</span>            <a class="code hl_function" href="../../df/dd9/classUnit.html#a51d433dde350cd94d7c3c43e30ca997f">AddAura</a>(<a class="code hl_enumvalue" href="../../d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7ac34a6818132a5c487d7b899c33e273f9">SPELL_DK_PET_SCALING_02</a>, <span class="keyword">this</span>);</div>
@@ -4877,7 +4877,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d90/classGuardian.html">Guardian</a></li>
-    <li class="footer">Generated on Mon Nov 9 2026 14:58:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Nov 10 2026 14:11:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

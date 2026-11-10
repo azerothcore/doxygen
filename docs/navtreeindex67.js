@@ -1,5 +1,10 @@
 var NAVTREEINDEX67 =
 {
+"d2/d5e/structbrann__bronzebeard.html#a76934c5af1659249c409321abc62c741":[7,0,837,3],
+"d2/d5e/structbrann__bronzebeard.html#a769d0eeca929906ed59f05321ac8fc68":[7,0,837,9],
+"d2/d5e/structbrann__bronzebeard.html#a80635c130ddd101e72e765b268249f3c":[7,0,837,37],
+"d2/d5e/structbrann__bronzebeard.html#a852decfa02828c9bc35947025be3a488":[7,0,837,0],
+"d2/d5e/structbrann__bronzebeard.html#a8eb324754cb106ad97e6732265a668c6":[7,0,837,15],
 "d2/d5e/structbrann__bronzebeard.html#a972fc27c6ab06186d3bdbc5e1f7e8796":[7,0,837,24],
 "d2/d5e/structbrann__bronzebeard.html#aa1a402c128edee6b331155932e341636":[7,0,837,6],
 "d2/d5e/structbrann__bronzebeard.html#aaacbf661f9b5413eb8151f5e04aab53a":[7,0,837,36],
@@ -244,10 +249,5 @@ var NAVTREEINDEX67 =
 "d2/d6e/structVMAP_1_1AreaInfo.html":[7,0,11,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[5,0,32,1,0],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[7,0,11,1,0],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[7,0,11,1,6],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,32,1,6],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[7,0,11,1,4],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,32,1,4],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[5,0,32,1,2],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[7,0,11,1,2]
+"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,32,1,6]
 };

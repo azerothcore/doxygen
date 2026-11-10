@@ -1,5 +1,6 @@
 var NAVTREEINDEX21 =
 {
+"d0/dd9/CalendarPackets_8h.html":[8,0,0,0,1,2,39,0,4],
 "d0/dd9/structboss__gal__darah.html":[7,0,504],
 "d0/dd9/structboss__gal__darah.html#a036b5f96ecf5096040f16e0205e4d57c":[7,0,504,0],
 "d0/dd9/structboss__gal__darah.html#a08f311b7b7cec3bc4056b7d7071bfbf0":[7,0,504,11],
@@ -18,10 +19,10 @@ var NAVTREEINDEX21 =
 "d0/dda/classgo__fel__crystalforge.html#aa44708a617edd51651da49918ab776e5":[7,0,1186,0],
 "d0/dda/classgo__fel__crystalforge.html#aae9f4beff251efb7b29e1988ddd51eaf":[7,0,1186,1],
 "d0/ddc/WardenPayloadMgr_8h.html":[8,0,0,0,1,2,47,9],
-"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[5,0,0,8,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[7,0,0,5,0,30],
-"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,0,8,0,30,0],
+"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[5,0,0,8,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[7,0,0,5,0,30,0],
+"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,0,8,0,30,0],
 "d0/ddd/PlayerTaxi_8h.html":[8,0,0,0,1,2,16,7,13],
 "d0/ddd/classMinion.html":[7,0,1554],
 "d0/ddd/classMinion.html#a02806f2eae429a33e0d2b0c115892c77":[7,0,1554,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX21 =
 "d0/de7/classBIH.html#ae112545e132f8dd509674e164a172f61":[7,0,375,15],
 "d0/de7/classBIH.html#af94c9e4da68f4aee89616edbe5d2df34":[7,0,375,13],
 "d0/de7/structnpc__xerestrasza_1_1npc__xerestraszaAI.html":[7,0,2341,0],
-"d0/de7/structnpc__xerestrasza_1_1npc__xerestraszaAI.html#a0eceae8fb9bf5071bc8d9cddf783507b":[7,0,2341,0,2],
-"d0/de7/structnpc__xerestrasza_1_1npc__xerestraszaAI.html#a6389ab58f4b44c668590113ec75f2adf":[7,0,2341,0,3]
+"d0/de7/structnpc__xerestrasza_1_1npc__xerestraszaAI.html#a0eceae8fb9bf5071bc8d9cddf783507b":[7,0,2341,0,2]
 };

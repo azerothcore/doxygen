@@ -1,5 +1,7 @@
 var NAVTREEINDEX368 =
 {
+"de/d06/structboss__headless__horseman.html#a57a5935e31ef5cc4df2657ddd358afdc":[7,0,540,9],
+"de/d06/structboss__headless__horseman.html#a5de04d5c0da7c199ec89de9ef40a59fd":[7,0,540,20],
 "de/d06/structboss__headless__horseman.html#a76c6eddf1005774403498d0954571c19":[7,0,540,1],
 "de/d06/structboss__headless__horseman.html#a888d573450a2b09d22def41884ed2d30":[7,0,540,6],
 "de/d06/structboss__headless__horseman.html#a8e33d87467086dc3eae778a579216256":[7,0,540,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX368 =
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78":[8,0,0,0,1,4,7,63,31],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa0dafa75c1846cfd9c7038bf23d33ba3":[8,0,0,0,1,4,7,63,38],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa125fc4c1e1b4fa629540aa88037f1ba":[8,0,0,0,1,4,7,63,17],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa300c615d596e6f6da492264e3003641":[8,0,0,0,1,4,7,63,13],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa3714f498c22ce339d10cb3b3e4025fd":[8,0,0,0,1,4,7,63,2],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa4d566e399c30786ea55db072077a42d":[8,0,0,0,1,4,7,63,85]
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa300c615d596e6f6da492264e3003641":[8,0,0,0,1,4,7,63,13]
 };

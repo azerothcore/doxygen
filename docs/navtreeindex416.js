@@ -1,15 +1,5 @@
 var NAVTREEINDEX416 =
 {
-"df/d68/structnpc__flame__of__azzinoth.html#a24eba1a6cdea4971573a6f4b2dd34fb3":[7,0,1834,2],
-"df/d68/structnpc__flame__of__azzinoth.html#a5254057af0371a08ea01fe91502c2a20":[7,0,1834,1],
-"df/d68/structnpc__flame__of__azzinoth.html#a7a1c9b967e6a79721dea8cbca44cbb5b":[7,0,1834,4],
-"df/d68/structnpc__flame__of__azzinoth.html#acdeb046c2214bd449257ba1b932c8a5c":[7,0,1834,0],
-"df/d68/structnpc__flame__of__azzinoth.html#ad2e7085fcd985a08cc2e317485a8fff1":[7,0,1834,3],
-"df/d68/structnpc__flame__of__azzinoth.html#ae797d929b0e9c8953a4c9efd392a21f3":[7,0,1834,5],
-"df/d6a/boss__warlord__najentus_8cpp.html":[8,0,0,0,1,3,7,1,9],
-"df/d6a/boss__warlord__najentus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,7,1,9,5],
-"df/d6a/boss__warlord__najentus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9b580e191197b2fffc3b57c3854324d1":[8,0,0,0,1,3,7,1,9,5,0],
-"df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,7,1,9,7],
 "df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,7,1,9,7,5],
 "df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a1c0ae6a58d21e6e6480db8b35c19d58f":[8,0,0,0,1,3,7,1,9,7,1],
 "df/d6a/boss__warlord__najentus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,7,1,9,7,0],
@@ -249,5 +239,15 @@ var NAVTREEINDEX416 =
 "df/d72/classAccountMgr.html#a17c28dfcb31af8f4241bb5210408185a":[7,0,30,8],
 "df/d72/classAccountMgr.html#a1f4ecbdae8c367e74eed00e297e8b35d":[7,0,30,30],
 "df/d72/classAccountMgr.html#a261e0906e1e34d2d52dec0ebfef5d79c":[7,0,30,3],
-"df/d72/classAccountMgr.html#a2c5240a350fb967fb63e890b0e91a6fc":[7,0,30,1]
+"df/d72/classAccountMgr.html#a2c5240a350fb967fb63e890b0e91a6fc":[7,0,30,1],
+"df/d72/classAccountMgr.html#a2f5fb2cf0c24e610c09ac734be93c7a9":[7,0,30,25],
+"df/d72/classAccountMgr.html#a30b6e5cf1733f0143f86aaeff600215c":[7,0,30,20],
+"df/d72/classAccountMgr.html#a3382c6430bfbf14e32ca11b5ac68fc23":[7,0,30,7],
+"df/d72/classAccountMgr.html#a378d0337dd3fdb837530c4fbb11d5f39":[7,0,30,2],
+"df/d72/classAccountMgr.html#a3dee71cb876511a98423727312e60a99":[7,0,30,4],
+"df/d72/classAccountMgr.html#a4fb760897161c3d463f842b28bcf7c20":[7,0,30,13],
+"df/d72/classAccountMgr.html#a542396a3e0f8ab0af8800a567afa45c3":[7,0,30,28],
+"df/d72/classAccountMgr.html#a63751f144cb7acb57fc20f0caf5e7043":[7,0,30,26],
+"df/d72/classAccountMgr.html#a63eecdc26eb9b9d6aac3249a3c569d25":[7,0,30,10],
+"df/d72/classAccountMgr.html#a6a9cb892c15d78b5de65738005234ff6":[7,0,30,6]
 };

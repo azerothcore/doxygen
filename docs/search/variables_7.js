@@ -123,7 +123,7 @@ var searchData=
   ['goflag_120',['goFlag',['../dd/d27/structSmartAction.html#a6c611ab6bd84b0d32570aa765068c03b',1,'SmartAction']]],
   ['gogolemnguid_121',['GoGolemNGUID',['../d3/dd6/structinstance__blackrock__depths.html#a76f17e9a98b69ba6755ffc589d1996d9',1,'instance_blackrock_depths']]],
   ['gogolemsguid_122',['GoGolemSGUID',['../d3/dd6/structinstance__blackrock__depths.html#a48fb43f5328537cb9f1ed50412f35c1c',1,'instance_blackrock_depths']]],
-  ['goguid_123',['goguid',['../df/d8d/structSmartTarget.html#ac0219a82dab0720d36ed0beab9420dfd',1,'SmartTarget::goGUID'],['../d8/dbb/structnpc__pet__gen__plump__turkey.html#a5fa88e045430adea9e72a3744bf72780',1,'npc_pet_gen_plump_turkey::goGUID'],['../d2/d8f/structScriptInfo.html#aedb7a9610d28364203cf7301b193b6c9',1,'ScriptInfo::GOGuid']]],
+  ['goguid_123',['goguid',['../d2/d8f/structScriptInfo.html#aedb7a9610d28364203cf7301b193b6c9',1,'ScriptInfo::GOGuid'],['../df/d8d/structSmartTarget.html#ac0219a82dab0720d36ed0beab9420dfd',1,'SmartTarget::goGUID'],['../d8/dbb/structnpc__pet__gen__plump__turkey.html#a5fa88e045430adea9e72a3744bf72780',1,'npc_pet_gen_plump_turkey::goGUID']]],
   ['gokaddrakguid_124',['goKaddrakGUID',['../d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ae3754dac0d344b44d000599f01b5d287',1,'instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript']]],
   ['gold_125',['gold',['../d8/d62/structLoot.html#a8a079b186937e50d51fc4636f8deb698',1,'Loot']]],
   ['goldincopper_126',['goldInCopper',['../d4/dd9/structAchievementCriteriaEntry.html#a646c7d9937120ba64c3d28c317f29de0',1,'AchievementCriteriaEntry']]],

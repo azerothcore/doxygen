@@ -1,5 +1,6 @@
 var NAVTREEINDEX23 =
 {
+"d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a6816293c2b9ca479fbd7da0c2c5393fe":[8,0,0,0,1,2,8,1,9,13,52],
 "d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a6dbe6e4203510285a673a56b5260981b":[8,0,0,0,1,2,8,1,9,13,21],
 "d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a6f8a868e88102c672bdeec31650dcdc9":[8,0,0,0,1,2,8,1,9,13,59],
 "d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a70a099e778327b546c9d3d98674e6a6b":[8,0,0,0,1,2,8,1,9,13,25],
@@ -207,10 +208,10 @@ var NAVTREEINDEX23 =
 "d0/df4/structPosition.html#afdbf0a257fcd7a48066fd92c4eacae3b":[7,0,2484,54],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[7,0,13,2,6],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[5,0,35,2,6],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[7,0,13,2,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[5,0,35,2,6,2],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[7,0,13,2,6,1],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[7,0,13,2,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[5,0,35,2,6,1],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[7,0,13,2,6,1],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[7,0,13,2,6,0],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[5,0,35,2,6,0],
 "d0/df6/classspell__allergies.html":[7,0,2669],
@@ -248,6 +249,5 @@ var NAVTREEINDEX23 =
 "d0/df9/structboss__thorim__gauntlet__npcs.html#a72ed22f7536d488f886fb42ab3fc84bb":[7,0,753,0],
 "d0/df9/structboss__thorim__gauntlet__npcs.html#a86cec45bbbb8e904200ee0bcc6e44822":[7,0,753,3],
 "d0/df9/structboss__thorim__gauntlet__npcs.html#aec35e2b91841c386f083681673e15598":[7,0,753,5],
-"d0/df9/structboss__thorim__gauntlet__npcs.html#af10a444bada5743c837a9979726c79c9":[7,0,753,1],
-"d0/dfa/DatabaseEnv_8h.html":[8,0,0,0,1,1,0,4]
+"d0/df9/structboss__thorim__gauntlet__npcs.html#af10a444bada5743c837a9979726c79c9":[7,0,753,1]
 };

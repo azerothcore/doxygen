@@ -1,15 +1,5 @@
 var NAVTREEINDEX417 =
 {
-"df/d72/classAccountMgr.html#a2f5fb2cf0c24e610c09ac734be93c7a9":[7,0,30,25],
-"df/d72/classAccountMgr.html#a30b6e5cf1733f0143f86aaeff600215c":[7,0,30,20],
-"df/d72/classAccountMgr.html#a3382c6430bfbf14e32ca11b5ac68fc23":[7,0,30,7],
-"df/d72/classAccountMgr.html#a378d0337dd3fdb837530c4fbb11d5f39":[7,0,30,2],
-"df/d72/classAccountMgr.html#a3dee71cb876511a98423727312e60a99":[7,0,30,4],
-"df/d72/classAccountMgr.html#a4fb760897161c3d463f842b28bcf7c20":[7,0,30,13],
-"df/d72/classAccountMgr.html#a542396a3e0f8ab0af8800a567afa45c3":[7,0,30,28],
-"df/d72/classAccountMgr.html#a63751f144cb7acb57fc20f0caf5e7043":[7,0,30,26],
-"df/d72/classAccountMgr.html#a63eecdc26eb9b9d6aac3249a3c569d25":[7,0,30,10],
-"df/d72/classAccountMgr.html#a6a9cb892c15d78b5de65738005234ff6":[7,0,30,6],
 "df/d72/classAccountMgr.html#a81bbc2af33211a3130c6aa215f5607b7":[7,0,30,24],
 "df/d72/classAccountMgr.html#a8280510b2564ec6ea76727218c1687b3":[7,0,30,19],
 "df/d72/classAccountMgr.html#a9cef07e9cdeb656405b9589482c19ee5":[7,0,30,22],
@@ -85,8 +75,8 @@ var NAVTREEINDEX417 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[7,0,2896,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[7,0,2896,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[7,0,2896,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,0,120],
+"df/d78/classAcore_1_1SingleThreaded.html":[7,0,0,108],
 "df/d78/classspell__dk__ghoul__thrash.html":[7,0,2852],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[7,0,2852,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[7,0,2852,1],
@@ -249,5 +239,15 @@ var NAVTREEINDEX417 =
 "df/d7f/structboss__novos.html#a5a6651d0e08c0557d53174d40da0fac3":[7,0,657,14],
 "df/d7f/structboss__novos.html#a7567db25d51851888a35c70a4d7c833c":[7,0,657,7],
 "df/d7f/structboss__novos.html#a93c6c9c3a8e94f1d051047ddf24fbe14":[7,0,657,5],
-"df/d7f/structboss__novos.html#a95732678db7d6b103a6523100b27544b":[7,0,657,8]
+"df/d7f/structboss__novos.html#a95732678db7d6b103a6523100b27544b":[7,0,657,8],
+"df/d7f/structboss__novos.html#aa383cb44a4eddcf73b00da9925060dde":[7,0,657,9],
+"df/d7f/structboss__novos.html#ac06fea8658bedcbf0ede8ddace6b9c3c":[7,0,657,6],
+"df/d7f/structboss__novos.html#accd720c3cb74905ef5ecf793089681eb":[7,0,657,4],
+"df/d7f/structboss__novos.html#ad037870744002e44a48e056875bd7ec1":[7,0,657,2],
+"df/d7f/structboss__novos.html#ae05afda7873a26a7a812813628e970fc":[7,0,657,0],
+"df/d7f/structboss__novos.html#ae6c7721cfc95e8a524ea3d2fc4e20a88":[7,0,657,15],
+"df/d7f/structboss__novos.html#af37e7d05ad672d443f7f2f89c7fd24a5":[7,0,657,11],
+"df/d81/classspell__dk__wandering__plague.html":[7,0,2886],
+"df/d81/classspell__dk__wandering__plague.html#a3aaf93f3746b36d5bfa4fc475aabe43b":[7,0,2886,2],
+"df/d81/classspell__dk__wandering__plague.html#a8cf5e4224f46b6f836d517f90fd135d4":[7,0,2886,1]
 };

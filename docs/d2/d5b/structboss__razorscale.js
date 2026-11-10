@@ -15,6 +15,7 @@ var structboss__razorscale =
     [ "ScheduleAirEvents", "d2/d5b/structboss__razorscale.html#a809b1ee8e83d6de04f99b723b329c434", null ],
     [ "ScheduleGroundEvents", "d2/d5b/structboss__razorscale.html#ac09d5428613218a18519c63e714c80ae", null ],
     [ "SpellHit", "d2/d5b/structboss__razorscale.html#ad92c40cfcc483717bb8ca08214c22add", null ],
+    [ "SummonedCreatureDespawn", "d2/d5b/structboss__razorscale.html#aa8f214174dbf8730db2c39f94efb882e", null ],
     [ "SummonedCreatureDies", "d2/d5b/structboss__razorscale.html#a678ba10c9ab7af662c0a8e2dd9de6904", null ],
     [ "SummonMinions", "d2/d5b/structboss__razorscale.html#a5d059d9571a04896c27fde1b6c5db4ce", null ],
     [ "UpdateAI", "d2/d5b/structboss__razorscale.html#ab86a057182e956b50dd6a3016f6e2ffe", null ],

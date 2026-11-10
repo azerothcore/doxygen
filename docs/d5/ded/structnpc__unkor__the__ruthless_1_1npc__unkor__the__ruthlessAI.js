@@ -1,8 +1,8 @@
 var structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI =
 [
     [ "npc_unkor_the_ruthlessAI", "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "CanMakeSubmit", "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a7f6277a06b3667d54f2b41eefb2d63b0", null ],
     [ "DamageTaken", "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "HasQuestActive", "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#ad97ea6721dcea4058167ea327dc0c515", null ],
     [ "JustEngagedWith", "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a537225016bfeba51b607d250c0a09be5", null ],
     [ "Reset", "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a14ca75417c623d6d6e5fce50521963da", null ],
     [ "Submit", "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a26872858bfb4aeda1b4af445033995db", null ],

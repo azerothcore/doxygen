@@ -1,5 +1,10 @@
 var NAVTREEINDEX94 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca58427635e44aa1fe73e58ea68f44a6c9":[8,0,0,0,1,3,5,15,35,2],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca652b099e337cfab2429eb1e1758f81df":[8,0,0,0,1,3,5,15,35,8],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca740b24a00be08e42343fdc9bdb1ba1de":[8,0,0,0,1,3,5,15,35,9],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182ca9159ca9abe5a33cf89ac895992605a60":[8,0,0,0,1,3,5,15,35,6],
+"d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182caa5be06bbb7ef549209e4e173e655ae66":[8,0,0,0,1,3,5,15,35,11],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182cac0a67b02752afb37b583ab39b053ee4f":[8,0,0,0,1,3,5,15,35,3],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182cac3f06c413f81a981f228c7cbda23e192":[8,0,0,0,1,3,5,15,35,7],
 "d3/d09/zone__borean__tundra_8cpp.html#a83831c025b32f21aedee329e7919182cacf71fdbe5fb3eae6cdd6bb1bab81d199":[8,0,0,0,1,3,5,15,35,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d0f/classchatfilter__commandscript.html#a8cbe0819f09b43a32e594a67010d63ee":[7,0,893,2],
 "d3/d0f/classchatfilter__commandscript.html#aa7553c0fc74103773edeaac9195e4414":[7,0,893,1],
 "d3/d0f/classchatfilter__commandscript.html#ab59bd95ca2b9319fb175c0592074f9ff":[7,0,893,3],
-"d3/d0f/classchatfilter__commandscript.html#ad628fb21fc3bb06c6108c6c731793ad6":[7,0,893,4],
-"d3/d10/classspell__algalon__phase__punch__aura.html":[7,0,2665],
-"d3/d10/classspell__algalon__phase__punch__aura.html#a2724a85983561a14db8b06ae492ead55":[7,0,2665,0],
-"d3/d10/classspell__algalon__phase__punch__aura.html#a6d0f941f30d8c850e48396fffd13768d":[7,0,2665,1],
-"d3/d10/classspell__algalon__phase__punch__aura.html#a85270947972be9c299a642b31969ef68":[7,0,2665,3],
-"d3/d10/classspell__algalon__phase__punch__aura.html#a91ebb4e69d02deb5129965f543c474d1":[7,0,2665,4]
+"d3/d0f/classchatfilter__commandscript.html#ad628fb21fc3bb06c6108c6c731793ad6":[7,0,893,4]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX321 =
 {
+"dc/d04/conceptAcore_1_1AnyTypeList.html":[5,0,0,140],
+"dc/d05/InstancePackets_8h.html":[8,0,0,0,1,2,39,0,16],
+"dc/d05/classnpc__wounded__blood__elf.html":[7,0,2339],
+"dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[7,0,2339,2],
+"dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[7,0,2339,1],
+"dc/d05/structboss__anomalus.html":[7,0,393],
+"dc/d05/structboss__anomalus.html#a067c4b5dfb5e68a3d91f043d34ea0929":[7,0,393,9],
 "dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77":[7,0,393,10],
 "dc/d05/structboss__anomalus.html#a3c0413f30d96268cab724856334e61ee":[7,0,393,5],
 "dc/d05/structboss__anomalus.html#a41e257481921a122dba30348559e05fb":[7,0,393,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae212b7ea9df121f54f0e1d103a584630":[8,0,0,0,1,3,5,4,1,2,21,62],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae6621a52452c1d9bcdaffb31dfc8ce4b":[8,0,0,0,1,3,5,4,1,2,21,43],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeef0a69c1eced5416a0b1cd78ac0163b":[8,0,0,0,1,3,5,4,1,2,21,36],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefc3bb18efe3cd1f50eb5bf4c24c453a":[8,0,0,0,1,3,5,4,1,2,21,32],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af0b5068bfc5d61dbe925336a0dfd3457":[8,0,0,0,1,3,5,4,1,2,21,50],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af8c1b74e51c7c18b1e50fc7ab9721695":[8,0,0,0,1,3,5,4,1,2,21,38],
-"dc/d07/halls__of__reflection_8cpp.html#af6d1cead390f8b407b632356ba32bd5c":[8,0,0,0,1,3,5,4,1,2,23],
-"dc/d07/halls__of__reflection_8cpp.html#af6d1cead390f8b407b632356ba32bd5ca43142e0c9ad6f7f9cac524fa754a47e5":[8,0,0,0,1,3,5,4,1,2,23,0],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html":[7,0,675,0],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a145d62ce132c3cdaeb7918790122967b":[7,0,675,0,4],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a1b3b2ce6d33becceb9a0426932b351be":[7,0,675,0,11]
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefc3bb18efe3cd1f50eb5bf4c24c453a":[8,0,0,0,1,3,5,4,1,2,21,32]
 };

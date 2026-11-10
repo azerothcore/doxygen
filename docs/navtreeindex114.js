@@ -1,5 +1,10 @@
 var NAVTREEINDEX114 =
 {
+"d3/dcf/Battleground_8h.html#ad1473374651bd09f461cdc994a6bc8d2a91aabae633323f9e31059e42e9ea5240":[8,0,0,0,1,2,8,10,24,1],
+"d3/dcf/Battleground_8h.html#ad1473374651bd09f461cdc994a6bc8d2aa7ff6fbf30c889d48bea1d98b74dc408":[8,0,0,0,1,2,8,10,24,0],
+"d3/dcf/Battleground_8h.html#ad1473374651bd09f461cdc994a6bc8d2ae7efc0dc1952d03b010583a83242fab8":[8,0,0,0,1,2,8,10,24,4],
+"d3/dcf/Battleground_8h.html#ad1473374651bd09f461cdc994a6bc8d2af0b95a17deaea4fc8f467eaacaa515b2":[8,0,0,0,1,2,8,10,24,2],
+"d3/dcf/Battleground_8h.html#ad1473374651bd09f461cdc994a6bc8d2afaf0b6349b8a93b543f64c744e321d5a":[8,0,0,0,1,2,8,10,24,3],
 "d3/dcf/Battleground_8h.html#ad38b6d141d358ab270694a77db413e50":[8,0,0,0,1,2,8,10,9],
 "d3/dcf/Battleground_8h.html#ad38b6d141d358ab270694a77db413e50a3abb94c265144c09e0e8d4cd4f56557b":[8,0,0,0,1,2,8,10,9,0],
 "d3/dcf/Battleground_8h.html#ad38b6d141d358ab270694a77db413e50a49cde50538e418258d292c3c2f7df512":[8,0,0,0,1,2,8,10,9,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX114 =
 "d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a09cd8a896a5a8785223068bbbaa65135":[8,0,0,0,1,4,0,2,15,33],
 "d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a0f567a2ca32349130eaddba38ff93636":[8,0,0,0,1,4,0,2,15,6],
 "d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a1148660a1c6e012714182fced63c3b0e":[8,0,0,0,1,4,0,2,15,93],
-"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a13101cdafac93d5d5568ba824c70a000":[8,0,0,0,1,4,0,2,15,72],
-"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a133af114be8b179485bd16967d865fb1":[8,0,0,0,1,4,0,2,15,3],
-"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a154c38187ec56cd14d31cbe4ccfdd2a5":[8,0,0,0,1,4,0,2,15,56],
-"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a160b2b4466f5bd5f7df6afc9115cf1f6":[8,0,0,0,1,4,0,2,15,5],
-"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a16b93c36aa3687bd59c859016b6202c1":[8,0,0,0,1,4,0,2,15,20],
-"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a1c9c3d1a45772ad18200f38e9b1e7372":[8,0,0,0,1,4,0,2,15,49]
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a13101cdafac93d5d5568ba824c70a000":[8,0,0,0,1,4,0,2,15,72]
 };

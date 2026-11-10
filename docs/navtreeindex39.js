@@ -1,13 +1,14 @@
 var NAVTREEINDEX39 =
 {
+"d1/d8c/structMovement_1_1CommonInitializer.html":[7,0,7,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[5,0,22,0,2],
 "d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[7,0,7,0,2],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[5,0,22,0,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[7,0,7,0,0],
-"d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[7,0,7,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[5,0,22,0,1],
-"d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[5,0,22,0,3],
+"d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[7,0,7,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[7,0,7,0,3],
+"d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[5,0,22,0,3],
 "d1/d8d/structAuctionSearcherUpdate.html":[7,0,283],
 "d1/d8d/structAuctionSearcherUpdate.html#a34cb7ede5d2108065a51a80396d6fc55":[7,0,283,2],
 "d1/d8d/structAuctionSearcherUpdate.html#a3f61acebd3d594e3a23d682d2d5292bc":[7,0,283,3],
@@ -206,8 +207,8 @@ var NAVTREEINDEX39 =
 "d1/d95/SpellProcTargetResolutionTest_8cpp.html#adc3e9713f51dc9d0659472c769da1073":[8,0,0,0,2,2,0,11,27,7],
 "d1/d95/SpellProcTargetResolutionTest_8cpp.html#adc4f7536f5fbc531ee25c5e2e8aa823c":[8,0,0,0,2,2,0,11,27,3],
 "d1/d95/SpellProcTargetResolutionTest_8cpp.html#ae0ceced3da7b46834d403b94be7bd498":[8,0,0,0,2,2,0,11,27,1],
-"d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html":[5,0,35,22],
 "d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html":[7,0,13,22],
+"d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html":[5,0,35,22],
 "d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html#a4e30376bb16ea56434e65761a2f4a55d":[5,0,35,22,0],
 "d1/d95/classWorldPackets_1_1InvalidHyperlinkException.html#a4e30376bb16ea56434e65761a2f4a55d":[7,0,13,22,0],
 "d1/d95/classnpc__bone__spike.html":[7,0,1707],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "d1/d9a/classArenaLogEntryData.html#a8f3ec057dd930d2f2acd7961e0cf4e5e":[7,0,188,0],
 "d1/d9a/classArenaLogEntryData.html#aa3cca4521431bf152550611549bf4bbe":[7,0,188,1],
 "d1/d9a/classArenaLogEntryData.html#aa8983930063298c86f4635d2ae3078fe":[7,0,188,3],
-"d1/d9a/classArenaLogEntryData.html#ab9f80eacfe24025a2d4947085d3f6dd7":[7,0,188,8],
-"d1/d9a/classArenaLogEntryData.html#ac764620c3c8a986286fd74062dac4645":[7,0,188,4]
+"d1/d9a/classArenaLogEntryData.html#ab9f80eacfe24025a2d4947085d3f6dd7":[7,0,188,8]
 };

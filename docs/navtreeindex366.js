@@ -1,5 +1,7 @@
 var NAVTREEINDEX366 =
 {
+"dd/dec/classChannelMgr.html#a17ce7f88be65f0432ab663dd264eb16e":[7,0,870,12],
+"dd/dec/classChannelMgr.html#a1ac5de545c0cb91088176fae883748ed":[7,0,870,14],
 "dd/dec/classChannelMgr.html#a26ffff762f0aa2d28be005fb2d914821":[7,0,870,7],
 "dd/dec/classChannelMgr.html#a2f9099cf528aacae9110d349841e57a7":[7,0,870,3],
 "dd/dec/classChannelMgr.html#a418644f22226851f452e7698eab973eb":[7,0,870,6],
@@ -146,16 +148,16 @@ var NAVTREEINDEX366 =
 "dd/df6/classLootValidatorRefMgr.html#aee3a4701c5bc51f4028fe53f18675989":[7,0,1503,1],
 "dd/df6/classLootValidatorRefMgr.html#af68f1d93a80e13976798dfed0063a1e4":[7,0,1503,5],
 "dd/df6/structContainerUnorderedMap_3_01TypeNull_00_01KEY__TYPE_01_4.html":[7,0,936],
-"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[5,0,0,18],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[7,0,0,6],
+"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[5,0,0,18],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a30283854715c90496e14d260f913f5fa":[5,0,0,18,0],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a30283854715c90496e14d260f913f5fa":[7,0,0,6,0],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[5,0,0,18,1],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[7,0,0,6,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[5,0,0,53,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[7,0,0,41,0],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,0,53,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[7,0,0,41,0,3],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,0,53,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a21f4b8baf1c80cc8c5f029be8daa63e2":[5,0,0,53,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a21f4b8baf1c80cc8c5f029be8daa63e2":[7,0,0,41,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[7,0,0,41,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX366 =
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5c68e56ebc91734d36f5446eea454f4a":[8,0,0,0,1,3,5,10,1,3,4,16],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a70af277b808e9aeb6ea36bcf61768d31":[8,0,0,0,1,3,5,10,1,3,4,17],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a783c7b41db9c6b8418d0e3f1a7d5257f":[8,0,0,0,1,3,5,10,1,3,4,18],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a878d5d93e9ae7b811a96ad1b3e2fd22b":[8,0,0,0,1,3,5,10,1,3,4,14],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a946b0375ddbc1cf8406af3fec355bf0d":[8,0,0,0,1,3,5,10,1,3,4,12],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a975d05f6a76f99c43c524028cec1a3ae":[8,0,0,0,1,3,5,10,1,3,4,22]
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a878d5d93e9ae7b811a96ad1b3e2fd22b":[8,0,0,0,1,3,5,10,1,3,4,14]
 };

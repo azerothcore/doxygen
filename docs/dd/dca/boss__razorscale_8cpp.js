@@ -25,15 +25,11 @@ var boss__razorscale_8cpp =
       [ "ACTION_START_FIGHT", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4afd2662e5ad45793954d7eca931443e2a", null ],
       [ "ACTION_GROUND_PHASE", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a8b037d57f36bce64f4e09d019c23c75d", null ],
       [ "ACTION_START_PERMA_GROUND", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a3244615725d2cbf33279327d359ba995", null ],
-      [ "ACTION_BUILD_HARPOON_1", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a35593f078aa85c5e5e2496c213b373ea", null ],
-      [ "ACTION_BUILD_HARPOON_2", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a52b6f95e45b7309ec49f56138157d8c6", null ],
-      [ "ACTION_BUILD_HARPOON_3", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a759541a641cb93440de2bd4426f9e255", null ],
-      [ "ACTION_BUILD_HARPOON_4", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a410c53ca1c3d2a8aa8f63ae9661b39ff", null ],
-      [ "ACTION_DESTROY_HARPOONS", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a85029401bdc8f1e42737232b55f34620", null ],
       [ "ACTION_STOP_CONTROLLERS", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a35543f9f359de7e649d87c39068cbbda", null ],
       [ "ACTION_ENGINEER_DEAD", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a961a4d46c2d5f0a10ac977121760bcf8", null ],
-      [ "ACTION_FIRE_STATE_RESET", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a0633681a46f9ef0330f4add3401c53fb", null ],
-      [ "ACTION_FIRE_STATE_REPAIR", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4aea2e9cf37df9343123b428140c18d1cf", null ]
+      [ "ACTION_FIRE_STATE_BREAK", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a135576d6f3b68f191a8f690c0bcfc538", null ],
+      [ "ACTION_FIRE_STATE_REPAIR", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4aea2e9cf37df9343123b428140c18d1cf", null ],
+      [ "ACTION_FIRE_STATE_CLEANUP", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4afad38d1e007877d8d2c6bb6e07d14e85", null ]
     ] ],
     [ "RazorscaleEvents", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4", [
       [ "EVENT_BERSERK", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a94f1144a24a622ff9e12ebe57137f266", null ],
@@ -48,11 +44,6 @@ var boss__razorscale_8cpp =
       [ "EVENT_FIREBOLT", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4afafa6ad7fb9270128ad8ebcf1b226e75", null ],
       [ "EVENT_FUSE_ARMOR", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4ac26587c9b0b704ea9ebd214c4711ea55", null ],
       [ "EVENT_RESUME_CHASE", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4aed64349f5367a9e783cbc2bf53e29522", null ],
-      [ "EVENT_BUILD_HARPOON_1", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a848153923f8ce42b7d0962c9b8049579", null ],
-      [ "EVENT_BUILD_HARPOON_2", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a026040eccb7ed3bdbabe9983a4c7081b", null ],
-      [ "EVENT_BUILD_HARPOON_3", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a3c9a38b5b63a64cb294908fb3fd0f6f1", null ],
-      [ "EVENT_BUILD_HARPOON_4", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a55ffe5948f00439d16540fb80c20a405", null ],
-      [ "EVENT_DESTROY_HARPOONS", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a0e0fcf1010c7696c8211be9e0bbd9868", null ],
       [ "EVENT_START_COMBAT", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a288a6566bfd3b580254b27984e4ab870", null ],
       [ "EVENT_HEROIC_STRIKE", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4ac81d33cfc9ea21287cddff54d2762c9e", null ],
       [ "EVENT_BATTLE_SHOUT", "dd/dca/boss__razorscale_8cpp.html#aa722daf7dec2a239ebc78d7c10304eb4a9f1c02841164f107485e741bad67cfc3", null ],
@@ -77,7 +68,9 @@ var boss__razorscale_8cpp =
       [ "WORLD_STATE_RAZORSCALE_MUSIC", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a31b28cbd105aa5e5c6c8fef561ec7b40", null ],
       [ "DATA_PERMA_GROUND", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a3acf810c5d0cbddb612eb2c5567d26fa", null ],
       [ "FIRE_STATE_REPAIR", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a14f6ada1d37b61c8ea68d7912479e2ab", null ],
-      [ "FIRE_STATE_MAX_PROGRESS", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64", null ]
+      [ "FIRE_STATE_BURNING", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815ae40ee32def564411107f3e2ed5b40944", null ],
+      [ "FIRE_STATE_MAX_PROGRESS", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a7037d7dfa94528bbc13aedee58ad0f64", null ],
+      [ "MAX_TURRETS", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a4ae0c59bbafede8fc0617f3dbc1c8b29", null ]
     ] ],
     [ "RazorscalePhases", "dd/dca/boss__razorscale_8cpp.html#aa7d56e057cd987343c16030457dce3a2", [
       [ "PHASE_NONE", "dd/dca/boss__razorscale_8cpp.html#aa7d56e057cd987343c16030457dce3a2a61e900515aec51ba22cfdd63c1082fc7", null ],
@@ -129,6 +122,8 @@ var boss__razorscale_8cpp =
       [ "SPELL_THREAT", "dd/dca/boss__razorscale_8cpp.html#a29d37fca4f8a8dd6c68f41b400234b29ac757fea8945009d974af4515a9be334d", null ]
     ] ],
     [ "AddSC_boss_razorscale", "dd/dca/boss__razorscale_8cpp.html#ab8463ec71fb6b57892fdf41a97dd1321", null ],
+    [ "HarpoonEntry", "dd/dca/boss__razorscale_8cpp.html#af1defcd92027ab57974dd059316fdc90", null ],
+    [ "TurretIndexAt", "dd/dca/boss__razorscale_8cpp.html#a522510a453a90232b3ddfc09dc18fc9f", null ],
     [ "BrokenHarpoonPos", "dd/dca/boss__razorscale_8cpp.html#aaf955398ce6d09985da893fc469d626c", null ],
     [ "DefenderPositions", "dd/dca/boss__razorscale_8cpp.html#a8d33a4b692cf0305163b2684fbd27141", null ],
     [ "DwarfSummonSpells", "dd/dca/boss__razorscale_8cpp.html#a3cdb0264fd71f75a9452c5fe2133ac17", null ],

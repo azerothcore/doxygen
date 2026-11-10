@@ -1,7 +1,11 @@
 var NAVTREEINDEX55 =
 {
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
+"d2/d22/classspell__pri__mana__burn.html":[7,0,3865],
+"d2/d22/classspell__pri__mana__burn.html#a2a780069022e62b14992a7b69626ac3d":[7,0,3865,2],
+"d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[7,0,3865,0],
+"d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[7,0,3865,1],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,0,8,0,27],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,0,8,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[7,0,1366,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX55 =
 "d2/d27/structnpc__azure__invader.html#a6b7fcdd4e5166a932e85fcc6ec57d086":[7,0,1678,0],
 "d2/d27/structnpc__azure__invader.html#ac178244e22f71a15d7af91946cf961ef":[7,0,1678,3],
 "d2/d28/classspell__q12274__a__fall__from__grace__costume.html":[7,0,3967],
-"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#aaf41593da5ebb1118ccb10a5d4d32b26":[7,0,3967,2],
-"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#acb074781e07961998362349a7616fc4e":[7,0,3967,1],
-"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#ae81570045d4984ee5682a0333b1b142d":[7,0,3967,0],
-"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html":[7,0,1327,0],
-"d2/d28/structinstance__ahnkahet_1_1instance__ahnkahet__InstanceScript.html#a048a2b16ae9917c7edc9bf7023986ac3":[7,0,1327,0,1]
+"d2/d28/classspell__q12274__a__fall__from__grace__costume.html#aaf41593da5ebb1118ccb10a5d4d32b26":[7,0,3967,2]
 };

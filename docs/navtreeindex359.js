@@ -1,5 +1,12 @@
 var NAVTREEINDEX359 =
 {
+"dd/dac/pit__of__saron_8h.html#a24046ff0193d2913ae35aaa983b79978":[8,0,0,0,1,3,5,4,2,5,20],
+"dd/dac/pit__of__saron_8h.html#a47b3209da953f8bbb3d92f1efdba795b":[8,0,0,0,1,3,5,4,2,5,25],
+"dd/dac/pit__of__saron_8h.html#a505be0103a4e544ca19c34681cddf3c1":[8,0,0,0,1,3,5,4,2,5,23],
+"dd/dac/pit__of__saron_8h.html#a57d2d4154291532e405ab880a40a999f":[8,0,0,0,1,3,5,4,2,5,14],
+"dd/dac/pit__of__saron_8h.html#a57d2d4154291532e405ab880a40a999fa660f6d34f391c8eb910f369e10b312a3":[8,0,0,0,1,3,5,4,2,5,14,1],
+"dd/dac/pit__of__saron_8h.html#a57d2d4154291532e405ab880a40a999fa7115657725baec380cd1ee54a0294355":[8,0,0,0,1,3,5,4,2,5,14,0],
+"dd/dac/pit__of__saron_8h.html#a5b147002f69b5d36cb158fc59ebeade1":[8,0,0,0,1,3,5,4,2,5,18],
 "dd/dac/pit__of__saron_8h.html#a5e53249f20085a0a3fa19bdb577ee3c0":[8,0,0,0,1,3,5,4,2,5,4],
 "dd/dac/pit__of__saron_8h.html#a64983714f2dc027a157ff627ced8a480":[8,0,0,0,1,3,5,4,2,5,10],
 "dd/dac/pit__of__saron_8h.html#a64983714f2dc027a157ff627ced8a480a326cb0cd6a1ad8b8efb549ad7f9462bc":[8,0,0,0,1,3,5,4,2,5,10,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX359 =
 "dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[7,0,3389,1],
 "dd/db2/classGenericCreatureScript.html":[7,0,1137],
 "dd/db2/classGenericCreatureScript.html#a52157430320e253a5897612623eb796c":[7,0,1137,0],
-"dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[7,0,1137,1],
-"dd/db2/structGtRegenMPPerSptEntry.html":[7,0,1283],
-"dd/db2/structGtRegenMPPerSptEntry.html#a614fdab0bf0be8c91775b49d020cdc7c":[7,0,1283,0],
-"dd/db2/zone__storm__peaks_8cpp.html":[8,0,0,0,1,3,5,23],
-"dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26":[8,0,0,0,1,3,5,23,39],
-"dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26a216b4c566f3bb6e1ccb804989b5534ec":[8,0,0,0,1,3,5,23,39,2],
-"dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26a392dcbdfd30138c1cc769a3bfeb68430":[8,0,0,0,1,3,5,23,39,3],
-"dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26ac9f68e52ae04ed769ef8584e4d1c28f8":[8,0,0,0,1,3,5,23,39,1]
+"dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[7,0,1137,1]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX253 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a4d3d690339871a0bf0a4e54f36ec5941":[8,0,0,0,1,3,5,6,13,14,5],
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a5c9c239c26486715a37e60ac52a924d5":[8,0,0,0,1,3,5,6,13,14,3],
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a5cf172c222a07399de125c1d2eb6c104":[8,0,0,0,1,3,5,6,13,14,6],
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a84c123382ace53bc7cfeed00d2e0d226":[8,0,0,0,1,3,5,6,13,14,0],
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412abfac072d6a956f92518d7859ee6adc70":[8,0,0,0,1,3,5,6,13,14,4],
+"d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412ac9261fd9470dba4ec6928421d873ed0a":[8,0,0,0,1,3,5,6,13,14,2],
 "d9/d6a/icecrown__citadel_8h.html#a8ad0adeac0057e9785ab4fce6f4d6697":[8,0,0,0,1,3,5,6,13,2],
 "d9/d6a/icecrown__citadel_8h.html#a8d9cfab4a8e106814e702722a422d635":[8,0,0,0,1,3,5,6,13,20],
 "d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52":[8,0,0,0,1,3,5,6,13,10],
@@ -243,11 +249,5 @@ var NAVTREEINDEX253 =
 "d9/d6d/structnpc__vh__teleportation__portal.html#acf09515827ae926fe83ffc87a7e35ac5":[7,0,2316,7],
 "d9/d6d/structnpc__vh__teleportation__portal.html#ad3606d29d814232a492e9e3e85048bd7":[7,0,2316,2],
 "d9/d6d/structnpc__vh__teleportation__portal.html#ad71dd5636c683cfac15423375c0dcc6d":[7,0,2316,5],
-"d9/d6d/structnpc__vh__teleportation__portal.html#ae4ed2aebf39ab2593c07ba3098341c91":[7,0,2316,0],
-"d9/d6d/structnpc__vh__teleportation__portal.html#af86eefc8c9e4187e52c4dd88c41cbc38":[7,0,2316,1],
-"d9/d6e/classSmartWaypointMgr.html":[7,0,2639],
-"d9/d6e/classSmartWaypointMgr.html#a7299029b0e2063740fd2fe9d9b218749":[7,0,2639,1],
-"d9/d6e/classSmartWaypointMgr.html#a7ae477d4d210d938e167453d9085e520":[7,0,2639,3],
-"d9/d6e/classSmartWaypointMgr.html#a9b5cdb29d31e7de0a407f600aef482af":[7,0,2639,4],
-"d9/d6e/classSmartWaypointMgr.html#ab3fb0cb109b9bf28ee09173f4340c351":[7,0,2639,2]
+"d9/d6d/structnpc__vh__teleportation__portal.html#ae4ed2aebf39ab2593c07ba3098341c91":[7,0,2316,0]
 };

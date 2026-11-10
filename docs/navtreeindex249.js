@@ -1,5 +1,11 @@
 var NAVTREEINDEX249 =
 {
+"d9/d48/classnpc__torloth__the__magnificent.html#a252796a19dcebe210eecb4d9ae150e5d":[7,0,2260,1],
+"d9/d48/classnpc__torloth__the__magnificent.html#a94c206fb75cc6f50c6127908b5b5205f":[7,0,2260,2],
+"d9/d48/classspell__gahzranka__slam.html":[7,0,3020],
+"d9/d48/classspell__gahzranka__slam.html#a2bbcce83bffebc509e9ec54778e82639":[7,0,3020,1],
+"d9/d48/classspell__gahzranka__slam.html#a3405b21202d423c649e0b8d341b42d9c":[7,0,3020,0],
+"d9/d48/classspell__gahzranka__slam.html#a59948484b528cab69c695f08b39b886d":[7,0,3020,2],
 "d9/d48/classspell__gahzranka__slam.html#ab5293e50bd670c0d350f190f1c9892b3":[7,0,3020,4],
 "d9/d48/classspell__gahzranka__slam.html#ac4106a251bd3120e122955edbcdc8e2a":[7,0,3020,3],
 "d9/d48/structnpc__medivh__bm.html":[7,0,2011],
@@ -243,11 +249,5 @@ var NAVTREEINDEX249 =
 "d9/d56/structgo__empowering__blood__orb.html#a19b23d9b9ae467eb5be7fc30b1c2154f":[7,0,1179,5],
 "d9/d56/structgo__empowering__blood__orb.html#a284de01132efc6ed4d865e14ae100bd8":[7,0,1179,3],
 "d9/d56/structgo__empowering__blood__orb.html#a2b176a2b97ebb96e60ed381533cc4ebb":[7,0,1179,1],
-"d9/d56/structgo__empowering__blood__orb.html#a40cf117590ac657c216478cb43725bf5":[7,0,1179,6],
-"d9/d56/structgo__empowering__blood__orb.html#a4d6719a0ba25b25ca61baa7e1785636b":[7,0,1179,0],
-"d9/d56/structgo__empowering__blood__orb.html#a4fffcbe7526951562cfc063fe7b39255":[7,0,1179,2],
-"d9/d56/structgo__empowering__blood__orb.html#a70721a6c8f1a27e6fa31ad52184883f3":[7,0,1179,7],
-"d9/d56/structgo__empowering__blood__orb.html#ab5eb2c24e81600a6f295e38a32324f2d":[7,0,1179,4],
-"d9/d57/classspell__freezing__cloud__damage.html":[7,0,3008],
-"d9/d57/classspell__freezing__cloud__damage.html#a9a3e0c1a86cfc1b9747810cfca76f784":[7,0,3008,2]
+"d9/d56/structgo__empowering__blood__orb.html#a40cf117590ac657c216478cb43725bf5":[7,0,1179,6]
 };

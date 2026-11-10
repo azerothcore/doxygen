@@ -1,5 +1,10 @@
 var NAVTREEINDEX153 =
 {
+"d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a4a372a14c960c48c51a1c8e34ebffc53":[7,0,1894,0,1],
+"d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a5c31259d9eb26e09d2b645d826e75328":[7,0,1894,0,0],
+"d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6399e9c9ecdb8c01fbd2bcd1b081811f":[7,0,1894,0,4],
+"d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6a46f99ffb67a699ef9adb2a1afcbe13":[7,0,1894,0,2],
+"d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a92124e7490a066bf63836397a3bdc71b":[7,0,1894,0,5],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#ac1496627bdf326163256045bd068bc4f":[7,0,1894,0,7],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[7,0,0,5,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,0,8,0,14],
@@ -15,12 +20,12 @@ var NAVTREEINDEX153 =
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[7,0,13,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,35,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[7,0,13,6,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,35,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[7,0,13,6,52,3],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,35,6,52,1],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,35,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[7,0,13,6,52,1],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[7,0,13,6,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,35,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,35,6,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[7,0,13,6,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[7,0,3594],
 "d5/d53/classspell__kologarn__stone__shout.html#a744d5cb8de927410ab1bf72008fff8b3":[7,0,3594,2],
 "d5/d53/classspell__kologarn__stone__shout.html#a8f4b4d82e53c8f820b620896478681a9":[7,0,3594,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX153 =
 "d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a35ef1e10e500bb33e7878bd4e38ab300":[8,0,0,0,1,2,16,1,7,11,13],
 "d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a3f686edc9ae84372965b149e0c24e84d":[8,0,0,0,1,2,16,1,7,11,16],
 "d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a4b8a8787c8959b7c3d66b38be8fbb285":[8,0,0,0,1,2,16,1,7,11,5],
-"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a546344f61a4e423bd9d67260a904312a":[8,0,0,0,1,2,16,1,7,11,15],
-"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a72934029fce9b6aa6a0c55fe4c9f6136":[8,0,0,0,1,2,16,1,7,11,17],
-"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a7640c2d57582409004585d662940f273":[8,0,0,0,1,2,16,1,7,11,3],
-"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a83e5fde33ebe925957750cf56d05ff07":[8,0,0,0,1,2,16,1,7,11,19],
-"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a8c9dad51123226f2f8b58c3f2b56010d":[8,0,0,0,1,2,16,1,7,11,12],
-"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a9db62e71292e3482694f9376032c1307":[8,0,0,0,1,2,16,1,7,11,11]
+"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a546344f61a4e423bd9d67260a904312a":[8,0,0,0,1,2,16,1,7,11,15]
 };

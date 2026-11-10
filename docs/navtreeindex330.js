@@ -1,5 +1,12 @@
 var NAVTREEINDEX330 =
 {
+"dc/d39/classspell__item__noblegarden__chocolate.html#afeb65196cbafc813bb02eb3907e59fc2":[7,0,3483,2],
+"dc/d39/structnpc__janalai__hatcher.html":[7,0,1957],
+"dc/d39/structnpc__janalai__hatcher.html#a177ddd5ff96902363ab708f0c737fc20":[7,0,1957,10],
+"dc/d39/structnpc__janalai__hatcher.html#a337e21f5a014d0f9d7a1f614b7245f36":[7,0,1957,0],
+"dc/d39/structnpc__janalai__hatcher.html#a3a0170bc53f9f8f96090e34097b90c2c":[7,0,1957,4],
+"dc/d39/structnpc__janalai__hatcher.html#a4ae2157e37bb93b7465e029e526a6ce4":[7,0,1957,3],
+"dc/d39/structnpc__janalai__hatcher.html#a54c251278dcfa22052b6c6e49a4abd89":[7,0,1957,2],
 "dc/d39/structnpc__janalai__hatcher.html#a5a7826964349ed9adbbdeb7c733dd915":[7,0,1957,1],
 "dc/d39/structnpc__janalai__hatcher.html#aae712db69c870d00d07a37b8611ecaf4":[7,0,1957,8],
 "dc/d39/structnpc__janalai__hatcher.html#ab1c3945160c55b2b2d63763eacced473":[7,0,1957,6],
@@ -242,12 +249,5 @@ var NAVTREEINDEX330 =
 "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[8,0,0,0,1,3,5,7,13,3,11],
 "dc/d49/classSecretMgr.html":[7,0,2594],
 "dc/d49/classSecretMgr.html#a143bb8b3855a9f28df72abc9cfc94f3c":[7,0,2594,9],
-"dc/d49/classSecretMgr.html#a27e237503dc523367fa94bd28a289d97":[7,0,2594,8],
-"dc/d49/classSecretMgr.html#a28ee0858a14656d7fc464eb604b127b7":[7,0,2594,1],
-"dc/d49/classSecretMgr.html#a4b6cbe75e50ec3e4765fdb9e965ee84f":[7,0,2594,5],
-"dc/d49/classSecretMgr.html#a65c2fd304c0f851f81cd80037deac8fb":[7,0,2594,4],
-"dc/d49/classSecretMgr.html#a929de7b687d7c6bb91ef35306134ebac":[7,0,2594,7],
-"dc/d49/classSecretMgr.html#ab48b891b84f116dc5efffe0a10a82f79":[7,0,2594,3],
-"dc/d49/classSecretMgr.html#ae6f15def262312b17456583b4e548d99":[7,0,2594,2],
-"dc/d49/classSecretMgr.html#aff0b6ca546a62a3d6e7da52c3a2752bd":[7,0,2594,6]
+"dc/d49/classSecretMgr.html#a27e237503dc523367fa94bd28a289d97":[7,0,2594,8]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX234 =
 {
+"d8/d74/classWorldSession.html#af39ca8e80ab54d3df5f2e75f589f031f":[4,1,20,334],
+"d8/d74/classWorldSession.html#af3a1f29da33ba9878ef64f4f1503a13a":[4,1,20,68],
+"d8/d74/classWorldSession.html#af3ebc59fd5a82926be74cf009b9b4672":[4,1,20,363],
+"d8/d74/classWorldSession.html#af453aa80f317cf0f46485ee5ff22549b":[4,1,20,503],
+"d8/d74/classWorldSession.html#af45f035ae2946755ccdaef136f451476":[4,1,20,394],
+"d8/d74/classWorldSession.html#af4650ce3859a9760e5263b01a1a3e4b9":[4,1,20,322],
 "d8/d74/classWorldSession.html#af48014753194bb451b7eec7b9b72e022":[4,1,20,330],
 "d8/d74/classWorldSession.html#af4a39b2bc51c6a9de29bdf06652b720a":[4,1,20,609],
 "d8/d74/classWorldSession.html#af518ac76dcdfced86a87c3e3c10836a7":[4,1,20,572],
@@ -93,10 +99,10 @@ var NAVTREEINDEX234 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,1001,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,35,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,35,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,35,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,35,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,35,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1633],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[7,0,1633,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[7,0,1633,7],
@@ -243,11 +249,5 @@ var NAVTREEINDEX234 =
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ae4cbc6294abd9796025ccdf95ce367b8":[7,0,2183,0,2],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aef408460584a17f15a84e8a6435c6348":[7,0,2183,0,6],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af15be2c0361e5bfa835438e7fcd1372c":[7,0,2183,0,5],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af794f46b1a7af97b52683954b556c27d":[7,0,2183,0,9],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af90a7a944c7429677d088c83557cfca8":[7,0,2183,0,4],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#afc140e6f9fc1ec78914aecc5150345b0":[7,0,2183,0,16],
-"d8/d80/classspell__hodir__storm__cloud__aura.html":[7,0,3255],
-"d8/d80/classspell__hodir__storm__cloud__aura.html#a2bb4fe398e6b225dd14bdb51e3f01522":[7,0,3255,3],
-"d8/d80/classspell__hodir__storm__cloud__aura.html#a4cc9b379480c50e1116e3dab03afeaad":[7,0,3255,1],
-"d8/d80/classspell__hodir__storm__cloud__aura.html#ac82d5a47f5eca266eed99ab65f9eb5bf":[7,0,3255,2]
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#af794f46b1a7af97b52683954b556c27d":[7,0,2183,0,9]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX144 =
 {
+"d4/dd0/classWorldObject.html#afb0998855682f99a84683de812ae3dc4":[7,0,4746,176],
+"d4/dd0/classWorldObject.html#afc786081f657fd125cfc0b7d938305e9":[7,0,4746,213],
+"d4/dd0/classWorldObject.html#afcae34940d170de7583765d9531b0f77":[7,0,4746,8],
+"d4/dd1/classspell__gen__dalaran__disguise.html":[7,0,3072],
+"d4/dd1/classspell__gen__dalaran__disguise.html#a77ed10819633ae2bc381023da0feb31b":[7,0,3072,3],
 "d4/dd1/classspell__gen__dalaran__disguise.html#a8b20e2ffed94ec9438dc9b756ba76693":[7,0,3072,0],
 "d4/dd1/classspell__gen__dalaran__disguise.html#a9e29ea947d5415471d991a4e1cd699ac":[7,0,3072,1],
 "d4/dd1/classspell__gen__dalaran__disguise.html#aa4bc27415893009581b317637599a85a":[7,0,3072,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX144 =
 "d4/dd9/structAchievementCriteriaEntry.html#a9b65a882228bf43fee884cd6c3f6a158":[7,0,119,50],
 "d4/dd9/structAchievementCriteriaEntry.html#a9da99419864254745f16d094a20e02e4":[7,0,119,43],
 "d4/dd9/structAchievementCriteriaEntry.html#a9f86f11e7d3b807bbd614f72ed5f9560":[7,0,119,38],
-"d4/dd9/structAchievementCriteriaEntry.html#aa7245356b86ca884aff831a970ff2979":[7,0,119,58],
-"d4/dd9/structAchievementCriteriaEntry.html#aac36f848a86509ea7099629f82c088e3":[7,0,119,97],
-"d4/dd9/structAchievementCriteriaEntry.html#aad40bccb3ac3e04099a97a1f392ecd0a":[7,0,119,65],
-"d4/dd9/structAchievementCriteriaEntry.html#ab37d137668bd4a20149db0d47311809e":[7,0,119,53],
-"d4/dd9/structAchievementCriteriaEntry.html#ab3a277c29ce9a0dd8e8a71040091857e":[7,0,119,107],
-"d4/dd9/structAchievementCriteriaEntry.html#ab6ab9a9979b301e7835806d4f804886a":[7,0,119,92]
+"d4/dd9/structAchievementCriteriaEntry.html#aa7245356b86ca884aff831a970ff2979":[7,0,119,58]
 };

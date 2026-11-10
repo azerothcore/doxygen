@@ -1,5 +1,11 @@
 var NAVTREEINDEX220 =
 {
+"d7/dce/classgo__darkmoon__faire__music.html":[7,0,1174],
+"d7/dce/classgo__darkmoon__faire__music.html#a03be3eddefe4eeba8a0af8ee02bf2839":[7,0,1174,2],
+"d7/dce/classgo__darkmoon__faire__music.html#ab8dd92213e1c2815ff9498267b09b5f2":[7,0,1174,1],
+"d7/dce/classspell__black__morass__corrupt__medivh.html":[7,0,2715],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#a59e8723d8b73f45075db47e1e09e15fb":[7,0,2715,0],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#a7bacc1ebd4b98e5e43b74e13471b2063":[7,0,2715,2],
 "d7/dce/classspell__black__morass__corrupt__medivh.html#ab858e9f6505fa32cc7325087d29fee8b":[7,0,2715,4],
 "d7/dce/classspell__black__morass__corrupt__medivh.html#acc4db638e0d858085dc3fb2d6b45f7ec":[7,0,2715,3],
 "d7/dce/classspell__black__morass__corrupt__medivh.html#ae4761ac3bce02903a7266511d80503f9":[7,0,2715,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX220 =
 "d7/de2/structQuestRequestItemsLocale.html":[7,0,2531],
 "d7/de2/structQuestRequestItemsLocale.html#ac898e7775bb068beee5aaf8cb4c81900":[7,0,2531,0],
 "d7/de3/classspell__flamewreath__aura.html":[7,0,3002],
-"d7/de3/classspell__flamewreath__aura.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5":[7,0,3002,0],
-"d7/de3/classspell__flamewreath__aura.html#a92a12c16381c433a946eeb1fed8ab7a9":[7,0,3002,1],
-"d7/de3/classspell__flamewreath__aura.html#aeabc1d487afdb30b80d9a5235c306df1":[7,0,3002,3],
-"d7/de3/classspell__flamewreath__aura.html#af26ef4eae84aa3982287fde0b4f65dcd":[7,0,3002,2],
-"d7/de4/classachievement__share__the__love.html":[7,0,97],
-"d7/de4/classachievement__share__the__love.html#a3eaa89eaa356b0e2f8b5c688439baf9c":[7,0,97,0],
-"d7/de4/classachievement__share__the__love.html#a9d6b6d19611d1482111692de9f2b1cc8":[7,0,97,1]
+"d7/de3/classspell__flamewreath__aura.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5":[7,0,3002,0]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX207 =
 {
+"d7/d83/structboss__nexusprince__shaffar.html#a35db119f5351a8ef9bef4588cbdd83cf":[7,0,654,6],
+"d7/d83/structboss__nexusprince__shaffar.html#a576240b46ce0988f0ef86e1460c831ef":[7,0,654,3],
+"d7/d83/structboss__nexusprince__shaffar.html#a71e501225d88851210d2e0e58de27f99":[7,0,654,5],
+"d7/d83/structboss__nexusprince__shaffar.html#aa7d55363fe9a326dc86bd4f4076d12ab":[7,0,654,9],
+"d7/d83/structboss__nexusprince__shaffar.html#ab806564e96708ca12f444249abd3c88c":[7,0,654,7],
+"d7/d83/structboss__nexusprince__shaffar.html#abf2fef0888bced83511883027bf4d500":[7,0,654,1],
 "d7/d83/structboss__nexusprince__shaffar.html#ad5dd5ab4178d968146e2205e60c49d07":[7,0,654,4],
 "d7/d83/structboss__nexusprince__shaffar.html#af28242e0c0f2dcbfb2fb16514d912200":[7,0,654,2],
 "d7/d84/structboss__essence__of__desire_1_1boss__essence__of__desireAI.html":[7,0,467,0],
@@ -236,18 +242,12 @@ var NAVTREEINDEX207 =
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[5,0,0,2,0,3],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a63bb52a0619ceef7b1af1b97d52a7373":[5,0,0,2,0,8],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a63bb52a0619ceef7b1af1b97d52a7373":[7,0,0,1,0,8],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a6b77a74762705e00d73b751a5f947e05":[5,0,0,2,0,4],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a6b77a74762705e00d73b751a5f947e05":[7,0,0,1,0,4],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a73dd0adf980c5c3d2e272f9709ece880":[5,0,0,2,0,1],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a6b77a74762705e00d73b751a5f947e05":[5,0,0,2,0,4],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a73dd0adf980c5c3d2e272f9709ece880":[7,0,0,1,0,1],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a844e7f79db885f3076958b0e6d423b4e":[5,0,0,2,0,7],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a73dd0adf980c5c3d2e272f9709ece880":[5,0,0,2,0,1],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a844e7f79db885f3076958b0e6d423b4e":[7,0,0,1,0,7],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#aae4efee3e6e7d403b0c6f5d484814b81":[5,0,0,2,0,2],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a844e7f79db885f3076958b0e6d423b4e":[5,0,0,2,0,7],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#aae4efee3e6e7d403b0c6f5d484814b81":[7,0,0,1,0,2],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#abc0041bef0d0171b54acbdcf6b18f611":[5,0,0,2,0,6],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#abc0041bef0d0171b54acbdcf6b18f611":[7,0,0,1,0,6],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#abffff20cfe5d5b3936ac345c5082258f":[7,0,0,1,0,5],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#abffff20cfe5d5b3936ac345c5082258f":[5,0,0,2,0,5],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#ad430aafb433483e30d12567e7e8c2915":[5,0,0,2,0,0],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#ad430aafb433483e30d12567e7e8c2915":[7,0,0,1,0,0]
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#aae4efee3e6e7d403b0c6f5d484814b81":[5,0,0,2,0,2]
 };

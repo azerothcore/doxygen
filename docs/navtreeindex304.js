@@ -1,5 +1,12 @@
 var NAVTREEINDEX304 =
 {
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571acc64f101454999cc0895b0ab90308a88":[8,0,0,0,1,2,16,4,8,42,3],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571acf55569c464f86e224256721fdb35103":[8,0,0,0,1,2,16,4,8,42,10],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ad963d2e23a6071c6c51c307be1eb71fa":[8,0,0,0,1,2,16,4,8,42,6],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571adba86ceaeb379ef8f38f945b42bd38a0":[8,0,0,0,1,2,16,4,8,42,11],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ade011b0c5bb8c2be05c21c8cc6548ddd":[8,0,0,0,1,2,16,4,8,42,8],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ae284935c0f167ad9508cdf9633de09bf":[8,0,0,0,1,2,16,4,8,42,20],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ae5246417b9df86be1cc73268b505e323":[8,0,0,0,1,2,16,4,8,42,26],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aecca550f8449af83970969401b263ca1":[8,0,0,0,1,2,16,4,8,42,17],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aee815449780a000e13a2bd06d4033e2e":[8,0,0,0,1,2,16,4,8,42,27],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aeedb146a578adffbf2baa9b63374d74f":[8,0,0,0,1,2,16,4,8,42,24],
@@ -242,12 +249,5 @@ var NAVTREEINDEX304 =
 "db/d8b/structboss__doomrel.html#adc8f26522b88ada86c2ee937daa8fbd1":[7,0,442,0],
 "db/d8b/structboss__doomrel.html#af30f3385bb1ca366f335ca3e19849704":[7,0,442,3],
 "db/d8b/structboss__doomrel.html#afb365d8b32d2610b3d398b6f3a1f1bc6":[7,0,442,8],
-"db/d8c/EscortMovementGenerator_8h.html":[8,0,0,0,1,2,31,0,3],
-"db/d8c/classThreadingModel_3_01T_01_4.html":[7,0,4595],
-"db/d8c/classspell__grip.html":[7,0,3201],
-"db/d8c/classspell__grip.html#a07ce1c801c8d770d639b8ffe05830c3b":[7,0,3201,2],
-"db/d8c/classspell__grip.html#a0943e7887ff935ccea21d913429e25a0":[7,0,3201,0],
-"db/d8c/classspell__grip.html#a19ffd2ca76a020ca8ca4b2ff91538888":[7,0,3201,5],
-"db/d8c/classspell__grip.html#a3f8943e288e96f639fb805869749879b":[7,0,3201,4],
-"db/d8c/classspell__grip.html#a46ae9f9c7b31fa46e0968dc521a2511b":[7,0,3201,1]
+"db/d8c/EscortMovementGenerator_8h.html":[8,0,0,0,1,2,31,0,3]
 };

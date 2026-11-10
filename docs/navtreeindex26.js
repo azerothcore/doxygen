@@ -1,5 +1,6 @@
 var NAVTREEINDEX26 =
 {
+"d1/d14/classspell__pri__lightwell.html#a33d46e5ebd418ea0242d958345cb44d2":[7,0,3863,1],
 "d1/d14/classspell__pri__lightwell.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae":[7,0,3863,3],
 "d1/d14/classspell__pri__lightwell.html#ad3497a9c986f65978d4b2553b0c9958f":[7,0,3863,0],
 "d1/d14/classspell__pri__lightwell.html#ade09cd376d00df8b5e709026e353f409":[7,0,3863,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d16/classSpell.html#aa03328d3cd0d04d923500dd2d801be2d":[7,0,2652,14],
 "d1/d16/classSpell.html#aa160274138dbebf153c189d8f4cdb59c":[7,0,2652,376],
 "d1/d16/classSpell.html#aa19f9a8629e5ff119c87c8308c8d08d6":[7,0,2652,49],
-"d1/d16/classSpell.html#aa1eef1b2b1d1aec52584b95b9217b6fa":[7,0,2652,366],
-"d1/d16/classSpell.html#aa315cdc2ffad0c4cbc8e27a54aa0b7b2":[7,0,2652,4]
+"d1/d16/classSpell.html#aa1eef1b2b1d1aec52584b95b9217b6fa":[7,0,2652,366]
 };

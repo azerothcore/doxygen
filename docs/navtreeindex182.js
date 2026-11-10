@@ -1,5 +1,10 @@
 var NAVTREEINDEX182 =
 {
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a0d4c7f3d0705fa28717f717de08df374":[8,0,0,0,1,3,9,0,67,60],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a0e905428a77027e072c86bdc000d97e7":[8,0,0,0,1,3,9,0,67,49],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a157027170ab26ae0d377529719449cd4":[8,0,0,0,1,3,9,0,67,33],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a1771ac5eef579ea472423e668f851c58":[8,0,0,0,1,3,9,0,67,24],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a17c917ea361d32e91a852611393cb850":[8,0,0,0,1,3,9,0,67,18],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a1c96a57b0c97b67f8b91216ea6f5c089":[8,0,0,0,1,3,9,0,67,25],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a1ec1a311dd230f8410a0687cda569fe3":[8,0,0,0,1,3,9,0,67,68],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a1f03efc520fad501f75ae334ed39112c":[8,0,0,0,1,3,9,0,67,29],
@@ -222,10 +227,10 @@ var NAVTREEINDEX182 =
 "d6/d5b/classspell__renew__skirmisher.html#ab0b03fd2d1a0ed6720acc45221a582f6":[7,0,4047,2],
 "d6/d5b/classspell__renew__skirmisher.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32":[7,0,4047,0],
 "d6/d5b/classspell__renew__skirmisher.html#ae621e95feb69b54f9aef5d77577a15ae":[7,0,4047,1],
-"d6/d5c/classAcore_1_1ACLogSink.html":[5,0,0,19],
 "d6/d5c/classAcore_1_1ACLogSink.html":[7,0,0,7],
-"d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,0,19,2],
+"d6/d5c/classAcore_1_1ACLogSink.html":[5,0,0,19],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[7,0,0,7,2],
+"d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,0,19,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[7,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[5,0,0,19,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,0,19,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a52ea6041c5fe004c1e996a974cc59d5d":[7,0,2744,1],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a96cec6f1b51a2c0c03f89447c5306b5a":[7,0,2744,2],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#abe559b32aa82f19abb0a6d664b75c748":[7,0,2744,3],
-"d6/d5d/classspell__blood__queen__vampiric__bite.html#ad8c7a9935e85c06f837e694ebcaffba1":[7,0,2744,4],
-"d6/d5d/structLogHeader.html":[7,0,1488],
-"d6/d5d/structLogHeader.html#a1884076ea4fe5af08964471d0058fd4d":[7,0,1488,7],
-"d6/d5d/structLogHeader.html#a34b88d6d83daeee7827176993c152de4":[7,0,1488,5],
-"d6/d5d/structLogHeader.html#a88c79f6e69197e23ce191bcef187c0fe":[7,0,1488,3],
-"d6/d5d/structLogHeader.html#a8923983e21b7a7f1dd3ee4f21b7df592":[7,0,1488,8]
+"d6/d5d/classspell__blood__queen__vampiric__bite.html#ad8c7a9935e85c06f837e694ebcaffba1":[7,0,2744,4]
 };

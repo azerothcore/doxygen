@@ -1,5 +1,12 @@
 var NAVTREEINDEX334 =
 {
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad93ee03c78941ef21d5f196658cb1d89":[8,0,0,0,1,3,5,7,5,10,2],
+"dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad985868160cfc9033e029c6112712009":[8,0,0,0,1,3,5,7,5,10,0],
+"dc/d70/boss__grobbulus_8cpp.html#ae5788cee443fac1a3087c196646b17d8":[8,0,0,0,1,3,5,7,5,11],
+"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,7,5,8],
+"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a01a521e916866d26fc8a004464daaadc":[8,0,0,0,1,3,5,7,5,8,1],
+"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a47bbd6fd157ca8317223abadc1233aca":[8,0,0,0,1,3,5,7,5,8,2],
+"dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,7,5,8,0],
 "dc/d70/boss__grobbulus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac92f7b96f45a4bac217e44696316be55":[8,0,0,0,1,3,5,7,5,8,3],
 "dc/d70/classnpc__toc5__grand__champion__minion.html":[7,0,2241],
 "dc/d70/classnpc__toc5__grand__champion__minion.html#a55acf397b94ba63b1db626dc1041b28e":[7,0,2241,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX334 =
 "dc/d7d/classachievement__quick__shave.html":[7,0,91],
 "dc/d7d/classachievement__quick__shave.html#a151c479da3d4cec05999ad8a249b100c":[7,0,91,1],
 "dc/d7d/classachievement__quick__shave.html#a6c2f1e60d2311922abbaf7e22e1e9e4b":[7,0,91,0],
-"dc/d7d/classspell__pal__glyph__of__holy__light.html":[7,0,3789],
-"dc/d7d/classspell__pal__glyph__of__holy__light.html#a125ce6c8dfdc6419b4409c72f74fcf85":[7,0,3789,2],
-"dc/d7d/classspell__pal__glyph__of__holy__light.html#a5992d94317d3da7400d5a9ab115e621e":[7,0,3789,1],
-"dc/d7d/classspell__pal__glyph__of__holy__light.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21":[7,0,3789,0],
-"dc/d7e/WorldMock_8h.html":[8,0,0,0,2,1,13],
-"dc/d7e/WorldMock_8h.html#abb65cb085124c346fd32ac4b92f0baa9":[8,0,0,0,2,1,13,1],
-"dc/d7e/classboss__essence__of__desire.html":[7,0,467],
-"dc/d7e/classboss__essence__of__desire.html#a14b66470c508fa24e214062aeec0aae6":[7,0,467,2]
+"dc/d7d/classspell__pal__glyph__of__holy__light.html":[7,0,3789]
 };

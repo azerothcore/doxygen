@@ -1,5 +1,11 @@
 var NAVTREEINDEX198 =
 {
+"d7/d0b/classspell__gen__arena__drink.html#ac320eec2b8a3a7cc3820a49007710520":[7,0,3039,3],
+"d7/d0b/classspell__gen__arena__drink.html#af4f971e2d5c2d2f4b1ced0e64e8c1871":[7,0,3039,5],
+"d7/d0b/classspell__gen__parachute.html":[7,0,3131],
+"d7/d0b/classspell__gen__parachute.html#a36792fd068ec7444aa118ec63cf972a7":[7,0,3131,2],
+"d7/d0b/classspell__gen__parachute.html#a3a2e7653276964fd36c93b41aa8f25ea":[7,0,3131,0],
+"d7/d0b/classspell__gen__parachute.html#a893a539f4eeb0b9f027c5a306cc7bd53":[7,0,3131,1],
 "d7/d0b/classspell__gen__parachute.html#aa57af116294cfba007586506ba1dbeb5":[7,0,3131,3],
 "d7/d0b/classspell__sha__flametongue__weapon.html":[7,0,4129],
 "d7/d0b/classspell__sha__flametongue__weapon.html#a4fd43180ce526dbe01748371cf226ede":[7,0,4129,4],
@@ -83,8 +89,8 @@ var NAVTREEINDEX198 =
 "d7/d0e/struct__ItemStat.html#a8643f062d325b5048c839525db56af3e":[7,0,15,0],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[5,0,30,1],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[7,0,9,1],
-"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[7,0,9,1,0],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[5,0,30,1,0],
+"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[7,0,9,1,0],
 "d7/d0f/classPreparedStatement.html":[7,0,2491],
 "d7/d0f/classPreparedStatement.html#a4f689d37a5d174ade76e590379edc46a":[7,0,2491,0],
 "d7/d0f/classPreparedStatement.html#a8b0dccfd3e274bf55d8b161b1390b0d9":[7,0,2491,1],
@@ -213,10 +219,10 @@ var NAVTREEINDEX198 =
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[7,0,2323,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[7,0,0,1,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[8,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d":[8,0,0,0,1,3,5,25,20],
 "d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558":[8,0,0,0,1,3,5,25,13],
@@ -243,11 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a3061ce99af6ca8edb128222c341f5a6d":[8,0,0,0,1,3,5,25,15,15],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a3448dcc28d91b573ad615e7351aed191":[8,0,0,0,1,3,5,25,15,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a36a853c7970596f9e263a0e7fbf1e825":[8,0,0,0,1,3,5,25,15,58],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a3df1616dafecbe5701955692bb81ef4d":[8,0,0,0,1,3,5,25,15,17],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a450d5ad64e19b151479e382d19eb61a1":[8,0,0,0,1,3,5,25,15,19],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a454ffc8b486c751052b776728e70a63f":[8,0,0,0,1,3,5,25,15,32],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a45e64fe5da4a3306688af0164b823b74":[8,0,0,0,1,3,5,25,15,57],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a4dfba7e14e2574e5a6b3889c3aa94c48":[8,0,0,0,1,3,5,25,15,24],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a5541f4e886e92c01e01acbce6de6491f":[8,0,0,0,1,3,5,25,15,36],
-"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a5752d325d7474aef059be90deecb85b9":[8,0,0,0,1,3,5,25,15,47]
+"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a3df1616dafecbe5701955692bb81ef4d":[8,0,0,0,1,3,5,25,15,17]
 };

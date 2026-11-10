@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/d9a/classArenaLogEntryData.html#ac764620c3c8a986286fd74062dac4645":[7,0,188,4],
 "d1/d9a/classArenaLogEntryData.html#af026544d31252e10035364540b96b5b0":[7,0,188,7],
 "d1/d9a/instance__zulfarrak_8cpp.html":[8,0,0,0,1,3,4,11,0],
 "d1/d9a/instance__zulfarrak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,4,11,0,5],
@@ -26,10 +27,10 @@ var NAVTREEINDEX40 =
 "d1/d9d/classSpellProcPPMModifierTest.html#ac960eb9c5e15274b63b684d8908ed68b":[7,0,4529,2],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html":[5,0,35,0,0],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html":[7,0,13,0,0],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a02d39ddc9eda90be709b2fa9c1f6023d":[7,0,13,0,0,0],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a02d39ddc9eda90be709b2fa9c1f6023d":[5,0,35,0,0,0],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a69f9b65ecb778c94c6e9278e5f98d31b":[5,0,35,0,0,2],
+"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a02d39ddc9eda90be709b2fa9c1f6023d":[7,0,13,0,0,0],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a69f9b65ecb778c94c6e9278e5f98d31b":[7,0,13,0,0,2],
+"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a69f9b65ecb778c94c6e9278e5f98d31b":[5,0,35,0,0,2],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a8651192c6040cdf5d257c134dde1208c":[5,0,35,0,0,1],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a8651192c6040cdf5d257c134dde1208c":[7,0,13,0,0,1],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a970f2ca85a76de1a25ad40a9ebf0029f":[7,0,13,0,0,3],
@@ -148,16 +149,16 @@ var NAVTREEINDEX40 =
 "d1/da2/classgobject__commandscript.html#ac9683961141c3115ac9309fa07175e64":[7,0,1245,6],
 "d1/da2/classgobject__commandscript.html#ae6d100f51d8b08e1576092eedc4db15f":[7,0,1245,13],
 "d1/da2/classgobject__commandscript.html#af2ac49c9fdd408be62dd4ee179c1142c":[7,0,1245,12],
-"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html":[7,0,13,8,7],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html":[5,0,35,8,7],
-"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a019a891e4906ce9dafef6e276d635df7":[5,0,35,8,7,6],
+"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html":[7,0,13,8,7],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a019a891e4906ce9dafef6e276d635df7":[7,0,13,8,7,6],
+"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a019a891e4906ce9dafef6e276d635df7":[5,0,35,8,7,6],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a227470a5932383e0ab7b9a369dfb3445":[7,0,13,8,7,5],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a227470a5932383e0ab7b9a369dfb3445":[5,0,35,8,7,5],
-"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a34fa30122f101e15de6252c289b82680":[5,0,35,8,7,4],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a34fa30122f101e15de6252c289b82680":[7,0,13,8,7,4],
-"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a581e8c0f5f580e812bc0988e35786ee2":[5,0,35,8,7,0],
+"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a34fa30122f101e15de6252c289b82680":[5,0,35,8,7,4],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a581e8c0f5f580e812bc0988e35786ee2":[7,0,13,8,7,0],
+"d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a581e8c0f5f580e812bc0988e35786ee2":[5,0,35,8,7,0],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a9f7fa7614db176262437478b4d92e9f9":[7,0,13,8,7,1],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#a9f7fa7614db176262437478b4d92e9f9":[5,0,35,8,7,1],
 "d1/da3/classWorldPackets_1_1Item_1_1DestroyItem.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6":[7,0,13,8,7,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/da8/structboss__doomlord__kazzak_1_1boss__doomlordkazzakAI.html":[7,0,441,0],
 "d1/da8/structboss__doomlord__kazzak_1_1boss__doomlordkazzakAI.html#a174912c149657f4d88446f4ac0631598":[7,0,441,0,3],
 "d1/da8/structboss__doomlord__kazzak_1_1boss__doomlordkazzakAI.html#a28a0a8345fcd5411491409854acef729":[7,0,441,0,6],
-"d1/da8/structboss__doomlord__kazzak_1_1boss__doomlordkazzakAI.html#a33d0bc150c3c2701f4c0c4d8f39fce29":[7,0,441,0,1],
-"d1/da8/structboss__doomlord__kazzak_1_1boss__doomlordkazzakAI.html#a51b19c8e7c5f85c41b3168165bb8b40b":[7,0,441,0,5]
+"d1/da8/structboss__doomlord__kazzak_1_1boss__doomlordkazzakAI.html#a33d0bc150c3c2701f4c0c4d8f39fce29":[7,0,441,0,1]
 };
