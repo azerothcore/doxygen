@@ -137,7 +137,7 @@ var searchData=
   ['range_5fwhelp_5fcall_5fhelp_134',['RANGE_WHELP_CALL_HELP',['../d1/db9/boss__solakar__flamewreath_8cpp.html#ad1599c539f8b976dccc0e23c45bb52a4',1,'boss_solakar_flamewreath.cpp']]],
   ['rangeattacktime_135',['RangeAttackTime',['../d1/d61/structCreatureTemplate.html#a218742d7716773da052c8d93ed8a73cd',1,'CreatureTemplate']]],
   ['rangechecktimer_136',['rangeCheckTimer',['../d8/d4c/structnpc__core__rager.html#abac888dc4c885921540ba7107d0bd732',1,'npc_core_rager']]],
-  ['ranged_5fattack_137',['ranged_attack',['../db/db8/classProcChanceTestHelper.html#a37eb38df7f1ea2b2fa2f21d9f348e575',1,'ProcChanceTestHelper::RANGED_ATTACK'],['../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352aa2557af152c5f2b27bbf59915cbd1670',1,'RANGED_ATTACK:&#160;Unit.h']]],
+  ['ranged_5fattack_137',['ranged_attack',['../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352aa2557af152c5f2b27bbf59915cbd1670',1,'RANGED_ATTACK:&#160;Unit.h'],['../db/db8/classProcChanceTestHelper.html#a37eb38df7f1ea2b2fa2f21d9f348e575',1,'ProcChanceTestHelper::RANGED_ATTACK']]],
   ['ranged_5fcrit_5fpercentage_138',['RANGED_CRIT_PERCENTAGE',['../d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4faa6c2bba993427bbcd1ee001e9730c59d',1,'Unit.h']]],
   ['ranged_5fgroup_139',['RANGED_GROUP',['../d1/d28/boss__swamplord__muselek_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a86bd92a6bec0bfb569eab6227147cdfb',1,'boss_swamplord_muselek.cpp']]],
   ['ranged_5fproc_5fflag_5fmask_140',['RANGED_PROC_FLAG_MASK',['../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac5647abe6aa2b8e292cde78a34ac29cc',1,'SpellMgr.h']]],
