@@ -1,5 +1,10 @@
 var NAVTREEINDEX394 =
 {
+"de/d7e/classnpc__muradin__bronzebeard__icc.html#ab2b6a0bb1b8626e5a4064b9412234f4b":[7,0,2030,2],
+"de/d7f/boss__exarch__maladaar_8cpp.html":[8,0,0,0,1,3,7,0,0,1],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,0,0,1,3],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0260b9413bf0f27c7d72a77a2df65622":[8,0,0,0,1,3,7,0,0,1,3,13],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b41ef3af71d15719535ced60a0de398":[8,0,0,0,1,3,7,0,0,1,3,4],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ca70102f1e7ebc514c9875b92e5490b":[8,0,0,0,1,3,7,0,0,1,3,5],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca20e455c0ae51cf9a08598dfbd3cfad1a":[8,0,0,0,1,3,7,0,0,1,3,14],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca248eca01cf3e30b7ab8e432a43367ece":[8,0,0,0,1,3,7,0,0,1,3,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX394 =
 "de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html#a160ac902a994fdaaa36b66dbaa4c8282":[7,0,2498,1,1],
 "de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html#abbfa5f40abb5713e15311f8259d70dc6":[7,0,2498,1,2],
 "de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html#ade58814e6b27763d1bb6c1f730ef53e0":[7,0,2498,1,0],
-"de/d8c/classspell__sha__sentry__totem.html":[7,0,4151],
-"de/d8c/classspell__sha__sentry__totem.html#aa266e794be35b51a399b13ee2d06199d":[7,0,4151,2],
-"de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[7,0,4151,0],
-"de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[7,0,4151,1],
-"de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[7,0,4151,3],
-"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[7,0,0,5,0,26]
+"de/d8c/classspell__sha__sentry__totem.html":[7,0,4151]
 };

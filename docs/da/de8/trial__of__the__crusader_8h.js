@@ -161,6 +161,7 @@ var trial__of__the__crusader_8h =
       [ "NPC_BEASTS_COMBAT_STALKER", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca75290dd5c10177a8c3aef60acf72b22c", null ],
       [ "NPC_JARAXXUS", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caac25095e3ea26543a51245351b82d3d7", null ],
       [ "NPC_MISTRESS_OF_PAIN", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca1d4846e8c3400fd4728fb92351b215cc", null ],
+      [ "NPC_FELFLAME_INFERNAL", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2003b02d5a3860664b84f684e70e7a17", null ],
       [ "NPC_PURPLE_GROUND", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2b97ccf88d83f82ac619a6d4e2077d81", null ],
       [ "NPC_OPEN_PORTAL_TARGET", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca635705b91a221603d376c9ebd6eeae9b", null ],
       [ "NPC_WORLD_TRIGGER", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2de54d34271fcadd2d72ee13d7e0ce48", null ],

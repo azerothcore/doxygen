@@ -1,5 +1,8 @@
 var NAVTREEINDEX200 =
 {
+"d7/d26/blackrock__depths_8h.html#a6eb1dd10c71bf7c8b404bdd499a5b34dad3a82608e2e8110f920b4caabf717f98":[8,0,0,0,1,3,2,1,0,1,8,0],
+"d7/d26/blackrock__depths_8h.html#a6eb1dd10c71bf7c8b404bdd499a5b34dae990760354aa939d6f680f17500b1b1b":[8,0,0,0,1,3,2,1,0,1,8,2],
+"d7/d26/blackrock__depths_8h.html#a9d45bc7d96e17c708ed2c9aaafdbee3a":[8,0,0,0,1,3,2,1,0,1,9],
 "d7/d26/blackrock__depths_8h.html#ad8a3ba7dab406252a979d5af66be980a":[8,0,0,0,1,3,2,1,0,1,2],
 "d7/d26/blackrock__depths_8h.html#addbf6aa184505d46d7bfe8b89b981efb":[8,0,0,0,1,3,2,1,0,1,0],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22":[8,0,0,0,1,3,2,1,0,1,6],
@@ -44,20 +47,20 @@ var NAVTREEINDEX200 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70":[8,0,0,0,1,3,2,1,0,1,6,14],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,35,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[7,0,13,6,47],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[7,0,13,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,35,6,47,3],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[7,0,13,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,35,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[7,0,13,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,35,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[7,0,13,6,47,4],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,35,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[7,0,13,6,47,1],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,35,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,35,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[7,0,13,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[7,0,13,6,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[5,0,35,6,47,6],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,35,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[7,0,13,6,47,2],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,35,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[7,0,13,6,47,5],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,35,6,47,5],
 "d7/d26/classspell__warl__demonic__aegis.html":[7,0,4353],
@@ -246,8 +249,5 @@ var NAVTREEINDEX200 =
 "d7/d2f/classspell__mage__blast__wave.html#a860fb74000a42a7d6f22d17dde93cdf6":[7,0,3629,0],
 "d7/d2f/classspell__mage__blast__wave.html#ab951d6403188f178f79311cead8a0a8f":[7,0,3629,1],
 "d7/d2f/classspell__mage__blast__wave.html#ac62f4fdf003cdd53650fe632b3ed3ef1":[7,0,3629,2],
-"d7/d2f/classspell__mage__blast__wave.html#add1bd8f583772d4dfeb20f01b9fac8ed":[7,0,3629,3],
-"d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html":[7,0,3987],
-"d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html#a20f7416465ba1cc04426f24037e8074e":[7,0,3987,3],
-"d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html#a2ac898d186e755fbf3b3ae8812e8e579":[7,0,3987,0]
+"d7/d2f/classspell__mage__blast__wave.html#add1bd8f583772d4dfeb20f01b9fac8ed":[7,0,3629,3]
 };

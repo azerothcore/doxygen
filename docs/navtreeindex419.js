@@ -1,5 +1,10 @@
 var NAVTREEINDEX419 =
 {
+"df/d8a/classboss__baroness__anastari.html#a60f04c10d9b942cacf74a1dc8364dbbe":[7,0,412,1],
+"df/d8b/WardenPayloadMgr_8cpp.html":[8,0,0,0,1,2,47,8],
+"df/d8b/classspell__item__rocket__chicken.html":[7,0,3503],
+"df/d8b/classspell__item__rocket__chicken.html#a000f8fd84e7292ac759b64a8a25d3ca2":[7,0,3503,0],
+"df/d8b/classspell__item__rocket__chicken.html#a2848e44f1520cc32af916a8e6578c3ea":[7,0,3503,1],
 "df/d8b/classspell__item__rocket__chicken.html#a4a13827baeb7ed4f2681ab114d44eb37":[7,0,3503,2],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html":[7,0,3944],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a2b06b0dc1a4c2f5b5e4657e11a097660":[7,0,3944,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX419 =
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a812b4f1348c8c73b30cf48373602798c":[7,0,674,0,5],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a89fe035de2076c7d82434a6b955ced3f":[7,0,674,0,6],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#aac80ae1b85bde17ae6c71193f31df52e":[7,0,674,0,13],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#acb14e5177a73ffe49c5113f5ea5ddf13":[7,0,674,0,19],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ad1e9ac4b158ee387369ac1aeeb5abe4c":[7,0,674,0,21],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#adf0e15ab7cae6d73d0ac4d97d63de6b3":[7,0,674,0,7],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ae15f486fd0942f9f310b0b60cc29b288":[7,0,674,0,10],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ae4492fa7c4e6fdab52e2a31c1a0b078a":[7,0,674,0,16],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ae6a8cdf1ce40ab5898e4ab906d0ed41b":[7,0,674,0,11]
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#acb14e5177a73ffe49c5113f5ea5ddf13":[7,0,674,0,19]
 };

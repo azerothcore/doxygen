@@ -1,5 +1,8 @@
 var NAVTREEINDEX179 =
 {
+"d6/d38/classChatHandler.html#a6cfa4cd171866cacb272e996aa75e487":[7,0,894,29],
+"d6/d38/classChatHandler.html#a71d198eb5430bf6205d8081248cd16f0":[7,0,894,33],
+"d6/d38/classChatHandler.html#a7ab2c0deb500bef6654274630815bb75":[7,0,894,0],
 "d6/d38/classChatHandler.html#a7d91e1a37684e5794dd8cec360555ad4":[7,0,894,70],
 "d6/d38/classChatHandler.html#a7f1f93fbd2856330821b565db4014cd3":[7,0,894,15],
 "d6/d38/classChatHandler.html#a82e2e9ab17fe5f2ea814c9cd8305b6c3":[7,0,894,60],
@@ -246,8 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#afbb4e4c74c2634a442171f06bb2eff08":[7,0,1959,0,8],
 "d6/d3d/classspell__hun__kill__command.html":[7,0,3284],
 "d6/d3d/classspell__hun__kill__command.html#a1fbbba8bdc9f775963a999aa00a5a256":[7,0,3284,0],
-"d6/d3d/classspell__hun__kill__command.html#a481f9d36567607697c3ad5d9501bba48":[7,0,3284,1],
-"d6/d3d/classspell__hun__kill__command.html#afff66ccf4f6596475f4b58c529472f26":[7,0,3284,2],
-"d6/d3d/structnpc__terenas__menethil_1_1npc__terenas__menethilAI.html":[7,0,2222,0],
-"d6/d3d/structnpc__terenas__menethil_1_1npc__terenas__menethilAI.html#a1414da7f20e0f93486eb77c9b9450fa9":[7,0,2222,0,1]
+"d6/d3d/classspell__hun__kill__command.html#a481f9d36567607697c3ad5d9501bba48":[7,0,3284,1]
 };

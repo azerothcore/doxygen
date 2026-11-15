@@ -8,7 +8,6 @@ var structboss__yoggsaron =
     [ "JustDied", "d1/dd7/structboss__yoggsaron.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
     [ "JustSummoned", "d1/dd7/structboss__yoggsaron.html#af641e349634bc2977fd2fe7b7edad310", null ],
     [ "SetData", "d1/dd7/structboss__yoggsaron.html#a449d1e3b3e2bf883254b9714df4a3ac5", null ],
-    [ "SpellHit", "d1/dd7/structboss__yoggsaron.html#ab477975d288844051b22991649bdedd4", null ],
     [ "SummonImmortalGuardian", "d1/dd7/structboss__yoggsaron.html#ad8ba569e58047dcfff8d764489f024ad", null ],
     [ "UpdateAI", "d1/dd7/structboss__yoggsaron.html#a395114524b73f0176aa9ed331cc0683f", null ],
     [ "_defeated", "d1/dd7/structboss__yoggsaron.html#a280278471444ecfaf6a24be36a097cbf", null ],

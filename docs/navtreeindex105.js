@@ -1,5 +1,6 @@
 var NAVTREEINDEX105 =
 {
+"d3/d77/structnpc__shambling__horror__icc_1_1npc__shambling__horror__iccAI.html#a6d77fdd16c4b089049ade7f7b081b4e9":[7,0,2173,0,1],
 "d3/d77/structnpc__shambling__horror__icc_1_1npc__shambling__horror__iccAI.html#abae6058591022057e93d48da3db1b8bc":[7,0,2173,0,4],
 "d3/d77/structnpc__shambling__horror__icc_1_1npc__shambling__horror__iccAI.html#ac5bab3d9f360e4e00dcab9abc3799865":[7,0,2173,0,3],
 "d3/d77/structnpc__shambling__horror__icc_1_1npc__shambling__horror__iccAI.html#aed90f2c487c28190c7af630f4ea2fa13":[7,0,2173,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#a7f7ae37e4abbe37f4fa46b98af3ac03a":[7,0,459,3],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#aaadeb10c22c598cd10ccde83425fbf71":[7,0,459,6],
 "d3/d7f/structboss__emperor__dagran__thaurissan.html#ab1c7da00e8e1a20d2592ec26862867fc":[7,0,459,5],
-"d3/d7f/structboss__emperor__dagran__thaurissan.html#ad94aef1875a5a863f78dc84a964638f9":[7,0,459,7],
-"d3/d7f/structgo__sister__mercy.html":[7,0,1220]
+"d3/d7f/structboss__emperor__dagran__thaurissan.html#ad94aef1875a5a863f78dc84a964638f9":[7,0,459,7]
 };

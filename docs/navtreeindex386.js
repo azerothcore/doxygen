@@ -1,5 +1,10 @@
 var NAVTREEINDEX386 =
 {
+"de/d30/SpellMgr_8h.html#a92884d38e54e1a658ef812cfb5ecc2b5":[8,0,0,0,1,2,41,9,28],
+"de/d30/SpellMgr_8h.html#a9298eb96c8d5310030455030d2bbcb9d":[8,0,0,0,1,2,41,9,52],
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4":[8,0,0,0,1,2,41,9,65],
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a681e8c43ac04d1194334566f73ee1449":[8,0,0,0,1,2,41,9,65,1],
+"de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7057c645998b72657fb18e41e12dc25f":[8,0,0,0,1,2,41,9,65,0],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7352283120084279478da1de4d3db9d0":[8,0,0,0,1,2,41,9,65,2],
 "de/d30/SpellMgr_8h.html#aa10abaefa9eb85e4ab3ae20543519d8e":[8,0,0,0,1,2,41,9,34],
 "de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d":[8,0,0,0,1,2,41,9,20],
@@ -244,10 +249,5 @@ var NAVTREEINDEX386 =
 "de/d33/structnpc__healing__ward.html#a3d3c35f61502d3a83cb2581119e08903":[7,0,1889,0],
 "de/d33/structnpc__healing__ward.html#a5faf7c5633c44ec1fa70b60b2071b97b":[7,0,1889,1],
 "de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[7,0,1889,4],
-"de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[7,0,1889,2],
-"de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[7,0,1889,3],
-"de/d34/classSessionScript.html":[7,0,2610],
-"de/d34/classSessionScript.html#a38af0c7fcfb9187d5795d2858be668ef":[7,0,2610,1],
-"de/d34/classSessionScript.html#a526960f434665b49b41483e7dd64bcce":[7,0,2610,2],
-"de/d34/classSessionScript.html#abcb2b96997e16966f8cc519856fbad56":[7,0,2610,0]
+"de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[7,0,1889,2]
 };

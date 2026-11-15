@@ -1,5 +1,9 @@
 var NAVTREEINDEX294 =
 {
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf":[8,0,0,0,1,3,2,6,0,4,10],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645":[8,0,0,0,1,3,2,6,0,4,6],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5":[8,0,0,0,1,3,2,6,0,4,12],
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587":[8,0,0,0,1,3,2,6,0,4,0],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da9febec7108cdc6736531e0f975ef3cff":[8,0,0,0,1,3,2,6,0,4,5],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9daa9fa30ea318f3ec27463417b38f56819":[8,0,0,0,1,3,2,6,0,4,7],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9dad0e24c2cb3409f3d88a378ef44164197":[8,0,0,0,1,3,2,6,0,4,11],
@@ -36,8 +40,8 @@ var NAVTREEINDEX294 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[8,0,0,0,1,3,2,6,0,7,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[8,0,0,0,1,3,2,6,0,7,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[8,0,0,0,1,3,2,6,0,7,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,7],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,0,7,7],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[7,0,0,4,7],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[7,0,0,4,7,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,0,7,7,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[7,0,0,4,7,1],
@@ -59,8 +63,8 @@ var NAVTREEINDEX294 =
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[8,0,0,0,1,2,7,5,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[7,0,13,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,35,6,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,35,6,40,0,1],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[7,0,13,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[7,0,13,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,35,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[7,0,695],
@@ -245,9 +249,5 @@ var NAVTREEINDEX294 =
 "db/d30/structboss__hydromancer__thespia.html#a5747c2da9914dcf4118ee0fb37a3a3fd":[7,0,556,0],
 "db/d30/structboss__hydromancer__thespia.html#ad0662daabd636bbf544a6791187d71fa":[7,0,556,1],
 "db/d30/structboss__hydromancer__thespia.html#ae1bb4819867ef5718cb5d9130d62fa20":[7,0,556,3],
-"db/d30/structboss__hydromancer__thespia.html#af230e57ec259e5c92c4034a674d1b6a5":[7,0,556,2],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html":[7,0,766,0],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a033f10bba4ba89aa0111d4cb520540e6":[7,0,766,0,9],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a0c62ac244e57b1b90101e1ba89a60d27":[7,0,766,0,1],
-"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a136b51ede30d63d87228d35e8b6f2c7a":[7,0,766,0,4]
+"db/d30/structboss__hydromancer__thespia.html#af230e57ec259e5c92c4034a674d1b6a5":[7,0,556,2]
 };

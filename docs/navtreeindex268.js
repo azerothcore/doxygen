@@ -1,5 +1,8 @@
 var NAVTREEINDEX268 =
 {
+"da/d17/structEnchantDuration.html#a3f4edafbc9b09cb5ab660bc68af435f3":[7,0,1051,3],
+"da/d17/structEnchantDuration.html#a52448f2bb8b788193a69fe9a2d8729f3":[7,0,1051,1],
+"da/d17/structEnchantDuration.html#ae803f6a9ce9cdb0dbb133bc85b6613ab":[7,0,1051,2],
 "da/d18/structnpc__koltira__deathweaver.html":[7,0,1971],
 "da/d18/structnpc__koltira__deathweaver.html#a099e6f33720417ff376343ad9e64abae":[7,0,1971,4],
 "da/d18/structnpc__koltira__deathweaver.html#a110d20298f724095b1c526714268c98e":[7,0,1971,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX268 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0ead1d21561a1d51aa165ba0fbbf03f0":[8,0,0,0,1,2,41,0,0,6,278],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0ee9b3a7d5427e1baacf407cd1dfd589":[8,0,0,0,1,2,41,0,0,6,30],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1015c47e51e396ce6bac8260ce380831":[8,0,0,0,1,2,41,0,0,6,71],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad":[8,0,0,0,1,2,41,0,0,6,3],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1156dae2e392ceb801c50846a22f915b":[8,0,0,0,1,2,41,0,0,6,206],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1191ab2524c100b0d91f8d63cee8e781":[8,0,0,0,1,2,41,0,0,6,316],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a13926e531402d89ac4f4009779edc31d":[8,0,0,0,1,2,41,0,0,6,209]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad":[8,0,0,0,1,2,41,0,0,6,3]
 };

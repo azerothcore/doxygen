@@ -1,5 +1,9 @@
 var NAVTREEINDEX329 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab77729a9cff0f7a91629222981580ec4":[5,0,29,6,461],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab7ed0d8eec3e53fd355bd9a9eb17acb0":[5,0,29,6,533],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab85be090a2ff91aff774671c79b7a372":[5,0,29,6,390],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab89e37011476c89fe5ad1733979e288b":[5,0,29,6,540],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab9bc31f25357b45b4051fda956f155c6":[5,0,29,6,39],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab9bc6381f487a1874cffd9c2e20ded9b":[5,0,29,6,546],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04aba1961f477d88c3ef8ae52a1a171eff0":[5,0,29,6,600],
@@ -245,9 +249,5 @@ var NAVTREEINDEX329 =
 "dc/d39/classspell__communique__trigger.html#a968333dcfe0553ad73879f3042db5511":[7,0,2796,3],
 "dc/d39/classspell__communique__trigger.html#ade9ff4db63fecf726776f6e4b36bb437":[7,0,2796,0],
 "dc/d39/classspell__item__noblegarden__chocolate.html":[7,0,3483],
-"dc/d39/classspell__item__noblegarden__chocolate.html#a7de36e3ee777b02ab6fc4671e4e9f5ab":[7,0,3483,4],
-"dc/d39/classspell__item__noblegarden__chocolate.html#aa90cfb5fdb96e8670fa35dd3c16350c0":[7,0,3483,1],
-"dc/d39/classspell__item__noblegarden__chocolate.html#ac331de3219ae7da9e35e962011540bdf":[7,0,3483,3],
-"dc/d39/classspell__item__noblegarden__chocolate.html#ae5f611f0643cdfc3d403cee89667b0f6":[7,0,3483,0],
-"dc/d39/classspell__item__noblegarden__chocolate.html#aec2476ad5e046213b90af04ad91f0230":[7,0,3483,5]
+"dc/d39/classspell__item__noblegarden__chocolate.html#a7de36e3ee777b02ab6fc4671e4e9f5ab":[7,0,3483,4]
 };

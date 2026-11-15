@@ -1,6 +1,5 @@
 var NAVTREEINDEX52 =
 {
-"d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404":[8,0,0,0,1,2,3,4,6,2],
 "d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae":[8,0,0,0,1,2,3,4,6,1],
 "d2/d05/CreatureAI_8h.html#a8de08a341cdd207e19eef425c2f5f152":[8,0,0,0,1,2,3,4,1],
 "d2/d05/CreatureAI_8h.html#adf806592547de59418c6070d69c5efb9":[8,0,0,0,1,2,3,4,4],
@@ -85,8 +84,8 @@ var NAVTREEINDEX52 =
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae907325621c0c0a40fc1e7761b81e832":[7,0,2385,10],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[7,0,13,12,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[5,0,35,12,2],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[7,0,13,12,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,35,12,2,2],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[7,0,13,12,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[7,0,13,12,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,35,12,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[7,0,13,12,2,1],
@@ -117,12 +116,12 @@ var NAVTREEINDEX52 =
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02":[8,0,0,0,1,2,38,0,19,1,4],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0":[8,0,0,0,1,2,38,0,19,1,3],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa":[8,0,0,0,1,2,38,0,19,1,0],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[7,0,0,90],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,0,102],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[7,0,0,90,3],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[7,0,0,90],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,0,102,3],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[7,0,0,90,1],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[7,0,0,90,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,0,102,1],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[7,0,0,90,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[7,0,0,90,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,0,102,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,0,102,0],
@@ -176,8 +175,8 @@ var NAVTREEINDEX52 =
 "d2/d0f/CombatManager_8h.html#a330a2d238c7c7b5390c40e53436d0d74ac6bc3b656f0875f408ad159de8e47dab":[8,0,0,0,1,2,12,1,3,1],
 "d2/d0f/Weather_8cpp.html":[4,2,0],
 "d2/d0f/classRestoreFight.html":[7,0,2568],
-"d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[7,0,2568,1],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[7,0,2568,0],
+"d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[7,0,2568,1],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[7,0,2568,3],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[7,0,2568,2],
 "d2/d0f/classRestoreFight.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0":[7,0,2568,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX52 =
 "d2/d14/classnpcs__riverbreeze__and__silversky.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2":[7,0,2354,0],
 "d2/d14/structboss__felblood__kaelthas.html":[7,0,481],
 "d2/d14/structboss__felblood__kaelthas.html#a1d8806d7813d11aa61e043e420852218":[7,0,481,5],
-"d2/d14/structboss__felblood__kaelthas.html#a85abfb330ccc1fed5b9dc851d780f386":[7,0,481,0]
+"d2/d14/structboss__felblood__kaelthas.html#a85abfb330ccc1fed5b9dc851d780f386":[7,0,481,0],
+"d2/d14/structboss__felblood__kaelthas.html#a984dcde8d78adbce00e307eb3c4d32b8":[7,0,481,2]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX424 =
 {
+"df/dbb/structboss__flame__leviathan.html#acf26fcd0d918ae113d1ff5e4358cfc1c":[7,0,486,18],
+"df/dbb/structboss__flame__leviathan.html#ad5f0d06bbe2e5e821bbaf616c4dc1288":[7,0,486,2],
+"df/dbb/structboss__flame__leviathan.html#ad6ef9a66605f6bf8955cfaa4dc16b311":[7,0,486,10],
+"df/dbb/structboss__flame__leviathan.html#ad734b7b91dc6415af94b99eb2107efa7":[7,0,486,7],
+"df/dbb/structboss__flame__leviathan.html#ae526177914176c207a06f339fe065dae":[7,0,486,27],
 "df/dbb/structboss__flame__leviathan.html#af1c783c6c936356f270b9ae482e8c1a9":[7,0,486,25],
 "df/dbb/structboss__flame__leviathan.html#af7efd745e49df1305deb9e11797d310e":[7,0,486,1],
 "df/dbb/structboss__flame__leviathan.html#afbc842ddf2366a3d0fdda8304b9cc6ac":[7,0,486,15],
@@ -244,10 +249,5 @@ var NAVTREEINDEX424 =
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html":[7,0,1665,0],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0aa59fdf0668d64f3b670c595579ba81":[7,0,1665,0,3],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1665,0,8],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a1a0c00c09c348f746730c9743d4b7b6b":[7,0,1665,0,4],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a20b62b48f5cf92106fcd1860d9e91956":[7,0,1665,0,5],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a87382571221c608017fd2d4cb99193dc":[7,0,1665,0,12],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#abbfbb5a1e116c6deb3db23f12ff8994f":[7,0,1665,0,0],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac458fc9a331dc7edfdc764215b1926e8":[7,0,1665,0,10],
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#ac9951514f27f343ae96e856f484e7baf":[7,0,1665,0,11]
+"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#a1a0c00c09c348f746730c9743d4b7b6b":[7,0,1665,0,4]
 };

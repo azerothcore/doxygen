@@ -1,5 +1,8 @@
 var NAVTREEINDEX277 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a6e3e940c0fe46fe4621781829b06da":[8,0,0,0,1,3,5,6,10,72,51],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3ddafd2c6044a9bbec73c396e7eced5a":[8,0,0,0,1,3,5,6,10,72,28],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3f61f581fd88ed67d36e7a6a84924014":[8,0,0,0,1,3,5,6,10,72,34],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3fb9ec6c36eec76118081f170d73d1b8":[8,0,0,0,1,3,5,6,10,72,58],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a41561ce23984b006908092b350f8033e":[8,0,0,0,1,3,5,6,10,72,5],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a430a1ea9efb57c4df6931b6f2dcdb23e":[8,0,0,0,1,3,5,6,10,72,42],
@@ -61,8 +64,8 @@ var NAVTREEINDEX277 =
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[8,0,0,0,1,2,26,10,1],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[7,0,9,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,30,0],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,30,0,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[7,0,9,0,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,30,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[8,0,0,0,1,3,2,11,4],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dc":[8,0,0,0,1,3,2,11,4,18],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca0280995450e87c95815ba28d7f860f62":[8,0,0,0,1,3,2,11,4,18,40],
@@ -246,8 +249,5 @@ var NAVTREEINDEX277 =
 "da/d80/structEscort__Waypoint.html#a467a869dba9243bd165e4c480e339705":[7,0,1061,2],
 "da/d80/structEscort__Waypoint.html#a4d751062b2ab46734049bf8939a30731":[7,0,1061,3],
 "da/d80/structEscort__Waypoint.html#a6a763373fcc37e5a463b54e1e1a68235":[7,0,1061,1],
-"da/d80/structEscort__Waypoint.html#a810ad58fe70fd6402f01ed7e70b450e0":[7,0,1061,5],
-"da/d80/structEscort__Waypoint.html#a88648b1bd70afad73d402c40abcd68b5":[7,0,1061,4],
-"da/d80/structboss__zereketh__the__unbound.html":[7,0,824],
-"da/d80/structboss__zereketh__the__unbound.html#a07d3a1264e6d78c2696990755fc7fe45":[7,0,824,3]
+"da/d80/structEscort__Waypoint.html#a810ad58fe70fd6402f01ed7e70b450e0":[7,0,1061,5]
 };

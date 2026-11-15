@@ -1,5 +1,9 @@
 var NAVTREEINDEX338 =
 {
+"dc/dad/classspell__rog__turn__the__tables__proc.html#a0c23c8b0fe938fd7556663880f40b9ef":[7,0,4082,2],
+"dc/dad/classspell__rog__turn__the__tables__proc.html#a34ca370993295225a779ee6537295112":[7,0,4082,0],
+"dc/dad/classspell__rog__turn__the__tables__proc.html#a523cf0c9aa9b3cf81c0cadd39252dd0f":[7,0,4082,1],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html":[7,0,13,14,4],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html":[5,0,35,14,4],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a035223abc4d17df598dfcbc05f7f0770":[7,0,13,14,4,4],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a035223abc4d17df598dfcbc05f7f0770":[5,0,35,14,4,4],
@@ -7,16 +11,16 @@ var NAVTREEINDEX338 =
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a2c9b1c07b5a52a5526643a6894290e0c":[5,0,35,14,4,2],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a43ee482017cfde3cf8f9f36f2dadf3f0":[5,0,35,14,4,7],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#a43ee482017cfde3cf8f9f36f2dadf3f0":[7,0,13,14,4,7],
-"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab488d663cb52d92dc0d6c39f1d2e7388":[7,0,13,14,4,6],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab488d663cb52d92dc0d6c39f1d2e7388":[5,0,35,14,4,6],
-"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab7f2f90b0132e3945f84bf36ba926417":[7,0,13,14,4,5],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab488d663cb52d92dc0d6c39f1d2e7388":[7,0,13,14,4,6],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab7f2f90b0132e3945f84bf36ba926417":[5,0,35,14,4,5],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ab7f2f90b0132e3945f84bf36ba926417":[7,0,13,14,4,5],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad7cf8778e608128fad236f9eb7448c66":[7,0,13,14,4,0],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad7cf8778e608128fad236f9eb7448c66":[5,0,35,14,4,0],
-"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef":[7,0,13,14,4,1],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef":[5,0,35,14,4,1],
-"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4":[7,0,13,14,4,3],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#ad9a328ee5bc7890bbd904a4d7e60f0ef":[7,0,13,14,4,1],
 "dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4":[5,0,35,14,4,3],
+"dc/dae/classWorldPackets_1_1Quest_1_1QuestGiverQuestComplete.html#adc349dfbefc0b5a4c13af4b7746dbfe4":[7,0,13,14,4,3],
 "dc/dae/gruuls__lair_8h.html":[8,0,0,0,1,3,7,3,2],
 "dc/dae/gruuls__lair_8h.html#a02f4ee42fa7e8b8780181f1d48cecd84":[8,0,0,0,1,3,7,3,2,2],
 "dc/dae/gruuls__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,7,3,2,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX338 =
 "dc/db3/structnpc__dark__iron__guzzler.html#af608024d4b41fa218a7baeae9bee72ef":[7,0,1779,9],
 "dc/db3/structnpc__dark__iron__guzzler.html#affd1f78b5c1df26824b08416d6bd03a1":[7,0,1779,2],
 "dc/db4/classboss__fjola.html":[7,0,485],
-"dc/db4/classboss__fjola.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f":[7,0,485,1],
-"dc/db4/classboss__fjola.html#a96d9ea0716199758b60ad933ade28de4":[7,0,485,2],
-"dc/db4/structboss__gruul.html":[7,0,530],
-"dc/db4/structboss__gruul.html#a3503b84f4fb896d439ccd49a997e4087":[7,0,530,5],
-"dc/db4/structboss__gruul.html#a66766f93a5ff543bbb0c9b805aaf253c":[7,0,530,6]
+"dc/db4/classboss__fjola.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f":[7,0,485,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX51 =
 {
-"d1/df0/structnpc__razorscale__dark__rune__guardian.html#af9dafde2780d5be7a6e22025299dc013":[7,0,2138,9],
 "d1/df0/structnpc__razorscale__dark__rune__guardian.html#afd7fcb578ea65c7a060215257bcc5589":[7,0,2138,4],
 "d1/df1/classspell__galdarah__transform.html":[7,0,3022],
 "d1/df1/classspell__galdarah__transform.html#a6469efa0e1fabaf1cb366f119a1158c1":[7,0,3022,0],
@@ -85,8 +84,8 @@ var NAVTREEINDEX51 =
 "d1/df9/classspell__kelthuzad__void__blast.html#a4f9ee2b8830fc812a78154f8b54a0a47":[7,0,3581,0],
 "d1/df9/classspell__kelthuzad__void__blast.html#a5e33a371d519c2fdc8561f2ac8d9dd82":[7,0,3581,2],
 "d1/df9/classspell__kelthuzad__void__blast.html#a75d2e4bc16170348893654d53c1bb6d7":[7,0,3581,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html":[7,0,0,61],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,73],
+"d1/df9/structAcore_1_1GameObjectWorker.html":[7,0,0,61],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,73,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,0,73,1],
@@ -95,8 +94,8 @@ var NAVTREEINDEX51 =
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
-"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[7,0,0,61,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
 "d1/df9/structnpc__azure__raider.html":[7,0,1680],
 "d1/df9/structnpc__azure__raider.html#a3579986a1769467cb17d3b15242e0551":[7,0,1680,1],
 "d1/df9/structnpc__azure__raider.html#a7aa0c785e976167ef384d7c4dac3294f":[7,0,1680,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX51 =
 "d2/d05/CreatureAI_8h.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2":[8,0,0,0,1,2,3,4,5,0],
 "d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869":[8,0,0,0,1,2,3,4,6],
 "d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9":[8,0,0,0,1,2,3,4,6,0],
-"d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5":[8,0,0,0,1,2,3,4,6,3]
+"d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5":[8,0,0,0,1,2,3,4,6,3],
+"d2/d05/CreatureAI_8h.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404":[8,0,0,0,1,2,3,4,6,2]
 };

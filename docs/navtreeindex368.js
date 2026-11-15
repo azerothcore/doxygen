@@ -1,5 +1,10 @@
 var NAVTREEINDEX368 =
 {
+"de/d06/structboss__headless__horseman.html#a076037b8bad3648551997915d97fb9b2":[7,0,540,16],
+"de/d06/structboss__headless__horseman.html#a091a925d7040e29efc54a4c5f123591d":[7,0,540,21],
+"de/d06/structboss__headless__horseman.html#a149ae2b8c688c5b24d3db480b888e36e":[7,0,540,5],
+"de/d06/structboss__headless__horseman.html#a2fe31482b5267bfc94d5d68062a46e0c":[7,0,540,15],
+"de/d06/structboss__headless__horseman.html#a4f791099607d7861cfa193f9b5fc265b":[7,0,540,0],
 "de/d06/structboss__headless__horseman.html#a57a5935e31ef5cc4df2657ddd358afdc":[7,0,540,9],
 "de/d06/structboss__headless__horseman.html#a5de04d5c0da7c199ec89de9ef40a59fd":[7,0,540,20],
 "de/d06/structboss__headless__horseman.html#a76c6eddf1005774403498d0954571c19":[7,0,540,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX368 =
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a974548ad4e2187053a5db92dff34eefd":[8,0,0,0,1,4,7,63,166],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a97dd19c4faf47ba80091e80f22d046bd":[8,0,0,0,1,4,7,63,149],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a97fa12bf39bfa1be8cb22f51c9050491":[8,0,0,0,1,4,7,63,126],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a9c36cd85bd80ca0c6152303dab7dbec2":[8,0,0,0,1,4,7,63,140],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a9cc7a0afac0efef5236692669c3c69a4":[8,0,0,0,1,4,7,63,34],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a9dc91916e1fdc0c660510f5165e42d78":[8,0,0,0,1,4,7,63,31],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa0dafa75c1846cfd9c7038bf23d33ba3":[8,0,0,0,1,4,7,63,38],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa125fc4c1e1b4fa629540aa88037f1ba":[8,0,0,0,1,4,7,63,17],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aa300c615d596e6f6da492264e3003641":[8,0,0,0,1,4,7,63,13]
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a9c36cd85bd80ca0c6152303dab7dbec2":[8,0,0,0,1,4,7,63,140]
 };

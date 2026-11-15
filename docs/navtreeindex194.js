@@ -1,5 +1,8 @@
 var NAVTREEINDEX194 =
 {
+"d6/dd9/boss__skadi_8cpp.html#a12da985d4343f92957f864889586f114a512d2f9436fc74e0f956c8e038144560":[8,0,0,0,1,3,5,10,1,1,14,1],
+"d6/dd9/boss__skadi_8cpp.html#a12da985d4343f92957f864889586f114ac568c1a5bc7385075af4ad0ec09627dd":[8,0,0,0,1,3,5,10,1,1,14,5],
+"d6/dd9/boss__skadi_8cpp.html#a12da985d4343f92957f864889586f114af62df28b317ea3d1d992203f26578873":[8,0,0,0,1,3,5,10,1,1,14,0],
 "d6/dd9/boss__skadi_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8b":[8,0,0,0,1,3,5,10,1,1,16],
 "d6/dd9/boss__skadi_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba08d7f01b4043bde66efe985d4c7459be":[8,0,0,0,1,3,5,10,1,1,16,5],
 "d6/dd9/boss__skadi_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba0979448d401b56c27b27f6a0c6462adc":[8,0,0,0,1,3,5,10,1,1,16,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX194 =
 "d6/de7/classGuild_1_1EventLogEntry.html#a8d6bf0a5a53fdc8e99ad53293d96af7c":[7,0,1288,3,2],
 "d6/de7/classGuild_1_1EventLogEntry.html#a96a2e3a6d565db452e7d0f1a152f63c7":[7,0,1288,3,1],
 "d6/de7/classGuild_1_1EventLogEntry.html#ab733c92f478dc36e3b5ffc61799a6ce7":[7,0,1288,3,6],
-"d6/de7/classGuild_1_1EventLogEntry.html#adffe90bd0265dea0ca2fd6bc83f3056e":[7,0,1288,3,4],
-"d6/de7/classboss__eadric.html":[7,0,452],
-"d6/de7/classboss__eadric.html#a15235e86d0bdff0bd3fef5dbff3abb27":[7,0,452,2],
-"d6/de7/classboss__eadric.html#ad32a08ec9fc2a31b5bcdcff67d0127d2":[7,0,452,1]
+"d6/de7/classGuild_1_1EventLogEntry.html#adffe90bd0265dea0ca2fd6bc83f3056e":[7,0,1288,3,4]
 };

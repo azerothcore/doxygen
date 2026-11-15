@@ -1,5 +1,10 @@
 var NAVTREEINDEX360 =
 {
+"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[7,0,3389,2],
+"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[7,0,3389,1],
+"dd/db2/classGenericCreatureScript.html":[7,0,1137],
+"dd/db2/classGenericCreatureScript.html#a52157430320e253a5897612623eb796c":[7,0,1137,0],
+"dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[7,0,1137,1],
 "dd/db2/structGtRegenMPPerSptEntry.html":[7,0,1283],
 "dd/db2/structGtRegenMPPerSptEntry.html#a614fdab0bf0be8c91775b49d020cdc7c":[7,0,1283,0],
 "dd/db2/zone__storm__peaks_8cpp.html":[8,0,0,0,1,3,5,23],
@@ -244,10 +249,5 @@ var NAVTREEINDEX360 =
 "dd/dba/structboss__moroes.html#aa0bf31d8298b4ec6ce205cefd0766194":[7,0,642,5],
 "dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32":[7,0,642,8],
 "dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[7,0,642,1],
-"dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[7,0,642,10],
-"dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[7,0,642,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1]
+"dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[7,0,642,10]
 };

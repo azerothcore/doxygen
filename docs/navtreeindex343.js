@@ -1,5 +1,9 @@
 var NAVTREEINDEX343 =
 {
+"dc/de6/structboss__skarvald__the__constructor.html":[7,0,721],
+"dc/de6/structboss__skarvald__the__constructor.html#a28837280e161f6971564a4725c97a154":[7,0,721,7],
+"dc/de6/structboss__skarvald__the__constructor.html#a32d092ecf17aaafc61cefb4c0efce639":[7,0,721,0],
+"dc/de6/structboss__skarvald__the__constructor.html#a529439d257abf78f76db0043549964e6":[7,0,721,3],
 "dc/de6/structboss__skarvald__the__constructor.html#a63c9e981a198f6fefe8d1fa4d8ede20e":[7,0,721,1],
 "dc/de6/structboss__skarvald__the__constructor.html#a9180dcb3c22944c75e5e424dc1a78339":[7,0,721,2],
 "dc/de6/structboss__skarvald__the__constructor.html#a9c1f74c20a5a9f47f9430450742938a2":[7,0,721,6],
@@ -218,14 +222,14 @@ var NAVTREEINDEX343 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[7,0,4429,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[7,0,4429,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[7,0,4429,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[7,0,0,2,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[7,0,777],
@@ -245,9 +249,5 @@ var NAVTREEINDEX343 =
 "dc/df9/classspell__burning__maul.html#aed5f87523c58d94c8f98b76c06abb140":[7,0,2769,1],
 "dc/dfa/structboss__twinemperorsAI.html":[7,0,768],
 "dc/dfa/structboss__twinemperorsAI.html#a118151851f36de9dfc22971a965cb047":[7,0,768,1],
-"dc/dfa/structboss__twinemperorsAI.html#a1b4689b0c403f7246ae100e4f716b138":[7,0,768,10],
-"dc/dfa/structboss__twinemperorsAI.html#a2b5e585749b7a59663813c7a9d56c223":[7,0,768,2],
-"dc/dfa/structboss__twinemperorsAI.html#a4d9e07fd3f682a24332d0aabe6c55f8f":[7,0,768,9],
-"dc/dfa/structboss__twinemperorsAI.html#a9cc74619908c2aa9f8deda2689616735":[7,0,768,6],
-"dc/dfa/structboss__twinemperorsAI.html#aaa52e01bfeff824345f7b9c7346e8aef":[7,0,768,8]
+"dc/dfa/structboss__twinemperorsAI.html#a1b4689b0c403f7246ae100e4f716b138":[7,0,768,10]
 };

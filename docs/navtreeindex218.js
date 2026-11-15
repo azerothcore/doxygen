@@ -1,5 +1,8 @@
 var NAVTREEINDEX218 =
 {
+"d7/dbc/structnpc__wild__wyrm.html#a0ff51f46c203f3b1b8dea063463c5c4d":[7,0,2334,1],
+"d7/dbc/structnpc__wild__wyrm.html#a2e826c49b41a389ddfbeac3d3c7933f5":[7,0,2334,6],
+"d7/dbc/structnpc__wild__wyrm.html#a362052015873c615448bec978d744c9e":[7,0,2334,5],
 "d7/dbc/structnpc__wild__wyrm.html#a3d12d555ab7c992ca37e826609b3cd72":[7,0,2334,7],
 "d7/dbc/structnpc__wild__wyrm.html#a7adb3a9f2d17c55995218219c2af13a6":[7,0,2334,0],
 "d7/dbc/structnpc__wild__wyrm.html#a7fa0ac4d2feaf62b08c4667c8f0b7474":[7,0,2334,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX218 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a881215831485df502c95b2ea99f593e4":[7,0,1393,0,6],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a9c8a9ac33c72c25289fe05125dfefaf0":[7,0,1393,0,39],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a9d07a85c9bafc1de6fe89ddfa4a9ab92":[7,0,1393,0,17],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aaa3315b262109938f69f6186fe49fdfc":[7,0,1393,0,46],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab1ee54aec4bcf62c5f31d843f6bf403e":[7,0,1393,0,4],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab20ce8718a0d6f94f5959c4f2d4984c3":[7,0,1393,0,28],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab5c95c62c2175575486556bd5eb84910":[7,0,1393,0,31]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aaa3315b262109938f69f6186fe49fdfc":[7,0,1393,0,46]
 };

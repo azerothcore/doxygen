@@ -1,5 +1,10 @@
 var NAVTREEINDEX359 =
 {
+"dd/dac/pit__of__saron_8h.html":[8,0,0,0,1,3,5,4,2,5],
+"dd/dac/pit__of__saron_8h.html#a00d27e7195019de0c937829f8acb548f":[8,0,0,0,1,3,5,4,2,5,38],
+"dd/dac/pit__of__saron_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,4,2,5,3],
+"dd/dac/pit__of__saron_8h.html#a13bf201e0331fb88a7d079c97321c506":[8,0,0,0,1,3,5,4,2,5,21],
+"dd/dac/pit__of__saron_8h.html#a21621ebf76786332878956cd5a9dc5a2":[8,0,0,0,1,3,5,4,2,5,37],
 "dd/dac/pit__of__saron_8h.html#a24046ff0193d2913ae35aaa983b79978":[8,0,0,0,1,3,5,4,2,5,20],
 "dd/dac/pit__of__saron_8h.html#a47b3209da953f8bbb3d92f1efdba795b":[8,0,0,0,1,3,5,4,2,5,25],
 "dd/dac/pit__of__saron_8h.html#a505be0103a4e544ca19c34681cddf3c1":[8,0,0,0,1,3,5,4,2,5,23],
@@ -244,10 +249,5 @@ var NAVTREEINDEX359 =
 "dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[7,0,3152,0],
 "dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[7,0,3152,1],
 "dd/db1/classspell__item__blood__draining__enchant.html":[7,0,3389],
-"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[7,0,3389,0],
-"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[7,0,3389,2],
-"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[7,0,3389,1],
-"dd/db2/classGenericCreatureScript.html":[7,0,1137],
-"dd/db2/classGenericCreatureScript.html#a52157430320e253a5897612623eb796c":[7,0,1137,0],
-"dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[7,0,1137,1]
+"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[7,0,3389,0]
 };

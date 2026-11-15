@@ -25,5 +25,6 @@ var instance__trial__of__the__crusader_8cpp =
     [ "AddSC_instance_trial_of_the_crusader", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#af823cabf441f9e6a5443da42df4fda4f", null ],
     [ "creatureData", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "DedicatedInsanityItems", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a2bb2e44f489c252390b848d8fd5bab94", null ],
-    [ "gameObjectData", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "gameObjectData", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "summonData", "dd/d8d/instance__trial__of__the__crusader_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

@@ -1,5 +1,10 @@
 var NAVTREEINDEX402 =
 {
+"de/dc0/structBattlegroundTemplate.html#a0fca37318585903f68695452a95011a9":[7,0,357,2],
+"de/dc0/structBattlegroundTemplate.html#a324a4e557ce66089ec1111a9dae6e1de":[7,0,357,4],
+"de/dc0/structBattlegroundTemplate.html#a49fdf96a08376830a06956fd501cfa78":[7,0,357,6],
+"de/dc0/structBattlegroundTemplate.html#a51ce3b9fdb2f51f439fee7c8b48e3918":[7,0,357,1],
+"de/dc0/structBattlegroundTemplate.html#a5fbb1a76221e9d15bd7cca13581f7b14":[7,0,357,5],
 "de/dc0/structBattlegroundTemplate.html#a790f55d480d1454a5f6e5713c04314b7":[7,0,357,3],
 "de/dc0/structBattlegroundTemplate.html#a8477d2156c8aa5bb89da038d1a779698":[7,0,357,9],
 "de/dc0/structBattlegroundTemplate.html#a8a99bf73debf5835e58537bee33fe2ad":[7,0,357,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX402 =
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a0519438fda724a06a0c6f8ed2d7d533d":[7,0,2007,0,7],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a0de69b5fda6342217697ad264d64d4e6":[7,0,2007,0,1],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a32281f8dfa1c8af8fe6bcac2a8be4220":[7,0,2007,0,0],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a456b5de60672120f82506d177faf6b47":[7,0,2007,0,2],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a624c256f29d3cefed0bb909da3841853":[7,0,2007,0,5],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a630312f70a2f22683311a66e5a4f9ec6":[7,0,2007,0,8],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a6b9a435245ddce156d0657aa9e35175b":[7,0,2007,0,10],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a72eb39e259aed0ab230d4d43722cba13":[7,0,2007,0,3],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a749690b386c0c726d11b77bc705b9b01":[7,0,2007,0,4]
+"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a456b5de60672120f82506d177faf6b47":[7,0,2007,0,2]
 };

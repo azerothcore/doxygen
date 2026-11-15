@@ -1,5 +1,10 @@
 var NAVTREEINDEX422 =
 {
+"df/da7/classBattleground.html#a3bd97b3f9648bb9dbf1aa37dc7baeca6":[7,0,330,239],
+"df/da7/classBattleground.html#a3bfa820dd5ca7c2a3d0f6ac6ee9adb1f":[7,0,330,240],
+"df/da7/classBattleground.html#a3cf144c23cb91a7b7da6c94c47da60de":[7,0,330,226],
+"df/da7/classBattleground.html#a3d7ecd40b66cb331a19a40813406086a":[7,0,330,125],
+"df/da7/classBattleground.html#a3e7c5522e47f34a28113da603895112d":[7,0,330,91],
 "df/da7/classBattleground.html#a3eff4dfc9b7319b449ffa723c74217b7":[7,0,330,63],
 "df/da7/classBattleground.html#a3fb91eb5ef43f227d97b3056b51fa17b":[7,0,330,100],
 "df/da7/classBattleground.html#a3fd0daa95d91c0beb3509a183b2cf099":[7,0,330,43],
@@ -244,10 +249,5 @@ var NAVTREEINDEX422 =
 "df/daa/classLambdaBasicEvent.html#a8771a49f00554372b5ed38816abbd253":[7,0,1447,1],
 "df/daa/classspell__doomfire.html":[7,0,2889],
 "df/daa/classspell__doomfire.html#a093b09be5abde91a1487d67a7a554d30":[7,0,2889,3],
-"df/daa/classspell__doomfire.html#a24058b120f4fa06b89f6d582c53a365a":[7,0,2889,2],
-"df/daa/classspell__doomfire.html#a59a9c4dfe06859daac5bb69fa5d20e95":[7,0,2889,1],
-"df/daa/classspell__doomfire.html#aa94e4d6a31a08959a5287b863737c2e2":[7,0,2889,0],
-"df/dab/boss__krystallus_8cpp.html":[8,0,0,0,1,3,5,9,1,0],
-"df/dab/boss__krystallus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,5,9,1,0,6],
-"df/dab/boss__krystallus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[8,0,0,0,1,3,5,9,1,0,6,2]
+"df/daa/classspell__doomfire.html#a24058b120f4fa06b89f6d582c53a365a":[7,0,2889,2]
 };

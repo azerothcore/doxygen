@@ -1,5 +1,8 @@
 var NAVTREEINDEX225 =
 {
+"d8/d12/structboss__ayamiss.html":[7,0,406],
+"d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[7,0,406,1],
+"d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[7,0,406,0],
 "d8/d12/structboss__ayamiss.html#a10111f97236c2846181aa20f7d9b64fd":[7,0,406,7],
 "d8/d12/structboss__ayamiss.html#a166238b9395a426a7333cf71a38c6c5c":[7,0,406,8],
 "d8/d12/structboss__ayamiss.html#a4281f761256cd93c19aea0a76239512d":[7,0,406,5],
@@ -26,8 +29,8 @@ var NAVTREEINDEX225 =
 "d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[7,0,156,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[7,0,13,24],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,35,24],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[7,0,13,24,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,35,24,0],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[7,0,13,24,0],
 "d8/d14/instance__shattered__halls_8cpp.html":[8,0,0,0,1,3,7,4,3,4],
 "d8/d14/instance__shattered__halls_8cpp.html#a206458c4d90391b7cb2b182c06ad6360":[8,0,0,0,1,3,7,4,3,4,3],
 "d8/d14/instance__shattered__halls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[8,0,0,0,1,3,7,4,3,4,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX225 =
 "d8/d1c/structChannel_1_1PlayerInfo.html#af664dc84e5a60301c4fce6fda8971062":[7,0,869,0,1],
 "d8/d1c/structChannel_1_1PlayerInfo.html#afba1915e2dd4109928180e33884b8412":[7,0,869,0,12],
 "d8/d1d/TestMap_8cpp.html":[8,0,0,0,2,1,9],
-"d8/d1d/classnpc__pos__after__first__boss.html":[7,0,2101],
-"d8/d1d/classnpc__pos__after__first__boss.html#a3f807335f79218ecc70c32f5496267a6":[7,0,2101,2],
-"d8/d1d/classnpc__pos__after__first__boss.html#a76ae57195ceca454928245f2db12f68c":[7,0,2101,1],
-"d8/d1e/classspell__q55__sacred__cleansing.html":[7,0,4020]
+"d8/d1d/classnpc__pos__after__first__boss.html":[7,0,2101]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX400 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7affe8bab68da2718d92ea5c6823920d59":[8,0,0,0,1,3,5,18,52,25],
+"de/da6/zone__dragonblight_8cpp.html#acd832c3c5d57da8cf312e263814c7aea":[8,0,0,0,1,3,5,18,54],
+"de/da6/zone__dragonblight_8cpp.html#acd832c3c5d57da8cf312e263814c7aeaa573a11861b4a28744ad0cc06e7764bf6":[8,0,0,0,1,3,5,18,54,0],
+"de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8":[8,0,0,0,1,3,5,18,46],
+"de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a3c52b31108c5d30f5bb2b892cd95764a":[8,0,0,0,1,3,5,18,46,1],
 "de/da6/zone__dragonblight_8cpp.html#ae20b2c5facdaab3902b765759b5706f8a87aa2131266fab5fcd2341454c85291a":[8,0,0,0,1,3,5,18,46,0],
 "de/da6/zone__dragonblight_8cpp.html#aefab85b8ec788cb7a3fda593188678d4":[8,0,0,0,1,3,5,18,51],
 "de/da6/zone__dragonblight_8cpp.html#aefab85b8ec788cb7a3fda593188678d4a16f3963a1a993de00353e49a08605fef":[8,0,0,0,1,3,5,18,51,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX400 =
 "de/db1/structRecoveryItem.html#a6b84fb815781b42b1ad2ba8aa2bc23e0":[7,0,2551,2],
 "de/db1/structRecoveryItem.html#a821672b5e2064196bde9a4238d8a20ae":[7,0,2551,8],
 "de/db1/structRecoveryItem.html#ab7060a7c758092dfb7047d3bb67172e8":[7,0,2551,6],
-"de/db1/structRecoveryItem.html#acb85220f11388742df8f0904f81b9037":[7,0,2551,7],
-"de/db1/structRecoveryItem.html#af479923b65c9bbfe7bb139f4b223f266":[7,0,2551,10],
-"de/db1/structRecoveryItem.html#afb02af58744af204181434f216fa7d8a":[7,0,2551,5],
-"de/db1/structnpc__dark__iron__attack__mole__machine.html":[7,0,1778],
-"de/db1/structnpc__dark__iron__attack__mole__machine.html#a0727aab751ddfbd94ae070e60e47e768":[7,0,1778,4],
-"de/db1/structnpc__dark__iron__attack__mole__machine.html#a1217ed510a846d011143ae0a386c6236":[7,0,1778,5]
+"de/db1/structRecoveryItem.html#acb85220f11388742df8f0904f81b9037":[7,0,2551,7]
 };

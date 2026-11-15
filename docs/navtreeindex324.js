@@ -1,5 +1,9 @@
 var NAVTREEINDEX324 =
 {
+"dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html#aed48a1ad923118ac0a86d864e1e98519":[7,0,2498,5,2],
+"dc/d26/DBCStore_8cpp.html":[8,0,0,0,1,4,0,5],
+"dc/d26/Trainer_8cpp.html":[8,0,0,0,1,2,16,1,10],
+"dc/d26/boss__zereketh__the__unbound_8cpp.html":[8,0,0,0,1,3,7,5,0,5],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#a0882a32bfa1f067701d921a72b7c79b5":[8,0,0,0,1,3,7,5,0,5,3],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,5,0,5,2],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298ca01c8d326e5347f6017bbe58a6bd868ca":[8,0,0,0,1,3,7,5,0,5,2,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX324 =
 "dc/d2a/black__temple_8h.html#a2629202f605d925b79e498906f3fe96d":[8,0,0,0,1,3,7,1,0,3],
 "dc/d2a/black__temple_8h.html#a2629202f605d925b79e498906f3fe96da327cde1f8f9908a139da6e4deb38dc76":[8,0,0,0,1,3,7,1,0,3,1],
 "dc/d2a/black__temple_8h.html#a2629202f605d925b79e498906f3fe96dafbbbab2f8978980f9da235869969c053":[8,0,0,0,1,3,7,1,0,3,0],
-"dc/d2a/black__temple_8h.html#a32b16118924e4b10aefafca72fff5e5f":[8,0,0,0,1,3,7,1,0,9],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999f":[8,0,0,0,1,3,7,1,0,6],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa0effff99f23ad7afa973c32e132667ac":[8,0,0,0,1,3,7,1,0,6,11],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa1eb13881675a3055393d334f54354a4b":[8,0,0,0,1,3,7,1,0,6,3],
-"dc/d2a/black__temple_8h.html#a57d2d4154291532e405ab880a40a999fa47530829a742dae04392ce6d9752e4f9":[8,0,0,0,1,3,7,1,0,6,6]
+"dc/d2a/black__temple_8h.html#a32b16118924e4b10aefafca72fff5e5f":[8,0,0,0,1,3,7,1,0,9]
 };

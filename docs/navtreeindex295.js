@@ -1,5 +1,9 @@
 var NAVTREEINDEX295 =
 {
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html":[7,0,766,0],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a033f10bba4ba89aa0111d4cb520540e6":[7,0,766,0,9],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a0c62ac244e57b1b90101e1ba89a60d27":[7,0,766,0,1],
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a136b51ede30d63d87228d35e8b6f2c7a":[7,0,766,0,4],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a22a8a7696fb23b9eab01d42cd45644de":[7,0,766,0,8],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd":[7,0,766,0,3],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a6ab1d215ed077883781b0c0188282c5e":[7,0,766,0,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX295 =
 "db/d41/classspell__brewfest__fill__keg.html#a30dcb608c20df17de9597ece1930d59d":[7,0,2757,2],
 "db/d41/classspell__brewfest__fill__keg.html#a4a3122d1b69baeae76f1ae3b6818bfb5":[7,0,2757,0],
 "db/d41/structnpc__midsummer__bonfire.html":[7,0,2014],
-"db/d41/structnpc__midsummer__bonfire.html#a07c8b1add555697fdb29fda89f42c4af":[7,0,2014,0],
-"db/d41/structnpc__midsummer__bonfire.html#a1236b61f21ff1a1b85bbc7058ca8e17c":[7,0,2014,6],
-"db/d41/structnpc__midsummer__bonfire.html#a1f8bd11d0f49c0a44764a2f34e6ee147":[7,0,2014,4],
-"db/d41/structnpc__midsummer__bonfire.html#a2a398299b3584e3a871b1b6e83b4ff5f":[7,0,2014,1],
-"db/d41/structnpc__midsummer__bonfire.html#a46733a171006e4693a32391cfe954050":[7,0,2014,5]
+"db/d41/structnpc__midsummer__bonfire.html#a07c8b1add555697fdb29fda89f42c4af":[7,0,2014,0]
 };

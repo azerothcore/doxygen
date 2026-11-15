@@ -1,5 +1,8 @@
 var NAVTREEINDEX153 =
 {
+"d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4":[7,0,1894,0,6],
+"d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a28899c61f9b4d3612535d1a01dc05f4a":[7,0,1894,0,3],
+"d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a4181022e52fc10e2d5d98dcffe9ced62":[7,0,1894,0,8],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a4a372a14c960c48c51a1c8e34ebffc53":[7,0,1894,0,1],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a5c31259d9eb26e09d2b645d826e75328":[7,0,1894,0,0],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6399e9c9ecdb8c01fbd2bcd1b081811f":[7,0,1894,0,4],
@@ -8,8 +11,8 @@ var NAVTREEINDEX153 =
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#ac1496627bdf326163256045bd068bc4f":[7,0,1894,0,7],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[7,0,0,5,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,0,8,0,14],
-"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[5,0,0,8,0,14,0],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[7,0,0,5,0,14,0],
+"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[5,0,0,8,0,14,0],
 "d5/d52/classspell__the__lich__king__defile.html":[7,0,4260],
 "d5/d52/classspell__the__lich__king__defile.html#a017ade08eca93f326d2e5115c4d88c33":[7,0,4260,0],
 "d5/d52/classspell__the__lich__king__defile.html#a3e1d1764add95728428cbf25f9b66dc4":[7,0,4260,2],
@@ -18,8 +21,8 @@ var NAVTREEINDEX153 =
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[7,0,4260,4],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,35,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[7,0,13,6,52],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,35,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[7,0,13,6,52,2],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,35,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[7,0,13,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,35,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[7,0,13,6,52,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX153 =
 "d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097eada033bee60af2e00ba29a0eb816e05b4":[8,0,0,0,1,2,16,1,7,12,7],
 "d5/d64/GossipDef_8h.html#a31ddf0cc0674d4ee32d9c78aa90b097eae07a18c34ba902a4166f8dd0852ef74e":[8,0,0,0,1,2,16,1,7,12,14],
 "d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685":[8,0,0,0,1,2,16,1,7,11],
-"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a35ef1e10e500bb33e7878bd4e38ab300":[8,0,0,0,1,2,16,1,7,11,13],
-"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a3f686edc9ae84372965b149e0c24e84d":[8,0,0,0,1,2,16,1,7,11,16],
-"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a4b8a8787c8959b7c3d66b38be8fbb285":[8,0,0,0,1,2,16,1,7,11,5],
-"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a546344f61a4e423bd9d67260a904312a":[8,0,0,0,1,2,16,1,7,11,15]
+"d5/d64/GossipDef_8h.html#a4ff0878c26b25ce1215db138efea8685a35ef1e10e500bb33e7878bd4e38ab300":[8,0,0,0,1,2,16,1,7,11,13]
 };

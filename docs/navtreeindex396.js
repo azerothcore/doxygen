@@ -1,5 +1,10 @@
 var NAVTREEINDEX396 =
 {
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caf2f1748e889c54c95cd307dad0a08df7":[8,0,0,0,1,3,7,1,4,8,16],
+"de/d97/boss__mother__shahraz_8cpp.html#a8f6047bf081000d04bc3e62773bb940d":[8,0,0,0,1,3,7,1,4,10],
+"de/d97/boss__mother__shahraz_8cpp.html#aa2f32f15b6262419a3ae65c1e03571b7":[8,0,0,0,1,3,7,1,4,11],
+"de/d97/boss__mother__shahraz_8cpp.html#affb3b1d0a5e58e190441a75a04fd086a":[8,0,0,0,1,3,7,1,4,12],
+"de/d97/classboss__tyrannus.html":[7,0,769],
 "de/d97/classboss__tyrannus.html#a81373192ffea8817cb72b80f4629da43":[7,0,769,1],
 "de/d97/classboss__tyrannus.html#ad107030de1427d070305f5dcef96c016":[7,0,769,2],
 "de/d98/classspell__gen__teleporting.html":[7,0,3171],
@@ -244,10 +249,5 @@ var NAVTREEINDEX396 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a023342cb709d481be52349ad4e539da3":[8,0,0,0,1,1,0,0,1,1,28],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a024fc37563f41acb30182ac4e6bf4f25":[8,0,0,0,1,1,0,0,1,1,484],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a02e681bab1b4acffbece38640e7161c3":[8,0,0,0,1,1,0,0,1,1,345],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a03591e9179e17b3b79cd9943b93a2ce2":[8,0,0,0,1,1,0,0,1,1,287],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a03d78d6ec30b99978eec5850d7f3219e":[8,0,0,0,1,1,0,0,1,1,171],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a044add3f6d55bdc067f7de35813930e9":[8,0,0,0,1,1,0,0,1,1,235],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a048a59f00c50adec60e7dd34a71c3a6c":[8,0,0,0,1,1,0,0,1,1,93],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a06daee42b7c2a3859725d756bd3ce9d5":[8,0,0,0,1,1,0,0,1,1,111],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a07b3a79022cf6d7028a6b5d240379f89":[8,0,0,0,1,1,0,0,1,1,360]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a03591e9179e17b3b79cd9943b93a2ce2":[8,0,0,0,1,1,0,0,1,1,287]
 };

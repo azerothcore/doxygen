@@ -1,5 +1,8 @@
 var NAVTREEINDEX149 =
 {
+"d5/d1b/classThreatManager.html#a0a10124e1f64f2f76453f8bc536caca6":[7,0,4596,10],
+"d5/d1b/classThreatManager.html#a0ac9eb8984fa512f63dd577d05845360":[7,0,4596,6],
+"d5/d1b/classThreatManager.html#a0f3ce318d1a106202562cf77405d9c09":[7,0,4596,28],
 "d5/d1b/classThreatManager.html#a16e07d97732f8e1e4a7c6dacf214db84":[7,0,4596,38],
 "d5/d1b/classThreatManager.html#a25aa066ba98678029d373def665bfb42":[7,0,4596,68],
 "d5/d1b/classThreatManager.html#a28082594272f1862847e7aef13da83df":[7,0,4596,84],
@@ -246,8 +249,5 @@ var NAVTREEINDEX149 =
 "d5/d23/structnpc__fos__corrupted__soul__fragment.html#a8dd94bd36392c75c4971aa50b83a5ada":[7,0,1838,2],
 "d5/d23/structnpc__fos__corrupted__soul__fragment.html#ad318f80454cf17b2b9d39a02a83e6e92":[7,0,1838,1],
 "d5/d24/MailMgr_8cpp.html":[8,0,0,0,1,2,25,2],
-"d5/d24/structboss__gehennas.html":[7,0,512],
-"d5/d24/structboss__gehennas.html#aa11c5e8facc17b03220595a61045036f":[7,0,512,1],
-"d5/d24/structboss__gehennas.html#ab533dfd33dfcc42b1c282340e77ed979":[7,0,512,0],
-"d5/d24/structboss__gehennas.html#af4f3b198a1a606efe829376b4515c7bc":[7,0,512,2]
+"d5/d24/structboss__gehennas.html":[7,0,512]
 };

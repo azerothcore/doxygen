@@ -1,5 +1,10 @@
 var NAVTREEINDEX395 =
 {
+"de/d8c/classspell__sha__sentry__totem.html#aa266e794be35b51a399b13ee2d06199d":[7,0,4151,2],
+"de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[7,0,4151,0],
+"de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[7,0,4151,1],
+"de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[7,0,4151,3],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[7,0,0,5,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,0,8,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[7,0,0,5,0,26,0],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[5,0,0,8,0,26,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX395 =
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad37a8f1111ab88a25c6222a817839f2d":[8,0,0,0,1,3,7,1,4,8,4],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad80cddb5c773432a1c1e568c56fd784e":[8,0,0,0,1,3,7,1,4,8,5],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cadc1698100d98eeecb36b674a45bb6882":[8,0,0,0,1,3,7,1,4,8,3],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caee23d696e0b1a8b4c5ebe94b68ce4d23":[8,0,0,0,1,3,7,1,4,8,12],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caf2f1748e889c54c95cd307dad0a08df7":[8,0,0,0,1,3,7,1,4,8,16],
-"de/d97/boss__mother__shahraz_8cpp.html#a8f6047bf081000d04bc3e62773bb940d":[8,0,0,0,1,3,7,1,4,10],
-"de/d97/boss__mother__shahraz_8cpp.html#aa2f32f15b6262419a3ae65c1e03571b7":[8,0,0,0,1,3,7,1,4,11],
-"de/d97/boss__mother__shahraz_8cpp.html#affb3b1d0a5e58e190441a75a04fd086a":[8,0,0,0,1,3,7,1,4,12],
-"de/d97/classboss__tyrannus.html":[7,0,769]
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caee23d696e0b1a8b4c5ebe94b68ce4d23":[8,0,0,0,1,3,7,1,4,8,12]
 };

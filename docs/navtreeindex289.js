@@ -1,8 +1,12 @@
 var NAVTREEINDEX289 =
 {
-"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caf690bf35b5c6595d363f51e9c549bdd5":[8,0,0,0,1,3,5,2,1,6,9,37],
-"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caf7450338b09408688119d3a7924e3c21":[8,0,0,0,1,3,5,2,1,6,9,44],
-"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cafa78ae1836f41b9a03c37956f021aadb":[8,0,0,0,1,3,5,2,1,6,9,33],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cae5fc240df760986c07b6e1e360e55397":[8,0,0,0,1,3,5,2,1,6,9,0],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caebb60322b40191c0a110780db6fd61aa":[8,0,0,0,1,3,5,2,1,6,9,14],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caed1874ed9e90ee73e5b885da4ca866c5":[8,0,0,0,1,3,5,2,1,6,9,5],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caf6581cb88629c8413869304ac7cc465d":[8,0,0,0,1,3,5,2,1,6,9,10],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caf690bf35b5c6595d363f51e9c549bdd5":[8,0,0,0,1,3,5,2,1,6,9,38],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caf7450338b09408688119d3a7924e3c21":[8,0,0,0,1,3,5,2,1,6,9,45],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cafa78ae1836f41b9a03c37956f021aadb":[8,0,0,0,1,3,5,2,1,6,9,34],
 "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cafbb36f076189caf98d6e60a370aeb4d3":[8,0,0,0,1,3,5,2,1,6,9,1],
 "da/de8/trial__of__the__crusader_8h.html#a7e4250fe656a3a8203945083084977f1":[8,0,0,0,1,3,5,2,1,6,17],
 "da/de8/trial__of__the__crusader_8h.html#a8b3538aefe50c563922daa87d66869a7":[8,0,0,0,1,3,5,2,1,6,12],
@@ -245,9 +249,5 @@ var NAVTREEINDEX289 =
 "da/def/structItemExtendedCostEntry.html#ad1e4b8f94a743bac02bbadbc8d62ad0b":[7,0,1428,2],
 "da/def/structItemExtendedCostEntry.html#af4ff8d55234b03637e4b2fbd10778e97":[7,0,1428,6],
 "da/def/structSpellCooldown.html":[7,0,4488],
-"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[7,0,4488,2],
-"da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[7,0,4488,5],
-"da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[7,0,4488,4],
-"da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[7,0,4488,1],
-"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[7,0,4488,3]
+"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[7,0,4488,2]
 };

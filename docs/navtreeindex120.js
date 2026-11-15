@@ -1,5 +1,6 @@
 var NAVTREEINDEX120 =
 {
+"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca851e17b984a969719e51b8a39136c6f0":[8,0,0,0,1,3,3,4,22,41],
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca8e9749886dff6cce5dec43c308a0e268":[8,0,0,0,1,3,3,4,22,14],
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca8f0da4290446e11c4aa8e0bea515ba8b":[8,0,0,0,1,3,3,4,22,16],
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca8fc7b6ce65e3de6559b48e2276bff8de":[8,0,0,0,1,3,3,4,22,37],
@@ -154,12 +155,12 @@ var NAVTREEINDEX120 =
 "d3/df0/classinstance__serpent__shrine.html#aac4fc7113307805138ba4ce4a9adff09":[7,0,1374,1],
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html":[5,0,35,14,5],
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html":[7,0,13,14,5],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a1c09d090cd3b7fc73becca4f523141f6":[7,0,13,14,5,3],
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a1c09d090cd3b7fc73becca4f523141f6":[5,0,35,14,5,3],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a5c4d887fd352e97c10a52bb095d8e33d":[7,0,13,14,5,2],
+"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a1c09d090cd3b7fc73becca4f523141f6":[7,0,13,14,5,3],
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a5c4d887fd352e97c10a52bb095d8e33d":[5,0,35,14,5,2],
-"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a97d19e4fe5ccc50afaf91d58321d31ec":[7,0,13,14,5,1],
+"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a5c4d887fd352e97c10a52bb095d8e33d":[7,0,13,14,5,2],
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a97d19e4fe5ccc50afaf91d58321d31ec":[5,0,35,14,5,1],
+"d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#a97d19e4fe5ccc50afaf91d58321d31ec":[7,0,13,14,5,1],
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#aec524e18a6a0fb666061bd08b17ff9cb":[5,0,35,14,5,0],
 "d3/df2/classWorldPackets_1_1Quest_1_1QuestGiverQuestFailed.html#aec524e18a6a0fb666061bd08b17ff9cb":[7,0,13,14,5,0],
 "d3/df2/structboss__essence__of__suffering_1_1boss__essence__of__sufferingAI.html":[7,0,468,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX120 =
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298ca796d17cd19517115c8d6e16fd9b442ee":[8,0,0,0,1,3,5,6,5,22,5],
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298ca7cd06541341ea57417352a7bd9623088":[8,0,0,0,1,3,5,6,5,22,17],
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298ca8698e3687e5bc1e0b78f57bfca6fc992":[8,0,0,0,1,3,5,6,5,22,22],
-"d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298ca8866ff6d028ff508e6c824a83f4f8213":[8,0,0,0,1,3,5,6,5,22,30],
-"d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298ca88679ad11a6c087af46d67b8e596923c":[8,0,0,0,1,3,5,6,5,22,12]
+"d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298ca8866ff6d028ff508e6c824a83f4f8213":[8,0,0,0,1,3,5,6,5,22,30]
 };

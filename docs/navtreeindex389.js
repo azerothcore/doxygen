@@ -1,5 +1,10 @@
 var NAVTREEINDEX389 =
 {
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a78487c40e5d16fe2c12284e626e4d64f":[8,0,0,0,1,3,2,15,9,2,2],
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbb1ad9fdaab74030a4d9919093b2a07":[8,0,0,0,1,3,2,15,9,2,0],
+"de/d44/classspell__sha__t8__elemental__4p__bonus.html":[7,0,4161],
+"de/d44/classspell__sha__t8__elemental__4p__bonus.html#a5a0f0e1558c1d4c687b94fe8874512ef":[7,0,4161,2],
+"de/d44/classspell__sha__t8__elemental__4p__bonus.html#a8461f9dc90d1df9a91350d3e277fffeb":[7,0,4161,3],
 "de/d44/classspell__sha__t8__elemental__4p__bonus.html#a8b19c9d128d568be695f985e5ed28b2d":[7,0,4161,1],
 "de/d44/classspell__sha__t8__elemental__4p__bonus.html#aa28268bdb7e3063cff0880baefe02824":[7,0,4161,0],
 "de/d44/structDBCDatabaseLoader.html":[7,0,991],
@@ -244,10 +249,5 @@ var NAVTREEINDEX389 =
 "de/d53/structboss__blackheart__the__inciter.html#add75633d1c04d0be91e7e80f28213917":[7,0,416,5],
 "de/d54/structnpc__andorhal__tower_1_1npc__andorhal__towerAI.html":[7,0,1646,0],
 "de/d54/structnpc__andorhal__tower_1_1npc__andorhal__towerAI.html#a1165ee0e066dcaeb300096e55758389b":[7,0,1646,0,1],
-"de/d54/structnpc__andorhal__tower_1_1npc__andorhal__towerAI.html#ad2f8a14f2adfe1418a23de274493f85e":[7,0,1646,0,0],
-"de/d55/StartProcess_8cpp.html":[8,0,0,0,0,15,26],
-"de/d55/StartProcess_8cpp.html#a021f51138f5726e712f00bdddf9be729":[8,0,0,0,0,15,26,5],
-"de/d55/StartProcess_8cpp.html#a18bbd8a6717e647e963654123259a033":[8,0,0,0,0,15,26,2],
-"de/d55/StartProcess_8cpp.html#a9de098dac5e38f8c2cdbeb1d4d706881":[8,0,0,0,0,15,26,4],
-"de/d55/StartProcess_8cpp.html#acfaf2f89a55d299aa04c494719dfedc8":[8,0,0,0,0,15,26,6]
+"de/d54/structnpc__andorhal__tower_1_1npc__andorhal__towerAI.html#ad2f8a14f2adfe1418a23de274493f85e":[7,0,1646,0,0]
 };

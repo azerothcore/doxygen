@@ -1,5 +1,10 @@
 var NAVTREEINDEX401 =
 {
+"de/db1/structRecoveryItem.html#af479923b65c9bbfe7bb139f4b223f266":[7,0,2551,10],
+"de/db1/structRecoveryItem.html#afb02af58744af204181434f216fa7d8a":[7,0,2551,5],
+"de/db1/structnpc__dark__iron__attack__mole__machine.html":[7,0,1778],
+"de/db1/structnpc__dark__iron__attack__mole__machine.html#a0727aab751ddfbd94ae070e60e47e768":[7,0,1778,4],
+"de/db1/structnpc__dark__iron__attack__mole__machine.html#a1217ed510a846d011143ae0a386c6236":[7,0,1778,5],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a2be5de913ca9d472a31cd44c07bcde57":[7,0,1778,3],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a4713da02f4a86547a0f796167e24d8bb":[7,0,1778,7],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html#a473a8fb4905e5d1333196797d7d0f371":[7,0,1778,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX401 =
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html#a0515a72abd37df13606876021659b995":[7,0,2725,1],
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html#a99f96034b5976615c38e13e5e55c61b6":[7,0,2725,0],
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html#ad7c8338ae3f3e6680405652c3e5f7f06":[7,0,2725,2],
-"de/dc0/structBattlegroundTemplate.html":[7,0,357],
-"de/dc0/structBattlegroundTemplate.html#a0fca37318585903f68695452a95011a9":[7,0,357,2],
-"de/dc0/structBattlegroundTemplate.html#a324a4e557ce66089ec1111a9dae6e1de":[7,0,357,4],
-"de/dc0/structBattlegroundTemplate.html#a49fdf96a08376830a06956fd501cfa78":[7,0,357,6],
-"de/dc0/structBattlegroundTemplate.html#a51ce3b9fdb2f51f439fee7c8b48e3918":[7,0,357,1],
-"de/dc0/structBattlegroundTemplate.html#a5fbb1a76221e9d15bd7cca13581f7b14":[7,0,357,5]
+"de/dc0/structBattlegroundTemplate.html":[7,0,357]
 };

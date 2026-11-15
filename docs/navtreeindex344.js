@@ -1,5 +1,9 @@
 var NAVTREEINDEX344 =
 {
+"dc/dfa/structboss__twinemperorsAI.html#a2b5e585749b7a59663813c7a9d56c223":[7,0,768,2],
+"dc/dfa/structboss__twinemperorsAI.html#a4d9e07fd3f682a24332d0aabe6c55f8f":[7,0,768,9],
+"dc/dfa/structboss__twinemperorsAI.html#a9cc74619908c2aa9f8deda2689616735":[7,0,768,6],
+"dc/dfa/structboss__twinemperorsAI.html#aaa52e01bfeff824345f7b9c7346e8aef":[7,0,768,8],
 "dc/dfa/structboss__twinemperorsAI.html#ab5a1b28405c38ece65f5ee145e472de8":[7,0,768,3],
 "dc/dfa/structboss__twinemperorsAI.html#ab9a279e9ba3bb057268602be7368ffe4":[7,0,768,7],
 "dc/dfa/structboss__twinemperorsAI.html#acdccdde2ee573f51e1783ea493577258":[7,0,768,5],
@@ -236,8 +240,8 @@ var NAVTREEINDEX344 =
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a93818ec97cfd47da1dee454bb0a9318c":[7,0,3267,2],
 "dd/d07/structlfg_1_1LfgReward.html":[5,0,18,15],
 "dd/d07/structlfg_1_1LfgReward.html":[7,0,5,15],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[7,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,18,15,1],
+"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[7,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[7,0,5,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,18,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,18,15,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX344 =
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[7,0,5,15,0],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,18,15,0],
 "dd/d08/classspell__electrial__storm.html":[7,0,2973],
-"dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[7,0,2973,2],
-"dd/d08/classspell__electrial__storm.html#a9888c598c4d6cf77c49e15f68c3db225":[7,0,2973,0],
-"dd/d08/classspell__electrial__storm.html#ac2db8f8d9b778a0a36081c897f4149cb":[7,0,2973,3],
-"dd/d08/classspell__electrial__storm.html#ad4044dcd8c88eba88d032a96ca79dc4c":[7,0,2973,1],
-"dd/d08/structboss__grilek_1_1boss__grilekAI.html":[7,0,526,0]
+"dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[7,0,2973,2]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX418 =
 {
+"df/d7f/structboss__novos.html#ae6c7721cfc95e8a524ea3d2fc4e20a88":[7,0,657,15],
+"df/d7f/structboss__novos.html#af37e7d05ad672d443f7f2f89c7fd24a5":[7,0,657,11],
+"df/d81/classspell__dk__wandering__plague.html":[7,0,2886],
+"df/d81/classspell__dk__wandering__plague.html#a3aaf93f3746b36d5bfa4fc475aabe43b":[7,0,2886,2],
+"df/d81/classspell__dk__wandering__plague.html#a8cf5e4224f46b6f836d517f90fd135d4":[7,0,2886,1],
 "df/d81/classspell__dk__wandering__plague.html#adab73c94c659d7421c9c6887d956cd83":[7,0,2886,0],
 "df/d81/cs__chatfilter_8cpp.html":[8,0,0,0,1,3,0,10],
 "df/d81/cs__chatfilter_8cpp.html#aee5ca3527878cd26d04712c7dc6b8611":[8,0,0,0,1,3,0,10,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX418 =
 "df/d89/SkillDiscovery_8cpp.html#abdf3c2fcf65212466dfb54053e35024c":[8,0,0,0,1,2,40,0,5],
 "df/d89/SkillDiscovery_8cpp.html#addd95f0a239a27ed32cd943aa1052019":[8,0,0,0,1,2,40,0,6],
 "df/d8a/classboss__baroness__anastari.html":[7,0,412],
-"df/d8a/classboss__baroness__anastari.html#a38073f80afbceb5535cc18ab524378a6":[7,0,412,2],
-"df/d8a/classboss__baroness__anastari.html#a60f04c10d9b942cacf74a1dc8364dbbe":[7,0,412,1],
-"df/d8b/WardenPayloadMgr_8cpp.html":[8,0,0,0,1,2,47,8],
-"df/d8b/classspell__item__rocket__chicken.html":[7,0,3503],
-"df/d8b/classspell__item__rocket__chicken.html#a000f8fd84e7292ac759b64a8a25d3ca2":[7,0,3503,0],
-"df/d8b/classspell__item__rocket__chicken.html#a2848e44f1520cc32af916a8e6578c3ea":[7,0,3503,1]
+"df/d8a/classboss__baroness__anastari.html#a38073f80afbceb5535cc18ab524378a6":[7,0,412,2]
 };

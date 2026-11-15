@@ -1,5 +1,10 @@
 var NAVTREEINDEX393 =
 {
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ae9d975b95e389fb8035d337bd1da70c4":[7,0,1395,0,24],
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aeb31bb99804ca856339d54e1054db632":[7,0,1395,0,8],
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aeb9c936614467ac83b8be6b4c17c23ca":[7,0,1395,0,19],
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aef93d0b1ecc6c7d252409f025e12ff1d":[7,0,1395,0,2],
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#af3c9652f2d8834357e8f3788914de294":[7,0,1395,0,27],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#af62979800a5a262ff5f4fba546c64c59":[7,0,1395,0,5],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#afb44bdf61319bea21975898f9be0adac":[7,0,1395,0,0],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html":[7,0,1624,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX393 =
 "de/d7e/classnpc__muradin__bronzebeard__icc.html":[7,0,2030],
 "de/d7e/classnpc__muradin__bronzebeard__icc.html#a46c4893be723a848d985ff55e28d55a2":[7,0,2030,4],
 "de/d7e/classnpc__muradin__bronzebeard__icc.html#a7e4cecb0f4cabf024794045ed20e3563":[7,0,2030,1],
-"de/d7e/classnpc__muradin__bronzebeard__icc.html#a7fb9838521dbae6ac0a8bb4ac1e07c37":[7,0,2030,3],
-"de/d7e/classnpc__muradin__bronzebeard__icc.html#ab2b6a0bb1b8626e5a4064b9412234f4b":[7,0,2030,2],
-"de/d7f/boss__exarch__maladaar_8cpp.html":[8,0,0,0,1,3,7,0,0,1],
-"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,0,0,1,3],
-"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0260b9413bf0f27c7d72a77a2df65622":[8,0,0,0,1,3,7,0,0,1,3,13],
-"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b41ef3af71d15719535ced60a0de398":[8,0,0,0,1,3,7,0,0,1,3,4]
+"de/d7e/classnpc__muradin__bronzebeard__icc.html#a7fb9838521dbae6ac0a8bb4ac1e07c37":[7,0,2030,3]
 };

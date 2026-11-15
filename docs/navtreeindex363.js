@@ -1,5 +1,10 @@
 var NAVTREEINDEX363 =
 {
+"dd/dcb/classChaseMovementGenerator.html#a529672fc598fa3c38cbf309c4e95c7bc":[7,0,890,4],
+"dd/dcb/classChaseMovementGenerator.html#a54601925140f09b330caaba240a43037":[7,0,890,8],
+"dd/dcb/classChaseMovementGenerator.html#a54e73981951bb609a81ab261e22a316e":[7,0,890,7],
+"dd/dcb/classChaseMovementGenerator.html#a6aa7761c76b70e6a171696f1afaac141":[7,0,890,5],
+"dd/dcb/classChaseMovementGenerator.html#a802b80cc6ae928821c06121001365db6":[7,0,890,6],
 "dd/dcb/classChaseMovementGenerator.html#a80f2f31af93c87371208f2febd03f698":[7,0,890,21],
 "dd/dcb/classChaseMovementGenerator.html#a81cb99fcec507afb4b0dc8d8a3081cdc":[7,0,890,18],
 "dd/dcb/classChaseMovementGenerator.html#a8eae21b6df1513ecd17407d59bf52fb2":[7,0,890,26],
@@ -244,10 +249,5 @@ var NAVTREEINDEX363 =
 "dd/dd3/zone__netherstorm_8cpp.html#af51d6fe8cee4df374fd97aee6f3b65ca":[8,0,0,0,1,3,7,12,18],
 "dd/dd4/classBattlegroundEY.html":[7,0,338],
 "dd/dd4/classBattlegroundEY.html#a0150b390b2e3107d0c5a4e73b9676174":[7,0,338,28],
-"dd/dd4/classBattlegroundEY.html#a019b1c6bbcc16fb7723dec92115cd2f0":[7,0,338,10],
-"dd/dd4/classBattlegroundEY.html#a2874eadcf5031b6841f68c0e167cde0d":[7,0,338,8],
-"dd/dd4/classBattlegroundEY.html#a2d8ae1fcfade0c8708cfb38542f4b926":[7,0,338,44],
-"dd/dd4/classBattlegroundEY.html#a339332b31cdd306910baf139b97d13f7":[7,0,338,38],
-"dd/dd4/classBattlegroundEY.html#a3aba31ef0af6e0a389729e4cf98df213":[7,0,338,14],
-"dd/dd4/classBattlegroundEY.html#a3e8a6ae28bb6956f24f4fba79079b899":[7,0,338,19]
+"dd/dd4/classBattlegroundEY.html#a019b1c6bbcc16fb7723dec92115cd2f0":[7,0,338,10]
 };

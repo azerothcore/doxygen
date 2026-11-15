@@ -1,5 +1,10 @@
 var NAVTREEINDEX431 =
 {
+"df/ddc/classTaskScheduler.html#a0d12cd444cf5319cc2a22fce53158cdc":[7,0,4580,33],
+"df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830":[7,0,4580,40],
+"df/ddc/classTaskScheduler.html#a0e14d7b24d018a41c9dc849e1421d5e7":[7,0,4580,12],
+"df/ddc/classTaskScheduler.html#a0e4b7eea4d37cf6d9ae66330d6349626":[7,0,4580,17],
+"df/ddc/classTaskScheduler.html#a16b63643c58023c8e22f75e5782af4bf":[7,0,4580,20],
 "df/ddc/classTaskScheduler.html#a1a4145dfbe6e4914a05ddfe6895a2272":[7,0,4580,26],
 "df/ddc/classTaskScheduler.html#a32b427f48c112891c6914243975d75e5":[7,0,4580,44],
 "df/ddc/classTaskScheduler.html#a34a5818482e3b5c4dd804c559badc988":[7,0,4580,31],
@@ -244,10 +249,5 @@ var NAVTREEINDEX431 =
 "df/de9/classspell__pri__power__word__shield.html#aaf1e16dbc8d33aadcbf74dc4cebe715b":[7,0,3872,1],
 "df/dea/classspell__mt__phoenix__burn.html":[7,0,3734],
 "df/dea/classspell__mt__phoenix__burn.html#a45726adacf1d30b5488df54f57447c0c":[7,0,3734,2],
-"df/dea/classspell__mt__phoenix__burn.html#a5ca38a2828359e4f373323d1d6cc91cf":[7,0,3734,0],
-"df/dea/classspell__mt__phoenix__burn.html#aa0956db2d03405a54893bc30516f5839":[7,0,3734,1],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html":[7,0,2155,0],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a68b4e823de82fdfd31ccf765192e8768":[7,0,2155,0,1],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7b412075e17a81bf50aba63f96c16e53":[7,0,2155,0,0],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7bb99a6ff894c085bf3fb2e2708f3914":[7,0,2155,0,3]
+"df/dea/classspell__mt__phoenix__burn.html#a5ca38a2828359e4f373323d1d6cc91cf":[7,0,3734,0]
 };

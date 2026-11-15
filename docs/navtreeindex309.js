@@ -1,5 +1,9 @@
 var NAVTREEINDEX309 =
 {
+"db/dae/npcs__special_8cpp.html#a7012b6bccc20490eff177e86e177f138":[8,0,0,0,1,3,10,14,67],
+"db/dae/npcs__special_8cpp.html#a7012b6bccc20490eff177e86e177f138aed889913f94673dee52649a98643507f":[8,0,0,0,1,3,10,14,67,0],
+"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70":[8,0,0,0,1,3,10,14,53],
+"db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a04ac18a6a9e18c99748ebc043eceb43c":[8,0,0,0,1,3,10,14,53,3],
 "db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a0d56e33d93a59f8fc434430256e433c8":[8,0,0,0,1,3,10,14,53,0],
 "db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a66545b36633f24cc05333d976b7da411":[8,0,0,0,1,3,10,14,53,4],
 "db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70a8715715b3195ecb4b951f725b8fbbf75":[8,0,0,0,1,3,10,14,53,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX309 =
 "db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1":[7,0,2498,22],
 "db/db8/classProcChanceTestHelper.html#a57d351c38a433d00432bbb97a40b6a27":[7,0,2498,9],
 "db/db8/classProcChanceTestHelper.html#a5fe1998243d3c2d6ebf5969a8a8fe971":[7,0,2498,38],
-"db/db8/classProcChanceTestHelper.html#a60e65cf6041a78aef313c020578c83ac":[7,0,2498,37],
-"db/db8/classProcChanceTestHelper.html#a6f7564c8a12d1531afe97c4f61fb23ac":[7,0,2498,17],
-"db/db8/classProcChanceTestHelper.html#a7439889744f4ef6e5c8e38d0c29760a4":[7,0,2498,33],
-"db/db8/classProcChanceTestHelper.html#a7e6ac7a1826cb4120992404ba8f1a277":[7,0,2498,39],
-"db/db8/classProcChanceTestHelper.html#a8dc56ead24e175f021aacf33410b8dbb":[7,0,2498,35]
+"db/db8/classProcChanceTestHelper.html#a60e65cf6041a78aef313c020578c83ac":[7,0,2498,37]
 };

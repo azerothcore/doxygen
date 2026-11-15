@@ -1,5 +1,9 @@
 var NAVTREEINDEX293 =
 {
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a60a12ecf7b0c16a82500a97110ff35f0":[8,0,0,0,1,3,9,6,56,46],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a627e056f1e358280c4dc2228d5ddbfb9":[8,0,0,0,1,3,9,6,56,37],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a697a5e4a77394f256b6980c0e568794e":[8,0,0,0,1,3,9,6,56,33],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a78a441de6d3c3b036bb89494d0eef94c":[8,0,0,0,1,3,9,6,56,9],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a7996ccbd740716b0ed0638d9d6f6f2f5":[8,0,0,0,1,3,9,6,56,19],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a838fe12702dda38a84230bec6ce2b931":[8,0,0,0,1,3,9,6,56,27],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a84d4d85a0afb339915b83ecbe1010e2e":[8,0,0,0,1,3,9,6,56,34],
@@ -245,9 +249,5 @@ var NAVTREEINDEX293 =
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da4eaae19baddf8ab426245103b1b1a787":[8,0,0,0,1,3,2,6,0,4,14],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da796b706e47dfba7ed75c2a50fa6e5049":[8,0,0,0,1,3,2,6,0,4,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da7b72b0513276e238ed628675f9a94525":[8,0,0,0,1,3,2,6,0,4,2],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb":[8,0,0,0,1,3,2,6,0,4,3],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8e2388060767c7b7c9b92bf1fdf2e4bf":[8,0,0,0,1,3,2,6,0,4,10],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da8fa65942006de89d67161a7b198cc645":[8,0,0,0,1,3,2,6,0,4,6],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da92a50d1f1606f4f249ee05de65e2c3b5":[8,0,0,0,1,3,2,6,0,4,12],
-"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da99fb6334a74eb255ea0b762a807f9587":[8,0,0,0,1,3,2,6,0,4,0]
+"db/d20/instance__scarlet__monastery_8cpp.html#a19acf5cf631b82922ff0a2ca3149ee9da84ff7f1a4f2833a87f59e7149bd373bb":[8,0,0,0,1,3,2,6,0,4,3]
 };

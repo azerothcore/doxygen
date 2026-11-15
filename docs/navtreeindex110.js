@@ -1,5 +1,6 @@
 var NAVTREEINDEX110 =
 {
+"d3/da1/npc__professions_8cpp.html#a7af7c75f26678e90f307515732b5a3d7":[8,0,0,0,1,3,10,10,8],
 "d3/da1/npc__professions_8cpp.html#a7c9fe875cf1d066558c2200d9a892cd7":[8,0,0,0,1,3,10,10,20],
 "d3/da1/npc__professions_8cpp.html#a7d255b0fd87a48149f13de5648285ccb":[8,0,0,0,1,3,10,10,41],
 "d3/da1/npc__professions_8cpp.html#a7e92909c5d948e97e5d702521ff4493d":[8,0,0,0,1,3,10,10,11],
@@ -134,8 +135,8 @@ var NAVTREEINDEX110 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[7,0,3128,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[7,0,3128,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[7,0,3128,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[7,0,2,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,7,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[7,0,2,0,1],
 "d3/da8/chat__log_8cpp.html":[8,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[8,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[7,0,205],
@@ -248,6 +249,5 @@ var NAVTREEINDEX110 =
 "d3/da9/classWorldState.html#ac1fd33de5296c57eaa4beea933fb55fc":[7,0,4756,40],
 "d3/da9/classWorldState.html#ac4c3fd1a5f033ace408dfe719b5e78b4":[7,0,4756,65],
 "d3/da9/classWorldState.html#ac4c45cd6d06a2f7e103d8e13c07f5656":[7,0,4756,56],
-"d3/da9/classWorldState.html#ad14e01bcb94b4edea5d2515cf6cf0868":[7,0,4756,1],
-"d3/da9/classWorldState.html#adcfb88f8c931e68b98bfd2f06ce1cee5":[7,0,4756,10]
+"d3/da9/classWorldState.html#ad14e01bcb94b4edea5d2515cf6cf0868":[7,0,4756,1]
 };

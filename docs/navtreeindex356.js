@@ -1,10 +1,14 @@
 var NAVTREEINDEX356 =
 {
+"dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#add5273640d1504c69395c71d495a3deb":[5,0,0,4,4,22],
+"dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#adddd53dfcb2d933c6fa7fd7956f6c7c3":[5,0,0,4,4,21],
+"dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#adddd53dfcb2d933c6fa7fd7956f6c7c3":[7,0,0,2,4,21],
 "dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#adf160be38247f3335e2790c13011e8eb":[7,0,0,2,4,13],
-"dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#ae10b48d44b72d117fdc0a8ad7b4d026f":[5,0,0,4,4,11],
+"dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#adf160be38247f3335e2790c13011e8eb":[5,0,0,4,4,13],
 "dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#ae10b48d44b72d117fdc0a8ad7b4d026f":[7,0,0,2,4,11],
-"dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#afa40dc69a75bfd7c16f3d884c400aebb":[5,0,0,4,4,18],
+"dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#ae10b48d44b72d117fdc0a8ad7b4d026f":[5,0,0,4,4,11],
 "dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#afa40dc69a75bfd7c16f3d884c400aebb":[7,0,0,2,4,18],
+"dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#afa40dc69a75bfd7c16f3d884c400aebb":[5,0,0,4,4,18],
 "dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#afae4839b42283dc258817a0d300b4bca":[5,0,0,4,4,0],
 "dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#afae4839b42283dc258817a0d300b4bca":[7,0,0,2,4,0],
 "dd/d8b/classMotdMgr.html":[7,0,1578],
@@ -227,6 +231,7 @@ var NAVTREEINDEX356 =
 "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad7d2a4a9a9e50488891a21c446f7736fa6e3210d4c9f7a5afb8bfc604f4e5132c":[8,0,0,0,1,3,5,2,1,5,2,3],
 "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad7d2a4a9a9e50488891a21c446f7736fa8d26c330ee3df2c044c9407a916b040e":[8,0,0,0,1,3,5,2,1,5,2,1],
 "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad7d2a4a9a9e50488891a21c446f7736fad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,5,2,1,5,2,0],
+"dd/d8d/instance__trial__of__the__crusader_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[8,0,0,0,1,3,5,2,1,5,8],
 "dd/d8d/instance__trial__of__the__crusader_8cpp.html#af823cabf441f9e6a5443da42df4fda4f":[8,0,0,0,1,3,5,2,1,5,4],
 "dd/d8d/structboss__halycon.html":[7,0,537],
 "dd/d8d/structboss__halycon.html#a3b972bfcac3498c921978eab1d8fec4f":[7,0,537,3],
@@ -234,8 +239,8 @@ var NAVTREEINDEX356 =
 "dd/d8d/structboss__halycon.html#a48bd1245ac5b76dac543a4389a8b37be":[7,0,537,1],
 "dd/d8d/structboss__halycon.html#a8a88f0d26b4702fd1b4f015cc1366362":[7,0,537,0],
 "dd/d8d/structboss__halycon.html#acc375743131ce5643d04ae355b6d68b4":[7,0,537,4],
-"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[5,0,35,13,3],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[7,0,13,13,3],
+"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[5,0,35,13,3],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[5,0,35,13,3,0],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[7,0,13,13,3,0],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[7,0,13,13,3,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX356 =
 "dd/d8e/classspell__gen__despawn__self.html#a738318535196b3d55e8f1b3da4f76c95":[7,0,3075,1],
 "dd/d8e/classspell__gen__despawn__self.html#a9037eddf4c9ce96c15c57e8906bd9a5f":[7,0,3075,0],
 "dd/d8e/classspell__gen__despawn__self.html#a941a097124ed9b4917faa18ff23fc366":[7,0,3075,2],
-"dd/d8e/classspell__gen__despawn__self.html#aaf9d269e7d052515f31b463999e92cf4":[7,0,3075,3],
-"dd/d8f/classnpc__living__poison.html":[7,0,1985],
-"dd/d8f/classnpc__living__poison.html#a277440068846eac71c795880a16475dd":[7,0,1985,0],
-"dd/d8f/classnpc__living__poison.html#a2a6af8a9ef14e65ba9e44f2228b09ba5":[7,0,1985,1],
-"dd/d8f/classspell__gen__blade__warding.html":[7,0,3050],
-"dd/d8f/classspell__gen__blade__warding.html#a66c3458e88ab5802e10445df3aeb52f6":[7,0,3050,1]
+"dd/d8e/classspell__gen__despawn__self.html#aaf9d269e7d052515f31b463999e92cf4":[7,0,3075,3]
 };

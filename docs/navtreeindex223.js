@@ -1,5 +1,8 @@
 var NAVTREEINDEX223 =
 {
+"d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a4831e1325e329922191764bcbb6b0b03":[8,0,0,0,1,2,16,10,6,13,17],
+"d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a4a63c1797aec8c73e2d6a48359a204e2":[8,0,0,0,1,2,16,10,6,13,10],
+"d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a4c872a12042179aa4ae53d3f5e54b5c2":[8,0,0,0,1,2,16,10,6,13,13],
 "d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a59096e3d543ac78cc5b57c9b88b79c03":[8,0,0,0,1,2,16,10,6,13,25],
 "d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a61338f487648d7d4fadaa8480d623593":[8,0,0,0,1,2,16,10,6,13,32],
 "d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a62a8d5eb007ebec4e8dae0d8a6e076a5":[8,0,0,0,1,2,16,10,6,13,0],
@@ -147,8 +150,8 @@ var NAVTREEINDEX223 =
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,0,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,0,7,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[7,0,0,4,0,2,1],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,0,7,0,2,0],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[7,0,0,4,0,2,0],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,0,7,0,2,0],
 "d7/dfd/Argon2_8cpp.html":[8,0,0,0,0,3,5],
 "d7/dfe/World_8cpp.html":[4,2,4],
 "d7/dfe/classLootValidatorRef.html":[7,0,1502],
@@ -246,8 +249,5 @@ var NAVTREEINDEX223 =
 "d8/d03/LootMgr_8cpp.html#abbe10d61650265aabbc5de5685a8b9bb":[8,0,0,0,1,2,24,2,25],
 "d8/d03/LootMgr_8cpp.html#ac7f789f6da959300694693d249113e9f":[8,0,0,0,1,2,24,2,15],
 "d8/d03/LootMgr_8cpp.html#aec1cdee51afe09234ba6b2d917c21916":[8,0,0,0,1,2,24,2,13],
-"d8/d03/LootMgr_8cpp.html#af45baef147256b11372c092b0ac53f91":[8,0,0,0,1,2,24,2,19],
-"d8/d03/structDungeonEncounterEntry.html":[7,0,1030],
-"d8/d03/structDungeonEncounterEntry.html#a2a04df701c13dc49053b09a9587a72a8":[7,0,1030,0],
-"d8/d03/structDungeonEncounterEntry.html#a3d35560824a3aaeecb8db4bf8628ebfd":[7,0,1030,1]
+"d8/d03/LootMgr_8cpp.html#af45baef147256b11372c092b0ac53f91":[8,0,0,0,1,2,24,2,19]
 };

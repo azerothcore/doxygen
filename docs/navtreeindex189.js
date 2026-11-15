@@ -1,5 +1,8 @@
 var NAVTREEINDEX189 =
 {
+"d6/d8f/classspell__dk__vendetta.html#abcdd9441cfc3922b70e3a4f1ece01efd":[7,0,2885,3],
+"d6/d8f/classspell__riding__jokkum.html":[7,0,4049],
+"d6/d8f/classspell__riding__jokkum.html#a08c55501b95d4c92971fd5c95aaef1a7":[7,0,4049,0],
 "d6/d8f/classspell__riding__jokkum.html#a6f6ae6c012090337eb3f9ca4fd39749d":[7,0,4049,2],
 "d6/d8f/classspell__riding__jokkum.html#aa0df1c7c112cf44fbe5a89894a1292b3":[7,0,4049,1],
 "d6/d8f/structnpc__ulduar__aerial__command__unit.html":[7,0,2274],
@@ -83,20 +86,20 @@ var NAVTREEINDEX189 =
 "d6/d95/structGlyphPropertiesEntry.html#ae8c119bacf706916f331d3f316fb1347":[7,0,1148,1],
 "d6/d96/classDBCFile_1_1Record.html":[7,0,992,3],
 "d6/d96/classDBCFile_1_1Record.html#a1f7968eeee027251427a7f41dc7f948e":[7,0,992,3,11],
-"d6/d96/classDBCFile_1_1Record.html#a268ecb804f3a4c852a898a928a846f0a":[7,0,992,3,8],
 "d6/d96/classDBCFile_1_1Record.html#a268ecb804f3a4c852a898a928a846f0a":[7,0,992,3,7],
+"d6/d96/classDBCFile_1_1Record.html#a268ecb804f3a4c852a898a928a846f0a":[7,0,992,3,8],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[7,0,992,3,4],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[7,0,992,3,3],
-"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[7,0,992,3,0],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[7,0,992,3,1],
+"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[7,0,992,3,0],
 "d6/d96/classDBCFile_1_1Record.html#a56d48f82a62e25038bf9cf339e608083":[7,0,992,3,13],
 "d6/d96/classDBCFile_1_1Record.html#a6c4f02b14caa99337bbe77b30e5615ab":[7,0,992,3,12],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[7,0,992,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[7,0,992,3,5],
 "d6/d96/classDBCFile_1_1Record.html#a9830fc407400559db7e7783cc10a9394":[7,0,992,3,14],
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[7,0,992,3,2],
-"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,992,3,9],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,992,3,10],
+"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[7,0,992,3,9],
 "d6/d96/classDBCFile_1_1Record.html#adffc3b9545883356dd9bed0a0613a1fe":[7,0,992,3,15],
 "d6/d96/classDBCFile_1_1Record.html#ae76eb8b329fb6d580aa42484de46c95e":[7,0,992,3,16],
 "d6/d97/structnpc__massive__jormungar_1_1npc__massive__jormungarAI.html":[7,0,2006,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX189 =
 "d6/d9b/zone__blasted__lands_8cpp.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc":[8,0,0,0,1,3,2,18,1,2],
 "d6/d9c/classinstance__culling__of__stratholme.html":[7,0,1338],
 "d6/d9c/classinstance__culling__of__stratholme.html#a0b07e751032e15e7fcf2f86bf29a39be":[7,0,1338,1],
-"d6/d9c/classinstance__culling__of__stratholme.html#ad8cbcb198666d44d79d6255d066c8315":[7,0,1338,2],
-"d6/d9c/classspell__gen__tournament__pennant.html":[7,0,3176],
-"d6/d9c/classspell__gen__tournament__pennant.html#a101d38f5ffb34f90ba9af4f787445f2e":[7,0,3176,2],
-"d6/d9c/classspell__gen__tournament__pennant.html#a47a4f15ab02ba3c6ac4dbfd7c4552900":[7,0,3176,1]
+"d6/d9c/classinstance__culling__of__stratholme.html#ad8cbcb198666d44d79d6255d066c8315":[7,0,1338,2]
 };

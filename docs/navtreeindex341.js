@@ -1,5 +1,9 @@
 var NAVTREEINDEX341 =
 {
+"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282":[8,0,0,0,1,3,2,11,1,10,2],
+"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caf14cdba1aaf9fbfbd5b94c608513b872":[8,0,0,0,1,3,2,11,1,10,14],
+"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caf739807e9a1a356de9acda12a85c130d":[8,0,0,0,1,3,2,11,1,10,5],
+"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298cafaf889a4ae75cd0e54846592bb11ce35":[8,0,0,0,1,3,2,11,1,10,13],
 "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7ec":[8,0,0,0,1,3,2,11,1,11],
 "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca1fc81e84c9fd36562ef930b498151954":[8,0,0,0,1,3,2,11,1,11,2],
 "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca29a371143c4e7f8140404f7d8f9a29ee":[8,0,0,0,1,3,2,11,1,11,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX341 =
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e3377c92da71e4bb87a6621c82e94fd":[8,0,0,0,1,3,7,0,0,2,3,6],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298cab151d62dbb3f9b3af29b5b025c27fbc7":[8,0,0,0,1,3,7,0,0,2,3,4],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298cae7d77304e23ba7ad5b4feab5c71266da":[8,0,0,0,1,3,7,0,0,2,3,7],
-"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298caf51ee5a16ea9ca6146d52ef59116e8f1":[8,0,0,0,1,3,7,0,0,2,3,5],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html":[7,0,1140],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#a4ea4d3b165a196482ebe96af9c462658":[7,0,1140,0],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#a5f3c898a0dc6d9085589b88eb5571528":[7,0,1140,4],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#a790a8ef2b59bfe6298486648858506ed":[7,0,1140,2]
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298caf51ee5a16ea9ca6146d52ef59116e8f1":[8,0,0,0,1,3,7,0,0,2,3,5]
 };

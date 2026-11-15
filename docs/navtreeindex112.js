@@ -1,5 +1,6 @@
 var NAVTREEINDEX112 =
 {
+"d3/db4/structboss__julianne.html#a1e142c56a514640dab0d5d7711085f9d":[7,0,577,10],
 "d3/db4/structboss__julianne.html#a5b0b680916cd38b2e20a6a1b1a530362":[7,0,577,15],
 "d3/db4/structboss__julianne.html#a6433d08be0d5562e876e00225ebf7398":[7,0,577,0],
 "d3/db4/structboss__julianne.html#a6938adccd5c781df04dabe6d860f9357":[7,0,577,16],
@@ -92,8 +93,8 @@ var NAVTREEINDEX112 =
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[5,0,35,8,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,35,8,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[7,0,13,8,12,1],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[7,0,13,8,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,35,8,12,0],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[7,0,13,8,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,35,8,12,2],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[7,0,13,8,12,2],
 "d3/dbb/Battleground_8cpp.html":[8,0,0,0,1,2,8,9],
@@ -117,12 +118,12 @@ var NAVTREEINDEX112 =
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html":[5,0,21,0,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[5,0,21,0,2,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[7,0,6,0,2,1],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[7,0,6,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,21,0,2,2],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[7,0,6,0,2,3],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[7,0,6,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[5,0,21,0,2,3],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,21,0,2,0],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[7,0,6,0,2,3],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[7,0,6,0,2,0],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,21,0,2,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html":[7,0,4659,1],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#a02538aefc1b014b60957d4c67793000f":[7,0,4659,1,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#aca34dff6659f2da63f31e12bb41cf3d0":[7,0,4659,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX112 =
 "d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#aed0cc8f034454db0046a5adce7f9d8a0":[7,0,803,0,3],
 "d3/dc1/structboss__ymiron_1_1boss__ymironAI.html#af2d8d9a2ec7ec5876c99ae909d3befd2":[7,0,803,0,11],
 "d3/dc2/classboss__emeriss.html":[7,0,458],
-"d3/dc2/classboss__emeriss.html#a2d373e5add3f007cf214ad9763039aa2":[7,0,458,1],
-"d3/dc2/classboss__emeriss.html#a88a0696a12f12e612cce53c14f6b1f92":[7,0,458,2]
+"d3/dc2/classboss__emeriss.html#a2d373e5add3f007cf214ad9763039aa2":[7,0,458,1]
 };
