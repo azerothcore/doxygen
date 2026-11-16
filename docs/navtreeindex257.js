@@ -1,5 +1,7 @@
 var NAVTREEINDEX257 =
 {
+"d9/d92/Metric_8h.html#ab339934305abce426aa1d43c99d65e9f":[8,0,0,0,0,10,1,16],
+"d9/d92/Metric_8h.html#ab81b5769123c1e5e3870b9b05f25fe0a":[8,0,0,0,0,10,1,9],
 "d9/d92/Metric_8h.html#ac782d1c3265f7b707782545777d49d05":[8,0,0,0,0,10,1,4],
 "d9/d92/Metric_8h.html#ad57573999508dbc7a2c953379996b542":[8,0,0,0,0,10,1,8],
 "d9/d92/Metric_8h.html#ad81585df46d4cee988a1222012dbabf1":[8,0,0,0,0,10,1,3],
@@ -160,14 +162,14 @@ var NAVTREEINDEX257 =
 "d9/d99/classspell__gen__basic__campfire.html#a6919079b43a816eb601a68c51ad39794":[7,0,3046,3],
 "d9/d99/classspell__gen__basic__campfire.html#a7b0446133750fce7eda19dbde5abb3b1":[7,0,3046,2],
 "d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[7,0,3046,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[7,0,0,5,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[5,0,0,8,1,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[7,0,0,5,1,0,2],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[7,0,0,5,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,0,8,1,0,2],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[7,0,0,5,1,0,1],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[7,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,0,8,1,0,1],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[7,0,0,5,1,0,3],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[7,0,0,5,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,0,8,1,0,3],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[7,0,0,5,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[7,0,0,5,1,0,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,0,8,1,0,0],
 "d9/d9a/structboss__thorim__sif__blizzard.html":[7,0,758],
@@ -193,8 +195,8 @@ var NAVTREEINDEX257 =
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,35,6,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[7,0,13,6,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[5,0,35,6,46,0],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[7,0,13,6,46,3],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[5,0,35,6,46,3],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[7,0,13,6,46,3],
 "d9/d9d/cs__account_8cpp.html":[8,0,0,0,1,3,0,0],
 "d9/d9d/cs__account_8cpp.html#a8c18eb17be05fd3da5e9cfa3480c52c4":[8,0,0,0,1,3,0,0,1],
 "d9/d9e/HolidayDateCalculator_8cpp.html":[8,0,0,0,1,2,17,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX257 =
 "d9/da0/boss__laj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a17fc4c4078ca5c354f30610780effd07":[8,0,0,0,1,3,7,5,1,2,2,2],
 "d9/da0/boss__laj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a189aba88d32b1b2d4cae0d9407cf250b":[8,0,0,0,1,3,7,5,1,2,2,5],
 "d9/da0/boss__laj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a75447a07419a84c3382ae5f76095c848":[8,0,0,0,1,3,7,5,1,2,2,0],
-"d9/da0/boss__laj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a76149d4396e9f42a792bbf549ed5dc05":[8,0,0,0,1,3,7,5,1,2,2,4],
-"d9/da0/boss__laj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8ee4fb727ae7ac83c0abb0119cdeb13a":[8,0,0,0,1,3,7,5,1,2,2,1],
-"d9/da0/boss__laj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad4447121ea40fcda107087a2cf7861b7":[8,0,0,0,1,3,7,5,1,2,2,3]
+"d9/da0/boss__laj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a76149d4396e9f42a792bbf549ed5dc05":[8,0,0,0,1,3,7,5,1,2,2,4]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX241 =
 {
+"d8/dd6/DBCfmt_8h.html#ad1799df1fd47970fa48aca8d3d203310":[8,0,0,0,1,4,0,3,9],
+"d8/dd6/DBCfmt_8h.html#ad352960633bbb13f0547e8bc178c3904":[8,0,0,0,1,4,0,3,95],
 "d8/dd6/DBCfmt_8h.html#ad4c1a6dedecbad2cc8d408c4f235ec5a":[8,0,0,0,1,4,0,3,111],
 "d8/dd6/DBCfmt_8h.html#ad516fbb2bc7db2c384e8f9faad03031d":[8,0,0,0,1,4,0,3,78],
 "d8/dd6/DBCfmt_8h.html#ad8adff9a6975691d070f94ece5e7e472":[8,0,0,0,1,4,0,3,69],
@@ -183,10 +185,10 @@ var NAVTREEINDEX241 =
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html":[7,0,13,14,1],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[5,0,35,14,1,3],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a4c857c0b173f5fd19f2a83123e8e0d44":[7,0,13,14,1,3],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[7,0,13,14,1,2],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[5,0,35,14,1,2],
-"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[7,0,13,14,1,0],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a591f77f3c6de30ac07e62a5bedded7d5":[7,0,13,14,1,2],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[5,0,35,14,1,0],
+"d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#a96504f0bcddeb3f339552d95052595c9":[7,0,13,14,1,0],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[5,0,35,14,1,4],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#abf35fe4b947f0b645010009388d80bcd":[7,0,13,14,1,4],
 "d8/ddc/classWorldPackets_1_1Quest_1_1QuestConfirmAccept.html#add2f826fb7a8c9eed85e46a217dff0fc":[7,0,13,14,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX241 =
 "d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463ea83153fb4fea4c966c7ab9403e3084b89":[8,0,0,0,1,3,5,6,7,34,3],
 "d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463ea9cd0b8a7b2129669204159b13ed947e4":[8,0,0,0,1,3,5,6,7,34,1],
 "d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463eab8f0405f877cd4ac00fcbb41afa69f21":[8,0,0,0,1,3,5,6,7,34,0],
-"d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463eafabebc18bc02e50c56c22cbb1c8cd9c2":[8,0,0,0,1,3,5,6,7,34,2],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,6,7,37],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca083ff881600452988daa1991bf941da1":[8,0,0,0,1,3,5,6,7,37,21]
+"d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463eafabebc18bc02e50c56c22cbb1c8cd9c2":[8,0,0,0,1,3,5,6,7,34,2]
 };

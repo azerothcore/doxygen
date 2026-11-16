@@ -1,5 +1,7 @@
 var NAVTREEINDEX230 =
 {
+"d8/d58/classMapMgr.html#ad3b2b8c71b1218c74f1be816d2011f66":[7,0,1537,49],
+"d8/d58/classMapMgr.html#ad3d2c442092cd43d7d149abc1f9cf666":[7,0,1537,19],
 "d8/d58/classMapMgr.html#ad45d46f4712ee352635a2e906b14b1d4":[7,0,1537,43],
 "d8/d58/classMapMgr.html#ae6ab83aff8d6e446c6b010eb93c36885":[7,0,1537,41],
 "d8/d58/classMapMgr.html#ae713608db1eeb26072df5c0959248503":[7,0,1537,10],
@@ -71,8 +73,8 @@ var NAVTREEINDEX230 =
 "d8/d5e/classspell__sha__chain__heal.html#ae28f1b0c23511153eafc037cae067bc0":[7,0,4117,3],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html":[7,0,0,44],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html":[5,0,0,56],
-"d8/d5e/structAcore_1_1CreatureListSearcher.html#a10e4e1fb5749d2b1065dd6a1245783d0":[5,0,0,56,4],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a10e4e1fb5749d2b1065dd6a1245783d0":[7,0,0,44,4],
+"d8/d5e/structAcore_1_1CreatureListSearcher.html#a10e4e1fb5749d2b1065dd6a1245783d0":[5,0,0,56,4],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a48c084b8fbcbf7db7c051d1aa2aff523":[7,0,0,44,1],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a48c084b8fbcbf7db7c051d1aa2aff523":[5,0,0,56,1],
 "d8/d5e/structAcore_1_1CreatureListSearcher.html#a7b16bf9b7a847a08fa6582b81b607e20":[5,0,0,56,0],
@@ -91,12 +93,12 @@ var NAVTREEINDEX230 =
 "d8/d5f/classspell__item__goblin__gumbo__kettle.html#a8753419b2fa1b1bb96a08bf54995e82c":[7,0,3443,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[5,0,35,10,9],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[7,0,13,10,9],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,35,10,9,2],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[7,0,13,10,9,2],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,35,10,9,1],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,35,10,9,2],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[7,0,13,10,9,1],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,35,10,9,3],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,35,10,9,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[7,0,13,10,9,3],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,35,10,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,35,10,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[7,0,13,10,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[7,0,13,10,9,0],
@@ -237,8 +239,8 @@ var NAVTREEINDEX230 =
 "d8/d6b/classspell__alar__dive__bomb.html#a12dba24d5aa3d41671980d8dd509d6f2":[7,0,2658,1],
 "d8/d6b/classspell__alar__dive__bomb.html#a472220f22165c6d21eab5f4b5f75921e":[7,0,2658,0],
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[7,0,2658,2],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[7,0,13,15,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,35,15,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[7,0,13,15,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,35,15,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[7,0,13,15,0,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html":[7,0,3584],
@@ -247,7 +249,5 @@ var NAVTREEINDEX230 =
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a7dc81b47954ee8c10b99f389740de0be":[7,0,3584,2],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#afd94a159c0f429f2a63ffbd0a38d32e3":[7,0,3584,3],
 "d8/d6d/classboss__faerlina.html":[7,0,474],
-"d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[7,0,474,1],
-"d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[7,0,474,2],
-"d8/d6e/PetHandler_8cpp.html":[8,0,0,0,1,2,22,23]
+"d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[7,0,474,1]
 };

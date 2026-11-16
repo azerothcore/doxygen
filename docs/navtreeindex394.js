@@ -1,5 +1,7 @@
 var NAVTREEINDEX394 =
 {
+"de/d7e/classnpc__muradin__bronzebeard__icc.html#a7e4cecb0f4cabf024794045ed20e3563":[7,0,2030,1],
+"de/d7e/classnpc__muradin__bronzebeard__icc.html#a7fb9838521dbae6ac0a8bb4ac1e07c37":[7,0,2030,3],
 "de/d7e/classnpc__muradin__bronzebeard__icc.html#ab2b6a0bb1b8626e5a4064b9412234f4b":[7,0,2030,2],
 "de/d7f/boss__exarch__maladaar_8cpp.html":[8,0,0,0,1,3,7,0,0,1],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,0,0,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX394 =
 "de/d89/classGridObjectUnloader.html#ae01a3252ecf5083da0c5be5d4a845636":[7,0,1261,0],
 "de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html":[7,0,2498,1],
 "de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html#a160ac902a994fdaaa36b66dbaa4c8282":[7,0,2498,1,1],
-"de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html#abbfa5f40abb5713e15311f8259d70dc6":[7,0,2498,1,2],
-"de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html#ade58814e6b27763d1bb6c1f730ef53e0":[7,0,2498,1,0],
-"de/d8c/classspell__sha__sentry__totem.html":[7,0,4151]
+"de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html#abbfa5f40abb5713e15311f8259d70dc6":[7,0,2498,1,2]
 };

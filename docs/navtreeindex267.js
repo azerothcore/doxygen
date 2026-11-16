@@ -1,5 +1,7 @@
 var NAVTREEINDEX267 =
 {
+"da/d07/classByteBuffer.html#a79e88867d79f25c13947bd6c419cd470":[7,0,844,77],
+"da/d07/classByteBuffer.html#a80b1cfe1258515038f57204073765c2a":[7,0,844,30],
 "da/d07/classByteBuffer.html#a89d5bb17fdc230b5777f3d3e5284db93":[7,0,844,6],
 "da/d07/classByteBuffer.html#a8a5dd268b2d844c242dfa2f5eb1e893f":[7,0,844,63],
 "da/d07/classByteBuffer.html#a9af52b14e94ffc0a0f5f78a0dae242db":[7,0,844,43],
@@ -232,10 +234,10 @@ var NAVTREEINDEX267 =
 "da/d16/structnpc__grandmother.html#ae39335d22b5fd1fc4c0f9d34e8977124":[7,0,1870,1],
 "da/d17/classAcore_1_1ContainerInserter.html":[7,0,0,42],
 "da/d17/classAcore_1_1ContainerInserter.html":[5,0,0,54],
-"da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[5,0,0,54,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[7,0,0,42,3],
-"da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[5,0,0,54,1],
+"da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[5,0,0,54,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[7,0,0,42,1],
+"da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[5,0,0,54,1],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[5,0,0,54,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[7,0,0,42,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,0,54,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX267 =
 "da/d17/classat__naxxramas__hub__portal.html":[7,0,244],
 "da/d17/classat__naxxramas__hub__portal.html#a946086e8a4651240b84526a1b2d54065":[7,0,244,0],
 "da/d17/classat__naxxramas__hub__portal.html#af967b0f61b3257c8b8d802d4ed3af1da":[7,0,244,1],
-"da/d17/structEnchantDuration.html":[7,0,1051],
-"da/d17/structEnchantDuration.html#a1ce5f81deaa60494c247673c113632d8":[7,0,1051,0],
-"da/d17/structEnchantDuration.html#a3de1a8d64aea4c5c1f984a74c6bb017d":[7,0,1051,4]
+"da/d17/structEnchantDuration.html":[7,0,1051]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX398 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8d8f037ebe94e44d7c2eb3c51aa29a52":[8,0,0,0,1,1,0,0,1,1,25],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8e51af47325834059bba03c22bbd7190":[8,0,0,0,1,1,0,0,1,1,473],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8ebd3f79c93c14beefbfbb276c4ebe5e":[8,0,0,0,1,1,0,0,1,1,39],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8ef37da58c4f3c3c627b8c89cbf05a89":[8,0,0,0,1,1,0,0,1,1,400],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8f38641048927173b4fc7673b1c82741":[8,0,0,0,1,1,0,0,1,1,50],
@@ -247,7 +249,5 @@ var NAVTREEINDEX398 =
 "de/da5/classinstance__ragefire__chasm.html#ab7f27d3e73b24d16dcf9b114f7dd4b36":[7,0,1367,1],
 "de/da5/vmapexport_8cpp.html":[8,0,0,0,3,4,12],
 "de/da5/vmapexport_8cpp.html#a12b965536bcabf2e2edd7db2196630cd":[8,0,0,0,3,4,12,17],
-"de/da5/vmapexport_8cpp.html#a17b22c7645963c9e5c277b72605a4966":[8,0,0,0,3,4,12,22],
-"de/da5/vmapexport_8cpp.html#a2191d2ffb8973cd0ddb269bcaa06a31d":[8,0,0,0,3,4,12,19],
-"de/da5/vmapexport_8cpp.html#a32b84e03161e7056f809d12d8b7b71b2":[8,0,0,0,3,4,12,5]
+"de/da5/vmapexport_8cpp.html#a17b22c7645963c9e5c277b72605a4966":[8,0,0,0,3,4,12,22]
 };

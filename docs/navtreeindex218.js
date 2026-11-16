@@ -63,6 +63,7 @@ var NAVTREEINDEX218 =
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a6adac6166a915c51f84d605033f5d5cb":[8,0,0,0,1,3,5,2,1,4,14,5],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a7c4ca883d858f2ff113df6c55e273b8b":[8,0,0,0,1,3,5,2,1,4,14,3],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a7d800e43197a504ce805a9d883a83d71":[8,0,0,0,1,3,5,2,1,4,14,12],
+"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a7e012640ecc314eee96ed8ad481fe712":[8,0,0,0,1,3,5,2,1,4,14,24],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a7e30a5043c59d6fd6cc39e301f7d1cc2":[8,0,0,0,1,3,5,2,1,4,14,21],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a844feb09a4ea4affb980c56761d4ab50":[8,0,0,0,1,3,5,2,1,4,14,6],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a87b634cc08909794f3600af3e6ba5598":[8,0,0,0,1,3,5,2,1,4,14,16],
@@ -77,6 +78,7 @@ var NAVTREEINDEX218 =
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844ad7b3e50b45f9949cd0e4030ca19a6b4f":[8,0,0,0,1,3,5,2,1,4,14,23],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844ae16220efef132413f64c97a7ab386c69":[8,0,0,0,1,3,5,2,1,4,14,4],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844aed3734b8c01db379a18d9f348e072428":[8,0,0,0,1,3,5,2,1,4,14,2],
+"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844af204f4c2da44b9fdb56676e9ea269ff5":[8,0,0,0,1,3,5,2,1,4,14,25],
 "d7/dc0/boss__twin__valkyr_8cpp.html#aab55ff5b9017c81c9e158524c49a2925":[8,0,0,0,1,3,5,2,1,4,16],
 "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bc":[8,0,0,0,1,3,5,2,1,4,11],
 "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bca1df5647e3edfc4c024cf633980869524":[8,0,0,0,1,3,5,2,1,4,11,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX218 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a86c743405bc0e33247a6e1799c083ffd":[7,0,1393,0,2],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a87ae2c847b85ebefd94de5478a5e5cef":[7,0,1393,0,9],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a881215831485df502c95b2ea99f593e4":[7,0,1393,0,6],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a9c8a9ac33c72c25289fe05125dfefaf0":[7,0,1393,0,39],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a9d07a85c9bafc1de6fe89ddfa4a9ab92":[7,0,1393,0,17],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aaa3315b262109938f69f6186fe49fdfc":[7,0,1393,0,46]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a9c8a9ac33c72c25289fe05125dfefaf0":[7,0,1393,0,39]
 };

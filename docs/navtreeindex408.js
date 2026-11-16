@@ -1,5 +1,7 @@
 var NAVTREEINDEX408 =
 {
+"df/d17/classGameObjectModelOwnerBase.html#abf8e9a74f58ec34bc6f1f8d853100f69":[7,0,1125,6],
+"df/d17/classGameObjectModelOwnerBase.html#acf130fbdfb086a9c6d35d145116357c8":[7,0,1125,1],
 "df/d17/classGameObjectModelOwnerBase.html#ad824da6970d512c344160714cd7ec434":[7,0,1125,7],
 "df/d17/classGameObjectModelOwnerBase.html#ae3eddc6c841c3644f50cb3300f80cee2":[7,0,1125,2],
 "df/d17/group__world.html":[4,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX408 =
 "df/d1e/instance__blackrock__spire_8cpp.html#a5bd342133be8c2137b831460acc9298ca6258f28c34841ae8c348b51f0a6c5786":[8,0,0,0,1,3,2,1,1,15,13,2],
 "df/d1e/instance__blackrock__spire_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c076300512d36ce3303219ac9a5c59b":[8,0,0,0,1,3,2,1,1,15,13,4],
 "df/d1e/instance__blackrock__spire_8cpp.html#a5bd342133be8c2137b831460acc9298caeee78e611166041d9e0bfc0f115238b8":[8,0,0,0,1,3,2,1,1,15,13,3],
-"df/d1e/instance__blackrock__spire_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[8,0,0,0,1,3,2,1,1,15,18],
-"df/d1e/instance__blackrock__spire_8cpp.html#a67bd6d2ff0d16853cfa44844688b9483":[8,0,0,0,1,3,2,1,1,15,19],
-"df/d1e/instance__blackrock__spire_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[8,0,0,0,1,3,2,1,1,15,16]
+"df/d1e/instance__blackrock__spire_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[8,0,0,0,1,3,2,1,1,15,18]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX391 =
 {
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fad7fd8228a27e43e397b582900da23be5":[8,0,0,0,1,2,13,1,12,27],
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fae05bf66f17b0ae12099dd06fd8fe663b":[8,0,0,0,1,2,13,1,12,29],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fae06b8a3a1af708856bb1caa1c84afe8f":[8,0,0,0,1,2,13,1,12,11],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faec4ffb3080e8e29725c2061a190b7cdb":[8,0,0,0,1,2,13,1,12,1],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faec5ec463cb39f566d571c9d4d4083824":[8,0,0,0,1,2,13,1,12,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX391 =
 "de/d6e/structBattlegroundWGScore.html#a191e205e08ef15cc36dabedc32614fd2":[7,0,358,3],
 "de/d6e/structBattlegroundWGScore.html#a23ff00f10d07c1a601e9e1d0eb05b1da":[7,0,358,8],
 "de/d6e/structBattlegroundWGScore.html#a4285b67c5d8593dce759422a4eb78c77":[7,0,358,7],
-"de/d6e/structBattlegroundWGScore.html#a43b7933c5e217376e5bb10e9b5bb208b":[7,0,358,0],
-"de/d6e/structBattlegroundWGScore.html#a458db7f27a7e4a002e11a9561327ea1c":[7,0,358,4],
-"de/d6e/structBattlegroundWGScore.html#a7c602ee26cbca70d8496b68f331c3513":[7,0,358,5]
+"de/d6e/structBattlegroundWGScore.html#a43b7933c5e217376e5bb10e9b5bb208b":[7,0,358,0]
 };

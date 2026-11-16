@@ -1,5 +1,7 @@
 var NAVTREEINDEX364 =
 {
+"dd/dd4/classBattlegroundEY.html#a0150b390b2e3107d0c5a4e73b9676174":[7,0,338,28],
+"dd/dd4/classBattlegroundEY.html#a019b1c6bbcc16fb7723dec92115cd2f0":[7,0,338,10],
 "dd/dd4/classBattlegroundEY.html#a2874eadcf5031b6841f68c0e167cde0d":[7,0,338,8],
 "dd/dd4/classBattlegroundEY.html#a2d8ae1fcfade0c8708cfb38542f4b926":[7,0,338,44],
 "dd/dd4/classBattlegroundEY.html#a339332b31cdd306910baf139b97d13f7":[7,0,338,38],
@@ -247,7 +249,5 @@ var NAVTREEINDEX364 =
 "dd/dda/classspell__dk__advantage__t10__4p.html":[7,0,2826],
 "dd/dda/classspell__dk__advantage__t10__4p.html#a04258b702d79372c0e9c2e1845a6563e":[7,0,2826,1],
 "dd/dda/classspell__dk__advantage__t10__4p.html#a56eaad6f2b1d14cea5fe3f7f27cdb877":[7,0,2826,3],
-"dd/dda/classspell__dk__advantage__t10__4p.html#a7d829589ea098e002206b72f789c95df":[7,0,2826,0],
-"dd/dda/classspell__dk__advantage__t10__4p.html#af62e0a7a43a6762e8e067931e7ec09af":[7,0,2826,2],
-"dd/dda/structboss__marli.html":[7,0,629]
+"dd/dda/classspell__dk__advantage__t10__4p.html#a7d829589ea098e002206b72f789c95df":[7,0,2826,0]
 };

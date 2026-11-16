@@ -1,5 +1,7 @@
 var NAVTREEINDEX309 =
 {
+"db/dae/npcs__special_8cpp.html#a6c96dbebb9d167df0c52c1a3e2d8611e":[8,0,0,0,1,3,10,14,77],
+"db/dae/npcs__special_8cpp.html#a6fd0c50b88b497735f8707ef06169344":[8,0,0,0,1,3,10,14,44],
 "db/dae/npcs__special_8cpp.html#a7012b6bccc20490eff177e86e177f138":[8,0,0,0,1,3,10,14,67],
 "db/dae/npcs__special_8cpp.html#a7012b6bccc20490eff177e86e177f138aed889913f94673dee52649a98643507f":[8,0,0,0,1,3,10,14,67,0],
 "db/dae/npcs__special_8cpp.html#a76d186a3bc44cdcff7842a61e3eddb70":[8,0,0,0,1,3,10,14,53],
@@ -234,8 +236,8 @@ var NAVTREEINDEX309 =
 "db/db7/namespaceMovement.html#aff10e913762216c0735a8a3530ee25d2":[5,0,22,27],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[7,0,0,5,0,9],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[5,0,0,8,0,9],
-"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[5,0,0,8,0,9,0],
 "db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[7,0,0,5,0,9,0],
+"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html#a295b0e3d45942de473b4f4872b594ebe":[5,0,0,8,0,9,0],
 "db/db8/classProcChanceTestHelper.html":[7,0,2498],
 "db/db8/classProcChanceTestHelper.html#a0030bcefe26a228bb36f5b3913fa1e48":[7,0,2498,27],
 "db/db8/classProcChanceTestHelper.html#a050a7405275f53b24207e5a94f0f2dcd":[7,0,2498,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX309 =
 "db/db8/classProcChanceTestHelper.html#a37eb38df7f1ea2b2fa2f21d9f348e575":[7,0,2498,36],
 "db/db8/classProcChanceTestHelper.html#a42fe0520c1fb9cedfdc5c28687641751":[7,0,2498,8],
 "db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1":[7,0,2498,22],
-"db/db8/classProcChanceTestHelper.html#a57d351c38a433d00432bbb97a40b6a27":[7,0,2498,9],
-"db/db8/classProcChanceTestHelper.html#a5fe1998243d3c2d6ebf5969a8a8fe971":[7,0,2498,38],
-"db/db8/classProcChanceTestHelper.html#a60e65cf6041a78aef313c020578c83ac":[7,0,2498,37]
+"db/db8/classProcChanceTestHelper.html#a57d351c38a433d00432bbb97a40b6a27":[7,0,2498,9]
 };

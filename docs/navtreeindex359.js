@@ -1,5 +1,7 @@
 var NAVTREEINDEX359 =
 {
+"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[7,0,4330,0],
+"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[7,0,4330,2],
 "dd/dac/pit__of__saron_8h.html":[8,0,0,0,1,3,5,4,2,5],
 "dd/dac/pit__of__saron_8h.html#a00d27e7195019de0c937829f8acb548f":[8,0,0,0,1,3,5,4,2,5,38],
 "dd/dac/pit__of__saron_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,4,2,5,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX359 =
 "dd/db1/classspell__gen__replenishment.html#a27ee4f0e6d14d15e5da2119c2bc49516":[7,0,3152,3],
 "dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[7,0,3152,2],
 "dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[7,0,3152,0],
-"dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[7,0,3152,1],
-"dd/db1/classspell__item__blood__draining__enchant.html":[7,0,3389],
-"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[7,0,3389,0]
+"dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[7,0,3152,1]
 };

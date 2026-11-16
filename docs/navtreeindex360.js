@@ -1,5 +1,7 @@
 var NAVTREEINDEX360 =
 {
+"dd/db1/classspell__item__blood__draining__enchant.html":[7,0,3389],
+"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[7,0,3389,0],
 "dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[7,0,3389,2],
 "dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[7,0,3389,1],
 "dd/db2/classGenericCreatureScript.html":[7,0,1137],
@@ -247,7 +249,5 @@ var NAVTREEINDEX360 =
 "dd/dba/structboss__moroes.html#a7d425d58b1e64ef174ff92e1263de544":[7,0,642,4],
 "dd/dba/structboss__moroes.html#a815ca169e0787c92c09a5803007355aa":[7,0,642,3],
 "dd/dba/structboss__moroes.html#aa0bf31d8298b4ec6ce205cefd0766194":[7,0,642,5],
-"dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32":[7,0,642,8],
-"dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[7,0,642,1],
-"dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[7,0,642,10]
+"dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32":[7,0,642,8]
 };

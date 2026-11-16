@@ -1,5 +1,7 @@
 var NAVTREEINDEX400 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7af7887c8bad4249d2fe89473db657ff56":[8,0,0,0,1,3,5,18,52,23],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7af793de494eac5a1e5c7539c968c33656":[8,0,0,0,1,3,5,18,52,9],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7affe8bab68da2718d92ea5c6823920d59":[8,0,0,0,1,3,5,18,52,25],
 "de/da6/zone__dragonblight_8cpp.html#acd832c3c5d57da8cf312e263814c7aea":[8,0,0,0,1,3,5,18,54],
 "de/da6/zone__dragonblight_8cpp.html#acd832c3c5d57da8cf312e263814c7aeaa573a11861b4a28744ad0cc06e7764bf6":[8,0,0,0,1,3,5,18,54,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX400 =
 "de/db1/structRecoveryItem.html#a4e93c3052626ba5e368609aa81a618ec":[7,0,2551,4],
 "de/db1/structRecoveryItem.html#a67d3df162e923db168f96072307d1473":[7,0,2551,11],
 "de/db1/structRecoveryItem.html#a6b84fb815781b42b1ad2ba8aa2bc23e0":[7,0,2551,2],
-"de/db1/structRecoveryItem.html#a821672b5e2064196bde9a4238d8a20ae":[7,0,2551,8],
-"de/db1/structRecoveryItem.html#ab7060a7c758092dfb7047d3bb67172e8":[7,0,2551,6],
-"de/db1/structRecoveryItem.html#acb85220f11388742df8f0904f81b9037":[7,0,2551,7]
+"de/db1/structRecoveryItem.html#a821672b5e2064196bde9a4238d8a20ae":[7,0,2551,8]
 };

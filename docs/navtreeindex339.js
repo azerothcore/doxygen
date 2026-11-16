@@ -1,5 +1,7 @@
 var NAVTREEINDEX339 =
 {
+"dc/db4/classboss__fjola.html":[7,0,485],
+"dc/db4/classboss__fjola.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f":[7,0,485,1],
 "dc/db4/classboss__fjola.html#a96d9ea0716199758b60ad933ade28de4":[7,0,485,2],
 "dc/db4/structboss__gruul.html":[7,0,530],
 "dc/db4/structboss__gruul.html#a3503b84f4fb896d439ccd49a997e4087":[7,0,530,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX339 =
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html#ad863666aec3db81f73165148ffc98033":[7,0,594,2],
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html#afd7482896b66f040b8d57b9b6ac37059":[7,0,594,1],
 "dc/dc6/classspell__dk__icebound__fortitude.html":[7,0,2857],
-"dc/dc6/classspell__dk__icebound__fortitude.html#a4d09be7d33755ae719138d079884e281":[7,0,2857,3],
-"dc/dc6/classspell__dk__icebound__fortitude.html#a76528513f0f6728e73085a3d403c3e59":[7,0,2857,2],
-"dc/dc6/classspell__dk__icebound__fortitude.html#ad99a4176d27864280a79ac548a57a4c8":[7,0,2857,0]
+"dc/dc6/classspell__dk__icebound__fortitude.html#a4d09be7d33755ae719138d079884e281":[7,0,2857,3]
 };

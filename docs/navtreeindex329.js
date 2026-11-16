@@ -1,5 +1,7 @@
 var NAVTREEINDEX329 =
 {
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab6f9c59b96efbdfccf0e89aed19d8462":[5,0,29,6,507],
+"dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab70c47b254409bc7429a32b9e3188487":[5,0,29,6,107],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab77729a9cff0f7a91629222981580ec4":[5,0,29,6,461],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab7ed0d8eec3e53fd355bd9a9eb17acb0":[5,0,29,6,533],
 "dc/d36/namespacerbac.html#aa12620253ec88ac8516c1341cf7d8e04ab85be090a2ff91aff774671c79b7a372":[5,0,29,6,390],
@@ -247,7 +249,5 @@ var NAVTREEINDEX329 =
 "dc/d39/classspell__communique__trigger.html#a0375b541f2a90e337fee61ced6d8f3ec":[7,0,2796,1],
 "dc/d39/classspell__communique__trigger.html#a66c530b497e4952b457bbfa50a036c07":[7,0,2796,2],
 "dc/d39/classspell__communique__trigger.html#a968333dcfe0553ad73879f3042db5511":[7,0,2796,3],
-"dc/d39/classspell__communique__trigger.html#ade9ff4db63fecf726776f6e4b36bb437":[7,0,2796,0],
-"dc/d39/classspell__item__noblegarden__chocolate.html":[7,0,3483],
-"dc/d39/classspell__item__noblegarden__chocolate.html#a7de36e3ee777b02ab6fc4671e4e9f5ab":[7,0,3483,4]
+"dc/d39/classspell__communique__trigger.html#ade9ff4db63fecf726776f6e4b36bb437":[7,0,2796,0]
 };

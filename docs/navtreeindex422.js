@@ -1,5 +1,7 @@
 var NAVTREEINDEX422 =
 {
+"df/da7/classBattleground.html#a3b86d22bae0278d3e9be471e7d86dd33":[7,0,330,199],
+"df/da7/classBattleground.html#a3bd710cf2081404fde874444ea2f1981":[7,0,330,15],
 "df/da7/classBattleground.html#a3bd97b3f9648bb9dbf1aa37dc7baeca6":[7,0,330,239],
 "df/da7/classBattleground.html#a3bfa820dd5ca7c2a3d0f6ac6ee9adb1f":[7,0,330,240],
 "df/da7/classBattleground.html#a3cf144c23cb91a7b7da6c94c47da60de":[7,0,330,226],
@@ -247,7 +249,5 @@ var NAVTREEINDEX422 =
 "df/daa/classLambdaBasicEvent.html#a2660ba5053b9ad6a1c4231bd32359999":[7,0,1447,2],
 "df/daa/classLambdaBasicEvent.html#a4244b5e91413d71076d9cc3af230aed8":[7,0,1447,0],
 "df/daa/classLambdaBasicEvent.html#a8771a49f00554372b5ed38816abbd253":[7,0,1447,1],
-"df/daa/classspell__doomfire.html":[7,0,2889],
-"df/daa/classspell__doomfire.html#a093b09be5abde91a1487d67a7a554d30":[7,0,2889,3],
-"df/daa/classspell__doomfire.html#a24058b120f4fa06b89f6d582c53a365a":[7,0,2889,2]
+"df/daa/classspell__doomfire.html":[7,0,2889]
 };

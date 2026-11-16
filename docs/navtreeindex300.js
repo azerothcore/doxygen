@@ -1,5 +1,7 @@
 var NAVTREEINDEX300 =
 {
+"db/d6e/spell__item_8cpp.html#a852e1657705a20c00b4cb7c8a450c0c1a91fbac3e71bbcd92e8312bf6b0b37824":[8,0,0,0,1,3,9,4,216,0],
+"db/d6e/spell__item_8cpp.html#a8813a65967ea52c62eac03888ede93ea":[8,0,0,0,1,3,9,4,233],
 "db/d6e/spell__item_8cpp.html#a8813a65967ea52c62eac03888ede93eaace3f0b910cb7e9fe1967bcba0150bd38":[8,0,0,0,1,3,9,4,233,0],
 "db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdc":[8,0,0,0,1,3,9,4,186],
 "db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdca256bd618922aa914efebd4d0601aeecf":[8,0,0,0,1,3,9,4,186,0],
@@ -227,8 +229,8 @@ var NAVTREEINDEX300 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[7,0,2583,0,0],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[7,0,2583,0,3],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[7,0,2583,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,0,120,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[7,0,0,108,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,0,120,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[7,0,0,108,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a695004403b0a3c61481948a95c30bbba":[5,0,0,120,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX300 =
 "db/d72/structLootItem.html#a37ee3823a2144ed57f754d826fcbc093":[7,0,1496,17],
 "db/d72/structLootItem.html#a3dfa14b4a36b8750892b9cf6f3814ec9":[7,0,1496,8],
 "db/d72/structLootItem.html#a4d18c53f68ff454b7521e8afcab85b24":[7,0,1496,14],
-"db/d72/structLootItem.html#a594fbfb2bdf1506dc9aa4433f1c83202":[7,0,1496,3],
-"db/d72/structLootItem.html#a665a75643f49ee93f469b7b7bc52a928":[7,0,1496,18],
-"db/d72/structLootItem.html#a683e0daa30d21da4096ab110226fda12":[7,0,1496,7]
+"db/d72/structLootItem.html#a594fbfb2bdf1506dc9aa4433f1c83202":[7,0,1496,3]
 };

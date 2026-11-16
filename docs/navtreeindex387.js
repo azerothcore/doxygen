@@ -1,5 +1,7 @@
 var NAVTREEINDEX387 =
 {
+"de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[7,0,1889,4],
+"de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[7,0,1889,2],
 "de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[7,0,1889,3],
 "de/d34/classSessionScript.html":[7,0,2610],
 "de/d34/classSessionScript.html#a38af0c7fcfb9187d5795d2858be668ef":[7,0,2610,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX387 =
 "de/d3d/Group_8h.html#a265440bc60acb489a6d25239d788b783a81801fe8320b2182ad7c70d0d028d192":[8,0,0,0,1,2,20,1,9,0],
 "de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9d":[8,0,0,0,1,2,20,1,11],
 "de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da0fd180911ad96ed8d444b6dfc6fd8777":[8,0,0,0,1,2,20,1,11,7],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da3d85c38ccfdc94eda5fe36f186dcb75c":[8,0,0,0,1,2,20,1,11,0],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da56b0705f4b91684e2bc6536d45c628bd":[8,0,0,0,1,2,20,1,11,2],
-"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da5b80950bd3340d7de2b5a769001b9fec":[8,0,0,0,1,2,20,1,11,1]
+"de/d3d/Group_8h.html#a330da2ab05c167f677e54f82a222ef9da3d85c38ccfdc94eda5fe36f186dcb75c":[8,0,0,0,1,2,20,1,11,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX365 =
 {
+"dd/dda/classspell__dk__advantage__t10__4p.html#af62e0a7a43a6762e8e067931e7ec09af":[7,0,2826,2],
+"dd/dda/structboss__marli.html":[7,0,629],
 "dd/dda/structboss__marli.html#a10ab29949ef17e0f9ebd991dc70262c7":[7,0,629,4],
 "dd/dda/structboss__marli.html#a54efa8663716fb32d6e390b76dc89ee1":[7,0,629,1],
 "dd/dda/structboss__marli.html#abba94b400523047bfa9e3a5b34b1ee54":[7,0,629,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX365 =
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,0,28,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[7,0,0,16,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,0,28,2],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[7,0,0,16,0],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,0,28,0],
-"dd/deb/classspell__grobbulus__mutating__injection__aura.html":[7,0,3202]
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[7,0,0,16,0]
 };

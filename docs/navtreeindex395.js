@@ -1,5 +1,7 @@
 var NAVTREEINDEX395 =
 {
+"de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html#ade58814e6b27763d1bb6c1f730ef53e0":[7,0,2498,1,0],
+"de/d8c/classspell__sha__sentry__totem.html":[7,0,4151],
 "de/d8c/classspell__sha__sentry__totem.html#aa266e794be35b51a399b13ee2d06199d":[7,0,4151,2],
 "de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[7,0,4151,0],
 "de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[7,0,4151,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX395 =
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cac0f9e5964a0246a1e0401ada311ac54a":[8,0,0,0,1,3,7,1,4,8,13],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad0cf2e4cb01aa491b9c126c8324ecdbc":[8,0,0,0,1,3,7,1,4,8,0],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad37a8f1111ab88a25c6222a817839f2d":[8,0,0,0,1,3,7,1,4,8,4],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad80cddb5c773432a1c1e568c56fd784e":[8,0,0,0,1,3,7,1,4,8,5],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cadc1698100d98eeecb36b674a45bb6882":[8,0,0,0,1,3,7,1,4,8,3],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caee23d696e0b1a8b4c5ebe94b68ce4d23":[8,0,0,0,1,3,7,1,4,8,12]
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad80cddb5c773432a1c1e568c56fd784e":[8,0,0,0,1,3,7,1,4,8,5]
 };

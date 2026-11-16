@@ -1,5 +1,7 @@
 var NAVTREEINDEX402 =
 {
+"de/dc0/classspell__black__temple__skeleton__shot__aura.html#ad7c8338ae3f3e6680405652c3e5f7f06":[7,0,2725,2],
+"de/dc0/structBattlegroundTemplate.html":[7,0,357],
 "de/dc0/structBattlegroundTemplate.html#a0fca37318585903f68695452a95011a9":[7,0,357,2],
 "de/dc0/structBattlegroundTemplate.html#a324a4e557ce66089ec1111a9dae6e1de":[7,0,357,4],
 "de/dc0/structBattlegroundTemplate.html#a49fdf96a08376830a06956fd501cfa78":[7,0,357,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX402 =
 "de/dd4/classspell__saronite__vapors__damage.html#af963f0dcdf2a1bc040a597c06983f0a7":[7,0,4095,2],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html":[7,0,2007,0],
 "de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a0519438fda724a06a0c6f8ed2d7d533d":[7,0,2007,0,7],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a0de69b5fda6342217697ad264d64d4e6":[7,0,2007,0,1],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a32281f8dfa1c8af8fe6bcac2a8be4220":[7,0,2007,0,0],
-"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a456b5de60672120f82506d177faf6b47":[7,0,2007,0,2]
+"de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a0de69b5fda6342217697ad264d64d4e6":[7,0,2007,0,1]
 };

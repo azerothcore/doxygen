@@ -1,5 +1,7 @@
 var NAVTREEINDEX295 =
 {
+"db/d30/structboss__hydromancer__thespia.html#ae1bb4819867ef5718cb5d9130d62fa20":[7,0,556,3],
+"db/d30/structboss__hydromancer__thespia.html#af230e57ec259e5c92c4034a674d1b6a5":[7,0,556,2],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html":[7,0,766,0],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a033f10bba4ba89aa0111d4cb520540e6":[7,0,766,0,9],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a0c62ac244e57b1b90101e1ba89a60d27":[7,0,766,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX295 =
 "db/d41/classspell__brewfest__fill__keg.html":[7,0,2757],
 "db/d41/classspell__brewfest__fill__keg.html#a284796ec70bdfaea9919f54da94f0021":[7,0,2757,1],
 "db/d41/classspell__brewfest__fill__keg.html#a30dcb608c20df17de9597ece1930d59d":[7,0,2757,2],
-"db/d41/classspell__brewfest__fill__keg.html#a4a3122d1b69baeae76f1ae3b6818bfb5":[7,0,2757,0],
-"db/d41/structnpc__midsummer__bonfire.html":[7,0,2014],
-"db/d41/structnpc__midsummer__bonfire.html#a07c8b1add555697fdb29fda89f42c4af":[7,0,2014,0]
+"db/d41/classspell__brewfest__fill__keg.html#a4a3122d1b69baeae76f1ae3b6818bfb5":[7,0,2757,0]
 };

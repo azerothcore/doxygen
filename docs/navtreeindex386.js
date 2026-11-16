@@ -1,5 +1,7 @@
 var NAVTREEINDEX386 =
 {
+"de/d30/SpellMgr_8h.html#a86ed4228aa3581416498515c136ed4fb":[8,0,0,0,1,2,41,9,56],
+"de/d30/SpellMgr_8h.html#a88ffc1e3eda7c90f1f55e169dc76b444":[8,0,0,0,1,2,41,9,55],
 "de/d30/SpellMgr_8h.html#a92884d38e54e1a658ef812cfb5ecc2b5":[8,0,0,0,1,2,41,9,28],
 "de/d30/SpellMgr_8h.html#a9298eb96c8d5310030455030d2bbcb9d":[8,0,0,0,1,2,41,9,52],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4":[8,0,0,0,1,2,41,9,65],
@@ -247,7 +249,5 @@ var NAVTREEINDEX386 =
 "de/d33/structnpc__healing__ward.html":[7,0,1889],
 "de/d33/structnpc__healing__ward.html#a0c62fe945b491cab76175217a7d10c06":[7,0,1889,5],
 "de/d33/structnpc__healing__ward.html#a3d3c35f61502d3a83cb2581119e08903":[7,0,1889,0],
-"de/d33/structnpc__healing__ward.html#a5faf7c5633c44ec1fa70b60b2071b97b":[7,0,1889,1],
-"de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[7,0,1889,4],
-"de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[7,0,1889,2]
+"de/d33/structnpc__healing__ward.html#a5faf7c5633c44ec1fa70b60b2071b97b":[7,0,1889,1]
 };

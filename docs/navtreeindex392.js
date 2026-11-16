@@ -1,5 +1,7 @@
 var NAVTREEINDEX392 =
 {
+"de/d6e/structBattlegroundWGScore.html#a458db7f27a7e4a002e11a9561327ea1c":[7,0,358,4],
+"de/d6e/structBattlegroundWGScore.html#a7c602ee26cbca70d8496b68f331c3513":[7,0,358,5],
 "de/d6e/structBattlegroundWGScore.html#a804e56dbd666336d961cce2b0e4d6452":[7,0,358,1],
 "de/d6e/structBattlegroundWGScore.html#aa560d7f5f13dd235d43a9e3571090055":[7,0,358,6],
 "de/d6e/structBattlegroundWGScore.html#aab49f39d88989b153f1eb979fbbfaeb3":[7,0,358,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX392 =
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ab01e58f5829d1e488d7a726bb8797ec8":[7,0,1395,0,26],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ab1aa4ee2a0c7e2a6abb0447057e38753":[7,0,1395,0,6],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acb95055a1c991dd5c005ba24ba6172dc":[7,0,1395,0,9],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acfb5cbb97845cac19b68c74117f25fc1":[7,0,1395,0,22],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#adeaf3c50fa2d721e5f32eabd8b7a1b2d":[7,0,1395,0,21],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ae1bcd64be4b3c4ecd5861991969e8f46":[7,0,1395,0,1]
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acfb5cbb97845cac19b68c74117f25fc1":[7,0,1395,0,22]
 };

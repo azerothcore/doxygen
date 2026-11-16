@@ -1,5 +1,7 @@
 var NAVTREEINDEX413 =
 {
+"df/d3d/classBfCapturePoint.html#aa4290b17ee300ad0779e67aad8b8c943":[7,0,362,23],
+"df/d3d/classBfCapturePoint.html#aa5d1cf8097e181ffb0563c334a896f29":[7,0,362,27],
 "df/d3d/classBfCapturePoint.html#ab961bfe8934f89e6e454b8a74a280e3e":[7,0,362,12],
 "df/d3d/classBfCapturePoint.html#abb7bd0bdbe2834d3c2e702b8d2f3dd5f":[7,0,362,26],
 "df/d3d/classBfCapturePoint.html#abd194abc04e9f60d5980a15d121cb13d":[7,0,362,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX413 =
 "df/d4b/classachievement__heartbreaker.html":[7,0,65],
 "df/d4b/classachievement__heartbreaker.html#ab3a2539ae5dc74743beb0dc0ea0147af":[7,0,65,1],
 "df/d4b/classachievement__heartbreaker.html#ad81925fc32d7cf914b7be44aabe49b39":[7,0,65,0],
-"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[7,0,0,68],
-"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[5,0,0,80],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html":[7,0,2182,0]
+"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[7,0,0,68]
 };

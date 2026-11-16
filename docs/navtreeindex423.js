@@ -1,5 +1,7 @@
 var NAVTREEINDEX423 =
 {
+"df/daa/classspell__doomfire.html#a093b09be5abde91a1487d67a7a554d30":[7,0,2889,3],
+"df/daa/classspell__doomfire.html#a24058b120f4fa06b89f6d582c53a365a":[7,0,2889,2],
 "df/daa/classspell__doomfire.html#a59a9c4dfe06859daac5bb69fa5d20e95":[7,0,2889,1],
 "df/daa/classspell__doomfire.html#aa94e4d6a31a08959a5287b863737c2e2":[7,0,2889,0],
 "df/dab/boss__krystallus_8cpp.html":[8,0,0,0,1,3,5,9,1,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX423 =
 "df/dbb/structboss__flame__leviathan.html#aa1c2f7cf26d6d5c22333519430b4807a":[7,0,486,3],
 "df/dbb/structboss__flame__leviathan.html#ab29c468e9c530508232c3c511416ff92":[7,0,486,19],
 "df/dbb/structboss__flame__leviathan.html#ac371303cfea41e4f043a8d1bee24520c":[7,0,486,16],
-"df/dbb/structboss__flame__leviathan.html#ac726c99f43d48fd1e9e8b43fe20e8bb9":[7,0,486,22],
-"df/dbb/structboss__flame__leviathan.html#ac84312fff12d10097d4364dc0dac8207":[7,0,486,11],
-"df/dbb/structboss__flame__leviathan.html#acdcac20923bb0a52abef0590f03b8b05":[7,0,486,6]
+"df/dbb/structboss__flame__leviathan.html#ac726c99f43d48fd1e9e8b43fe20e8bb9":[7,0,486,22]
 };

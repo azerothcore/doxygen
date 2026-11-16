@@ -1,5 +1,7 @@
 var NAVTREEINDEX278 =
 {
+"da/d80/structEscort__Waypoint.html#a6a763373fcc37e5a463b54e1e1a68235":[7,0,1061,1],
+"da/d80/structEscort__Waypoint.html#a810ad58fe70fd6402f01ed7e70b450e0":[7,0,1061,5],
 "da/d80/structEscort__Waypoint.html#a88648b1bd70afad73d402c40abcd68b5":[7,0,1061,4],
 "da/d80/structboss__zereketh__the__unbound.html":[7,0,824],
 "da/d80/structboss__zereketh__the__unbound.html#a07d3a1264e6d78c2696990755fc7fe45":[7,0,824,3],
@@ -219,16 +221,16 @@ var NAVTREEINDEX278 =
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html":[5,0,0,4,1],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[7,0,0,2,1,5],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c":[5,0,0,4,1,5],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[5,0,0,4,1,2],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[7,0,0,2,1,2],
+"da/d88/classAcore_1_1Crypto_1_1ARC4.html#a68993c30cafb864abd5ae0c49ee8296e":[5,0,0,4,1,2],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a8539413b1e0344abe9545f742cc8e6df":[7,0,0,2,1,7],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a8539413b1e0344abe9545f742cc8e6df":[5,0,0,4,1,7],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#aaa9c89da159b57a897898bc31e10ecd4":[5,0,0,4,1,3],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#aaa9c89da159b57a897898bc31e10ecd4":[7,0,0,2,1,3],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ab017c87cd73a9b5fade745799724c333":[5,0,0,4,1,6],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ab017c87cd73a9b5fade745799724c333":[7,0,0,2,1,6],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#ac05d4f85233abfc5cbcb87cd2a87bc5a":[5,0,0,4,1,0],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ac05d4f85233abfc5cbcb87cd2a87bc5a":[7,0,0,2,1,0],
+"da/d88/classAcore_1_1Crypto_1_1ARC4.html#ac05d4f85233abfc5cbcb87cd2a87bc5a":[5,0,0,4,1,0],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ae350945f2713305e977e4a3e4fc3d5b5":[5,0,0,4,1,4],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ae350945f2713305e977e4a3e4fc3d5b5":[7,0,0,2,1,4],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#af3a8b63c2073120026c262a685eef8f2":[5,0,0,4,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX278 =
 "da/d8a/classspell__item__direbrew__remote__aura.html":[7,0,3417],
 "da/d8a/classspell__item__direbrew__remote__aura.html#a058eeb1e0489340763a58d92d4bed832":[7,0,3417,0],
 "da/d8a/classspell__item__direbrew__remote__aura.html#a3d71859b7e7f914a395f131dd4a6b4ab":[7,0,3417,1],
-"da/d8a/classspell__item__direbrew__remote__aura.html#ae5a8adc3fe7cc5c5d7dd715449d3442f":[7,0,3417,2],
-"da/d8c/SkillExtraItems_8h.html":[8,0,0,0,1,2,40,3],
-"da/d8c/SkillExtraItems_8h.html#a121df170a82be5ab5b05999a6be27b69":[8,0,0,0,1,2,40,3,3]
+"da/d8a/classspell__item__direbrew__remote__aura.html#ae5a8adc3fe7cc5c5d7dd715449d3442f":[7,0,3417,2]
 };

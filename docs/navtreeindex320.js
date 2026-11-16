@@ -1,5 +1,7 @@
 var NAVTREEINDEX320 =
 {
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a29d3bf939fd7b5bddc4fb8d38c07e62f":[8,0,0,0,1,3,9,8,90,9],
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a32f70a7fee3162d794cf8c6be89f5682":[8,0,0,0,1,3,9,8,90,19],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a3e89fae53932e31a67bc37d7b688f2c6":[8,0,0,0,1,3,9,8,90,2],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4411e2f8adfa007dc7a31040237b9abe":[8,0,0,0,1,3,9,8,90,6],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a4a956540bf457e206223deb1ada0c15d":[8,0,0,0,1,3,9,8,90,0],
@@ -155,8 +157,8 @@ var NAVTREEINDEX320 =
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[7,0,13,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,35,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[7,0,13,12,1,2],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,35,12,1,0],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[7,0,13,12,1,0],
 "db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html":[7,0,1356,0],
 "db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html#a1523ad04993ce4ddf5b503355f7c856a":[7,0,1356,0,0],
 "db/dfe/ALEScript_8h.html":[8,0,0,0,1,2,38,0,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d03/structboss__jaraxxus.html#a86a9d40e9fabd693dd936758ccdb8a9a":[7,0,571,5],
 "dc/d03/structboss__jaraxxus.html#a87fcb2c9ca26b498a17138459ea45e7a":[7,0,571,2],
 "dc/d03/structboss__jaraxxus.html#ab41962c64bd1a4b0e93bc83ae5f62889":[7,0,571,6],
-"dc/d03/structboss__jaraxxus.html#ab5b9ac68b23be5833e3e061f2623ee37":[7,0,571,4],
-"dc/d03/structboss__jaraxxus.html#ad024c86f49c0ff49bc8ccde187d59088":[7,0,571,7],
-"dc/d03/structboss__jaraxxus.html#adc9cd34f103c026a9d91f5b7b076ac02":[7,0,571,3]
+"dc/d03/structboss__jaraxxus.html#ab5b9ac68b23be5833e3e061f2623ee37":[7,0,571,4]
 };

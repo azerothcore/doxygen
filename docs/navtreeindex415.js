@@ -1,5 +1,7 @@
 var NAVTREEINDEX415 =
 {
+"df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afa1076c772446fc99a4141925c4681cf10":[8,0,0,0,1,3,2,1,0,0,30,1],
+"df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afa8053ffeaad38499a5a6549cb1ee6fffc":[8,0,0,0,1,3,2,1,0,0,30,0],
 "df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afab293bb2049c2b6e1004eaccc5fef59eb":[8,0,0,0,1,3,2,1,0,0,30,2],
 "df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afae6f75c5a860db2c1276777cb7ad9ec59":[8,0,0,0,1,3,2,1,0,0,30,3],
 "df/d57/blackrock__depths_8cpp.html#a2b671238f8a9d6c755d81fe60b2b11afaff649f954966a9020040cfe508de5ad8":[8,0,0,0,1,3,2,1,0,0,30,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX415 =
 "df/d68/structnpc__flame__of__azzinoth.html":[7,0,1834],
 "df/d68/structnpc__flame__of__azzinoth.html#a24eba1a6cdea4971573a6f4b2dd34fb3":[7,0,1834,2],
 "df/d68/structnpc__flame__of__azzinoth.html#a5254057af0371a08ea01fe91502c2a20":[7,0,1834,1],
-"df/d68/structnpc__flame__of__azzinoth.html#a7a1c9b967e6a79721dea8cbca44cbb5b":[7,0,1834,4],
-"df/d68/structnpc__flame__of__azzinoth.html#acdeb046c2214bd449257ba1b932c8a5c":[7,0,1834,0],
-"df/d68/structnpc__flame__of__azzinoth.html#ad2e7085fcd985a08cc2e317485a8fff1":[7,0,1834,3]
+"df/d68/structnpc__flame__of__azzinoth.html#a7a1c9b967e6a79721dea8cbca44cbb5b":[7,0,1834,4]
 };

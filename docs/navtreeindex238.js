@@ -1,5 +1,7 @@
 var NAVTREEINDEX238 =
 {
+"d8/daa/classnpc__coldflame.html":[7,0,1738],
+"d8/daa/classnpc__coldflame.html#a573b887358e2ba2281c4c119a267c33f":[7,0,1738,1],
 "d8/daa/classnpc__coldflame.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1":[7,0,1738,2],
 "d8/daa/classspell__infected__worgen__bite__aura.html":[7,0,3374],
 "d8/daa/classspell__infected__worgen__bite__aura.html#a3e5902a79b9d2c5cad69ad2ece8592ec":[7,0,3374,1],
@@ -38,8 +40,8 @@ var NAVTREEINDEX238 =
 "d8/db1/QuestHandler_8cpp.html":[8,0,0,0,1,2,22,26],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html":[5,0,0,8,0,24],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html":[7,0,0,5,0,24],
-"d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html#adb9fbbd823ddc1a80d7d8b3063c1ec54":[7,0,0,5,0,24,0],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html#adb9fbbd823ddc1a80d7d8b3063c1ec54":[5,0,0,8,0,24,0],
+"d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html#adb9fbbd823ddc1a80d7d8b3063c1ec54":[7,0,0,5,0,24,0],
 "d8/db2/classspell__gen__mine__sweeper.html":[7,0,3116],
 "d8/db2/classspell__gen__mine__sweeper.html#a06f9cf29387b49f3e5950661173c77eb":[7,0,3116,1],
 "d8/db2/classspell__gen__mine__sweeper.html#a20a7b3a25711a90ab5f0e14991112ea0":[7,0,3116,4],
@@ -246,8 +248,6 @@ var NAVTREEINDEX238 =
 "d8/dbc/classspell__najentus__hurl__spine.html#a0296aa3d00d0d12e213d95b8520c50dc":[7,0,3740,1],
 "d8/dbc/classspell__najentus__hurl__spine.html#a4cd7135ff9e4ef605635f1eccc01ba65":[7,0,3740,2],
 "d8/dbc/classspell__najentus__hurl__spine.html#ab105ff1efd0fe20585ac3dc6c60f81a2":[7,0,3740,0],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[5,0,0,41],
 "d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[7,0,0,29],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[5,0,0,41,4],
-"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html#a07a346225f675433792d2298673acd1f":[7,0,0,29,4]
+"d8/dbd/classAcore_1_1AnyPlayerInObjectRangeCheck.html":[5,0,0,41]
 };

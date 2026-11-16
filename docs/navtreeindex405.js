@@ -1,5 +1,7 @@
 var NAVTREEINDEX405 =
 {
+"de/df1/zone__duskwood_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8c167711f76366adc8cf61625480f6da":[8,0,0,0,1,3,2,19,2,0],
+"de/df1/zone__duskwood_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afb7e438d6473a60fc5b3033d846b8cc3":[8,0,0,0,1,3,2,19,2,1],
 "de/df1/zone__duskwood_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,2,19,4],
 "de/df1/zone__duskwood_8cpp.html#a5bd342133be8c2137b831460acc9298ca0bb6ecbd56340192fb160a288f42d69f":[8,0,0,0,1,3,2,19,4,1],
 "de/df1/zone__duskwood_8cpp.html#a5bd342133be8c2137b831460acc9298ca12cc1a7913b3324d03e18e7efef54df9":[8,0,0,0,1,3,2,19,4,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX405 =
 "de/dff/classspell__the__lich__king__lights__favor__aura.html#aecd8670e3a079c8460cddd5ce0b4f79b":[7,0,4267,3],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html":[5,0,0,130],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html":[7,0,0,118],
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html#a39a9d66014df641c0cb08f619f9d8434":[5,0,0,130,6],
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html#a39a9d66014df641c0cb08f619f9d8434":[7,0,0,118,6],
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html#a5689c8aa9120bc545c98ec0916d78d56":[7,0,0,118,8]
+"de/dff/structAcore_1_1WorldObjectLastSearcher.html#a39a9d66014df641c0cb08f619f9d8434":[5,0,0,130,6]
 };

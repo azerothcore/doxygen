@@ -1,5 +1,7 @@
 var NAVTREEINDEX420 =
 {
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#aac80ae1b85bde17ae6c71193f31df52e":[7,0,674,0,13],
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#acb14e5177a73ffe49c5113f5ea5ddf13":[7,0,674,0,19],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ad1e9ac4b158ee387369ac1aeeb5abe4c":[7,0,674,0,21],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#adf0e15ab7cae6d73d0ac4d97d63de6b3":[7,0,674,0,7],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#ae15f486fd0942f9f310b0b60cc29b288":[7,0,674,0,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX420 =
 "df/d9e/classspell__ice__bombardment__dest__picker.html#ace1bb0dd5a76aa75038060af16b2e09f":[7,0,3322,0],
 "df/d9e/structMMAP_1_1MeshData.html":[5,0,21,4],
 "df/d9e/structMMAP_1_1MeshData.html":[7,0,6,4],
-"df/d9e/structMMAP_1_1MeshData.html#a52796933ab018f27d12f625673f7f8a9":[5,0,21,4,2],
-"df/d9e/structMMAP_1_1MeshData.html#a52796933ab018f27d12f625673f7f8a9":[7,0,6,4,2],
-"df/d9e/structMMAP_1_1MeshData.html#a56bbdeb5028302de0c5eb5a02cffa44c":[5,0,21,4,4]
+"df/d9e/structMMAP_1_1MeshData.html#a52796933ab018f27d12f625673f7f8a9":[5,0,21,4,2]
 };

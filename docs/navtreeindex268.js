@@ -1,5 +1,7 @@
 var NAVTREEINDEX268 =
 {
+"da/d17/structEnchantDuration.html#a1ce5f81deaa60494c247673c113632d8":[7,0,1051,0],
+"da/d17/structEnchantDuration.html#a3de1a8d64aea4c5c1f984a74c6bb017d":[7,0,1051,4],
 "da/d17/structEnchantDuration.html#a3f4edafbc9b09cb5ab660bc68af435f3":[7,0,1051,3],
 "da/d17/structEnchantDuration.html#a52448f2bb8b788193a69fe9a2d8729f3":[7,0,1051,1],
 "da/d17/structEnchantDuration.html#ae803f6a9ce9cdb0dbb133bc85b6613ab":[7,0,1051,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX268 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0c983e44ea6a160f97beba0672878c3a":[8,0,0,0,1,2,41,0,0,6,86],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0c9f59e3df4e08caa44f5a23181e0e27":[8,0,0,0,1,2,41,0,0,6,184],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0ead1d21561a1d51aa165ba0fbbf03f0":[8,0,0,0,1,2,41,0,0,6,278],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0ee9b3a7d5427e1baacf407cd1dfd589":[8,0,0,0,1,2,41,0,0,6,30],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1015c47e51e396ce6bac8260ce380831":[8,0,0,0,1,2,41,0,0,6,71],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad":[8,0,0,0,1,2,41,0,0,6,3]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0ee9b3a7d5427e1baacf407cd1dfd589":[8,0,0,0,1,2,41,0,0,6,30]
 };

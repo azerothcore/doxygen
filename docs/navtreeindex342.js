@@ -1,5 +1,7 @@
 var NAVTREEINDEX342 =
 {
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298cae7d77304e23ba7ad5b4feab5c71266da":[8,0,0,0,1,3,7,0,0,2,3,7],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298caf51ee5a16ea9ca6146d52ef59116e8f1":[8,0,0,0,1,3,7,0,0,2,3,5],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html":[7,0,1140],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a4ea4d3b165a196482ebe96af9c462658":[7,0,1140,0],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a5f3c898a0dc6d9085589b88eb5571528":[7,0,1140,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX342 =
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ad93d6be40d07925d1eb485f864c72ace":[7,0,1363,0,14],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ae5a87cc8bfc153aee0f96978f39a1932":[7,0,1363,0,15],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#af4cca13b9039d7c88e7fad1e8f23eb3a":[7,0,1363,0,18],
-"dc/de5/classnpc__commander__eligor__dawnbringer.html":[7,0,1741],
-"dc/de5/classnpc__commander__eligor__dawnbringer.html#a71d919af98464d6d63f948507f3ff08c":[7,0,1741,1],
-"dc/de5/classnpc__commander__eligor__dawnbringer.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d":[7,0,1741,2]
+"dc/de5/classnpc__commander__eligor__dawnbringer.html":[7,0,1741]
 };

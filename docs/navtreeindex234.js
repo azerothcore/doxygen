@@ -1,5 +1,7 @@
 var NAVTREEINDEX234 =
 {
+"d8/d74/classWorldSession.html#af1940f38c424e11d15ebdf1927ee0400":[4,1,20,434],
+"d8/d74/classWorldSession.html#af1a3ad794750a5840998f6c1f1541d30":[4,1,20,404],
 "d8/d74/classWorldSession.html#af1df6024a65853c2ef938cc998b9a963":[4,1,20,163],
 "d8/d74/classWorldSession.html#af202a3a01d251767a9e88e0da61c099d":[4,1,20,136],
 "d8/d74/classWorldSession.html#af26490dcfe45ea80f0d1cb0dcb3decee":[4,1,20,623],
@@ -102,8 +104,8 @@ var NAVTREEINDEX234 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,1001,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,35,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,35,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[7,0,13,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[7,0,13,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,35,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[7,0,1633],
@@ -247,7 +249,5 @@ var NAVTREEINDEX234 =
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ac1d282da6f2d9133619a212a349c777f":[7,0,2183,0,13],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ac6b89c932978ac89bc158e28b9e229eb":[7,0,2183,0,12],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ad0b743d88ad18388d77abff9b695f961":[7,0,2183,0,11],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#adfb6df0ee8ab19b58de24da8d4e6d9df":[7,0,2183,0,15],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ae048456834db0f1903624ee1ca32941b":[7,0,2183,0,7],
-"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ae4cbc6294abd9796025ccdf95ce367b8":[7,0,2183,0,2]
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#adfb6df0ee8ab19b58de24da8d4e6d9df":[7,0,2183,0,15]
 };

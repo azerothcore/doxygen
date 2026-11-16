@@ -1,5 +1,7 @@
 var NAVTREEINDEX289 =
 {
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cadf64cb27de898214cbdc79bfe42acfc8":[8,0,0,0,1,3,5,2,1,6,9,36],
+"da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cae52a2e92cc69c2d011beba5407e20179":[8,0,0,0,1,3,5,2,1,6,9,12],
 "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cae5fc240df760986c07b6e1e360e55397":[8,0,0,0,1,3,5,2,1,6,9,0],
 "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caebb60322b40191c0a110780db6fd61aa":[8,0,0,0,1,3,5,2,1,6,9,14],
 "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caed1874ed9e90ee73e5b885da4ca866c5":[8,0,0,0,1,3,5,2,1,6,9,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX289 =
 "da/def/structItemExtendedCostEntry.html#a9cba8872c909260a55dcfdf7f4726899":[7,0,1428,4],
 "da/def/structItemExtendedCostEntry.html#aca509fb7e234bc54632ff988bf37e6ad":[7,0,1428,3],
 "da/def/structItemExtendedCostEntry.html#ad1e4b8f94a743bac02bbadbc8d62ad0b":[7,0,1428,2],
-"da/def/structItemExtendedCostEntry.html#af4ff8d55234b03637e4b2fbd10778e97":[7,0,1428,6],
-"da/def/structSpellCooldown.html":[7,0,4488],
-"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[7,0,4488,2]
+"da/def/structItemExtendedCostEntry.html#af4ff8d55234b03637e4b2fbd10778e97":[7,0,1428,6]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX367 =
 {
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a325b7e249f71dddb28363807e9b1af59":[8,0,0,0,1,3,5,10,1,3,4,15],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a463e13290458bfebc4c5c1ae96f03db3":[8,0,0,0,1,3,5,10,1,3,4,6],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,5,10,1,3,4,0],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5c68e56ebc91734d36f5446eea454f4a":[8,0,0,0,1,3,5,10,1,3,4,16],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a70af277b808e9aeb6ea36bcf61768d31":[8,0,0,0,1,3,5,10,1,3,4,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX367 =
 "de/d06/structDialogueEntry.html":[7,0,1014],
 "de/d06/structDialogueEntry.html#a360822e4c069be6019c0a465cb2499cf":[7,0,1014,2],
 "de/d06/structDialogueEntry.html#a3f9e374ec2a49823d942c29572ac2fa0":[7,0,1014,0],
-"de/d06/structDialogueEntry.html#a942073f24fd12da712184243d9f098f2":[7,0,1014,1],
-"de/d06/structboss__headless__horseman.html":[7,0,540],
-"de/d06/structboss__headless__horseman.html#a06a654a822967c02dbab2c75f211e072":[7,0,540,7]
+"de/d06/structDialogueEntry.html#a942073f24fd12da712184243d9f098f2":[7,0,1014,1]
 };

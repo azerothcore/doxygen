@@ -1,10 +1,12 @@
 var NAVTREEINDEX321 =
 {
+"dc/d03/structboss__jaraxxus.html#ad024c86f49c0ff49bc8ccde187d59088":[7,0,571,7],
+"dc/d03/structboss__jaraxxus.html#adc9cd34f103c026a9d91f5b7b076ac02":[7,0,571,3],
 "dc/d04/classachievement__flame__leviathan__shutout.html":[7,0,56],
 "dc/d04/classachievement__flame__leviathan__shutout.html#a555e0d206b7f730665d301c7e03b23e6":[7,0,56,0],
 "dc/d04/classachievement__flame__leviathan__shutout.html#af548232f563fd387bc8ee25b696a2f99":[7,0,56,1],
-"dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
 "dc/d04/conceptAcore_1_1AnyTypeList.html":[5,0,0,140],
+"dc/d04/conceptAcore_1_1AnyTypeList.html":[6,0,0],
 "dc/d05/InstancePackets_8h.html":[8,0,0,0,1,2,39,0,16],
 "dc/d05/classnpc__wounded__blood__elf.html":[7,0,2339],
 "dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[7,0,2339,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX321 =
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb68f937d20a2c3b950fa0472657a174":[8,0,0,0,1,3,5,4,1,2,21,11],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc0378017b872625a84efb340c7c3224":[8,0,0,0,1,3,5,4,1,2,21,8],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1addf50b7ce422c565cdfa865d4f741dc2":[8,0,0,0,1,3,5,4,1,2,21,19],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adf7aea44d244b5d8d7bfad495c5f42db":[8,0,0,0,1,3,5,4,1,2,21,28],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae0a5c09d3ec69c8e7850531771251152":[8,0,0,0,1,3,5,4,1,2,21,16],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae193083953e93a044b4f1a70ee43b72b":[8,0,0,0,1,3,5,4,1,2,21,3]
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adf7aea44d244b5d8d7bfad495c5f42db":[8,0,0,0,1,3,5,4,1,2,21,28]
 };

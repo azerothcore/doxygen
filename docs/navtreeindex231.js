@@ -1,7 +1,9 @@
 var NAVTREEINDEX231 =
 {
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[7,0,0,5,2,0],
+"d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[7,0,474,2],
+"d8/d6e/PetHandler_8cpp.html":[8,0,0,0,1,2,22,23],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,0,8,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[7,0,0,5,2,0],
 "d8/d6e/structboss__erekem.html":[7,0,465],
 "d8/d6e/structboss__erekem.html#a23ce09bbe023ebab5dbe1bf26cd84c7a":[7,0,465,4],
 "d8/d6e/structboss__erekem.html#a24100918d900f974144f94f399e429b3":[7,0,465,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX231 =
 "d8/d74/classWorldSession.html#a2bb41efcc71deb6201ad5952916bc425":[4,1,20,176],
 "d8/d74/classWorldSession.html#a2c6c38bbb2d040ed650fb0e0c9914c68":[4,1,20,618],
 "d8/d74/classWorldSession.html#a2c74b80ca9b81765049e315813b29269":[4,1,20,545],
-"d8/d74/classWorldSession.html#a2d5f8c67cffee6d40fbb37f8e2063820":[4,1,20,441],
-"d8/d74/classWorldSession.html#a2d68715e6deff62bd5ac7332204937de":[4,1,20,613],
-"d8/d74/classWorldSession.html#a2d71f363ebd938e49080705147142ed8":[4,1,20,2]
+"d8/d74/classWorldSession.html#a2d5f8c67cffee6d40fbb37f8e2063820":[4,1,20,441]
 };

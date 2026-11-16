@@ -1,5 +1,7 @@
 var NAVTREEINDEX419 =
 {
+"df/d8a/classboss__baroness__anastari.html":[7,0,412],
+"df/d8a/classboss__baroness__anastari.html#a38073f80afbceb5535cc18ab524378a6":[7,0,412,2],
 "df/d8a/classboss__baroness__anastari.html#a60f04c10d9b942cacf74a1dc8364dbbe":[7,0,412,1],
 "df/d8b/WardenPayloadMgr_8cpp.html":[8,0,0,0,1,2,47,8],
 "df/d8b/classspell__item__rocket__chicken.html":[7,0,3503],
@@ -247,7 +249,5 @@ var NAVTREEINDEX419 =
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a68abd0f9cfe5dd0813d5e7e9b29e4914":[7,0,674,0,15],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a6caada5f7cd8afac81256f1ca6a57af7":[7,0,674,0,18],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a812b4f1348c8c73b30cf48373602798c":[7,0,674,0,5],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a89fe035de2076c7d82434a6b955ced3f":[7,0,674,0,6],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#aac80ae1b85bde17ae6c71193f31df52e":[7,0,674,0,13],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#acb14e5177a73ffe49c5113f5ea5ddf13":[7,0,674,0,19]
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a89fe035de2076c7d82434a6b955ced3f":[7,0,674,0,6]
 };

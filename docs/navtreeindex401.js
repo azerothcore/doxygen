@@ -1,5 +1,7 @@
 var NAVTREEINDEX401 =
 {
+"de/db1/structRecoveryItem.html#ab7060a7c758092dfb7047d3bb67172e8":[7,0,2551,6],
+"de/db1/structRecoveryItem.html#acb85220f11388742df8f0904f81b9037":[7,0,2551,7],
 "de/db1/structRecoveryItem.html#af479923b65c9bbfe7bb139f4b223f266":[7,0,2551,10],
 "de/db1/structRecoveryItem.html#afb02af58744af204181434f216fa7d8a":[7,0,2551,5],
 "de/db1/structnpc__dark__iron__attack__mole__machine.html":[7,0,1778],
@@ -247,7 +249,5 @@ var NAVTREEINDEX401 =
 "de/dc0/boss__bronjahm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aecd620118a6d4fca771c9a2e088dffa8":[8,0,0,0,1,3,5,4,0,0,6,4],
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html":[7,0,2725],
 "de/dc0/classspell__black__temple__skeleton__shot__aura.html#a0515a72abd37df13606876021659b995":[7,0,2725,1],
-"de/dc0/classspell__black__temple__skeleton__shot__aura.html#a99f96034b5976615c38e13e5e55c61b6":[7,0,2725,0],
-"de/dc0/classspell__black__temple__skeleton__shot__aura.html#ad7c8338ae3f3e6680405652c3e5f7f06":[7,0,2725,2],
-"de/dc0/structBattlegroundTemplate.html":[7,0,357]
+"de/dc0/classspell__black__temple__skeleton__shot__aura.html#a99f96034b5976615c38e13e5e55c61b6":[7,0,2725,0]
 };

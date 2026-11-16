@@ -1,5 +1,7 @@
 var NAVTREEINDEX418 =
 {
+"df/d7f/structboss__novos.html#ad037870744002e44a48e056875bd7ec1":[7,0,657,2],
+"df/d7f/structboss__novos.html#ae05afda7873a26a7a812813628e970fc":[7,0,657,0],
 "df/d7f/structboss__novos.html#ae6c7721cfc95e8a524ea3d2fc4e20a88":[7,0,657,15],
 "df/d7f/structboss__novos.html#af37e7d05ad672d443f7f2f89c7fd24a5":[7,0,657,11],
 "df/d81/classspell__dk__wandering__plague.html":[7,0,2886],
@@ -247,7 +249,5 @@ var NAVTREEINDEX418 =
 "df/d89/SkillDiscovery_8cpp.html#ab50472e4f1f892eb77ce660ef00d808a":[8,0,0,0,1,2,40,0,4],
 "df/d89/SkillDiscovery_8cpp.html#ab7ec6a8662e4edd3167deb3c917d2eab":[8,0,0,0,1,2,40,0,2],
 "df/d89/SkillDiscovery_8cpp.html#abdf3c2fcf65212466dfb54053e35024c":[8,0,0,0,1,2,40,0,5],
-"df/d89/SkillDiscovery_8cpp.html#addd95f0a239a27ed32cd943aa1052019":[8,0,0,0,1,2,40,0,6],
-"df/d8a/classboss__baroness__anastari.html":[7,0,412],
-"df/d8a/classboss__baroness__anastari.html#a38073f80afbceb5535cc18ab524378a6":[7,0,412,2]
+"df/d89/SkillDiscovery_8cpp.html#addd95f0a239a27ed32cd943aa1052019":[8,0,0,0,1,2,40,0,6]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX316 =
 {
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadac4978ca84911d79649b4f8c478e6455b":[8,0,0,0,1,3,2,30,27,48],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadacedf0cbfea3504a16e7a923853913ca8":[8,0,0,0,1,3,2,30,27,16],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadad1bd7a83a943b1a4edce90e2a3bc4594":[8,0,0,0,1,3,2,30,27,63],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadad31fdc64fb4e0b71a1230c9c07a5e847":[8,0,0,0,1,3,2,30,27,82],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cadad621a77faaf608eab9832a096ac3e322":[8,0,0,0,1,3,2,30,27,71],
@@ -179,10 +181,10 @@ var NAVTREEINDEX316 =
 "db/dd8/classspell__dk__ghoul__explode.html#a981f8547eae9b317111bf9a7016510ab":[7,0,2851,3],
 "db/dd8/classspell__dk__ghoul__explode.html#aa2c3399146b15f754e073e4fa08f3d5a":[7,0,2851,4],
 "db/dd8/classspell__dk__ghoul__explode.html#ad29179d9159700b52b0c21a779cd060b":[7,0,2851,2],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[7,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,0,8,0,7],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[7,0,0,5,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[7,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,0,8,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[7,0,0,5,0,7,0],
 "db/ddb/classConfigException.html":[7,0,923],
 "db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[7,0,923,0],
 "db/ddb/classTaskContext.html":[7,0,4579],
@@ -247,7 +249,5 @@ var NAVTREEINDEX316 =
 "db/ddd/structboss__kelidan__the__breaker.html#a12eb8fb73353042e4bb4ea31cbdc1c3c":[7,0,584,4],
 "db/ddd/structboss__kelidan__the__breaker.html#a1c1613b165c25025a2a11bf3c38d6747":[7,0,584,5],
 "db/ddd/structboss__kelidan__the__breaker.html#a3fa0117ce1079f651025116684f5e2f4":[7,0,584,2],
-"db/ddd/structboss__kelidan__the__breaker.html#a46c592f6c46ea568ad368702e1640e06":[7,0,584,6],
-"db/ddd/structboss__kelidan__the__breaker.html#a4d3f0171b7889a96f19999b28e549866":[7,0,584,3],
-"db/ddd/structboss__kelidan__the__breaker.html#a6774e4a0315b30266f6c55da608cd193":[7,0,584,0]
+"db/ddd/structboss__kelidan__the__breaker.html#a46c592f6c46ea568ad368702e1640e06":[7,0,584,6]
 };

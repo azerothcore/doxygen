@@ -1,19 +1,21 @@
 var NAVTREEINDEX274 =
 {
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a":[5,0,18,14,1],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a74f54d22ca9e2b6711bf363737b9ff06":[5,0,18,14,5],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a74f54d22ca9e2b6711bf363737b9ff06":[7,0,5,14,5],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a":[7,0,5,14,1],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a":[5,0,18,14,1],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a9a6288f9e14e593e147b4f60a1dc8991":[7,0,5,14,2],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#a9a6288f9e14e593e147b4f60a1dc8991":[5,0,18,14,2],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef":[7,0,5,14,6],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef":[5,0,18,14,6],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef":[7,0,5,14,6],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf":[7,0,5,14,8],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf":[5,0,18,14,8],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[7,0,5,14,9],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[5,0,18,14,9],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[5,0,18,14,7],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[7,0,5,14,7],
-"da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[7,0,5,14,0],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[5,0,18,14,7],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[5,0,18,14,0],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[7,0,5,14,0],
 "da/d5f/structnpc__ulduar__hodir__shaman.html":[7,0,2284],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a02476e4ddb2287c647a2a4bd7e342150":[7,0,2284,8],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a08af85d3446c86443ff5a620b159d000":[7,0,2284,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX274 =
 "da/d70/AuctionHouseSearcher_8h.html#a7d6d8287b2adf4a3caae16ed69a8519d":[8,0,0,0,1,2,5,3,23],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420":[8,0,0,0,1,2,5,3,24],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a25b565bb3a4f39cecd688a6a95cbc595":[8,0,0,0,1,2,5,3,24,3],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a26c2c32eb02df2a5e1690e0ec6bf221a":[8,0,0,0,1,2,5,3,24,8],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a29d9f97d625896cd9e9729e0971ca215":[8,0,0,0,1,2,5,3,24,2],
-"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a30585d5b267baaa6ff0ff1c1f2d900e4":[8,0,0,0,1,2,5,3,24,0]
+"da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420a26c2c32eb02df2a5e1690e0ec6bf221a":[8,0,0,0,1,2,5,3,24,8]
 };

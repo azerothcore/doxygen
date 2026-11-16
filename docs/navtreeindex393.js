@@ -1,5 +1,7 @@
 var NAVTREEINDEX393 =
 {
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#adeaf3c50fa2d721e5f32eabd8b7a1b2d":[7,0,1395,0,21],
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ae1bcd64be4b3c4ecd5861991969e8f46":[7,0,1395,0,1],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ae9d975b95e389fb8035d337bd1da70c4":[7,0,1395,0,24],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aeb31bb99804ca856339d54e1054db632":[7,0,1395,0,8],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aeb9c936614467ac83b8be6b4c17c23ca":[7,0,1395,0,19],
@@ -247,7 +249,5 @@ var NAVTREEINDEX393 =
 "de/d7e/classWorldModelStore.html#ae609ba50932b7bac6ac0c1c7d0800b5d":[7,0,4745,0],
 "de/d7e/classWorldModelStore.html#af6dc1b3c77f5eeff5ff4b9bc5c4024b0":[7,0,4745,1],
 "de/d7e/classnpc__muradin__bronzebeard__icc.html":[7,0,2030],
-"de/d7e/classnpc__muradin__bronzebeard__icc.html#a46c4893be723a848d985ff55e28d55a2":[7,0,2030,4],
-"de/d7e/classnpc__muradin__bronzebeard__icc.html#a7e4cecb0f4cabf024794045ed20e3563":[7,0,2030,1],
-"de/d7e/classnpc__muradin__bronzebeard__icc.html#a7fb9838521dbae6ac0a8bb4ac1e07c37":[7,0,2030,3]
+"de/d7e/classnpc__muradin__bronzebeard__icc.html#a46c4893be723a848d985ff55e28d55a2":[7,0,2030,4]
 };
