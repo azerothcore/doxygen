@@ -11,6 +11,7 @@ var boss__twin__valkyr_8cpp =
     [ "spell_valkyr_essence_aura", "d0/d10/classspell__valkyr__essence__aura.html", "d0/d10/classspell__valkyr__essence__aura" ],
     [ "spell_valkyr_touch_aura", "dd/dac/classspell__valkyr__touch__aura.html", "dd/dac/classspell__valkyr__touch__aura" ],
     [ "spell_valkyr_ball_periodic_dummy_aura", "d0/dd6/classspell__valkyr__ball__periodic__dummy__aura.html", "d0/dd6/classspell__valkyr__ball__periodic__dummy__aura" ],
+    [ "spell_valkyr_clear_auras", "d7/d71/classspell__valkyr__clear__auras.html", "d7/d71/classspell__valkyr__clear__auras" ],
     [ "Equipment", "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bc", [
       [ "EQUIP_MAIN_1", "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bcae4818bceef8e7f8183d71ce60d9aae2f", null ],
       [ "EQUIP_OFFHAND_1", "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bca54433e9a751af0ab0d925e2f44ae0287", null ],
@@ -61,7 +62,9 @@ var boss__twin__valkyr_8cpp =
       [ "SPELL_TWIN_POWER", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844ab968e63f01897839c2a557db40865f22", null ],
       [ "SPELL_BERSERK", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844ad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_TWIN_EMPATHY_DARK", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a7e012640ecc314eee96ed8ad481fe712", null ],
-      [ "SPELL_TWIN_EMPATHY_LIGHT", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844af204f4c2da44b9fdb56676e9ea269ff5", null ]
+      [ "SPELL_TWIN_EMPATHY_LIGHT", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844af204f4c2da44b9fdb56676e9ea269ff5", null ],
+      [ "SPELL_CLEAR_VALKYR_ESSENCE", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a720ad8b5873dfb6465c57a15057bd01b", null ],
+      [ "SPELL_CLEAR_VALKYR_TOUCH", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a8c420a522a120bbd9efa89e0e2714bde", null ]
     ] ],
     [ "Yells", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_AGGRO", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
@@ -72,7 +75,8 @@ var boss__twin__valkyr_8cpp =
       [ "SAY_TWINK_PACT", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae1af0b90925faa94026f02e3322dff5d", null ],
       [ "SAY_KILL_PLAYER", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad8ce3f4de5ecaa5762ee8b55570503a4", null ],
       [ "SAY_BERSERK", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b", null ],
-      [ "SAY_DEATH", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ]
+      [ "SAY_DEATH", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "EMOTE_BERSERK", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad4a2e4c34c9e4cf25e66544b1de3bdd9", null ]
     ] ],
     [ "AddSC_boss_twin_valkyr", "d7/dc0/boss__twin__valkyr_8cpp.html#aab55ff5b9017c81c9e158524c49a2925", null ]
 ];

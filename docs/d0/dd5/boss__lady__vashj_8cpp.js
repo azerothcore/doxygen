@@ -7,6 +7,9 @@ var boss__lady__vashj_8cpp =
     [ "spell_lady_vashj_spore_drop_effect", "dd/d59/classspell__lady__vashj__spore__drop__effect.html", "dd/d59/classspell__lady__vashj__spore__drop__effect" ],
     [ "spell_lady_vashj_summons", "d5/d22/classspell__lady__vashj__summons.html", "d5/d22/classspell__lady__vashj__summons" ],
     [ "spell_lady_vashj_tainted_core_paralyze", "d8/d25/classspell__lady__vashj__tainted__core__paralyze.html", "d8/d25/classspell__lady__vashj__tainted__core__paralyze" ],
+    [ "Actions", "d0/dd5/boss__lady__vashj_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
+      [ "ACTION_MAGIC_BARRIER_REMOVED", "d0/dd5/boss__lady__vashj_8cpp.html#a250372292659bed7ae290d8621f88ccfa455cc162b9988f051aa3397ddaca1ec5", null ]
+    ] ],
     [ "Misc", "d0/dd5/boss__lady__vashj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "ITEM_TAINTED_CORE", "d0/dd5/boss__lady__vashj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ed31d628663339b15d99c7e0ebe47af", null ],
       [ "POINT_HOME", "d0/dd5/boss__lady__vashj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a032be97ee26935943c3313fb24491162", null ],

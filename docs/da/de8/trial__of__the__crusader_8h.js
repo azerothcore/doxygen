@@ -197,7 +197,9 @@ var trial__of__the__crusader_8h =
       [ "NPC_CAT", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2d74487213c384ec1db2d79c559e5813", null ],
       [ "NPC_LIGHTBANE", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca1ba7cac32432f79d0aa3b58931d3167b", null ],
       [ "NPC_DARKBANE", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca7c95ee4d952bb44df867c9f65cc7aa14", null ],
-      [ "NPC_ANUBARAK", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca9ccdc8bccffd48df50721fc98c1b6bc3", null ]
+      [ "NPC_ANUBARAK", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca9ccdc8bccffd48df50721fc98c1b6bc3", null ],
+      [ "NPC_SCARAB", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caa821a34ce4ede17b251360c5a4bfe10a", null ],
+      [ "NPC_BURROWER", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cad02c36aa55c6c4cda027f344749b80e1", null ]
     ] ],
     [ "Progress", "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1e", [
       [ "INSTANCE_PROGRESS_INITIAL", "da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea1d3557d5f8da750348e4bda8b8ee9bf4", null ],

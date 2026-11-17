@@ -1,5 +1,8 @@
 var NAVTREEINDEX101 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9b22f81c8bd6f5d16ec610c04383e02c":[8,0,0,0,1,2,49,7,0,331],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9ca49828a533b765ee05da4af830f646":[8,0,0,0,1,2,49,7,0,273],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9d1305bb4d198dde679019396d3e937e":[8,0,0,0,1,2,49,7,0,163],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9d64f27bd1adba3b03d81e054851bb95":[8,0,0,0,1,2,49,7,0,71],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9e6ccdf43061640217b8eabc0a090d5a":[8,0,0,0,1,2,49,7,0,112],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9e8972c85d0d14bf712665ef23b34b82":[8,0,0,0,1,2,49,7,0,14],
@@ -192,11 +195,11 @@ var NAVTREEINDEX101 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafeb95eb352794e22f94e4e90db422a29":[8,0,0,0,1,2,49,7,0,330],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[8,0,0,0,1,2,49,7,0,113],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafff6cc7a5b2a1da25fd15f8fb3df2380":[8,0,0,0,1,2,49,7,0,204],
-"d3/d46/classspell__mage__mirror__image.html":[7,0,3663],
-"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[7,0,3663,0],
-"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[7,0,3663,2],
-"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[7,0,3663,1],
-"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[7,0,3663,3],
+"d3/d46/classspell__mage__mirror__image.html":[7,0,3664],
+"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[7,0,3664,0],
+"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[7,0,3664,2],
+"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[7,0,3664,1],
+"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[7,0,3664,3],
 "d3/d46/trial__of__the__champion_8cpp.html":[8,0,0,0,1,3,5,2,0,4],
 "d3/d46/trial__of__the__champion_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[8,0,0,0,1,3,5,2,0,4,3],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[8,0,0,0,1,3,5,2,0,4,2],
@@ -210,8 +213,8 @@ var NAVTREEINDEX101 =
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adfcae59f1ecb69193139540751b63566":[8,0,0,0,1,3,5,2,0,4,2,1],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aecabad3faea06eea3d7351ca76671746":[8,0,0,0,1,3,5,2,0,4,2,6],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1834042b38498aba7a5f96a1ad45c8a":[8,0,0,0,1,3,5,2,0,4,2,3],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,21,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[7,0,6,6],
+"d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,21,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[7,0,6,6,0],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,21,6,0],
 "d3/d48/classgo__tele__to__violet__stand.html":[7,0,1230],
@@ -246,8 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca70a8a6a17e443cd4a65fe9e10af87bb1":[8,0,0,0,1,3,4,4,0,8,20],
 "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[8,0,0,0,1,3,4,4,0,8,4],
 "d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca8f8fb73b5b16b668ff27ecf036fe7137":[8,0,0,0,1,3,4,4,0,8,7],
-"d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca9d8562b0a22b4e548da51a771fb87bcd":[8,0,0,0,1,3,4,4,0,8,10],
-"d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298cabddf8f08dbd8333ba566b5c4bd7d4a43":[8,0,0,0,1,3,4,4,0,8,3],
-"d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298cacd57e0b0afcf15c92b43598a8e1ef24a":[8,0,0,0,1,3,4,4,0,8,18],
-"d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298cad1840b2895f169a5ff88ecb077208260":[8,0,0,0,1,3,4,4,0,8,19]
+"d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca9d8562b0a22b4e548da51a771fb87bcd":[8,0,0,0,1,3,4,4,0,8,10]
 };

@@ -7,6 +7,7 @@ var boss__anubarak__trial_8cpp =
     [ "npc_nerubian_burrower", "dd/d73/structnpc__nerubian__burrower.html", "dd/d73/structnpc__nerubian__burrower" ],
     [ "npc_anubarak_spike", "d3/d36/structnpc__anubarak__spike.html", "d3/d36/structnpc__anubarak__spike" ],
     [ "spell_pursuing_spikes_aura", "d8/dde/classspell__pursuing__spikes__aura.html", "d8/dde/classspell__pursuing__spikes__aura" ],
+    [ "spell_anubarak_summon_scarab_aura", "d6/da6/classspell__anubarak__summon__scarab__aura.html", "d6/da6/classspell__anubarak__summon__scarab__aura" ],
     [ "spell_gen_leeching_swarm_aura", "de/d15/classspell__gen__leeching__swarm__aura.html", "de/d15/classspell__gen__leeching__swarm__aura" ],
     [ "spell_gen_leeching_swarm_dmg", "d5/d23/classspell__gen__leeching__swarm__dmg.html", "d5/d23/classspell__gen__leeching__swarm__dmg" ],
     [ "AnubActions", "d4/d78/boss__anubarak__trial_8cpp.html#ac1c306cc8a71ffb0df805308cc4f0f27", [
@@ -30,8 +31,6 @@ var boss__anubarak__trial_8cpp =
     [ "AnubNPCs", "d4/d78/boss__anubarak__trial_8cpp.html#a950017bc99bfb958b7c8617784f4db25", [
       [ "NPC_FROST_SPHERE", "d4/d78/boss__anubarak__trial_8cpp.html#a950017bc99bfb958b7c8617784f4db25a168177bf6448a582c61896b0103da6b3", null ],
       [ "NPC_BURROW", "d4/d78/boss__anubarak__trial_8cpp.html#a950017bc99bfb958b7c8617784f4db25a6e683e595a9beb2400cde6a0a786c3a6", null ],
-      [ "NPC_BURROWER", "d4/d78/boss__anubarak__trial_8cpp.html#a950017bc99bfb958b7c8617784f4db25ad02c36aa55c6c4cda027f344749b80e1", null ],
-      [ "NPC_SCARAB", "d4/d78/boss__anubarak__trial_8cpp.html#a950017bc99bfb958b7c8617784f4db25aa821a34ce4ede17b251360c5a4bfe10a", null ],
       [ "NPC_SPIKE", "d4/d78/boss__anubarak__trial_8cpp.html#a950017bc99bfb958b7c8617784f4db25a70d6aea9018674ae57e2b827e96ff93b", null ]
     ] ],
     [ "AnubSpells", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0", [

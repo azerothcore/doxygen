@@ -1,5 +1,8 @@
 var NAVTREEINDEX49 =
 {
+"d1/de0/classLootStore.html#a6506931ec5ce351687bc0c44ef74b435":[7,0,1499,2],
+"d1/de0/classLootStore.html#a6adbdbba33f3c6d55d02f8f94de2e3ab":[7,0,1499,4],
+"d1/de0/classLootStore.html#a82a84ddb5051cf3e9ee508c2f0642d1e":[7,0,1499,9],
 "d1/de0/classLootStore.html#a99896ddfc04c20e2f7088a2ad8403e35":[7,0,1499,0],
 "d1/de0/classLootStore.html#a9edc9a356084a1395ca5367db91981bd":[7,0,1499,23],
 "d1/de0/classLootStore.html#aa64da1c4756d94e30c552b17795b1da0":[7,0,1499,11],
@@ -11,12 +14,12 @@ var NAVTREEINDEX49 =
 "d1/de0/classLootStore.html#ad800486cf5afb5842073b8ca1a43aad8":[7,0,1499,10],
 "d1/de0/classLootStore.html#af0fe6608310a123d70cc8221e65e4556":[7,0,1499,17],
 "d1/de0/classLootStore.html#afd0762a7391f530009b44bf6b4a3a3be":[7,0,1499,19],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[7,0,13,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,35,6,26],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[7,0,13,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,35,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[7,0,13,6,26,2],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[7,0,13,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,35,6,26,0],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[7,0,13,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[7,0,13,6,26,1],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,35,6,26,1],
 "d1/de0/classnpc__stable__master.html":[7,0,2195],
@@ -46,10 +49,10 @@ var NAVTREEINDEX49 =
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298cae759958cda5fba0a9771859e71a447a5":[8,0,0,0,1,3,7,5,3,3,4,9],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298caef3e4861ce90f1b77eab500dddb31880":[8,0,0,0,1,3,7,5,3,3,4,8],
 "d1/de2/boss__nethermancer__sepethrea_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803":[8,0,0,0,1,3,7,5,3,3,4,3],
-"d1/de2/classspell__magtheridon__blaze.html":[7,0,3672],
-"d1/de2/classspell__magtheridon__blaze.html#a287bff28e57a86f0176921500de78fa9":[7,0,3672,1],
-"d1/de2/classspell__magtheridon__blaze.html#ad5fb101794dfdef0c08551dd9397b965":[7,0,3672,2],
-"d1/de2/classspell__magtheridon__blaze.html#af0841e5c67c981b792a8d8f0d0d18edc":[7,0,3672,0],
+"d1/de2/classspell__magtheridon__blaze.html":[7,0,3673],
+"d1/de2/classspell__magtheridon__blaze.html#a287bff28e57a86f0176921500de78fa9":[7,0,3673,1],
+"d1/de2/classspell__magtheridon__blaze.html#ad5fb101794dfdef0c08551dd9397b965":[7,0,3673,2],
+"d1/de2/classspell__magtheridon__blaze.html#af0841e5c67c981b792a8d8f0d0d18edc":[7,0,3673,0],
 "d1/de2/structSelectableAI.html":[7,0,2595],
 "d1/de2/structSelectableAI.html#af34ed4ae0c831a3dd41585704488528f":[7,0,2595,0],
 "d1/de4/SteadyTimer_8h.html":[8,0,0,0,0,0,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX49 =
 "d1/de4/spell__generic_8cpp.html#a93c21c8622b592019c1bd661d6952d8dad9659f2c1b7d203e357d2bdad19a070b":[8,0,0,0,1,3,9,2,201,4],
 "d1/de4/spell__generic_8cpp.html#a93c21c8622b592019c1bd661d6952d8daff814f44104294d889266b78995356dc":[8,0,0,0,1,3,9,2,201,2],
 "d1/de4/spell__generic_8cpp.html#a94f65ed39fc218eabb369e5dcd415eee":[8,0,0,0,1,3,9,2,224],
-"d1/de4/spell__generic_8cpp.html#a94f65ed39fc218eabb369e5dcd415eeea764a76066ce6d4a4a24d9d5c81b5a35a":[8,0,0,0,1,3,9,2,224,0],
-"d1/de4/spell__generic_8cpp.html#a94f65ed39fc218eabb369e5dcd415eeea79322018cec8d3216c4ededae910b28a":[8,0,0,0,1,3,9,2,224,1],
-"d1/de4/spell__generic_8cpp.html#a9619a0950242f2808f5bc0feead05ee8":[8,0,0,0,1,3,9,2,173],
-"d1/de4/spell__generic_8cpp.html#a9619a0950242f2808f5bc0feead05ee8a160eefc950a9c61f2c433c3beb7786ea":[8,0,0,0,1,3,9,2,173,4]
+"d1/de4/spell__generic_8cpp.html#a94f65ed39fc218eabb369e5dcd415eeea764a76066ce6d4a4a24d9d5c81b5a35a":[8,0,0,0,1,3,9,2,224,0]
 };
