@@ -1,0 +1,26 @@
+var structboss__grand__champion =
+[
+    [ "boss_grand_champion", "de/d67/structboss__grand__champion.html#a5d4e1dcadd3d52d60db11bd9fd962cfc", null ],
+    [ "AddCreatureAddonAuras", "de/d67/structboss__grand__champion.html#a94775848a54818fe9743b9653af44a58", null ],
+    [ "DamageTaken", "de/d67/structboss__grand__champion.html#adf4d7f5c765b006ea8875129d628bcbc", null ],
+    [ "DoAction", "de/d67/structboss__grand__champion.html#ab790e388b6fe23dec1d4e0e4d1143bad", null ],
+    [ "EnterEvadeMode", "de/d67/structboss__grand__champion.html#a51ff0889848c02cbdc00748da2c847ba", null ],
+    [ "JustEngagedWith", "de/d67/structboss__grand__champion.html#a1e7fa7d4291f70a228fc1be490b4751c", null ],
+    [ "MoveInLineOfSight", "de/d67/structboss__grand__champion.html#a5001c61945d44bfc068cb37a43180018", null ],
+    [ "MovementInform", "de/d67/structboss__grand__champion.html#a55f5e12fba06f387a0fc2d5a201e9468", null ],
+    [ "Reset", "de/d67/structboss__grand__champion.html#a04709c355af514f3747c80acf827ea5a", null ],
+    [ "ScheduleChampionAbilities", "de/d67/structboss__grand__champion.html#a54c6ecaa0003462101e3f7776ca543c4", null ],
+    [ "ScheduleFindNewMount", "de/d67/structboss__grand__champion.html#af75acb287ca7eb89bcd2e8a6a14768ff", null ],
+    [ "ScheduleMountAbilities", "de/d67/structboss__grand__champion.html#ab6265ea6a4f01b84dbd52ac72dcb8559", null ],
+    [ "SetData", "de/d67/structboss__grand__champion.html#a1b6eb0e4bc8c26f3e5cae62e63e49bcc", null ],
+    [ "SpellHit", "de/d67/structboss__grand__champion.html#a19ccfa16127c877b26fd200c918a1d05", null ],
+    [ "UpdateAI", "de/d67/structboss__grand__champion.html#a19c98f36fb66495267a9721b3ea82849", null ],
+    [ "WaypointReached", "de/d67/structboss__grand__champion.html#a7678a2338191309c345a1d6ffa7e65cf", null ],
+    [ "WaypointReached", "de/d67/structboss__grand__champion.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_bossOrder", "de/d67/structboss__grand__champion.html#a7170c1a2a315da02f82d683cf5648dd5", null ],
+    [ "_instance", "de/d67/structboss__grand__champion.html#a42949470c0f375db31f0c6e9edbc3cf7", null ],
+    [ "_isWarrior", "de/d67/structboss__grand__champion.html#a75afcd2e366e9f73d249641e4ed6a1ff", null ],
+    [ "_mountPhase", "de/d67/structboss__grand__champion.html#a1efc3394c30e86011dbbf0c3f45dd73a", null ],
+    [ "_newMountGUID", "de/d67/structboss__grand__champion.html#a9f5ee43ba20b782ac60220c3de6e9301", null ],
+    [ "_unitTargetGUID", "de/d67/structboss__grand__champion.html#abce49703c02d748aba2ad6f1dcfe0852", null ]
+];

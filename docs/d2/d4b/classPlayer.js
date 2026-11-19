@@ -729,6 +729,7 @@ var classPlayer =
     [ "RemoveItemFromBuyBackSlot", "d2/d4b/classPlayer.html#a4b5fb0c28f4606ffc9baecfcf56fd99e", null ],
     [ "RemoveMail", "d2/d4b/classPlayer.html#a4ca974e89c2f982981ab3f833e2f5c72", null ],
     [ "RemoveMItem", "d2/d4b/classPlayer.html#a74da25b352dea6c0c56387848a9a389b", null ],
+    [ "RemoveOrphanedItemObtainSpells", "d2/d4b/classPlayer.html#ad6f6462bc0020407d2d6e9cfb5e62802", null ],
     [ "RemovePet", "d2/d4b/classPlayer.html#a8574387258cde892116986738b42c1fd", null ],
     [ "RemovePetitionsAndSigns", "d2/d4b/classPlayer.html#aaf857214fb14d5d563d9a30e5eae4cea", null ],
     [ "RemovePlayerFlag", "d2/d4b/classPlayer.html#a202d37a0e6e6a63a82e71e53dec65059", null ],

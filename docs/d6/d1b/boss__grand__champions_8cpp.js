@@ -1,32 +1,8 @@
 var boss__grand__champions_8cpp =
 [
-    [ "npc_toc5_player_vehicle", "d2/db1/classnpc__toc5__player__vehicle.html", "d2/db1/classnpc__toc5__player__vehicle" ],
-    [ "npc_toc5_player_vehicle::npc_toc5_player_vehicleAI", "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html", "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI" ],
-    [ "npc_toc5_grand_champion_minion", "dc/d70/classnpc__toc5__grand__champion__minion.html", "dc/d70/classnpc__toc5__grand__champion__minion" ],
-    [ "npc_toc5_grand_champion_minion::npc_toc5_grand_champion_minionAI", "dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI.html", "dd/d69/structnpc__toc5__grand__champion__minion_1_1npc__toc5__grand__champion__minionAI" ],
-    [ "boss_grand_champion", "d3/d92/classboss__grand__champion.html", "d3/d92/classboss__grand__champion" ],
-    [ "boss_grand_champion::boss_grand_championAI", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI" ],
-    [ "ChampionEvents", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9", [
-      [ "EVEMT_MAGE_SPELL_FIREBALL", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a42bdc4529f83b0925eee1ec9d91d834c", null ],
-      [ "EVEMT_MAGE_SPELL_BLAST_WAVE", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a2f25d05b8a7a2a5b8ec276bed6588dec", null ],
-      [ "EVEMT_MAGE_SPELL_HASTE", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a4b704bb01f26a91b54643ef5c9985882", null ],
-      [ "EVEMT_MAGE_SPELL_POLYMORPH", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a7ecd0c10eafe691aae77d40d2079b4ce", null ],
-      [ "EVENT_SHAMAN_SPELL_CHAIN_LIGHTNING", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9af8ddef8d32d3d246d988fd478be05700", null ],
-      [ "EVENT_SHAMAN_SPELL_EARTH_SHIELD", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a014c8826069f55e8c6b71dbe33a8fed8", null ],
-      [ "EVENT_SHAMAN_SPELL_HEALING_WAVE", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a8bb40dbb1615c6916fb274903c4cf952", null ],
-      [ "EVENT_SHAMAN_SPELL_HEX_OF_MENDING", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a8b9bb5dd8890d136320c40247b27b49c", null ],
-      [ "EVENT_HUNTER_SPELL_DISENGAGE", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a59c8e0345cc0d95e7cf996dfa7a55d04", null ],
-      [ "EVENT_HUNTER_SPELL_LIGHTNING_ARROWS", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a6b2e66119b989118eb89a6e4b55817a9", null ],
-      [ "EVENT_HUNTER_SPELL_MULTI_SHOT", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a16a80dfdff8c357a04514d8acb842227", null ],
-      [ "EVENT_HUNTER_SPELL_SHOOT", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a6a69da12a1e840c03f12b682c2bb8131", null ],
-      [ "EVENT_ROGUE_SPELL_EVISCERATE", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9ae21692826391ca3771b01e0bddcac39f", null ],
-      [ "EVENT_ROGUE_SPELL_FAN_OF_KNIVES", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9ab2d1a580d78c3aa60cdbe6ef0461eb4d", null ],
-      [ "EVENT_ROGUE_SPELL_POISON_BOTTLE", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a8a29e6eed1762b38e5dc0ba9071666c0", null ],
-      [ "EVENT_WARRIOR_SPELL_MORTAL_STRIKE", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a14355ab4c6840e811b8e29da9c58e5df", null ],
-      [ "EVENT_WARRIOR_SPELL_BLADESTORM", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a26834a4bffc2641fb3884f2146aa4327", null ],
-      [ "EVENT_WARRIOR_SPELL_INTERCEPT", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9addda73d265e7f09f934c6ffba855bf33", null ],
-      [ "EVENT_WARRIOR_SPELL_ROLLING_THROW", "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9acb7104c78bebbf26c8e32bcfb8e02580", null ]
-    ] ],
+    [ "npc_toc5_player_vehicle", "d9/d28/structnpc__toc5__player__vehicle.html", "d9/d28/structnpc__toc5__player__vehicle" ],
+    [ "npc_toc5_grand_champion_minion", "d4/d63/structnpc__toc5__grand__champion__minion.html", "d4/d63/structnpc__toc5__grand__champion__minion" ],
+    [ "boss_grand_champion", "de/d67/structboss__grand__champion.html", "de/d67/structboss__grand__champion" ],
     [ "ChampionSpells", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235ca", [
       [ "SPELL_FIREBALL", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caa846055c995374082714483a6b39bc963", null ],
       [ "SPELL_BLAST_WAVE", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caa70309c041527816c73053b7d9b387f88", null ],
@@ -36,7 +12,6 @@ var boss__grand__champions_8cpp =
       [ "SPELL_EARTH_SHIELD", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caa7ef7daa23932b450c80289511c0d3d9a", null ],
       [ "SPELL_HEALING_WAVE", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caab47ffc8cbbcb587bbe1a3e348c95bee3", null ],
       [ "SPELL_HEX_OF_MENDING", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caad692b386d1fda5663322f3ce71eb26a0", null ],
-      [ "SPELL_DISENGAGE", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caaa3802b35e29f4f77f9fcf61efb761e7b", null ],
       [ "SPELL_LIGHTNING_ARROWS", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caac4805ec8de8bfae0bfac10a7cd3d1e3c", null ],
       [ "SPELL_MULTI_SHOT", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caac7138c3b5a7250d35e73359c3d5e2987", null ],
       [ "SPELL_SHOOT", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caa1b728fa1bb0194534b5b491d35ed871c", null ],
@@ -45,39 +20,25 @@ var boss__grand__champions_8cpp =
       [ "SPELL_POISON_BOTTLE", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caab5c7cf189387b2aadb9746071e7b7d87", null ],
       [ "SPELL_MORTAL_STRIKE", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caa7794ace87705e2898f8b60f1f5228110", null ],
       [ "SPELL_BLADESTORM", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caabc542daa55be8c65656cab5672d1cdf5", null ],
-      [ "SPELL_INTERCEPT", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caa7f9d9318fd95cc478d4d66ba51e54dbe", null ],
-      [ "SPELL_ROLLING_THROW", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caa8519bfc07477d99af8c6ad00a18230e0", null ]
+      [ "SPELL_INTERCEPT", "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caa7f9d9318fd95cc478d4d66ba51e54dbe", null ]
     ] ],
-    [ "MountEvents", "d6/d1b/boss__grand__champions_8cpp.html#aa934094648d2b70ca99f1fe7ba0fa86f", [
-      [ "EVENT_NONE", "d6/d1b/boss__grand__champions_8cpp.html#aa934094648d2b70ca99f1fe7ba0fa86fa939a6cc6d749a232a23ff324dca6d48c", null ],
-      [ "EVENT_MOUNT_CHARGE", "d6/d1b/boss__grand__champions_8cpp.html#aa934094648d2b70ca99f1fe7ba0fa86fadb917769a1a85b40b7f04026e44e8981", null ],
-      [ "EVENT_SHIELD_BREAKER", "d6/d1b/boss__grand__champions_8cpp.html#aa934094648d2b70ca99f1fe7ba0fa86fabd8c9dcd300b2e1d7c4040bd3cc90fbb", null ],
-      [ "EVENT_THRUST", "d6/d1b/boss__grand__champions_8cpp.html#aa934094648d2b70ca99f1fe7ba0fa86fa4f5e3c1d883d02172062087500a52ce3", null ],
-      [ "EVENT_FIND_NEW_MOUNT", "d6/d1b/boss__grand__champions_8cpp.html#aa934094648d2b70ca99f1fe7ba0fa86fadaef397a4d7d6588586194217bedc21c", null ]
+    [ "Groups", "d6/d1b/boss__grand__champions_8cpp.html#aab072245ab577ff0e12efe20a536b99a", [
+      [ "GROUP_DEFEND", "d6/d1b/boss__grand__champions_8cpp.html#aab072245ab577ff0e12efe20a536b99aaaaebb4c68c4455a44cf8a337642788f9", null ],
+      [ "GROUP_MOUNT", "d6/d1b/boss__grand__champions_8cpp.html#aab072245ab577ff0e12efe20a536b99aab25952e09ce8a4777eda3ccddb1fb3b9", null ],
+      [ "GROUP_UNMOUNTED", "d6/d1b/boss__grand__champions_8cpp.html#aab072245ab577ff0e12efe20a536b99aac59055538524234b61f79ae0d6b14330", null ]
     ] ],
     [ "MountSpells", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557", [
       [ "SPELL_LANCE_EQUIPPED", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a44d017273aef98fe3f421440c8b3265e", null ],
       [ "SPELL_PLAYER_VEHICLE_DEFEND", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557acb88fbd527c0e83755107136cd54cc74", null ],
       [ "SPELL_MINIONS_DEFEND", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a3ce085d8b7d5682118a920d7ec5f4a86", null ],
-      [ "SPELL_BOSS_DEFEND", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a96dd68df819ff567d360feb221830b7c", null ],
       [ "SPELL_BOSS_DEFEND_PERIODIC", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557aca59e970cd3c94572f7e99623ea668de", null ],
       [ "SPELL_SHIELD_LEVEL_1_VISUAL", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557ad0c4aad3bc27bb2a531287f126dfb544", null ],
       [ "SPELL_SHIELD_LEVEL_2_VISUAL", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557ac8d61718eca006149b9a8b884f5957aa", null ],
       [ "SPELL_SHIELD_LEVEL_3_VISUAL", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a5becc82358ec97a9c6a6f19d2f55cb84", null ],
-      [ "SPELL_PLAYER_VEHICLE_SHIELD_BREAKER", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a3392d2cb8daa7a6558ff9974ed0c6f11", null ],
-      [ "SPELL_PLAYER_SHIELD_BREAKER_DAMAGE", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a8f1e5d83fc8c39f6f3bd8153cde02ff3", null ],
       [ "SPELL_NPC_SHIELD_BREAKER", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a19df19400ca56ad4b6b4db2713abe98a", null ],
-      [ "SPELL_PLAYER_VEHICLE_CHARGE", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557aabce760c48b650a217cd578604ac60f6", null ],
-      [ "SPELL_CHARGE_DAMAGE_20000", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557aa536dba19b9381af6b5238c3fdaf6af6", null ],
       [ "SPELL_MINIONS_CHARGE", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a6d3166af43c901da262bda15be063dc4", null ],
-      [ "SPELL_BOSS_CHARGE", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a939892a3e6ca1b3aa4f91ef0cf895f89", null ],
       [ "SPELL_PLAYER_VEHICLE_THRUST", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a905df96e199f346591d8cad5d5f40ac0", null ],
-      [ "SPELL_TRAMPLE_AURA", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a6c2674077103af30ece50b7723106d0b", null ],
-      [ "SPELL_TRAMPLE_TRIGGERED_DUMMY", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557a34bfe8996e2325c16fd46303722c1ec6", null ],
       [ "SPELL_TRAMPLE_STUN", "d6/d1b/boss__grand__champions_8cpp.html#aa2ceb3484424d427f5a965f76e7a4557af66852007022364e3f5ac29cf29f688c", null ]
-    ] ],
-    [ "Texts", "d6/d1b/boss__grand__champions_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
-      [ "SAY_TRAMPLED", "d6/d1b/boss__grand__champions_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a559d6473b81004992b559c7ec1ee23c8", null ]
     ] ],
     [ "AddSC_boss_grand_champions", "d6/d1b/boss__grand__champions_8cpp.html#ae47cbd658715d6b011726de03b430167", null ]
 ];

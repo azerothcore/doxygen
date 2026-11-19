@@ -2,9 +2,9 @@ var searchData=
 [
   ['varian_5fsay_5fattack_5fend_0',['VARIAN_SAY_ATTACK_END',['../d6/d36/scourge__invasion_8h.html#a53a532ebd19d40798352630318c0d996adc78083afe7c83dbd8c89b3d9dcef5a7',1,'scourge_invasion.h']]],
   ['vehicle_1',['Vehicle',['../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba963053cdd2b014750ad6af9c1eaff2a89ebd3f8d0c542be12b',1,'ObjectGuid.h']]],
-  ['vehicle_5fargent_5fbattleworg_2',['VEHICLE_ARGENT_BATTLEWORG',['../d3/d81/trial__of__the__champion_8h.html#ac232df195976b46ecdd6d6f36eb3929da5d25cab83cbbe5f001565ff1d92de02d',1,'trial_of_the_champion.h']]],
-  ['vehicle_5fargent_5fwarhorse_3',['VEHICLE_ARGENT_WARHORSE',['../d3/d81/trial__of__the__champion_8h.html#ac232df195976b46ecdd6d6f36eb3929dadd35c798d1cd95da5f6f771f6d44a6a3',1,'trial_of_the_champion.h']]],
-  ['vehicle_5fblack_5fknight_4',['VEHICLE_BLACK_KNIGHT',['../d3/d81/trial__of__the__champion_8h.html#ac232df195976b46ecdd6d6f36eb3929da3670ab5c931264a97a3abf4811aed6ce',1,'trial_of_the_champion.h']]],
+  ['vehicle_5fargent_5fbattleworg_2',['VEHICLE_ARGENT_BATTLEWORG',['../d3/d81/trial__of__the__champion_8h.html#aad8ccd1cb50c369b26777ea0ba6e748da5d25cab83cbbe5f001565ff1d92de02d',1,'trial_of_the_champion.h']]],
+  ['vehicle_5fargent_5fwarhorse_3',['VEHICLE_ARGENT_WARHORSE',['../d3/d81/trial__of__the__champion_8h.html#aad8ccd1cb50c369b26777ea0ba6e748dadd35c798d1cd95da5f6f771f6d44a6a3',1,'trial_of_the_champion.h']]],
+  ['vehicle_5fblack_5fknight_4',['VEHICLE_BLACK_KNIGHT',['../d3/d81/trial__of__the__champion_8h.html#aad8ccd1cb50c369b26777ea0ba6e748da3670ab5c931264a97a3abf4811aed6ce',1,'trial_of_the_champion.h']]],
   ['vehicle_5femote_5frepair_5',['VEHICLE_EMOTE_REPAIR',['../d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abafa70640e433ae130c05badf6fc82bc',1,'boss_flame_leviathan.cpp']]],
   ['vehicle_5fflag_5fadjust_5faim_5fangle_6',['VEHICLE_FLAG_ADJUST_AIM_ANGLE',['../d2/d2c/VehicleDefines_8h.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103',1,'VehicleDefines.h']]],
   ['vehicle_5fflag_5fadjust_5faim_5fpower_7',['VEHICLE_FLAG_ADJUST_AIM_POWER',['../d2/d2c/VehicleDefines_8h.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5',1,'VehicleDefines.h']]],
