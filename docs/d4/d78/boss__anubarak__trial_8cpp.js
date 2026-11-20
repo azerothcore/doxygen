@@ -8,6 +8,7 @@ var boss__anubarak__trial_8cpp =
     [ "npc_anubarak_spike", "d3/d36/structnpc__anubarak__spike.html", "d3/d36/structnpc__anubarak__spike" ],
     [ "spell_pursuing_spikes_aura", "d8/dde/classspell__pursuing__spikes__aura.html", "d8/dde/classspell__pursuing__spikes__aura" ],
     [ "spell_anubarak_summon_scarab_aura", "d6/da6/classspell__anubarak__summon__scarab__aura.html", "d6/da6/classspell__anubarak__summon__scarab__aura" ],
+    [ "spell_anubarak_shadow_strike", "d3/d1e/classspell__anubarak__shadow__strike.html", "d3/d1e/classspell__anubarak__shadow__strike" ],
     [ "spell_gen_leeching_swarm_aura", "de/d15/classspell__gen__leeching__swarm__aura.html", "de/d15/classspell__gen__leeching__swarm__aura" ],
     [ "spell_gen_leeching_swarm_dmg", "d5/d23/classspell__gen__leeching__swarm__dmg.html", "d5/d23/classspell__gen__leeching__swarm__dmg" ],
     [ "AnubActions", "d4/d78/boss__anubarak__trial_8cpp.html#ac1c306cc8a71ffb0df805308cc4f0f27", [
@@ -43,6 +44,7 @@ var boss__anubarak__trial_8cpp =
       [ "SPELL_SUMMON_SCARAB", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0ac66c09471de9a8c7308d5d36e4a64791", null ],
       [ "SPELL_SUMMON_BURROWER", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a2562b025f710f01506300d90550a5eda", null ],
       [ "SPELL_LEECHING_SWARM", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a179e7766f313d1186b34946a356a5b2f", null ],
+      [ "SPELL_FORCE_SHADOW_STRIKE", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a73c860abd20566f38be86580143cabc6", null ],
       [ "SPELL_MARK", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a6c52e58c00f243bdb7a03fb464161104", null ],
       [ "SPELL_SUMMON_SPIKE", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0acbf26a5fda006e38db761950d3d90b1f", null ],
       [ "SPELL_SPIKE_SPEED1", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0af285f71f445522bbaa034ae592fc4f67", null ],
@@ -61,6 +63,11 @@ var boss__anubarak__trial_8cpp =
       [ "SPELL_SPIDER_FRENZY", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9c900e89338020fc265152560a0b45e9", null ],
       [ "SPELL_EXPOSE_WEAKNESS", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a24b49f700d2923412938f4e6d148ce82", null ],
       [ "SPELL_SHADOW_STRIKE", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a7a15a2c5e800c390b1c073f0e768c0ff", null ],
+      [ "SPELL_RECENTLY_AWAKENED", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a5724b7e19ff8560b994d3dd546e62cdb", null ],
+      [ "SPELL_BURROWER_SUBMERGE", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0abf4e0500abf2248f8520648597ab02e8", null ],
+      [ "SPELL_SUBMERGE_BURROWER", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a2a843a9aa554402321cf5856a446019a", null ],
+      [ "SPELL_PERSISTENT_DIRT", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a8751cbb2d353dce8e2964ce695184950", null ],
+      [ "SPELL_FULL_HEAL", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0ac5cb10c3d24688bd7cbd6fb2ba4c9ad5", null ],
       [ "SPELL_SUBMERGE_EFFECT", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a8402ad1984647d8e20727fb14899568b", null ],
       [ "SPELL_EMERGE_EFFECT", "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a65257ac8ad276a30e852a8b8e80de2a4", null ]
     ] ],

@@ -889,6 +889,7 @@ var hierarchy =
         [ "spell_algalon_trigger_3_adds", "d5/d97/classspell__algalon__trigger__3__adds.html", null ],
         [ "spell_anetheron_sleep", "d9/dcd/classspell__anetheron__sleep.html", null ],
         [ "spell_anti_air_rocket_bomber", "dd/d66/classspell__anti__air__rocket__bomber.html", null ],
+        [ "spell_anubarak_shadow_strike", "d3/d1e/classspell__anubarak__shadow__strike.html", null ],
         [ "spell_apothecary_lingering_fumes", "de/d09/classspell__apothecary__lingering__fumes.html", null ],
         [ "spell_apothecary_throw_cologne", "d5/dd6/classspell__apothecary__throw__cologne.html", null ],
         [ "spell_apothecary_throw_perfume", "df/dc3/classspell__apothecary__throw__perfume.html", null ],

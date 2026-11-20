@@ -3235,6 +3235,7 @@ var annotated_dup =
     [ "spell_anetheron_sleep", "d9/dcd/classspell__anetheron__sleep.html", "d9/dcd/classspell__anetheron__sleep" ],
     [ "spell_anetheron_vampiric_aura", "d0/d45/classspell__anetheron__vampiric__aura.html", "d0/d45/classspell__anetheron__vampiric__aura" ],
     [ "spell_anti_air_rocket_bomber", "dd/d66/classspell__anti__air__rocket__bomber.html", "dd/d66/classspell__anti__air__rocket__bomber" ],
+    [ "spell_anubarak_shadow_strike", "d3/d1e/classspell__anubarak__shadow__strike.html", "d3/d1e/classspell__anubarak__shadow__strike" ],
     [ "spell_anubarak_summon_scarab_aura", "d6/da6/classspell__anubarak__summon__scarab__aura.html", "d6/da6/classspell__anubarak__summon__scarab__aura" ],
     [ "spell_anubisath_mortal_strike", "d9/d13/classspell__anubisath__mortal__strike.html", "d9/d13/classspell__anubisath__mortal__strike" ],
     [ "spell_apothecary_cologne_spill", "da/dd7/classspell__apothecary__cologne__spill.html", "da/dd7/classspell__apothecary__cologne__spill" ],
