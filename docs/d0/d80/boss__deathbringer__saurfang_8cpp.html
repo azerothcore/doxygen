@@ -122,9 +122,9 @@ $(document).ready(function(){initNavTree('d0/d80/boss__deathbringer__saurfang_8c
 <code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellAuras.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">icecrown_citadel.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -1341,35 +1341,35 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1976</span>{</div>
-<div class="line"><span class="lineno"> 1977</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/dc8/classboss__deathbringer__saurfang.html">boss_deathbringer_saurfang</a>();</div>
-<div class="line"><span class="lineno"> 1978</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/daa/classnpc__high__overlord__saurfang__icc.html">npc_high_overlord_saurfang_icc</a>();</div>
-<div class="line"><span class="lineno"> 1979</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/d7e/classnpc__muradin__bronzebeard__icc.html">npc_muradin_bronzebeard_icc</a>();</div>
-<div class="line"><span class="lineno"> 1980</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/da2/classnpc__saurfang__event.html">npc_saurfang_event</a>();</div>
-<div class="line"><span class="lineno"> 1981</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/d48/classspell__deathbringer__blood__link__aura.html">spell_deathbringer_blood_link_aura</a>);</div>
-<div class="line"><span class="lineno"> 1982</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/dce/classspell__deathbringer__blood__beast__blood__link.html">spell_deathbringer_blood_beast_blood_link</a>);</div>
-<div class="line"><span class="lineno"> 1983</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/dba/classspell__deathbringer__blood__link.html">spell_deathbringer_blood_link</a>);</div>
-<div class="line"><span class="lineno"> 1984</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../dd/df4/classspell__deathbringer__blood__power.html">spell_deathbringer_blood_power</a>, <a class="code hl_class" href="../../db/d8b/classspell__deathbringer__blood__power__aura.html">spell_deathbringer_blood_power_aura</a>);</div>
-<div class="line"><span class="lineno"> 1985</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d5c/classspell__deathbringer__blood__nova__targeting.html">spell_deathbringer_blood_nova_targeting</a>);</div>
-<div class="line"><span class="lineno"> 1986</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d60/classspell__deathbringer__boiling__blood.html">spell_deathbringer_boiling_blood</a>);</div>
-<div class="line"><span class="lineno"> 1987</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/d30/classachievement__ive__gone__and__made__a__mess.html">achievement_ive_gone_and_made_a_mess</a>();</div>
-<div class="line"><span class="lineno"> 1988</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/db7/classnpc__icc__blood__beast.html">npc_icc_blood_beast</a>();</div>
-<div class="line"><span class="lineno"> 1989</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1988</span>{</div>
+<div class="line"><span class="lineno"> 1989</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/dc8/classboss__deathbringer__saurfang.html">boss_deathbringer_saurfang</a>();</div>
+<div class="line"><span class="lineno"> 1990</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/daa/classnpc__high__overlord__saurfang__icc.html">npc_high_overlord_saurfang_icc</a>();</div>
+<div class="line"><span class="lineno"> 1991</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/d7e/classnpc__muradin__bronzebeard__icc.html">npc_muradin_bronzebeard_icc</a>();</div>
+<div class="line"><span class="lineno"> 1992</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/da2/classnpc__saurfang__event.html">npc_saurfang_event</a>();</div>
+<div class="line"><span class="lineno"> 1993</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/d48/classspell__deathbringer__blood__link__aura.html">spell_deathbringer_blood_link_aura</a>);</div>
+<div class="line"><span class="lineno"> 1994</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/dce/classspell__deathbringer__blood__beast__blood__link.html">spell_deathbringer_blood_beast_blood_link</a>);</div>
+<div class="line"><span class="lineno"> 1995</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/dba/classspell__deathbringer__blood__link.html">spell_deathbringer_blood_link</a>);</div>
+<div class="line"><span class="lineno"> 1996</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../dd/df4/classspell__deathbringer__blood__power.html">spell_deathbringer_blood_power</a>, <a class="code hl_class" href="../../db/d8b/classspell__deathbringer__blood__power__aura.html">spell_deathbringer_blood_power_aura</a>);</div>
+<div class="line"><span class="lineno"> 1997</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d5c/classspell__deathbringer__blood__nova__targeting.html">spell_deathbringer_blood_nova_targeting</a>);</div>
+<div class="line"><span class="lineno"> 1998</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d60/classspell__deathbringer__boiling__blood.html">spell_deathbringer_boiling_blood</a>);</div>
+<div class="line"><span class="lineno"> 1999</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/d30/classachievement__ive__gone__and__made__a__mess.html">achievement_ive_gone_and_made_a_mess</a>();</div>
+<div class="line"><span class="lineno"> 2000</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/db7/classnpc__icc__blood__beast.html">npc_icc_blood_beast</a>();</div>
+<div class="line"><span class="lineno"> 2001</span>}</div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_a69b21d1b83cecaba944f4e9379bc866c"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a></div><div class="ttdeci">#define RegisterSpellAndAuraScriptPair(script_1, script_2)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:90</div></div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aclassachievement__ive__gone__and__made__a__mess_html"><div class="ttname"><a href="../../d0/d30/classachievement__ive__gone__and__made__a__mess.html">achievement_ive_gone_and_made_a_mess</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1894</div></div>
+<div class="ttc" id="aclassachievement__ive__gone__and__made__a__mess_html"><div class="ttname"><a href="../../d0/d30/classachievement__ive__gone__and__made__a__mess.html">achievement_ive_gone_and_made_a_mess</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1906</div></div>
 <div class="ttc" id="aclassboss__deathbringer__saurfang_html"><div class="ttname"><a href="../../d9/dc8/classboss__deathbringer__saurfang.html">boss_deathbringer_saurfang</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:333</div></div>
 <div class="ttc" id="aclassnpc__high__overlord__saurfang__icc_html"><div class="ttname"><a href="../../d3/daa/classnpc__high__overlord__saurfang__icc.html">npc_high_overlord_saurfang_icc</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:619</div></div>
-<div class="ttc" id="aclassnpc__icc__blood__beast_html"><div class="ttname"><a href="../../d6/db7/classnpc__icc__blood__beast.html">npc_icc_blood_beast</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1910</div></div>
-<div class="ttc" id="aclassnpc__muradin__bronzebeard__icc_html"><div class="ttname"><a href="../../de/d7e/classnpc__muradin__bronzebeard__icc.html">npc_muradin_bronzebeard_icc</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:956</div></div>
-<div class="ttc" id="aclassnpc__saurfang__event_html"><div class="ttname"><a href="../../dc/da2/classnpc__saurfang__event.html">npc_saurfang_event</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1542</div></div>
-<div class="ttc" id="aclassspell__deathbringer__blood__beast__blood__link_html"><div class="ttname"><a href="../../d9/dce/classspell__deathbringer__blood__beast__blood__link.html">spell_deathbringer_blood_beast_blood_link</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1955</div></div>
-<div class="ttc" id="aclassspell__deathbringer__blood__link__aura_html"><div class="ttname"><a href="../../dc/d48/classspell__deathbringer__blood__link__aura.html">spell_deathbringer_blood_link_aura</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1694</div></div>
-<div class="ttc" id="aclassspell__deathbringer__blood__link_html"><div class="ttname"><a href="../../d7/dba/classspell__deathbringer__blood__link.html">spell_deathbringer_blood_link</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1750</div></div>
-<div class="ttc" id="aclassspell__deathbringer__blood__nova__targeting_html"><div class="ttname"><a href="../../df/d5c/classspell__deathbringer__blood__nova__targeting.html">spell_deathbringer_blood_nova_targeting</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1806</div></div>
-<div class="ttc" id="aclassspell__deathbringer__blood__power__aura_html"><div class="ttname"><a href="../../db/d8b/classspell__deathbringer__blood__power__aura.html">spell_deathbringer_blood_power_aura</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1789</div></div>
-<div class="ttc" id="aclassspell__deathbringer__blood__power_html"><div class="ttname"><a href="../../dd/df4/classspell__deathbringer__blood__power.html">spell_deathbringer_blood_power</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1773</div></div>
-<div class="ttc" id="aclassspell__deathbringer__boiling__blood_html"><div class="ttname"><a href="../../d2/d60/classspell__deathbringer__boiling__blood.html">spell_deathbringer_boiling_blood</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1863</div></div>
+<div class="ttc" id="aclassnpc__icc__blood__beast_html"><div class="ttname"><a href="../../d6/db7/classnpc__icc__blood__beast.html">npc_icc_blood_beast</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1922</div></div>
+<div class="ttc" id="aclassnpc__muradin__bronzebeard__icc_html"><div class="ttname"><a href="../../de/d7e/classnpc__muradin__bronzebeard__icc.html">npc_muradin_bronzebeard_icc</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:962</div></div>
+<div class="ttc" id="aclassnpc__saurfang__event_html"><div class="ttname"><a href="../../dc/da2/classnpc__saurfang__event.html">npc_saurfang_event</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1554</div></div>
+<div class="ttc" id="aclassspell__deathbringer__blood__beast__blood__link_html"><div class="ttname"><a href="../../d9/dce/classspell__deathbringer__blood__beast__blood__link.html">spell_deathbringer_blood_beast_blood_link</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1967</div></div>
+<div class="ttc" id="aclassspell__deathbringer__blood__link__aura_html"><div class="ttname"><a href="../../dc/d48/classspell__deathbringer__blood__link__aura.html">spell_deathbringer_blood_link_aura</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1706</div></div>
+<div class="ttc" id="aclassspell__deathbringer__blood__link_html"><div class="ttname"><a href="../../d7/dba/classspell__deathbringer__blood__link.html">spell_deathbringer_blood_link</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1762</div></div>
+<div class="ttc" id="aclassspell__deathbringer__blood__nova__targeting_html"><div class="ttname"><a href="../../df/d5c/classspell__deathbringer__blood__nova__targeting.html">spell_deathbringer_blood_nova_targeting</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1818</div></div>
+<div class="ttc" id="aclassspell__deathbringer__blood__power__aura_html"><div class="ttname"><a href="../../db/d8b/classspell__deathbringer__blood__power__aura.html">spell_deathbringer_blood_power_aura</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1801</div></div>
+<div class="ttc" id="aclassspell__deathbringer__blood__power_html"><div class="ttname"><a href="../../dd/df4/classspell__deathbringer__blood__power.html">spell_deathbringer_blood_power</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1785</div></div>
+<div class="ttc" id="aclassspell__deathbringer__boiling__blood_html"><div class="ttname"><a href="../../d2/d60/classspell__deathbringer__boiling__blood.html">spell_deathbringer_boiling_blood</a></div><div class="ttdef"><b>Definition</b> boss_deathbringer_saurfang.cpp:1875</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00090">RegisterSpellAndAuraScriptPair</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
@@ -1419,7 +1419,7 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00170">Position::GetExactDist2d()</a>, <a class="el" href="../../#l11102">Unit::GetSpeed()</a>, and <a class="el" href="../../#l00356">MOVE_WALK</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1453,7 +1453,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  316</span>    {-535.1500f, 2217.3000f, 539.2773f, 6.2600000f}</div>
 <div class="line"><span class="lineno">  317</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01607">npc_saurfang_event::npc_saurfang_eventAI::DoAction()</a>, and <a class="el" href="../../#l01578">npc_saurfang_event::npc_saurfang_eventAI::MovementInform()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01619">npc_saurfang_event::npc_saurfang_eventAI::DoAction()</a>, and <a class="el" href="../../#l01590">npc_saurfang_event::npc_saurfang_eventAI::MovementInform()</a>.</p>
 
 </div>
 </div>
@@ -1486,7 +1486,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  307</span>    {-515.7000f, 2225.0000f, 539.2790f, 1.6000000f}</div>
 <div class="line"><span class="lineno">  308</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01607">npc_saurfang_event::npc_saurfang_eventAI::DoAction()</a>, and <a class="el" href="../../#l01578">npc_saurfang_event::npc_saurfang_eventAI::MovementInform()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01619">npc_saurfang_event::npc_saurfang_eventAI::DoAction()</a>, and <a class="el" href="../../#l01590">npc_saurfang_event::npc_saurfang_eventAI::MovementInform()</a>.</p>
 
 </div>
 </div>
@@ -1503,7 +1503,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  323</span>{-527.9063f, 2228.6372f, 539.3730f, 6.2657318f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1520,7 +1520,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  299</span>{-528.3924f, 2225.5903f, 539.2769f, 0.2094395f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01076">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::MovementInform()</a>, and <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01082">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::MovementInform()</a>, and <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1537,7 +1537,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  298</span>{-522.4410f, 2227.0660f, 539.2767f, 1.1660000f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1554,7 +1554,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  297</span>{-528.6855f, 2212.4653f, 539.2772f, 1.6580628f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1571,7 +1571,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  321</span>{-529.5122f, 2229.8923f, 539.3734f, 0.0f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1588,7 +1588,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  320</span>{-526.4601f, 2246.0347f, 539.2776f, 1.7061962f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1605,7 +1605,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  319</span>{-522.2356f, 2233.0625f, 539.2769f, 4.7298422f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1622,7 +1622,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  318</span>{-521.6962f, 2248.8108f, 539.3757f, 4.7298422f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1639,7 +1639,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  324</span>{-524.2362f, 2229.7102f, 539.2769f, 2.8703434f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1656,7 +1656,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  322</span>{-527.3386f, 2230.5730f, 539.3734f, 5.9515729f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1689,7 +1689,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  277</span>    {-509.0040f, 2211.743f, 539.2870f, 0.0f}  <span class="comment">// back right</span></div>
 <div class="line"><span class="lineno">  278</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01607">npc_saurfang_event::npc_saurfang_eventAI::DoAction()</a>, <a class="el" href="../../#l00777">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::UpdateAI()</a>, and <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01619">npc_saurfang_event::npc_saurfang_eventAI::DoAction()</a>, <a class="el" href="../../#l00778">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::UpdateAI()</a>, and <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1722,7 +1722,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  288</span>    {-510.7041f, 2211.069f, 546.5298f, 0.0f}  <span class="comment">// back right</span></div>
 <div class="line"><span class="lineno">  289</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00721">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::SpellHit()</a>, <a class="el" href="../../#l01067">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::SpellHit()</a>, and <a class="el" href="../../#l01569">npc_saurfang_event::npc_saurfang_eventAI::SpellHit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00721">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::SpellHit()</a>, <a class="el" href="../../#l01073">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::SpellHit()</a>, and <a class="el" href="../../#l01581">npc_saurfang_event::npc_saurfang_eventAI::SpellHit()</a>.</p>
 
 </div>
 </div>
@@ -1739,7 +1739,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  267</span>{-496.3542f, 2211.33f, 541.1138f, 0.0f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00638">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::DoAction()</a>, and <a class="el" href="../../#l00976">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::DoAction()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00638">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::DoAction()</a>, and <a class="el" href="../../#l00982">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::DoAction()</a>.</p>
 
 </div>
 </div>
@@ -1756,7 +1756,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  291</span>{-561.5052f, 2211.5781f, 539.2754f, 0.0f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01093">instance_trial_of_the_crusader::SummonFactionChampions()</a>, <a class="el" href="../../#l00671">npc_pos_tyrannus_events::npc_pos_tyrannus_eventsAI::UpdateAI()</a>, and <a class="el" href="../../#l00777">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01097">instance_trial_of_the_crusader::SummonFactionChampions()</a>, <a class="el" href="../../#l00743">npc_pos_tyrannus_events::npc_pos_tyrannus_eventsAI::UpdateAI()</a>, and <a class="el" href="../../#l00778">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1773,7 +1773,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  268</span>{-541.3177f, 2211.365f, 539.2921f, 0.0f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00777">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::UpdateAI()</a>, and <a class="el" href="../../#l01112">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00778">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::UpdateAI()</a>, and <a class="el" href="../../#l01118">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1790,7 +1790,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  292</span>{-548.8629f, 2211.3767f, 539.2780f, 0.0f};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00777">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00778">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1800,7 +1800,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_49de9ff38e0063bf9846434b8d63cf58.html">IcecrownCitadel</a></li><li class="navelem"><a class="el" href="../../d0/d80/boss__deathbringer__saurfang_8cpp.html">boss_deathbringer_saurfang.cpp</a></li>
-    <li class="footer">Generated on Fri Nov 20 2026 14:47:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 21 2026 14:02:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -9,16 +9,14 @@ var boss__devourer__of__souls_8cpp =
       [ "EVENT_SPELL_UNLEASHED_SOULS", "db/d09/boss__devourer__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abc79c7968016107148a4e87df3e5dc88", null ],
       [ "EVENT_SPELL_WAILING_SOULS", "db/d09/boss__devourer__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1742a9f88886de4ba4336fff92df0969", null ]
     ] ],
-    [ "Misc", "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "NPC_CRUCIBLE_OF_SOULS", "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4886258b9aa8a2b0a443971811f104c3", null ],
-      [ "NPC_UNLEASHED_SOUL", "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab919e9bf91f3399048ea3656cbef5b23", null ],
-      [ "QUEST_TEMPERING_THE_BLADE_A", "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a23aee096f9ff69e2d3ee2d414bbb8031", null ],
-      [ "QUEST_TEMPERING_THE_BLADE_H", "db/d09/boss__devourer__of__souls_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b35e123ebb6defe81f9ccec5f66a6c8", null ]
-    ] ],
     [ "ModelIds", "db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604", [
       [ "MODEL_ANGER", "db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a60266b0a813b2164553ff61212be0806", null ],
       [ "MODEL_SORROW", "db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a2f8d5929bed1376b20cd55892d56f1d4", null ],
       [ "MODEL_DESIRE", "db/d09/boss__devourer__of__souls_8cpp.html#ab311514c010f1b6d935801145e72f604a7ee27a3e011c4fa5ff502141f5260d1b", null ]
+    ] ],
+    [ "Quests", "db/d09/boss__devourer__of__souls_8cpp.html#a2f2591166460d6d958c50f3317939e22", [
+      [ "QUEST_TEMPERING_THE_BLADE_A", "db/d09/boss__devourer__of__souls_8cpp.html#a2f2591166460d6d958c50f3317939e22a23aee096f9ff69e2d3ee2d414bbb8031", null ],
+      [ "QUEST_TEMPERING_THE_BLADE_H", "db/d09/boss__devourer__of__souls_8cpp.html#a2f2591166460d6d958c50f3317939e22a1b35e123ebb6defe81f9ccec5f66a6c8", null ]
     ] ],
     [ "Spells", "db/d09/boss__devourer__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_PHANTOM_BLAST", "db/d09/boss__devourer__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298ca03e9b180fc6893f966360fcb4775a0c5", null ],
@@ -46,5 +44,6 @@ var boss__devourer__of__souls_8cpp =
       [ "EMOTE_WAILING_SOUL", "db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a279474d5b8e7a2c4c44aee34e0f8eddb", null ],
       [ "SAY_FACE_WAILING_SOUL", "db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa6464091ba95df048d18c93e4cc19816", null ]
     ] ],
-    [ "AddSC_boss_devourer_of_souls", "db/d09/boss__devourer__of__souls_8cpp.html#a5a82b832069605e2b9bb54e94752d170", null ]
+    [ "AddSC_boss_devourer_of_souls", "db/d09/boss__devourer__of__souls_8cpp.html#a5a82b832069605e2b9bb54e94752d170", null ],
+    [ "CrucibleOfSoulsPosition", "db/d09/boss__devourer__of__souls_8cpp.html#a44a41d4df78350a33da82fcf8dfdbd0b", null ]
 ];

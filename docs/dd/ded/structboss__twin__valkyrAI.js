@@ -14,6 +14,7 @@ var structboss__twin__valkyrAI =
     [ "myDoMeleeAttackIfReady", "dd/ded/structboss__twin__valkyrAI.html#a8a488e8d0acab2737c0503ce89fd3d2a", null ],
     [ "SummonedCreatureDespawn", "dd/ded/structboss__twin__valkyrAI.html#ae49793079dbec2dbe5e807f998705b20", null ],
     [ "UpdateAI", "dd/ded/structboss__twin__valkyrAI.html#aea878cd12d640ce4e3d87deb85c20b9f", null ],
+    [ "_firstBulletBurst", "dd/ded/structboss__twin__valkyrAI.html#acb7e5cfd0e9ba5014b1e37da715bcca3", null ],
     [ "events", "dd/ded/structboss__twin__valkyrAI.html#a08867e9274660a8913034bf3d80e559f", null ],
     [ "pInstance", "dd/ded/structboss__twin__valkyrAI.html#a653a89ac515061fca04240fa71a6630a", null ],
     [ "SpecialMask", "dd/ded/structboss__twin__valkyrAI.html#a8ca507c7a288a5cb9a8160129820e4e0", null ],

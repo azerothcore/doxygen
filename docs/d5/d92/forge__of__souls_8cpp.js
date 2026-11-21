@@ -5,12 +5,26 @@ var forge__of__souls_8cpp =
     [ "npc_fos_leader_second", "d8/d28/classnpc__fos__leader__second.html", "d8/d28/classnpc__fos__leader__second" ],
     [ "npc_fos_leader_second::npc_fos_leader_secondAI", "df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI.html", "df/d07/structnpc__fos__leader__second_1_1npc__fos__leader__secondAI" ],
     [ "spell_shield_of_bones_aura", "d7/db4/classspell__shield__of__bones__aura.html", "d7/db4/classspell__shield__of__bones__aura" ],
-    [ "FOS_Gossip", "d5/d92/forge__of__souls_8cpp.html#a4d8c041ae0ebd2a8691daa3f109d7a46", [
-      [ "GOSSIP_JAINA_INTRO", "d5/d92/forge__of__souls_8cpp.html#a4d8c041ae0ebd2a8691daa3f109d7a46aeabc9e58ce71bf1458070b38b1032092", null ],
-      [ "GOSSIP_SYLVANAS_INTRO", "d5/d92/forge__of__souls_8cpp.html#a4d8c041ae0ebd2a8691daa3f109d7a46a250d759ceebbfd339d2c609768d342e7", null ]
+    [ "Actions", "d5/d92/forge__of__souls_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
+      [ "ACTION_START_INTRO", "d5/d92/forge__of__souls_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66", null ]
     ] ],
-    [ "ShieldOfBones", "d5/d92/forge__of__souls_8cpp.html#ae3b6db63d10b33b77928f7e706e5f498", [
-      [ "SPELL_SHIELD_OF_BONES_DAMAGE", "d5/d92/forge__of__souls_8cpp.html#ae3b6db63d10b33b77928f7e706e5f498af595028bda48d21bc9de5acbdd95d0df", null ]
+    [ "Events", "d5/d92/forge__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
+      [ "EVENT_INTRO_1", "d5/d92/forge__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a256fd25f172fa42871e6171e67568f28", null ],
+      [ "EVENT_INTRO_2", "d5/d92/forge__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a33886550fcce093bd39450d188489113", null ],
+      [ "EVENT_INTRO_3", "d5/d92/forge__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad59301158e6d930fd6318326d74e141c", null ],
+      [ "EVENT_INTRO_4", "d5/d92/forge__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1726bf3c477a72f10e75fd8c734343f2", null ],
+      [ "EVENT_INTRO_5", "d5/d92/forge__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3541faf90ea6b4b66d66e9911cc4a144", null ],
+      [ "EVENT_INTRO_6", "d5/d92/forge__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a71d438199dd5591de9f759b1adafb2d7", null ],
+      [ "EVENT_INTRO_7", "d5/d92/forge__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8672ce367073731adcf3ef295c688fb7", null ],
+      [ "EVENT_INTRO_8", "d5/d92/forge__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39b7f9fc49894aa023333a6dcfb5090f", null ]
+    ] ],
+    [ "Gossips", "d5/d92/forge__of__souls_8cpp.html#a482f31893e512222b2812fb2e025019d", [
+      [ "GOSSIP_MENU_LEADER", "d5/d92/forge__of__souls_8cpp.html#a482f31893e512222b2812fb2e025019da88139c46de67ee47aae87ff15d198339", null ],
+      [ "GOSSIP_JAINA_INTRO", "d5/d92/forge__of__souls_8cpp.html#a482f31893e512222b2812fb2e025019daeabc9e58ce71bf1458070b38b1032092", null ],
+      [ "GOSSIP_SYLVANAS_INTRO", "d5/d92/forge__of__souls_8cpp.html#a482f31893e512222b2812fb2e025019da250d759ceebbfd339d2c609768d342e7", null ]
+    ] ],
+    [ "Spells", "d5/d92/forge__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
+      [ "SPELL_SHIELD_OF_BONES_DAMAGE", "d5/d92/forge__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298caf595028bda48d21bc9de5acbdd95d0df", null ]
     ] ],
     [ "Yells", "d5/d92/forge__of__souls_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_JAINA_INTRO_1", "d5/d92/forge__of__souls_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a6b281ebb353154d1e4c6b39eb83d65f4", null ],

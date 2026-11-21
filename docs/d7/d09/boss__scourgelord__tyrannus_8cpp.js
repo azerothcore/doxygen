@@ -6,7 +6,7 @@ var boss__scourgelord__tyrannus_8cpp =
       [ "EVENT_SPELL_FORCEFUL_SMASH", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac92289a7ebfe38a1aa9d54c924ba84e5", null ],
       [ "EVENT_SPELL_UNHOLY_POWER", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a55df240774f64fad6740b9cb5cab7b5f", null ],
       [ "EVENT_SPELL_OVERLORDS_BRAND", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a90e7e657e3719415de493255c309f46c", null ],
-      [ "EVENT_RIMEFANG_SPELL_ICY_BLAST", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a56fde88b675883e881d730c66896bec3", null ],
+      [ "EVENT_RIMEFANG_ICY_BLAST", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a35c1e4758cada63dbb4e06e489d4a44b", null ],
       [ "EVENT_SPELL_MARK_OF_RIMEFANG", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a931043d3365a4d3bc84a0b42e30b34b7", null ]
     ] ],
     [ "Spells", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
@@ -15,9 +15,11 @@ var boss__scourgelord__tyrannus_8cpp =
       [ "SPELL_OVERLORDS_BRAND_DAMAGE", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298ca18b188906b47491f29e5b4652728d559", null ],
       [ "SPELL_FORCEFUL_SMASH", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298cae7a5cad9955bd2f161d38490c093f7ad", null ],
       [ "SPELL_UNHOLY_POWER", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298caf5760236e8d29fdecfb12fe3c120d5ba", null ],
-      [ "RIMEFANG_SPELL_ICY_BLAST", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298ca6c4964fec44b2a7281c0c519ce8767d4", null ],
+      [ "SPELL_RIMEFANG_ICY_BLAST", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298cac82ba8b77ccdc2e969b3a24f6e7c078d", null ],
       [ "SPELL_MARK_OF_RIMEFANG", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298cad2e3e170fa9f4f4a6c2948e6b4b03bdf", null ],
-      [ "RIMEFANG_SPELL_HOARFROST", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298caf747504cf5ffeb655fae8dacf3e7d114", null ]
+      [ "SPELL_RIMEFANG_HOARFROST", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298caaa5ac64b45b1036c26b94544d8857259", null ],
+      [ "SPELL_RIDE_VEHICLE_HARDCODED", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298ca5713d8e7a7947a6a6196854ffac409d4", null ],
+      [ "SPELL_FULL_HEAL", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298cac5cb10c3d24688bd7cbd6fb2ba4c9ad5", null ]
     ] ],
     [ "Texts", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
       [ "SAY_AGGRO", "d7/d09/boss__scourgelord__tyrannus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe", null ],

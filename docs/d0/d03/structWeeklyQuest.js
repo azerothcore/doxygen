@@ -1,5 +1,5 @@
 var structWeeklyQuest =
 [
-    [ "creatureEntry", "d0/d03/structWeeklyQuest.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d0/d03/structWeeklyQuest.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "CreatureEntry", "d0/d03/structWeeklyQuest.html#af6032aeb5c42a43c48f2bc7d9b48b035", null ],
+    [ "QuestId", "d0/d03/structWeeklyQuest.html#a00f6b1f121f8d64f5d190cffa0cd1e51", null ]
 ];

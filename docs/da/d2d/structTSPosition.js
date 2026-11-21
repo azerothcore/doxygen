@@ -1,6 +1,6 @@
 var structTSPosition =
 [
-    [ "entry", "da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "Entry", "da/d2d/structTSPosition.html#a4ae849df301b612a0d7e8649f0a229e3", null ],
+    [ "X", "da/d2d/structTSPosition.html#a81590ecc6fa53744ce33882417a980a8", null ],
+    [ "Y", "da/d2d/structTSPosition.html#a00c709b4a178ca4f3b6281283e87ff22", null ]
 ];

@@ -104,14 +104,13 @@ var searchData=
   ['tspellsummary_101',['TSpellSummary',['../dc/d9f/structTSpellSummary.html',1,'']]],
   ['tsposition_102',['TSPosition',['../da/d2d/structTSPosition.html',1,'']]],
   ['turretai_103',['TurretAI',['../d1/d88/structTurretAI.html',1,'']]],
-  ['twilightcutterselector_104',['TwilightCutterSelector',['../d7/d4c/classTwilightCutterSelector.html',1,'']]],
-  ['type_5flist_105',['type_list',['../d4/df2/structAcore_1_1type__list.html',1,'Acore']]],
-  ['typecontainervisitor_106',['TypeContainerVisitor',['../d1/d14/classTypeContainerVisitor.html',1,'']]],
-  ['typelist_107',['TypeList',['../db/d0b/structTypeList.html',1,'']]],
-  ['typemapcontainer_108',['TypeMapContainer',['../d1/dac/classTypeMapContainer.html',1,'']]],
-  ['typemapcontainer_3c_20grid_5fobject_5ftypes_20_3e_109',['TypeMapContainer&lt; GRID_OBJECT_TYPES &gt;',['../d1/dac/classTypeMapContainer.html',1,'']]],
-  ['typeunorderedmapcontainer_110',['TypeUnorderedMapContainer',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]],
-  ['typeunorderedmapcontainer_3c_20allmapstoredobjecttypes_2c_20objectguid_20_3e_111',['TypeUnorderedMapContainer&lt; AllMapStoredObjectTypes, ObjectGuid &gt;',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]],
-  ['typevectorcontainer_112',['TypeVectorContainer',['../dc/d56/classTypeVectorContainer.html',1,'']]],
-  ['typevectorcontainer_3c_20far_5fvisible_5fobject_5ftypes_20_3e_113',['TypeVectorContainer&lt; FAR_VISIBLE_OBJECT_TYPES &gt;',['../dc/d56/classTypeVectorContainer.html',1,'']]]
+  ['type_5flist_104',['type_list',['../d4/df2/structAcore_1_1type__list.html',1,'Acore']]],
+  ['typecontainervisitor_105',['TypeContainerVisitor',['../d1/d14/classTypeContainerVisitor.html',1,'']]],
+  ['typelist_106',['TypeList',['../db/d0b/structTypeList.html',1,'']]],
+  ['typemapcontainer_107',['TypeMapContainer',['../d1/dac/classTypeMapContainer.html',1,'']]],
+  ['typemapcontainer_3c_20grid_5fobject_5ftypes_20_3e_108',['TypeMapContainer&lt; GRID_OBJECT_TYPES &gt;',['../d1/dac/classTypeMapContainer.html',1,'']]],
+  ['typeunorderedmapcontainer_109',['TypeUnorderedMapContainer',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]],
+  ['typeunorderedmapcontainer_3c_20allmapstoredobjecttypes_2c_20objectguid_20_3e_110',['TypeUnorderedMapContainer&lt; AllMapStoredObjectTypes, ObjectGuid &gt;',['../d9/d63/classTypeUnorderedMapContainer.html',1,'']]],
+  ['typevectorcontainer_111',['TypeVectorContainer',['../dc/d56/classTypeVectorContainer.html',1,'']]],
+  ['typevectorcontainer_3c_20far_5fvisible_5fobject_5ftypes_20_3e_112',['TypeVectorContainer&lt; FAR_VISIBLE_OBJECT_TYPES &gt;',['../dc/d56/classTypeVectorContainer.html',1,'']]]
 ];

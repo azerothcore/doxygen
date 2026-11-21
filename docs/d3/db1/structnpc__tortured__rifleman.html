@@ -674,7 +674,7 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">UnitAI</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno"> 1264</span>    {</div>
-<div class="line"><span class="lineno"> 1265</span>        <span class="keywordflow">if</span> (action == 1)</div>
+<div class="line"><span class="lineno"> 1265</span>        <span class="keywordflow">if</span> (action == <a class="code hl_enumvalue" href="../../d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca23333dcc7ac7f9a89197887b8799754a">ACTION_WAVE_ENGAGE</a>)</div>
 <div class="line"><span class="lineno"> 1266</span>        {</div>
 <div class="line"><span class="lineno"> 1267</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571">SetInCombatWithZone</a>();</div>
 <div class="line"><span class="lineno"> 1268</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(<a class="code hl_enumvalue" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611">SelectTargetMethod::MaxDistance</a>, 0, 0.0f, <span class="keyword">true</span>))</div>
@@ -685,9 +685,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassCreature_html_a01ccacf28df6336a774bf1672caf3571"><div class="ttname"><a href="../../db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571">Creature::SetInCombatWithZone</a></div><div class="ttdeci">void SetInCombatWithZone()</div><div class="ttdoc">Set in combat all units in the dungeon/raid. Affect only units with IsAIEnabled.</div><div class="ttdef"><b>Definition</b> Creature.cpp:2887</div></div>
 <div class="ttc" id="aclassUnitAI_html_ac5b181f1036962caaf140369b22e807b"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ac5b181f1036962caaf140369b22e807b">UnitAI::SelectTarget</a></div><div class="ttdeci">Unit * SelectTarget(SelectTargetMethod targetType, uint32 position=0, float dist=0.0f, bool playerOnly=false, bool withTank=true, int32 aura=0)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:108</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:670</div></div>
+<div class="ttc" id="ahalls__of__reflection_8h_html_a68a3aa965a19156844e14a626767467ca23333dcc7ac7f9a89197887b8799754a"><div class="ttname"><a href="../../d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca23333dcc7ac7f9a89197887b8799754a">ACTION_WAVE_ENGAGE</a></div><div class="ttdeci">@ ACTION_WAVE_ENGAGE</div><div class="ttdef"><b>Definition</b> halls_of_reflection.h:292</div></div>
 <div class="ttc" id="astructnpc__tortured__rifleman_html_a82f84e5b66d8cbcb25267e0eeb5ce65c"><div class="ttname"><a href="../../d3/db1/structnpc__tortured__rifleman.html#a82f84e5b66d8cbcb25267e0eeb5ce65c">npc_tortured_rifleman::AttackStart</a></div><div class="ttdeci">void AttackStart(Unit *who) override</div><div class="ttdef"><b>Definition</b> halls_of_reflection.cpp:1291</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01291">AttackStart()</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611">MaxDistance</a>, <a class="el" href="../../#l00292">ScriptedAI::me</a>, <a class="el" href="../../#l00108">UnitAI::SelectTarget()</a>, and <a class="el" href="../../#l02887">Creature::SetInCombatWithZone()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00292">ACTION_WAVE_ENGAGE</a>, <a class="el" href="../../#l01291">AttackStart()</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611">MaxDistance</a>, <a class="el" href="../../#l00292">ScriptedAI::me</a>, <a class="el" href="../../#l00108">UnitAI::SelectTarget()</a>, and <a class="el" href="../../#l02887">Creature::SetInCombatWithZone()</a>.</p>
 
 </div>
 </div>
@@ -765,10 +766,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1288</span>            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a208f5da7a3cce47065ceeb008f8e1c49">SAY_WAVE_DEATH</a>);</div>
 <div class="line"><span class="lineno"> 1289</span>    }</div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
-<div class="ttc" id="ahalls__of__reflection_8h_html_aa1238bc23100f9e9f532209a59184b99a208f5da7a3cce47065ceeb008f8e1c49"><div class="ttname"><a href="../../d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a208f5da7a3cce47065ceeb008f8e1c49">SAY_WAVE_DEATH</a></div><div class="ttdeci">@ SAY_WAVE_DEATH</div><div class="ttdef"><b>Definition</b> halls_of_reflection.h:186</div></div>
+<div class="ttc" id="ahalls__of__reflection_8h_html_aa1238bc23100f9e9f532209a59184b99a208f5da7a3cce47065ceeb008f8e1c49"><div class="ttname"><a href="../../d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a208f5da7a3cce47065ceeb008f8e1c49">SAY_WAVE_DEATH</a></div><div class="ttdeci">@ SAY_WAVE_DEATH</div><div class="ttdef"><b>Definition</b> halls_of_reflection.h:220</div></div>
 <div class="ttc" id="ahyjal_8cpp_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition</b> hyjal.cpp:82</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00186">SAY_WAVE_DEATH</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00220">SAY_WAVE_DEATH</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 </div>
 </div>
@@ -929,7 +930,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/db1/structnpc__tortured__rifleman.html">npc_tortured_rifleman</a></li>
-    <li class="footer">Generated on Fri Nov 20 2026 14:48:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 21 2026 14:03:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

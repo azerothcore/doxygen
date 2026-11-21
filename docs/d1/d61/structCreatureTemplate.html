@@ -273,7 +273,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  161</span>{</div>
-<div class="line"><span class="lineno">  162</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/dcf/structCreatureModel.html">CreatureModel</a> <span class="keyword">const</span>&amp; model : <a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">Models</a>)</div>
+<div class="line"><span class="lineno">  162</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/dcf/structCreatureModel.html">CreatureModel</a> <span class="keyword">const</span>&amp; model : <a class="code hl_enumeration" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a>)</div>
 <div class="line"><span class="lineno">  163</span>        if (<a class="code hl_struct" href="../../dd/d4f/structCreatureModelInfo.html">CreatureModelInfo</a> const* modelInfo = <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureModelInfo(model.CreatureDisplayID))</div>
 <div class="line"><span class="lineno">  164</span>            if (modelInfo &amp;&amp; modelInfo-&gt;is_trigger)</div>
 <div class="line"><span class="lineno">  165</span>                return &amp;model;</div>
@@ -281,10 +281,10 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  167</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../d7/dcf/structCreatureModel.html#a4b729e5730c1fa0e5e4995f5dd65e9b3">CreatureModel::DefaultInvisibleModel</a>;</div>
 <div class="line"><span class="lineno">  168</span>}</div>
 <div class="ttc" id="aObjectMgr_8h_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:1734</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_ad79b9efcb51c710a9e3058177ac3856f"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a></div><div class="ttdeci">Models</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:53</div></div>
 <div class="ttc" id="astructCreatureModelInfo_html"><div class="ttname"><a href="../../dd/d4f/structCreatureModelInfo.html">CreatureModelInfo</a></div><div class="ttdef"><b>Definition</b> CreatureData.h:389</div></div>
 <div class="ttc" id="astructCreatureModel_html"><div class="ttname"><a href="../../d7/dcf/structCreatureModel.html">CreatureModel</a></div><div class="ttdef"><b>Definition</b> CreatureData.h:170</div></div>
 <div class="ttc" id="astructCreatureModel_html_a4b729e5730c1fa0e5e4995f5dd65e9b3"><div class="ttname"><a href="../../d7/dcf/structCreatureModel.html#a4b729e5730c1fa0e5e4995f5dd65e9b3">CreatureModel::DefaultInvisibleModel</a></div><div class="ttdeci">static CreatureModel const DefaultInvisibleModel</div><div class="ttdef"><b>Definition</b> CreatureData.h:171</div></div>
-<div class="ttc" id="astructCreatureTemplate_html_abaa3da4ade0c0aff7ecb49dbe0c903d0"><div class="ttname"><a href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">CreatureTemplate::Models</a></div><div class="ttdeci">std::vector&lt; CreatureModel &gt; Models</div><div class="ttdef"><b>Definition</b> CreatureData.h:191</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00171">CreatureModel::DefaultInvisibleModel</a>, <a class="el" href="../../#l00191">Models</a>, and <a class="el" href="../../#l01734">sObjectMgr</a>.</p>
 
@@ -307,7 +307,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  143</span>{</div>
-<div class="line"><span class="lineno">  144</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/dcf/structCreatureModel.html">CreatureModel</a> <span class="keyword">const</span>&amp; model : <a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">Models</a>)</div>
+<div class="line"><span class="lineno">  144</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/dcf/structCreatureModel.html">CreatureModel</a> <span class="keyword">const</span>&amp; model : <a class="code hl_enumeration" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a>)</div>
 <div class="line"><span class="lineno">  145</span>        if (model.CreatureDisplayID)</div>
 <div class="line"><span class="lineno">  146</span>            return &amp;model;</div>
 <div class="line"><span class="lineno">  147</span> </div>
@@ -335,7 +335,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  171</span>{</div>
-<div class="line"><span class="lineno">  172</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/dcf/structCreatureModel.html">CreatureModel</a> <span class="keyword">const</span>&amp; model : <a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">Models</a>)</div>
+<div class="line"><span class="lineno">  172</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/dcf/structCreatureModel.html">CreatureModel</a> <span class="keyword">const</span>&amp; model : <a class="code hl_enumeration" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a>)</div>
 <div class="line"><span class="lineno">  173</span>        if (<a class="code hl_struct" href="../../dd/d4f/structCreatureModelInfo.html">CreatureModelInfo</a> const* modelInfo = <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureModelInfo(model.CreatureDisplayID))</div>
 <div class="line"><span class="lineno">  174</span>            if (modelInfo &amp;&amp; !modelInfo-&gt;is_trigger)</div>
 <div class="line"><span class="lineno">  175</span>                return &amp;model;</div>
@@ -366,11 +366,9 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  121</span>{</div>
-<div class="line"><span class="lineno">  122</span>    <span class="keywordflow">return</span> idx &lt; <a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">Models</a>.size() ? &amp;<a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">Models</a>[idx] : <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  122</span>    <span class="keywordflow">return</span> idx &lt; <a class="code hl_enumeration" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a>.size() ? &amp;<a class="code hl_enumeration" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a>[idx] : <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  123</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00191">Models</a>.</p>
-
 <p class="reference">Referenced by <a class="el" href="../../#l00088">WorldSession::HandleCreatureQueryOpcode()</a>, and <a class="el" href="../../#l00180">InitializeQueryData()</a>.</p>
 
 </div>
@@ -391,7 +389,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  152</span>{</div>
-<div class="line"><span class="lineno">  153</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/dcf/structCreatureModel.html">CreatureModel</a> <span class="keyword">const</span>&amp; model : <a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">Models</a>)</div>
+<div class="line"><span class="lineno">  153</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/dcf/structCreatureModel.html">CreatureModel</a> <span class="keyword">const</span>&amp; model : <a class="code hl_enumeration" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a>)</div>
 <div class="line"><span class="lineno">  154</span>        if (displayId == model.CreatureDisplayID)</div>
 <div class="line"><span class="lineno">  155</span>            return &amp;model;</div>
 <div class="line"><span class="lineno">  156</span> </div>
@@ -419,14 +417,14 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  126</span>{</div>
-<div class="line"><span class="lineno">  127</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">Models</a>.size())</div>
+<div class="line"><span class="lineno">  127</span>    <span class="keywordflow">if</span> (!<a class="code hl_enumeration" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a>.size())</div>
 <div class="line"><span class="lineno">  128</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  129</span> </div>
 <div class="line"><span class="lineno">  130</span>    <span class="comment">// If only one element, ignore the Probability (even if 0)</span></div>
-<div class="line"><span class="lineno">  131</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">Models</a>.size() == 1)</div>
-<div class="line"><span class="lineno">  132</span>        <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">Models</a>[0];</div>
+<div class="line"><span class="lineno">  131</span>    <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a>.size() == 1)</div>
+<div class="line"><span class="lineno">  132</span>        <span class="keywordflow">return</span> &amp;<a class="code hl_enumeration" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a>[0];</div>
 <div class="line"><span class="lineno">  133</span> </div>
-<div class="line"><span class="lineno">  134</span>    <span class="keyword">auto</span> selectedItr = <a class="code hl_function" href="../../d0/d65/namespaceAcore_1_1Containers.html#a220cb6c43559036273f478f15d047eb9">Acore::Containers::SelectRandomWeightedContainerElement</a>(<a class="code hl_variable" href="../../d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0">Models</a>, [](<a class="code hl_struct" href="../../d7/dcf/structCreatureModel.html">CreatureModel</a> <span class="keyword">const</span>&amp; model)</div>
+<div class="line"><span class="lineno">  134</span>    <span class="keyword">auto</span> selectedItr = <a class="code hl_function" href="../../d0/d65/namespaceAcore_1_1Containers.html#a220cb6c43559036273f478f15d047eb9">Acore::Containers::SelectRandomWeightedContainerElement</a>(<a class="code hl_enumeration" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a>, [](<a class="code hl_struct" href="../../d7/dcf/structCreatureModel.html">CreatureModel</a> <span class="keyword">const</span>&amp; model)</div>
 <div class="line"><span class="lineno">  135</span>        {</div>
 <div class="line"><span class="lineno">  136</span>            <span class="keywordflow">return</span> model.<a class="code hl_variable" href="../../d7/dcf/structCreatureModel.html#a7736d6480dca65a68afb82a830b35874">Probability</a>;</div>
 <div class="line"><span class="lineno">  137</span>        });</div>
@@ -436,7 +434,7 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="anamespaceAcore_1_1Containers_html_a220cb6c43559036273f478f15d047eb9"><div class="ttname"><a href="../../d0/d65/namespaceAcore_1_1Containers.html#a220cb6c43559036273f478f15d047eb9">Acore::Containers::SelectRandomWeightedContainerElement</a></div><div class="ttdeci">auto SelectRandomWeightedContainerElement(C const &amp;container, std::vector&lt; double &gt; weights) -&gt; decltype(std::begin(container))</div><div class="ttdef"><b>Definition</b> Containers.h:175</div></div>
 <div class="ttc" id="astructCreatureModel_html_a7736d6480dca65a68afb82a830b35874"><div class="ttname"><a href="../../d7/dcf/structCreatureModel.html#a7736d6480dca65a68afb82a830b35874">CreatureModel::Probability</a></div><div class="ttdeci">float Probability</div><div class="ttdef"><b>Definition</b> CreatureData.h:182</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00191">Models</a>, <a class="el" href="../../#l00182">CreatureModel::Probability</a>, and <a class="el" href="../../#l00175">Acore::Containers::SelectRandomWeightedContainerElement()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00182">CreatureModel::Probability</a>, and <a class="el" href="../../#l00175">Acore::Containers::SelectRandomWeightedContainerElement()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01644">ObjectMgr::ChooseDisplayId()</a>, and <a class="el" href="../../#l07226">ObjectMgr::GetTaxiMountDisplayId()</a>.</p>
 
@@ -485,7 +483,7 @@ Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02704">CREATURE_TYPE_FLAG_SKIN_WITH_ENGINEERING</a>, <a class="el" href="../../#l02697">CREATURE_TYPE_FLAG_SKIN_WITH_HERBALISM</a>, <a class="el" href="../../#l02698">CREATURE_TYPE_FLAG_SKIN_WITH_MINING</a>, <a class="el" href="../../#l03156">SKILL_ENGINEERING</a>, <a class="el" href="../../#l03148">SKILL_HERBALISM</a>, <a class="el" href="../../#l03152">SKILL_MINING</a>, <a class="el" href="../../#l03194">SKILL_SKINNING</a>, and <a class="el" href="../../#l00219">type_flags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05874">Spell::CheckCast()</a>, and <a class="el" href="../../#l05142">Spell::EffectSkinning()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05899">Spell::CheckCast()</a>, and <a class="el" href="../../#l05142">Spell::EffectSkinning()</a>.</p>
 
 </div>
 </div>
@@ -659,7 +657,7 @@ Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02622">CREATURE_TYPE_BEAST</a>, <a class="el" href="../../#l02689">CREATURE_TYPE_FLAG_TAMEABLE</a>, <a class="el" href="../../#l02705">CREATURE_TYPE_FLAG_TAMEABLE_EXOTIC</a>, <a class="el" href="../../#l00217">family</a>, <a class="el" href="../../#l00218">type</a>, and <a class="el" href="../../#l00219">type_flags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05874">Spell::CheckCast()</a>, <a class="el" href="../../#l01322">npc_commandscript::HandleNpcTameCommand()</a>, <a class="el" href="../../#l00646">WorldSession::HandleStableSwapPet()</a>, <a class="el" href="../../#l00493">WorldSession::HandleUnstablePet()</a>, and <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05899">Spell::CheckCast()</a>, <a class="el" href="../../#l01322">npc_commandscript::HandleNpcTameCommand()</a>, <a class="el" href="../../#l00646">WorldSession::HandleStableSwapPet()</a>, <a class="el" href="../../#l00493">WorldSession::HandleUnstablePet()</a>, and <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>.</p>
 
 </div>
 </div>
@@ -868,7 +866,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02395">Spell::AddUnitTarget()</a>, <a class="el" href="../../#l00964">ObjectMgr::CheckCreatureTemplate()</a>, <a class="el" href="../../#l00992">Pet::CreateBaseAtCreature()</a>, <a class="el" href="../../#l01027">Pet::CreateBaseAtCreatureInfo()</a>, <a class="el" href="../../#l09480">Player::CreatePet()</a>, <a class="el" href="../../#l09532">Player::CreatePet()</a>, <a class="el" href="../../#l08165">ObjectMgr::GeneratePetName()</a>, <a class="el" href="../../#l02502">Pet::GetNativeObjectScale()</a>, <a class="el" href="../../#l00088">WorldSession::HandleCreatureQueryOpcode()</a>, <a class="el" href="../../#l00210">learn_commandscript::HandleLearnAllMyPetTalentsCommand()</a>, <a class="el" href="../../#l00060">pet_commandscript::HandlePetCreateCommand()</a>, <a class="el" href="../../#l00561">spell_warl_demonic_empowerment::HandleScriptEffect()</a>, <a class="el" href="../../#l01475">Pet::HaveInDiet()</a>, <a class="el" href="../../#l00180">InitializeQueryData()</a>, <a class="el" href="../../#l00269">IsTameable()</a>, <a class="el" href="../../#l02367">Pet::LearnPetPassives()</a>, <a class="el" href="../../#l14526">Player::LearnPetTalent()</a>, <a class="el" href="../../#l02724">LoadPetDefaultSpells_helper()</a>, <a class="el" href="../../#l09796">Player::PetSpellInitialize()</a>, <a class="el" href="../../#l09343">Player::RemovePet()</a>, <a class="el" href="../../#l02079">Pet::resetTalents()</a>, and <a class="el" href="../../#l09216">Player::SummonPet()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02420">Spell::AddUnitTarget()</a>, <a class="el" href="../../#l00964">ObjectMgr::CheckCreatureTemplate()</a>, <a class="el" href="../../#l00992">Pet::CreateBaseAtCreature()</a>, <a class="el" href="../../#l01027">Pet::CreateBaseAtCreatureInfo()</a>, <a class="el" href="../../#l09480">Player::CreatePet()</a>, <a class="el" href="../../#l09532">Player::CreatePet()</a>, <a class="el" href="../../#l08165">ObjectMgr::GeneratePetName()</a>, <a class="el" href="../../#l02502">Pet::GetNativeObjectScale()</a>, <a class="el" href="../../#l00088">WorldSession::HandleCreatureQueryOpcode()</a>, <a class="el" href="../../#l00210">learn_commandscript::HandleLearnAllMyPetTalentsCommand()</a>, <a class="el" href="../../#l00060">pet_commandscript::HandlePetCreateCommand()</a>, <a class="el" href="../../#l00561">spell_warl_demonic_empowerment::HandleScriptEffect()</a>, <a class="el" href="../../#l01475">Pet::HaveInDiet()</a>, <a class="el" href="../../#l00180">InitializeQueryData()</a>, <a class="el" href="../../#l00269">IsTameable()</a>, <a class="el" href="../../#l02367">Pet::LearnPetPassives()</a>, <a class="el" href="../../#l14526">Player::LearnPetTalent()</a>, <a class="el" href="../../#l02724">LoadPetDefaultSpells_helper()</a>, <a class="el" href="../../#l09796">Player::PetSpellInitialize()</a>, <a class="el" href="../../#l09343">Player::RemovePet()</a>, <a class="el" href="../../#l02079">Pet::resetTalents()</a>, and <a class="el" href="../../#l09216">Player::SummonPet()</a>.</p>
 
 </div>
 </div>
@@ -884,7 +882,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00964">ObjectMgr::CheckCreatureTemplate()</a>, <a class="el" href="../../#l03092">Spell::DoSpellHitOnUnit()</a>, <a class="el" href="../../#l00042">TestCreature::ForceInitValues()</a>, <a class="el" href="../../#l00278">HasFlagsExtra()</a>, and <a class="el" href="../../#l03352">Unit::MeleeSpellHitResult()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00964">ObjectMgr::CheckCreatureTemplate()</a>, <a class="el" href="../../#l03117">Spell::DoSpellHitOnUnit()</a>, <a class="el" href="../../#l00042">TestCreature::ForceInitValues()</a>, <a class="el" href="../../#l00278">HasFlagsExtra()</a>, and <a class="el" href="../../#l03352">Unit::MeleeSpellHitResult()</a>.</p>
 
 </div>
 </div>
@@ -1060,7 +1058,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00964">ObjectMgr::CheckCreatureTemplate()</a>, <a class="el" href="../../#l01678">ObjectMgr::GetCreatureModelRandomGender()</a>, <a class="el" href="../../#l00160">GetFirstInvisibleModel()</a>, <a class="el" href="../../#l00142">GetFirstValidModel()</a>, <a class="el" href="../../#l00170">GetFirstVisibleModel()</a>, <a class="el" href="../../#l00120">GetModelByIdx()</a>, <a class="el" href="../../#l00151">GetModelWithDisplayId()</a>, <a class="el" href="../../#l00125">GetRandomValidModel()</a>, and <a class="el" href="../../#l01411">Creature::SaveToDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00964">ObjectMgr::CheckCreatureTemplate()</a>, <a class="el" href="../../#l01678">ObjectMgr::GetCreatureModelRandomGender()</a>, <a class="el" href="../../#l00160">GetFirstInvisibleModel()</a>, <a class="el" href="../../#l00142">GetFirstValidModel()</a>, <a class="el" href="../../#l00170">GetFirstVisibleModel()</a>, <a class="el" href="../../#l00151">GetModelWithDisplayId()</a>, and <a class="el" href="../../#l01411">Creature::SaveToDB()</a>.</p>
 
 </div>
 </div>
@@ -1396,7 +1394,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01586">Battleground::AddCreature()</a>, <a class="el" href="../../#l00964">ObjectMgr::CheckCreatureTemplate()</a>, <a class="el" href="../../#l00042">TestCreature::ForceInitValues()</a>, <a class="el" href="../../#l00482">Creature::InitEntry()</a>, <a class="el" href="../../#l00411">boss_sindragosa::boss_sindragosaAI::MovementInform()</a>, <a class="el" href="../../#l01816">npc_hor_leader_second::npc_hor_leader_secondAI::MoveToNextStopPoint()</a>, <a class="el" href="../../#l00285">boss_sindragosa::boss_sindragosaAI::Reset()</a>, <a class="el" href="../../#l00783">Battlefield::SpawnCreature()</a>, <a class="el" href="../../#l01605">npc_hor_lich_king::UpdateAI()</a>, <a class="el" href="../../#l01836">npc_hor_leader_second::npc_hor_leader_secondAI::UpdateAI()</a>, and <a class="el" href="../../#l10927">Unit::UpdateSpeed()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01586">Battleground::AddCreature()</a>, <a class="el" href="../../#l00964">ObjectMgr::CheckCreatureTemplate()</a>, <a class="el" href="../../#l00042">TestCreature::ForceInitValues()</a>, <a class="el" href="../../#l00482">Creature::InitEntry()</a>, <a class="el" href="../../#l00402">boss_sindragosa::boss_sindragosaAI::MovementInform()</a>, <a class="el" href="../../#l01816">npc_hor_leader_second::npc_hor_leader_secondAI::MoveToNextStopPoint()</a>, <a class="el" href="../../#l00276">boss_sindragosa::boss_sindragosaAI::Reset()</a>, <a class="el" href="../../#l00783">Battlefield::SpawnCreature()</a>, <a class="el" href="../../#l01605">npc_hor_lich_king::UpdateAI()</a>, <a class="el" href="../../#l01836">npc_hor_leader_second::npc_hor_leader_secondAI::UpdateAI()</a>, and <a class="el" href="../../#l10927">Unit::UpdateSpeed()</a>.</p>
 
 </div>
 </div>
@@ -1570,7 +1568,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d61/structCreatureTemplate.html">CreatureTemplate</a></li>
-    <li class="footer">Generated on Fri Nov 20 2026 14:47:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 21 2026 14:02:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

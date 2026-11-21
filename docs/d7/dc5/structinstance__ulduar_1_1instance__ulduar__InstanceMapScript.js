@@ -2,7 +2,7 @@ var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
 [
     [ "instance_ulduar_InstanceMapScript", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac09484c22521c3319e7c9d7677c1f751", null ],
     [ "AlgalonMinutesLeft", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a4be74ac35d22a621a8ff7ac4ea3d89a6", null ],
-    [ "CheckAchievementCriteriaMeet", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a86c743405bc0e33247a6e1799c083ffd", null ],
+    [ "CheckAchievementCriteriaMeet", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a4025d8f80a81154b0503844b8f3bee7f", null ],
     [ "CheckRequiredBosses", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#abbf6cb96cff9fe36d668253e86208e52", null ],
     [ "DespawnLeviathanGauntlet", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab1ee54aec4bcf62c5f31d843f6bf403e", null ],
     [ "ExpireAlgalonCountdown", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ae8bdb08c0d5fd43a4e7cbc424480763c", null ],
@@ -21,11 +21,11 @@ var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
     [ "OpenIfDone", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a258f09abf91ada78d8b8ed4b7bd3a45d", null ],
     [ "PlayBrannRhydianLine", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af0d84285c9e84605f8b0a90c9a22fb38", null ],
     [ "ProcessEvent", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a0c6b524be9fd61ec03e48d1f99f5e005", null ],
-    [ "respawnHodirHardmodeChest", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a0b67e3ff242f14e4da598e0bf8e34c71", null ],
+    [ "RespawnHodirHardmodeChest", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a3b9721618dacb07f477c869e57a78fcf", null ],
     [ "ScheduleLeviathanVehicleRespawn", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ae1ed3e78b681abe62d64b5db1cc3df50", null ],
     [ "SetBossState", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a10f5aa7c08038cd156461bf0f84a4e0e", null ],
-    [ "setChestsLootable", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5ef40665d44e1088042161ee9aa7f057", null ],
     [ "SetData", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a73985b9658bd3091da745aecad9c4dff", null ],
+    [ "SetHodirChestsLootable", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aed6f74115655b1c9a9adf600bcfed9c1", null ],
     [ "SpawnLeviathanEncounterVehicles", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5088f3f2083ec3ed5ba3466abea76252", null ],
     [ "SpawnLeviathanOutro", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a37575ff335471f067f019999881e3114", null ],
     [ "SpawnObservationRingKeepers", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab20ce8718a0d6f94f5959c4f2d4984c3", null ],
@@ -49,6 +49,5 @@ var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
     [ "_leviathanVehiclesUsable", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aaa3315b262109938f69f6186fe49fdfc", null ],
     [ "_leviathanVisualTowers", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6ac97df295fdc05b815ccf064d9a26e9", null ],
     [ "_mimironTramUsed", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5cde0ab5d71242b2f84915f873f46ce2", null ],
-    [ "_repairSGUID", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a2e4fba6a0015e0603ed822a6e1c45de8", null ],
-    [ "triggerAncientGatePosition", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a1aa6125e8effdb01b9012801ce45360f", null ]
+    [ "_repairSGUID", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a2e4fba6a0015e0603ed822a6e1c45de8", null ]
 ];

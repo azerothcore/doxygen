@@ -5,12 +5,12 @@ var boss__twin__valkyr_8cpp =
     [ "boss_eydis::boss_eydisAI", "df/d6f/structboss__eydis_1_1boss__eydisAI.html", "df/d6f/structboss__eydis_1_1boss__eydisAI" ],
     [ "boss_fjola", "dc/db4/classboss__fjola.html", "dc/db4/classboss__fjola" ],
     [ "boss_fjola::boss_fjolaAI", "d3/dbe/structboss__fjola_1_1boss__fjolaAI.html", "d3/dbe/structboss__fjola_1_1boss__fjolaAI" ],
-    [ "npc_essence_of_twin", "d8/deb/classnpc__essence__of__twin.html", "d8/deb/classnpc__essence__of__twin" ],
-    [ "npc_concentrated_ball", "d8/db6/classnpc__concentrated__ball.html", "d8/db6/classnpc__concentrated__ball" ],
-    [ "npc_concentrated_ball::npc_concentrated_ballAI", "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html", "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI" ],
+    [ "npc_concentrated_ball", "dd/d6a/structnpc__concentrated__ball.html", "dd/d6a/structnpc__concentrated__ball" ],
     [ "spell_valkyr_essence_aura", "d0/d10/classspell__valkyr__essence__aura.html", "d0/d10/classspell__valkyr__essence__aura" ],
     [ "spell_valkyr_touch_aura", "dd/dac/classspell__valkyr__touch__aura.html", "dd/dac/classspell__valkyr__touch__aura" ],
-    [ "spell_valkyr_ball_periodic_dummy_aura", "d0/dd6/classspell__valkyr__ball__periodic__dummy__aura.html", "d0/dd6/classspell__valkyr__ball__periodic__dummy__aura" ],
+    [ "spell_valkyr_ball_passive", "d9/d0d/classspell__valkyr__ball__passive.html", "d9/d0d/classspell__valkyr__ball__passive" ],
+    [ "spell_valkyr_bullet_controller", "d5/dc0/classspell__valkyr__bullet__controller.html", "d5/dc0/classspell__valkyr__bullet__controller" ],
+    [ "spell_valkyr_bullet_summon_trigger", "de/da5/classspell__valkyr__bullet__summon__trigger.html", "de/da5/classspell__valkyr__bullet__summon__trigger" ],
     [ "spell_valkyr_clear_auras", "d7/d71/classspell__valkyr__clear__auras.html", "d7/d71/classspell__valkyr__clear__auras" ],
     [ "Equipment", "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bc", [
       [ "EQUIP_MAIN_1", "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bcae4818bceef8e7f8183d71ce60d9aae2f", null ],
@@ -20,11 +20,13 @@ var boss__twin__valkyr_8cpp =
       [ "EQUIP_OFFHAND_2", "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bca43ad13d019d11f11e9b4593f467b732d", null ],
       [ "EQUIP_RANGED_2", "d7/dc0/boss__twin__valkyr_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bcaabd39cb30e00d10e5adfdf4b0183723d", null ]
     ] ],
+    [ "ValkyrBullets", "d7/dc0/boss__twin__valkyr_8cpp.html#a763eb69f74089e3630428bfd5aef4b50", [
+      [ "BULLET_CONTROLLER_ORB_CAP", "d7/dc0/boss__twin__valkyr_8cpp.html#a763eb69f74089e3630428bfd5aef4b50afc644ba2c5a857d4aa67087ceab5b2da", null ],
+      [ "POINT_BULLET_STALKER", "d7/dc0/boss__twin__valkyr_8cpp.html#a763eb69f74089e3630428bfd5aef4b50a47393a0b100c05936d60a4c34576c457", null ]
+    ] ],
     [ "ValkyrEvents", "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805", [
       [ "EVENT_BERSERK", "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SUMMON_BALLS_1", "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805a04e523250a002a95f38cb9532876e87d", null ],
-      [ "EVENT_SUMMON_BALLS_2", "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805adbc8af7c9d401de85b7c4011f0534969", null ],
-      [ "EVENT_SUMMON_BALLS_3", "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805ae8dbffe988cb73fdd98c0effd197bfcd", null ],
+      [ "EVENT_BULLET_BURST", "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805a5043e6ab05ff49f594f710289e5b64ef", null ],
       [ "EVENT_SPELL_SPIKE", "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805a417c64c26878bef40e537a0c305af5cb", null ],
       [ "EVENT_SPELL_TOUCH", "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805a7dd691971a85acdca2e1c4062b8fb40c", null ],
       [ "EVENT_SPECIAL", "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805a23f12f795736a646034072280e121a1d", null ],
@@ -33,8 +35,9 @@ var boss__twin__valkyr_8cpp =
     [ "ValkyrNPCs", "d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204", [
       [ "NPC_DARK_ESSENCE", "d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a7856b7938de2e6a89176fb130bb602db", null ],
       [ "NPC_LIGHT_ESSENCE", "d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a509cdeac646fa02986988467e7fdaed4", null ],
-      [ "NPC_CONCENTRATED_DARK", "d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a72f5fc28ca8250b2ff0d4767808371bf", null ],
-      [ "NPC_CONCENTRATED_LIGHT", "d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a8a7aff98e443da9bf05b24611779948e", null ]
+      [ "NPC_BULLET_STALKER_DARK", "d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a1ef62f8f2af6612e424bc90b26a111e3", null ],
+      [ "NPC_BULLET_STALKER_LIGHT", "d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a95c2073c347f4034b77e862e7045b134", null ],
+      [ "NPC_BULLET_CONTROLLER", "d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204aa6e80085e8a096516f7bbc432da40ae5", null ]
     ] ],
     [ "ValkyrSpells", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844", [
       [ "SPELL_LIGHT_ESSENCE", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a9702895b75c6b1a2a67b177f84eea0fe", null ],
@@ -64,7 +67,15 @@ var boss__twin__valkyr_8cpp =
       [ "SPELL_TWIN_EMPATHY_DARK", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a7e012640ecc314eee96ed8ad481fe712", null ],
       [ "SPELL_TWIN_EMPATHY_LIGHT", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844af204f4c2da44b9fdb56676e9ea269ff5", null ],
       [ "SPELL_CLEAR_VALKYR_ESSENCE", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a720ad8b5873dfb6465c57a15057bd01b", null ],
-      [ "SPELL_CLEAR_VALKYR_TOUCH", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a8c420a522a120bbd9efa89e0e2714bde", null ]
+      [ "SPELL_CLEAR_VALKYR_TOUCH", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a8c420a522a120bbd9efa89e0e2714bde", null ],
+      [ "SPELL_BULLET_CONTROLLER_PERIODIC", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a9926d99e62074a9bde4cffc1d05637a0", null ],
+      [ "SPELL_BULLET_CONTROLLER_SUMMON_LIGHT", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a92b31a0af5e9e9e5214fe3df245d746a", null ],
+      [ "SPELL_BULLET_CONTROLLER_SUMMON_DARK", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a3b88a97f8900660a034bd69586e4f190", null ],
+      [ "SPELL_BULLET_SUMMON_TRIGGER", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844ac5fd14522eaf1f68ee189cda54ced730", null ],
+      [ "SPELL_LIGHT_BALL_PASSIVE", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a56bcf7a1b6ddfa36ad3e15b1ffdd5906", null ],
+      [ "SPELL_DARK_BALL_PASSIVE", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a5999a0cf2c083b4e00268323f92a2c62", null ],
+      [ "SPELL_LIGHT_BALL_PASSIVE_TRIGGER", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a66ad76a230f66729d16e71806e18c7c9", null ],
+      [ "SPELL_DARK_BALL_PASSIVE_TRIGGER", "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844aca5686b77dda1a97e57cb9b8b7847c71", null ]
     ] ],
     [ "Yells", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_AGGRO", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
@@ -76,7 +87,8 @@ var boss__twin__valkyr_8cpp =
       [ "SAY_KILL_PLAYER", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad8ce3f4de5ecaa5762ee8b55570503a4", null ],
       [ "SAY_BERSERK", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b", null ],
       [ "SAY_DEATH", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],
-      [ "EMOTE_BERSERK", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad4a2e4c34c9e4cf25e66544b1de3bdd9", null ]
+      [ "EMOTE_BERSERK", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "EMOTE_TOUCH", "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a21153f10565e5f32475502bd21b079bd", null ]
     ] ],
     [ "AddSC_boss_twin_valkyr", "d7/dc0/boss__twin__valkyr_8cpp.html#aab55ff5b9017c81c9e158524c49a2925", null ]
 ];

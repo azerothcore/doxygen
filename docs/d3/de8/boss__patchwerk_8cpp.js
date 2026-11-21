@@ -2,6 +2,7 @@ var boss__patchwerk_8cpp =
 [
     [ "boss_patchwerk", "dc/d39/classboss__patchwerk.html", "dc/d39/classboss__patchwerk" ],
     [ "boss_patchwerk::boss_patchwerkAI", "da/dbc/structboss__patchwerk_1_1boss__patchwerkAI.html", "da/dbc/structboss__patchwerk_1_1boss__patchwerkAI" ],
+    [ "spell_patchwerk_hateful_strike_primer", "d2/d0f/classspell__patchwerk__hateful__strike__primer.html", "d2/d0f/classspell__patchwerk__hateful__strike__primer" ],
     [ "Events", "d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_HEALTH_CHECK", "d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8", null ],
       [ "EVENT_HATEFUL_STRIKE", "d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb0fe50bb5faeeedf94f702e800ac9fe", null ],
@@ -9,9 +10,11 @@ var boss__patchwerk_8cpp =
       [ "EVENT_BERSERK", "d3/de8/boss__patchwerk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266", null ]
     ] ],
     [ "Misc", "d3/de8/boss__patchwerk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "ACHIEV_TIMED_START_EVENT", "d3/de8/boss__patchwerk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ]
+      [ "ACHIEV_TIMED_START_EVENT", "d3/de8/boss__patchwerk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
+      [ "HATEFUL_THREAT_AMT", "d3/de8/boss__patchwerk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8b869c6a2b0228a1a8c0c80da1b3582c", null ]
     ] ],
     [ "Spells", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
+      [ "SPELL_HATEFUL_STRIKE_PRIMER", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298caf53d23e83051c89b4ae1d698b3567b6e", null ],
       [ "SPELL_HATEFUL_STRIKE", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298cabad6e8ef38e36b223ac12f2dbb1711b1", null ],
       [ "SPELL_FRENZY", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293", null ],
       [ "SPELL_BERSERK", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f", null ],

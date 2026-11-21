@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('d2/ddf/structnpc__pos__deathwhisper__n
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d9/d7f/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI Struct Reference</div></div>
 </div><!--header-->
@@ -141,8 +141,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aad000cc1310f22325a29131fad169cbc" id="r_aad000cc1310f22325a29131fad169cbc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#aad000cc1310f22325a29131fad169cbc">DamageTaken</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;damage, <a class="el" href="../../d1/daf/Unit_8h.html#ab0b8a9de485ea928c497ac0b5f9040b1">DamageEffectType</a>, <a class="el" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a>) override</td></tr>
 <tr class="memdesc:aad000cc1310f22325a29131fad169cbc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called at any Damage from any attacker (before damage apply)  <br /></td></tr>
 <tr class="separator:aad000cc1310f22325a29131fad169cbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5d7a324073cfdbd01ae267964959f15b" id="r_a5d7a324073cfdbd01ae267964959f15b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a5d7a324073cfdbd01ae267964959f15b">DoAction</a> (<a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> a) override</td></tr>
-<tr class="separator:a5d7a324073cfdbd01ae267964959f15b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae91081ac8d2667ab379423701178e087" id="r_ae91081ac8d2667ab379423701178e087"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ae91081ac8d2667ab379423701178e087">DoAction</a> (<a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> action) override</td></tr>
+<tr class="separator:ae91081ac8d2667ab379423701178e087"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ade1c91217b6c6e33bfca60a69a51bbc0" id="r_ade1c91217b6c6e33bfca60a69a51bbc0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ade1c91217b6c6e33bfca60a69a51bbc0">UpdateAI</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff) override</td></tr>
 <tr class="memdesc:ade1c91217b6c6e33bfca60a69a51bbc0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to start attacking a target. Called just before <a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ae095fa3ceb484cc289a086be8c2f2552" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a>  <br /></td></tr>
 <tr class="separator:ade1c91217b6c6e33bfca60a69a51bbc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -509,17 +509,12 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aa96fa3aa7728e3ae090105bb3d10de4a inherit pub_methods_classUnitAI" id="r_aa96fa3aa7728e3ae090105bb3d10de4a"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#aa96fa3aa7728e3ae090105bb3d10de4a">GetDebugInfo</a> () const</td></tr>
 <tr class="separator:aa96fa3aa7728e3ae090105bb3d10de4a inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a30d65bc3625ed22e11ed7e040451643c" id="r_a30d65bc3625ed22e11ed7e040451643c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d2e/classEventMap.html">EventMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a30d65bc3625ed22e11ed7e040451643c">events</a></td></tr>
-<tr class="separator:a30d65bc3625ed22e11ed7e040451643c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afb71e537115d36795c2568360b2d58ce" id="r_afb71e537115d36795c2568360b2d58ce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce">pInstance</a></td></tr>
-<tr class="separator:afb71e537115d36795c2568360b2d58ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0216b301112656fb75907ff1f0d50d0f" id="r_a0216b301112656fb75907ff1f0d50d0f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a0216b301112656fb75907ff1f0d50d0f">isInvincible</a></td></tr>
-<tr class="separator:a0216b301112656fb75907ff1f0d50d0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_attribs_structScriptedAI"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_structScriptedAI')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></td></tr>
-<tr class="memitem:a5da7193f0a8713b8fa5e7ff2f19ac3bb inherit pub_attribs_structScriptedAI" id="r_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/classCreature.html">Creature</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a></td></tr>
-<tr class="separator:a5da7193f0a8713b8fa5e7ff2f19ac3bb inherit pub_attribs_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a750aa60c455aeb0f00993f4c4eced9ea" id="r_a750aa60c455aeb0f00993f4c4eced9ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a750aa60c455aeb0f00993f4c4eced9ea">_instance</a></td></tr>
+<tr class="separator:a750aa60c455aeb0f00993f4c4eced9ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e824c26252d2f5caeb912b9ba70c63f" id="r_a2e824c26252d2f5caeb912b9ba70c63f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a2e824c26252d2f5caeb912b9ba70c63f">_isInvincible</a></td></tr>
+<tr class="separator:a2e824c26252d2f5caeb912b9ba70c63f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -551,6 +546,9 @@ Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pub_static_methods_classUnitAI"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_classUnitAI')"><img src="../../closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="../../d0/ddd/classUnitAI.html">UnitAI</a></td></tr>
 <tr class="memitem:a1ff3f1e75730e6464e622267a73d6cc3 inherit pub_static_methods_classUnitAI" id="r_a1ff3f1e75730e6464e622267a73d6cc3"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#a1ff3f1e75730e6464e622267a73d6cc3">FillAISpellInfo</a> ()</td></tr>
 <tr class="separator:a1ff3f1e75730e6464e622267a73d6cc3 inherit pub_static_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_structScriptedAI"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_structScriptedAI')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></td></tr>
+<tr class="memitem:a5da7193f0a8713b8fa5e7ff2f19ac3bb inherit pub_attribs_structScriptedAI" id="r_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/classCreature.html">Creature</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a></td></tr>
+<tr class="separator:a5da7193f0a8713b8fa5e7ff2f19ac3bb inherit pub_attribs_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_static_attribs_classUnitAI"><td colspan="2" onclick="javascript:toggleInherit('pub_static_attribs_classUnitAI')"><img src="../../closed.png" alt="-"/>&#160;Static Public Attributes inherited from <a class="el" href="../../d0/ddd/classUnitAI.html">UnitAI</a></td></tr>
 <tr class="memitem:adaf99f0a5a2d4993e5408eec175f5e24 inherit pub_static_attribs_classUnitAI" id="r_adaf99f0a5a2d4993e5408eec175f5e24"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d7/db6/structAISpellInfoType.html">AISpellInfoType</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#adaf99f0a5a2d4993e5408eec175f5e24">AISpellInfo</a></td></tr>
 <tr class="separator:adaf99f0a5a2d4993e5408eec175f5e24 inherit pub_static_attribs_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -611,18 +609,18 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  391</span>                                                             : <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature)</div>
-<div class="line"><span class="lineno">  392</span>        {</div>
-<div class="line"><span class="lineno">  393</span>            <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce">pInstance</a> = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
-<div class="line"><span class="lineno">  394</span>            <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a0216b301112656fb75907ff1f0d50d0f">isInvincible</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  395</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  480</span>                                                             : <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature)</div>
+<div class="line"><span class="lineno">  481</span>        {</div>
+<div class="line"><span class="lineno">  482</span>            <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a750aa60c455aeb0f00993f4c4eced9ea">_instance</a> = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
+<div class="line"><span class="lineno">  483</span>            <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a2e824c26252d2f5caeb912b9ba70c63f">_isInvincible</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  484</span>        }</div>
 <div class="ttc" id="aclassWorldObject_html_a29762f86d0726e4d229df51281b9d710"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">WorldObject::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript() const</div><div class="ttdef"><b>Definition</b> Object.cpp:1247</div></div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:202</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:292</div></div>
-<div class="ttc" id="astructnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI_html_a0216b301112656fb75907ff1f0d50d0f"><div class="ttname"><a href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a0216b301112656fb75907ff1f0d50d0f">npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI::isInvincible</a></div><div class="ttdeci">bool isInvincible</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:399</div></div>
-<div class="ttc" id="astructnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI_html_afb71e537115d36795c2568360b2d58ce"><div class="ttname"><a href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce">npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI::pInstance</a></div><div class="ttdeci">InstanceScript * pInstance</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:398</div></div>
+<div class="ttc" id="astructnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI_html_a2e824c26252d2f5caeb912b9ba70c63f"><div class="ttname"><a href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a2e824c26252d2f5caeb912b9ba70c63f">npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI::_isInvincible</a></div><div class="ttdeci">bool _isInvincible</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:571</div></div>
+<div class="ttc" id="astructnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI_html_a750aa60c455aeb0f00993f4c4eced9ea"><div class="ttname"><a href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a750aa60c455aeb0f00993f4c4eced9ea">npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI::_instance</a></div><div class="ttdeci">InstanceScript * _instance</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:570</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01247">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00399">isInvincible</a>, <a class="el" href="../../#l00292">ScriptedAI::me</a>, and <a class="el" href="../../#l00398">pInstance</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00570">_instance</a>, <a class="el" href="../../#l00571">_isInvincible</a>, <a class="el" href="../../#l01247">WorldObject::GetInstanceScript()</a>, and <a class="el" href="../../#l00292">ScriptedAI::me</a>.</p>
 
 </div>
 </div>
@@ -677,18 +675,18 @@ Additional Inherited Members</h2></td></tr>
 <dl class="section note"><dt>Note</dt><dd>It use for recalculation damage or special reaction at damage for attack reaction use AttackedBy called for non DOT damage in <a class="el" href="../../df/dd9/classUnit.html#a1f335b0669bc7f67d33dfa0dd9f027a0">Unit::DealDamage</a> also </dd></dl>
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#aca924c2f1f249c2dcffaaea0fa35cd91">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  451</span>        {</div>
-<div class="line"><span class="lineno">  452</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a0216b301112656fb75907ff1f0d50d0f">isInvincible</a> &amp;&amp; damage &gt;= <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a958172d6051b106e3b3c776e4f9f3952">GetHealth</a>())</div>
-<div class="line"><span class="lineno">  453</span>                damage = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a958172d6051b106e3b3c776e4f9f3952">GetHealth</a>() - 1;</div>
-<div class="line"><span class="lineno">  454</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  528</span>        {</div>
+<div class="line"><span class="lineno">  529</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a2e824c26252d2f5caeb912b9ba70c63f">_isInvincible</a> &amp;&amp; damage &gt;= <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a958172d6051b106e3b3c776e4f9f3952">GetHealth</a>())</div>
+<div class="line"><span class="lineno">  530</span>                damage = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a958172d6051b106e3b3c776e4f9f3952">GetHealth</a>() - 1;</div>
+<div class="line"><span class="lineno">  531</span>        }</div>
 <div class="ttc" id="aclassUnit_html_a958172d6051b106e3b3c776e4f9f3952"><div class="ttname"><a href="../../df/dd9/classUnit.html#a958172d6051b106e3b3c776e4f9f3952">Unit::GetHealth</a></div><div class="ttdeci">uint32 GetHealth() const</div><div class="ttdef"><b>Definition</b> Unit.h:1122</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01122">Unit::GetHealth()</a>, <a class="el" href="../../#l00399">isInvincible</a>, and <a class="el" href="../../#l00292">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00571">_isInvincible</a>, <a class="el" href="../../#l01122">Unit::GetHealth()</a>, and <a class="el" href="../../#l00292">ScriptedAI::me</a>.</p>
 
 </div>
 </div>
-<a id="a5d7a324073cfdbd01ae267964959f15b" name="a5d7a324073cfdbd01ae267964959f15b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5d7a324073cfdbd01ae267964959f15b">&#9670;&#160;</a></span>DoAction()</h2>
+<a id="ae91081ac8d2667ab379423701178e087" name="ae91081ac8d2667ab379423701178e087"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae91081ac8d2667ab379423701178e087">&#9670;&#160;</a></span>DoAction()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -700,7 +698,7 @@ Additional Inherited Members</h2></td></tr>
           <td class="memname">void npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI::DoAction </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>a</em></td><td>)</td>
+          <td class="paramname"><em>action</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -712,12 +710,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  457</span>        {</div>
-<div class="line"><span class="lineno">  458</span>            <span class="keywordflow">if</span> (a == 1337)</div>
-<div class="line"><span class="lineno">  459</span>                <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a0216b301112656fb75907ff1f0d50d0f">isInvincible</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  460</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  534</span>        {</div>
+<div class="line"><span class="lineno">  535</span>            <span class="keywordflow">if</span> (action == <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccfa37dd02ebdaa89773c9f3cf959b4402b4">ACTION_REMOVE_INVINCIBILITY</a>)</div>
+<div class="line"><span class="lineno">  536</span>                <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a2e824c26252d2f5caeb912b9ba70c63f">_isInvincible</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  537</span>        }</div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a250372292659bed7ae290d8621f88ccfa37dd02ebdaa89773c9f3cf959b4402b4"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccfa37dd02ebdaa89773c9f3cf959b4402b4">ACTION_REMOVE_INVINCIBILITY</a></div><div class="ttdeci">@ ACTION_REMOVE_INVINCIBILITY</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:60</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00399">isInvincible</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00571">_isInvincible</a>, and <a class="el" href="../../#l00060">ACTION_REMOVE_INVINCIBILITY</a>.</p>
 
 </div>
 </div>
@@ -743,44 +742,38 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000182">Todo:</a></b></dt><dd>This spell check is invalid </dd></dl>
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#aa88ecdf57b44fb013c3fed4ff59aec0d">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  407</span>        {</div>
-<div class="line"><span class="lineno">  408</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce">pInstance</a> &amp;&amp; <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce">pInstance</a>-&gt;<a class="code hl_function" href="../../dc/d7d/classZoneScript.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(<a class="code hl_enumvalue" href="../../d3/d81/trial__of__the__champion_8h.html#afb6eb4f28419b652027fad41104a6d22a2538f41a0dc11a9f5a05d543e2346e64">DATA_INSTANCE_PROGRESS</a>) == <a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#ad704e62a7c0c0da38a89f6a67fe0825da62768487d7cbc1696650720a5f98ffa7">INSTANCE_PROGRESS_NONE</a>)</div>
-<div class="line"><span class="lineno">  409</span>            {</div>
-<div class="line"><span class="lineno">  410</span>                <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() &gt; 490.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() &lt; 504.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &gt; 192.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; 206.0f) ||</div>
-<div class="line"><span class="lineno">  411</span>                        (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() &gt; 490.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() &lt; 504.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &gt; 240.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; 254.0f))</div>
-<div class="line"><span class="lineno">  412</span>                {</div>
-<div class="line"><span class="lineno">  413</span>                    <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a0216b301112656fb75907ff1f0d50d0f">isInvincible</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  414</span> </div>
-<div class="line"><span class="lineno">  416</span>                    <span class="comment">//                    if (SPELL_NECROLYTE_CHANNELING)</span></div>
-<div class="line"><span class="lineno">  417</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ac417799d90c2f29e5acda25495e1adbc">SPELL_NECROLYTE_CHANNELING</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  418</span> </div>
-<div class="line"><span class="lineno">  419</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; 206.0f)</div>
-<div class="line"><span class="lineno">  420</span>                    {</div>
-<div class="line"><span class="lineno">  421</span>                        <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce">pInstance</a>-&gt;<a class="code hl_function" href="../../dc/d7d/classZoneScript.html#ac465d5e7d00a7e3b935942f1627763f4">SetGuidData</a>(<a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a44d1eded46b154a9954a3e93470e33c5">DATA_NECROLYTE_1_GUID</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  422</span>                    }</div>
-<div class="line"><span class="lineno">  423</span>                    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  424</span>                    {</div>
-<div class="line"><span class="lineno">  425</span>                        <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce">pInstance</a>-&gt;<a class="code hl_function" href="../../dc/d7d/classZoneScript.html#ac465d5e7d00a7e3b935942f1627763f4">SetGuidData</a>(<a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a7ef90e47be9f3ad52d3efd7c97f70c3d">DATA_NECROLYTE_2_GUID</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  426</span>                    }</div>
-<div class="line"><span class="lineno">  427</span>                }</div>
-<div class="line"><span class="lineno">  428</span>            }</div>
-<div class="line"><span class="lineno">  429</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  492</span>        {</div>
+<div class="line"><span class="lineno">  493</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a750aa60c455aeb0f00993f4c4eced9ea">_instance</a>-&gt;<a class="code hl_function" href="../../dc/d7d/classZoneScript.html#a8997612fdbdacbf5e28e4de60d03e805">GetData</a>(<a class="code hl_enumvalue" href="../../d3/d81/trial__of__the__champion_8h.html#afb6eb4f28419b652027fad41104a6d22a2538f41a0dc11a9f5a05d543e2346e64">DATA_INSTANCE_PROGRESS</a>) == <a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#ad704e62a7c0c0da38a89f6a67fe0825da62768487d7cbc1696650720a5f98ffa7">INSTANCE_PROGRESS_NONE</a>)</div>
+<div class="line"><span class="lineno">  494</span>            {</div>
+<div class="line"><span class="lineno">  495</span>                <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() &gt; 490.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() &lt; 504.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &gt; 192.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; 206.0f) ||</div>
+<div class="line"><span class="lineno">  496</span>                        (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() &gt; 490.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() &lt; 504.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &gt; 240.0f &amp;&amp; <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; 254.0f))</div>
+<div class="line"><span class="lineno">  497</span>                {</div>
+<div class="line"><span class="lineno">  498</span>                    <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a2e824c26252d2f5caeb912b9ba70c63f">_isInvincible</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  499</span> </div>
+<div class="line"><span class="lineno">  500</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#ad7d2a4a9a9e50488891a21c446f7736fac417799d90c2f29e5acda25495e1adbc">SPELL_NECROLYTE_CHANNELING</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  501</span> </div>
+<div class="line"><span class="lineno">  502</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; 206.0f)</div>
+<div class="line"><span class="lineno">  503</span>                        <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a750aa60c455aeb0f00993f4c4eced9ea">_instance</a>-&gt;<a class="code hl_function" href="../../dc/d7d/classZoneScript.html#ac465d5e7d00a7e3b935942f1627763f4">SetGuidData</a>(<a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a44d1eded46b154a9954a3e93470e33c5">DATA_NECROLYTE_1_GUID</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  504</span>                    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  505</span>                        <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a750aa60c455aeb0f00993f4c4eced9ea">_instance</a>-&gt;<a class="code hl_function" href="../../dc/d7d/classZoneScript.html#ac465d5e7d00a7e3b935942f1627763f4">SetGuidData</a>(<a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a7ef90e47be9f3ad52d3efd7c97f70c3d">DATA_NECROLYTE_2_GUID</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  506</span>                }</div>
+<div class="line"><span class="lineno">  507</span>            }</div>
+<div class="line"><span class="lineno">  508</span>        }</div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:120</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1371</div></div>
 <div class="ttc" id="aclassZoneScript_html_a8997612fdbdacbf5e28e4de60d03e805"><div class="ttname"><a href="../../dc/d7d/classZoneScript.html#a8997612fdbdacbf5e28e4de60d03e805">ZoneScript::GetData</a></div><div class="ttdeci">virtual uint32 GetData(uint32) const</div><div class="ttdef"><b>Definition</b> ZoneScript.h:51</div></div>
 <div class="ttc" id="aclassZoneScript_html_ac465d5e7d00a7e3b935942f1627763f4"><div class="ttname"><a href="../../dc/d7d/classZoneScript.html#ac465d5e7d00a7e3b935942f1627763f4">ZoneScript::SetGuidData</a></div><div class="ttdeci">virtual void SetGuidData(uint32, ObjectGuid)</div><div class="ttdef"><b>Definition</b> ZoneScript.h:45</div></div>
-<div class="ttc" id="apit__of__saron_8h_html_ad55cdc1f9b28ac7c9d9b316ba4b039a0ac417799d90c2f29e5acda25495e1adbc"><div class="ttname"><a href="../../dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ac417799d90c2f29e5acda25495e1adbc">SPELL_NECROLYTE_CHANNELING</a></div><div class="ttdeci">@ SPELL_NECROLYTE_CHANNELING</div><div class="ttdef"><b>Definition</b> pit_of_saron.h:132</div></div>
 <div class="ttc" id="apit__of__saron_8h_html_ad704e62a7c0c0da38a89f6a67fe0825da62768487d7cbc1696650720a5f98ffa7"><div class="ttname"><a href="../../dd/dac/pit__of__saron_8h.html#ad704e62a7c0c0da38a89f6a67fe0825da62768487d7cbc1696650720a5f98ffa7">INSTANCE_PROGRESS_NONE</a></div><div class="ttdeci">@ INSTANCE_PROGRESS_NONE</div><div class="ttdef"><b>Definition</b> pit_of_saron.h:56</div></div>
+<div class="ttc" id="apit__of__saron_8h_html_ad7d2a4a9a9e50488891a21c446f7736fac417799d90c2f29e5acda25495e1adbc"><div class="ttname"><a href="../../dd/dac/pit__of__saron_8h.html#ad7d2a4a9a9e50488891a21c446f7736fac417799d90c2f29e5acda25495e1adbc">SPELL_NECROLYTE_CHANNELING</a></div><div class="ttdeci">@ SPELL_NECROLYTE_CHANNELING</div><div class="ttdef"><b>Definition</b> pit_of_saron.h:134</div></div>
 <div class="ttc" id="apit__of__saron_8h_html_afb6eb4f28419b652027fad41104a6d22a44d1eded46b154a9954a3e93470e33c5"><div class="ttname"><a href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a44d1eded46b154a9954a3e93470e33c5">DATA_NECROLYTE_1_GUID</a></div><div class="ttdeci">@ DATA_NECROLYTE_1_GUID</div><div class="ttdef"><b>Definition</b> pit_of_saron.h:38</div></div>
 <div class="ttc" id="apit__of__saron_8h_html_afb6eb4f28419b652027fad41104a6d22a7ef90e47be9f3ad52d3efd7c97f70c3d"><div class="ttname"><a href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a7ef90e47be9f3ad52d3efd7c97f70c3d">DATA_NECROLYTE_2_GUID</a></div><div class="ttdeci">@ DATA_NECROLYTE_2_GUID</div><div class="ttdef"><b>Definition</b> pit_of_saron.h:39</div></div>
 <div class="ttc" id="astructPosition_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition</b> Position.h:121</div></div>
 <div class="ttc" id="astructPosition_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition</b> Position.h:122</div></div>
 <div class="ttc" id="atrial__of__the__champion_8h_html_afb6eb4f28419b652027fad41104a6d22a2538f41a0dc11a9f5a05d543e2346e64"><div class="ttname"><a href="../../d3/d81/trial__of__the__champion_8h.html#afb6eb4f28419b652027fad41104a6d22a2538f41a0dc11a9f5a05d543e2346e64">DATA_INSTANCE_PROGRESS</a></div><div class="ttdeci">@ DATA_INSTANCE_PROGRESS</div><div class="ttdef"><b>Definition</b> trial_of_the_champion.h:34</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01371">Unit::CastSpell()</a>, <a class="el" href="../../#l00034">DATA_INSTANCE_PROGRESS</a>, <a class="el" href="../../#l00038">DATA_NECROLYTE_1_GUID</a>, <a class="el" href="../../#l00039">DATA_NECROLYTE_2_GUID</a>, <a class="el" href="../../#l00051">ZoneScript::GetData()</a>, <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00056">INSTANCE_PROGRESS_NONE</a>, <a class="el" href="../../#l00399">isInvincible</a>, <a class="el" href="../../#l00292">ScriptedAI::me</a>, <a class="el" href="../../#l00398">pInstance</a>, <a class="el" href="../../#l00045">ZoneScript::SetGuidData()</a>, and <a class="el" href="../../#l00132">SPELL_NECROLYTE_CHANNELING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00570">_instance</a>, <a class="el" href="../../#l00571">_isInvincible</a>, <a class="el" href="../../#l01371">Unit::CastSpell()</a>, <a class="el" href="../../#l00034">DATA_INSTANCE_PROGRESS</a>, <a class="el" href="../../#l00038">DATA_NECROLYTE_1_GUID</a>, <a class="el" href="../../#l00039">DATA_NECROLYTE_2_GUID</a>, <a class="el" href="../../#l00051">ZoneScript::GetData()</a>, <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00056">INSTANCE_PROGRESS_NONE</a>, <a class="el" href="../../#l00292">ScriptedAI::me</a>, <a class="el" href="../../#l00045">ZoneScript::SetGuidData()</a>, and <a class="el" href="../../#l00134">SPELL_NECROLYTE_CHANNELING</a>.</p>
 
 </div>
 </div>
@@ -809,29 +802,29 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Called for reaction when initially engaged - this happens <em>after</em> JustEnteredCombat. </p>
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000183">Todo:</a></b></dt><dd>This spell check is invalid </dd></dl>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  438</span>        {</div>
-<div class="line"><span class="lineno">  440</span>            <span class="comment">//            if (SPELL_NECROLYTE_CHANNELING)</span></div>
-<div class="line"><span class="lineno">  441</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(<a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ac417799d90c2f29e5acda25495e1adbc">SPELL_NECROLYTE_CHANNELING</a>);</div>
-<div class="line"><span class="lineno">  442</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
-<div class="line"><span class="lineno">  443</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.RescheduleEvent(1, 0ms);</div>
-<div class="line"><span class="lineno">  444</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.RescheduleEvent(2, 5s, 9s);</div>
-<div class="line"><span class="lineno">  445</span> </div>
-<div class="line"><span class="lineno">  446</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce">pInstance</a>-&gt;<a class="code hl_variable" href="../../d2/d1e/classInstanceScript.html#a4b84b9635742380ce5dc6e2f8d76e30b">instance</a>-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#af0a630f225718009751c788dbcbf5333">GetCreature</a>(<a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce">pInstance</a>-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a39eefda2fa2ea3bcdf00d55179800187">DATA_LEADER_FIRST_GUID</a>)))</div>
-<div class="line"><span class="lineno">  447</span>                c-&gt;AI()-&gt;SetData(<a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a01313a57c14c27520e918356b7b8cc2d">DATA_START_INTRO</a>, 0);</div>
-<div class="line"><span class="lineno">  448</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  517</span>        {</div>
+<div class="line"><span class="lineno">  518</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(<a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#ad7d2a4a9a9e50488891a21c446f7736fac417799d90c2f29e5acda25495e1adbc">SPELL_NECROLYTE_CHANNELING</a>);</div>
+<div class="line"><span class="lineno">  519</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
+<div class="line"><span class="lineno">  520</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.RescheduleEvent(<a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945">EVENT_NECROLYTE_SHADOW_BOLT</a>, 0ms);</div>
+<div class="line"><span class="lineno">  521</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.RescheduleEvent(<a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0">EVENT_NECROLYTE_CONVERSION_BEAM</a>, 5s, 9s);</div>
+<div class="line"><span class="lineno">  522</span> </div>
+<div class="line"><span class="lineno">  523</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* leader = <a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a750aa60c455aeb0f00993f4c4eced9ea">_instance</a>-&gt;<a class="code hl_variable" href="../../d2/d1e/classInstanceScript.html#a4b84b9635742380ce5dc6e2f8d76e30b">instance</a>-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#af0a630f225718009751c788dbcbf5333">GetCreature</a>(<a class="code hl_variable" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#a750aa60c455aeb0f00993f4c4eced9ea">_instance</a>-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a39eefda2fa2ea3bcdf00d55179800187">DATA_LEADER_FIRST_GUID</a>)))</div>
+<div class="line"><span class="lineno">  524</span>                leader-&gt;AI()-&gt;SetData(<a class="code hl_enumvalue" href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a01313a57c14c27520e918356b7b8cc2d">DATA_START_INTRO</a>, 0);</div>
+<div class="line"><span class="lineno">  525</span>        }</div>
 <div class="ttc" id="aboss__sartura_8cpp_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition</b> boss_sartura.cpp:43</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassInstanceScript_html_a3be7f24ca31c9433aca546e1087109b4"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#a3be7f24ca31c9433aca546e1087109b4">InstanceScript::GetGuidData</a></div><div class="ttdeci">ObjectGuid GetGuidData(uint32 type) const override</div><div class="ttdef"><b>Definition</b> InstanceScript.cpp:121</div></div>
 <div class="ttc" id="aclassInstanceScript_html_a4b84b9635742380ce5dc6e2f8d76e30b"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#a4b84b9635742380ce5dc6e2f8d76e30b">InstanceScript::instance</a></div><div class="ttdeci">Map * instance</div><div class="ttdef"><b>Definition</b> InstanceScript.h:149</div></div>
 <div class="ttc" id="aclassMap_html_af0a630f225718009751c788dbcbf5333"><div class="ttname"><a href="../../d7/db0/classMap.html#af0a630f225718009751c788dbcbf5333">Map::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> Map.cpp:2442</div></div>
 <div class="ttc" id="aclassUnit_html_a1be09c524dfdd2c3538f2ae977c58399"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">Unit::RemoveAura</a></div><div class="ttdeci">void RemoveAura(AuraApplicationMap::iterator &amp;i, AuraRemoveMode mode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4823</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945">EVENT_NECROLYTE_SHADOW_BOLT</a></div><div class="ttdeci">@ EVENT_NECROLYTE_SHADOW_BOLT</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:85</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0">EVENT_NECROLYTE_CONVERSION_BEAM</a></div><div class="ttdeci">@ EVENT_NECROLYTE_CONVERSION_BEAM</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:86</div></div>
 <div class="ttc" id="apit__of__saron_8h_html_afb6eb4f28419b652027fad41104a6d22a01313a57c14c27520e918356b7b8cc2d"><div class="ttname"><a href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a01313a57c14c27520e918356b7b8cc2d">DATA_START_INTRO</a></div><div class="ttdeci">@ DATA_START_INTRO</div><div class="ttdef"><b>Definition</b> pit_of_saron.h:51</div></div>
 <div class="ttc" id="apit__of__saron_8h_html_afb6eb4f28419b652027fad41104a6d22a39eefda2fa2ea3bcdf00d55179800187"><div class="ttname"><a href="../../dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a39eefda2fa2ea3bcdf00d55179800187">DATA_LEADER_FIRST_GUID</a></div><div class="ttdeci">@ DATA_LEADER_FIRST_GUID</div><div class="ttdef"><b>Definition</b> pit_of_saron.h:42</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">DATA_LEADER_FIRST_GUID</a>, <a class="el" href="../../#l00051">DATA_START_INTRO</a>, <a class="el" href="../../#l02442">Map::GetCreature()</a>, <a class="el" href="../../#l00121">InstanceScript::GetGuidData()</a>, <a class="el" href="../../#l00149">InstanceScript::instance</a>, <a class="el" href="../../#l00292">ScriptedAI::me</a>, <a class="el" href="../../#l00398">pInstance</a>, <a class="el" href="../../#l04823">Unit::RemoveAura()</a>, and <a class="el" href="../../#l00132">SPELL_NECROLYTE_CHANNELING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00570">_instance</a>, <a class="el" href="../../#l00042">DATA_LEADER_FIRST_GUID</a>, <a class="el" href="../../#l00051">DATA_START_INTRO</a>, <a class="el" href="../../#l00086">EVENT_NECROLYTE_CONVERSION_BEAM</a>, <a class="el" href="../../#l00085">EVENT_NECROLYTE_SHADOW_BOLT</a>, <a class="el" href="../../#l02442">Map::GetCreature()</a>, <a class="el" href="../../#l00121">InstanceScript::GetGuidData()</a>, <a class="el" href="../../#l00149">InstanceScript::instance</a>, <a class="el" href="../../#l00292">ScriptedAI::me</a>, <a class="el" href="../../#l04823">Unit::RemoveAura()</a>, and <a class="el" href="../../#l00134">SPELL_NECROLYTE_CHANNELING</a>.</p>
 
 </div>
 </div>
@@ -860,7 +853,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a1280f8bcf72254ad31c453b810615f87">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  490</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  567</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -899,14 +892,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#ab0438b14dc1d7f038221d9d7a2f37043">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  432</span>        {</div>
-<div class="line"><span class="lineno">  433</span>            <span class="keywordflow">if</span> (type == <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467">POINT_MOTION_TYPE</a> &amp;&amp; <span class="keywordtype">id</span> == 1)</div>
-<div class="line"><span class="lineno">  434</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a15935c3f574e8b3e72952561c75e6faf">SetFacingTo</a>(M_PI);</div>
-<div class="line"><span class="lineno">  435</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  511</span>        {</div>
+<div class="line"><span class="lineno">  512</span>            <span class="keywordflow">if</span> (type == <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467">POINT_MOTION_TYPE</a> &amp;&amp; <span class="keywordtype">id</span> == <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda6b3166c0bc8ee13e77af8442eb3f5446">POINT_NECROLYTE_POSITION</a>)</div>
+<div class="line"><span class="lineno">  513</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a15935c3f574e8b3e72952561c75e6faf">SetFacingTo</a>(M_PI);</div>
+<div class="line"><span class="lineno">  514</span>        }</div>
 <div class="ttc" id="aMotionMaster_8h_html_a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467">POINT_MOTION_TYPE</a></div><div class="ttdeci">@ POINT_MOTION_TYPE</div><div class="ttdef"><b>Definition</b> MotionMaster.h:48</div></div>
 <div class="ttc" id="aclassUnit_html_a15935c3f574e8b3e72952561c75e6faf"><div class="ttname"><a href="../../df/dd9/classUnit.html#a15935c3f574e8b3e72952561c75e6faf">Unit::SetFacingTo</a></div><div class="ttdeci">void SetFacingTo(float ori)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16150</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a7833023af5dd1196e6ec1567d0102cfda6b3166c0bc8ee13e77af8442eb3f5446"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda6b3166c0bc8ee13e77af8442eb3f5446">POINT_NECROLYTE_POSITION</a></div><div class="ttdeci">@ POINT_NECROLYTE_POSITION</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:131</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00292">ScriptedAI::me</a>, <a class="el" href="../../#l00048">POINT_MOTION_TYPE</a>, and <a class="el" href="../../#l16150">Unit::SetFacingTo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00292">ScriptedAI::me</a>, <a class="el" href="../../#l00048">POINT_MOTION_TYPE</a>, <a class="el" href="../../#l00131">POINT_NECROLYTE_POSITION</a>, and <a class="el" href="../../#l16150">Unit::SetFacingTo()</a>.</p>
 
 </div>
 </div>
@@ -934,9 +928,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  402</span>        {</div>
-<div class="line"><span class="lineno">  403</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
-<div class="line"><span class="lineno">  404</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  487</span>        {</div>
+<div class="line"><span class="lineno">  488</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
+<div class="line"><span class="lineno">  489</span>        }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -967,89 +961,94 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ae095fa3ceb484cc289a086be8c2f2552" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  463</span>        {</div>
-<div class="line"><span class="lineno">  464</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  465</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  466</span> </div>
-<div class="line"><span class="lineno">  467</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
-<div class="line"><span class="lineno">  468</span> </div>
-<div class="line"><span class="lineno">  469</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
-<div class="line"><span class="lineno">  470</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  471</span> </div>
-<div class="line"><span class="lineno">  472</span>            <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
-<div class="line"><span class="lineno">  473</span>            {</div>
-<div class="line"><span class="lineno">  474</span>                <span class="keywordflow">case</span> 0:</div>
-<div class="line"><span class="lineno">  475</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  476</span>                <span class="keywordflow">case</span> 1: <span class="comment">// Shadow Bolt</span></div>
-<div class="line"><span class="lineno">  477</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), 69577, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  478</span>                    <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(4s);</div>
-<div class="line"><span class="lineno">  479</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  480</span>                <span class="keywordflow">case</span> 2: <span class="comment">// Conversion Beam</span></div>
-<div class="line"><span class="lineno">  481</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(<a class="code hl_enumvalue" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">SelectTargetMethod::Random</a>, 0, 30.0f, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  482</span>                        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, 69578, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  483</span>                    <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(20s, 25s);</div>
-<div class="line"><span class="lineno">  484</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  485</span>            }</div>
-<div class="line"><span class="lineno">  486</span> </div>
-<div class="line"><span class="lineno">  487</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  488</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  540</span>        {</div>
+<div class="line"><span class="lineno">  541</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  542</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  543</span> </div>
+<div class="line"><span class="lineno">  544</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
+<div class="line"><span class="lineno">  545</span> </div>
+<div class="line"><span class="lineno">  546</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
+<div class="line"><span class="lineno">  547</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  548</span> </div>
+<div class="line"><span class="lineno">  549</span>            <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
+<div class="line"><span class="lineno">  550</span>            {</div>
+<div class="line"><span class="lineno">  551</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945">EVENT_NECROLYTE_SHADOW_BOLT</a>:</div>
+<div class="line"><span class="lineno">  552</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca26c9daf646e7852a83b4ddd55e9b">SPELL_NECROLYTE_SHADOW_BOLT</a>);</div>
+<div class="line"><span class="lineno">  553</span>                    <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(4s);</div>
+<div class="line"><span class="lineno">  554</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  555</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0">EVENT_NECROLYTE_CONVERSION_BEAM</a>:</div>
+<div class="line"><span class="lineno">  556</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(<a class="code hl_enumvalue" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">SelectTargetMethod::Random</a>, 0, 30.0f, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">  557</span>                        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cac9896927369edd6cfd101bfcbe269157">SPELL_CONVERSION_BEAM</a>);</div>
+<div class="line"><span class="lineno">  558</span>                    <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(20s, 25s);</div>
+<div class="line"><span class="lineno">  559</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  560</span>                <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  561</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  562</span>            }</div>
+<div class="line"><span class="lineno">  563</span> </div>
+<div class="line"><span class="lineno">  564</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  565</span>        }</div>
 <div class="ttc" id="aUnitAI_8h_html_a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">SelectTargetMethod::Random</a></div><div class="ttdeci">@ Random</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a></div><div class="ttdeci">@ UNIT_STATE_CASTING</div><div class="ttdef"><b>Definition</b> UnitDefines.h:188</div></div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:350</div></div>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:41</div></div>
+<div class="ttc" id="aclassUnitAI_html_a361b6f4e71e9c74595bdf3d7e3b29a82"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">UnitAI::DoCastVictim</a></div><div class="ttdeci">SpellCastResult DoCastVictim(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:274</div></div>
 <div class="ttc" id="aclassUnitAI_html_ac5b181f1036962caaf140369b22e807b"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ac5b181f1036962caaf140369b22e807b">UnitAI::SelectTarget</a></div><div class="ttdeci">Unit * SelectTarget(SelectTargetMethod targetType, uint32 position=0, float dist=0.0f, bool playerOnly=false, bool withTank=true, int32 aura=0)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:108</div></div>
+<div class="ttc" id="aclassUnitAI_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:175</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:670</div></div>
-<div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:910</div></div>
 <div class="ttc" id="aclassUnit_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition</b> Unit.h:742</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298ca4dca26c9daf646e7852a83b4ddd55e9b"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca26c9daf646e7852a83b4ddd55e9b">SPELL_NECROLYTE_SHADOW_BOLT</a></div><div class="ttdeci">@ SPELL_NECROLYTE_SHADOW_BOLT</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:37</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298cac9896927369edd6cfd101bfcbe269157"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cac9896927369edd6cfd101bfcbe269157">SPELL_CONVERSION_BEAM</a></div><div class="ttdeci">@ SPELL_CONVERSION_BEAM</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:38</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01371">Unit::CastSpell()</a>, <a class="el" href="../../#l00041">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00910">Unit::GetVictim()</a>, <a class="el" href="../../#l00742">Unit::HasUnitState()</a>, <a class="el" href="../../#l00292">ScriptedAI::me</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, <a class="el" href="../../#l00108">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l00188">UNIT_STATE_CASTING</a>, and <a class="el" href="../../#l00350">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00175">UnitAI::DoCast()</a>, <a class="el" href="../../#l00274">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00041">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00086">EVENT_NECROLYTE_CONVERSION_BEAM</a>, <a class="el" href="../../#l00085">EVENT_NECROLYTE_SHADOW_BOLT</a>, <a class="el" href="../../#l00742">Unit::HasUnitState()</a>, <a class="el" href="../../#l00292">ScriptedAI::me</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, <a class="el" href="../../#l00108">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l00038">SPELL_CONVERSION_BEAM</a>, <a class="el" href="../../#l00037">SPELL_NECROLYTE_SHADOW_BOLT</a>, <a class="el" href="../../#l00188">UNIT_STATE_CASTING</a>, and <a class="el" href="../../#l00350">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a30d65bc3625ed22e11ed7e040451643c" name="a30d65bc3625ed22e11ed7e040451643c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a30d65bc3625ed22e11ed7e040451643c">&#9670;&#160;</a></span>events</h2>
+<a id="a750aa60c455aeb0f00993f4c4eced9ea" name="a750aa60c455aeb0f00993f4c4eced9ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a750aa60c455aeb0f00993f4c4eced9ea">&#9670;&#160;</a></span>_instance</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d2e/classEventMap.html">EventMap</a> npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI::events</td>
+          <td class="memname"><a class="el" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI::_instance</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00491">InitializeAI()</a>, <a class="el" href="../../#l00516">JustEngagedWith()</a>, and <a class="el" href="../../#l00480">npc_pos_deathwhisper_necrolyteAI()</a>.</p>
 
 </div>
 </div>
-<a id="a0216b301112656fb75907ff1f0d50d0f" name="a0216b301112656fb75907ff1f0d50d0f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0216b301112656fb75907ff1f0d50d0f">&#9670;&#160;</a></span>isInvincible</h2>
+<a id="a2e824c26252d2f5caeb912b9ba70c63f" name="a2e824c26252d2f5caeb912b9ba70c63f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e824c26252d2f5caeb912b9ba70c63f">&#9670;&#160;</a></span>_isInvincible</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI::isInvincible</td>
+          <td class="memname">bool npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI::_isInvincible</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00450">DamageTaken()</a>, <a class="el" href="../../#l00456">DoAction()</a>, <a class="el" href="../../#l00406">InitializeAI()</a>, and <a class="el" href="../../#l00391">npc_pos_deathwhisper_necrolyteAI()</a>.</p>
-
-</div>
-</div>
-<a id="afb71e537115d36795c2568360b2d58ce" name="afb71e537115d36795c2568360b2d58ce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afb71e537115d36795c2568360b2d58ce">&#9670;&#160;</a></span>pInstance</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI::pInstance</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00406">InitializeAI()</a>, <a class="el" href="../../#l00437">JustEngagedWith()</a>, and <a class="el" href="../../#l00391">npc_pos_deathwhisper_necrolyteAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00527">DamageTaken()</a>, <a class="el" href="../../#l00533">DoAction()</a>, <a class="el" href="../../#l00491">InitializeAI()</a>, and <a class="el" href="../../#l00480">npc_pos_deathwhisper_necrolyteAI()</a>.</p>
 
 </div>
 </div>
@@ -1062,7 +1061,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d15/classnpc__pos__deathwhisper__necrolyte.html">npc_pos_deathwhisper_necrolyte</a></li><li class="navelem"><a class="el" href="../../d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html">npc_pos_deathwhisper_necrolyteAI</a></li>
-    <li class="footer">Generated on Fri Nov 20 2026 14:48:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 21 2026 14:03:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

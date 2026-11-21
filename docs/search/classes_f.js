@@ -55,6 +55,6 @@ var searchData=
   ['outdoorpvpsi_52',['OutdoorPvPSI',['../dc/db7/classOutdoorPvPSI.html',1,'']]],
   ['outdoorpvptf_53',['OutdoorPvPTF',['../df/de7/classOutdoorPvPTF.html',1,'']]],
   ['outdoorpvpzm_54',['OutdoorPvPZM',['../dc/d4c/classOutdoorPvPZM.html',1,'']]],
-  ['outroposition_55',['outroPosition',['../d5/d86/structoutroPosition.html',1,'']]],
+  ['outroposition_55',['OutroPosition',['../d3/d64/structOutroPosition.html',1,'']]],
   ['overridespelldataentry_56',['OverrideSpellDataEntry',['../d3/d13/structOverrideSpellDataEntry.html',1,'']]]
 ];

@@ -1,5 +1,5 @@
 var structChampionPosition =
 [
-    [ "endPosition", "dc/d82/structChampionPosition.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "dc/d82/structChampionPosition.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "EndPosition", "dc/d82/structChampionPosition.html#a4a31416be7b5303d28d08d82a03f76ef", null ],
+    [ "Entry", "dc/d82/structChampionPosition.html#a383b5ffa20cd6e36f4cb1f4e1b046f01", null ]
 ];

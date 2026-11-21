@@ -7,5 +7,6 @@ var structboss__general__zarithrian_1_1boss__general__zarithrianAI =
     [ "JustSummoned", "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#acb694d20b35d57a315aa4662562af210", null ],
     [ "KilledUnit", "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#ad385477740b728e63acff7c184df3c09", null ],
     [ "Reset", "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "SummonFlamecallers", "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#aeaee071decbe3e9f8f0d5d31755c3915", null ],
     [ "UpdateAI", "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

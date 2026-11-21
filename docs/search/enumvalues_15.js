@@ -14,9 +14,9 @@ var searchData=
   ['vehicle_5fflag_5ffullspeedturning_11',['VEHICLE_FLAG_FULLSPEEDTURNING',['../d2/d2c/VehicleDefines_8h.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1',1,'VehicleDefines.h']]],
   ['vehicle_5fflag_5fno_5fjumping_12',['VEHICLE_FLAG_NO_JUMPING',['../d2/d2c/VehicleDefines_8h.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f',1,'VehicleDefines.h']]],
   ['vehicle_5fflag_5fno_5fstrafe_13',['VEHICLE_FLAG_NO_STRAFE',['../d2/d2c/VehicleDefines_8h.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b',1,'VehicleDefines.h']]],
-  ['vehicle_5fpos_5fleviathan_14',['VEHICLE_POS_LEVIATHAN',['../d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a37586ea5113dbdf35f7d5f1ac8939a6e',1,'ulduar.h']]],
-  ['vehicle_5fpos_5fnone_15',['VEHICLE_POS_NONE',['../d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a86bb473cdff2581c0b69cd1767657e06',1,'ulduar.h']]],
-  ['vehicle_5fpos_5fstart_16',['VEHICLE_POS_START',['../d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78aa42e0f5cd84525aa3ab0c90b00331de1',1,'ulduar.h']]],
+  ['vehicle_5fpos_5fleviathan_14',['VEHICLE_POS_LEVIATHAN',['../d9/df7/ulduar_8h.html#aa4a5d3395ee045f88805f7f7fbb50e80a37586ea5113dbdf35f7d5f1ac8939a6e',1,'ulduar.h']]],
+  ['vehicle_5fpos_5fnone_15',['VEHICLE_POS_NONE',['../d9/df7/ulduar_8h.html#aa4a5d3395ee045f88805f7f7fbb50e80a86bb473cdff2581c0b69cd1767657e06',1,'ulduar.h']]],
+  ['vehicle_5fpos_5fstart_16',['VEHICLE_POS_START',['../d9/df7/ulduar_8h.html#aa4a5d3395ee045f88805f7f7fbb50e80aa42e0f5cd84525aa3ab0c90b00331de1',1,'ulduar.h']]],
   ['vehicle_5frespawn_5ftime_17',['VEHICLE_RESPAWN_TIME',['../d0/d91/BattlegroundIC_8h.html#a3c5d18364f664b5ad98e2ad610875cb5a2909122222c6a5a133857e81fe102aeb',1,'BattlegroundIC.h']]],
   ['vehicle_5fseat_5fflag_5fallow_5fturning_18',['VEHICLE_SEAT_FLAG_ALLOW_TURNING',['../d3/dd1/DBCEnums_8h.html#a1722a65e910763eaffb541de9d7001f5a8a1dbdd6db0a343d926243a68014cf8d',1,'DBCEnums.h']]],
   ['vehicle_5fseat_5fflag_5fallows_5finteraction_19',['VEHICLE_SEAT_FLAG_ALLOWS_INTERACTION',['../d3/dd1/DBCEnums_8h.html#a1722a65e910763eaffb541de9d7001f5a39fac49b65d6d3f82e3877fe54cfa304',1,'DBCEnums.h']]],
@@ -89,6 +89,5 @@ var searchData=
   ['vmap_5fload_5fresult_5fignored_86',['VMAP_LOAD_RESULT_IGNORED',['../dd/d34/namespaceVMAP.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165',1,'VMAP']]],
   ['vmap_5fload_5fresult_5fok_87',['VMAP_LOAD_RESULT_OK',['../dd/d34/namespaceVMAP.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b',1,'VMAP']]],
   ['voice_5fsay_5fthrone_88',['VOICE_SAY_THRONE',['../d1/d2d/zone__undercity_8cpp.html#a62ce5749782debfb4b44ccd4f5b69fcea00780db40ab60b4a9e7042866a5a1bcb',1,'zone_undercity.cpp']]],
-  ['void_5fzone_5fvisual_89',['VOID_ZONE_VISUAL',['../d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca5df32fcd69941eeba4aafb2097013c09',1,'instance_icecrown_citadel.cpp']]],
-  ['vrykul_90',['Vrykul',['../de/d0a/SharedDefines_8h.html#a191923d1acd50a08f3503e3568f5fae3a339e2766b4947bafd0816af1d3b8dfc2',1,'SharedDefines.h']]]
+  ['vrykul_89',['Vrykul',['../de/d0a/SharedDefines_8h.html#a191923d1acd50a08f3503e3568f5fae3a339e2766b4947bafd0816af1d3b8dfc2',1,'SharedDefines.h']]]
 ];

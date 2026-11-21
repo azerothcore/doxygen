@@ -120,13 +120,13 @@ $(document).ready(function(){initNavTree('d1/d78/boss__festergut_8cpp.html','../
 <code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellAuras.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">icecrown_citadel.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
@@ -421,24 +421,24 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  487</span>{</div>
-<div class="line"><span class="lineno">  488</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/dc9/classboss__festergut.html">boss_festergut</a>();</div>
-<div class="line"><span class="lineno">  489</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/df4/classspell__festergut__pungent__blight.html">spell_festergut_pungent_blight</a>);</div>
-<div class="line"><span class="lineno">  490</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/dda/classspell__festergut__blighted__spores__aura.html">spell_festergut_blighted_spores_aura</a>);</div>
-<div class="line"><span class="lineno">  491</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/d2e/classspell__festergut__gastric__bloat.html">spell_festergut_gastric_bloat</a>);</div>
-<div class="line"><span class="lineno">  492</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/db5/classspell__festergut__gaseous__blight.html">spell_festergut_gaseous_blight</a>);</div>
-<div class="line"><span class="lineno">  493</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/d7a/classachievement__flu__shot__shortage.html">achievement_flu_shot_shortage</a>();</div>
-<div class="line"><span class="lineno">  494</span> </div>
-<div class="line"><span class="lineno">  495</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d9f/classnpc__stinky__icc.html">npc_stinky_icc</a>();</div>
-<div class="line"><span class="lineno">  496</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  488</span>{</div>
+<div class="line"><span class="lineno">  489</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/dc9/classboss__festergut.html">boss_festergut</a>();</div>
+<div class="line"><span class="lineno">  490</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/df4/classspell__festergut__pungent__blight.html">spell_festergut_pungent_blight</a>);</div>
+<div class="line"><span class="lineno">  491</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/dda/classspell__festergut__blighted__spores__aura.html">spell_festergut_blighted_spores_aura</a>);</div>
+<div class="line"><span class="lineno">  492</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/d2e/classspell__festergut__gastric__bloat.html">spell_festergut_gastric_bloat</a>);</div>
+<div class="line"><span class="lineno">  493</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/db5/classspell__festergut__gaseous__blight.html">spell_festergut_gaseous_blight</a>);</div>
+<div class="line"><span class="lineno">  494</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/d7a/classachievement__flu__shot__shortage.html">achievement_flu_shot_shortage</a>();</div>
+<div class="line"><span class="lineno">  495</span> </div>
+<div class="line"><span class="lineno">  496</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d9f/classnpc__stinky__icc.html">npc_stinky_icc</a>();</div>
+<div class="line"><span class="lineno">  497</span>}</div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aclassachievement__flu__shot__shortage_html"><div class="ttname"><a href="../../d0/d7a/classachievement__flu__shot__shortage.html">achievement_flu_shot_shortage</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:403</div></div>
+<div class="ttc" id="aclassachievement__flu__shot__shortage_html"><div class="ttname"><a href="../../d0/d7a/classachievement__flu__shot__shortage.html">achievement_flu_shot_shortage</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:404</div></div>
 <div class="ttc" id="aclassboss__festergut_html"><div class="ttname"><a href="../../dd/dc9/classboss__festergut.html">boss_festergut</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:85</div></div>
-<div class="ttc" id="aclassnpc__stinky__icc_html"><div class="ttname"><a href="../../dc/d9f/classnpc__stinky__icc.html">npc_stinky_icc</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:417</div></div>
-<div class="ttc" id="aclassspell__festergut__blighted__spores__aura_html"><div class="ttname"><a href="../../d1/dda/classspell__festergut__blighted__spores__aura.html">spell_festergut_blighted_spores_aura</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:316</div></div>
-<div class="ttc" id="aclassspell__festergut__gaseous__blight_html"><div class="ttname"><a href="../../dc/db5/classspell__festergut__gaseous__blight.html">spell_festergut_gaseous_blight</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:375</div></div>
-<div class="ttc" id="aclassspell__festergut__gastric__bloat_html"><div class="ttname"><a href="../../d5/d2e/classspell__festergut__gastric__bloat.html">spell_festergut_gastric_bloat</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:350</div></div>
-<div class="ttc" id="aclassspell__festergut__pungent__blight_html"><div class="ttname"><a href="../../d6/df4/classspell__festergut__pungent__blight.html">spell_festergut_pungent_blight</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:276</div></div>
+<div class="ttc" id="aclassnpc__stinky__icc_html"><div class="ttname"><a href="../../dc/d9f/classnpc__stinky__icc.html">npc_stinky_icc</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:418</div></div>
+<div class="ttc" id="aclassspell__festergut__blighted__spores__aura_html"><div class="ttname"><a href="../../d1/dda/classspell__festergut__blighted__spores__aura.html">spell_festergut_blighted_spores_aura</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:317</div></div>
+<div class="ttc" id="aclassspell__festergut__gaseous__blight_html"><div class="ttname"><a href="../../dc/db5/classspell__festergut__gaseous__blight.html">spell_festergut_gaseous_blight</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:376</div></div>
+<div class="ttc" id="aclassspell__festergut__gastric__bloat_html"><div class="ttname"><a href="../../d5/d2e/classspell__festergut__gastric__bloat.html">spell_festergut_gastric_bloat</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:351</div></div>
+<div class="ttc" id="aclassspell__festergut__pungent__blight_html"><div class="ttname"><a href="../../d6/df4/classspell__festergut__pungent__blight.html">spell_festergut_pungent_blight</a></div><div class="ttdef"><b>Definition</b> boss_festergut.cpp:277</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
@@ -487,7 +487,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_49de9ff38e0063bf9846434b8d63cf58.html">IcecrownCitadel</a></li><li class="navelem"><a class="el" href="../../d1/d78/boss__festergut_8cpp.html">boss_festergut.cpp</a></li>
-    <li class="footer">Generated on Fri Nov 20 2026 14:47:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 21 2026 14:02:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

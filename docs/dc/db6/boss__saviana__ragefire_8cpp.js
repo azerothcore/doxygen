@@ -13,16 +13,18 @@ var boss__saviana__ragefire_8cpp =
       [ "EVENT_AIR_MOVEMENT", "dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15d3a6c7820c6fa062831396ec9324f2", null ],
       [ "EVENT_LAND_BACK", "dc/db6/boss__saviana__ragefire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aed480151967b7965189afbe87b7bcc44", null ]
     ] ],
-    [ "Misc", "dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "POINT_FLIGHT", "dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afd0c1c48651ed449fee15e3fd1d45cc8", null ],
-      [ "POINT_LAND", "dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a858ba1dc5b34b3ff5f41a194feea519f", null ],
-      [ "POINT_TAKEOFF", "dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1c6e632d42e6df5451aed43bb661d6f0", null ],
-      [ "SOUND_ID_DEATH", "dc/db6/boss__saviana__ragefire_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7910555249cc48782b7fe6acc4d0a6c4", null ]
+    [ "Points", "dc/db6/boss__saviana__ragefire_8cpp.html#a50ba2acfd483f395e71abb80f687463e", [
+      [ "POINT_FLIGHT", "dc/db6/boss__saviana__ragefire_8cpp.html#a50ba2acfd483f395e71abb80f687463eafd0c1c48651ed449fee15e3fd1d45cc8", null ],
+      [ "POINT_LAND", "dc/db6/boss__saviana__ragefire_8cpp.html#a50ba2acfd483f395e71abb80f687463ea858ba1dc5b34b3ff5f41a194feea519f", null ],
+      [ "POINT_TAKEOFF", "dc/db6/boss__saviana__ragefire_8cpp.html#a50ba2acfd483f395e71abb80f687463ea1c6e632d42e6df5451aed43bb661d6f0", null ]
+    ] ],
+    [ "Sounds", "dc/db6/boss__saviana__ragefire_8cpp.html#a378d5c1c6cef9f24f253a041e207663c", [
+      [ "SOUND_ID_DEATH", "dc/db6/boss__saviana__ragefire_8cpp.html#a378d5c1c6cef9f24f253a041e207663ca7910555249cc48782b7fe6acc4d0a6c4", null ]
     ] ],
     [ "Spells", "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_CONFLAGRATION", "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca44d2ee77633cee114c8b092c8a275bd6", null ],
       [ "SPELL_FLAME_BEACON", "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca5b0cb3dbdb21b39029ea9beaca395bd6", null ],
-      [ "SPELL_CONFLAGRATION_MISSLE", "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca887b2f1972269d2e34a60c71f611588b", null ],
+      [ "SPELL_CONFLAGRATION_MISSILE", "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca52abcb28b41adf4f8251e3e49d69e802", null ],
       [ "SPELL_ENRAGE", "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
       [ "SPELL_FLAME_BREATH", "dc/db6/boss__saviana__ragefire_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ]
     ] ],

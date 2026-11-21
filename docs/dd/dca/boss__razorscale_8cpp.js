@@ -21,12 +21,21 @@ var boss__razorscale_8cpp =
     [ "spell_razorscale_firebolt", "d5/de3/classspell__razorscale__firebolt.html", "d5/de3/classspell__razorscale__firebolt" ],
     [ "achievement_quick_shave", "dc/d7d/classachievement__quick__shave.html", "dc/d7d/classachievement__quick__shave" ],
     [ "achievement_iron_dwarf_medium_rare", "d5/d78/classachievement__iron__dwarf__medium__rare.html", "d5/d78/classachievement__iron__dwarf__medium__rare" ],
+    [ "ExpeditionSays", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92", [
+      [ "SAY_COMMANDER_AGGRO", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92a0776c8f8765ae3ab5c26852dcb04ccc5", null ],
+      [ "SAY_COMMANDER_GROUND_PHASE", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92a2303554806651ada7e0c826ce34d7e10", null ],
+      [ "SAY_COMMANDER_ENGINEERS_DEAD", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92ad4e2a2237c699c048aed272ed67283e3", null ],
+      [ "SAY_ENGINEER_PREPARE", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92a7afe88469973c4fab2dd494d988e8739", null ],
+      [ "SAY_ENGINEER_START_REPAIR", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92a699d3ee3e2f11ff6bd90904bdeb665e4", null ]
+    ] ],
     [ "RazorscaleActions", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4", [
       [ "ACTION_START_FIGHT", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4afd2662e5ad45793954d7eca931443e2a", null ],
       [ "ACTION_GROUND_PHASE", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a8b037d57f36bce64f4e09d019c23c75d", null ],
       [ "ACTION_START_PERMA_GROUND", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a3244615725d2cbf33279327d359ba995", null ],
       [ "ACTION_STOP_CONTROLLERS", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a35543f9f359de7e649d87c39068cbbda", null ],
       [ "ACTION_ENGINEER_DEAD", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a961a4d46c2d5f0a10ac977121760bcf8", null ],
+      [ "ACTION_PREPARE_TURRETS", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a72b166f50c7fadacd83904513a4558c9", null ],
+      [ "ACTION_REBUILD_TURRETS", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a29122463a715f148f343f700a43e97dd", null ],
       [ "ACTION_FIRE_STATE_BREAK", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4a135576d6f3b68f191a8f690c0bcfc538", null ],
       [ "ACTION_FIRE_STATE_REPAIR", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4aea2e9cf37df9343123b428140c18d1cf", null ],
       [ "ACTION_FIRE_STATE_CLEANUP", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4afad38d1e007877d8d2c6bb6e07d14e85", null ]

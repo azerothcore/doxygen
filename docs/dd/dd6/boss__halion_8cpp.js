@@ -22,19 +22,20 @@ var boss__halion_8cpp =
     [ "spell_halion_twilight_realm_aura", "d3/dd7/classspell__halion__twilight__realm__aura.html", "d3/dd7/classspell__halion__twilight__realm__aura" ],
     [ "spell_halion_leave_twilight_realm_aura", "de/dcc/classspell__halion__leave__twilight__realm__aura.html", "de/dcc/classspell__halion__leave__twilight__realm__aura" ],
     [ "spell_halion_twilight_cutter_periodic_aura", "dd/dfd/classspell__halion__twilight__cutter__periodic__aura.html", "dd/dfd/classspell__halion__twilight__cutter__periodic__aura" ],
-    [ "TwilightCutterSelector", "d7/d4c/classTwilightCutterSelector.html", "d7/d4c/classTwilightCutterSelector" ],
     [ "spell_halion_twilight_cutter", "d5/de3/classspell__halion__twilight__cutter.html", "d5/de3/classspell__halion__twilight__cutter" ],
     [ "spell_halion_summon_exit_portals", "d6/d8c/classspell__halion__summon__exit__portals.html", "d6/d8c/classspell__halion__summon__exit__portals" ],
     [ "spell_halion_twilight_division", "d9/dc9/classspell__halion__twilight__division.html", "d9/dc9/classspell__halion__twilight__division" ],
     [ "spell_halion_twilight_mending", "de/d48/classspell__halion__twilight__mending.html", "de/d48/classspell__halion__twilight__mending" ],
     [ "npc_living_inferno", "d3/d74/classnpc__living__inferno.html", "d3/d74/classnpc__living__inferno" ],
     [ "npc_living_inferno::npc_living_infernoAI", "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html", "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI" ],
-    [ "CorporealityEvent", "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddf", [
-      [ "CORPOREALITY_NONE", "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfaf1fbd131f332796c421842f377ae13cf", null ],
-      [ "CORPOREALITY_TWILIGHT_MENDING", "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa35ed4e2a44ff747f8953376b5dc90390", null ],
-      [ "CORPOREALITY_INCREASE", "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfac7a7e5ecf3f499fdefd66d6f7ab4a3da", null ],
-      [ "CORPOREALITY_DECREASE", "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa4ff3d7d7271f8cb2caba11688d679b6a", null ],
-      [ "MAX_CORPOREALITY_STATE", "dd/dd6/boss__halion_8cpp.html#af111f89b13e566db7aeec925d85eeddfa2ea98117e05bba3b810e8de9d1e6cf3f", null ]
+    [ "Actions", "dd/dd6/boss__halion_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
+      [ "ACTION_SHOOT", "dd/dd6/boss__halion_8cpp.html#a250372292659bed7ae290d8621f88ccfad0eb8271cee9550292a41c9aaae5410d", null ],
+      [ "ACTION_CHECK_CORPOREALITY", "dd/dd6/boss__halion_8cpp.html#a250372292659bed7ae290d8621f88ccfa69a3c27ce1f74548f0f5c044de93d1d2", null ],
+      [ "ACTION_RESET_ENCOUNTER", "dd/dd6/boss__halion_8cpp.html#a250372292659bed7ae290d8621f88ccfa1b1c2e9fbaceb3cb2fb8fd35fae82587", null ]
+    ] ],
+    [ "ControllerData", "dd/dd6/boss__halion_8cpp.html#abc969609d6931cdd5ea0db732621b825", [
+      [ "DATA_TWILIGHT_DAMAGE_TAKEN", "dd/dd6/boss__halion_8cpp.html#abc969609d6931cdd5ea0db732621b825a14e03d152c58b504c232ebb687dec528", null ],
+      [ "DATA_MATERIAL_DAMAGE_TAKEN", "dd/dd6/boss__halion_8cpp.html#abc969609d6931cdd5ea0db732621b825a613530f2c12d2f8a9a4152f5ffa2bfad", null ]
     ] ],
     [ "Events", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_ACTIVATE_FIREWALL", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a736361e7ed50b307af5b866575f28fe4", null ],
@@ -58,16 +59,11 @@ var boss__halion_8cpp =
       [ "EVENT_INTRO_PROGRESS_3", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc65d63f8314014fe67d0ed998bf552e", null ],
       [ "EVENT_INTRO_PROGRESS_4", "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adeb0fb1e137ba8b9c897fe50bf05c1e8", null ]
     ] ],
-    [ "Misc", "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "ACTION_SHOOT", "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad0eb8271cee9550292a41c9aaae5410d", null ],
-      [ "ACTION_CHECK_CORPOREALITY", "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a69a3c27ce1f74548f0f5c044de93d1d2", null ],
-      [ "ACTION_RESET_ENCOUNTER", "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1b1c2e9fbaceb3cb2fb8fd35fae82587", null ],
-      [ "DATA_TWILIGHT_DAMAGE_TAKEN", "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a14e03d152c58b504c232ebb687dec528", null ],
-      [ "DATA_MATERIAL_DAMAGE_TAKEN", "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a613530f2c12d2f8a9a4152f5ffa2bfad", null ],
-      [ "SEAT_NORTH", "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00471081bfbf35def217fa6094b4041c", null ],
-      [ "SEAT_SOUTH", "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9cf8c6de0055cdefd98ace30711ccb9d", null ],
-      [ "SEAT_EAST", "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac4b4e29da6bbd52b6fc9dc360127da3d", null ],
-      [ "SEAT_WEST", "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a857d8d65f60a3457bbd70737ac2a8d05", null ]
+    [ "OrbCarrierSeats", "dd/dd6/boss__halion_8cpp.html#af872800d0e8bc1b5d8ed1ac26b1c7bc2", [
+      [ "SEAT_NORTH", "dd/dd6/boss__halion_8cpp.html#af872800d0e8bc1b5d8ed1ac26b1c7bc2a00471081bfbf35def217fa6094b4041c", null ],
+      [ "SEAT_SOUTH", "dd/dd6/boss__halion_8cpp.html#af872800d0e8bc1b5d8ed1ac26b1c7bc2a9cf8c6de0055cdefd98ace30711ccb9d", null ],
+      [ "SEAT_EAST", "dd/dd6/boss__halion_8cpp.html#af872800d0e8bc1b5d8ed1ac26b1c7bc2ac4b4e29da6bbd52b6fc9dc360127da3d", null ],
+      [ "SEAT_WEST", "dd/dd6/boss__halion_8cpp.html#af872800d0e8bc1b5d8ed1ac26b1c7bc2a857d8d65f60a3457bbd70737ac2a8d05", null ]
     ] ],
     [ "Spells", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_FLAME_BREATH", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b", null ],
@@ -102,14 +98,12 @@ var boss__halion_8cpp =
       [ "SPELL_BIRTH_NO_VISUAL", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caeed2ad5ddd42421a39d77dd7ca3c8be7", null ],
       [ "SPELL_DARK_BREATH", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ce9eabe34d7835399e2f04476942fb0", null ],
       [ "SPELL_TWILIGHT_CUTTER", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca58fbcd1b41f3302287520720ef16ed56", null ],
-      [ "SPELL_TWILIGHT_CUTTER_TRIGGERED", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac4c404944e70b252c6ffaf6ca5d5b41d", null ],
       [ "SPELL_TWILIGHT_PULSE_PERIODIC", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caac0491ef41263c4f5ab3e3676d3557bf", null ],
       [ "SPELL_TRACK_ROTATION", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacbf249f96ebcb245f4d180371f6ed2cf", null ],
       [ "SPELL_COSMETIC_FIRE_PILLAR", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca0cb011b07174cdf6f93317bef8431710", null ],
       [ "SPELL_FIERY_EXPLOSION", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cace14711262a8c537d9a9944063caa5c5", null ],
       [ "SPELL_CLEAR_DEBUFFS", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca66942423c2eaaf561eb862af838d78ce", null ],
       [ "SPELL_TWILIGHT_DIVISION", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca4e3c3bee790f85b4cbaf8fc3072b2f1d", null ],
-      [ "SPELL_LEAVE_TWILIGHT_REALM", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca597ad70b7045bcf05df2acb16bf36fca", null ],
       [ "SPELL_TWILIGHT_PHASING", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca330637cd42104a7e9bd76356c19e8dd0", null ],
       [ "SPELL_SUMMON_TWILIGHT_PORTAL", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca4272a6e41142b017a021b96e2690abd8", null ],
       [ "SPELL_SUMMON_EXIT_PORTALS_NORMAL", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca05b562744c323c5a1d01d0c1d643a6f4", null ],
@@ -117,7 +111,8 @@ var boss__halion_8cpp =
       [ "SPELL_TWILIGHT_MENDING", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cab106e50e57ee1f79a784b55bfeaef3b5", null ],
       [ "SPELL_TWILIGHT_REALM", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cae7473d5bc22b110e233fcd4f0f744b90", null ],
       [ "SPELL_DUSK_SHROUD", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca3978cf5bd7c8b2436329feb2b564dc6d", null ],
-      [ "SPELL_COPY_DAMAGE", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca67a4f3b7f15d866af90559d8a7f70713", null ]
+      [ "SPELL_COPY_DAMAGE", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca67a4f3b7f15d866af90559d8a7f70713", null ],
+      [ "SPELL_FEIGN_DEATH", "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca882c4c20d663e5bbdb81fc74aacf77c8", null ]
     ] ],
     [ "Texts", "dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
       [ "SAY_REGENERATE", "dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab52e36c60b9606b8d6b1e0c6f7f57903", null ],
@@ -137,5 +132,8 @@ var boss__halion_8cpp =
       [ "EMOTE_WARN_LASER", "dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3b0243eca26899dc1cdc80355f84ba4c", null ]
     ] ],
     [ "AddSC_boss_halion", "dd/dd6/boss__halion_8cpp.html#abc5005c32589bbd3476dfdb8838aaa69", null ],
-    [ "_corporealityReference", "dd/dd6/boss__halion_8cpp.html#a3f106344e2dc46521ee1fe0611e9975f", null ]
+    [ "CORPOREALITY_NEUTRAL", "dd/dd6/boss__halion_8cpp.html#af5e6fae1a48f55ba2c04e979e1ce571d", null ],
+    [ "CorporealitySpells", "dd/dd6/boss__halion_8cpp.html#a9e4c35e9b79a338494dc27aef0e43585", null ],
+    [ "MAX_CORPOREALITY_STATE", "dd/dd6/boss__halion_8cpp.html#a0004bbfffd80985ce972796735ff3ecb", null ],
+    [ "PHASEMASK_TWILIGHT", "dd/dd6/boss__halion_8cpp.html#a40a8bbc5ed5039b1ed946d8a2bb49c32", null ]
 ];

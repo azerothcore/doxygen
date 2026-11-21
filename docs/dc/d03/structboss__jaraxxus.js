@@ -7,6 +7,6 @@ var structboss__jaraxxus =
     [ "JustSummoned", "dc/d03/structboss__jaraxxus.html#ab5b9ac68b23be5833e3e061f2623ee37", null ],
     [ "MoveInLineOfSight", "dc/d03/structboss__jaraxxus.html#a86a9d40e9fabd693dd936758ccdb8a9a", null ],
     [ "Reset", "dc/d03/structboss__jaraxxus.html#ab41962c64bd1a4b0e93bc83ae5f62889", null ],
-    [ "SpellHit", "dc/d03/structboss__jaraxxus.html#ad024c86f49c0ff49bc8ccde187d59088", null ],
+    [ "SpellHit", "dc/d03/structboss__jaraxxus.html#a486dd679f70237e9764a021303d4ad56", null ],
     [ "UpdateAI", "dc/d03/structboss__jaraxxus.html#a0d598a20f10a0f3187ad9dfe6405cf13", null ]
 ];

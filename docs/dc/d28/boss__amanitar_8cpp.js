@@ -2,14 +2,13 @@ var boss__amanitar_8cpp =
 [
     [ "boss_amanitar", "dc/d36/structboss__amanitar.html", "dc/d36/structboss__amanitar" ],
     [ "spell_amanitar_remove_mushroom_power", "d6/d23/classspell__amanitar__remove__mushroom__power.html", "d6/d23/classspell__amanitar__remove__mushroom__power" ],
+    [ "spell_amanitar_potent_fungus", "de/d67/classspell__amanitar__potent__fungus.html", "de/d67/classspell__amanitar__potent__fungus" ],
+    [ "Actions", "dc/d28/boss__amanitar_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
+      [ "ACTION_MUSHROOM_SHRINK", "dc/d28/boss__amanitar_8cpp.html#a250372292659bed7ae290d8621f88ccfa5b02c8776a0870d0365bbfa3123bd653", null ]
+    ] ],
     [ "Creatures", "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_HEALTHY_MUSHROOM", "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a739fce663be8b13f09f9590c508ee188", null ],
       [ "NPC_POISONOUS_MUSHROOM", "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ae5abbd9e7d682c77a56749f83994e4ff", null ]
-    ] ],
-    [ "Events", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
-      [ "EVENT_GROW", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d496e642d19084da7c7828473dd4b5a", null ],
-      [ "EVENT_CHECK_PLAYER", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
-      [ "EVENT_KILLSELF", "dc/d28/boss__amanitar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2d90815012178143e2e037f2a643af17", null ]
     ] ],
     [ "Spells", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_BASH", "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298ca40eece0e8a5b64ae69f9923278876db1", null ],

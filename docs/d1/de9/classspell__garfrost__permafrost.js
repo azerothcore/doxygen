@@ -5,5 +5,5 @@ var classspell__garfrost__permafrost =
     [ "PrepareSpellScript", "d1/de9/classspell__garfrost__permafrost.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
     [ "Register", "d1/de9/classspell__garfrost__permafrost.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
     [ "Unload", "d1/de9/classspell__garfrost__permafrost.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d1/de9/classspell__garfrost__permafrost.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "_targetList", "d1/de9/classspell__garfrost__permafrost.html#ae96fabdf4d42f9357918cbf0babf4717", null ]
 ];

@@ -1,7 +1,5 @@
 var boss__baltharus__the__warborn_8cpp =
 [
-    [ "DelayedTalk", "da/dca/classDelayedTalk.html", "da/dca/classDelayedTalk" ],
-    [ "RestoreFight", "d2/d0f/classRestoreFight.html", "d2/d0f/classRestoreFight" ],
     [ "boss_baltharus_the_warborn", "df/da1/classboss__baltharus__the__warborn.html", "df/da1/classboss__baltharus__the__warborn" ],
     [ "boss_baltharus_the_warborn::boss_baltharus_the_warbornAI", "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html", "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI" ],
     [ "npc_baltharus_the_warborn_clone", "d9/d65/classnpc__baltharus__the__warborn__clone.html", "d9/d65/classnpc__baltharus__the__warborn__clone" ],
@@ -12,16 +10,12 @@ var boss__baltharus__the__warborn_8cpp =
     [ "at_baltharus_plateau", "d9/d71/classat__baltharus__plateau.html", "d9/d71/classat__baltharus__plateau" ],
     [ "Actions", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_INTRO_BALTHARUS", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfade02b9e5a00f3eccd24d1301023cf943", null ],
-      [ "ACTION_BALTHARUS_DEATH", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfae5aa88a2210d9faa5827046344520428", null ],
-      [ "ACTION_CLONE", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfa571d4d5e2da8756178e247a5d6622cb9", null ]
+      [ "ACTION_BALTHARUS_DEATH", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a250372292659bed7ae290d8621f88ccfae5aa88a2210d9faa5827046344520428", null ]
     ] ],
     [ "Events", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_BLADE_TEMPEST", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6f4588c58a38c4477c9ce9d67e293d1d", null ],
       [ "EVENT_CLEAVE", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
       [ "EVENT_ENERVATING_BRAND", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0cda96ae8a5dfbee611b4d413ec3a1b9", null ],
-      [ "EVENT_CHECK_HEALTH1", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab36d747a1c8dd4aa89b59ad5e09afc2d", null ],
-      [ "EVENT_CHECK_HEALTH2", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abf2720c6d7bcd1ff0e641f33cf445e8a", null ],
-      [ "EVENT_CHECK_HEALTH3", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6e893ec8c0b4107222da5e593f4a9ad7", null ],
       [ "EVENT_SUMMON_CLONE", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a03b79045f228cb74c77a71edb9a7c96a", null ],
       [ "EVENT_XERESTRASZA_EVENT_0", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae92b6eacbe840058aba98da75b4c574c", null ],
       [ "EVENT_XERESTRASZA_EVENT_1", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb4f5226906ce125fe5bb5d6b655c03b", null ],
@@ -31,6 +25,9 @@ var boss__baltharus__the__warborn_8cpp =
       [ "EVENT_XERESTRASZA_EVENT_5", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3092c2e5c7c1033ea02e8c0db12fda0", null ],
       [ "EVENT_XERESTRASZA_EVENT_6", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab4a256762797fb0f085b66b25afe4a8a", null ],
       [ "EVENT_XERESTRASZA_EVENT_7", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a12f4fcf5920f3bc52e3f7d942a042aa0", null ]
+    ] ],
+    [ "Points", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a50ba2acfd483f395e71abb80f687463e", [
+      [ "POINT_XERESTRASZA_FREED", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a50ba2acfd483f395e71abb80f687463ea75f084262b4c88e16a74a83d00361900", null ]
     ] ],
     [ "Spells", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_BARRIER_CHANNEL", "d5/dd6/boss__baltharus__the__warborn_8cpp.html#a5bd342133be8c2137b831460acc9298ca81cfa8a13e85aea2e4ce00844f39e598", null ],

@@ -23,8 +23,15 @@ var boss__bronjahm_8cpp =
       [ "SPELL_TELEPORT", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7", null ],
       [ "SPELL_TELEPORT_VISUAL", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
       [ "SPELL_SOULSTORM_VISUAL", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cac0c93648701099cc7bb94911ca117cb9", null ],
-      [ "SPELL_SOULSTORM_VISUAL2", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cae766eb91aee711da9b99fec61235e237", null ],
-      [ "SPELL_SOULSTORM", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298caabd15a2e0d36b02d9eb5a257edb36fb0", null ]
+      [ "SPELL_SOULSTORM", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298caabd15a2e0d36b02d9eb5a257edb36fb0", null ],
+      [ "SPELL_SOULSTORM_VISUAL_1", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca94a19cd6708470c1af5dfb5b3cb9ba5c", null ],
+      [ "SPELL_SOULSTORM_VISUAL_2", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298cac60e497b90814015e80381c12600821c", null ],
+      [ "SPELL_SOULSTORM_VISUAL_3", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca6be4d6efdbf98f71c43893fae928b7fe", null ],
+      [ "SPELL_SOULSTORM_VISUAL_4", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298caece152685f8151f56314c2444d6108c2", null ],
+      [ "SPELL_SOULSTORM_OOC_VISUAL_1", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca38632d288786a44113c81f6d16fa4999", null ],
+      [ "SPELL_SOULSTORM_OOC_VISUAL_2", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca970d1ba4e4f2ea7b6b4ba49d3fa1d5d8", null ],
+      [ "SPELL_SOULSTORM_OOC_VISUAL_3", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca60dc956bc8a577368642275d61ca033d", null ],
+      [ "SPELL_SOULSTORM_OOC_VISUAL_4", "de/dc0/boss__bronjahm_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b3c3df50c378ef26107b11b32e17cc7", null ]
     ] ],
     [ "Yells", "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_AGGRO", "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
@@ -33,5 +40,7 @@ var boss__bronjahm_8cpp =
       [ "SAY_SOUL_STORM", "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aabf68ace2646050b567f4a305e8b052f", null ],
       [ "SAY_CORRUPT_SOUL", "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aab33655253951fd4440f14d64a8750c1", null ]
     ] ],
-    [ "AddSC_boss_bronjahm", "de/dc0/boss__bronjahm_8cpp.html#a4917973731274871be6d53aca950379e", null ]
+    [ "AddSC_boss_bronjahm", "de/dc0/boss__bronjahm_8cpp.html#a4917973731274871be6d53aca950379e", null ],
+    [ "SoulstormOocVisualSpells", "de/dc0/boss__bronjahm_8cpp.html#ac681e2e4ccb1d7de68b23c262c108a90", null ],
+    [ "SoulstormVisualSpells", "de/dc0/boss__bronjahm_8cpp.html#aa388bd11424bbc7b99522d0d130ff9f0", null ]
 ];

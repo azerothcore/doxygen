@@ -219,6 +219,8 @@ var icecrown__citadel_8h =
       [ "NPC_TERENAS_MENETHIL_OUTRO", "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a5cf1b5c5af9e1c8c81bb8490ea27d3a6", null ],
       [ "NPC_INVISIBLE_STALKER", "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2ae70c2fba3da38542de5b09b692ee5251", null ],
       [ "NPC_SPIRE_FROSTWYRM", "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a8d0dcdea84e4eec172b5665913c13087", null ],
+      [ "NPC_SPIRE_GARGOYLE", "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a8bebb2bdb8f8650f025a41b21eb86ec8", null ],
+      [ "NPC_SPIRE_MINION", "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a5b5cba5ba0773647743aaf94e574e1f8", null ],
       [ "NPC_VENGEFUL_FLESHREAPER", "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2abd25798442e574ba16eab028b69bb596", null ]
     ] ],
     [ "DataTypes", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22", [
@@ -270,6 +272,10 @@ var icecrown__citadel_8h =
       [ "DATA_ORGRIMS_HAMMER", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22ab3fe49dbe793811720896946fac1e098", null ],
       [ "DATA_SAURFANG_CAMP", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22ab1b5b17c480c75dd5fbf509c89507249", null ],
       [ "DATA_SAURFANG_OUTRO_ZEPPELIN", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a631581bd5e970d2a32de752c69d388b5", null ],
+      [ "DATA_SAURFANG_DOOR", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a6708bd99d2a9350d4bac6ede81aea5af", null ],
+      [ "DATA_SAURFANG_TELEPORT", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a211f13094d5554e29dc475d6fe263f70", null ],
+      [ "DATA_SINDRAGOSA_GAUNTLET_NPC", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22af9304c75db05a9802b2092d9aef697e2", null ],
+      [ "DATA_PUTRICIDE_TRAP", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22aa3ee0c1037b43d4ceb1cb64e0dad32a4", null ],
       [ "DATA_BUFF_AVAILABLE", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a74de61c04a05558641c318a3399d670c", null ],
       [ "DATA_WEEKLY_QUEST_ID", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a1576a92411859ea280983b3163ae129c", null ],
       [ "DATA_PUTRICIDE_TRAP_STATE", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a4e301e944f0457c41e896883c622476c", null ],
@@ -277,6 +283,13 @@ var icecrown__citadel_8h =
       [ "DATA_LK_HC_AVAILABLE", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a29f44ce2fc9eba47c7fa47d830230470", null ],
       [ "DATA_SINDRAGOSA_INTRO", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a8f1d44819ecb00158f31b655ba34626a", null ],
       [ "DATA_BPC_TRASH_DIED", "d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22aeabe12cea165442024828ca018a187cb", null ]
+    ] ],
+    [ "FrostwingData", "d9/d6a/icecrown__citadel_8h.html#a714083728aa6a16b553f121358da0e0e", [
+      [ "DATA_MYSTIC_BUFFET_STACK", "d9/d6a/icecrown__citadel_8h.html#a714083728aa6a16b553f121358da0e0ea66581d4ea55e602e76d213e362896511", null ],
+      [ "DATA_FROSTWYRM_OWNER", "d9/d6a/icecrown__citadel_8h.html#a714083728aa6a16b553f121358da0e0ea8a524298496082994a3675c6ccf47bdd", null ],
+      [ "DATA_WHELP_MARKER", "d9/d6a/icecrown__citadel_8h.html#a714083728aa6a16b553f121358da0e0ea6de4ea7db4f93aad14cdeb58758f121c", null ],
+      [ "DATA_LINKED_GAMEOBJECT", "d9/d6a/icecrown__citadel_8h.html#a714083728aa6a16b553f121358da0e0ea207b51fe4dc6b1ebb9dd23cd3840e56f", null ],
+      [ "DATA_TRAPPED_PLAYER", "d9/d6a/icecrown__citadel_8h.html#a714083728aa6a16b553f121358da0e0eac38379126931a364a3a1098005fd96b1", null ]
     ] ],
     [ "GameObjectsIds", "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909e", [
       [ "GO_SCOURGE_TRANSPORTER_FIRST", "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eac28323da95412f3786ce83e702f22384", null ],

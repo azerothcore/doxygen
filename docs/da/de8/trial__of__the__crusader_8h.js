@@ -197,6 +197,8 @@ var trial__of__the__crusader_8h =
       [ "NPC_CAT", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca2d74487213c384ec1db2d79c559e5813", null ],
       [ "NPC_LIGHTBANE", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca1ba7cac32432f79d0aa3b58931d3167b", null ],
       [ "NPC_DARKBANE", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca7c95ee4d952bb44df867c9f65cc7aa14", null ],
+      [ "NPC_CONCENTRATED_DARK", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca72f5fc28ca8250b2ff0d4767808371bf", null ],
+      [ "NPC_CONCENTRATED_LIGHT", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca8a7aff98e443da9bf05b24611779948e", null ],
       [ "NPC_ANUBARAK", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5ca9ccdc8bccffd48df50721fc98c1b6bc3", null ],
       [ "NPC_SCARAB", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5caa821a34ce4ede17b251360c5a4bfe10a", null ],
       [ "NPC_BURROWER", "da/de8/trial__of__the__crusader_8h.html#a6986ec7b2d3274669934af9795f26d5cad02c36aa55c6c4cda027f344749b80e1", null ]
@@ -233,7 +235,8 @@ var trial__of__the__crusader_8h =
       [ "ACHIEV_CRITERIA_REALM_FIRST_GRAND_CRUSADER", "da/de8/trial__of__the__crusader_8h.html#a907166c4236421dcb4fd522251f52255aa9b6f6c6eb04504e3e4323990acadb9d", null ]
     ] ],
     [ "TrialOfTheCrusaderActions", "da/de8/trial__of__the__crusader_8h.html#a8b3538aefe50c563922daa87d66869a7", [
-      [ "ACTION_DESPAWN_SUMMONS", "da/de8/trial__of__the__crusader_8h.html#a8b3538aefe50c563922daa87d66869a7abf40af296967a97d709baabd51fb00b5", null ]
+      [ "ACTION_DESPAWN_SUMMONS", "da/de8/trial__of__the__crusader_8h.html#a8b3538aefe50c563922daa87d66869a7abf40af296967a97d709baabd51fb00b5", null ],
+      [ "ACTION_ANUBARAK_INTRO_SUBMERGE", "da/de8/trial__of__the__crusader_8h.html#a8b3538aefe50c563922daa87d66869a7aaf9a8716f9cae316f63bad689623b536", null ]
     ] ],
     [ "TrialOfTheCrusaderBossIds", "da/de8/trial__of__the__crusader_8h.html#a0783fea93765e470abcde1a20eab3756", [
       [ "BOSS_NORTHREND_BEASTS", "da/de8/trial__of__the__crusader_8h.html#a0783fea93765e470abcde1a20eab3756af3d3db676c0683d2a876af0fb821b559", null ],

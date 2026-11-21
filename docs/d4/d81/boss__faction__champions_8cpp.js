@@ -34,6 +34,7 @@ var boss__faction__champions_8cpp =
     [ "npc_toc_pet_hunter", "d8/d4e/classnpc__toc__pet__hunter.html", "d8/d4e/classnpc__toc__pet__hunter" ],
     [ "npc_toc_pet_hunter::npc_toc_pet_hunterAI", "dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html", "dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI" ],
     [ "spell_faction_champion_warl_unstable_affliction_aura", "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html", "de/d33/classspell__faction__champion__warl__unstable__affliction__aura" ],
+    [ "spell_faction_champion_death_grip", "d1/d05/classspell__faction__champion__death__grip.html", "d1/d05/classspell__faction__champion__death__grip" ],
     [ "eAIs", "d4/d81/boss__faction__champions_8cpp.html#a123bd9d43a03698ebea8ddaa2f55c5aa", [
       [ "AI_MELEE", "d4/d81/boss__faction__champions_8cpp.html#a123bd9d43a03698ebea8ddaa2f55c5aaa19e47192442a9270751bde48f9547214", null ],
       [ "AI_RANGED", "d4/d81/boss__faction__champions_8cpp.html#a123bd9d43a03698ebea8ddaa2f55c5aaa3e64900315c9824cd4050b6a91a59174", null ],
@@ -73,6 +74,7 @@ var boss__faction__champions_8cpp =
       [ "SPELL_CHAINS_OF_ICE", "d4/d81/boss__faction__champions_8cpp.html#a952a0af8554cdcf4b0c7c86e0c70e0cfae1f0efa4026f86ebb692786585cec455", null ],
       [ "SPELL_DEATH_COIL", "d4/d81/boss__faction__champions_8cpp.html#a952a0af8554cdcf4b0c7c86e0c70e0cfa196972e452f4cb5df032e5119d25f163", null ],
       [ "SPELL_DEATH_GRIP", "d4/d81/boss__faction__champions_8cpp.html#a952a0af8554cdcf4b0c7c86e0c70e0cfab6a50fe5a3ecff5719de25be16508228", null ],
+      [ "SPELL_DEATH_GRIP_PULL", "d4/d81/boss__faction__champions_8cpp.html#a952a0af8554cdcf4b0c7c86e0c70e0cfaaa637110dc592a41856984d7dbfd78c2", null ],
       [ "SPELL_FROST_STRIKE", "d4/d81/boss__faction__champions_8cpp.html#a952a0af8554cdcf4b0c7c86e0c70e0cfacd7365bfca0b6c0a8c43b4e6bc02c7f5", null ],
       [ "SPELL_ICEBOUND_FORTITUDE", "d4/d81/boss__faction__champions_8cpp.html#a952a0af8554cdcf4b0c7c86e0c70e0cfa2b6ab9f175073fb04d1e11f2868572b1", null ],
       [ "SPELL_ICY_TOUCH", "d4/d81/boss__faction__champions_8cpp.html#a952a0af8554cdcf4b0c7c86e0c70e0cfaa08ac9e39da810d5834d1811db20481f", null ],

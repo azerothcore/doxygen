@@ -25,9 +25,103 @@ var pit__of__saron_8cpp =
     [ "spell_pos_blight_aura", "d3/d43/classspell__pos__blight__aura.html", "d3/d43/classspell__pos__blight__aura" ],
     [ "spell_pos_glacial_strike_aura", "da/d42/classspell__pos__glacial__strike__aura.html", "da/d42/classspell__pos__glacial__strike__aura" ],
     [ "at_tyrannus_event_starter", "dd/d75/classat__tyrannus__event__starter.html", "dd/d75/classat__tyrannus__event__starter" ],
-    [ "EmpoweredBlizzard", "d9/d1c/pit__of__saron_8cpp.html#a8fcef7a07939b8b584fe27646f0e409b", [
-      [ "SPELL_EMPOWERED_BLIZZARD", "d9/d1c/pit__of__saron_8cpp.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab", null ]
+    [ "Actions", "d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
+      [ "ACTION_SUMMON_SINDRAGOSA", "d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccfac0f32050ea2a338e0d3ae9f7c4d7af2e", null ],
+      [ "ACTION_REMOVE_INVINCIBILITY", "d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccfa37dd02ebdaa89773c9f3cf959b4402b4", null ]
+    ] ],
+    [ "Events", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
+      [ "EVENT_INTRO_SUMMON_CHAMPIONS", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad6db940dd138e9c4f2e54fd522be613d", null ],
+      [ "EVENT_INTRO_TYRANNUS_1", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad566521b8cfc82581be0865c4a1a1ff6", null ],
+      [ "EVENT_INTRO_TYRANNUS_2", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ace109003a024ac5c21c3ab3fe159224d", null ],
+      [ "EVENT_INTRO_CHAMPIONS_ATTACK", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2542040fd440e78d343e3d733a4e5bd2", null ],
+      [ "EVENT_INTRO_LEADER_1", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69625f391e24062d696f08cdbcc9fe7d", null ],
+      [ "EVENT_INTRO_TYRANNUS_3", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adfb1c5c179c56570e48121d7e4096245", null ],
+      [ "EVENT_INTRO_STRANGULATE", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1dfe816f3f21db725ab37f98042da01c", null ],
+      [ "EVENT_INTRO_NECROMANTIC_POWER", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa9ed0f7366ab468052efebd14f4c3b03", null ],
+      [ "EVENT_INTRO_KILL_CHAMPIONS", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a618bd5beaa9a26dcf79d9d8c69f45fa8", null ],
+      [ "EVENT_INTRO_LEADER_2", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab68350d603e570d632d0c7cec08c5d07", null ],
+      [ "EVENT_INTRO_RAISE_DEAD", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a820cc745612071c7beae04ec11baaf4c", null ],
+      [ "EVENT_INTRO_CORRUPT_CHAMPIONS", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae772f6bbe5e5cf263ff6415c5ce75bb9", null ],
+      [ "EVENT_INTRO_CORRUPTED_ATTACK", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a078642c4aeeb00ca252c368675a6e637", null ],
+      [ "EVENT_INTRO_LEADER_SPELL", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1df7b747675a63ce25a10ff727974e6a", null ],
+      [ "EVENT_INTRO_TYRANNUS_LEAVE", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae7e54f24d177895d19ffd49b6b5d223b", null ],
+      [ "EVENT_INTRO_LEADER_3", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8c3b60af080865c7ed37731c2873df3b", null ],
+      [ "EVENT_INTRO_LEADER_4", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a791f6a1dd811d0311b15f30766f2adae", null ],
+      [ "EVENT_NECROLYTE_SHADOW_BOLT", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945", null ],
+      [ "EVENT_NECROLYTE_CONVERSION_BEAM", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0", null ],
+      [ "EVENT_FBS_SUMMON_SLAVES", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5028505d6c26d32a0d2c8c0ed5a29037", null ],
+      [ "EVENT_FBS_TYRANNUS", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6cd553237f5031999febe2722e2a0857", null ],
+      [ "EVENT_FBS_GENERAL", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a67fe453c5050193a7accb00c368aa2e3", null ],
+      [ "EVENT_TYRANNUS_MOVE_WAIT_1", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa320a11fabe12132ca7c7545e670f846", null ],
+      [ "EVENT_TYRANNUS_FACE_WAIT_1", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acba21d65665d864003bc5747e1b5e0cf", null ],
+      [ "EVENT_TYRANNUS_MOVE_WAIT_2", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8f8e03e9d9a012ab3d38168e40b40431", null ],
+      [ "EVENT_TYRANNUS_FACE_WAIT_2", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af8196a445027ed9088559658fdf5dd91", null ],
+      [ "EVENT_TYRANNUS_TAKEOFF", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acaddca3bc6413abe7cd666754680a171", null ],
+      [ "EVENT_TYRANNUS_MOVE_WAIT_3", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3136909881967e6cd1b7ae5b7f6cf794", null ],
+      [ "EVENT_AMBUSH_1_SUMMON_DEATHBRINGERS", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6738a85ae3ca02475d0261c0db708bad", null ],
+      [ "EVENT_AMBUSH_1_DEATHBRINGER_1_ARRIVED", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a86216e20d3bce706c9dfe254b95c476d", null ],
+      [ "EVENT_AMBUSH_1_DEATHBRINGER_2_ARRIVED", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7bbb73140fa5156b6301524767049cff", null ],
+      [ "EVENT_AMBUSH_1_SUMMON_WAVE_1", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a44396d584cf78e8a5c43d2cae0b27c7b", null ],
+      [ "EVENT_AMBUSH_1_SUMMON_WAVE_2", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4926d62e54c5545a3c2b0096f624b6af", null ],
+      [ "EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_1", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac927fbe17c7bccdf71ef8585fb1710da", null ],
+      [ "EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_2", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a257844cb799b8ba4f1eaeca34cc774f2", null ],
+      [ "EVENT_AMBUSH_2_SUMMON", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abc2f50e0fe2b6b48eb44e61e4d02295a", null ],
+      [ "EVENT_GENERAL_SUMMON_SLAVES", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39fcdfd046ff0762f4c34eb4f5f1ab02", null ],
+      [ "EVENT_GENERAL_TRASH_TALK", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a72006b90e92ab2fca935e51461bec494", null ],
+      [ "EVENT_GENERAL_TYRANNUS_INTRO", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a51f54ca72c0d0cd18afe90d352511c68", null ],
+      [ "EVENT_GENERAL_START_FIGHT", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a57555d9658390c15d430c2a3231b177b", null ],
+      [ "EVENT_GENERAL_OUTRO", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6ab8ff2b3be2ded57fd55ecac77343c", null ],
+      [ "EVENT_GENERAL_SUMMON_FALLEN_WARRIOR", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3633ee7d2c61c608c9633382a6f514b2", null ],
+      [ "EVENT_LEADER_OUTRO_SUMMON_SINDRAGOSA", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48b5266dc8be748cec404e638bc1f839", null ],
+      [ "EVENT_LEADER_OUTRO_GENERAL_2", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9d041c259994c581973b3ebdd63e291e", null ],
+      [ "EVENT_LEADER_OUTRO_LEADER_1", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac5bc12a19465c1aa47d8100909e8ad1f", null ],
+      [ "EVENT_LEADER_OUTRO_TELEPORT", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaf4d378c53d1e6ba49b489c3e59e1cd2", null ],
+      [ "EVENT_LEADER_OUTRO_FROST_BOMB", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2374220c94409797c537e0ce64aeef42", null ],
+      [ "EVENT_LEADER_OUTRO_SINDRAGOSA_LEAVE", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a355ce190fb0d3999ecbc62505c6e399d", null ],
+      [ "EVENT_LEADER_OUTRO_SINDRAGOSA_HIDE", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1445f9871f21c9ed700c9f9bb75621e9", null ],
+      [ "EVENT_LEADER_OUTRO_LEADER_MOVE", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aadd93a3b9b62fba14184eba00528fe89", null ],
+      [ "EVENT_LEADER_OUTRO_FROST_BOMB_KILL", "d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad90525ecd0753bf1f87aa14541f8a76c", null ]
+    ] ],
+    [ "Models", "d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f", [
+      [ "MODEL_INVISIBLE", "d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa116fbb11cfd55f4f743ab6e6b1e169c4", null ]
+    ] ],
+    [ "MovePoints", "d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd", [
+      [ "POINT_NECROLYTE_POSITION", "d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda6b3166c0bc8ee13e77af8442eb3f5446", null ],
+      [ "POINT_FBS_GARFROST", "d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda69f184e8d9a7c72d8fc8c52f86e14812", null ],
+      [ "POINT_GENERAL_CENTER", "d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdae042265e58f4480ddfae1899c00204a4", null ],
+      [ "POINT_LEADER_OUTRO_2", "d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda2c56e98fa06b3758770b4cbead9838ec", null ],
+      [ "POINT_JAINA_OUTRO_3", "d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdab5c86930908c06db902bd38d6421ea87", null ],
+      [ "POINT_OPEN_PORTCULLIS", "d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdadbe2a52d49a40112268db18b28a37114", null ]
+    ] ],
+    [ "Spells", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
+      [ "SPELL_RAISE_DEAD", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298caa7d3acdb8623b6cad2a8777c62c93827", null ],
+      [ "SPELL_EMPOWERED_BLIZZARD_AURA", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298caad9afca314b07eacc6368e6e7555f8d5", null ],
+      [ "SPELL_EMPOWERED_BLIZZARD", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cab466d53fed70cfde01f9b48a6bf13fab", null ],
+      [ "SPELL_SHRIEK_OF_THE_HIGHBORNE", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b10dddf78f89654d22baafca518d8e7", null ],
+      [ "SPELL_MULTI_SHOT", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cac7138c3b5a7250d35e73359c3d5e2987", null ],
+      [ "SPELL_ICE_LANCE_VOLLEY", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca30af6933d729fa21b1dcffd4f112fb9b", null ],
+      [ "SPELL_NECROLYTE_SHADOW_BOLT", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca26c9daf646e7852a83b4ddd55e9b", null ],
+      [ "SPELL_CONVERSION_BEAM", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cac9896927369edd6cfd101bfcbe269157", null ],
+      [ "SPELL_SUMMON_UNDEAD", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca328f58439357786e2ce171445a1d05dc", null ],
+      [ "SPELL_ICICLE", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca52690c0700592d3cbc5fee5730c61e8f", null ],
+      [ "SPELL_ICICLE_DUMMY", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca3640d249cecb5222b36071ccbbfa336e", null ],
+      [ "SPELL_ICE_SHARDS", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca7691568a8f0ef8305c745f71a5ec0f5d", null ],
+      [ "SPELL_ICE_SHARDS_H", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cad899542a56c00266a0318fc9a67167d2", null ],
+      [ "SPELL_BLIGHT", "d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca93db2eec2c376cdd30f19073903d05b3", null ]
+    ] ],
+    [ "Texts", "d9/d1c/pit__of__saron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
+      [ "SAY_SLAVE_FREED", "d9/d1c/pit__of__saron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a399b2d61ecff76de879568cbe40ff5f0", null ]
+    ] ],
+    [ "TyrannusEventDataTypes", "d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224", [
+      [ "DATA_AREATRIGGER", "d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224af614107eabc3762bb05ce585366fe3ce", null ],
+      [ "DATA_TRASH_KILLED", "d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224ac5c034758e9dad682533bedb21294034", null ]
+    ] ],
+    [ "TyrannusEventDataValues", "d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9", [
+      [ "AREATRIGGER_AMBUSH_1", "d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a822d4d5075ff7af52f678783fb6a30ce", null ],
+      [ "AREATRIGGER_AMBUSH_2", "d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a22ea86c0fcf5df290d5e0fbea01658f7", null ],
+      [ "AREATRIGGER_TUNNEL", "d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a922da96d07b960c0e70ee947b89b374f", null ],
+      [ "TRASH_KILLED", "d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a59f69ad4ba6e998c51987f6b698158cb", null ]
     ] ],
     [ "AddSC_pit_of_saron", "d9/d1c/pit__of__saron_8cpp.html#ad9b4c5bfe589f9f6b1ea405752347585", null ],
-    [ "slaveFreePos", "d9/d1c/pit__of__saron_8cpp.html#a302aeb8575da3775869e8ba2aa788da0", null ]
+    [ "SlaveFreePos", "d9/d1c/pit__of__saron_8cpp.html#a05649b61576ff20d7d48f0dc474927a1", null ]
 ];

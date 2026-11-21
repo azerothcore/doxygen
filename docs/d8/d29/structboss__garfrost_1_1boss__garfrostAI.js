@@ -8,11 +8,10 @@ var structboss__garfrost_1_1boss__garfrostAI =
     [ "KilledUnit", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#af3751410e925a20c21b282d1b2de3bf3", null ],
     [ "MovementInform", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
     [ "Reset", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
-    [ "SetData", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#a3563e70e731836857837b1d4ac135130", null ],
+    [ "SetData", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#ad787e60729e55b12659f65083fbae9a1", null ],
     [ "SpellHitTarget", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
     [ "UpdateAI", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
-    [ "bCanSayBoulderHit", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#a587196314c341334418ea19c7f9ea597", null ],
-    [ "events", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
-    [ "phase", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
-    [ "pInstance", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
+    [ "_canSayBoulderHit", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#aa8fb385b7d99b2304b05d75ec96bb860", null ],
+    [ "_instance", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#a85acee451721b280689beb880d2a6791", null ],
+    [ "_phase", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html#ad2973ac4618027bd0ec1cf659733f6f2", null ]
 ];

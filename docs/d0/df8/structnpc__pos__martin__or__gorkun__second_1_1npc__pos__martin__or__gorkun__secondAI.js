@@ -1,13 +1,12 @@
 var structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI =
 [
     [ "npc_pos_martin_or_gorkun_secondAI", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
-    [ "DoAction", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
-    [ "JustSummoned", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#acdfc5d370da977ab69752016368cc9b0", null ],
+    [ "DoAction", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#a8032463a7037da2df9dc345c335858a2", null ],
+    [ "JustSummoned", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#a1b9095a07c6d35ffad34f7ed9ce9dcad", null ],
     [ "MovementInform", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
-    [ "SummonedCreatureDespawn", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
+    [ "SummonedCreatureDespawn", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#a28f3fcad56dffccdc1bc587f94c39aa2", null ],
     [ "UpdateAI", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
-    [ "events", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
-    [ "i", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#aa185914ee8a2352e4d233f1fc4800390", null ],
-    [ "pInstance", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
-    [ "summons", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
+    [ "_instance", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#a4401ed9ddfe606bbdd2dcefd9730feb3", null ],
+    [ "_summonIndex", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#a98165fc96861c9080a7cea70d5b7f0af", null ],
+    [ "_summons", "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#a8ea1b7cc44d99bcbd828bbfe32f18742", null ]
 ];

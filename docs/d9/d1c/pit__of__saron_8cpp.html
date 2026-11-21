@@ -116,9 +116,7 @@ $(document).ready(function(){initNavTree('d9/d1c/pit__of__saron_8cpp.html','../.
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">pit_of_saron.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">AreaTriggerScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CreatureGroups.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">PassiveAI.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
@@ -184,9 +182,188 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a8fcef7a07939b8b584fe27646f0e409b" id="r_a8fcef7a07939b8b584fe27646f0e409b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a8fcef7a07939b8b584fe27646f0e409b">EmpoweredBlizzard</a> { <a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab">SPELL_EMPOWERED_BLIZZARD</a> = 70131
+<tr class="memitem:a5bd342133be8c2137b831460acc9298c" id="r_a5bd342133be8c2137b831460acc9298c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298c">Spells</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298caa7d3acdb8623b6cad2a8777c62c93827">SPELL_RAISE_DEAD</a> = 69350
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298caad9afca314b07eacc6368e6e7555f8d5">SPELL_EMPOWERED_BLIZZARD_AURA</a> = 70132
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cab466d53fed70cfde01f9b48a6bf13fab">SPELL_EMPOWERED_BLIZZARD</a> = 70131
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b10dddf78f89654d22baafca518d8e7">SPELL_SHRIEK_OF_THE_HIGHBORNE</a> = 59514
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cac7138c3b5a7250d35e73359c3d5e2987">SPELL_MULTI_SHOT</a> = 70513
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca30af6933d729fa21b1dcffd4f112fb9b">SPELL_ICE_LANCE_VOLLEY</a> = 70464
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca26c9daf646e7852a83b4ddd55e9b">SPELL_NECROLYTE_SHADOW_BOLT</a> = 69577
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cac9896927369edd6cfd101bfcbe269157">SPELL_CONVERSION_BEAM</a> = 69578
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca328f58439357786e2ce171445a1d05dc">SPELL_SUMMON_UNDEAD</a> = 69516
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca52690c0700592d3cbc5fee5730c61e8f">SPELL_ICICLE</a> = 69426
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca3640d249cecb5222b36071ccbbfa336e">SPELL_ICICLE_DUMMY</a> = 69428
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca7691568a8f0ef8305c745f71a5ec0f5d">SPELL_ICE_SHARDS</a> = 69425
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cad899542a56c00266a0318fc9a67167d2">SPELL_ICE_SHARDS_H</a> = 70827
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca93db2eec2c376cdd30f19073903d05b3">SPELL_BLIGHT</a> = 69604
+<br />
  }</td></tr>
-<tr class="separator:a8fcef7a07939b8b584fe27646f0e409b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a5bd342133be8c2137b831460acc9298c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa80bce1d0ea05213c0d6c327126caf31" id="r_aa80bce1d0ea05213c0d6c327126caf31"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31">Texts</a> { <a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a399b2d61ecff76de879568cbe40ff5f0">SAY_SLAVE_FREED</a> = 0
+ }</td></tr>
+<tr class="separator:aa80bce1d0ea05213c0d6c327126caf31"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad79b9efcb51c710a9e3058177ac3856f" id="r_ad79b9efcb51c710a9e3058177ac3856f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a> { <a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa116fbb11cfd55f4f743ab6e6b1e169c4">MODEL_INVISIBLE</a> = 11686
+ }</td></tr>
+<tr class="separator:ad79b9efcb51c710a9e3058177ac3856f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a250372292659bed7ae290d8621f88ccf" id="r_a250372292659bed7ae290d8621f88ccf"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccf">Actions</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccfac0f32050ea2a338e0d3ae9f7c4d7af2e">ACTION_SUMMON_SINDRAGOSA</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccfa37dd02ebdaa89773c9f3cf959b4402b4">ACTION_REMOVE_INVINCIBILITY</a> = 1337
+<br />
+ }</td></tr>
+<tr class="separator:a250372292659bed7ae290d8621f88ccf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af60e00b78607064c5be6aa9397ea49c1" id="r_af60e00b78607064c5be6aa9397ea49c1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1">Events</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad6db940dd138e9c4f2e54fd522be613d">EVENT_INTRO_SUMMON_CHAMPIONS</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad566521b8cfc82581be0865c4a1a1ff6">EVENT_INTRO_TYRANNUS_1</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ace109003a024ac5c21c3ab3fe159224d">EVENT_INTRO_TYRANNUS_2</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2542040fd440e78d343e3d733a4e5bd2">EVENT_INTRO_CHAMPIONS_ATTACK</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69625f391e24062d696f08cdbcc9fe7d">EVENT_INTRO_LEADER_1</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adfb1c5c179c56570e48121d7e4096245">EVENT_INTRO_TYRANNUS_3</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1dfe816f3f21db725ab37f98042da01c">EVENT_INTRO_STRANGULATE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa9ed0f7366ab468052efebd14f4c3b03">EVENT_INTRO_NECROMANTIC_POWER</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a618bd5beaa9a26dcf79d9d8c69f45fa8">EVENT_INTRO_KILL_CHAMPIONS</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab68350d603e570d632d0c7cec08c5d07">EVENT_INTRO_LEADER_2</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a820cc745612071c7beae04ec11baaf4c">EVENT_INTRO_RAISE_DEAD</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae772f6bbe5e5cf263ff6415c5ce75bb9">EVENT_INTRO_CORRUPT_CHAMPIONS</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a078642c4aeeb00ca252c368675a6e637">EVENT_INTRO_CORRUPTED_ATTACK</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1df7b747675a63ce25a10ff727974e6a">EVENT_INTRO_LEADER_SPELL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae7e54f24d177895d19ffd49b6b5d223b">EVENT_INTRO_TYRANNUS_LEAVE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8c3b60af080865c7ed37731c2873df3b">EVENT_INTRO_LEADER_3</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a791f6a1dd811d0311b15f30766f2adae">EVENT_INTRO_LEADER_4</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945">EVENT_NECROLYTE_SHADOW_BOLT</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0">EVENT_NECROLYTE_CONVERSION_BEAM</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5028505d6c26d32a0d2c8c0ed5a29037">EVENT_FBS_SUMMON_SLAVES</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6cd553237f5031999febe2722e2a0857">EVENT_FBS_TYRANNUS</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a67fe453c5050193a7accb00c368aa2e3">EVENT_FBS_GENERAL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa320a11fabe12132ca7c7545e670f846">EVENT_TYRANNUS_MOVE_WAIT_1</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acba21d65665d864003bc5747e1b5e0cf">EVENT_TYRANNUS_FACE_WAIT_1</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8f8e03e9d9a012ab3d38168e40b40431">EVENT_TYRANNUS_MOVE_WAIT_2</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af8196a445027ed9088559658fdf5dd91">EVENT_TYRANNUS_FACE_WAIT_2</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acaddca3bc6413abe7cd666754680a171">EVENT_TYRANNUS_TAKEOFF</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3136909881967e6cd1b7ae5b7f6cf794">EVENT_TYRANNUS_MOVE_WAIT_3</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6738a85ae3ca02475d0261c0db708bad">EVENT_AMBUSH_1_SUMMON_DEATHBRINGERS</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a86216e20d3bce706c9dfe254b95c476d">EVENT_AMBUSH_1_DEATHBRINGER_1_ARRIVED</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7bbb73140fa5156b6301524767049cff">EVENT_AMBUSH_1_DEATHBRINGER_2_ARRIVED</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a44396d584cf78e8a5c43d2cae0b27c7b">EVENT_AMBUSH_1_SUMMON_WAVE_1</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4926d62e54c5545a3c2b0096f624b6af">EVENT_AMBUSH_1_SUMMON_WAVE_2</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac927fbe17c7bccdf71ef8585fb1710da">EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_1</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a257844cb799b8ba4f1eaeca34cc774f2">EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_2</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abc2f50e0fe2b6b48eb44e61e4d02295a">EVENT_AMBUSH_2_SUMMON</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39fcdfd046ff0762f4c34eb4f5f1ab02">EVENT_GENERAL_SUMMON_SLAVES</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a72006b90e92ab2fca935e51461bec494">EVENT_GENERAL_TRASH_TALK</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a51f54ca72c0d0cd18afe90d352511c68">EVENT_GENERAL_TYRANNUS_INTRO</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a57555d9658390c15d430c2a3231b177b">EVENT_GENERAL_START_FIGHT</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6ab8ff2b3be2ded57fd55ecac77343c">EVENT_GENERAL_OUTRO</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3633ee7d2c61c608c9633382a6f514b2">EVENT_GENERAL_SUMMON_FALLEN_WARRIOR</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48b5266dc8be748cec404e638bc1f839">EVENT_LEADER_OUTRO_SUMMON_SINDRAGOSA</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9d041c259994c581973b3ebdd63e291e">EVENT_LEADER_OUTRO_GENERAL_2</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac5bc12a19465c1aa47d8100909e8ad1f">EVENT_LEADER_OUTRO_LEADER_1</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaf4d378c53d1e6ba49b489c3e59e1cd2">EVENT_LEADER_OUTRO_TELEPORT</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2374220c94409797c537e0ce64aeef42">EVENT_LEADER_OUTRO_FROST_BOMB</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a355ce190fb0d3999ecbc62505c6e399d">EVENT_LEADER_OUTRO_SINDRAGOSA_LEAVE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1445f9871f21c9ed700c9f9bb75621e9">EVENT_LEADER_OUTRO_SINDRAGOSA_HIDE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aadd93a3b9b62fba14184eba00528fe89">EVENT_LEADER_OUTRO_LEADER_MOVE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad90525ecd0753bf1f87aa14541f8a76c">EVENT_LEADER_OUTRO_FROST_BOMB_KILL</a>
+<br />
+ }</td></tr>
+<tr class="separator:af60e00b78607064c5be6aa9397ea49c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7833023af5dd1196e6ec1567d0102cfd" id="r_a7833023af5dd1196e6ec1567d0102cfd"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd">MovePoints</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda6b3166c0bc8ee13e77af8442eb3f5446">POINT_NECROLYTE_POSITION</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda69f184e8d9a7c72d8fc8c52f86e14812">POINT_FBS_GARFROST</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdae042265e58f4480ddfae1899c00204a4">POINT_GENERAL_CENTER</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda2c56e98fa06b3758770b4cbead9838ec">POINT_LEADER_OUTRO_2</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdab5c86930908c06db902bd38d6421ea87">POINT_JAINA_OUTRO_3</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdadbe2a52d49a40112268db18b28a37114">POINT_OPEN_PORTCULLIS</a> = 7
+<br />
+ }</td></tr>
+<tr class="separator:a7833023af5dd1196e6ec1567d0102cfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a544fb441d07dce4d7706c70025f79224" id="r_a544fb441d07dce4d7706c70025f79224"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224">TyrannusEventDataTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224af614107eabc3762bb05ce585366fe3ce">DATA_AREATRIGGER</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224ac5c034758e9dad682533bedb21294034">DATA_TRASH_KILLED</a> = 2
+<br />
+ }</td></tr>
+<tr class="separator:a544fb441d07dce4d7706c70025f79224"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:affef3c36ff24968ce85c858b855212b9" id="r_affef3c36ff24968ce85c858b855212b9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9">TyrannusEventDataValues</a> { <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a822d4d5075ff7af52f678783fb6a30ce">AREATRIGGER_AMBUSH_1</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a22ea86c0fcf5df290d5e0fbea01658f7">AREATRIGGER_AMBUSH_2</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a922da96d07b960c0e70ee947b89b374f">AREATRIGGER_TUNNEL</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a59f69ad4ba6e998c51987f6b698158cb">TRASH_KILLED</a> = 1
+<br />
+ }</td></tr>
+<tr class="separator:affef3c36ff24968ce85c858b855212b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -195,28 +372,408 @@ Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a302aeb8575da3775869e8ba2aa788da0" id="r_a302aeb8575da3775869e8ba2aa788da0"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d0/df4/structPosition.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a302aeb8575da3775869e8ba2aa788da0">slaveFreePos</a> [4]</td></tr>
-<tr class="separator:a302aeb8575da3775869e8ba2aa788da0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05649b61576ff20d7d48f0dc474927a1" id="r_a05649b61576ff20d7d48f0dc474927a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/df4/structPosition.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a05649b61576ff20d7d48f0dc474927a1">SlaveFreePos</a> [4]</td></tr>
+<tr class="separator:a05649b61576ff20d7d48f0dc474927a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a8fcef7a07939b8b584fe27646f0e409b" name="a8fcef7a07939b8b584fe27646f0e409b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8fcef7a07939b8b584fe27646f0e409b">&#9670;&#160;</a></span>EmpoweredBlizzard</h2>
+<a id="a250372292659bed7ae290d8621f88ccf" name="a250372292659bed7ae290d8621f88ccf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a250372292659bed7ae290d8621f88ccf">&#9670;&#160;</a></span>Actions</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a8fcef7a07939b8b584fe27646f0e409b">EmpoweredBlizzard</a></td>
+          <td class="memname">enum <a class="el" href="../../d0/d91/BattlegroundIC_8h.html#a250372292659bed7ae290d8621f88ccf">Actions</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab" name="a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab"></a>SPELL_EMPOWERED_BLIZZARD&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfac0f32050ea2a338e0d3ae9f7c4d7af2e" name="a250372292659bed7ae290d8621f88ccfac0f32050ea2a338e0d3ae9f7c4d7af2e"></a>ACTION_SUMMON_SINDRAGOSA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a250372292659bed7ae290d8621f88ccfa37dd02ebdaa89773c9f3cf959b4402b4" name="a250372292659bed7ae290d8621f88ccfa37dd02ebdaa89773c9f3cf959b4402b4"></a>ACTION_REMOVE_INVINCIBILITY&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno"> 1305</span>{</div>
-<div class="line"><span class="lineno"> 1306</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab">SPELL_EMPOWERED_BLIZZARD</a> = 70131</div>
-<div class="line"><span class="lineno"> 1307</span>};</div>
-<div class="ttc" id="apit__of__saron_8cpp_html_a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab">SPELL_EMPOWERED_BLIZZARD</a></div><div class="ttdeci">@ SPELL_EMPOWERED_BLIZZARD</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1306</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccfac0f32050ea2a338e0d3ae9f7c4d7af2e">ACTION_SUMMON_SINDRAGOSA</a>            = 1,    <span class="comment">// npc_pos_leader_second</span></div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccfa37dd02ebdaa89773c9f3cf959b4402b4">ACTION_REMOVE_INVINCIBILITY</a>         = 1337, <span class="comment">// npc_pos_deathwhisper_necrolyte</span></div>
+<div class="line"><span class="lineno">   61</span>};</div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a250372292659bed7ae290d8621f88ccfa37dd02ebdaa89773c9f3cf959b4402b4"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccfa37dd02ebdaa89773c9f3cf959b4402b4">ACTION_REMOVE_INVINCIBILITY</a></div><div class="ttdeci">@ ACTION_REMOVE_INVINCIBILITY</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:60</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a250372292659bed7ae290d8621f88ccfac0f32050ea2a338e0d3ae9f7c4d7af2e"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a250372292659bed7ae290d8621f88ccfac0f32050ea2a338e0d3ae9f7c4d7af2e">ACTION_SUMMON_SINDRAGOSA</a></div><div class="ttdeci">@ ACTION_SUMMON_SINDRAGOSA</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:59</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="af60e00b78607064c5be6aa9397ea49c1" name="af60e00b78607064c5be6aa9397ea49c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af60e00b78607064c5be6aa9397ea49c1">&#9670;&#160;</a></span>Events</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d0/d58/alterac__valley_8cpp.html#af60e00b78607064c5be6aa9397ea49c1">Events</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1ad6db940dd138e9c4f2e54fd522be613d" name="af60e00b78607064c5be6aa9397ea49c1ad6db940dd138e9c4f2e54fd522be613d"></a>EVENT_INTRO_SUMMON_CHAMPIONS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1ad566521b8cfc82581be0865c4a1a1ff6" name="af60e00b78607064c5be6aa9397ea49c1ad566521b8cfc82581be0865c4a1a1ff6"></a>EVENT_INTRO_TYRANNUS_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1ace109003a024ac5c21c3ab3fe159224d" name="af60e00b78607064c5be6aa9397ea49c1ace109003a024ac5c21c3ab3fe159224d"></a>EVENT_INTRO_TYRANNUS_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a2542040fd440e78d343e3d733a4e5bd2" name="af60e00b78607064c5be6aa9397ea49c1a2542040fd440e78d343e3d733a4e5bd2"></a>EVENT_INTRO_CHAMPIONS_ATTACK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a69625f391e24062d696f08cdbcc9fe7d" name="af60e00b78607064c5be6aa9397ea49c1a69625f391e24062d696f08cdbcc9fe7d"></a>EVENT_INTRO_LEADER_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1adfb1c5c179c56570e48121d7e4096245" name="af60e00b78607064c5be6aa9397ea49c1adfb1c5c179c56570e48121d7e4096245"></a>EVENT_INTRO_TYRANNUS_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a1dfe816f3f21db725ab37f98042da01c" name="af60e00b78607064c5be6aa9397ea49c1a1dfe816f3f21db725ab37f98042da01c"></a>EVENT_INTRO_STRANGULATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1aa9ed0f7366ab468052efebd14f4c3b03" name="af60e00b78607064c5be6aa9397ea49c1aa9ed0f7366ab468052efebd14f4c3b03"></a>EVENT_INTRO_NECROMANTIC_POWER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a618bd5beaa9a26dcf79d9d8c69f45fa8" name="af60e00b78607064c5be6aa9397ea49c1a618bd5beaa9a26dcf79d9d8c69f45fa8"></a>EVENT_INTRO_KILL_CHAMPIONS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1ab68350d603e570d632d0c7cec08c5d07" name="af60e00b78607064c5be6aa9397ea49c1ab68350d603e570d632d0c7cec08c5d07"></a>EVENT_INTRO_LEADER_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a820cc745612071c7beae04ec11baaf4c" name="af60e00b78607064c5be6aa9397ea49c1a820cc745612071c7beae04ec11baaf4c"></a>EVENT_INTRO_RAISE_DEAD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1ae772f6bbe5e5cf263ff6415c5ce75bb9" name="af60e00b78607064c5be6aa9397ea49c1ae772f6bbe5e5cf263ff6415c5ce75bb9"></a>EVENT_INTRO_CORRUPT_CHAMPIONS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a078642c4aeeb00ca252c368675a6e637" name="af60e00b78607064c5be6aa9397ea49c1a078642c4aeeb00ca252c368675a6e637"></a>EVENT_INTRO_CORRUPTED_ATTACK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a1df7b747675a63ce25a10ff727974e6a" name="af60e00b78607064c5be6aa9397ea49c1a1df7b747675a63ce25a10ff727974e6a"></a>EVENT_INTRO_LEADER_SPELL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1ae7e54f24d177895d19ffd49b6b5d223b" name="af60e00b78607064c5be6aa9397ea49c1ae7e54f24d177895d19ffd49b6b5d223b"></a>EVENT_INTRO_TYRANNUS_LEAVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a8c3b60af080865c7ed37731c2873df3b" name="af60e00b78607064c5be6aa9397ea49c1a8c3b60af080865c7ed37731c2873df3b"></a>EVENT_INTRO_LEADER_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a791f6a1dd811d0311b15f30766f2adae" name="af60e00b78607064c5be6aa9397ea49c1a791f6a1dd811d0311b15f30766f2adae"></a>EVENT_INTRO_LEADER_4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945" name="af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945"></a>EVENT_NECROLYTE_SHADOW_BOLT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0" name="af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0"></a>EVENT_NECROLYTE_CONVERSION_BEAM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a5028505d6c26d32a0d2c8c0ed5a29037" name="af60e00b78607064c5be6aa9397ea49c1a5028505d6c26d32a0d2c8c0ed5a29037"></a>EVENT_FBS_SUMMON_SLAVES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a6cd553237f5031999febe2722e2a0857" name="af60e00b78607064c5be6aa9397ea49c1a6cd553237f5031999febe2722e2a0857"></a>EVENT_FBS_TYRANNUS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a67fe453c5050193a7accb00c368aa2e3" name="af60e00b78607064c5be6aa9397ea49c1a67fe453c5050193a7accb00c368aa2e3"></a>EVENT_FBS_GENERAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1aa320a11fabe12132ca7c7545e670f846" name="af60e00b78607064c5be6aa9397ea49c1aa320a11fabe12132ca7c7545e670f846"></a>EVENT_TYRANNUS_MOVE_WAIT_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1acba21d65665d864003bc5747e1b5e0cf" name="af60e00b78607064c5be6aa9397ea49c1acba21d65665d864003bc5747e1b5e0cf"></a>EVENT_TYRANNUS_FACE_WAIT_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a8f8e03e9d9a012ab3d38168e40b40431" name="af60e00b78607064c5be6aa9397ea49c1a8f8e03e9d9a012ab3d38168e40b40431"></a>EVENT_TYRANNUS_MOVE_WAIT_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1af8196a445027ed9088559658fdf5dd91" name="af60e00b78607064c5be6aa9397ea49c1af8196a445027ed9088559658fdf5dd91"></a>EVENT_TYRANNUS_FACE_WAIT_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1acaddca3bc6413abe7cd666754680a171" name="af60e00b78607064c5be6aa9397ea49c1acaddca3bc6413abe7cd666754680a171"></a>EVENT_TYRANNUS_TAKEOFF&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a3136909881967e6cd1b7ae5b7f6cf794" name="af60e00b78607064c5be6aa9397ea49c1a3136909881967e6cd1b7ae5b7f6cf794"></a>EVENT_TYRANNUS_MOVE_WAIT_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a6738a85ae3ca02475d0261c0db708bad" name="af60e00b78607064c5be6aa9397ea49c1a6738a85ae3ca02475d0261c0db708bad"></a>EVENT_AMBUSH_1_SUMMON_DEATHBRINGERS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a86216e20d3bce706c9dfe254b95c476d" name="af60e00b78607064c5be6aa9397ea49c1a86216e20d3bce706c9dfe254b95c476d"></a>EVENT_AMBUSH_1_DEATHBRINGER_1_ARRIVED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a7bbb73140fa5156b6301524767049cff" name="af60e00b78607064c5be6aa9397ea49c1a7bbb73140fa5156b6301524767049cff"></a>EVENT_AMBUSH_1_DEATHBRINGER_2_ARRIVED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a44396d584cf78e8a5c43d2cae0b27c7b" name="af60e00b78607064c5be6aa9397ea49c1a44396d584cf78e8a5c43d2cae0b27c7b"></a>EVENT_AMBUSH_1_SUMMON_WAVE_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a4926d62e54c5545a3c2b0096f624b6af" name="af60e00b78607064c5be6aa9397ea49c1a4926d62e54c5545a3c2b0096f624b6af"></a>EVENT_AMBUSH_1_SUMMON_WAVE_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1ac927fbe17c7bccdf71ef8585fb1710da" name="af60e00b78607064c5be6aa9397ea49c1ac927fbe17c7bccdf71ef8585fb1710da"></a>EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a257844cb799b8ba4f1eaeca34cc774f2" name="af60e00b78607064c5be6aa9397ea49c1a257844cb799b8ba4f1eaeca34cc774f2"></a>EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1abc2f50e0fe2b6b48eb44e61e4d02295a" name="af60e00b78607064c5be6aa9397ea49c1abc2f50e0fe2b6b48eb44e61e4d02295a"></a>EVENT_AMBUSH_2_SUMMON&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a39fcdfd046ff0762f4c34eb4f5f1ab02" name="af60e00b78607064c5be6aa9397ea49c1a39fcdfd046ff0762f4c34eb4f5f1ab02"></a>EVENT_GENERAL_SUMMON_SLAVES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a72006b90e92ab2fca935e51461bec494" name="af60e00b78607064c5be6aa9397ea49c1a72006b90e92ab2fca935e51461bec494"></a>EVENT_GENERAL_TRASH_TALK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a51f54ca72c0d0cd18afe90d352511c68" name="af60e00b78607064c5be6aa9397ea49c1a51f54ca72c0d0cd18afe90d352511c68"></a>EVENT_GENERAL_TYRANNUS_INTRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a57555d9658390c15d430c2a3231b177b" name="af60e00b78607064c5be6aa9397ea49c1a57555d9658390c15d430c2a3231b177b"></a>EVENT_GENERAL_START_FIGHT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1af6ab8ff2b3be2ded57fd55ecac77343c" name="af60e00b78607064c5be6aa9397ea49c1af6ab8ff2b3be2ded57fd55ecac77343c"></a>EVENT_GENERAL_OUTRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a3633ee7d2c61c608c9633382a6f514b2" name="af60e00b78607064c5be6aa9397ea49c1a3633ee7d2c61c608c9633382a6f514b2"></a>EVENT_GENERAL_SUMMON_FALLEN_WARRIOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a48b5266dc8be748cec404e638bc1f839" name="af60e00b78607064c5be6aa9397ea49c1a48b5266dc8be748cec404e638bc1f839"></a>EVENT_LEADER_OUTRO_SUMMON_SINDRAGOSA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a9d041c259994c581973b3ebdd63e291e" name="af60e00b78607064c5be6aa9397ea49c1a9d041c259994c581973b3ebdd63e291e"></a>EVENT_LEADER_OUTRO_GENERAL_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1ac5bc12a19465c1aa47d8100909e8ad1f" name="af60e00b78607064c5be6aa9397ea49c1ac5bc12a19465c1aa47d8100909e8ad1f"></a>EVENT_LEADER_OUTRO_LEADER_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1aaf4d378c53d1e6ba49b489c3e59e1cd2" name="af60e00b78607064c5be6aa9397ea49c1aaf4d378c53d1e6ba49b489c3e59e1cd2"></a>EVENT_LEADER_OUTRO_TELEPORT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a2374220c94409797c537e0ce64aeef42" name="af60e00b78607064c5be6aa9397ea49c1a2374220c94409797c537e0ce64aeef42"></a>EVENT_LEADER_OUTRO_FROST_BOMB&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a355ce190fb0d3999ecbc62505c6e399d" name="af60e00b78607064c5be6aa9397ea49c1a355ce190fb0d3999ecbc62505c6e399d"></a>EVENT_LEADER_OUTRO_SINDRAGOSA_LEAVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a1445f9871f21c9ed700c9f9bb75621e9" name="af60e00b78607064c5be6aa9397ea49c1a1445f9871f21c9ed700c9f9bb75621e9"></a>EVENT_LEADER_OUTRO_SINDRAGOSA_HIDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1aadd93a3b9b62fba14184eba00528fe89" name="af60e00b78607064c5be6aa9397ea49c1aadd93a3b9b62fba14184eba00528fe89"></a>EVENT_LEADER_OUTRO_LEADER_MOVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1ad90525ecd0753bf1f87aa14541f8a76c" name="af60e00b78607064c5be6aa9397ea49c1ad90525ecd0753bf1f87aa14541f8a76c"></a>EVENT_LEADER_OUTRO_FROST_BOMB_KILL&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   64</span>{</div>
+<div class="line"><span class="lineno">   65</span>    <span class="comment">// npc_pos_leader</span></div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad6db940dd138e9c4f2e54fd522be613d">EVENT_INTRO_SUMMON_CHAMPIONS</a> = 1,</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad566521b8cfc82581be0865c4a1a1ff6">EVENT_INTRO_TYRANNUS_1</a>,</div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ace109003a024ac5c21c3ab3fe159224d">EVENT_INTRO_TYRANNUS_2</a>,</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2542040fd440e78d343e3d733a4e5bd2">EVENT_INTRO_CHAMPIONS_ATTACK</a>,</div>
+<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69625f391e24062d696f08cdbcc9fe7d">EVENT_INTRO_LEADER_1</a>,</div>
+<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adfb1c5c179c56570e48121d7e4096245">EVENT_INTRO_TYRANNUS_3</a>,</div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1dfe816f3f21db725ab37f98042da01c">EVENT_INTRO_STRANGULATE</a>,</div>
+<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa9ed0f7366ab468052efebd14f4c3b03">EVENT_INTRO_NECROMANTIC_POWER</a>,</div>
+<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a618bd5beaa9a26dcf79d9d8c69f45fa8">EVENT_INTRO_KILL_CHAMPIONS</a>,</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab68350d603e570d632d0c7cec08c5d07">EVENT_INTRO_LEADER_2</a>,</div>
+<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a820cc745612071c7beae04ec11baaf4c">EVENT_INTRO_RAISE_DEAD</a>,</div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae772f6bbe5e5cf263ff6415c5ce75bb9">EVENT_INTRO_CORRUPT_CHAMPIONS</a>,</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a078642c4aeeb00ca252c368675a6e637">EVENT_INTRO_CORRUPTED_ATTACK</a>,</div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1df7b747675a63ce25a10ff727974e6a">EVENT_INTRO_LEADER_SPELL</a>,</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae7e54f24d177895d19ffd49b6b5d223b">EVENT_INTRO_TYRANNUS_LEAVE</a>,</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8c3b60af080865c7ed37731c2873df3b">EVENT_INTRO_LEADER_3</a>,</div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a791f6a1dd811d0311b15f30766f2adae">EVENT_INTRO_LEADER_4</a>,</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>    <span class="comment">// npc_pos_deathwhisper_necrolyte</span></div>
+<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945">EVENT_NECROLYTE_SHADOW_BOLT</a>,</div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0">EVENT_NECROLYTE_CONVERSION_BEAM</a>,</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>    <span class="comment">// npc_pos_after_first_boss</span></div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5028505d6c26d32a0d2c8c0ed5a29037">EVENT_FBS_SUMMON_SLAVES</a>,</div>
+<div class="line"><span class="lineno">   90</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6cd553237f5031999febe2722e2a0857">EVENT_FBS_TYRANNUS</a>,</div>
+<div class="line"><span class="lineno">   91</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a67fe453c5050193a7accb00c368aa2e3">EVENT_FBS_GENERAL</a>,</div>
+<div class="line"><span class="lineno">   92</span> </div>
+<div class="line"><span class="lineno">   93</span>    <span class="comment">// npc_pos_tyrannus_events</span></div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa320a11fabe12132ca7c7545e670f846">EVENT_TYRANNUS_MOVE_WAIT_1</a>,</div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acba21d65665d864003bc5747e1b5e0cf">EVENT_TYRANNUS_FACE_WAIT_1</a>,</div>
+<div class="line"><span class="lineno">   96</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8f8e03e9d9a012ab3d38168e40b40431">EVENT_TYRANNUS_MOVE_WAIT_2</a>,</div>
+<div class="line"><span class="lineno">   97</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af8196a445027ed9088559658fdf5dd91">EVENT_TYRANNUS_FACE_WAIT_2</a>,</div>
+<div class="line"><span class="lineno">   98</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acaddca3bc6413abe7cd666754680a171">EVENT_TYRANNUS_TAKEOFF</a>,</div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3136909881967e6cd1b7ae5b7f6cf794">EVENT_TYRANNUS_MOVE_WAIT_3</a>,</div>
+<div class="line"><span class="lineno">  100</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6738a85ae3ca02475d0261c0db708bad">EVENT_AMBUSH_1_SUMMON_DEATHBRINGERS</a>,</div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a86216e20d3bce706c9dfe254b95c476d">EVENT_AMBUSH_1_DEATHBRINGER_1_ARRIVED</a>,</div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7bbb73140fa5156b6301524767049cff">EVENT_AMBUSH_1_DEATHBRINGER_2_ARRIVED</a>,</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a44396d584cf78e8a5c43d2cae0b27c7b">EVENT_AMBUSH_1_SUMMON_WAVE_1</a>,</div>
+<div class="line"><span class="lineno">  104</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4926d62e54c5545a3c2b0096f624b6af">EVENT_AMBUSH_1_SUMMON_WAVE_2</a>,</div>
+<div class="line"><span class="lineno">  105</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac927fbe17c7bccdf71ef8585fb1710da">EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_1</a>,</div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a257844cb799b8ba4f1eaeca34cc774f2">EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_2</a>,</div>
+<div class="line"><span class="lineno">  107</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abc2f50e0fe2b6b48eb44e61e4d02295a">EVENT_AMBUSH_2_SUMMON</a>,</div>
+<div class="line"><span class="lineno">  108</span> </div>
+<div class="line"><span class="lineno">  109</span>    <span class="comment">// npc_pos_martin_or_gorkun_second</span></div>
+<div class="line"><span class="lineno">  110</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39fcdfd046ff0762f4c34eb4f5f1ab02">EVENT_GENERAL_SUMMON_SLAVES</a>,</div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a72006b90e92ab2fca935e51461bec494">EVENT_GENERAL_TRASH_TALK</a>,</div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a51f54ca72c0d0cd18afe90d352511c68">EVENT_GENERAL_TYRANNUS_INTRO</a>,</div>
+<div class="line"><span class="lineno">  113</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a57555d9658390c15d430c2a3231b177b">EVENT_GENERAL_START_FIGHT</a>,</div>
+<div class="line"><span class="lineno">  114</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6ab8ff2b3be2ded57fd55ecac77343c">EVENT_GENERAL_OUTRO</a>,</div>
+<div class="line"><span class="lineno">  115</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3633ee7d2c61c608c9633382a6f514b2">EVENT_GENERAL_SUMMON_FALLEN_WARRIOR</a>,</div>
+<div class="line"><span class="lineno">  116</span> </div>
+<div class="line"><span class="lineno">  117</span>    <span class="comment">// npc_pos_leader_second</span></div>
+<div class="line"><span class="lineno">  118</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48b5266dc8be748cec404e638bc1f839">EVENT_LEADER_OUTRO_SUMMON_SINDRAGOSA</a>,</div>
+<div class="line"><span class="lineno">  119</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9d041c259994c581973b3ebdd63e291e">EVENT_LEADER_OUTRO_GENERAL_2</a>,</div>
+<div class="line"><span class="lineno">  120</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac5bc12a19465c1aa47d8100909e8ad1f">EVENT_LEADER_OUTRO_LEADER_1</a>,</div>
+<div class="line"><span class="lineno">  121</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaf4d378c53d1e6ba49b489c3e59e1cd2">EVENT_LEADER_OUTRO_TELEPORT</a>,</div>
+<div class="line"><span class="lineno">  122</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2374220c94409797c537e0ce64aeef42">EVENT_LEADER_OUTRO_FROST_BOMB</a>,</div>
+<div class="line"><span class="lineno">  123</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a355ce190fb0d3999ecbc62505c6e399d">EVENT_LEADER_OUTRO_SINDRAGOSA_LEAVE</a>,</div>
+<div class="line"><span class="lineno">  124</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1445f9871f21c9ed700c9f9bb75621e9">EVENT_LEADER_OUTRO_SINDRAGOSA_HIDE</a>,</div>
+<div class="line"><span class="lineno">  125</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aadd93a3b9b62fba14184eba00528fe89">EVENT_LEADER_OUTRO_LEADER_MOVE</a>,</div>
+<div class="line"><span class="lineno">  126</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad90525ecd0753bf1f87aa14541f8a76c">EVENT_LEADER_OUTRO_FROST_BOMB_KILL</a>,</div>
+<div class="line"><span class="lineno">  127</span>};</div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a078642c4aeeb00ca252c368675a6e637"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a078642c4aeeb00ca252c368675a6e637">EVENT_INTRO_CORRUPTED_ATTACK</a></div><div class="ttdeci">@ EVENT_INTRO_CORRUPTED_ATTACK</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:78</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a1445f9871f21c9ed700c9f9bb75621e9"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1445f9871f21c9ed700c9f9bb75621e9">EVENT_LEADER_OUTRO_SINDRAGOSA_HIDE</a></div><div class="ttdeci">@ EVENT_LEADER_OUTRO_SINDRAGOSA_HIDE</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:124</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a1df7b747675a63ce25a10ff727974e6a"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1df7b747675a63ce25a10ff727974e6a">EVENT_INTRO_LEADER_SPELL</a></div><div class="ttdeci">@ EVENT_INTRO_LEADER_SPELL</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:79</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a1dfe816f3f21db725ab37f98042da01c"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1dfe816f3f21db725ab37f98042da01c">EVENT_INTRO_STRANGULATE</a></div><div class="ttdeci">@ EVENT_INTRO_STRANGULATE</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:72</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a2374220c94409797c537e0ce64aeef42"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2374220c94409797c537e0ce64aeef42">EVENT_LEADER_OUTRO_FROST_BOMB</a></div><div class="ttdeci">@ EVENT_LEADER_OUTRO_FROST_BOMB</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:122</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a2542040fd440e78d343e3d733a4e5bd2"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2542040fd440e78d343e3d733a4e5bd2">EVENT_INTRO_CHAMPIONS_ATTACK</a></div><div class="ttdeci">@ EVENT_INTRO_CHAMPIONS_ATTACK</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:69</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a257844cb799b8ba4f1eaeca34cc774f2"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a257844cb799b8ba4f1eaeca34cc774f2">EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_2</a></div><div class="ttdeci">@ EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_2</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:106</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a3136909881967e6cd1b7ae5b7f6cf794"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3136909881967e6cd1b7ae5b7f6cf794">EVENT_TYRANNUS_MOVE_WAIT_3</a></div><div class="ttdeci">@ EVENT_TYRANNUS_MOVE_WAIT_3</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:99</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a355ce190fb0d3999ecbc62505c6e399d"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a355ce190fb0d3999ecbc62505c6e399d">EVENT_LEADER_OUTRO_SINDRAGOSA_LEAVE</a></div><div class="ttdeci">@ EVENT_LEADER_OUTRO_SINDRAGOSA_LEAVE</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:123</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a3633ee7d2c61c608c9633382a6f514b2"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3633ee7d2c61c608c9633382a6f514b2">EVENT_GENERAL_SUMMON_FALLEN_WARRIOR</a></div><div class="ttdeci">@ EVENT_GENERAL_SUMMON_FALLEN_WARRIOR</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:115</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a39fcdfd046ff0762f4c34eb4f5f1ab02"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39fcdfd046ff0762f4c34eb4f5f1ab02">EVENT_GENERAL_SUMMON_SLAVES</a></div><div class="ttdeci">@ EVENT_GENERAL_SUMMON_SLAVES</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:110</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a44396d584cf78e8a5c43d2cae0b27c7b"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a44396d584cf78e8a5c43d2cae0b27c7b">EVENT_AMBUSH_1_SUMMON_WAVE_1</a></div><div class="ttdeci">@ EVENT_AMBUSH_1_SUMMON_WAVE_1</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:103</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a48b5266dc8be748cec404e638bc1f839"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48b5266dc8be748cec404e638bc1f839">EVENT_LEADER_OUTRO_SUMMON_SINDRAGOSA</a></div><div class="ttdeci">@ EVENT_LEADER_OUTRO_SUMMON_SINDRAGOSA</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:118</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a4926d62e54c5545a3c2b0096f624b6af"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4926d62e54c5545a3c2b0096f624b6af">EVENT_AMBUSH_1_SUMMON_WAVE_2</a></div><div class="ttdeci">@ EVENT_AMBUSH_1_SUMMON_WAVE_2</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:104</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a5028505d6c26d32a0d2c8c0ed5a29037"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5028505d6c26d32a0d2c8c0ed5a29037">EVENT_FBS_SUMMON_SLAVES</a></div><div class="ttdeci">@ EVENT_FBS_SUMMON_SLAVES</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:89</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a51f54ca72c0d0cd18afe90d352511c68"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a51f54ca72c0d0cd18afe90d352511c68">EVENT_GENERAL_TYRANNUS_INTRO</a></div><div class="ttdeci">@ EVENT_GENERAL_TYRANNUS_INTRO</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:112</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a57555d9658390c15d430c2a3231b177b"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a57555d9658390c15d430c2a3231b177b">EVENT_GENERAL_START_FIGHT</a></div><div class="ttdeci">@ EVENT_GENERAL_START_FIGHT</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:113</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5bcee65c9c5c0477a8c8b6038469e945">EVENT_NECROLYTE_SHADOW_BOLT</a></div><div class="ttdeci">@ EVENT_NECROLYTE_SHADOW_BOLT</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:85</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a618bd5beaa9a26dcf79d9d8c69f45fa8"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a618bd5beaa9a26dcf79d9d8c69f45fa8">EVENT_INTRO_KILL_CHAMPIONS</a></div><div class="ttdeci">@ EVENT_INTRO_KILL_CHAMPIONS</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:74</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a6738a85ae3ca02475d0261c0db708bad"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6738a85ae3ca02475d0261c0db708bad">EVENT_AMBUSH_1_SUMMON_DEATHBRINGERS</a></div><div class="ttdeci">@ EVENT_AMBUSH_1_SUMMON_DEATHBRINGERS</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:100</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a67fe453c5050193a7accb00c368aa2e3"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a67fe453c5050193a7accb00c368aa2e3">EVENT_FBS_GENERAL</a></div><div class="ttdeci">@ EVENT_FBS_GENERAL</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:91</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a69625f391e24062d696f08cdbcc9fe7d"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a69625f391e24062d696f08cdbcc9fe7d">EVENT_INTRO_LEADER_1</a></div><div class="ttdeci">@ EVENT_INTRO_LEADER_1</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:70</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a6cd553237f5031999febe2722e2a0857"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6cd553237f5031999febe2722e2a0857">EVENT_FBS_TYRANNUS</a></div><div class="ttdeci">@ EVENT_FBS_TYRANNUS</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:90</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a72006b90e92ab2fca935e51461bec494"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a72006b90e92ab2fca935e51461bec494">EVENT_GENERAL_TRASH_TALK</a></div><div class="ttdeci">@ EVENT_GENERAL_TRASH_TALK</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:111</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a791f6a1dd811d0311b15f30766f2adae"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a791f6a1dd811d0311b15f30766f2adae">EVENT_INTRO_LEADER_4</a></div><div class="ttdeci">@ EVENT_INTRO_LEADER_4</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:82</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a7bbb73140fa5156b6301524767049cff"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7bbb73140fa5156b6301524767049cff">EVENT_AMBUSH_1_DEATHBRINGER_2_ARRIVED</a></div><div class="ttdeci">@ EVENT_AMBUSH_1_DEATHBRINGER_2_ARRIVED</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:102</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7e2c7ec4ab77697f6fce92b2f3ea61a0">EVENT_NECROLYTE_CONVERSION_BEAM</a></div><div class="ttdeci">@ EVENT_NECROLYTE_CONVERSION_BEAM</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:86</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a820cc745612071c7beae04ec11baaf4c"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a820cc745612071c7beae04ec11baaf4c">EVENT_INTRO_RAISE_DEAD</a></div><div class="ttdeci">@ EVENT_INTRO_RAISE_DEAD</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:76</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a86216e20d3bce706c9dfe254b95c476d"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a86216e20d3bce706c9dfe254b95c476d">EVENT_AMBUSH_1_DEATHBRINGER_1_ARRIVED</a></div><div class="ttdeci">@ EVENT_AMBUSH_1_DEATHBRINGER_1_ARRIVED</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:101</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a8c3b60af080865c7ed37731c2873df3b"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8c3b60af080865c7ed37731c2873df3b">EVENT_INTRO_LEADER_3</a></div><div class="ttdeci">@ EVENT_INTRO_LEADER_3</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:81</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a8f8e03e9d9a012ab3d38168e40b40431"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8f8e03e9d9a012ab3d38168e40b40431">EVENT_TYRANNUS_MOVE_WAIT_2</a></div><div class="ttdeci">@ EVENT_TYRANNUS_MOVE_WAIT_2</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:96</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a9d041c259994c581973b3ebdd63e291e"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9d041c259994c581973b3ebdd63e291e">EVENT_LEADER_OUTRO_GENERAL_2</a></div><div class="ttdeci">@ EVENT_LEADER_OUTRO_GENERAL_2</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:119</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1aa320a11fabe12132ca7c7545e670f846"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa320a11fabe12132ca7c7545e670f846">EVENT_TYRANNUS_MOVE_WAIT_1</a></div><div class="ttdeci">@ EVENT_TYRANNUS_MOVE_WAIT_1</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:94</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1aa9ed0f7366ab468052efebd14f4c3b03"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa9ed0f7366ab468052efebd14f4c3b03">EVENT_INTRO_NECROMANTIC_POWER</a></div><div class="ttdeci">@ EVENT_INTRO_NECROMANTIC_POWER</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:73</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1aadd93a3b9b62fba14184eba00528fe89"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aadd93a3b9b62fba14184eba00528fe89">EVENT_LEADER_OUTRO_LEADER_MOVE</a></div><div class="ttdeci">@ EVENT_LEADER_OUTRO_LEADER_MOVE</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:125</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1aaf4d378c53d1e6ba49b489c3e59e1cd2"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaf4d378c53d1e6ba49b489c3e59e1cd2">EVENT_LEADER_OUTRO_TELEPORT</a></div><div class="ttdeci">@ EVENT_LEADER_OUTRO_TELEPORT</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:121</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1ab68350d603e570d632d0c7cec08c5d07"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab68350d603e570d632d0c7cec08c5d07">EVENT_INTRO_LEADER_2</a></div><div class="ttdeci">@ EVENT_INTRO_LEADER_2</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:75</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1abc2f50e0fe2b6b48eb44e61e4d02295a"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abc2f50e0fe2b6b48eb44e61e4d02295a">EVENT_AMBUSH_2_SUMMON</a></div><div class="ttdeci">@ EVENT_AMBUSH_2_SUMMON</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:107</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1ac5bc12a19465c1aa47d8100909e8ad1f"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac5bc12a19465c1aa47d8100909e8ad1f">EVENT_LEADER_OUTRO_LEADER_1</a></div><div class="ttdeci">@ EVENT_LEADER_OUTRO_LEADER_1</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:120</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1ac927fbe17c7bccdf71ef8585fb1710da"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac927fbe17c7bccdf71ef8585fb1710da">EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_1</a></div><div class="ttdeci">@ EVENT_AMBUSH_1_ACTIVATE_DEATHBRINGER_1</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:105</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1acaddca3bc6413abe7cd666754680a171"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acaddca3bc6413abe7cd666754680a171">EVENT_TYRANNUS_TAKEOFF</a></div><div class="ttdeci">@ EVENT_TYRANNUS_TAKEOFF</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:98</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1acba21d65665d864003bc5747e1b5e0cf"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acba21d65665d864003bc5747e1b5e0cf">EVENT_TYRANNUS_FACE_WAIT_1</a></div><div class="ttdeci">@ EVENT_TYRANNUS_FACE_WAIT_1</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:95</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1ace109003a024ac5c21c3ab3fe159224d"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ace109003a024ac5c21c3ab3fe159224d">EVENT_INTRO_TYRANNUS_2</a></div><div class="ttdeci">@ EVENT_INTRO_TYRANNUS_2</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:68</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1ad566521b8cfc82581be0865c4a1a1ff6"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad566521b8cfc82581be0865c4a1a1ff6">EVENT_INTRO_TYRANNUS_1</a></div><div class="ttdeci">@ EVENT_INTRO_TYRANNUS_1</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:67</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1ad6db940dd138e9c4f2e54fd522be613d"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad6db940dd138e9c4f2e54fd522be613d">EVENT_INTRO_SUMMON_CHAMPIONS</a></div><div class="ttdeci">@ EVENT_INTRO_SUMMON_CHAMPIONS</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:66</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1ad90525ecd0753bf1f87aa14541f8a76c"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad90525ecd0753bf1f87aa14541f8a76c">EVENT_LEADER_OUTRO_FROST_BOMB_KILL</a></div><div class="ttdeci">@ EVENT_LEADER_OUTRO_FROST_BOMB_KILL</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:126</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1adfb1c5c179c56570e48121d7e4096245"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adfb1c5c179c56570e48121d7e4096245">EVENT_INTRO_TYRANNUS_3</a></div><div class="ttdeci">@ EVENT_INTRO_TYRANNUS_3</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:71</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1ae772f6bbe5e5cf263ff6415c5ce75bb9"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae772f6bbe5e5cf263ff6415c5ce75bb9">EVENT_INTRO_CORRUPT_CHAMPIONS</a></div><div class="ttdeci">@ EVENT_INTRO_CORRUPT_CHAMPIONS</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:77</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1ae7e54f24d177895d19ffd49b6b5d223b"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae7e54f24d177895d19ffd49b6b5d223b">EVENT_INTRO_TYRANNUS_LEAVE</a></div><div class="ttdeci">@ EVENT_INTRO_TYRANNUS_LEAVE</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:80</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1af6ab8ff2b3be2ded57fd55ecac77343c"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af6ab8ff2b3be2ded57fd55ecac77343c">EVENT_GENERAL_OUTRO</a></div><div class="ttdeci">@ EVENT_GENERAL_OUTRO</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:114</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_af60e00b78607064c5be6aa9397ea49c1af8196a445027ed9088559658fdf5dd91"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af8196a445027ed9088559658fdf5dd91">EVENT_TYRANNUS_FACE_WAIT_2</a></div><div class="ttdeci">@ EVENT_TYRANNUS_FACE_WAIT_2</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:97</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ad79b9efcb51c710a9e3058177ac3856f" name="ad79b9efcb51c710a9e3058177ac3856f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad79b9efcb51c710a9e3058177ac3856f">&#9670;&#160;</a></span>Models</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856f">Models</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad79b9efcb51c710a9e3058177ac3856fa116fbb11cfd55f4f743ab6e6b1e169c4" name="ad79b9efcb51c710a9e3058177ac3856fa116fbb11cfd55f4f743ab6e6b1e169c4"></a>MODEL_INVISIBLE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa116fbb11cfd55f4f743ab6e6b1e169c4">MODEL_INVISIBLE</a>                     = 11686,</div>
+<div class="line"><span class="lineno">   55</span>};</div>
+<div class="ttc" id="apit__of__saron_8cpp_html_ad79b9efcb51c710a9e3058177ac3856fa116fbb11cfd55f4f743ab6e6b1e169c4"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa116fbb11cfd55f4f743ab6e6b1e169c4">MODEL_INVISIBLE</a></div><div class="ttdeci">@ MODEL_INVISIBLE</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:54</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a7833023af5dd1196e6ec1567d0102cfd" name="a7833023af5dd1196e6ec1567d0102cfd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7833023af5dd1196e6ec1567d0102cfd">&#9670;&#160;</a></span>MovePoints</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd">MovePoints</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7833023af5dd1196e6ec1567d0102cfda6b3166c0bc8ee13e77af8442eb3f5446" name="a7833023af5dd1196e6ec1567d0102cfda6b3166c0bc8ee13e77af8442eb3f5446"></a>POINT_NECROLYTE_POSITION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7833023af5dd1196e6ec1567d0102cfda69f184e8d9a7c72d8fc8c52f86e14812" name="a7833023af5dd1196e6ec1567d0102cfda69f184e8d9a7c72d8fc8c52f86e14812"></a>POINT_FBS_GARFROST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7833023af5dd1196e6ec1567d0102cfdae042265e58f4480ddfae1899c00204a4" name="a7833023af5dd1196e6ec1567d0102cfdae042265e58f4480ddfae1899c00204a4"></a>POINT_GENERAL_CENTER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7833023af5dd1196e6ec1567d0102cfda2c56e98fa06b3758770b4cbead9838ec" name="a7833023af5dd1196e6ec1567d0102cfda2c56e98fa06b3758770b4cbead9838ec"></a>POINT_LEADER_OUTRO_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7833023af5dd1196e6ec1567d0102cfdab5c86930908c06db902bd38d6421ea87" name="a7833023af5dd1196e6ec1567d0102cfdab5c86930908c06db902bd38d6421ea87"></a>POINT_JAINA_OUTRO_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7833023af5dd1196e6ec1567d0102cfdadbe2a52d49a40112268db18b28a37114" name="a7833023af5dd1196e6ec1567d0102cfdadbe2a52d49a40112268db18b28a37114"></a>POINT_OPEN_PORTCULLIS&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  130</span>{</div>
+<div class="line"><span class="lineno">  131</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda6b3166c0bc8ee13e77af8442eb3f5446">POINT_NECROLYTE_POSITION</a>            = 1,</div>
+<div class="line"><span class="lineno">  132</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda69f184e8d9a7c72d8fc8c52f86e14812">POINT_FBS_GARFROST</a>                  = 1,</div>
+<div class="line"><span class="lineno">  133</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdae042265e58f4480ddfae1899c00204a4">POINT_GENERAL_CENTER</a>                = 2,</div>
+<div class="line"><span class="lineno">  134</span> </div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">// Waypoint ids of the PATH_JAINA_OUTRO and PATH_SYLVANAS_OUTRO paths</span></div>
+<div class="line"><span class="lineno">  136</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda2c56e98fa06b3758770b4cbead9838ec">POINT_LEADER_OUTRO_2</a>                = 1,</div>
+<div class="line"><span class="lineno">  137</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdab5c86930908c06db902bd38d6421ea87">POINT_JAINA_OUTRO_3</a>                 = 2,</div>
+<div class="line"><span class="lineno">  138</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdadbe2a52d49a40112268db18b28a37114">POINT_OPEN_PORTCULLIS</a>               = 7,</div>
+<div class="line"><span class="lineno">  139</span>};</div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a7833023af5dd1196e6ec1567d0102cfda2c56e98fa06b3758770b4cbead9838ec"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda2c56e98fa06b3758770b4cbead9838ec">POINT_LEADER_OUTRO_2</a></div><div class="ttdeci">@ POINT_LEADER_OUTRO_2</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:136</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a7833023af5dd1196e6ec1567d0102cfda69f184e8d9a7c72d8fc8c52f86e14812"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda69f184e8d9a7c72d8fc8c52f86e14812">POINT_FBS_GARFROST</a></div><div class="ttdeci">@ POINT_FBS_GARFROST</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:132</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a7833023af5dd1196e6ec1567d0102cfda6b3166c0bc8ee13e77af8442eb3f5446"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda6b3166c0bc8ee13e77af8442eb3f5446">POINT_NECROLYTE_POSITION</a></div><div class="ttdeci">@ POINT_NECROLYTE_POSITION</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:131</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a7833023af5dd1196e6ec1567d0102cfdab5c86930908c06db902bd38d6421ea87"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdab5c86930908c06db902bd38d6421ea87">POINT_JAINA_OUTRO_3</a></div><div class="ttdeci">@ POINT_JAINA_OUTRO_3</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:137</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a7833023af5dd1196e6ec1567d0102cfdadbe2a52d49a40112268db18b28a37114"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdadbe2a52d49a40112268db18b28a37114">POINT_OPEN_PORTCULLIS</a></div><div class="ttdeci">@ POINT_OPEN_PORTCULLIS</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:138</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a7833023af5dd1196e6ec1567d0102cfdae042265e58f4480ddfae1899c00204a4"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdae042265e58f4480ddfae1899c00204a4">POINT_GENERAL_CENTER</a></div><div class="ttdeci">@ POINT_GENERAL_CENTER</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:133</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a5bd342133be8c2137b831460acc9298c" name="a5bd342133be8c2137b831460acc9298c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5bd342133be8c2137b831460acc9298c">&#9670;&#160;</a></span>Spells</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d0/d91/BattlegroundIC_8h.html#a5bd342133be8c2137b831460acc9298c">Spells</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298caa7d3acdb8623b6cad2a8777c62c93827" name="a5bd342133be8c2137b831460acc9298caa7d3acdb8623b6cad2a8777c62c93827"></a>SPELL_RAISE_DEAD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298caad9afca314b07eacc6368e6e7555f8d5" name="a5bd342133be8c2137b831460acc9298caad9afca314b07eacc6368e6e7555f8d5"></a>SPELL_EMPOWERED_BLIZZARD_AURA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cab466d53fed70cfde01f9b48a6bf13fab" name="a5bd342133be8c2137b831460acc9298cab466d53fed70cfde01f9b48a6bf13fab"></a>SPELL_EMPOWERED_BLIZZARD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca3b10dddf78f89654d22baafca518d8e7" name="a5bd342133be8c2137b831460acc9298ca3b10dddf78f89654d22baafca518d8e7"></a>SPELL_SHRIEK_OF_THE_HIGHBORNE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cac7138c3b5a7250d35e73359c3d5e2987" name="a5bd342133be8c2137b831460acc9298cac7138c3b5a7250d35e73359c3d5e2987"></a>SPELL_MULTI_SHOT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca30af6933d729fa21b1dcffd4f112fb9b" name="a5bd342133be8c2137b831460acc9298ca30af6933d729fa21b1dcffd4f112fb9b"></a>SPELL_ICE_LANCE_VOLLEY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca4dca26c9daf646e7852a83b4ddd55e9b" name="a5bd342133be8c2137b831460acc9298ca4dca26c9daf646e7852a83b4ddd55e9b"></a>SPELL_NECROLYTE_SHADOW_BOLT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cac9896927369edd6cfd101bfcbe269157" name="a5bd342133be8c2137b831460acc9298cac9896927369edd6cfd101bfcbe269157"></a>SPELL_CONVERSION_BEAM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca328f58439357786e2ce171445a1d05dc" name="a5bd342133be8c2137b831460acc9298ca328f58439357786e2ce171445a1d05dc"></a>SPELL_SUMMON_UNDEAD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca52690c0700592d3cbc5fee5730c61e8f" name="a5bd342133be8c2137b831460acc9298ca52690c0700592d3cbc5fee5730c61e8f"></a>SPELL_ICICLE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca3640d249cecb5222b36071ccbbfa336e" name="a5bd342133be8c2137b831460acc9298ca3640d249cecb5222b36071ccbbfa336e"></a>SPELL_ICICLE_DUMMY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca7691568a8f0ef8305c745f71a5ec0f5d" name="a5bd342133be8c2137b831460acc9298ca7691568a8f0ef8305c745f71a5ec0f5d"></a>SPELL_ICE_SHARDS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cad899542a56c00266a0318fc9a67167d2" name="a5bd342133be8c2137b831460acc9298cad899542a56c00266a0318fc9a67167d2"></a>SPELL_ICE_SHARDS_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca93db2eec2c376cdd30f19073903d05b3" name="a5bd342133be8c2137b831460acc9298ca93db2eec2c376cdd30f19073903d05b3"></a>SPELL_BLIGHT&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298caa7d3acdb8623b6cad2a8777c62c93827">SPELL_RAISE_DEAD</a>                    = 69350,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298caad9afca314b07eacc6368e6e7555f8d5">SPELL_EMPOWERED_BLIZZARD_AURA</a>       = 70132,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cab466d53fed70cfde01f9b48a6bf13fab">SPELL_EMPOWERED_BLIZZARD</a>            = 70131,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b10dddf78f89654d22baafca518d8e7">SPELL_SHRIEK_OF_THE_HIGHBORNE</a>       = 59514,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cac7138c3b5a7250d35e73359c3d5e2987">SPELL_MULTI_SHOT</a>                    = 70513,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca30af6933d729fa21b1dcffd4f112fb9b">SPELL_ICE_LANCE_VOLLEY</a>              = 70464,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca26c9daf646e7852a83b4ddd55e9b">SPELL_NECROLYTE_SHADOW_BOLT</a>         = 69577,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cac9896927369edd6cfd101bfcbe269157">SPELL_CONVERSION_BEAM</a>               = 69578,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca328f58439357786e2ce171445a1d05dc">SPELL_SUMMON_UNDEAD</a>                 = 69516,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca52690c0700592d3cbc5fee5730c61e8f">SPELL_ICICLE</a>                        = 69426,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca3640d249cecb5222b36071ccbbfa336e">SPELL_ICICLE_DUMMY</a>                  = 69428,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca7691568a8f0ef8305c745f71a5ec0f5d">SPELL_ICE_SHARDS</a>                    = 69425,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cad899542a56c00266a0318fc9a67167d2">SPELL_ICE_SHARDS_H</a>                  = 70827,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca93db2eec2c376cdd30f19073903d05b3">SPELL_BLIGHT</a>                        = 69604,</div>
+<div class="line"><span class="lineno">   45</span>};</div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298ca30af6933d729fa21b1dcffd4f112fb9b"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca30af6933d729fa21b1dcffd4f112fb9b">SPELL_ICE_LANCE_VOLLEY</a></div><div class="ttdeci">@ SPELL_ICE_LANCE_VOLLEY</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:36</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298ca328f58439357786e2ce171445a1d05dc"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca328f58439357786e2ce171445a1d05dc">SPELL_SUMMON_UNDEAD</a></div><div class="ttdeci">@ SPELL_SUMMON_UNDEAD</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:39</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298ca3640d249cecb5222b36071ccbbfa336e"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca3640d249cecb5222b36071ccbbfa336e">SPELL_ICICLE_DUMMY</a></div><div class="ttdeci">@ SPELL_ICICLE_DUMMY</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:41</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298ca3b10dddf78f89654d22baafca518d8e7"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b10dddf78f89654d22baafca518d8e7">SPELL_SHRIEK_OF_THE_HIGHBORNE</a></div><div class="ttdeci">@ SPELL_SHRIEK_OF_THE_HIGHBORNE</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:34</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298ca4dca26c9daf646e7852a83b4ddd55e9b"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca26c9daf646e7852a83b4ddd55e9b">SPELL_NECROLYTE_SHADOW_BOLT</a></div><div class="ttdeci">@ SPELL_NECROLYTE_SHADOW_BOLT</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:37</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298ca52690c0700592d3cbc5fee5730c61e8f"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca52690c0700592d3cbc5fee5730c61e8f">SPELL_ICICLE</a></div><div class="ttdeci">@ SPELL_ICICLE</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:40</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298ca7691568a8f0ef8305c745f71a5ec0f5d"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca7691568a8f0ef8305c745f71a5ec0f5d">SPELL_ICE_SHARDS</a></div><div class="ttdeci">@ SPELL_ICE_SHARDS</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:42</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298ca93db2eec2c376cdd30f19073903d05b3"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298ca93db2eec2c376cdd30f19073903d05b3">SPELL_BLIGHT</a></div><div class="ttdeci">@ SPELL_BLIGHT</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:44</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298caa7d3acdb8623b6cad2a8777c62c93827"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298caa7d3acdb8623b6cad2a8777c62c93827">SPELL_RAISE_DEAD</a></div><div class="ttdeci">@ SPELL_RAISE_DEAD</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:31</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298caad9afca314b07eacc6368e6e7555f8d5"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298caad9afca314b07eacc6368e6e7555f8d5">SPELL_EMPOWERED_BLIZZARD_AURA</a></div><div class="ttdeci">@ SPELL_EMPOWERED_BLIZZARD_AURA</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:32</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298cab466d53fed70cfde01f9b48a6bf13fab"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cab466d53fed70cfde01f9b48a6bf13fab">SPELL_EMPOWERED_BLIZZARD</a></div><div class="ttdeci">@ SPELL_EMPOWERED_BLIZZARD</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:33</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298cac7138c3b5a7250d35e73359c3d5e2987"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cac7138c3b5a7250d35e73359c3d5e2987">SPELL_MULTI_SHOT</a></div><div class="ttdeci">@ SPELL_MULTI_SHOT</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:35</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298cac9896927369edd6cfd101bfcbe269157"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cac9896927369edd6cfd101bfcbe269157">SPELL_CONVERSION_BEAM</a></div><div class="ttdeci">@ SPELL_CONVERSION_BEAM</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:38</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a5bd342133be8c2137b831460acc9298cad899542a56c00266a0318fc9a67167d2"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a5bd342133be8c2137b831460acc9298cad899542a56c00266a0318fc9a67167d2">SPELL_ICE_SHARDS_H</a></div><div class="ttdeci">@ SPELL_ICE_SHARDS_H</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:43</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aa80bce1d0ea05213c0d6c327126caf31" name="aa80bce1d0ea05213c0d6c327126caf31"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa80bce1d0ea05213c0d6c327126caf31">&#9670;&#160;</a></span>Texts</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dd/d7f/boss__mor__grayhoof_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31">Texts</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa80bce1d0ea05213c0d6c327126caf31a399b2d61ecff76de879568cbe40ff5f0" name="aa80bce1d0ea05213c0d6c327126caf31a399b2d61ecff76de879568cbe40ff5f0"></a>SAY_SLAVE_FREED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a399b2d61ecff76de879568cbe40ff5f0">SAY_SLAVE_FREED</a>                     = 0,</div>
+<div class="line"><span class="lineno">   50</span>};</div>
+<div class="ttc" id="apit__of__saron_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a399b2d61ecff76de879568cbe40ff5f0"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a399b2d61ecff76de879568cbe40ff5f0">SAY_SLAVE_FREED</a></div><div class="ttdeci">@ SAY_SLAVE_FREED</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:49</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a544fb441d07dce4d7706c70025f79224" name="a544fb441d07dce4d7706c70025f79224"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a544fb441d07dce4d7706c70025f79224">&#9670;&#160;</a></span>TyrannusEventDataTypes</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224">TyrannusEventDataTypes</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a544fb441d07dce4d7706c70025f79224af614107eabc3762bb05ce585366fe3ce" name="a544fb441d07dce4d7706c70025f79224af614107eabc3762bb05ce585366fe3ce"></a>DATA_AREATRIGGER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a544fb441d07dce4d7706c70025f79224ac5c034758e9dad682533bedb21294034" name="a544fb441d07dce4d7706c70025f79224ac5c034758e9dad682533bedb21294034"></a>DATA_TRASH_KILLED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  143</span>{</div>
+<div class="line"><span class="lineno">  144</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224af614107eabc3762bb05ce585366fe3ce">DATA_AREATRIGGER</a>                    = 1,</div>
+<div class="line"><span class="lineno">  145</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224ac5c034758e9dad682533bedb21294034">DATA_TRASH_KILLED</a>                   = 2,</div>
+<div class="line"><span class="lineno">  146</span>};</div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a544fb441d07dce4d7706c70025f79224ac5c034758e9dad682533bedb21294034"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224ac5c034758e9dad682533bedb21294034">DATA_TRASH_KILLED</a></div><div class="ttdeci">@ DATA_TRASH_KILLED</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:145</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_a544fb441d07dce4d7706c70025f79224af614107eabc3762bb05ce585366fe3ce"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#a544fb441d07dce4d7706c70025f79224af614107eabc3762bb05ce585366fe3ce">DATA_AREATRIGGER</a></div><div class="ttdeci">@ DATA_AREATRIGGER</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:144</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="affef3c36ff24968ce85c858b855212b9" name="affef3c36ff24968ce85c858b855212b9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#affef3c36ff24968ce85c858b855212b9">&#9670;&#160;</a></span>TyrannusEventDataValues</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9">TyrannusEventDataValues</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="affef3c36ff24968ce85c858b855212b9a822d4d5075ff7af52f678783fb6a30ce" name="affef3c36ff24968ce85c858b855212b9a822d4d5075ff7af52f678783fb6a30ce"></a>AREATRIGGER_AMBUSH_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affef3c36ff24968ce85c858b855212b9a22ea86c0fcf5df290d5e0fbea01658f7" name="affef3c36ff24968ce85c858b855212b9a22ea86c0fcf5df290d5e0fbea01658f7"></a>AREATRIGGER_AMBUSH_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affef3c36ff24968ce85c858b855212b9a922da96d07b960c0e70ee947b89b374f" name="affef3c36ff24968ce85c858b855212b9a922da96d07b960c0e70ee947b89b374f"></a>AREATRIGGER_TUNNEL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="affef3c36ff24968ce85c858b855212b9a59f69ad4ba6e998c51987f6b698158cb" name="affef3c36ff24968ce85c858b855212b9a59f69ad4ba6e998c51987f6b698158cb"></a>TRASH_KILLED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  149</span>{</div>
+<div class="line"><span class="lineno">  150</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a822d4d5075ff7af52f678783fb6a30ce">AREATRIGGER_AMBUSH_1</a>                = 1,</div>
+<div class="line"><span class="lineno">  151</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a22ea86c0fcf5df290d5e0fbea01658f7">AREATRIGGER_AMBUSH_2</a>                = 2,</div>
+<div class="line"><span class="lineno">  152</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a922da96d07b960c0e70ee947b89b374f">AREATRIGGER_TUNNEL</a>                  = 3,</div>
+<div class="line"><span class="lineno">  153</span> </div>
+<div class="line"><span class="lineno">  154</span>    <a class="code hl_enumvalue" href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a59f69ad4ba6e998c51987f6b698158cb">TRASH_KILLED</a>                        = 1,</div>
+<div class="line"><span class="lineno">  155</span>};</div>
+<div class="ttc" id="apit__of__saron_8cpp_html_affef3c36ff24968ce85c858b855212b9a22ea86c0fcf5df290d5e0fbea01658f7"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a22ea86c0fcf5df290d5e0fbea01658f7">AREATRIGGER_AMBUSH_2</a></div><div class="ttdeci">@ AREATRIGGER_AMBUSH_2</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:151</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_affef3c36ff24968ce85c858b855212b9a59f69ad4ba6e998c51987f6b698158cb"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a59f69ad4ba6e998c51987f6b698158cb">TRASH_KILLED</a></div><div class="ttdeci">@ TRASH_KILLED</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:154</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_affef3c36ff24968ce85c858b855212b9a822d4d5075ff7af52f678783fb6a30ce"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a822d4d5075ff7af52f678783fb6a30ce">AREATRIGGER_AMBUSH_1</a></div><div class="ttdeci">@ AREATRIGGER_AMBUSH_1</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:150</div></div>
+<div class="ttc" id="apit__of__saron_8cpp_html_affef3c36ff24968ce85c858b855212b9a922da96d07b960c0e70ee947b89b374f"><div class="ttname"><a href="../../d9/d1c/pit__of__saron_8cpp.html#affef3c36ff24968ce85c858b855212b9a922da96d07b960c0e70ee947b89b374f">AREATRIGGER_TUNNEL</a></div><div class="ttdeci">@ AREATRIGGER_TUNNEL</div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:152</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -235,41 +792,41 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1489</span>{</div>
-<div class="line"><span class="lineno"> 1490</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d87/classnpc__pos__leader.html">npc_pos_leader</a>();</div>
-<div class="line"><span class="lineno"> 1491</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d15/classnpc__pos__deathwhisper__necrolyte.html">npc_pos_deathwhisper_necrolyte</a>();</div>
-<div class="line"><span class="lineno"> 1492</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d1d/classnpc__pos__after__first__boss.html">npc_pos_after_first_boss</a>();</div>
-<div class="line"><span class="lineno"> 1493</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d4c/classnpc__pos__tyrannus__events.html">npc_pos_tyrannus_events</a>();</div>
-<div class="line"><span class="lineno"> 1494</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d62/classnpc__pos__icicle__trigger.html">npc_pos_icicle_trigger</a>();</div>
-<div class="line"><span class="lineno"> 1495</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/de3/classnpc__pos__collapsing__icicle.html">npc_pos_collapsing_icicle</a>();</div>
-<div class="line"><span class="lineno"> 1496</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d2f/classnpc__pos__martin__or__gorkun__second.html">npc_pos_martin_or_gorkun_second</a>();</div>
-<div class="line"><span class="lineno"> 1497</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/da0/classnpc__pos__freed__slave.html">npc_pos_freed_slave</a>();</div>
-<div class="line"><span class="lineno"> 1498</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d1f/classnpc__pos__leader__second.html">npc_pos_leader_second</a>();</div>
-<div class="line"><span class="lineno"> 1499</span> </div>
-<div class="line"><span class="lineno"> 1500</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d8b/classspell__pos__empowered__blizzard__aura.html">spell_pos_empowered_blizzard_aura</a>);</div>
-<div class="line"><span class="lineno"> 1501</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d28/classspell__pos__slave__trigger__closest.html">spell_pos_slave_trigger_closest</a>);</div>
-<div class="line"><span class="lineno"> 1502</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/de4/classspell__pos__rimefang__frost__nova.html">spell_pos_rimefang_frost_nova</a>);</div>
-<div class="line"><span class="lineno"> 1503</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/d43/classspell__pos__blight__aura.html">spell_pos_blight_aura</a>);</div>
-<div class="line"><span class="lineno"> 1504</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d42/classspell__pos__glacial__strike__aura.html">spell_pos_glacial_strike_aura</a>);</div>
-<div class="line"><span class="lineno"> 1505</span> </div>
-<div class="line"><span class="lineno"> 1506</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d75/classat__tyrannus__event__starter.html">at_tyrannus_event_starter</a>();</div>
-<div class="line"><span class="lineno"> 1507</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1526</span>{</div>
+<div class="line"><span class="lineno"> 1527</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d87/classnpc__pos__leader.html">npc_pos_leader</a>();</div>
+<div class="line"><span class="lineno"> 1528</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d15/classnpc__pos__deathwhisper__necrolyte.html">npc_pos_deathwhisper_necrolyte</a>();</div>
+<div class="line"><span class="lineno"> 1529</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d1d/classnpc__pos__after__first__boss.html">npc_pos_after_first_boss</a>();</div>
+<div class="line"><span class="lineno"> 1530</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d4c/classnpc__pos__tyrannus__events.html">npc_pos_tyrannus_events</a>();</div>
+<div class="line"><span class="lineno"> 1531</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d62/classnpc__pos__icicle__trigger.html">npc_pos_icicle_trigger</a>();</div>
+<div class="line"><span class="lineno"> 1532</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/de3/classnpc__pos__collapsing__icicle.html">npc_pos_collapsing_icicle</a>();</div>
+<div class="line"><span class="lineno"> 1533</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d2f/classnpc__pos__martin__or__gorkun__second.html">npc_pos_martin_or_gorkun_second</a>();</div>
+<div class="line"><span class="lineno"> 1534</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/da0/classnpc__pos__freed__slave.html">npc_pos_freed_slave</a>();</div>
+<div class="line"><span class="lineno"> 1535</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d1f/classnpc__pos__leader__second.html">npc_pos_leader_second</a>();</div>
+<div class="line"><span class="lineno"> 1536</span> </div>
+<div class="line"><span class="lineno"> 1537</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d8b/classspell__pos__empowered__blizzard__aura.html">spell_pos_empowered_blizzard_aura</a>);</div>
+<div class="line"><span class="lineno"> 1538</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d28/classspell__pos__slave__trigger__closest.html">spell_pos_slave_trigger_closest</a>);</div>
+<div class="line"><span class="lineno"> 1539</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/de4/classspell__pos__rimefang__frost__nova.html">spell_pos_rimefang_frost_nova</a>);</div>
+<div class="line"><span class="lineno"> 1540</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/d43/classspell__pos__blight__aura.html">spell_pos_blight_aura</a>);</div>
+<div class="line"><span class="lineno"> 1541</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d42/classspell__pos__glacial__strike__aura.html">spell_pos_glacial_strike_aura</a>);</div>
+<div class="line"><span class="lineno"> 1542</span> </div>
+<div class="line"><span class="lineno"> 1543</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d75/classat__tyrannus__event__starter.html">at_tyrannus_event_starter</a>();</div>
+<div class="line"><span class="lineno"> 1544</span>}</div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aclassat__tyrannus__event__starter_html"><div class="ttname"><a href="../../dd/d75/classat__tyrannus__event__starter.html">at_tyrannus_event_starter</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1463</div></div>
-<div class="ttc" id="aclassnpc__pos__after__first__boss_html"><div class="ttname"><a href="../../d8/d1d/classnpc__pos__after__first__boss.html">npc_pos_after_first_boss</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:500</div></div>
-<div class="ttc" id="aclassnpc__pos__collapsing__icicle_html"><div class="ttname"><a href="../../d9/de3/classnpc__pos__collapsing__icicle.html">npc_pos_collapsing_icicle</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:865</div></div>
-<div class="ttc" id="aclassnpc__pos__deathwhisper__necrolyte_html"><div class="ttname"><a href="../../d5/d15/classnpc__pos__deathwhisper__necrolyte.html">npc_pos_deathwhisper_necrolyte</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:385</div></div>
-<div class="ttc" id="aclassnpc__pos__freed__slave_html"><div class="ttname"><a href="../../d1/da0/classnpc__pos__freed__slave.html">npc_pos_freed_slave</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1103</div></div>
-<div class="ttc" id="aclassnpc__pos__icicle__trigger_html"><div class="ttname"><a href="../../d5/d62/classnpc__pos__icicle__trigger.html">npc_pos_icicle_trigger</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:828</div></div>
-<div class="ttc" id="aclassnpc__pos__leader__second_html"><div class="ttname"><a href="../../d4/d1f/classnpc__pos__leader__second.html">npc_pos_leader_second</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1144</div></div>
-<div class="ttc" id="aclassnpc__pos__leader_html"><div class="ttname"><a href="../../d5/d87/classnpc__pos__leader.html">npc_pos_leader</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:32</div></div>
-<div class="ttc" id="aclassnpc__pos__martin__or__gorkun__second_html"><div class="ttname"><a href="../../d9/d2f/classnpc__pos__martin__or__gorkun__second.html">npc_pos_martin_or_gorkun_second</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:916</div></div>
-<div class="ttc" id="aclassnpc__pos__tyrannus__events_html"><div class="ttname"><a href="../../d4/d4c/classnpc__pos__tyrannus__events.html">npc_pos_tyrannus_events</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:581</div></div>
-<div class="ttc" id="aclassspell__pos__blight__aura_html"><div class="ttname"><a href="../../d3/d43/classspell__pos__blight__aura.html">spell_pos_blight_aura</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1420</div></div>
-<div class="ttc" id="aclassspell__pos__empowered__blizzard__aura_html"><div class="ttname"><a href="../../d6/d8b/classspell__pos__empowered__blizzard__aura.html">spell_pos_empowered_blizzard_aura</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1310</div></div>
-<div class="ttc" id="aclassspell__pos__glacial__strike__aura_html"><div class="ttname"><a href="../../da/d42/classspell__pos__glacial__strike__aura.html">spell_pos_glacial_strike_aura</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1442</div></div>
-<div class="ttc" id="aclassspell__pos__rimefang__frost__nova_html"><div class="ttname"><a href="../../da/de4/classspell__pos__rimefang__frost__nova.html">spell_pos_rimefang_frost_nova</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1399</div></div>
-<div class="ttc" id="aclassspell__pos__slave__trigger__closest_html"><div class="ttname"><a href="../../de/d28/classspell__pos__slave__trigger__closest.html">spell_pos_slave_trigger_closest</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1367</div></div>
+<div class="ttc" id="aclassat__tyrannus__event__starter_html"><div class="ttname"><a href="../../dd/d75/classat__tyrannus__event__starter.html">at_tyrannus_event_starter</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1500</div></div>
+<div class="ttc" id="aclassnpc__pos__after__first__boss_html"><div class="ttname"><a href="../../d8/d1d/classnpc__pos__after__first__boss.html">npc_pos_after_first_boss</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:581</div></div>
+<div class="ttc" id="aclassnpc__pos__collapsing__icicle_html"><div class="ttname"><a href="../../d9/de3/classnpc__pos__collapsing__icicle.html">npc_pos_collapsing_icicle</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:941</div></div>
+<div class="ttc" id="aclassnpc__pos__deathwhisper__necrolyte_html"><div class="ttname"><a href="../../d5/d15/classnpc__pos__deathwhisper__necrolyte.html">npc_pos_deathwhisper_necrolyte</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:474</div></div>
+<div class="ttc" id="aclassnpc__pos__freed__slave_html"><div class="ttname"><a href="../../d1/da0/classnpc__pos__freed__slave.html">npc_pos_freed_slave</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1157</div></div>
+<div class="ttc" id="aclassnpc__pos__icicle__trigger_html"><div class="ttname"><a href="../../d5/d62/classnpc__pos__icicle__trigger.html">npc_pos_icicle_trigger</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:907</div></div>
+<div class="ttc" id="aclassnpc__pos__leader__second_html"><div class="ttname"><a href="../../d4/d1f/classnpc__pos__leader__second.html">npc_pos_leader_second</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1198</div></div>
+<div class="ttc" id="aclassnpc__pos__leader_html"><div class="ttname"><a href="../../d5/d87/classnpc__pos__leader.html">npc_pos_leader</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:158</div></div>
+<div class="ttc" id="aclassnpc__pos__martin__or__gorkun__second_html"><div class="ttname"><a href="../../d9/d2f/classnpc__pos__martin__or__gorkun__second.html">npc_pos_martin_or_gorkun_second</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:985</div></div>
+<div class="ttc" id="aclassnpc__pos__tyrannus__events_html"><div class="ttname"><a href="../../d4/d4c/classnpc__pos__tyrannus__events.html">npc_pos_tyrannus_events</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:655</div></div>
+<div class="ttc" id="aclassspell__pos__blight__aura_html"><div class="ttname"><a href="../../d3/d43/classspell__pos__blight__aura.html">spell_pos_blight_aura</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1457</div></div>
+<div class="ttc" id="aclassspell__pos__empowered__blizzard__aura_html"><div class="ttname"><a href="../../d6/d8b/classspell__pos__empowered__blizzard__aura.html">spell_pos_empowered_blizzard_aura</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1347</div></div>
+<div class="ttc" id="aclassspell__pos__glacial__strike__aura_html"><div class="ttname"><a href="../../da/d42/classspell__pos__glacial__strike__aura.html">spell_pos_glacial_strike_aura</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1479</div></div>
+<div class="ttc" id="aclassspell__pos__rimefang__frost__nova_html"><div class="ttname"><a href="../../da/de4/classspell__pos__rimefang__frost__nova.html">spell_pos_rimefang_frost_nova</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1436</div></div>
+<div class="ttc" id="aclassspell__pos__slave__trigger__closest_html"><div class="ttname"><a href="../../de/d28/classspell__pos__slave__trigger__closest.html">spell_pos_slave_trigger_closest</a></div><div class="ttdef"><b>Definition</b> pit_of_saron.cpp:1404</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
@@ -278,14 +835,14 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a302aeb8575da3775869e8ba2aa788da0" name="a302aeb8575da3775869e8ba2aa788da0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a302aeb8575da3775869e8ba2aa788da0">&#9670;&#160;</a></span>slaveFreePos</h2>
+<a id="a05649b61576ff20d7d48f0dc474927a1" name="a05649b61576ff20d7d48f0dc474927a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05649b61576ff20d7d48f0dc474927a1">&#9670;&#160;</a></span>SlaveFreePos</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../d0/df4/structPosition.html">Position</a> slaveFreePos[4]</td>
+          <td class="memname"><a class="el" href="../../d0/df4/structPosition.html">Position</a> const SlaveFreePos[4]</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -296,14 +853,14 @@ Variables</h2></td></tr>
 <div class="line">    {800.09f, 78.66f, 510.2f, 0.0f},</div>
 <div class="line">    {528.26f, 187.04f, 528.75f, 0.0f}</div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1332</span>{</div>
-<div class="line"><span class="lineno"> 1333</span>    {699.82f, -82.68f, 512.6f, 0.0f},</div>
-<div class="line"><span class="lineno"> 1334</span>    {643.51f, 79.20f, 511.57f, 0.0f},</div>
-<div class="line"><span class="lineno"> 1335</span>    {800.09f, 78.66f, 510.2f, 0.0f},</div>
-<div class="line"><span class="lineno"> 1336</span>    {528.26f, 187.04f, 528.75f, 0.0f}</div>
-<div class="line"><span class="lineno"> 1337</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno"> 1369</span>{</div>
+<div class="line"><span class="lineno"> 1370</span>    {699.82f, -82.68f, 512.6f, 0.0f},</div>
+<div class="line"><span class="lineno"> 1371</span>    {643.51f, 79.20f, 511.57f, 0.0f},</div>
+<div class="line"><span class="lineno"> 1372</span>    {800.09f, 78.66f, 510.2f, 0.0f},</div>
+<div class="line"><span class="lineno"> 1373</span>    {528.26f, 187.04f, 528.75f, 0.0f}</div>
+<div class="line"><span class="lineno"> 1374</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01344">SlaveRunEvent::Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01381">SlaveRunEvent::Execute()</a>.</p>
 
 </div>
 </div>
@@ -313,7 +870,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_b9fdea5361312dcaf0b39717af8c62fd.html">FrozenHalls</a></li><li class="navelem"><a class="el" href="../../dir_2cf920b86eaa90086c9e49d169beb484.html">PitOfSaron</a></li><li class="navelem"><a class="el" href="../../d9/d1c/pit__of__saron_8cpp.html">pit_of_saron.cpp</a></li>
-    <li class="footer">Generated on Fri Nov 20 2026 14:47:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 21 2026 14:02:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

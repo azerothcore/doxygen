@@ -4,14 +4,13 @@ var boss__general__zarithrian_8cpp =
     [ "boss_general_zarithrian::boss_general_zarithrianAI", "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html", "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI" ],
     [ "npc_onyx_flamecaller", "dd/d16/classnpc__onyx__flamecaller.html", "dd/d16/classnpc__onyx__flamecaller" ],
     [ "npc_onyx_flamecaller::npc_onyx_flamecallerAI", "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html", "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI" ],
-    [ "Misc", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "EVENT_CLEAVE", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad4266671217cc53e473a6844d92ef36a", null ],
-      [ "EVENT_INTIDMDATING_ROAR", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a31b490a602bb7617eb4eb5f271b38257", null ],
-      [ "EVENT_SUMMON_ADDS1", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af7f0d0250077d4c51579d81e3b0db7b5", null ],
-      [ "EVENT_SUMMON_ADDS2", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3ef0eaa64a6484c04dd223efe5b4f227", null ],
-      [ "EVENT_BLAST_NOVA", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9e1344e054aca207ba2ec5cfdbb3c4aa", null ],
-      [ "EVENT_LAVA_GOUT", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2a074344f62cd405347312727078904", null ],
-      [ "MAX_PATH_FLAMECALLER_WAYPOINTS", "d0/de4/boss__general__zarithrian_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a42e391a37f26c6a27525ee75ae035ff2", null ]
+    [ "Events", "d0/de4/boss__general__zarithrian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
+      [ "EVENT_CLEAVE", "d0/de4/boss__general__zarithrian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
+      [ "EVENT_INTIMIDATING_ROAR", "d0/de4/boss__general__zarithrian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1d849b6a1c47c657cf1ed0cb153ef33c", null ],
+      [ "EVENT_SUMMON_ADDS1", "d0/de4/boss__general__zarithrian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af7f0d0250077d4c51579d81e3b0db7b5", null ],
+      [ "EVENT_SUMMON_ADDS2", "d0/de4/boss__general__zarithrian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3ef0eaa64a6484c04dd223efe5b4f227", null ],
+      [ "EVENT_BLAST_NOVA", "d0/de4/boss__general__zarithrian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e1344e054aca207ba2ec5cfdbb3c4aa", null ],
+      [ "EVENT_LAVA_GOUT", "d0/de4/boss__general__zarithrian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae2a074344f62cd405347312727078904", null ]
     ] ],
     [ "Spells", "d0/de4/boss__general__zarithrian_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_INTIMIDATING_ROAR", "d0/de4/boss__general__zarithrian_8cpp.html#a5bd342133be8c2137b831460acc9298cafb974117d853bbacc925756aa4775080", null ],
@@ -28,5 +27,6 @@ var boss__general__zarithrian_8cpp =
     ] ],
     [ "AddSC_boss_general_zarithrian", "d0/de4/boss__general__zarithrian_8cpp.html#a687b8db013a6ffd4e1920834472172d6", null ],
     [ "FlamecallerWaypointsE", "d0/de4/boss__general__zarithrian_8cpp.html#ace9bd22dd95248bd988545e174ffa491", null ],
-    [ "FlamecallerWaypointsW", "d0/de4/boss__general__zarithrian_8cpp.html#a88369afb975b4a22ccce21207c7b6e45", null ]
+    [ "FlamecallerWaypointsW", "d0/de4/boss__general__zarithrian_8cpp.html#a88369afb975b4a22ccce21207c7b6e45", null ],
+    [ "MAX_PATH_FLAMECALLER_WAYPOINTS", "d0/de4/boss__general__zarithrian_8cpp.html#a6a539f91f9f2c5f28865824bc31f826c", null ]
 ];

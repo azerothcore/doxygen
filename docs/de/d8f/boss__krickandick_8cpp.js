@@ -6,12 +6,27 @@ var boss__krickandick_8cpp =
     [ "boss_krick::boss_krickAI", "d6/d51/structboss__krick_1_1boss__krickAI.html", "d6/d51/structboss__krick_1_1boss__krickAI" ],
     [ "spell_krick_explosive_barrage_aura", "d3/d2d/classspell__krick__explosive__barrage__aura.html", "d3/d2d/classspell__krick__explosive__barrage__aura" ],
     [ "spell_exploding_orb_auto_grow_aura", "dd/d1f/classspell__exploding__orb__auto__grow__aura.html", "dd/d1f/classspell__exploding__orb__auto__grow__aura" ],
+    [ "Actions", "de/d8f/boss__krickandick_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
+      [ "ACTION_START_KRICK_OUTRO", "de/d8f/boss__krickandick_8cpp.html#a250372292659bed7ae290d8621f88ccfafacaa2b322e586ae7906286a761a2432", null ]
+    ] ],
     [ "Events", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_SPELL_TOXIC_WASTE", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8cf65be6cb8de4377425b4d7b735d911", null ],
       [ "EVENT_SPELL_MIGHTY_KICK", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2efbd9744da4105979f1135ac54e88fd", null ],
       [ "EVENT_SPELL_SHADOW_BOLT", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97989e823ec77d02c224f173791a7d70", null ],
       [ "EVENT_SPECIAL", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a23f12f795736a646034072280e121a1d", null ],
-      [ "EVENT_SET_REACT_AGGRESSIVE", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7786b8e71bcc2652d561f7085dfc3b51", null ]
+      [ "EVENT_SET_REACT_AGGRESSIVE", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7786b8e71bcc2652d561f7085dfc3b51", null ],
+      [ "EVENT_OUTRO_RESET_LEADER", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0bfbd081413459cbc293e182a748fedb", null ],
+      [ "EVENT_OUTRO_KRICK_1", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0f07010be11be3a8cd07590ed09a5817", null ],
+      [ "EVENT_OUTRO_LEADER_1", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa093188467298cff5e32d5224b76d0c7", null ],
+      [ "EVENT_OUTRO_KRICK_2", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a80081cc35f8d129d5e68337f417679dd", null ],
+      [ "EVENT_OUTRO_LEADER_2", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeaf6fdf1958ce59734704a5464acb98b", null ],
+      [ "EVENT_OUTRO_KRICK_3", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8b8503d41c9819bca650a4cf4c2deedc", null ],
+      [ "EVENT_OUTRO_TYRANNUS_1", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a303b4e4bcd2624ca952ec6b97d3a3502", null ],
+      [ "EVENT_OUTRO_STRANGULATE", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a10cba673bb5b63031a7667c10a5ac549", null ],
+      [ "EVENT_OUTRO_KRICK_4", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a93a7796da31ffbc7f6950d84f92e93ec", null ],
+      [ "EVENT_OUTRO_KRICK_DIES", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a81896e3e09bd6d188cbf62b712f01c2c", null ],
+      [ "EVENT_OUTRO_TYRANNUS_2", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8eeca4b10b3fe6748fe7586a3948b9c1", null ],
+      [ "EVENT_OUTRO_LEADER_3", "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ebb9bb766d2865af1f20343474ca77e", null ]
     ] ],
     [ "Spells", "de/d8f/boss__krickandick_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_TOXIC_WASTE", "de/d8f/boss__krickandick_8cpp.html#a5bd342133be8c2137b831460acc9298caadf96c24ab807d28af2bc15a860be156", null ],

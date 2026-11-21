@@ -67,13 +67,6 @@ var boss__sindragosa_8cpp =
       [ "EVENT_WHELP_FROST_BLAST", "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7169ab52103ed42134df634a4d7e567d", null ],
       [ "EVENT_GROUP_LAND_PHASE", "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3743bb26b8617178b9aed704e62e7fa8", null ]
     ] ],
-    [ "FrostwingData", "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0e", [
-      [ "DATA_MYSTIC_BUFFET_STACK", "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea66581d4ea55e602e76d213e362896511", null ],
-      [ "DATA_FROSTWYRM_OWNER", "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea8a524298496082994a3675c6ccf47bdd", null ],
-      [ "DATA_WHELP_MARKER", "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea6de4ea7db4f93aad14cdeb58758f121c", null ],
-      [ "DATA_LINKED_GAMEOBJECT", "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea207b51fe4dc6b1ebb9dd23cd3840e56f", null ],
-      [ "DATA_TRAPPED_PLAYER", "de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0eac38379126931a364a3a1098005fd96b1", null ]
-    ] ],
     [ "MovementPoints", "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5", [
       [ "POINT_FROSTWYRM_FLY_IN", "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a4a31ac9e94cf15cdb51d30c3318b86f5", null ],
       [ "POINT_FROSTWYRM_LAND", "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a0930e81ee0cdfdd929154ab1493abb60", null ],

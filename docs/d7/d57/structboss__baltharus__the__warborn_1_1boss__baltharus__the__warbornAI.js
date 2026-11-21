@@ -8,7 +8,6 @@ var structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI =
     [ "JustReachedHome", "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
     [ "JustSummoned", "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
     [ "KilledUnit", "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
-    [ "Reset", "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
     [ "UpdateAI", "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
     [ "_introDone", "d7/d57/structboss__baltharus__the__warborn_1_1boss__baltharus__the__warbornAI.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

@@ -11,5 +11,5 @@ var structboss__devourer__of__souls =
     [ "Reset", "d1/daf/structboss__devourer__of__souls.html#a57cc2f21324c38cdc9c87adf3b425ed4", null ],
     [ "SpellHitTarget", "d1/daf/structboss__devourer__of__souls.html#ad8215797d3bbd05efd93b04ae8b3cad2", null ],
     [ "UpdateAI", "d1/daf/structboss__devourer__of__souls.html#a47b6ff4e3edad4f1d5a4974a5a84696a", null ],
-    [ "AchievementCompleted", "d1/daf/structboss__devourer__of__souls.html#a7f19641d3c3496e8cf4c86e736607441", null ]
+    [ "_achievementCompleted", "d1/daf/structboss__devourer__of__souls.html#abbef302f09ab1cd2fe031f69ad180891", null ]
 ];

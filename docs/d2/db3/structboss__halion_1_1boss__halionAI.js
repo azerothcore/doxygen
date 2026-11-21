@@ -12,6 +12,6 @@ var structboss__halion_1_1boss__halionAI =
     [ "KilledUnit", "d2/db3/structboss__halion_1_1boss__halionAI.html#ac45ac7ceb0b761e90deeffcea364ceea", null ],
     [ "Reset", "d2/db3/structboss__halion_1_1boss__halionAI.html#aa8c06f8a1642534efb14941d9c0d9f14", null ],
     [ "UpdateAI", "d2/db3/structboss__halion_1_1boss__halionAI.html#abe0faa976bb1b14102b940fac9526e5b", null ],
-    [ "_events2", "d2/db3/structboss__halion_1_1boss__halionAI.html#a677448e015db869b718e15b6809586cc", null ],
+    [ "_backgroundEvents", "d2/db3/structboss__halion_1_1boss__halionAI.html#a13c3d2cf928e5d9996de25e73da5cb3f", null ],
     [ "_livingEmberCount", "d2/db3/structboss__halion_1_1boss__halionAI.html#af6af6482467f3a08fbe1c65f3b2b1552", null ]
 ];

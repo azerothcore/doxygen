@@ -4,7 +4,6 @@ var ruby__sanctum_8h =
     [ "RubySanctumScriptName", "db/dd6/ruby__sanctum_8h.html#a431c4d3501dcbb28807f6d04208713cf", null ],
     [ "CreaturesIds", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2", [
       [ "NPC_BALTHARUS_THE_WARBORN", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a3ed06f8c551908a811606c6584b82ec4", null ],
-      [ "NPC_BALTHARUS_THE_WARBORN_CLONE", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a1a9303fb289c955428ca5e436d4eabf3", null ],
       [ "NPC_XERESTRASZA", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2ac45a218d766deae2e0c0721c26038758", null ],
       [ "NPC_GENERAL_ZARITHRIAN", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2acb940cb7a249b2537334b2469d742ed1", null ],
       [ "NPC_ONYX_FLAMECALLER", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a8d3fef09af22aa21c8caff464c22fff4", null ],
@@ -23,8 +22,7 @@ var ruby__sanctum_8h =
       [ "NPC_METEOR_STRIKE_SOUTH", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a485409193a65a66ef0818cd585c2b18a", null ],
       [ "NPC_METEOR_STRIKE_FLAME", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a94e91c225cd5c537c8683e0000f050d0", null ],
       [ "NPC_COMBUSTION", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2ae3a1ddc97bb11b241bfd19fc6bb6698b", null ],
-      [ "NPC_CONSUMPTION", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a78c2cd526a8d02b85f9b7455dbc6d05e", null ],
-      [ "NPC_COMBAT_STALKER", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a78301faec34e7cc0e529ed7ac6d7888f", null ]
+      [ "NPC_CONSUMPTION", "db/dd6/ruby__sanctum_8h.html#a23860b8d9499fb400f8921261b19efd2a78c2cd526a8d02b85f9b7455dbc6d05e", null ]
     ] ],
     [ "DataTypes", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22", [
       [ "DATA_BALTHARUS_THE_WARBORN", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22aedb8581c8f2aa3050d286e10e402f862", null ],
@@ -36,12 +34,15 @@ var ruby__sanctum_8h =
       [ "DATA_HALION", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22ae3739de22f2f6a162925d331b0ee2cda", null ],
       [ "MAX_ENCOUNTERS", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25", null ],
       [ "DATA_ZARITHRIAN_SPAWN_STALKER_1", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22ac03c6e042f1462f78803dd3de9e3b7b0", null ],
-      [ "DATA_ZARITHRIAN_SPAWN_STALKER_2", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a9d17f7e5970a935d2b492107d2aa97ce", null ]
+      [ "DATA_ZARITHRIAN_SPAWN_STALKER_2", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a9d17f7e5970a935d2b492107d2aa97ce", null ],
+      [ "DATA_XERESTRASZA", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22ac0d6da30c32bc5f68acce753faf31513", null ],
+      [ "DATA_TWILIGHT_HALION", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22ad81b0d0198d27315958d7229f8a4f56a", null ],
+      [ "DATA_HALION_CONTROLLER", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22a11d9151064e94cad6987ce4367d3a19d", null ],
+      [ "DATA_ORB_CARRIER", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22ad31bd62de59cbb62a0063a401bfe0b91", null ],
+      [ "DATA_FLAME_RING", "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22adad6508fe6c6a2fcaa398e256f1e08eb", null ]
     ] ],
     [ "GameObjectsIds", "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909e", [
       [ "GO_HALION_PORTAL_1", "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea3e1d9da0571fa272b951ae96a685cfb2", null ],
-      [ "GO_HALION_PORTAL_2", "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eabb48b200a2a9213dd5cce20e4a473368", null ],
-      [ "GO_HALION_PORTAL_EXIT", "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea60618ea4f53e59c633f145aa9ebbf2db", null ],
       [ "GO_FIRE_FIELD", "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea41b5772c7489cd9f745e7cdac5035bc9", null ],
       [ "GO_FLAME_WALLS", "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eae916a2187053d174552a7767836952d5", null ],
       [ "GO_FLAME_RING", "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea497d3965318f838503396514a84cae25", null ],

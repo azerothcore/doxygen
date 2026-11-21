@@ -3,19 +3,30 @@ var boss__forgemaster__garfrost_8cpp =
     [ "boss_garfrost", "dc/d67/classboss__garfrost.html", "dc/d67/classboss__garfrost" ],
     [ "boss_garfrost::boss_garfrostAI", "d8/d29/structboss__garfrost_1_1boss__garfrostAI.html", "d8/d29/structboss__garfrost_1_1boss__garfrostAI" ],
     [ "spell_garfrost_permafrost", "d1/de9/classspell__garfrost__permafrost.html", "d1/de9/classspell__garfrost__permafrost" ],
+    [ "Equipment", "d1/d43/boss__forgemaster__garfrost_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bc", [
+      [ "EQUIP_ID_SWORD", "d1/d43/boss__forgemaster__garfrost_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bca1f70e04a5bf31c2db2dab09485d107d4", null ],
+      [ "EQUIP_ID_MACE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#ab54b6488a522ae9b5f65cdd7f02708bcac5bb4cab7e2d37bb3b76b6e16a3cfd9f", null ]
+    ] ],
     [ "Events", "d1/d43/boss__forgemaster__garfrost_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_SPELL_THROW_SARONITE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a35ad242b95f475c2bfd5d4417e5e34aa", null ],
       [ "EVENT_JUMP", "d1/d43/boss__forgemaster__garfrost_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a89b5c9ac6d6ac054281c5063911d6e3a", null ],
       [ "EVENT_SPELL_CHILLING_WAVE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae03a5a6ad34d7d55a4a3c0d9093da9aa", null ],
       [ "EVENT_SPELL_DEEP_FREEZE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af4a5247af158bbe73f8f35bc5dab97af", null ]
     ] ],
-    [ "MiscData", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8b", [
-      [ "EQUIP_ID_SWORD", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba1f70e04a5bf31c2db2dab09485d107d4", null ],
-      [ "EQUIP_ID_MACE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8bac5bb4cab7e2d37bb3b76b6e16a3cfd9f", null ],
-      [ "GO_SARONITE_ROCK", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba2ac001856e01c362c049523348770be1", null ]
+    [ "GameObjects", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3d", [
+      [ "GO_SARONITE_ROCK", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da2ac001856e01c362c049523348770be1", null ]
+    ] ],
+    [ "MovePoints", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd", [
+      [ "POINT_FORGE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda74363cf91b5bc7af169cf381bdffe4ae", null ]
+    ] ],
+    [ "Phases", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219", [
+      [ "PHASE_ONE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05", null ],
+      [ "PHASE_FORGE_BLADE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219af3dfbef4a58bd77f43dec2dca34a9f6a", null ],
+      [ "PHASE_FORGE_MACE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a03fe0c5423ab07068a6b914afcf521b3", null ]
     ] ],
     [ "Spells", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_PERMAFROST", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298cacfbb84c268887505646fb54930d478cd", null ],
+      [ "SPELL_PERMAFROST_DEBUFF", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298ca3211bfc9351280ebb90a3e91cea687d3", null ],
       [ "SPELL_THROW_SARONITE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ffd8cc12eee29e4c420d2cc2aee2a65", null ],
       [ "SPELL_THUNDERING_STOMP", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298ca626925ba86f88514659778da36ed7122", null ],
       [ "SPELL_CHILLING_WAVE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5bd342133be8c2137b831460acc9298caf55c40c1126f624e66da03e04bedf710", null ],
@@ -35,6 +46,6 @@ var boss__forgemaster__garfrost_8cpp =
       [ "EMOTE_DEEP_FREEZE", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5ce372f2ee634829f0d34b36214d0a1a", null ]
     ] ],
     [ "AddSC_boss_garfrost", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a906ed67706bbc7d2cae677714c2eeecc", null ],
-    [ "northForgePos", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a37c3a9c0f86a22051ef229548afa2603", null ],
-    [ "southForgePos", "d1/d43/boss__forgemaster__garfrost_8cpp.html#ad5648754089b855d5188a842e1db96a6", null ]
+    [ "NorthForgePos", "d1/d43/boss__forgemaster__garfrost_8cpp.html#a4d0652f442512734e4510fecba77539d", null ],
+    [ "SouthForgePos", "d1/d43/boss__forgemaster__garfrost_8cpp.html#aa9b67b7e2403293dd94ff164971e9604", null ]
 ];

@@ -218,6 +218,8 @@ var classSpell =
     [ "GetTriggeredCastFlags", "d1/d16/classSpell.html#ad9eb5d915f096a1c796802eb03793b69", null ],
     [ "GetUniqueTargetInfo", "d1/d16/classSpell.html#ac60eb5ed3630c60f4e6723b3832778a3", null ],
     [ "GetUnitCasterForEffectHandlers", "d1/d16/classSpell.html#a97990e101e35e9198c9540ee969996cc", null ],
+    [ "GetUnitTargetCountForEffect", "d1/d16/classSpell.html#ab27a329f23aa9521294a95eaa6190d9f", null ],
+    [ "GetUnitTargetIndexForEffect", "d1/d16/classSpell.html#ad454d67b9d1b28b73a4b9d3474e4bfd1", null ],
     [ "handle_delayed", "d1/d16/classSpell.html#a98e6d38fef38925272ed77fae54903b2", null ],
     [ "handle_immediate", "d1/d16/classSpell.html#a323570cf86a1b20a8e64a9db971cab8c", null ],
     [ "HandleEffects", "d1/d16/classSpell.html#a7c84a871bcff77bae08b60cdfe5224a1", null ],

@@ -47,7 +47,6 @@ var boss__flame__leviathan_8cpp =
       [ "EVENT_THORIMS_HAMMER", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
       [ "EVENT_EJECT_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5defc9b52c1e590d7327c0a49889b674", null ],
-      [ "EVENT_CHECK_PLAYERS", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b", null ],
       [ "EVENT_LASH", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a22fa755486a1fb689392a1b568e9ad02", null ],
       [ "EVENT_FREYA_WARD_WAVE", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa340768098bd12b0420651018ed6200b", null ]
     ] ],

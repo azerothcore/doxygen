@@ -4,12 +4,17 @@ var instance__ulduar_8cpp =
     [ "instance_ulduar", "d8/dc2/classinstance__ulduar.html", "d8/dc2/classinstance__ulduar" ],
     [ "instance_ulduar::instance_ulduar_InstanceMapScript", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript" ],
     [ "AddSC_instance_ulduar", "d5/db6/instance__ulduar_8cpp.html#a93e6e71a7717be3946c53d3b6093e517", null ],
+    [ "AncientGateTriggerPos", "d5/db6/instance__ulduar_8cpp.html#a230a9343df8b59f73ff11f18a201f86b", null ],
     [ "boundaries", "d5/db6/instance__ulduar_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "BrannRhydianDialogue", "d5/db6/instance__ulduar_8cpp.html#ad6de820d786ef71d3a9bfbb7b82b5f9a", null ],
     [ "creatureData", "d5/db6/instance__ulduar_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "DalaranPortalMinX", "d5/db6/instance__ulduar_8cpp.html#a58a900c078795a556fd02913adb038cf", null ],
     [ "doorData", "d5/db6/instance__ulduar_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "FlyingMachineLandPos", "d5/db6/instance__ulduar_8cpp.html#a4bc120c5ead398da04e53bffbea38c46", null ],
+    [ "FormationGroundsPos", "d5/db6/instance__ulduar_8cpp.html#a4aa675f820770ee4f5240cba36c8e543", null ],
+    [ "FormationGroundsTriggerRadius", "d5/db6/instance__ulduar_8cpp.html#af58e3eacf2928ecca4a124ac490a7502", null ],
+    [ "FormationRhydianPos", "d5/db6/instance__ulduar_8cpp.html#afa7f8af75df09c117ac48ee3f7c9573a", null ],
     [ "gameobjectData", "d5/db6/instance__ulduar_8cpp.html#a845a92716bd40c99a93eb0715cd737b0", null ],
-    [ "LEVIATHAN_VEHICLE_RESPAWN_DELAY", "d5/db6/instance__ulduar_8cpp.html#ac91cc067b8e0d8a138457debceccf10d", null ],
     [ "nextDelay", "d5/db6/instance__ulduar_8cpp.html#aa60d5d771d1a8c00e50a09d6ae6a0a13", null ],
     [ "ObservationRingKeeperBoss", "d5/db6/instance__ulduar_8cpp.html#a86957a8b94f0bd1ffc5ac686aea19e80", null ],
     [ "ObservationRingKeeperData", "d5/db6/instance__ulduar_8cpp.html#a6755ef0777c335a9aa03f94b33600e69", null ],
@@ -18,5 +23,5 @@ var instance__ulduar_8cpp =
     [ "rhydian", "d5/db6/instance__ulduar_8cpp.html#aa03f9c1f5f2f7f14b04168b9b421819c", null ],
     [ "summonData", "d5/db6/instance__ulduar_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ],
     [ "textGroup", "d5/db6/instance__ulduar_8cpp.html#a75e1feed6649e7a64f3735cadd2f3d5d", null ],
-    [ "vehiclePositions", "d5/db6/instance__ulduar_8cpp.html#a41c6fcb7a2c575fa74a8e566a49bf1e1", null ]
+    [ "vehiclePositions", "d5/db6/instance__ulduar_8cpp.html#aa67cc0e0476874b2035898275c8da756", null ]
 ];

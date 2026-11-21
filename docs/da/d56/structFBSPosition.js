@@ -1,5 +1,5 @@
 var structFBSPosition =
 [
-    [ "entry", "da/d56/structFBSPosition.html#a44c7a625896d6fddc15da39988e0b042", null ],
-    [ "pathId", "da/d56/structFBSPosition.html#accd6af0ddfa248a972612d802a1e641e", null ]
+    [ "Entry", "da/d56/structFBSPosition.html#a900afd155f65f4d4276edf7efed0ae37", null ],
+    [ "PathId", "da/d56/structFBSPosition.html#ad0bd11de284c76de5f20155aac6ae64e", null ]
 ];

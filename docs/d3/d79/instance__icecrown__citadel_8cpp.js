@@ -17,11 +17,41 @@ var instance__icecrown__citadel_8cpp =
       [ "EVENT_FESTERGUT_VALVE_USED", "d3/d79/instance__icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ad16c15617c8b86f09966510dcf3c89c2", null ],
       [ "EVENT_ROTFACE_VALVE_USED", "d3/d79/instance__icecrown__citadel_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ac81f89b50257e14d80f843cf2d441bb6", null ]
     ] ],
-    [ "SaurfangCampPaths", "d3/d79/instance__icecrown__citadel_8cpp.html#ad993e9898978fe3652eca282ba5b995d", [
-      [ "PATH_CAMP_SHELY_STEELBOWELS", "d3/d79/instance__icecrown__citadel_8cpp.html#ad993e9898978fe3652eca282ba5b995dad5c08dca4f652e04af84070eb04ec6a6", null ],
-      [ "PATH_CAMP_BRAZIE_GETZ", "d3/d79/instance__icecrown__citadel_8cpp.html#ad993e9898978fe3652eca282ba5b995da582bea7652de64382601fe37be374412", null ],
-      [ "PATH_CAMP_APOTHECARY_CANDITH_TOMAS", "d3/d79/instance__icecrown__citadel_8cpp.html#ad993e9898978fe3652eca282ba5b995daefc7991a3728b1d352369d4d90e74545", null ],
-      [ "PATH_CAMP_MORGAN_DAYBLAZE", "d3/d79/instance__icecrown__citadel_8cpp.html#ad993e9898978fe3652eca282ba5b995da67a2aed52f22fb031e92bbfe8933eb0d", null ]
+    [ "InstanceObjects", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1", [
+      [ "DATA_THE_LICH_KING_LH", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a96ba5041e8419b0ae7d2386c4cd9f60c", null ],
+      [ "DATA_LADY_DEATHWHISPER_ELEVATOR", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1af4a2f3fe3ada27bd41486ca593865c8a", null ],
+      [ "DATA_GUNSHIP_ARMORY", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a27e6c937f6d93b8807a0682bbe8ef5bd", null ],
+      [ "DATA_DEATHBRINGERS_CACHE", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1ae3ee03814aa7ede912b0a8b0243ab42d", null ],
+      [ "DATA_PUTRICIDE_ENTRANCE_DOOR", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1ab53590f687a8e150441453d07c61cefb", null ],
+      [ "DATA_PUTRICIDE_COLLISION", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1ad3fcfe83a9991b94a0d791b5d9cc7257", null ],
+      [ "DATA_PUTRICIDE_GATE_ORANGE", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a9af0f8f9a5a3bb1ba892bf0c75962f38", null ],
+      [ "DATA_PUTRICIDE_GATE_GREEN", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1ab6f716d11cd333efb93346f2b9dbd3db", null ],
+      [ "DATA_PUTRICIDE_PIPE_ORANGE", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1ad2a66709e56fe1d54929ed30014751cb", null ],
+      [ "DATA_PUTRICIDE_PIPE_GREEN", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a06649a794c7f73cf1609e99e7d1ba0e6", null ],
+      [ "DATA_GAS_RELEASE_VALVE", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a23104506a4ba53f1e8cf906944de87c3", null ],
+      [ "DATA_OOZE_RELEASE_VALVE", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a925b3af6dfca3057d9b8e0fd702e3e6d", null ],
+      [ "DATA_PLAGUE_SIGIL", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1ad59859112618d5e36e5c2c53e57b304c", null ],
+      [ "DATA_BLOODWING_SIGIL", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a12f0fba135145b9b476e648a325112cb", null ],
+      [ "DATA_FROSTWING_SIGIL", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a42f86ba9146752b4721bb6dcfad92a3b", null ],
+      [ "DATA_LICH_KING_TELEPORT", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1aefec5d916789c23d0a8319e092fe1f45", null ],
+      [ "DATA_FROZEN_THRONE_EDGE", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a2941eba88668b58cd6d09bd8a0802c69", null ],
+      [ "DATA_FROZEN_THRONE_WIND", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1aadd1209086ec5353482fdb9c9c09040d", null ],
+      [ "DATA_FROZEN_THRONE_WARNING", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a6784c8b2e1b8fbd3e42f5f64fd73b600", null ],
+      [ "DATA_FROZEN_BOLVAR", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a970847415f89f620f20d1f55e45d0340", null ],
+      [ "DATA_PILLARS_CHAINED", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1af143992b27beaf6793d7b29b95d00314", null ],
+      [ "DATA_PILLARS_UNCHAINED", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1ac2659a01d0f056f254e401c44f3078e6", null ],
+      [ "DATA_SCOURGE_TRANSPORTER_FIRST", "d3/d79/instance__icecrown__citadel_8cpp.html#aa9d539f99ffeb5a65876de8d20f981d1a1d1bc38db91214bc88c6ecc703934325", null ]
+    ] ],
+    [ "MovePoints", "d3/d79/instance__icecrown__citadel_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd", [
+      [ "POINT_CAMP_WORKER_SITE", "d3/d79/instance__icecrown__citadel_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda96b8b8694bef2ff556f4ac7c6efe3272", null ],
+      [ "POINT_CAMP_WORKER_TELEPORTER", "d3/d79/instance__icecrown__citadel_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda16993075f9290b05a459dc4dd61a574a", null ]
+    ] ],
+    [ "Paths", "d3/d79/instance__icecrown__citadel_8cpp.html#adf13623d55f10ef40921c7b99c739897", [
+      [ "PATH_CAMP_SHELY_STEELBOWELS", "d3/d79/instance__icecrown__citadel_8cpp.html#adf13623d55f10ef40921c7b99c739897ad5c08dca4f652e04af84070eb04ec6a6", null ],
+      [ "PATH_CAMP_BRAZIE_GETZ", "d3/d79/instance__icecrown__citadel_8cpp.html#adf13623d55f10ef40921c7b99c739897a582bea7652de64382601fe37be374412", null ],
+      [ "PATH_CAMP_APOTHECARY_CANDITH_TOMAS", "d3/d79/instance__icecrown__citadel_8cpp.html#adf13623d55f10ef40921c7b99c739897aefc7991a3728b1d352369d4d90e74545", null ],
+      [ "PATH_CAMP_MORGAN_DAYBLAZE", "d3/d79/instance__icecrown__citadel_8cpp.html#adf13623d55f10ef40921c7b99c739897a67a2aed52f22fb031e92bbfe8933eb0d", null ],
+      [ "PATH_SINDRAGOSA_RESPAWN", "d3/d79/instance__icecrown__citadel_8cpp.html#adf13623d55f10ef40921c7b99c739897a8774894c252c7dd34926d1e13a302d2e", null ]
     ] ],
     [ "Say", "d3/d79/instance__icecrown__citadel_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_SOULS_LICH_KING_RAND_WHISPER", "d3/d79/instance__icecrown__citadel_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a95da95220e07aa19e5b78b57895117ae", null ]
@@ -29,12 +59,24 @@ var instance__icecrown__citadel_8cpp =
     [ "Spells", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_GAS_VARIABLE", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca928dc3a2f23f4796c151995c1f82007f", null ],
       [ "SPELL_OOZE_VARIABLE", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca747c93f2cea8d2889bd57453f2cb2cbe", null ],
-      [ "BLOOD_BEAM_VISUAL_RHAND", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca9b71736307754ed938440c558820b9aa", null ],
-      [ "BLOOD_BEAM_VISUAL_LHAND", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca8a9a20f10d5b17f4f93b0171f70ede42", null ],
-      [ "BLOOD_BEAM_VISUAL_LLEG", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cacb658ca309c42891a8c8014561e1c6fc", null ],
-      [ "BLOOD_BEAM_VISUAL_RLEG", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cad5eeedaba302aaf24730d9b863f8c4bb", null ],
-      [ "VOID_ZONE_VISUAL", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca5df32fcd69941eeba4aafb2097013c09", null ],
-      [ "SPELL_SIMPLE_TELEPORT", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca58ded91cb3c92499be38f0586eb20db8", null ]
+      [ "SPELL_BLOOD_BEAM_VISUAL_RHAND", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298caab4e0e8c1562290abde1d480854209e0", null ],
+      [ "SPELL_BLOOD_BEAM_VISUAL_LHAND", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cae29b24063c17b7015d0b018e4211bdff", null ],
+      [ "SPELL_BLOOD_BEAM_VISUAL_LLEG", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca019dfb0fc9eca14679931bd20748018a", null ],
+      [ "SPELL_BLOOD_BEAM_VISUAL_RLEG", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca2e47195a025d87294e9ca5f690020392", null ],
+      [ "SPELL_VOID_ZONE_VISUAL", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca05c82e544c0064fb71e3f3cb1cadda37", null ],
+      [ "SPELL_SIMPLE_TELEPORT", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca58ded91cb3c92499be38f0586eb20db8", null ],
+      [ "SPELL_HELLSCREAMS_WARSONG_5", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ac3ecfda46f6aa643ece0f44f641b33", null ],
+      [ "SPELL_HELLSCREAMS_WARSONG_10", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca53e4ec628cb43e3f81f0c18b0ac4f975", null ],
+      [ "SPELL_HELLSCREAMS_WARSONG_15", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca0600f68e55bc83c1bfd378def52b3dc2", null ],
+      [ "SPELL_HELLSCREAMS_WARSONG_20", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca080b332bdef72660dcbd3f27de4ad749", null ],
+      [ "SPELL_HELLSCREAMS_WARSONG_25", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cafacf5d1e4e94df30276a0883b762a505", null ],
+      [ "SPELL_HELLSCREAMS_WARSONG_30", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cabc89446d6db680b4adff153318cd6e35", null ],
+      [ "SPELL_STRENGTH_OF_WRYNN_5", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298caea6c8768abdcdfc6cd84741751195207", null ],
+      [ "SPELL_STRENGTH_OF_WRYNN_10", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca56593bb1ff64a113b89be8d820e2f0e4", null ],
+      [ "SPELL_STRENGTH_OF_WRYNN_15", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca814473548ac24378a0324e2ed19b7f62", null ],
+      [ "SPELL_STRENGTH_OF_WRYNN_20", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca56ac1cba831cdc8e5a79328ab12da0ed", null ],
+      [ "SPELL_STRENGTH_OF_WRYNN_25", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca6084f0ee9969a530ebabc5e93382f668", null ],
+      [ "SPELL_STRENGTH_OF_WRYNN_30", "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca8652113c7fe413ec0fd471a15fa4ccc1", null ]
     ] ],
     [ "TimedEvents", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23", [
       [ "EVENT_UPDATE_EXECUTION_TIME", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23ae04c80deaecaec658637034fca6d4a61", null ],
@@ -53,18 +95,17 @@ var instance__icecrown__citadel_8cpp =
       [ "EVENT_SAURFANG_CAMP_WORKER_0_WORK", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a8b3955bbb41a52904e0667929e2cd48f", null ],
       [ "EVENT_SAURFANG_CAMP_WORKER_1_WORK", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a1da794032fd267a4dff2559a86de883f", null ],
       [ "EVENT_SAURFANG_CAMP_TENTS", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23ac5cfbe748a7d34f34a2037edd8e10da9", null ],
-      [ "EVENT_SAURFANG_CAMP_VENDORS", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a76f9c6139ccdbe94f6510ab1814ce2b3", null ]
+      [ "EVENT_SAURFANG_CAMP_VENDORS", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a76f9c6139ccdbe94f6510ab1814ce2b3", null ],
+      [ "EVENT_LICH_KING_WHISPER", "d3/d79/instance__icecrown__citadel_8cpp.html#a9e60647225cba209265d29da6ebeaf23a12101f8c0490935c10208fd59eb82c0b", null ]
     ] ],
     [ "AddSC_instance_icecrown_citadel", "d3/d79/instance__icecrown__citadel_8cpp.html#a658ab117fdf89fd0f299ab8b309d41d2", null ],
+    [ "IsRampartOfSkullsFighter", "d3/d79/instance__icecrown__citadel_8cpp.html#a2b13bc300614d0ac818598ff6b7e7a29", null ],
     [ "RunTimeTo", "d3/d79/instance__icecrown__citadel_8cpp.html#ac1c87c6183da99718ca0957638d748f9", null ],
-    [ "boundaries", "d3/d79/instance__icecrown__citadel_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d3/d79/instance__icecrown__citadel_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "DARKWHISPER_ELEVATOR_DWELL_TIME", "d3/d79/instance__icecrown__citadel_8cpp.html#a4261b9a32b9ea2e0c2bb700926e4da64", null ],
-    [ "doorData", "d3/d79/instance__icecrown__citadel_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "GoSpiritAlarm_1", "d3/d79/instance__icecrown__citadel_8cpp.html#a170700d5462c2039742fc511288aadaa", null ],
-    [ "GoSpiritAlarm_2", "d3/d79/instance__icecrown__citadel_8cpp.html#af86f4cd480ccf338387e95da77f2c9ad", null ],
-    [ "GoSpiritAlarm_3", "d3/d79/instance__icecrown__citadel_8cpp.html#a83ab8375697bc2586854e88347b6242f", null ],
-    [ "GoSpiritAlarm_4", "d3/d79/instance__icecrown__citadel_8cpp.html#a5cc54e93d0a7834f450e3779140707f7", null ],
+    [ "Boundaries", "d3/d79/instance__icecrown__citadel_8cpp.html#a0ac125829326de2c92fc406c26b5525d", null ],
+    [ "CreatureObjectData", "d3/d79/instance__icecrown__citadel_8cpp.html#a22c8af92fa35d4da46641036fc7428f2", null ],
+    [ "DeathwhisperElevatorDwellTime", "d3/d79/instance__icecrown__citadel_8cpp.html#ab80724d4a032dde8af154435c21042ec", null ],
+    [ "Doors", "d3/d79/instance__icecrown__citadel_8cpp.html#aee3a193803cb1b115ce280bc8383060c", null ],
+    [ "GameObjectObjectData", "d3/d79/instance__icecrown__citadel_8cpp.html#aaa5c685da24089d22d7c0f90d22c32a5", null ],
     [ "JainaSpawnPos", "d3/d79/instance__icecrown__citadel_8cpp.html#aff26eada4fd391d31073d6376a089160", null ],
     [ "MuradinSpawnPos", "d3/d79/instance__icecrown__citadel_8cpp.html#ae6187c9e1a8b3881140d756f4ee96ec5", null ],
     [ "SaurfangCampAnvilPosA", "d3/d79/instance__icecrown__citadel_8cpp.html#abd9466b525642853d972678f278a7828", null ],
@@ -83,6 +124,7 @@ var instance__icecrown__citadel_8cpp =
     [ "SaurfangOutroZeppelinPos", "d3/d79/instance__icecrown__citadel_8cpp.html#ab1e56f91bd2ce7071aa1972dc8410563", null ],
     [ "SaurfangZeppelinPassengerOffset", "d3/d79/instance__icecrown__citadel_8cpp.html#a06c57b7049c932318b57b1ef8b15bea9", null ],
     [ "SindragosaSpawnPos", "d3/d79/instance__icecrown__citadel_8cpp.html#aeb1ee63bb2369e3d4813dbbb5648f36a", null ],
+    [ "SpiritAlarmPositions", "d3/d79/instance__icecrown__citadel_8cpp.html#a437942f92bb83d61eba0abf48cf8640a", null ],
     [ "SylvanasSpawnPos", "d3/d79/instance__icecrown__citadel_8cpp.html#a73945b4ee0d52e4d0bd69ddfeb7604fa", null ],
     [ "UtherSpawnPos", "d3/d79/instance__icecrown__citadel_8cpp.html#a20e95e9d752a6952f8388301cd386103", null ],
     [ "WeeklyQuestData", "d3/d79/instance__icecrown__citadel_8cpp.html#ab889d91b737f99f7c83d607fd615a157", null ]

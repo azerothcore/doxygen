@@ -130,8 +130,6 @@ Private Member Functions</h2></td></tr>
 <tr class="separator:a0856d66c801715f16cd251ddf9b25a59"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a55ec42ce316978220103a3a39f3939a3" id="r_a55ec42ce316978220103a3a39f3939a3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db4/classspell__shield__of__bones__aura.html#a55ec42ce316978220103a3a39f3939a3">Validate</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *) override</td></tr>
 <tr class="separator:a55ec42ce316978220103a3a39f3939a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abab656d4ba7e14bf1ffdb1d40c395b5d" id="r_abab656d4ba7e14bf1ffdb1d40c395b5d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db4/classspell__shield__of__bones__aura.html#abab656d4ba7e14bf1ffdb1d40c395b5d">Load</a> () override</td></tr>
-<tr class="separator:abab656d4ba7e14bf1ffdb1d40c395b5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4af67c41afd7843a5cfe2b2e2e9e8055" id="r_a4af67c41afd7843a5cfe2b2e2e9e8055"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db4/classspell__shield__of__bones__aura.html#a4af67c41afd7843a5cfe2b2e2e9e8055">HandleAfterEffectAbsorb</a> (<a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> *, <a class="el" href="../../d2/d2d/classDamageInfo.html">DamageInfo</a> &amp;, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;absorbAmount)</td></tr>
 <tr class="separator:a4af67c41afd7843a5cfe2b2e2e9e8055"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a69d8dfebb981b51592770b7b5807bc80" id="r_a69d8dfebb981b51592770b7b5807bc80"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db4/classspell__shield__of__bones__aura.html#a69d8dfebb981b51592770b7b5807bc80">Register</a> () override</td></tr>
@@ -139,10 +137,10 @@ Private Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:aaf34ee04ae619a3ac108a8fd1c9dac99" id="r_aaf34ee04ae619a3ac108a8fd1c9dac99"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db4/classspell__shield__of__bones__aura.html#aaf34ee04ae619a3ac108a8fd1c9dac99">amount</a></td></tr>
-<tr class="separator:aaf34ee04ae619a3ac108a8fd1c9dac99"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6a7afa99044644608b16e83328bfd5fa" id="r_a6a7afa99044644608b16e83328bfd5fa"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db4/classspell__shield__of__bones__aura.html#a6a7afa99044644608b16e83328bfd5fa">fired</a></td></tr>
-<tr class="separator:a6a7afa99044644608b16e83328bfd5fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ba87a7f6c45b4f138f3dc3e6fe07514" id="r_a7ba87a7f6c45b4f138f3dc3e6fe07514"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db4/classspell__shield__of__bones__aura.html#a7ba87a7f6c45b4f138f3dc3e6fe07514">_absorbedAmount</a> = 0</td></tr>
+<tr class="separator:a7ba87a7f6c45b4f138f3dc3e6fe07514"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad73f5372a6c431dd56079a9c8440d2a6" id="r_ad73f5372a6c431dd56079a9c8440d2a6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db4/classspell__shield__of__bones__aura.html#ad73f5372a6c431dd56079a9c8440d2a6">_fired</a> = false</td></tr>
+<tr class="separator:ad73f5372a6c431dd56079a9c8440d2a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -244,6 +242,8 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:ae85c836ab2da173942a40b53561df1fb inherit pub_methods_class__SpellScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad3c16df6214a973fca3c62e4bc23f6a6 inherit pub_methods_class__SpellScript" id="r_ad3c16df6214a973fca3c62e4bc23f6a6"><td class="memItemLeft" align="right" valign="top">std::string const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddb/class__SpellScript.html#ad3c16df6214a973fca3c62e4bc23f6a6">_GetScriptName</a> () const</td></tr>
 <tr class="separator:ad3c16df6214a973fca3c62e4bc23f6a6 inherit pub_methods_class__SpellScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad3b8fb5dd2bc5ca4dd34da5a98a76443 inherit pub_methods_class__SpellScript" id="r_ad3b8fb5dd2bc5ca4dd34da5a98a76443"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">Load</a> ()</td></tr>
+<tr class="separator:ad3b8fb5dd2bc5ca4dd34da5a98a76443 inherit pub_methods_class__SpellScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad501b6dde3e42c3af93589b117e2cafc inherit pub_methods_class__SpellScript" id="r_ad501b6dde3e42c3af93589b117e2cafc"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/ddb/class__SpellScript.html#ad501b6dde3e42c3af93589b117e2cafc">Unload</a> ()</td></tr>
 <tr class="separator:ad501b6dde3e42c3af93589b117e2cafc inherit pub_methods_class__SpellScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_static_methods_class__SpellScript"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_class__SpellScript')"><img src="../../closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="../../dd/ddb/class__SpellScript.html">_SpellScript</a></td></tr>
@@ -350,60 +350,28 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  284</span>    {</div>
-<div class="line"><span class="lineno">  285</span>        <a class="code hl_variable" href="../../d7/db4/classspell__shield__of__bones__aura.html#aaf34ee04ae619a3ac108a8fd1c9dac99">amount</a> += absorbAmount;</div>
-<div class="line"><span class="lineno">  286</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/db4/classspell__shield__of__bones__aura.html#a6a7afa99044644608b16e83328bfd5fa">fired</a> &amp;&amp; <a class="code hl_variable" href="../../d7/db4/classspell__shield__of__bones__aura.html#aaf34ee04ae619a3ac108a8fd1c9dac99">amount</a> &gt;= <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;Effects[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>].BasePoints + 1)</div>
-<div class="line"><span class="lineno">  287</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  288</span>            {</div>
-<div class="line"><span class="lineno">  289</span>                <a class="code hl_variable" href="../../d7/db4/classspell__shield__of__bones__aura.html#a6a7afa99044644608b16e83328bfd5fa">fired</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  290</span>                caster-&gt;CastSpell(caster, <a class="code hl_enumvalue" href="../../d5/d92/forge__of__souls_8cpp.html#ae3b6db63d10b33b77928f7e706e5f498af595028bda48d21bc9de5acbdd95d0df">SPELL_SHIELD_OF_BONES_DAMAGE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  291</span>            }</div>
-<div class="line"><span class="lineno">  292</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  279</span>    {</div>
+<div class="line"><span class="lineno">  280</span>        <a class="code hl_variable" href="../../d7/db4/classspell__shield__of__bones__aura.html#a7ba87a7f6c45b4f138f3dc3e6fe07514">_absorbedAmount</a> += absorbAmount;</div>
+<div class="line"><span class="lineno">  281</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/db4/classspell__shield__of__bones__aura.html#ad73f5372a6c431dd56079a9c8440d2a6">_fired</a> &amp;&amp; <a class="code hl_variable" href="../../d7/db4/classspell__shield__of__bones__aura.html#a7ba87a7f6c45b4f138f3dc3e6fe07514">_absorbedAmount</a> &gt;= <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;Effects[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>].BasePoints + 1)</div>
+<div class="line"><span class="lineno">  282</span>        {</div>
+<div class="line"><span class="lineno">  283</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  284</span>            {</div>
+<div class="line"><span class="lineno">  285</span>                <a class="code hl_variable" href="../../d7/db4/classspell__shield__of__bones__aura.html#ad73f5372a6c431dd56079a9c8440d2a6">_fired</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  286</span>                caster-&gt;CastSpell(caster, <a class="code hl_enumvalue" href="../../d5/d92/forge__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298caf595028bda48d21bc9de5acbdd95d0df">SPELL_SHIELD_OF_BONES_DAMAGE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  287</span>            }</div>
+<div class="line"><span class="lineno">  288</span>        }</div>
+<div class="line"><span class="lineno">  289</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
-<div class="ttc" id="aclassAuraScript_html_a4bb3068ac63e4645787fac6ff0085662"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">AuraScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1011</div></div>
-<div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1026</div></div>
+<div class="ttc" id="aclassAuraScript_html_a4bb3068ac63e4645787fac6ff0085662"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">AuraScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1040</div></div>
+<div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1055</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:670</div></div>
-<div class="ttc" id="aclassspell__shield__of__bones__aura_html_a6a7afa99044644608b16e83328bfd5fa"><div class="ttname"><a href="../../d7/db4/classspell__shield__of__bones__aura.html#a6a7afa99044644608b16e83328bfd5fa">spell_shield_of_bones_aura::fired</a></div><div class="ttdeci">bool fired</div><div class="ttdef"><b>Definition</b> forge_of_souls.cpp:274</div></div>
-<div class="ttc" id="aclassspell__shield__of__bones__aura_html_aaf34ee04ae619a3ac108a8fd1c9dac99"><div class="ttname"><a href="../../d7/db4/classspell__shield__of__bones__aura.html#aaf34ee04ae619a3ac108a8fd1c9dac99">spell_shield_of_bones_aura::amount</a></div><div class="ttdeci">int32 amount</div><div class="ttdef"><b>Definition</b> forge_of_souls.cpp:273</div></div>
-<div class="ttc" id="aforge__of__souls_8cpp_html_ae3b6db63d10b33b77928f7e706e5f498af595028bda48d21bc9de5acbdd95d0df"><div class="ttname"><a href="../../d5/d92/forge__of__souls_8cpp.html#ae3b6db63d10b33b77928f7e706e5f498af595028bda48d21bc9de5acbdd95d0df">SPELL_SHIELD_OF_BONES_DAMAGE</a></div><div class="ttdeci">@ SPELL_SHIELD_OF_BONES_DAMAGE</div><div class="ttdef"><b>Definition</b> forge_of_souls.cpp:261</div></div>
+<div class="ttc" id="aclassspell__shield__of__bones__aura_html_a7ba87a7f6c45b4f138f3dc3e6fe07514"><div class="ttname"><a href="../../d7/db4/classspell__shield__of__bones__aura.html#a7ba87a7f6c45b4f138f3dc3e6fe07514">spell_shield_of_bones_aura::_absorbedAmount</a></div><div class="ttdeci">int32 _absorbedAmount</div><div class="ttdef"><b>Definition</b> forge_of_souls.cpp:297</div></div>
+<div class="ttc" id="aclassspell__shield__of__bones__aura_html_ad73f5372a6c431dd56079a9c8440d2a6"><div class="ttname"><a href="../../d7/db4/classspell__shield__of__bones__aura.html#ad73f5372a6c431dd56079a9c8440d2a6">spell_shield_of_bones_aura::_fired</a></div><div class="ttdeci">bool _fired</div><div class="ttdef"><b>Definition</b> forge_of_souls.cpp:298</div></div>
+<div class="ttc" id="aforge__of__souls_8cpp_html_a5bd342133be8c2137b831460acc9298caf595028bda48d21bc9de5acbdd95d0df"><div class="ttname"><a href="../../d5/d92/forge__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298caf595028bda48d21bc9de5acbdd95d0df">SPELL_SHIELD_OF_BONES_DAMAGE</a></div><div class="ttdeci">@ SPELL_SHIELD_OF_BONES_DAMAGE</div><div class="ttdef"><b>Definition</b> forge_of_souls.cpp:74</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00273">amount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00274">fired</a>, <a class="el" href="../../#l01026">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01011">AuraScript::GetSpellInfo()</a>, and <a class="el" href="../../#l00261">SPELL_SHIELD_OF_BONES_DAMAGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00297">_absorbedAmount</a>, <a class="el" href="../../#l00298">_fired</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01055">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01040">AuraScript::GetSpellInfo()</a>, and <a class="el" href="../../#l00074">SPELL_SHIELD_OF_BONES_DAMAGE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00294">Register()</a>.</p>
-
-</div>
-</div>
-<a id="abab656d4ba7e14bf1ffdb1d40c395b5d" name="abab656d4ba7e14bf1ffdb1d40c395b5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abab656d4ba7e14bf1ffdb1d40c395b5d">&#9670;&#160;</a></span>Load()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool spell_shield_of_bones_aura::Load </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">private</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  277</span>    {</div>
-<div class="line"><span class="lineno">  278</span>        <a class="code hl_variable" href="../../d7/db4/classspell__shield__of__bones__aura.html#a6a7afa99044644608b16e83328bfd5fa">fired</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  279</span>        <a class="code hl_variable" href="../../d7/db4/classspell__shield__of__bones__aura.html#aaf34ee04ae619a3ac108a8fd1c9dac99">amount</a> = 0;</div>
-<div class="line"><span class="lineno">  280</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  281</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00273">amount</a>, and <a class="el" href="../../#l00274">fired</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00291">Register()</a>.</p>
 
 </div>
 </div>
@@ -457,14 +425,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  295</span>    {</div>
-<div class="line"><span class="lineno">  296</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5af04c13248e2f458447c3609ec2c097">AfterEffectAbsorb</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a>(<a class="code hl_function" href="../../d7/db4/classspell__shield__of__bones__aura.html#a4af67c41afd7843a5cfe2b2e2e9e8055">spell_shield_of_bones_aura::HandleAfterEffectAbsorb</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>);</div>
-<div class="line"><span class="lineno">  297</span>    }</div>
-<div class="ttc" id="aSpellScript_8h_html_ab4a9285b03a1956f599d7ee5f955373a"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a></div><div class="ttdeci">#define AuraEffectAbsorbFn(F, I)</div><div class="ttdef"><b>Definition</b> SpellScript.h:791</div></div>
-<div class="ttc" id="aclassAuraScript_html_a5af04c13248e2f458447c3609ec2c097"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a5af04c13248e2f458447c3609ec2c097">AuraScript::AfterEffectAbsorb</a></div><div class="ttdeci">HookList&lt; EffectAbsorbHandler &gt; AfterEffectAbsorb</div><div class="ttdef"><b>Definition</b> SpellScript.h:796</div></div>
-<div class="ttc" id="aclassspell__shield__of__bones__aura_html_a4af67c41afd7843a5cfe2b2e2e9e8055"><div class="ttname"><a href="../../d7/db4/classspell__shield__of__bones__aura.html#a4af67c41afd7843a5cfe2b2e2e9e8055">spell_shield_of_bones_aura::HandleAfterEffectAbsorb</a></div><div class="ttdeci">void HandleAfterEffectAbsorb(AuraEffect *, DamageInfo &amp;, uint32 &amp;absorbAmount)</div><div class="ttdef"><b>Definition</b> forge_of_souls.cpp:283</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  292</span>    {</div>
+<div class="line"><span class="lineno">  293</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5af04c13248e2f458447c3609ec2c097">AfterEffectAbsorb</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a>(<a class="code hl_function" href="../../d7/db4/classspell__shield__of__bones__aura.html#a4af67c41afd7843a5cfe2b2e2e9e8055">spell_shield_of_bones_aura::HandleAfterEffectAbsorb</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>);</div>
+<div class="line"><span class="lineno">  294</span>    }</div>
+<div class="ttc" id="aSpellScript_8h_html_ab4a9285b03a1956f599d7ee5f955373a"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a></div><div class="ttdeci">#define AuraEffectAbsorbFn(F, I)</div><div class="ttdef"><b>Definition</b> SpellScript.h:798</div></div>
+<div class="ttc" id="aclassAuraScript_html_a5af04c13248e2f458447c3609ec2c097"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a5af04c13248e2f458447c3609ec2c097">AuraScript::AfterEffectAbsorb</a></div><div class="ttdeci">HookList&lt; EffectAbsorbHandler &gt; AfterEffectAbsorb</div><div class="ttdef"><b>Definition</b> SpellScript.h:803</div></div>
+<div class="ttc" id="aclassspell__shield__of__bones__aura_html_a4af67c41afd7843a5cfe2b2e2e9e8055"><div class="ttname"><a href="../../d7/db4/classspell__shield__of__bones__aura.html#a4af67c41afd7843a5cfe2b2e2e9e8055">spell_shield_of_bones_aura::HandleAfterEffectAbsorb</a></div><div class="ttdeci">void HandleAfterEffectAbsorb(AuraEffect *, DamageInfo &amp;, uint32 &amp;absorbAmount)</div><div class="ttdef"><b>Definition</b> forge_of_souls.cpp:278</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00796">AuraScript::AfterEffectAbsorb</a>, <a class="el" href="../../#l00791">AuraEffectAbsorbFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, and <a class="el" href="../../#l00283">HandleAfterEffectAbsorb()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00803">AuraScript::AfterEffectAbsorb</a>, <a class="el" href="../../#l00798">AuraEffectAbsorbFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, and <a class="el" href="../../#l00278">HandleAfterEffectAbsorb()</a>.</p>
 
 </div>
 </div>
@@ -493,18 +461,18 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  269</span>    {</div>
-<div class="line"><span class="lineno">  270</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d5/d92/forge__of__souls_8cpp.html#ae3b6db63d10b33b77928f7e706e5f498af595028bda48d21bc9de5acbdd95d0df">SPELL_SHIELD_OF_BONES_DAMAGE</a> });</div>
-<div class="line"><span class="lineno">  271</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  274</span>    {</div>
+<div class="line"><span class="lineno">  275</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d5/d92/forge__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298caf595028bda48d21bc9de5acbdd95d0df">SPELL_SHIELD_OF_BONES_DAMAGE</a> });</div>
+<div class="line"><span class="lineno">  276</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00261">SPELL_SHIELD_OF_BONES_DAMAGE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00074">SPELL_SHIELD_OF_BONES_DAMAGE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="aaf34ee04ae619a3ac108a8fd1c9dac99" name="aaf34ee04ae619a3ac108a8fd1c9dac99"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf34ee04ae619a3ac108a8fd1c9dac99">&#9670;&#160;</a></span>amount</h2>
+<a id="a7ba87a7f6c45b4f138f3dc3e6fe07514" name="a7ba87a7f6c45b4f138f3dc3e6fe07514"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7ba87a7f6c45b4f138f3dc3e6fe07514">&#9670;&#160;</a></span>_absorbedAmount</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -513,7 +481,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> spell_shield_of_bones_aura::amount</td>
+          <td class="memname"><a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> spell_shield_of_bones_aura::_absorbedAmount = 0</td>
         </tr>
       </table>
   </td>
@@ -523,12 +491,12 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00283">HandleAfterEffectAbsorb()</a>, and <a class="el" href="../../#l00276">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00278">HandleAfterEffectAbsorb()</a>.</p>
 
 </div>
 </div>
-<a id="a6a7afa99044644608b16e83328bfd5fa" name="a6a7afa99044644608b16e83328bfd5fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a7afa99044644608b16e83328bfd5fa">&#9670;&#160;</a></span>fired</h2>
+<a id="ad73f5372a6c431dd56079a9c8440d2a6" name="ad73f5372a6c431dd56079a9c8440d2a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad73f5372a6c431dd56079a9c8440d2a6">&#9670;&#160;</a></span>_fired</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -537,7 +505,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool spell_shield_of_bones_aura::fired</td>
+          <td class="memname">bool spell_shield_of_bones_aura::_fired = false</td>
         </tr>
       </table>
   </td>
@@ -547,7 +515,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00283">HandleAfterEffectAbsorb()</a>, and <a class="el" href="../../#l00276">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00278">HandleAfterEffectAbsorb()</a>.</p>
 
 </div>
 </div>
@@ -560,7 +528,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/db4/classspell__shield__of__bones__aura.html">spell_shield_of_bones_aura</a></li>
-    <li class="footer">Generated on Fri Nov 20 2026 14:48:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 21 2026 14:03:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
