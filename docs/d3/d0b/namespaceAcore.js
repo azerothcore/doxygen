@@ -38,7 +38,8 @@ var namespaceAcore =
     ] ],
     [ "PlayerCommand", "db/d99/namespaceAcore_1_1PlayerCommand.html", [
       [ "HandleLearnSpellCommand", "db/d99/namespaceAcore_1_1PlayerCommand.html#acbe37f872cbc981a27671ebdf10904de", null ],
-      [ "HandleUnlearnSpellCommand", "db/d99/namespaceAcore_1_1PlayerCommand.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+      [ "HandleUnlearnSpellCommand", "db/d99/namespaceAcore_1_1PlayerCommand.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ],
+      [ "SummonOnlinePlayer", "db/d99/namespaceAcore_1_1PlayerCommand.html#a1b20c5f7d660bb1c84fe676c48d24aa0", null ]
     ] ],
     [ "SpellScripts", "dc/d6a/namespaceAcore_1_1SpellScripts.html", [
       [ "is_AuraScript", "dc/d6a/namespaceAcore_1_1SpellScripts.html#a08facc7292565931370e1cc514f726e1", null ],

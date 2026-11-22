@@ -1,5 +1,12 @@
 var NAVTREEINDEX207 =
 {
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[7,0,13,3,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,35,3,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,35,3,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[7,0,13,3,1,0],
+"d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[7,0,3961],
+"d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a14bd854db86750704c8377d457dea360":[7,0,3961,2],
+"d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a6732d51d5de34b3e737cc785fb2ab43e":[7,0,3961,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#aec199e9f9651267fac88bd86be326bb4":[7,0,3961,1],
 "d7/d80/classboss__thaddius.html":[7,0,741],
 "d7/d80/classboss__thaddius.html#acf841c6897396f517a74932fc3480e69":[7,0,741,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX207 =
 "d7/d8f/boss__loatheb_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa3b85ad788995d5f410a64f9477d917c":[8,0,0,0,1,3,5,7,8,4,2],
 "d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,7,8,2],
 "d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1027f9ec66b879d523a102bcc961af99":[8,0,0,0,1,3,5,7,8,2,5],
-"d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a27937653aa8731ed8d3e20ddfca0cbb9":[8,0,0,0,1,3,5,7,8,2,0],
-"d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ad1b4da43ccbaef0fbde04ed66bc662":[8,0,0,0,1,3,5,7,8,2,6],
-"d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6073aaa814e1d74cbe47c07e6fcc5b02":[8,0,0,0,1,3,5,7,8,2,4],
-"d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[8,0,0,0,1,3,5,7,8,2,3],
-"d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9ab6c0c1b3e4c22518826439657e37f4":[8,0,0,0,1,3,5,7,8,2,1],
-"d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa71097ab3d0e9698e7871b80cb7e11bc":[8,0,0,0,1,3,5,7,8,2,2],
-"d7/d8f/structWardenInitModuleRequest.html":[7,0,4700],
-"d7/d8f/structWardenInitModuleRequest.html#a0f618ae1204586a6332008223bf09808":[7,0,4700,23]
+"d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a27937653aa8731ed8d3e20ddfca0cbb9":[8,0,0,0,1,3,5,7,8,2,0]
 };

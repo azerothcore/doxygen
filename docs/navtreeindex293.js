@@ -1,5 +1,15 @@
 var NAVTREEINDEX293 =
 {
+"db/d09/boss__devourer__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abd73e5d92dabc0698fb7e80a37148d92":[8,0,0,0,1,3,5,4,0,1,2,2],
+"db/d09/boss__devourer__of__souls_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af9746f716f41fa3abee73388e245ba1e":[8,0,0,0,1,3,5,4,0,1,2,0],
+"db/d09/classOutdoorPvP__grizzly__hills.html":[7,0,2391],
+"db/d09/classOutdoorPvP__grizzly__hills.html#aa020d8120c62874fb15b4623bbb714d9":[7,0,2391,0],
+"db/d09/classOutdoorPvP__grizzly__hills.html#add8a0c81bcc55c7b382c25fa077b80ce":[7,0,2391,1],
+"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html":[7,0,769,0],
+"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a03ed306478f27f41571a43cfb8ed5f19":[7,0,769,0,2],
+"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a0cb60f308637cbd152faf274b3e5f636":[7,0,769,0,1],
+"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a249b7dc28dfc40c2a782ef32b88dbb48":[7,0,769,0,4],
+"db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a4357dc2e9b1d714d780db6ce3f60728b":[7,0,769,0,7],
 "db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a753de14d2cecaaed2c7b24e09397b008":[7,0,769,0,0],
 "db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#a9d18bab323c676020dede77a498a5b77":[7,0,769,0,3],
 "db/d0a/structboss__tyrannus_1_1boss__tyrannusAI.html#ab367b7366ce16002712921da6c979a54":[7,0,769,0,8],
@@ -239,15 +249,5 @@ var NAVTREEINDEX293 =
 "db/d16/classTransportScript.html#a6d6a3af4fcde46101b78cfdb787a2248":[7,0,4638,5],
 "db/d16/classTransportScript.html#a806f4829b47429900271f6dde7eaa625":[7,0,4638,3],
 "db/d16/classTransportScript.html#a956f0d757e5d974566fa8fac0df731e5":[7,0,4638,1],
-"db/d16/classTransportScript.html#ac328f301c960bc154ada0e5f1fed294e":[7,0,4638,0],
-"db/d16/spell__paladin_8cpp.html":[8,0,0,0,1,3,9,6],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997":[8,0,0,0,1,3,9,6,56],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a025899e97617212364a7bf3174d200de":[8,0,0,0,1,3,9,6,56,4],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a068a5d12032c28a6abdcf144964077e9":[8,0,0,0,1,3,9,6,56,40],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a102ddef0ca316849f71ab2776c431507":[8,0,0,0,1,3,9,6,56,5],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a17a5199969f77714058e81d1fb044dd6":[8,0,0,0,1,3,9,6,56,52],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a1d0092615ebcf819786174669b07e310":[8,0,0,0,1,3,9,6,56,18],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a24fa5c0890d964f26e1b616b498693f5":[8,0,0,0,1,3,9,6,56,39],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a303ac091d07cc43553b09515f251c6ac":[8,0,0,0,1,3,9,6,56,31],
-"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a31e4829b98bcf66572027a5a66196b50":[8,0,0,0,1,3,9,6,56,26]
+"db/d16/classTransportScript.html#ac328f301c960bc154ada0e5f1fed294e":[7,0,4638,0]
 };

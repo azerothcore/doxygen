@@ -1,5 +1,9 @@
 var NAVTREEINDEX176 =
 {
+"d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caab47ffc8cbbcb587bbe1a3e348c95bee3":[8,0,0,0,1,3,5,2,0,2,3,6],
+"d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caab5c7cf189387b2aadb9746071e7b7d87":[8,0,0,0,1,3,5,2,0,2,3,13],
+"d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caabc542daa55be8c65656cab5672d1cdf5":[8,0,0,0,1,3,5,2,0,2,3,15],
+"d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caac0997e72929070d8e30cc0f49cc4539d":[8,0,0,0,1,3,5,2,0,2,3,4],
 "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caac4805ec8de8bfae0bfac10a7cd3d1e3c":[8,0,0,0,1,3,5,2,0,2,3,8],
 "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caac7138c3b5a7250d35e73359c3d5e2987":[8,0,0,0,1,3,5,2,0,2,3,9],
 "d6/d1b/boss__grand__champions_8cpp.html#adcb6c51cb632a951ce8fa27efa6235caad692b386d1fda5663322f3ce71eb26a0":[8,0,0,0,1,3,5,2,0,2,3,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d26/classBattlefield.html#aa971aacb2e549ecabfb7a7a1b662939b":[7,0,326,4],
 "d6/d26/classBattlefield.html#aa9e2c86b9d4b44899e173327a49db2bf":[7,0,326,56],
 "d6/d26/classBattlefield.html#aaa40ac881f925d773effdafc4fd3a487":[7,0,326,120],
-"d6/d26/classBattlefield.html#aaa6f14c3ca5e11dccd4e5e2082e3f4d2":[7,0,326,24],
-"d6/d26/classBattlefield.html#aaae93944710d031b6f83c7bf2100bc95":[7,0,326,67],
-"d6/d26/classBattlefield.html#aab362a6eae4cb01cdeeb9016eab26788":[7,0,326,123],
-"d6/d26/classBattlefield.html#aacc517e23a46c6e9b4fc859ef566de36":[7,0,326,102],
-"d6/d26/classBattlefield.html#aacfd9a4e38f445411e41af8ebf5d1ccc":[7,0,326,89]
+"d6/d26/classBattlefield.html#aaa6f14c3ca5e11dccd4e5e2082e3f4d2":[7,0,326,24]
 };

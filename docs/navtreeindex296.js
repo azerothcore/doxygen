@@ -1,5 +1,15 @@
 var NAVTREEINDEX296 =
 {
+"db/d2f/structPvPDifficultyEntry.html#a1385166568239f2118b65377df8b4b55":[7,0,2510,5],
+"db/d2f/structPvPDifficultyEntry.html#a33ac017d785a4586a78e715d97836720":[7,0,2510,3],
+"db/d2f/structPvPDifficultyEntry.html#a4bcbc99d34ef8eaa7c15dbd33332c480":[7,0,2510,1],
+"db/d2f/structPvPDifficultyEntry.html#a58c251f56a928bedbc7b9e8c6cbdbc5d":[7,0,2510,4],
+"db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a":[7,0,2510,2],
+"db/d2f/structPvPDifficultyEntry.html#acd07e8d759af1b73ec7543f6e70df242":[7,0,2510,6],
+"db/d2f/structPvPDifficultyEntry.html#acdf17ca6dce80b7311bd6ae79ce16001":[7,0,2510,0],
+"db/d30/classPlayerDumpReader.html":[7,0,2458],
+"db/d30/classPlayerDumpReader.html#a62ca90cbcb0d03ec0da52651d8c5f783":[7,0,2458,1],
+"db/d30/classPlayerDumpReader.html#abd4ce2c50a74922792a7b00d803f03b2":[7,0,2458,3],
 "db/d30/classPlayerDumpReader.html#ad630b61e298fb1ddf165481c9a14e077":[7,0,2458,0],
 "db/d30/classPlayerDumpReader.html#ae1ed88a6f181cf6ad952edb1285e192e":[7,0,2458,2],
 "db/d30/structboss__hydromancer__thespia.html":[7,0,556],
@@ -239,15 +249,5 @@ var NAVTREEINDEX296 =
 "db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298cac4d147dbcb7546b7c25cc875d96fa5b7":[8,0,0,0,1,3,7,0,3,3,6,2],
 "db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298cafab70fb237328fd069291250df8a89ec":[8,0,0,0,1,3,7,0,3,3,6,7],
 "db/d3f/boss__murmur_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[8,0,0,0,1,3,7,0,3,3,5],
-"db/d3f/boss__murmur_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753ac30936c8e83531e2757ef3c8b4be459b":[8,0,0,0,1,3,7,0,3,3,5,0],
-"db/d3f/boss__murmur_8cpp.html#ac4b0a537cfe1e2e72571857069862bae":[8,0,0,0,1,3,7,0,3,3,7],
-"db/d40/classspell__gen__vampiric__touch.html":[7,0,3189],
-"db/d40/classspell__gen__vampiric__touch.html#a2258b59fc50468dd5c8fa97e1fcb2dd9":[7,0,3189,2],
-"db/d40/classspell__gen__vampiric__touch.html#a5a658d1feb1e1ae1d4866bab40ca03e6":[7,0,3189,0],
-"db/d40/classspell__gen__vampiric__touch.html#a8466306b9a95f8a57e1998c57ba10ca2":[7,0,3189,3],
-"db/d40/classspell__gen__vampiric__touch.html#ab424a5c9da846e0b7ac93620163140fb":[7,0,3189,1],
-"db/d40/classspell__muru__darkness__aura.html":[7,0,3743],
-"db/d40/classspell__muru__darkness__aura.html#a25e7a59384f262a36c74696a1befa01d":[7,0,3743,0],
-"db/d40/classspell__muru__darkness__aura.html#a65e469ba04d8cd2aa23d934bf2915721":[7,0,3743,2],
-"db/d40/classspell__muru__darkness__aura.html#a6843deda5be8b684c06a86920714f255":[7,0,3743,3]
+"db/d3f/boss__murmur_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753ac30936c8e83531e2757ef3c8b4be459b":[8,0,0,0,1,3,7,0,3,3,5,0]
 };

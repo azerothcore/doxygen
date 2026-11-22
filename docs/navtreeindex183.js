@@ -1,5 +1,9 @@
 var NAVTREEINDEX183 =
 {
+"d6/d58/classspell__item__unusual__compass.html#a9530db7f75987879285d224fb8381c2b":[7,0,3552,0],
+"d6/d58/classspell__item__unusual__compass.html#ad1c1bdb577739f769802127960aaf9e5":[7,0,3552,1],
+"d6/d58/classspell__item__unusual__compass.html#ae3a340132caf3f8839631c92015d47a0":[7,0,3552,2],
+"d6/d58/classspell__load__into__catapult__aura.html":[7,0,3622],
 "d6/d58/classspell__load__into__catapult__aura.html#a3f2ef4882bcd52e091a0bcfabfc352cd":[7,0,3622,0],
 "d6/d58/classspell__load__into__catapult__aura.html#a63a3e30704b282a430dcdbb9073a66df":[7,0,3622,3],
 "d6/d58/classspell__load__into__catapult__aura.html#a6ccb698445ce30c5224dcacc3dc8136b":[7,0,3622,4],
@@ -88,10 +92,10 @@ var NAVTREEINDEX183 =
 "d6/d5b/classspell__renew__skirmisher.html#ab0b03fd2d1a0ed6720acc45221a582f6":[7,0,4054,2],
 "d6/d5b/classspell__renew__skirmisher.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32":[7,0,4054,0],
 "d6/d5b/classspell__renew__skirmisher.html#ae621e95feb69b54f9aef5d77577a15ae":[7,0,4054,1],
-"d6/d5c/classAcore_1_1ACLogSink.html":[5,0,0,19],
 "d6/d5c/classAcore_1_1ACLogSink.html":[7,0,0,7],
-"d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[7,0,0,7,2],
+"d6/d5c/classAcore_1_1ACLogSink.html":[5,0,0,19],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,0,19,2],
+"d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[7,0,0,7,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[5,0,0,19,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[7,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,0,19,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX183 =
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da9fad4d2f68fdc1d04d865354612bea88":[8,0,0,0,1,3,2,1,0,15,4,0],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3daae0f4e6408e4f32858c3301fd48aea0a":[8,0,0,0,1,3,2,1,0,15,4,19],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3dad2df80e2061b2c748ec12a30383df1c7":[8,0,0,0,1,3,2,1,0,15,4,9],
-"d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3dad40807a367a7f24dc81cebe86c29173f":[8,0,0,0,1,3,2,1,0,15,4,18],
-"d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3dad7eeda94a7e9bbc50d9bd4f704fc2af1":[8,0,0,0,1,3,2,1,0,15,4,20],
-"d6/d61/instance__blackrock__depths_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8b":[8,0,0,0,1,3,2,1,0,15,5],
-"d6/d61/instance__blackrock__depths_8cpp.html#a1df2a0c7338a4dff24c5b303ccaf2e8baf94f02d8e9b9db817d1d6af1f8f31a12":[8,0,0,0,1,3,2,1,0,15,5,0],
-"d6/d61/instance__blackrock__depths_8cpp.html#a36a96c1a3d77e47e3e4332fd34256e3a":[8,0,0,0,1,3,2,1,0,15,2]
+"d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3dad40807a367a7f24dc81cebe86c29173f":[8,0,0,0,1,3,2,1,0,15,4,18]
 };

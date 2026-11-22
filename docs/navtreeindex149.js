@@ -1,5 +1,8 @@
 var NAVTREEINDEX149 =
 {
+"d5/d10/classspell__dru__t9__feral__relic.html#ad87e455c7e09c040f574140921b4e406":[7,0,2965,3],
+"d5/d10/classspell__dru__t9__feral__relic.html#aee9068453d0c16088eb120da65657903":[7,0,2965,2],
+"d5/d10/classspell__item__sunwell__exalted__melee__neck.html":[7,0,3533],
 "d5/d10/classspell__item__sunwell__exalted__melee__neck.html#abfb835c784033a6b2eb4159a6a15221e":[7,0,3533,3],
 "d5/d10/classspell__item__sunwell__exalted__melee__neck.html#acbaa8391980af138bd53173f0b8bd243":[7,0,3533,1],
 "d5/d10/classspell__item__sunwell__exalted__melee__neck.html#adae03d8ff102215e61bbfff13c63290d":[7,0,3533,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX149 =
 "d5/d1c/cs__script__loader_8cpp.html#a60390ceaf08c6b305bdc77fd27243938":[8,0,0,0,1,3,0,45,31],
 "d5/d1c/cs__script__loader_8cpp.html#a65c7b128fdf4dd9807ef514c24918e7b":[8,0,0,0,1,3,0,45,18],
 "d5/d1c/cs__script__loader_8cpp.html#a75673ffc02c68c43cefd69bb0648dd53":[8,0,0,0,1,3,0,45,50],
-"d5/d1c/cs__script__loader_8cpp.html#a7b374923a29bdbff68b6e78d2ef4a3e0":[8,0,0,0,1,3,0,45,9],
-"d5/d1c/cs__script__loader_8cpp.html#a81af00772e7a06ad952109222b1f53a3":[8,0,0,0,1,3,0,45,29],
-"d5/d1c/cs__script__loader_8cpp.html#a85760eb92ac87e8dcb18c91d31f09fc0":[8,0,0,0,1,3,0,45,32],
-"d5/d1c/cs__script__loader_8cpp.html#a8917ab2c5001702c3dc7a14313dbc562":[8,0,0,0,1,3,0,45,25]
+"d5/d1c/cs__script__loader_8cpp.html#a7b374923a29bdbff68b6e78d2ef4a3e0":[8,0,0,0,1,3,0,45,9]
 };

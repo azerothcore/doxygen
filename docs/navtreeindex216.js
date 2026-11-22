@@ -1,5 +1,14 @@
 var NAVTREEINDEX216 =
 {
+"d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a7c73e3381592bef44d2265aff296b301":[7,0,3953,2],
+"d7/da8/classspell__dru__glyph__of__starfire.html":[7,0,2928],
+"d7/da8/classspell__dru__glyph__of__starfire.html#a3a33f0ec477ff3b4b19fc98760a2dae7":[7,0,2928,0],
+"d7/da8/classspell__dru__glyph__of__starfire.html#ae29c4f69a34e71011192df12509e2935":[7,0,2928,1],
+"d7/da8/classspell__dru__glyph__of__starfire.html#ae37da44bde25f6bdb5b4a382ab66b7be":[7,0,2928,2],
+"d7/da8/classspell__dru__glyph__of__starfire.html#af9056c179b8089cf0b304b3ce61ea92f":[7,0,2928,3],
+"d7/da8/classspell__item__tiny__abomination__in__a__jar.html":[7,0,3539],
+"d7/da8/classspell__item__tiny__abomination__in__a__jar.html#a0ea66a92b78e59b50181b54ab285b9db":[7,0,3539,4],
+"d7/da8/classspell__item__tiny__abomination__in__a__jar.html#a9ee52d89eeff45a4f9df1982da6f7d78":[7,0,3539,3],
 "d7/da8/classspell__item__tiny__abomination__in__a__jar.html#ab3008bcdeb90825213d2352812ff21d5":[7,0,3539,2],
 "d7/da8/classspell__item__tiny__abomination__in__a__jar.html#ad470545a3c3f1ffaad2d895f122522e1":[7,0,3539,0],
 "d7/da8/classspell__item__tiny__abomination__in__a__jar.html#adc9b9b988aa1342c34a49622f54d8484":[7,0,3539,1],
@@ -240,14 +249,5 @@ var NAVTREEINDEX216 =
 "d7/db0/classMap.html#a95d6cce117504b56200b703c935c538e":[7,0,1523,157],
 "d7/db0/classMap.html#a96122e684358413e5aeddc387d164c47":[7,0,1523,258],
 "d7/db0/classMap.html#a974696541a26b3c4ca92d2b9f663cbe4":[7,0,1523,232],
-"d7/db0/classMap.html#a97acf003ca8bdb7eccad6c6d2e26a108":[7,0,1523,87],
-"d7/db0/classMap.html#a97f29654e5c2219b6f68f98b566e534e":[7,0,1523,37],
-"d7/db0/classMap.html#a9832c61d408be32fcf47b4606a623c1c":[7,0,1523,40],
-"d7/db0/classMap.html#a9869c29763545c30a707e6503566fe6a":[7,0,1523,161],
-"d7/db0/classMap.html#a98b7bce41c4ebd6c3b509c6b42eb159f":[7,0,1523,17],
-"d7/db0/classMap.html#a98d942542505bc9e9d62d64925c76508":[7,0,1523,263],
-"d7/db0/classMap.html#a98ef9f7412045ae5124bd5cb7b65868a":[7,0,1523,172],
-"d7/db0/classMap.html#a9a5750b1e364dd62e13206915ed4fc89":[7,0,1523,5],
-"d7/db0/classMap.html#a9b01d1978a6b9699f3e97a6e38321d0b":[7,0,1523,267],
-"d7/db0/classMap.html#a9b7440932b645f2935badc9255187dc6":[7,0,1523,104]
+"d7/db0/classMap.html#a97acf003ca8bdb7eccad6c6d2e26a108":[7,0,1523,87]
 };

@@ -32,7 +32,6 @@ var classPet =
     [ "GetHappinessState", "df/d14/classPet.html#a819d59da133655a138f7788e93b9348b", null ],
     [ "GetLoadPetInfo", "df/d14/classPet.html#ae8d049acb26724ea002a56b0a9c99094", null ],
     [ "GetMaxTalentPointsForLevel", "df/d14/classPet.html#ab79fec2955813a0598a4a4fc972daa69", null ],
-    [ "GetNativeObjectScale", "df/d14/classPet.html#a4d1f1a52e2857c95762835849c6f8309", null ],
     [ "GetOwner", "df/d14/classPet.html#a16d96ee5a28389b29128ede8702096ee", null ],
     [ "GetPetAutoSpellOnPos", "df/d14/classPet.html#a6152b833b94d8b470e83c6d4b1a18fa1", null ],
     [ "GetPetAutoSpellSize", "df/d14/classPet.html#adc0d7b4c353cf003020f9682e47b86b9", null ],

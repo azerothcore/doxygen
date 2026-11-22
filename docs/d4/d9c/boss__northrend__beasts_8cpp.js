@@ -77,6 +77,10 @@ var boss__northrend__beasts_8cpp =
       [ "SPELL_BERSERK", "d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_SURGE_OF_ADRENALINE", "d4/d9c/boss__northrend__beasts_8cpp.html#a1383eb6f6f4528abcd4a18007aef1bbbabe2dbfd43fe9a5f667e97bbe9af7af40", null ]
     ] ],
+    [ "JormungarActions", "d4/d9c/boss__northrend__beasts_8cpp.html#ab5922a5fa8e3e9c3304fa8069e7d7d96", [
+      [ "ACTION_PARTNER_SUBMERGED", "d4/d9c/boss__northrend__beasts_8cpp.html#ab5922a5fa8e3e9c3304fa8069e7d7d96a588976b4b029ff3a1fc3ad7affac64e3", null ],
+      [ "ACTION_PARTNER_DIED", "d4/d9c/boss__northrend__beasts_8cpp.html#ab5922a5fa8e3e9c3304fa8069e7d7d96aff76e0994cdcd3d1ebd0549504ba99b8", null ]
+    ] ],
     [ "JormungarEvents", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914", [
       [ "EVENT_SUBMERGE", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914ac03b7f1947bf9753f19061f508b61a73", null ],
       [ "EVENT_SUBMERGED", "d4/d9c/boss__northrend__beasts_8cpp.html#a20526ec3ab955a91bc3f1e4bff419914a39af3b2c24857befba42372254668a74", null ],

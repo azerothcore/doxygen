@@ -1,5 +1,9 @@
 var NAVTREEINDEX167 =
 {
+"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a0fb62a62929af973eea6ef46072c8fe5":[8,0,0,0,1,3,4,1,1,6,3,1],
+"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a22ecdf33f1ba0a20c9f554f7a815038e":[8,0,0,0,1,3,4,1,1,6,3,8],
+"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a2f66f4d100d30627ea3e066675981aff":[8,0,0,0,1,3,4,1,1,6,3,9],
+"d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a30c6dda8b96ce269b542d6a9725e7ab3":[8,0,0,0,1,3,4,1,1,6,3,0],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a390ce20614e4d07e3ddee633bc89638d":[8,0,0,0,1,3,4,1,1,6,3,5],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a4dbbe98a2e566de9ad8f24b220a4d252":[8,0,0,0,1,3,4,1,1,6,3,2],
 "d5/dcf/culling__of__stratholme_8h.html#a85386982da7e8d15565baae53c954204a589c4d379039f638c31103354e89e8ae":[8,0,0,0,1,3,4,1,1,6,3,4],
@@ -102,8 +106,8 @@ var NAVTREEINDEX167 =
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[7,0,0,86],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,0,98,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[7,0,0,86,0],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[7,0,0,86,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,0,98,4],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[7,0,0,86,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[7,0,0,86,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,0,98,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,0,98,3],
@@ -114,8 +118,8 @@ var NAVTREEINDEX167 =
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html":[5,0,0,21,0],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#a1eada7fb43767f23dfd67d5de557e982":[5,0,0,21,0,1],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#a1eada7fb43767f23dfd67d5de557e982":[7,0,0,9,0,1],
-"d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#abf9ce0d579ce0389302655ce0104090a":[7,0,0,9,0,2],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#abf9ce0d579ce0389302655ce0104090a":[5,0,0,21,0,2],
+"d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#abf9ce0d579ce0389302655ce0104090a":[7,0,0,9,0,2],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#acf03a4e600698c697e7bec942574c9ac":[5,0,0,21,0,0],
 "d5/dd1/structAcore_1_1AhoCorasick_1_1Node.html#acf03a4e600698c697e7bec942574c9ac":[7,0,0,9,0,0],
 "d5/dd1/structnpc__ulduar__flames__initial.html":[7,0,2277],
@@ -245,9 +249,5 @@ var NAVTREEINDEX167 =
 "d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada39d3284176dffb6389f0f738f434db":[8,0,0,0,1,3,2,1,2,5,2,0],
 "d5/dd8/structCreatureAddon.html":[7,0,947],
 "d5/dd8/structCreatureAddon.html#a20695ff7997e1ebd6fe898a8b41aeddb":[7,0,947,0],
-"d5/dd8/structCreatureAddon.html#a4d84276a45de1b62e507ac5c763dce3a":[7,0,947,4],
-"d5/dd8/structCreatureAddon.html#a82f7be10807af7b25dd41c643be066fc":[7,0,947,3],
-"d5/dd8/structCreatureAddon.html#aa86bac734e0e652b6bb4ea273cf62571":[7,0,947,5],
-"d5/dd8/structCreatureAddon.html#ad3ae39b8c5be151e15ab6f1494943bc3":[7,0,947,6],
-"d5/dd8/structCreatureAddon.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9":[7,0,947,1]
+"d5/dd8/structCreatureAddon.html#a4d84276a45de1b62e507ac5c763dce3a":[7,0,947,4]
 };

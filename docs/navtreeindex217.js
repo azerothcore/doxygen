@@ -1,5 +1,14 @@
 var NAVTREEINDEX217 =
 {
+"d7/db0/classMap.html#a97f29654e5c2219b6f68f98b566e534e":[7,0,1523,37],
+"d7/db0/classMap.html#a9832c61d408be32fcf47b4606a623c1c":[7,0,1523,40],
+"d7/db0/classMap.html#a9869c29763545c30a707e6503566fe6a":[7,0,1523,161],
+"d7/db0/classMap.html#a98b7bce41c4ebd6c3b509c6b42eb159f":[7,0,1523,17],
+"d7/db0/classMap.html#a98d942542505bc9e9d62d64925c76508":[7,0,1523,263],
+"d7/db0/classMap.html#a98ef9f7412045ae5124bd5cb7b65868a":[7,0,1523,172],
+"d7/db0/classMap.html#a9a5750b1e364dd62e13206915ed4fc89":[7,0,1523,5],
+"d7/db0/classMap.html#a9b01d1978a6b9699f3e97a6e38321d0b":[7,0,1523,267],
+"d7/db0/classMap.html#a9b7440932b645f2935badc9255187dc6":[7,0,1523,104],
 "d7/db0/classMap.html#a9cb2bf0569b2cefc8c63e81e8fd91163":[7,0,1523,67],
 "d7/db0/classMap.html#a9df5e6451530163b635614d5c8464e88":[7,0,1523,294],
 "d7/db0/classMap.html#a9fb1f647a3446572b17f270c5da277ee":[7,0,1523,118],
@@ -240,14 +249,5 @@ var NAVTREEINDEX217 =
 "d7/db6/classspell__gen__ethereal__pet__aura.html#a59752617fc790359fdb13cc88aaed15e":[7,0,3092,1],
 "d7/db6/classspell__gen__ethereal__pet__aura.html#a8fd600957c21bdd8a1c1793e36ea3953":[7,0,3092,0],
 "d7/db6/classspell__gen__ethereal__pet__aura.html#a8fd600957c21bdd8a1c1793e36ea3953a0ece3b3d2fa217b809d77915cc6f30d2":[7,0,3092,0,1],
-"d7/db6/classspell__gen__ethereal__pet__aura.html#a8fd600957c21bdd8a1c1793e36ea3953aa4a66122509fdf013a6c6b3a5edbbba7":[7,0,3092,0,2],
-"d7/db6/classspell__gen__ethereal__pet__aura.html#a8fd600957c21bdd8a1c1793e36ea3953af260b92af2c0a22e3d0de607611f3673":[7,0,3092,0,0],
-"d7/db6/classspell__gen__ethereal__pet__aura.html#ab52656d4827f3fe980edd281e82debd5":[7,0,3092,2],
-"d7/db6/structAISpellInfoType.html":[7,0,149],
-"d7/db6/structAISpellInfoType.html#a3b6d2057522e7b79c87a16d4b9cced98":[7,0,149,0],
-"d7/db6/structAISpellInfoType.html#a3ee8081ca5749ef9b5991a5505104ee9":[7,0,149,4],
-"d7/db6/structAISpellInfoType.html#a6ea49fdc98ece29ceee63352424e9366":[7,0,149,2],
-"d7/db6/structAISpellInfoType.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4":[7,0,149,5],
-"d7/db6/structAISpellInfoType.html#ab421f918f3cb479d2d0390cd98cdeae3":[7,0,149,3],
-"d7/db6/structAISpellInfoType.html#af357bcc7eaeaf88a107a6309c468d53d":[7,0,149,1]
+"d7/db6/classspell__gen__ethereal__pet__aura.html#a8fd600957c21bdd8a1c1793e36ea3953aa4a66122509fdf013a6c6b3a5edbbba7":[7,0,3092,0,2]
 };

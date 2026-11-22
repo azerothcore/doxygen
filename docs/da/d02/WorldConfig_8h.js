@@ -20,7 +20,6 @@ var WorldConfig_8h =
       [ "CONFIG_TAXI_FLIGHT_SPEED", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a389fed3ed7b2826c639b184197f6a8a5", null ],
       [ "CONFIG_INSTANCE_IGNORE_LEVEL", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af3db33972f53ec86568f292ece27451d", null ],
       [ "CONFIG_INSTANCE_IGNORE_RAID", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6acf391b249adcd3a0a975f11cae8dca", null ],
-      [ "CONFIG_INSTANCE_GMSUMMON_PLAYER", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a3fd93db66808946f96cfd5e794e7ff71", null ],
       [ "CONFIG_INSTANCE_SHARED_ID", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab650017564ba9066bfceadcdf6425f73", null ],
       [ "CONFIG_ALLOW_GM_GROUP", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a32a0ca8413f65d1bd036e62933903384", null ],
       [ "CONFIG_ALLOW_GM_FRIEND", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a3e9acd34a74d7c8d2293422261c70fe7", null ],

@@ -23,7 +23,6 @@ var classmisc__commandscript =
     [ "HandleFreezeCommand", "d9/d4d/classmisc__commandscript.html#ae63e89580f430cffe62afdf4fb2ff882", null ],
     [ "HandleGetDistanceCommand", "d9/d4d/classmisc__commandscript.html#ad7a445556e92c64ab769cb2e3631a993", null ],
     [ "HandleGPSCommand", "d9/d4d/classmisc__commandscript.html#a976eb9aeee44fb1fabd801b3a3b88903", null ],
-    [ "HandleGroupSummonCommand", "d9/d4d/classmisc__commandscript.html#acb839c6d840c7a8f9b0c01435420b0ad", null ],
     [ "HandleGUIDCommand", "d9/d4d/classmisc__commandscript.html#a893eed58f98ae465302ffb0ba5bd2aeb", null ],
     [ "HandleHelpCommand", "d9/d4d/classmisc__commandscript.html#a7b504cc3fd2d0bdbea7682a05b73d883", null ],
     [ "HandleHideAreaCommand", "d9/d4d/classmisc__commandscript.html#a9e7b862a123dde0893edf87bd3dfddda", null ],

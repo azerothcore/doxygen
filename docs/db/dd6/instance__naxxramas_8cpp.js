@@ -11,9 +11,12 @@ var instance__naxxramas_8cpp =
     [ "creatureData", "db/dd6/instance__naxxramas_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "db/dd6/instance__naxxramas_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
     [ "gameObjectData", "db/dd6/instance__naxxramas_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
-    [ "HeiganEruptionSlope", "db/dd6/instance__naxxramas_8cpp.html#afc813e25da4423b11b3f71a4c3434b43", null ],
-    [ "HeiganPos", "db/dd6/instance__naxxramas_8cpp.html#a329c88a19bf7f6ee06251fb30b96aa80", null ],
+    [ "HeiganEruptionSlope", "db/dd6/instance__naxxramas_8cpp.html#ad383cfd2e594006b34eaa9d37a8b5739", null ],
+    [ "HeiganPos", "db/dd6/instance__naxxramas_8cpp.html#a42767826c92ce0d192e6839ff4ab63c1", null ],
+    [ "HeiganSectionEdgeMargin", "db/dd6/instance__naxxramas_8cpp.html#a5578110813a653c13192cc43263b0f8c", null ],
     [ "HorsemanDataGroup", "db/dd6/instance__naxxramas_8cpp.html#a78f519adea6cb5310c9cf098d905aa7b", null ],
-    [ "LivingPoisonDataList", "db/dd6/instance__naxxramas_8cpp.html#a7adc6b584916ee1544c8ff38ab6327a9", null ],
+    [ "LivingPoisonDataList", "db/dd6/instance__naxxramas_8cpp.html#a69f7a4f783e1a1b09048327176269e3f", null ],
+    [ "LivingPoisonExplodeRadius", "db/dd6/instance__naxxramas_8cpp.html#a467a8cdc93ae06a40f078412d6a30c5a", null ],
+    [ "PatchwerkRoomMinY", "db/dd6/instance__naxxramas_8cpp.html#a81d728e7541832ca3160ce49d4a57662", null ],
     [ "SapphironTeleportPos", "db/dd6/instance__naxxramas_8cpp.html#a4b033537221c1c9063ff056950ac6fdb", null ]
 ];

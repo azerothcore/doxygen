@@ -3,7 +3,7 @@ var classinstance__naxxramas =
     [ "instance_naxxramas", "d3/d5d/classinstance__naxxramas.html#aff86b0fff6122d649258a91b025cbced", null ],
     [ "ActivateWingPortal", "d3/d5d/classinstance__naxxramas.html#a10a92da6d62e3d5f147b5bb40109ec3c", null ],
     [ "ActivateWingPortal", "d3/d5d/classinstance__naxxramas.html#ae53c14014ec9ee4db5e06acb04ede9d2", null ],
-    [ "CheckAchievementCriteriaMeet", "d3/d5d/classinstance__naxxramas.html#ac324fe847b9b25270e8d1e495d77b093", null ],
+    [ "CheckAchievementCriteriaMeet", "d3/d5d/classinstance__naxxramas.html#a7514fb3b5944e559643e162e4c8580e8", null ],
     [ "CreatureTalk", "d3/d5d/classinstance__naxxramas.html#a1e5ecd15ffbc8735ff275f245444ef1a", null ],
     [ "GetEruptionSection", "d3/d5d/classinstance__naxxramas.html#a7f64ed1cc3b5461318913919e712d648", null ],
     [ "HeiganEruptSections", "d3/d5d/classinstance__naxxramas.html#a63be2dee55d527e16739b5fb5b031740", null ],

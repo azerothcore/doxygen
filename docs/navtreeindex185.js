@@ -1,5 +1,9 @@
 var NAVTREEINDEX185 =
 {
+"d6/d6e/structboss__sartura.html#a8ad40cee9667500cb0e9533256d216c6":[7,0,704,8],
+"d6/d6e/structboss__sartura.html#a9a404743ac8491a9efc7091259706e0f":[7,0,704,1],
+"d6/d6e/structboss__sartura.html#ab1c024908117e8460eb89c062d3825dc":[7,0,704,4],
+"d6/d6e/structboss__sartura.html#ab3514ad48f622f65d67063723601f8de":[7,0,704,6],
 "d6/d6e/structboss__sartura.html#aceff44022b8d53da41ecfcb1e2317e01":[7,0,704,3],
 "d6/d6e/structboss__sartura.html#ae86d0a6b0cd591b3bb18333195109c22":[7,0,704,2],
 "d6/d6e/structboss__sartura.html#af3d093dab3f5191d5da2df36ca9c4a11":[7,0,704,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX185 =
 "d6/d79/classOPvPCapturePoint.html#abef6917208d303f42716ced9b8696eb2":[7,0,2375,34],
 "d6/d79/classOPvPCapturePoint.html#abfc98c11a311a094fa6f3e3a60c4d716":[7,0,2375,14],
 "d6/d79/classOPvPCapturePoint.html#ac3ed6a7323dc5d369135778fd68a7137":[7,0,2375,44],
-"d6/d79/classOPvPCapturePoint.html#ad41ad9b5db99be93435ddbf1bc9377d2":[7,0,2375,38],
-"d6/d79/classOPvPCapturePoint.html#ada5de9d6309ca48f77a1be61033fe9d4":[7,0,2375,15],
-"d6/d79/classOPvPCapturePoint.html#adc968f6934c72d739311599fc0507664":[7,0,2375,12],
-"d6/d79/classOPvPCapturePoint.html#af0783cf541490ac2f3d57890bfe56e0a":[7,0,2375,1],
-"d6/d79/classOPvPCapturePoint.html#af2005ba5ee09922c40445e63d8e738ae":[7,0,2375,3]
+"d6/d79/classOPvPCapturePoint.html#ad41ad9b5db99be93435ddbf1bc9377d2":[7,0,2375,38]
 };

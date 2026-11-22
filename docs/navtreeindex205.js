@@ -1,5 +1,12 @@
 var NAVTREEINDEX205 =
 {
+"d7/d58/classboss__sjonnir.html#a8bb9b10778a2dedcde3d4ced44bc13f1":[7,0,715,1],
+"d7/d58/cs__wp_8cpp.html":[8,0,0,0,1,3,0,54],
+"d7/d58/cs__wp_8cpp.html#afc6bb2ca7e993730a57350142f7e6fd5":[8,0,0,0,1,3,0,54,1],
+"d7/d59/structZoneDynamicInfo.html":[7,0,4771],
+"d7/d59/structZoneDynamicInfo.html#a0542940fdcc273a4ff8a8e8bb6a40b1f":[7,0,4771,0],
+"d7/d59/structZoneDynamicInfo.html#a0be8cff9a7e74add7bba8af3be993e48":[7,0,4771,2],
+"d7/d59/structZoneDynamicInfo.html#a0d43acd5539d3449b7c36ee88518346e":[7,0,4771,4],
 "d7/d59/structZoneDynamicInfo.html#a3ab0244b34c30cc7d929b418da31d7d3":[7,0,4771,3],
 "d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9":[7,0,4771,6],
 "d7/d59/structZoneDynamicInfo.html#a8c2c7772596ec58413bee2077e46790f":[7,0,4771,1],
@@ -151,8 +158,8 @@ var NAVTREEINDEX205 =
 "d7/d61/classFactoryCreatureScript.html":[7,0,1070],
 "d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[7,0,1070,1],
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[7,0,1070,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[7,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,35,2,3],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[7,0,13,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[7,0,13,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,35,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,35,2,3,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX205 =
 "d7/d66/structboss__shade__of__aran.html#a03def93f3e3f33d4f760e9f7c7c85d86":[7,0,710,8],
 "d7/d66/structboss__shade__of__aran.html#a11a9b1a8a24b9bc9965d655a6f856ef0":[7,0,710,5],
 "d7/d66/structboss__shade__of__aran.html#a140ec9e0f968c42f9f003d9a52693884":[7,0,710,1],
-"d7/d66/structboss__shade__of__aran.html#a3ac487d431bc444cd8c39bb813260737":[7,0,710,7],
-"d7/d66/structboss__shade__of__aran.html#a4384769fb6eb868c612ed34cbb6b2409":[7,0,710,12],
-"d7/d66/structboss__shade__of__aran.html#a47e88dcf0027bd197350df7f80bc42d3":[7,0,710,14],
-"d7/d66/structboss__shade__of__aran.html#a581351036c7e09de447f065a4ef82e03":[7,0,710,0],
-"d7/d66/structboss__shade__of__aran.html#a64779949875ab0d812746adb78123f7a":[7,0,710,2],
-"d7/d66/structboss__shade__of__aran.html#a837e9284a2e2b3fe5467cca4fd09c60f":[7,0,710,3],
-"d7/d66/structboss__shade__of__aran.html#a84a6941826c6c2f1f70965e8909f796e":[7,0,710,13],
-"d7/d66/structboss__shade__of__aran.html#a88c6677edc8a37ac1e36fe6f1688d847":[7,0,710,11]
+"d7/d66/structboss__shade__of__aran.html#a3ac487d431bc444cd8c39bb813260737":[7,0,710,7]
 };

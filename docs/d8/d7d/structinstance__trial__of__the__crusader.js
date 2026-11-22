@@ -1,6 +1,7 @@
 var structinstance__trial__of__the__crusader =
 [
     [ "instance_trial_of_the_crusader", "d8/d7d/structinstance__trial__of__the__crusader.html#a999a723fd5ee51b2297e079853bc9e6f", null ],
+    [ "AreSnoboldCarriersActive", "d8/d7d/structinstance__trial__of__the__crusader.html#a7a7f81b99b01c49c4b6c3d3a8458acfa", null ],
     [ "CheckAchievementCriteriaMeet", "d8/d7d/structinstance__trial__of__the__crusader.html#a9568e4c5286b39b68d688fa094f67af8", null ],
     [ "CountCreaturesNearTirion", "d8/d7d/structinstance__trial__of__the__crusader.html#a5f878d198dd0104e90bcc91ee1a8f994", null ],
     [ "CreatureTalk", "d8/d7d/structinstance__trial__of__the__crusader.html#a9a1e1d9727b2b4ba4df250e3dd4e83d3", null ],

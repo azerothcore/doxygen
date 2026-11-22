@@ -1,5 +1,15 @@
 var NAVTREEINDEX294 =
 {
+"db/d16/spell__paladin_8cpp.html":[8,0,0,0,1,3,9,6],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997":[8,0,0,0,1,3,9,6,56],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a025899e97617212364a7bf3174d200de":[8,0,0,0,1,3,9,6,56,4],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a068a5d12032c28a6abdcf144964077e9":[8,0,0,0,1,3,9,6,56,40],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a102ddef0ca316849f71ab2776c431507":[8,0,0,0,1,3,9,6,56,5],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a17a5199969f77714058e81d1fb044dd6":[8,0,0,0,1,3,9,6,56,52],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a1d0092615ebcf819786174669b07e310":[8,0,0,0,1,3,9,6,56,18],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a24fa5c0890d964f26e1b616b498693f5":[8,0,0,0,1,3,9,6,56,39],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a303ac091d07cc43553b09515f251c6ac":[8,0,0,0,1,3,9,6,56,31],
+"db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a31e4829b98bcf66572027a5a66196b50":[8,0,0,0,1,3,9,6,56,26],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a3762b7f5c61c1ea510b9f5ed982f4259":[8,0,0,0,1,3,9,6,56,25],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a3ac6f0e5ffa3f5d39ba9c6fe13cb7f37":[8,0,0,0,1,3,9,6,56,43],
 "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a3edca6d5e38d251f2304f57452f20db6":[8,0,0,0,1,3,9,6,56,15],
@@ -239,15 +249,5 @@ var NAVTREEINDEX294 =
 "db/d1e/structgo__magtheridons__head.html#af5816b083f1856196bec7a75f0a995f3":[7,0,1196,0],
 "db/d1e/structnpc__the__biggest__tree.html":[7,0,2225],
 "db/d1e/structnpc__the__biggest__tree.html#a36c170fb178a19256fd41fb2cbbb7830":[7,0,2225,4],
-"db/d1e/structnpc__the__biggest__tree.html#a3d1b33ab7cd28de5438f53a00657170a":[7,0,2225,3],
-"db/d1e/structnpc__the__biggest__tree.html#a3fd4c5e522e8945925124426a8ff870b":[7,0,2225,2],
-"db/d1e/structnpc__the__biggest__tree.html#a572c0b146d461b6a8504163452570954":[7,0,2225,1],
-"db/d1e/structnpc__the__biggest__tree.html#a7101fe10b15ce1779d3d131e597ef636":[7,0,2225,5],
-"db/d1e/structnpc__the__biggest__tree.html#a7366f46c4864fa0f1372c920b94c6e97":[7,0,2225,0],
-"db/d1e/structnpc__the__biggest__tree.html#a7525783692c3bc9642f534296b71a5f5":[7,0,2225,7],
-"db/d1e/structnpc__the__biggest__tree.html#ab39af61d9ab7d9f7210f96b65971654d":[7,0,2225,6],
-"db/d1f/classspell__q11653__youre__not__so__big__now.html":[7,0,3959],
-"db/d1f/classspell__q11653__youre__not__so__big__now.html#a6318da4bfeb63dee75a971106bdc2146":[7,0,3959,1],
-"db/d1f/classspell__q11653__youre__not__so__big__now.html#aee9595d4716fb2ea1bd9e2a66d26c39e":[7,0,3959,0],
-"db/d20/instance__scarlet__monastery_8cpp.html":[8,0,0,0,1,3,2,6,0]
+"db/d1e/structnpc__the__biggest__tree.html#a3d1b33ab7cd28de5438f53a00657170a":[7,0,2225,3]
 };
