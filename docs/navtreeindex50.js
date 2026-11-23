@@ -1,5 +1,7 @@
 var NAVTREEINDEX50 =
 {
+"d1/de4/spell__generic_8cpp.html#a8d7c1dd4784fc46db8aaf9834abb8a78":[8,0,0,0,1,3,9,2,195],
+"d1/de4/spell__generic_8cpp.html#a8d7c1dd4784fc46db8aaf9834abb8a78a1fc8eb7d98541d95331b8007fd925ddc":[8,0,0,0,1,3,9,2,195,0],
 "d1/de4/spell__generic_8cpp.html#a93c21c8622b592019c1bd661d6952d8d":[8,0,0,0,1,3,9,2,202],
 "d1/de4/spell__generic_8cpp.html#a93c21c8622b592019c1bd661d6952d8da28cae31316b1bf12a3a1a0f18c55da42":[8,0,0,0,1,3,9,2,202,0],
 "d1/de4/spell__generic_8cpp.html#a93c21c8622b592019c1bd661d6952d8da8f9d6523fe0afa9f2731be57825036f2":[8,0,0,0,1,3,9,2,202,1],
@@ -194,10 +196,10 @@ var NAVTREEINDEX50 =
 "d1/de9/classspell__garfrost__permafrost.html#a962651920a94190f4864a3b1c7fcd1d3":[7,0,3028,3],
 "d1/de9/classspell__garfrost__permafrost.html#ae96fabdf4d42f9357918cbf0babf4717":[7,0,3028,5],
 "d1/de9/classspell__garfrost__permafrost.html#aefebf504286394cf3caffa566543e4a4":[7,0,3028,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html":[7,0,4386],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[7,0,4386,1],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[7,0,4386,0],
-"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[7,0,4386,2],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html":[7,0,4388],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c":[7,0,4388,1],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a2560417162a1c17cb067cdfeb2fc909d":[7,0,4388,0],
+"d1/de9/classspell__warl__ritual__of__doom__effect.html#a27aece218c848064ae387491f9176099":[7,0,4388,2],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html":[7,0,2108,0],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a303cc1d8d3f4e143420b09265a2c7868":[7,0,2108,0,5],
 "d1/de9/structnpc__pos__tyrannus__events_1_1npc__pos__tyrannus__eventsAI.html#a51769d22a4cb448fae90d827e2494581":[7,0,2108,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX50 =
 "d1/df0/classspell__dk__presence.html#a020c0ae1f74856ae070ab2104232a079":[7,0,2872,1],
 "d1/df0/classspell__dk__presence.html#a262bfd40ee2f2d8ed793f999f660ba28":[7,0,2872,2],
 "d1/df0/classspell__dk__presence.html#a3b43cfcbbfa8fdbf170c76dd12b72074":[7,0,2872,0],
-"d1/df0/classspell__dk__presence.html#a5da86bb3686327787da5f46fc756f0a0":[7,0,2872,3],
-"d1/df0/classspell__dk__presence.html#a6534d2b5bca9a50830d20b08bfc1b84e":[7,0,2872,5],
-"d1/df0/classspell__dk__presence.html#a96453bb078359e46665e0eaa2a6cf6d1":[7,0,2872,4]
+"d1/df0/classspell__dk__presence.html#a5da86bb3686327787da5f46fc756f0a0":[7,0,2872,3]
 };

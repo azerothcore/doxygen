@@ -1,5 +1,6 @@
 var NAVTREEINDEX27 =
 {
+"d1/d16/classSpell.html#a9e7303d514d8049b1ad037e0494735ba":[7,0,2652,56],
 "d1/d16/classSpell.html#aa03328d3cd0d04d923500dd2d801be2d":[7,0,2652,14],
 "d1/d16/classSpell.html#aa160274138dbebf153c189d8f4cdb59c":[7,0,2652,378],
 "d1/d16/classSpell.html#aa19f9a8629e5ff119c87c8308c8d08d6":[7,0,2652,49],
@@ -185,12 +186,12 @@ var NAVTREEINDEX27 =
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,0,124],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[7,0,0,112,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,0,124,5],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,124,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[7,0,0,112,2],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,0,124,3],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,0,124,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[7,0,0,112,3],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,124,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,0,124,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[7,0,0,112,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,0,124,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,0,124,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[7,0,0,112,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,0,124,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX27 =
 "d1/d1a/classBattlegroundMgr.html#a25b2d7705c7e6af7f0f7a4ef35913a85":[7,0,347,59],
 "d1/d1a/classBattlegroundMgr.html#a3597287df2905e6d26a6d27f648720d3":[7,0,347,21],
 "d1/d1a/classBattlegroundMgr.html#a39a3df56419899ec00e557804f421404":[7,0,347,54],
-"d1/d1a/classBattlegroundMgr.html#a3a15068e341b17f7b023b8889aef02d0":[7,0,347,4],
-"d1/d1a/classBattlegroundMgr.html#a3a9649b24b97e40657d7b7e57f0ba4e2":[7,0,347,43]
+"d1/d1a/classBattlegroundMgr.html#a3a15068e341b17f7b023b8889aef02d0":[7,0,347,4]
 };

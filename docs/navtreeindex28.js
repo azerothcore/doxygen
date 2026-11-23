@@ -1,5 +1,6 @@
 var NAVTREEINDEX28 =
 {
+"d1/d1a/classBattlegroundMgr.html#a3a9649b24b97e40657d7b7e57f0ba4e2":[7,0,347,43],
 "d1/d1a/classBattlegroundMgr.html#a3eb3065e3760de24e4352f735d79888c":[7,0,347,47],
 "d1/d1a/classBattlegroundMgr.html#a3ec9a5fbf1cdb3383f8a58239e8b46eb":[7,0,347,22],
 "d1/d1a/classBattlegroundMgr.html#a402a5171cfaf4dc1226469af21ff4361":[7,0,347,31],
@@ -138,11 +139,11 @@ var NAVTREEINDEX28 =
 "d1/d1c/classspell__taldaram__ball__of__inferno__flame__aura.html#a294db521fc56c4fe5e50317fedd8a86d":[7,0,4237,1],
 "d1/d1c/classspell__taldaram__ball__of__inferno__flame__aura.html#a45b1fd2c1896023d71a0916100376e57":[7,0,4237,2],
 "d1/d1c/classspell__taldaram__ball__of__inferno__flame__aura.html#a5c1064d764a6bfa4b3fde8bf57316e44":[7,0,4237,0],
-"d1/d1d/structSpellCooldownOverride.html":[7,0,4499],
-"d1/d1d/structSpellCooldownOverride.html#a3155069a4ef8d87d4c952f92df2ec42d":[7,0,4499,3],
-"d1/d1d/structSpellCooldownOverride.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd":[7,0,4499,0],
-"d1/d1d/structSpellCooldownOverride.html#abb7ca704f04612ddcec3e2e52470ca77":[7,0,4499,2],
-"d1/d1d/structSpellCooldownOverride.html#ac0e514cfe760baf23f4f05d871e6779a":[7,0,4499,1],
+"d1/d1d/structSpellCooldownOverride.html":[7,0,4502],
+"d1/d1d/structSpellCooldownOverride.html#a3155069a4ef8d87d4c952f92df2ec42d":[7,0,4502,3],
+"d1/d1d/structSpellCooldownOverride.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd":[7,0,4502,0],
+"d1/d1d/structSpellCooldownOverride.html#abb7ca704f04612ddcec3e2e52470ca77":[7,0,4502,2],
+"d1/d1d/structSpellCooldownOverride.html#ac0e514cfe760baf23f4f05d871e6779a":[7,0,4502,1],
 "d1/d1e/AchievementScript_8cpp.html":[8,0,0,0,1,2,38,0,4],
 "d1/d1e/AchievementScript_8cpp.html#ac6173262cca5c83f03287161a75446ab":[8,0,0,0,1,2,38,0,4,0],
 "d1/d1e/SpellProcChainGuardTest_8cpp.html":[8,0,0,0,2,2,0,11,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX28 =
 "d1/d27/classspell__gen__spirit__of__competition__participant.html#a1097b1548b2785ac7ffd916ee5531fe9":[7,0,3170,0],
 "d1/d27/classspell__gen__spirit__of__competition__participant.html#a47dc9761bf10b1290963ff7eebe0121a":[7,0,3170,1],
 "d1/d27/classspell__gen__spirit__of__competition__participant.html#a984b2af5268fbf294a0292502b8ddb44":[7,0,3170,2],
-"d1/d28/PetPackets_8cpp.html":[8,0,0,0,1,2,39,0,27],
-"d1/d28/boss__swamplord__muselek_8cpp.html":[8,0,0,0,1,3,7,2,3,2]
+"d1/d28/PetPackets_8cpp.html":[8,0,0,0,1,2,39,0,27]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX108 =
 {
+"d3/d8e/structnpc__demonic__vapor__trail.html#a9da762ab640abfaf5092034f284239af":[7,0,1794,2],
+"d3/d8f/SpellProcPipelineTest_8cpp.html":[8,0,0,0,2,2,0,11,23],
 "d3/d8f/SpellProcPipelineTest_8cpp.html#a121e660142edeb8b8867984871635142":[8,0,0,0,2,2,0,11,23,16],
 "d3/d8f/SpellProcPipelineTest_8cpp.html#a19a74f2d1aaf27d22fa48f02d6b2d5f9":[8,0,0,0,2,2,0,11,23,10],
 "d3/d8f/SpellProcPipelineTest_8cpp.html#a1e85b9df4ec0b3f7d770137f7b1184ec":[8,0,0,0,2,2,0,11,23,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX108 =
 "d3/d98/structDynamicTreeLocationInfoCallback.html#ac1c3839aa1f0e9b64390502c4ce7bb3e":[7,0,1037,2],
 "d3/d98/structDynamicTreeLocationInfoCallback.html#ac939625c44c7be8ba8b96d55545b657c":[7,0,1037,1],
 "d3/d98/structDynamicTreeLocationInfoCallback.html#adef79d7627daa66d88c7146704984622":[7,0,1037,4],
-"d3/d98/structDynamicTreeLocationInfoCallback.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e":[7,0,1037,6],
-"d3/d98/structLocation.html":[7,0,1479],
-"d3/d98/structLocation.html#a10fbad67977d8dd3911eb629c1797684":[7,0,1479,2]
+"d3/d98/structDynamicTreeLocationInfoCallback.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e":[7,0,1037,6]
 };

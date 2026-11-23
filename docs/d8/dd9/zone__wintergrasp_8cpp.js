@@ -14,6 +14,7 @@ var zone__wintergrasp_8cpp =
     [ "spell_wintergrasp_create_vehicle", "d4/d01/classspell__wintergrasp__create__vehicle.html", "d4/d01/classspell__wintergrasp__create__vehicle" ],
     [ "spell_wintergrasp_rp_gg", "d5/df7/classspell__wintergrasp__rp__gg.html", "d5/df7/classspell__wintergrasp__rp__gg" ],
     [ "spell_wintergrasp_portal", "da/d8f/classspell__wintergrasp__portal.html", "da/d8f/classspell__wintergrasp__portal" ],
+    [ "spell_wintergrasp_defender_teleport_trigger", "d7/dfc/classspell__wintergrasp__defender__teleport__trigger.html", "d7/dfc/classspell__wintergrasp__defender__teleport__trigger" ],
     [ "spell_wintergrasp_water", "dd/d3e/classspell__wintergrasp__water.html", "dd/d3e/classspell__wintergrasp__water" ],
     [ "spell_wintergrasp_hide_small_elementals_aura", "d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html", "d1/db1/classspell__wintergrasp__hide__small__elementals__aura" ],
     [ "spell_wg_reduce_damage_by_distance", "dc/df7/classspell__wg__reduce__damage__by__distance.html", "dc/df7/classspell__wg__reduce__damage__by__distance" ],
@@ -45,6 +46,9 @@ var zone__wintergrasp_8cpp =
       [ "WG_NPCQUEUE_TEXT_A_WAR", "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132ca6d753ec23fd856df77f453270305a065", null ],
       [ "WG_NPCQUEUE_TEXTOPTION_JOIN", "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132ca16720611d2a8048c24a7f179d8d464f9", null ],
       [ "WG_GOSSIP_MENU_QUEUE", "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132caadec99b9f8e1e1a6bd3aff29a5365b7e", null ]
+    ] ],
+    [ "GameObjectIds", "d8/dd9/zone__wintergrasp_8cpp.html#a57d2d4154291532e405ab880a40a999f", [
+      [ "GO_WINTERGRASP_DEFENDERS_PORTAL", "d8/dd9/zone__wintergrasp_8cpp.html#a57d2d4154291532e405ab880a40a999fa666318a31f99d6b17994b027abeb5faa", null ]
     ] ],
     [ "QuestIds", "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47", [
       [ "QUEST_BONES_AND_ARROWS_HORDE_ATT", "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47abef0a318317e03a14149b773227fc508", null ],

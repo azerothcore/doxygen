@@ -1,5 +1,7 @@
 var NAVTREEINDEX94 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[8,0,0,0,1,3,5,15,43],
+"d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0d02e350490e1dd285b5cade43f37588":[8,0,0,0,1,3,5,15,43,0],
 "d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5cabfe2b0c4bbf619124ae41cf241a92d91":[8,0,0,0,1,3,5,15,43,1],
 "d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5cabfef4e3e9d0c3012b4a06a114c82e320":[8,0,0,0,1,3,5,15,43,2],
 "d3/d09/zone__borean__tundra_8cpp.html#a6986ec7b2d3274669934af9795f26d5caf5c6cb25eec3d72f292188009227c607":[8,0,0,0,1,3,5,15,43,3],
@@ -231,12 +233,12 @@ var NAVTREEINDEX94 =
 "d3/d0c/classspell__item__trauma.html#a4f4eaa4aeeac9257804957671c16233f":[7,0,3545,2],
 "d3/d0c/classspell__item__trauma.html#ab9a662bebdb5e03c5c10a807b892a9bf":[7,0,3545,3],
 "d3/d0c/classspell__item__trauma.html#afbd6d4a64b7da0d0dc15c62eb81746c9":[7,0,3545,0],
-"d3/d0c/classspell__z__check__aura.html":[7,0,4486],
-"d3/d0c/classspell__z__check__aura.html#a03faa2eda84ac74dcff9a7a6a4e57440":[7,0,4486,2],
-"d3/d0c/classspell__z__check__aura.html#a183976530ebf604656db12e41449427e":[7,0,4486,1],
-"d3/d0c/classspell__z__check__aura.html#a488ded8ff40240fe8fbef1567eb091b9":[7,0,4486,4],
-"d3/d0c/classspell__z__check__aura.html#a76be53d506933d4b3c758578b7c33d5f":[7,0,4486,3],
-"d3/d0c/classspell__z__check__aura.html#a8ebf9488a7eed99c3651424754cc95c5":[7,0,4486,0],
+"d3/d0c/classspell__z__check__aura.html":[7,0,4489],
+"d3/d0c/classspell__z__check__aura.html#a03faa2eda84ac74dcff9a7a6a4e57440":[7,0,4489,2],
+"d3/d0c/classspell__z__check__aura.html#a183976530ebf604656db12e41449427e":[7,0,4489,1],
+"d3/d0c/classspell__z__check__aura.html#a488ded8ff40240fe8fbef1567eb091b9":[7,0,4489,4],
+"d3/d0c/classspell__z__check__aura.html#a76be53d506933d4b3c758578b7c33d5f":[7,0,4489,3],
+"d3/d0c/classspell__z__check__aura.html#a8ebf9488a7eed99c3651424754cc95c5":[7,0,4489,0],
 "d3/d0c/structnpc__kiljaeden__controller.html":[7,0,1965],
 "d3/d0c/structnpc__kiljaeden__controller.html#a116a739b2bff3257b35ff7946a3d1995":[7,0,1965,11],
 "d3/d0c/structnpc__kiljaeden__controller.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664":[7,0,1965,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d0c/structnpc__kiljaeden__controller.html#a9f8f4ee24ccef096716a659d2df1a912":[7,0,1965,8],
 "d3/d0c/structnpc__kiljaeden__controller.html#aabe4e5af5ad142bac6cdaa4f6787a7bc":[7,0,1965,0],
 "d3/d0c/structnpc__kiljaeden__controller.html#ac1b0df0ac76bbacdcac3311df6563297":[7,0,1965,6],
-"d3/d0c/structnpc__kiljaeden__controller.html#aed2772552dd500c180c3db4aeef8359a":[7,0,1965,7],
-"d3/d0c/structnpc__kiljaeden__controller.html#af28211012d8398a450439b8e24bf60ce":[7,0,1965,2],
-"d3/d0c/structnpc__kiljaeden__controller.html#af89268ab4c4f469a2c54d1f534afafcd":[7,0,1965,5]
+"d3/d0c/structnpc__kiljaeden__controller.html#aed2772552dd500c180c3db4aeef8359a":[7,0,1965,7]
 };

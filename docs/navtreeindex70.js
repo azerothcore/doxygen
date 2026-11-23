@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d2/d73/classScriptMgr.html#ac4dc7cc2d86009c3f5689a39752b726a":[7,0,2587,216],
+"d2/d73/classScriptMgr.html#ac59b00f34040fae7801cfe3304bc2ecb":[7,0,2587,262],
 "d2/d73/classScriptMgr.html#ac5c04cb586d4ee8cf8e0e41d504ed420":[7,0,2587,482],
 "d2/d73/classScriptMgr.html#ac5f50a8d50aa5db26b84f3eb79a68d3a":[7,0,2587,231],
 "d2/d73/classScriptMgr.html#ac64a3028829b15227e3e25cb3f7e597d":[7,0,2587,320],
@@ -116,11 +118,11 @@ var NAVTREEINDEX70 =
 "d2/d73/classScriptMgr.html#afebd2c8dbe07c66a60a59484e65361ce":[7,0,2587,491],
 "d2/d73/classScriptMgr.html#aff9a8ed02bf9ee5d4af463232ea4e1d5":[7,0,2587,30],
 "d2/d73/classScriptMgr.html#affb1862a353fbc0e9b89eb664fe5f797":[7,0,2587,60],
-"d2/d73/classStartMovementEvent.html":[7,0,4569],
-"d2/d73/classStartMovementEvent.html#a4f0fd5e835f742c876f37f31bf03c56f":[7,0,4569,0],
-"d2/d73/classStartMovementEvent.html#ac2f4166af128a161c471b243144856ba":[7,0,4569,2],
-"d2/d73/classStartMovementEvent.html#af1a043d953bcffe9341292e85cae2f55":[7,0,4569,1],
-"d2/d73/classStartMovementEvent.html#afe1f7bcb3569758bc075380a24527067":[7,0,4569,3],
+"d2/d73/classStartMovementEvent.html":[7,0,4572],
+"d2/d73/classStartMovementEvent.html#a4f0fd5e835f742c876f37f31bf03c56f":[7,0,4572,0],
+"d2/d73/classStartMovementEvent.html#ac2f4166af128a161c471b243144856ba":[7,0,4572,2],
+"d2/d73/classStartMovementEvent.html#af1a043d953bcffe9341292e85cae2f55":[7,0,4572,1],
+"d2/d73/classStartMovementEvent.html#afe1f7bcb3569758bc075380a24527067":[7,0,4572,3],
 "d2/d73/classitem__incendiary__explosives.html":[7,0,1420],
 "d2/d73/classitem__incendiary__explosives.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4":[7,0,1420,1],
 "d2/d73/classitem__incendiary__explosives.html#a3a10f4e40374cae75a5ed320385a67f9":[7,0,1420,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d7d/classGroupReference.html#a528073b16a119cfa81e6f37c6e72cc03":[7,0,1269,9],
 "d2/d7d/classGroupReference.html#a6f8f406f1209dd7060904d40f5424b41":[7,0,1269,3],
 "d2/d7d/classGroupReference.html#a8217ca810bc251005dfe8a2e3b810e1e":[7,0,1269,2],
-"d2/d7d/classGroupReference.html#aa7c8acd113fefc7b6d2b9dff94bb047c":[7,0,1269,7],
-"d2/d7d/classGroupReference.html#ab1a008e85d413c67696d4d568a98bde7":[7,0,1269,0],
-"d2/d7d/classGroupReference.html#ab586405a850b0985e6b9f08cc6bdf32e":[7,0,1269,1]
+"d2/d7d/classGroupReference.html#aa7c8acd113fefc7b6d2b9dff94bb047c":[7,0,1269,7]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"d4/dd8/structAchievementCriteriaData.html#a10abf16cc22c72aac4cadb6910457207":[7,0,117,17],
+"d4/dd8/structAchievementCriteriaData.html#a180c58322031bb3f00e6cf034fb29a1d":[7,0,117,45],
 "d4/dd8/structAchievementCriteriaData.html#a1aea048080854abb69165056688e9637":[7,0,117,25],
 "d4/dd8/structAchievementCriteriaData.html#a1bda3570b1adb636a60d8d94995adbcf":[7,0,117,26],
 "d4/dd8/structAchievementCriteriaData.html#a23373b6f321d0e144e30658cc335def9":[7,0,117,49],
@@ -184,8 +186,8 @@ var NAVTREEINDEX145 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[7,0,1085,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[7,0,1085,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[7,0,1085,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,35,21],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,35,21,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[7,0,13,21,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[7,0,1945,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "d4/dde/classspell__dk__rune__tap__party.html":[7,0,2879],
 "d4/dde/classspell__dk__rune__tap__party.html#a4ce2790448bd39c19daf8caae7ef5a9d":[7,0,2879,1],
 "d4/dde/classspell__dk__rune__tap__party.html#abb6ffb41731b05b868f82498b373d8b9":[7,0,2879,0],
-"d4/dde/classspell__dk__rune__tap__party.html#aeefc7910c2960dbf3a49da6ed3c15523":[7,0,2879,2],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html":[7,0,4165],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#a91ee1b654a3a26e027407635a45b80b3":[7,0,4165,1]
+"d4/dde/classspell__dk__rune__tap__party.html#aeefc7910c2960dbf3a49da6ed3c15523":[7,0,2879,2]
 };

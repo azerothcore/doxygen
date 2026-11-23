@@ -1,5 +1,11 @@
 var NAVTREEINDEX174 =
 {
+"d6/d0b/structnpc__frost__freeze__trap_1_1npc__frost__freeze__trapAI.html#ae8efccb090f38968f3c0ca51f022013b":[7,0,1846,0,2],
+"d6/d0c/classspell__gen__turkey__marker.html":[7,0,3184],
+"d6/d0c/classspell__gen__turkey__marker.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d":[7,0,3184,4],
+"d6/d0c/classspell__gen__turkey__marker.html#a1bf9f3a1eb52bb64df59b381c412552f":[7,0,3184,5],
+"d6/d0c/classspell__gen__turkey__marker.html#a2e81d03893b23aa8dc9c615683206f75":[7,0,3184,2],
+"d6/d0c/classspell__gen__turkey__marker.html#a6ae104e97dc9c0aa50e115fe1f17e161":[7,0,3184,0],
 "d6/d0c/classspell__gen__turkey__marker.html#ab1dc8acb8072f70625375480742fee5e":[7,0,3184,1],
 "d6/d0c/classspell__gen__turkey__marker.html#ac2f2c8359487ad8c619e9faf8535b927":[7,0,3184,3],
 "d6/d0c/classspell__gen__turkey__marker.html#ac8d762bdb40366c93602497e9aaa42eb":[7,0,3184,6],
@@ -164,10 +170,10 @@ var NAVTREEINDEX174 =
 "d6/d0f/classspell__dk__anti__magic__zone.html#a818875a8073491eab2508182bd941e25":[7,0,2833,3],
 "d6/d0f/classspell__dk__anti__magic__zone.html#a99db0d1254ddcfa9e7afb241e73b3235":[7,0,2833,0],
 "d6/d0f/classspell__dk__anti__magic__zone.html#ac51bad58076a6dfa520fd3e9ea0c76b5":[7,0,2833,6],
-"d6/d0f/classspell__warr__rend.html":[7,0,4424],
-"d6/d0f/classspell__warr__rend.html#a845476e27b3751fd5aab505d41d8696d":[7,0,4424,1],
-"d6/d0f/classspell__warr__rend.html#a94b6fab25e8cb298650f2a1e2d0b4347":[7,0,4424,0],
-"d6/d0f/classspell__warr__rend.html#aa5141f11bcd97cc501297a5309df1079":[7,0,4424,2],
+"d6/d0f/classspell__warr__rend.html":[7,0,4426],
+"d6/d0f/classspell__warr__rend.html#a845476e27b3751fd5aab505d41d8696d":[7,0,4426,1],
+"d6/d0f/classspell__warr__rend.html#a94b6fab25e8cb298650f2a1e2d0b4347":[7,0,4426,0],
+"d6/d0f/classspell__warr__rend.html#aa5141f11bcd97cc501297a5309df1079":[7,0,4426,2],
 "d6/d0f/structContainerUnorderedMap.html":[7,0,934],
 "d6/d0f/structContainerUnorderedMap.html#ab18c6fa467deee7af0db888ab94d0ba7":[7,0,934,0],
 "d6/d11/classBreakableCCProcTest.html":[7,0,839],
@@ -243,11 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daa593e7932c30f1ecb427e6ee6caaaab36":[8,0,0,0,1,3,5,17,15,6],
 "d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daa5be42adef225b142bbab45f4b55b58c5":[8,0,0,0,1,3,5,17,15,8],
 "d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daa5d40fbe8d3e7fde098aa4d8a9108acfe":[8,0,0,0,1,3,5,17,15,10],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daaaa1471f5e79b0c390e07fc9a22d84144":[8,0,0,0,1,3,5,17,15,7],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daaaaaaef6ea8d7f1743bd2ec4e2bf704f7":[8,0,0,0,1,3,5,17,15,9],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daab733d4a3201f36ff4b56cf51608dba38":[8,0,0,0,1,3,5,17,15,0],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daac1f0474c1baca305f2ea3a695341bc27":[8,0,0,0,1,3,5,17,15,4],
-"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daac9bbf69aa1b744f9106edbfe7dc927e3":[8,0,0,0,1,3,5,17,15,2],
-"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,17,19],
-"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca2342fc86e4d2f4811c11c75f70b37f0b":[8,0,0,0,1,3,5,17,19,3]
+"d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daaaa1471f5e79b0c390e07fc9a22d84144":[8,0,0,0,1,3,5,17,15,7]
 };

@@ -1,12 +1,14 @@
 var NAVTREEINDEX57 =
 {
+"d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[7,0,3486,3],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[7,0,13,2,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,35,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[7,0,13,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,35,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[7,0,13,2,0,1],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,35,2,0,1],
-"d2/d34/structSpellCone.html":[7,0,4497],
-"d2/d34/structSpellCone.html#a7de6ce8a79e37a3097d6eaa5e1bf2210":[7,0,4497,0],
+"d2/d34/structSpellCone.html":[7,0,4500],
+"d2/d34/structSpellCone.html#a7de6ce8a79e37a3097d6eaa5e1bf2210":[7,0,4500,0],
 "d2/d35/BattlegroundAB_8h.html":[8,0,0,0,1,2,8,1,1],
 "d2/d35/BattlegroundAB_8h.html#a17477e3186c4fbc193be057a70100139":[8,0,0,0,1,2,8,1,1,16],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716":[8,0,0,0,1,2,8,1,1,9],
@@ -112,11 +114,11 @@ var NAVTREEINDEX57 =
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338a70dc7021ef277eafceea927b23e73e4b":[8,0,0,0,1,2,8,1,1,11,6],
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338a82345118263a37caa33c0f0fa160ee58":[8,0,0,0,1,2,8,1,1,11,0],
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338adec8cd5886a496342cf2ade674f4edf6":[8,0,0,0,1,2,8,1,1,11,1],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html":[7,0,4482],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a27fdfe00e5201b6472a282f4589a66cc":[7,0,4482,3],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a35c1e8f81229565e5d333ec42aa2e92c":[7,0,4482,2],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a39510971a0e1dbd800efc37c2e09c74f":[7,0,4482,1],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a7dd5b6217db77373dfba5958a2376ff1":[7,0,4482,0],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html":[7,0,4485],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a27fdfe00e5201b6472a282f4589a66cc":[7,0,4485,3],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a35c1e8f81229565e5d333ec42aa2e92c":[7,0,4485,2],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a39510971a0e1dbd800efc37c2e09c74f":[7,0,4485,1],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a7dd5b6217db77373dfba5958a2376ff1":[7,0,4485,0],
 "d2/d38/northrend__script__loader_8cpp.html":[8,0,0,0,1,3,5,14],
 "d2/d38/northrend__script__loader_8cpp.html#a00fbd7d9ffd951ce787d1233aa2c6d86":[8,0,0,0,1,3,5,14,65],
 "d2/d38/northrend__script__loader_8cpp.html#a01a1998120992ed059db815f85926ba6":[8,0,0,0,1,3,5,14,50],
@@ -247,7 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d38/northrend__script__loader_8cpp.html#ab8463ec71fb6b57892fdf41a97dd1321":[8,0,0,0,1,3,5,14,83],
 "d2/d38/northrend__script__loader_8cpp.html#aba1e1afda4423e51a1849a33da49a334":[8,0,0,0,1,3,5,14,136],
 "d2/d38/northrend__script__loader_8cpp.html#aba5bcd7624aeee0dbd61deec7f8d5d5b":[8,0,0,0,1,3,5,14,125],
-"d2/d38/northrend__script__loader_8cpp.html#abbb21fdf05e396088cb8e568c506cf60":[8,0,0,0,1,3,5,14,53],
-"d2/d38/northrend__script__loader_8cpp.html#abc5005c32589bbd3476dfdb8838aaa69":[8,0,0,0,1,3,5,14,45],
-"d2/d38/northrend__script__loader_8cpp.html#abe4224fb48e585a142bfb34aa12acf7d":[8,0,0,0,1,3,5,14,48]
+"d2/d38/northrend__script__loader_8cpp.html#abbb21fdf05e396088cb8e568c506cf60":[8,0,0,0,1,3,5,14,53]
 };

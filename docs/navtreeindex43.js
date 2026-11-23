@@ -1,5 +1,7 @@
 var NAVTREEINDEX43 =
 {
+"d1/db4/classnpc__valithria__portal.html#a9770ad0bc3732f2271876bbc84885dc0":[7,0,2303,2],
+"d1/db5/classnpc__the__lich__king__controller.html":[7,0,2227],
 "d1/db5/classnpc__the__lich__king__controller.html#a32b14d699737497ba7c90d8ef17557d7":[7,0,2227,1],
 "d1/db5/classnpc__the__lich__king__controller.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165":[7,0,2227,2],
 "d1/db6/GuildScript_8cpp.html":[8,0,0,0,1,2,38,0,57],
@@ -164,12 +166,12 @@ var NAVTREEINDEX43 =
 "d1/dba/classspell__rog__nerves__of__steel.html#acf7851d34fa2368c9e711e8b3943c09b":[7,0,4074,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[7,0,0,45],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html":[5,0,0,57],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[7,0,0,45,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[5,0,0,57,3],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[7,0,0,45,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[7,0,0,45,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[5,0,0,57,2],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[7,0,0,45,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,0,57,0],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[7,0,0,45,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[7,0,0,45,1],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[5,0,0,57,1],
 "d1/dbb/instance__utgarde__keep_8cpp.html":[8,0,0,0,1,3,5,10,0,3],
@@ -184,11 +186,11 @@ var NAVTREEINDEX43 =
 "d1/dbc/classspell__igb__check__for__players.html#a8bac27d885c8ea0c659c22599c4e97b4":[7,0,3339,3],
 "d1/dbc/classspell__igb__check__for__players.html#ac886eae598b55ed4aa9ddbf9ce3a01bd":[7,0,3339,4],
 "d1/dbc/classspell__igb__check__for__players.html#ad2e586d688b413f9ef9a5688d203106a":[7,0,3339,6],
-"d1/dbc/structSpellDiminishInfo.html":[7,0,4503],
-"d1/dbc/structSpellDiminishInfo.html#a18e94b40a8746c854b2fcca37ceb14f6":[7,0,4503,0],
-"d1/dbc/structSpellDiminishInfo.html#a4b04f3f569b5b73d2f8a9eda429c3f5d":[7,0,4503,2],
-"d1/dbc/structSpellDiminishInfo.html#a64a6fc19521245f1145ab6c769175803":[7,0,4503,3],
-"d1/dbc/structSpellDiminishInfo.html#ad48e4fbc6984602d0196accea51867de":[7,0,4503,1],
+"d1/dbc/structSpellDiminishInfo.html":[7,0,4506],
+"d1/dbc/structSpellDiminishInfo.html#a18e94b40a8746c854b2fcca37ceb14f6":[7,0,4506,0],
+"d1/dbc/structSpellDiminishInfo.html#a4b04f3f569b5b73d2f8a9eda429c3f5d":[7,0,4506,2],
+"d1/dbc/structSpellDiminishInfo.html#a64a6fc19521245f1145ab6c769175803":[7,0,4506,3],
+"d1/dbc/structSpellDiminishInfo.html#ad48e4fbc6984602d0196accea51867de":[7,0,4506,1],
 "d1/dbc/utgarde__keep_8h.html":[8,0,0,0,1,3,5,10,0,5],
 "d1/dbc/utgarde__keep_8h.html#a042491ef36459046f3866e90f15aae0d":[8,0,0,0,1,3,5,10,0,5,0],
 "d1/dbc/utgarde__keep_8h.html#a31d630c40753c29f94ceac2db5e451a8":[8,0,0,0,1,3,5,10,0,5,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX43 =
 "d1/dbd/bosses__opera_8cpp.html#a16774215bba3b38580ea51987d64cff1a70e2531c5083d628d632fb3ff7cea86e":[8,0,0,0,1,3,2,4,12,18,3],
 "d1/dbd/bosses__opera_8cpp.html#a16774215bba3b38580ea51987d64cff1a76451b5d817b5b048c92a4d1975bd486":[8,0,0,0,1,3,2,4,12,18,9],
 "d1/dbd/bosses__opera_8cpp.html#a16774215bba3b38580ea51987d64cff1a7e512d4624123978f5c26297f1c3146e":[8,0,0,0,1,3,2,4,12,18,11],
-"d1/dbd/bosses__opera_8cpp.html#a16774215bba3b38580ea51987d64cff1a9aee5c8b0842ca316a9184cfb55fce1d":[8,0,0,0,1,3,2,4,12,18,12],
-"d1/dbd/bosses__opera_8cpp.html#a16774215bba3b38580ea51987d64cff1aafd301fc17aaef83895e2e402c49fb8e":[8,0,0,0,1,3,2,4,12,18,10],
-"d1/dbd/bosses__opera_8cpp.html#a16774215bba3b38580ea51987d64cff1ab1a4627707d2cf05b712ea54ed6618c0":[8,0,0,0,1,3,2,4,12,18,14]
+"d1/dbd/bosses__opera_8cpp.html#a16774215bba3b38580ea51987d64cff1a9aee5c8b0842ca316a9184cfb55fce1d":[8,0,0,0,1,3,2,4,12,18,12]
 };

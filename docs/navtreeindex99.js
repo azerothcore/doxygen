@@ -1,5 +1,7 @@
 var NAVTREEINDEX99 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a4dc3c9ef6343b2ed9aafad0f5fe3287f":[8,0,0,0,1,3,5,9,2,13,48,6],
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a565dcee03b998d30d9abd0af161d0b3c":[8,0,0,0,1,3,5,9,2,13,48,7],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a59b5dd8939e8cce174a056513339d396":[8,0,0,0,1,3,5,9,2,13,48,2],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a67331f4822ab2c7c6c82e821c2e4a26a":[8,0,0,0,1,3,5,9,2,13,48,33],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a676545c9be0eb897479523c3895bfa17":[8,0,0,0,1,3,5,9,2,13,48,16],
@@ -142,11 +144,11 @@ var NAVTREEINDEX99 =
 "d3/d40/classspell__hun__hunting__party.html#a202ed9cca388b984f0dfebb64a512c47":[7,0,3286,0],
 "d3/d40/classspell__hun__hunting__party.html#a39b41d1560869ef9a1231fd39d0a652f":[7,0,3286,3],
 "d3/d40/classspell__hun__hunting__party.html#a6cab1853296da43b4a4cb39bedb20ffa":[7,0,3286,2],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[7,0,4481],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a2d506669ddc4c84e9ae3eb1746eadce1":[7,0,4481,3],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c":[7,0,4481,1],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a95bd054accb5b72c4cfb12caccf0e004":[7,0,4481,2],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a":[7,0,4481,0],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[7,0,4484],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a2d506669ddc4c84e9ae3eb1746eadce1":[7,0,4484,3],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c":[7,0,4484,1],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a95bd054accb5b72c4cfb12caccf0e004":[7,0,4484,2],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a":[7,0,4484,0],
 "d3/d41/classGameObjectModelOwnerImpl.html":[7,0,1125],
 "d3/d41/classGameObjectModelOwnerImpl.html#a1ca672aa490bd608de30bda7501fc03e":[7,0,1125,8],
 "d3/d41/classGameObjectModelOwnerImpl.html#a3d72c1810a41e2baa7e87ab26f4674f9":[7,0,1125,6],
@@ -177,10 +179,10 @@ var NAVTREEINDEX99 =
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#ad6838d98e34a32cbed42c77cdf096070":[7,0,1803,0,8],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#ae393f8d3cb47f38a4c4314a262826d03":[7,0,1803,0,9],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#ae5a1d416c712803ec0b80ae7ccf29e2d":[7,0,1803,0,11],
-"d3/d42/classspell__warl__everlasting__affliction.html":[7,0,4370],
-"d3/d42/classspell__warl__everlasting__affliction.html#a3f8988017d088d08df08ba8b696b552b":[7,0,4370,0],
-"d3/d42/classspell__warl__everlasting__affliction.html#a4ebc3c83dd77134af2ee81a46b121d19":[7,0,4370,2],
-"d3/d42/classspell__warl__everlasting__affliction.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b":[7,0,4370,1],
+"d3/d42/classspell__warl__everlasting__affliction.html":[7,0,4372],
+"d3/d42/classspell__warl__everlasting__affliction.html#a3f8988017d088d08df08ba8b696b552b":[7,0,4372,0],
+"d3/d42/classspell__warl__everlasting__affliction.html#a4ebc3c83dd77134af2ee81a46b121d19":[7,0,4372,2],
+"d3/d42/classspell__warl__everlasting__affliction.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b":[7,0,4372,1],
 "d3/d42/structContainerVector_3_01TypeList_3_01H_00_01T_01_4_01_4.html":[7,0,938],
 "d3/d42/structContainerVector_3_01TypeList_3_01H_00_01T_01_4_01_4.html#a3c5144877b9dcd68e1c2db2043796213":[7,0,938,1],
 "d3/d42/structContainerVector_3_01TypeList_3_01H_00_01T_01_4_01_4.html#acad24401d356f811f4660a6c845843e7":[7,0,938,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba144ddc64b4f8c106d25cb9f665e311c3":[8,0,0,0,1,2,49,7,0,225],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba1479ed433fcf4a599f6b59684e02e1d8":[8,0,0,0,1,2,49,7,0,483],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba1483655b13fe98cfbc49bb496c2d4b9d":[8,0,0,0,1,2,49,7,0,302],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba14a08e98bba82624401c2097cd69436d":[8,0,0,0,1,2,49,7,0,352],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba14f45b0e6058f6dc8d4ee8b1c9723685":[8,0,0,0,1,2,49,7,0,9],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba162aa3c6d594462c57d80f1ddcf27ef8":[8,0,0,0,1,2,49,7,0,257]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba14a08e98bba82624401c2097cd69436d":[8,0,0,0,1,2,49,7,0,352]
 };

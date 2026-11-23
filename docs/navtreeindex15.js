@@ -1,5 +1,6 @@
 var NAVTREEINDEX15 =
 {
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a239d48dcf636b831b5312fc4f5258a38":[8,0,0,0,1,2,8,1,11,15,53],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2457cf011017828bba1768272df4bdd5":[8,0,0,0,1,2,8,1,11,15,89],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a247675ed22d89c8239eac550a98e1a1e":[8,0,0,0,1,2,8,1,11,15,55],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a25af5346f2defcc366e37e084f374fad":[8,0,0,0,1,2,8,1,11,15,15],
@@ -244,10 +245,9 @@ var NAVTREEINDEX15 =
 "d0/d99/classnpc__q24545__lich__king.html":[7,0,2123],
 "d0/d99/classnpc__q24545__lich__king.html#a1864564dee4f66f1b29850b8b0f6fa29":[7,0,2123,1],
 "d0/d99/classnpc__q24545__lich__king.html#aade5ad8ba215d0571185596aa40cf9b2":[7,0,2123,2],
-"d0/d99/structWaspTeleportData.html":[7,0,4706],
-"d0/d99/structWaspTeleportData.html#aefd9fa5c6e7f45047994c7cc47e5967c":[7,0,4706,0],
-"d0/d99/structWaspTeleportData.html#af495f984d5b81baeaa61ddca127a9508":[7,0,4706,1],
-"d0/d9a/classspell__warl__glyph__of__shadowflame.html":[7,0,4376],
-"d0/d9a/classspell__warl__glyph__of__shadowflame.html#a2a1d6c4a6fdcfbb0ab34769649dbe321":[7,0,4376,0],
-"d0/d9a/classspell__warl__glyph__of__shadowflame.html#a77b31ab1d2952c5d77e8a1ca9cf18405":[7,0,4376,3]
+"d0/d99/structWaspTeleportData.html":[7,0,4709],
+"d0/d99/structWaspTeleportData.html#aefd9fa5c6e7f45047994c7cc47e5967c":[7,0,4709,0],
+"d0/d99/structWaspTeleportData.html#af495f984d5b81baeaa61ddca127a9508":[7,0,4709,1],
+"d0/d9a/classspell__warl__glyph__of__shadowflame.html":[7,0,4378],
+"d0/d9a/classspell__warl__glyph__of__shadowflame.html#a2a1d6c4a6fdcfbb0ab34769649dbe321":[7,0,4378,0]
 };

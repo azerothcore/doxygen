@@ -1,5 +1,11 @@
 var NAVTREEINDEX153 =
 {
+"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58a8e5b7d65d8983abc140c8aa681cf9a1c":[8,0,0,0,1,3,5,8,2,5,19,1],
+"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58a988e54c528362900b72b40027d3eef5d":[8,0,0,0,1,3,5,8,2,5,19,3],
+"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58ab2bb3a053b68620eefaf1997dce0bf5f":[8,0,0,0,1,3,5,8,2,5,19,7],
+"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58ab6324d1c2afca8bc0980d58bfe5a6677":[8,0,0,0,1,3,5,8,2,5,19,8],
+"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58ae1a121435466004734f56085e9e46925":[8,0,0,0,1,3,5,8,2,5,19,6],
+"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58aebdd6b2cdac7983c247a1a42e78771cc":[8,0,0,0,1,3,5,8,2,5,19,5],
 "d5/d4d/classIWorld.html":[7,0,1440],
 "d5/d4d/classIWorld.html#a034bf9dc24db0c667f9aaeb4e3862eae":[7,0,1440,3],
 "d5/d4d/classIWorld.html#a08e6163c632e0025a596469bf7e1e1ca":[7,0,1440,19],
@@ -136,8 +142,8 @@ var NAVTREEINDEX153 =
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6a46f99ffb67a699ef9adb2a1afcbe13":[7,0,1893,0,2],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a92124e7490a066bf63836397a3bdc71b":[7,0,1893,0,5],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#ac1496627bdf326163256045bd068bc4f":[7,0,1893,0,7],
-"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,0,8,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[7,0,0,5,0,14],
+"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,0,8,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[5,0,0,8,0,14,0],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[7,0,0,5,0,14,0],
 "d5/d52/classspell__the__lich__king__defile.html":[7,0,4267],
@@ -148,8 +154,8 @@ var NAVTREEINDEX153 =
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[7,0,4267,4],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,35,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[7,0,13,6,52],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,35,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[7,0,13,6,52,2],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,35,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[7,0,13,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,35,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[7,0,13,6,52,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX153 =
 "d5/d5d/boss__shazzrah_8cpp.html#a5bd342133be8c2137b831460acc9298caaaa5ae3a08209e161a52da70e8beef40":[8,0,0,0,1,3,2,1,3,8,3,2],
 "d5/d5d/boss__shazzrah_8cpp.html#a5bd342133be8c2137b831460acc9298cad1f34032baac5d21eff433ee40814963":[8,0,0,0,1,3,2,1,3,8,3,1],
 "d5/d5d/boss__shazzrah_8cpp.html#a5bd342133be8c2137b831460acc9298cade58b7c63a2761daf362f62a8b56ad9e":[8,0,0,0,1,3,2,1,3,8,3,5],
-"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,1,3,8,2],
-"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a1bacca4a652d58adaa186c72b16c4d":[8,0,0,0,1,3,2,1,3,8,2,3],
-"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a77555109b1c145d26a3e4e3faa3e37a5":[8,0,0,0,1,3,2,1,3,8,2,0],
-"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa190a1a901ad052af84001e8cafb1972":[8,0,0,0,1,3,2,1,3,8,2,4],
-"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab13564888e52fad8973a6c5cd9034fc3":[8,0,0,0,1,3,2,1,3,8,2,1],
-"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac30f8c8354deee6931f7b67cdfc1394a":[8,0,0,0,1,3,2,1,3,8,2,2],
-"d5/d5d/classspell__item__alchemists__stone.html":[7,0,3389]
+"d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,2,1,3,8,2]
 };

@@ -1,8 +1,9 @@
 var NAVTREEINDEX37 =
 {
 "d1/d71/structADT_1_1MDDF.html#a6a25126338a8c3aa7d36c02c979639dd":[7,0,1,0,1],
-"d1/d71/structADT_1_1MDDF.html#a8fa9a49b3195ffe74dcf1872d0fb05c1":[5,0,2,0,2],
+"d1/d71/structADT_1_1MDDF.html#a6a25126338a8c3aa7d36c02c979639dd":[5,0,2,0,1],
 "d1/d71/structADT_1_1MDDF.html#a8fa9a49b3195ffe74dcf1872d0fb05c1":[7,0,1,0,2],
+"d1/d71/structADT_1_1MDDF.html#a8fa9a49b3195ffe74dcf1872d0fb05c1":[5,0,2,0,2],
 "d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[7,0,1,0,3],
 "d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[5,0,2,0,3],
 "d1/d71/structADT_1_1MDDF.html#af8bcb02c541b9261dbf879353ba6893a":[7,0,1,0,4],
@@ -228,8 +229,8 @@ var NAVTREEINDEX37 =
 "d1/d7e/structInstanceTemplate.html#ac9cdaf7fc486bc89b5c5d95ac13146da":[7,0,1408,2],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[7,0,11,16],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,32,16],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe9c2f0e845059e5bee04823e28934df":[5,0,32,16,0],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe9c2f0e845059e5bee04823e28934df":[7,0,11,16,0],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe9c2f0e845059e5bee04823e28934df":[5,0,32,16,0],
 "d1/d80/classachievement__better__off__dred.html":[7,0,41],
 "d1/d80/classachievement__better__off__dred.html#a1ff3442ab3e166a4001c4c10777bdf8a":[7,0,41,0],
 "d1/d80/classachievement__better__off__dred.html#a9aab68b43fbf9f3c71c237b149f23b2d":[7,0,41,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX37 =
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,0,24,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[7,0,0,12,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,0,24,2],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[7,0,0,12,2],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,0,24,1]
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[7,0,0,12,2]
 };

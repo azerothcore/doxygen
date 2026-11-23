@@ -1,5 +1,11 @@
 var NAVTREEINDEX182 =
 {
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dac7ca7dae60d6d6b8268e747e1f50be3d":[8,0,0,0,1,2,7,0,1,17,17],
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daceca3c889fc7f521c62886d5c890332c":[8,0,0,0,1,2,7,0,1,17,27],
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dad37016932bb6d19c2bd649a185ede936":[8,0,0,0,1,2,7,0,1,17,25],
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826dad5e71a439ac8c7d779b13298d7a53601":[8,0,0,0,1,2,7,0,1,17,20],
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826daea82d06a107d2ac3668a6b11607d4c51":[8,0,0,0,1,2,7,0,1,17,2],
+"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6":[8,0,0,0,1,2,7,0,1,18],
 "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a0243f21dc6caad6680943fe25b83dd37":[8,0,0,0,1,2,7,0,1,18,0],
 "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a165e2b52b845d43034704f0bce8c963b":[8,0,0,0,1,2,7,0,1,18,4],
 "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a529ccde50f8f128ba00734682142816e":[8,0,0,0,1,2,7,0,1,18,7],
@@ -243,11 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d55/classnpc__tournament__training__dummy.html#ab5308cfddfef00da9692dddd21ce4a14":[7,0,2262,1],
 "d6/d56/classnpc__kurenai__captive.html":[7,0,1973],
 "d6/d56/classnpc__kurenai__captive.html#a5e87cd850d0fc6272d89dd3c7901af5f":[7,0,1973,3],
-"d6/d56/classnpc__kurenai__captive.html#ad6f9abf280ca7c3a1b16f7e4815fb979":[7,0,1973,2],
-"d6/d56/classnpc__kurenai__captive.html#ae0e283bfc476f2d9e602158fa8720cdc":[7,0,1973,1],
-"d6/d56/classspell__dru__owlkin__frenzy.html":[7,0,2944],
-"d6/d56/classspell__dru__owlkin__frenzy.html#a22059b71bcfdfb9a3be59feaf8005d3f":[7,0,2944,1],
-"d6/d56/classspell__dru__owlkin__frenzy.html#a60d451e6b359501b138564085c87a99f":[7,0,2944,0],
-"d6/d56/classspell__dru__owlkin__frenzy.html#ab33586608d444404c07edc4ffbb717ee":[7,0,2944,2],
-"d6/d58/classspell__item__unusual__compass.html":[7,0,3552]
+"d6/d56/classnpc__kurenai__captive.html#ad6f9abf280ca7c3a1b16f7e4815fb979":[7,0,1973,2]
 };

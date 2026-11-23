@@ -1,5 +1,6 @@
 var NAVTREEINDEX26 =
 {
+"d1/d14/classTypeContainerVisitor.html#af8110dd70655223f06fb08b552420a6d":[7,0,4651,1],
 "d1/d14/classnpc__creditmarker__visit__with__ancestors.html":[7,0,1760],
 "d1/d14/classnpc__creditmarker__visit__with__ancestors.html#a06eb335a757c9f48fbfa64bfc326bb8e":[7,0,1760,2],
 "d1/d14/classnpc__creditmarker__visit__with__ancestors.html#a60f7abac7198d8504d944828dceb1ffa":[7,0,1760,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d16/classSpell.html#a9c7afa4ff7513fda076a81298f2bc7e6":[7,0,2652,377],
 "d1/d16/classSpell.html#a9cc24c48226f54e27826e3ad1acc7ca4":[7,0,2652,261],
 "d1/d16/classSpell.html#a9ce48dbc3b6abee433f9bf1dc97b29a6":[7,0,2652,198],
-"d1/d16/classSpell.html#a9dad327981d8ca379abffb59a8120dc3":[7,0,2652,376],
-"d1/d16/classSpell.html#a9e7303d514d8049b1ad037e0494735ba":[7,0,2652,56]
+"d1/d16/classSpell.html#a9dad327981d8ca379abffb59a8120dc3":[7,0,2652,376]
 };

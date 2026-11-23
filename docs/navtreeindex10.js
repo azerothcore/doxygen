@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d76/classBattlefieldWG.html#ad3f0346dd291e421a5adcd57eb079760":[7,0,329,2],
 "d0/d76/classBattlefieldWG.html#ad40fb6e7319111ee509f38fad409cda8":[7,0,329,5],
 "d0/d76/classBattlefieldWG.html#ae8e7987a52d49b1cba9bd65656959cad":[7,0,329,13],
 "d0/d76/classBattlefieldWG.html#afcdfd96b3edaee8511857b97ad8cafa8":[7,0,329,28],
@@ -155,10 +156,10 @@ var NAVTREEINDEX10 =
 "d0/d78/Spell_8h.html#abed1822d323e37699c2c01a115a1d2f5aeb6eabdc1379fa5bc61395a9ea1d29ab":[8,0,0,0,1,2,41,2,19,27],
 "d0/d78/Spell_8h.html#abed1822d323e37699c2c01a115a1d2f5af6f1cba5f5cea12edf85ce89c85aa2ae":[8,0,0,0,1,2,41,2,19,21],
 "d0/d78/Spell_8h.html#ac4912996788d32123000e7fc35065c29":[8,0,0,0,1,2,41,2,18],
-"d0/d78/classspell__warr__weapon__required__proc.html":[7,0,4437],
-"d0/d78/classspell__warr__weapon__required__proc.html#a062f20a25a59ca1cff8327bcc04793cd":[7,0,4437,1],
-"d0/d78/classspell__warr__weapon__required__proc.html#a711020634cb42e5c62e33b330ebf3e24":[7,0,4437,2],
-"d0/d78/classspell__warr__weapon__required__proc.html#ad01d8868eb0fde3764ea32b15d900f2e":[7,0,4437,0],
+"d0/d78/classspell__warr__weapon__required__proc.html":[7,0,4439],
+"d0/d78/classspell__warr__weapon__required__proc.html#a062f20a25a59ca1cff8327bcc04793cd":[7,0,4439,1],
+"d0/d78/classspell__warr__weapon__required__proc.html#a711020634cb42e5c62e33b330ebf3e24":[7,0,4439,2],
+"d0/d78/classspell__warr__weapon__required__proc.html#ad01d8868eb0fde3764ea32b15d900f2e":[7,0,4439,0],
 "d0/d79/classnpc__unkor__the__ruthless.html":[7,0,2299],
 "d0/d79/classnpc__unkor__the__ruthless.html#a4eb173932f39c5503d1db91d55f3a5b7":[7,0,2299,1],
 "d0/d79/classnpc__unkor__the__ruthless.html#a552a19b9a48e90f3b093e2b9e16ec867":[7,0,2299,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d7e/SpellProcConditionsTest_8cpp.html#a7da16546ae468c0e8be892d0ae770371":[8,0,0,0,2,2,0,11,15,12],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#a82bf0bf6fb1a95996b9d00907b610bb6":[8,0,0,0,2,2,0,11,15,16],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#a87f31f52d43e136e5e74b40c468b0f18":[8,0,0,0,2,2,0,11,15,20],
-"d0/d7e/SpellProcConditionsTest_8cpp.html#a9e868b54de80516c769a4167222f1de8":[8,0,0,0,2,2,0,11,15,10],
-"d0/d7e/SpellProcConditionsTest_8cpp.html#aa21111bf368710bb371df701ac3d9605":[8,0,0,0,2,2,0,11,15,15]
+"d0/d7e/SpellProcConditionsTest_8cpp.html#a9e868b54de80516c769a4167222f1de8":[8,0,0,0,2,2,0,11,15,10]
 };

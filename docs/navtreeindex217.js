@@ -1,5 +1,11 @@
 var NAVTREEINDEX217 =
 {
+"d7/db0/classMap.html#a93f4c4cfb7c162986153ecc83ccc6bb3":[7,0,1523,35],
+"d7/db0/classMap.html#a9495f71196f1c34aea63d85c5fd81c05":[7,0,1523,28],
+"d7/db0/classMap.html#a95d6cce117504b56200b703c935c538e":[7,0,1523,157],
+"d7/db0/classMap.html#a96122e684358413e5aeddc387d164c47":[7,0,1523,258],
+"d7/db0/classMap.html#a974696541a26b3c4ca92d2b9f663cbe4":[7,0,1523,232],
+"d7/db0/classMap.html#a97acf003ca8bdb7eccad6c6d2e26a108":[7,0,1523,87],
 "d7/db0/classMap.html#a97f29654e5c2219b6f68f98b566e534e":[7,0,1523,37],
 "d7/db0/classMap.html#a9832c61d408be32fcf47b4606a623c1c":[7,0,1523,40],
 "d7/db0/classMap.html#a9869c29763545c30a707e6503566fe6a":[7,0,1523,161],
@@ -243,11 +249,5 @@ var NAVTREEINDEX217 =
 "d7/db6/OpenSSLCrypto_8h.html":[8,0,0,0,0,3,16],
 "d7/db6/OpenSSLCrypto_8h.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[8,0,0,0,0,3,16,1],
 "d7/db6/OpenSSLCrypto_8h.html#af868d9171650614810772c5675c47fd3":[8,0,0,0,0,3,16,0],
-"d7/db6/classspell__gen__ethereal__pet__aura.html":[7,0,3092],
-"d7/db6/classspell__gen__ethereal__pet__aura.html#a16d9e04ba3bc3144cd539033a5053d1a":[7,0,3092,4],
-"d7/db6/classspell__gen__ethereal__pet__aura.html#a49a6a07b66e5b99c67d4fcef13aeb933":[7,0,3092,3],
-"d7/db6/classspell__gen__ethereal__pet__aura.html#a59752617fc790359fdb13cc88aaed15e":[7,0,3092,1],
-"d7/db6/classspell__gen__ethereal__pet__aura.html#a8fd600957c21bdd8a1c1793e36ea3953":[7,0,3092,0],
-"d7/db6/classspell__gen__ethereal__pet__aura.html#a8fd600957c21bdd8a1c1793e36ea3953a0ece3b3d2fa217b809d77915cc6f30d2":[7,0,3092,0,1],
-"d7/db6/classspell__gen__ethereal__pet__aura.html#a8fd600957c21bdd8a1c1793e36ea3953aa4a66122509fdf013a6c6b3a5edbbba7":[7,0,3092,0,2]
+"d7/db6/classspell__gen__ethereal__pet__aura.html":[7,0,3092]
 };

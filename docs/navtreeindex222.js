@@ -1,5 +1,17 @@
 var NAVTREEINDEX222 =
 {
+"d7/deb/structboss__ysondre_1_1boss__ysondreAI.html":[7,0,822,0],
+"d7/deb/structboss__ysondre_1_1boss__ysondreAI.html#a5c96faa6b5e6cc350e9c53f34fe17eb1":[7,0,822,0,5],
+"d7/deb/structboss__ysondre_1_1boss__ysondreAI.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc":[7,0,822,0,0],
+"d7/deb/structboss__ysondre_1_1boss__ysondreAI.html#a88e3caa536a71730c757590be1bd3de1":[7,0,822,0,2],
+"d7/deb/structboss__ysondre_1_1boss__ysondreAI.html#a99ee250e776001bb142815fc711ae75d":[7,0,822,0,1],
+"d7/deb/structboss__ysondre_1_1boss__ysondreAI.html#ac2ea95a5f8c032d7d9166d92bce51ba1":[7,0,822,0,4],
+"d7/deb/structboss__ysondre_1_1boss__ysondreAI.html#af96597cf06d2ed71f85c7b4055793dcf":[7,0,822,0,3],
+"d7/dec/classOutdoorPvP__hellfire__peninsula.html":[7,0,2392],
+"d7/dec/classOutdoorPvP__hellfire__peninsula.html#a8ef74076d03225c889c6f027fbbfe25d":[7,0,2392,0],
+"d7/dec/classOutdoorPvP__hellfire__peninsula.html#aee93a8191457d7a264053809a5c082e8":[7,0,2392,1],
+"d7/dec/structnpc__ringo_1_1npc__ringoAI.html":[7,0,2146,0],
+"d7/dec/structnpc__ringo_1_1npc__ringoAI.html#a03f20114ca340c7c710bd77ee3c905ef":[7,0,2146,0,8],
 "d7/dec/structnpc__ringo_1_1npc__ringoAI.html#a09d3770aade34afe5a3a15e17cc64933":[7,0,2146,0,4],
 "d7/dec/structnpc__ringo_1_1npc__ringoAI.html#a37d12c7edf3100837c99e3fb572f4bf1":[7,0,2146,0,9],
 "d7/dec/structnpc__ringo_1_1npc__ringoAI.html#a3b0effa8ec4d335a1d24d2238346b04a":[7,0,2146,0,6],
@@ -237,17 +249,5 @@ var NAVTREEINDEX222 =
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a8934e8d4b86f03e5d578b153eeb63758":[8,0,0,0,1,2,16,10,6,5,21],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a96718491f9fa88e0a6cb75b9580a69e5":[8,0,0,0,1,2,16,10,6,5,10],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2aa6620004c6d23c46e0472598d5ab0b5d":[8,0,0,0,1,2,16,10,6,5,2],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab04ef9ae98b1939d4cb013d00ef53e2b":[8,0,0,0,1,2,16,10,6,5,17],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab12179bddd93a8ab4889165d2be55c8e":[8,0,0,0,1,2,16,10,6,5,25],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab334d1a544fae7ce011af12033dd5f29":[8,0,0,0,1,2,16,10,6,5,3],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab938c27bd379d5b5682b21a2c0b38477":[8,0,0,0,1,2,16,10,6,5,28],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ac772964571498eef17e90e4bfa1d4f6b":[8,0,0,0,1,2,16,10,6,5,27],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2acbb1c65d42b14ed4fe750fe86e1ff46c":[8,0,0,0,1,2,16,10,6,5,26],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2acf8ee0729f52b2faf0dbdb070b0d80d5":[8,0,0,0,1,2,16,10,6,5,14],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ad78130becc220b0cbf9036e1a74fa960":[8,0,0,0,1,2,16,10,6,5,6],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ae122f3cacfbbd7b91297fd427fdfa602":[8,0,0,0,1,2,16,10,6,5,7],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ae1bb7b9e3ed002517b2a8756d473f2e6":[8,0,0,0,1,2,16,10,6,5,13],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2aee8ff901aca85eef5e74e278c4e7c083":[8,0,0,0,1,2,16,10,6,5,5],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2aef868440d7c3da43fe9cde0cea10385f":[8,0,0,0,1,2,16,10,6,5,19],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2af5789ff5df78d3483e816ce1933ea4e3":[8,0,0,0,1,2,16,10,6,5,16]
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab04ef9ae98b1939d4cb013d00ef53e2b":[8,0,0,0,1,2,16,10,6,5,17]
 };

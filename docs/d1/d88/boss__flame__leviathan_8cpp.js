@@ -76,6 +76,7 @@ var boss__flame__leviathan_8cpp =
       [ "SPELL_NAPALM_25", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a963c304154ec335e2f891edf832ad9f1", null ],
       [ "SPELL_INVIS_AND_STEALTH_DETECT", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53af187c793d867def911a155bba57190c2", null ],
       [ "SPELL_TRANSITUS_SHIELD_IMPACT", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53aa158cb8bd47ccb9f8b584087b80bd7d9", null ],
+      [ "SPELL_OVERLOAD", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a93ebf6439143cd64d0e45b06092c804c", null ],
       [ "SPELL_SYSTEMS_SHUTDOWN", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a645b0c83f847d5d12ca072da00af874e", null ],
       [ "SPELL_OVERLOAD_CIRCUIT", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a7c47b0fdd80fb3ddecfd177f4e20b9ef", null ],
       [ "SPELL_START_THE_ENGINE", "d1/d88/boss__flame__leviathan_8cpp.html#a0b01dc061c57d5260b5013020f833e53a562f8a0a2f7ebdf127bb7ca62bfa3abd", null ],

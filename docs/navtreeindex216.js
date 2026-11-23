@@ -1,5 +1,11 @@
 var NAVTREEINDEX216 =
 {
+"d7/da7/classspell__dispel__freed__soldier__debuff.html#acef977e377c9d6e638056223256da4ef":[7,0,2827,2],
+"d7/da7/classspell__dispel__freed__soldier__debuff.html#adf4c5fb99c1ea11c984bffd9b54ee7ce":[7,0,2827,1],
+"d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html":[7,0,3953],
+"d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a03d59b6859286dbe460b348df6de63d7":[7,0,3953,3],
+"d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a367bd26543382ad71668fbe4f524d823":[7,0,3953,0],
+"d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a71cde3f81fdb253d8e93a19be104e9db":[7,0,3953,1],
 "d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html#a7c73e3381592bef44d2265aff296b301":[7,0,3953,2],
 "d7/da8/classspell__dru__glyph__of__starfire.html":[7,0,2928],
 "d7/da8/classspell__dru__glyph__of__starfire.html#a3a33f0ec477ff3b4b19fc98760a2dae7":[7,0,2928,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX216 =
 "d7/db0/classMap.html#a90d917e995b780193a0820798fe4e2fa":[7,0,1523,247],
 "d7/db0/classMap.html#a91cf9a3e5c88348f3fb5e7fb013a8c68":[7,0,1523,249],
 "d7/db0/classMap.html#a93137bdd833540e5c698d3890c47f413":[7,0,1523,148],
-"d7/db0/classMap.html#a937ecbcdf1b70e81187a56bcacd3324c":[7,0,1523,77],
-"d7/db0/classMap.html#a93f4c4cfb7c162986153ecc83ccc6bb3":[7,0,1523,35],
-"d7/db0/classMap.html#a9495f71196f1c34aea63d85c5fd81c05":[7,0,1523,28],
-"d7/db0/classMap.html#a95d6cce117504b56200b703c935c538e":[7,0,1523,157],
-"d7/db0/classMap.html#a96122e684358413e5aeddc387d164c47":[7,0,1523,258],
-"d7/db0/classMap.html#a974696541a26b3c4ca92d2b9f663cbe4":[7,0,1523,232],
-"d7/db0/classMap.html#a97acf003ca8bdb7eccad6c6d2e26a108":[7,0,1523,87]
+"d7/db0/classMap.html#a937ecbcdf1b70e81187a56bcacd3324c":[7,0,1523,77]
 };

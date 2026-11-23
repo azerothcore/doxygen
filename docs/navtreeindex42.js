@@ -1,5 +1,7 @@
 var NAVTREEINDEX42 =
 {
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea37c195e8bf305bc76cd18324824ad4e0":[8,0,0,0,1,2,16,10,5,52,19],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea44e12d41e08bdc27e6c7736e593ad8e1":[8,0,0,0,1,2,16,10,5,52,9],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea45d2a58d49ab909fd6a6e78467f7ca0d":[8,0,0,0,1,2,16,10,5,52,5],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea49e9d4df8d30a4fa19a5d422dbb2fb41":[8,0,0,0,1,2,16,10,5,52,24],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea5aad5ea92b88fa48fb05a367e6d70bb8":[8,0,0,0,1,2,16,10,5,52,30],
@@ -200,10 +202,10 @@ var NAVTREEINDEX42 =
 "d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#a0827e177a8268994bb4e63f07993a354":[7,0,4318,2],
 "d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#acea8e256f267dd496e5f573e982dba5f":[7,0,4318,1],
 "d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#af62c176d53589228d5e0077c9fc268a3":[7,0,4318,0],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html":[7,0,4447],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#a0096e0521c37a4f7f9ab1f2173a807d4":[7,0,4447,0],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#ad55ab81c39e8bf53d1e2066bbeefa712":[7,0,4447,1],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#afeccfe29a0e0f192a4242217f9d4b7e5":[7,0,4447,2],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html":[7,0,4450],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#a0096e0521c37a4f7f9ab1f2173a807d4":[7,0,4450,0],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#ad55ab81c39e8bf53d1e2066bbeefa712":[7,0,4450,1],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#afeccfe29a0e0f192a4242217f9d4b7e5":[7,0,4450,2],
 "d1/db2/classspell__item__mirrens__drinking__hat.html":[7,0,3482],
 "d1/db2/classspell__item__mirrens__drinking__hat.html#a14df2ed73118826254a6ffa923063f6c":[7,0,3482,0],
 "d1/db2/classspell__item__mirrens__drinking__hat.html#a1b20ba3fe209ebf0100f32d4013f2d08":[7,0,3482,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX42 =
 "d1/db4/classinstance__sunken__temple.html#a123b052c1cd1487588c88bf2611bc53b":[7,0,1380,1],
 "d1/db4/classinstance__sunken__temple.html#a1a783056b681f1f3b90e2e33e6a4a86d":[7,0,1380,2],
 "d1/db4/classnpc__valithria__portal.html":[7,0,2303],
-"d1/db4/classnpc__valithria__portal.html#a6014d7a57dfe5d21f63c03b3efcbdfc8":[7,0,2303,1],
-"d1/db4/classnpc__valithria__portal.html#a9770ad0bc3732f2271876bbc84885dc0":[7,0,2303,2],
-"d1/db5/classnpc__the__lich__king__controller.html":[7,0,2227]
+"d1/db4/classnpc__valithria__portal.html#a6014d7a57dfe5d21f63c03b3efcbdfc8":[7,0,2303,1]
 };

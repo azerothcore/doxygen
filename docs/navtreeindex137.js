@@ -1,5 +1,7 @@
 var NAVTREEINDEX137 =
 {
+"d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[7,0,2736,0],
+"d4/d82/structboss__ambassador__hellmaw.html":[7,0,391],
 "d4/d82/structboss__ambassador__hellmaw.html#a35579b31dec1d0c110b459230ee129e4":[7,0,391,2],
 "d4/d82/structboss__ambassador__hellmaw.html#a3cbd58fb11fe8d297907bb40d69e4ccb":[7,0,391,3],
 "d4/d82/structboss__ambassador__hellmaw.html#a44dae5d6517e22dd2be399d08fa67a71":[7,0,391,12],
@@ -137,8 +139,8 @@ var NAVTREEINDEX137 =
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,0,7,0,9,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,0,7,0,9,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[7,0,0,4,0,9,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,0,7,0,9,1],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[7,0,0,4,0,9,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,0,7,0,9,1],
 "d4/d8b/classCharacterCache.html":[7,0,875],
 "d4/d8b/classCharacterCache.html#a194ba3a3ffa63f545f3642c3ed6f1f5b":[7,0,875,16],
 "d4/d8b/classCharacterCache.html#a1dc8aebdaecb5a0bfa84a364161dc260":[7,0,875,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX137 =
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab5c4bded19a5f32ce90330401ede28c3":[8,0,0,0,1,3,7,1,6,8,6],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab6c1e6b5787916970155d69a771a3a5a":[8,0,0,0,1,3,7,1,6,8,2],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2ceacf2dd73998484b4e3cb3d35f89c":[8,0,0,0,1,3,7,1,6,8,10],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeabe40685ff637651067fdacb682eb12":[8,0,0,0,1,3,7,1,6,8,0],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,1,6,10],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca1be268c00440d3f2aadfe79c39e372a3":[8,0,0,0,1,3,7,1,6,10,10]
+"d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeabe40685ff637651067fdacb682eb12":[8,0,0,0,1,3,7,1,6,8,0]
 };

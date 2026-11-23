@@ -1,5 +1,7 @@
 var NAVTREEINDEX48 =
 {
+"d1/dd4/Item_8h.html#af61f52556a9623cc79e50bc6fca5f593a723a809cc17b68e90714b7dfbb723cd2":[8,0,0,0,1,2,16,4,3,8,6],
+"d1/dd4/Item_8h.html#af61f52556a9623cc79e50bc6fca5f593a73dc6dc1902328ceaff44d6a78eaaa81":[8,0,0,0,1,2,16,4,3,8,9],
 "d1/dd4/Item_8h.html#af61f52556a9623cc79e50bc6fca5f593a7fcc40f42c68445da6816046f8ef013f":[8,0,0,0,1,2,16,4,3,8,2],
 "d1/dd4/Item_8h.html#af61f52556a9623cc79e50bc6fca5f593a9fe27eaa3f41b7c7815c864e4a0c8bd3":[8,0,0,0,1,2,16,4,3,8,5],
 "d1/dd4/Item_8h.html#af61f52556a9623cc79e50bc6fca5f593ac7ba72f08837b002efcd372d5ac6b4d0":[8,0,0,0,1,2,16,4,3,8,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX48 =
 "d1/ddf/structFinder.html#a22ed3a876495c05e8db99b7cd752d898":[7,0,1079,0],
 "d1/ddf/structFinder.html#a89d852a64429ad8ad78872ad32173a14":[7,0,1079,3],
 "d1/ddf/structFinder.html#a8f8d606fdd53a2af6d20cf30d1660686":[7,0,1079,2],
-"d1/de0/WeatherMgr_8cpp.html":[4,2,2],
-"d1/de0/classLootStore.html":[7,0,1498],
-"d1/de0/classLootStore.html#a131a846a8bce5b792a06a130bb1d1599":[7,0,1498,13]
+"d1/de0/WeatherMgr_8cpp.html":[4,2,2]
 };

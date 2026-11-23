@@ -1,5 +1,7 @@
 var NAVTREEINDEX101 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba91db98bf30a24f568cce83ebd40e3be0":[8,0,0,0,1,2,49,7,0,32],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9289f25bd9d4395cee7ac1c47d5f010a":[8,0,0,0,1,2,49,7,0,427],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba92cd2acd2858d2163698c0b446b52b14":[8,0,0,0,1,2,49,7,0,345],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba93c6c6f0be80fd4c102bd970ed915c78":[8,0,0,0,1,2,49,7,0,237],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba93df7a833ba6da65841cb0aa8cb8b9b6":[8,0,0,0,1,2,49,7,0,216],
@@ -238,8 +240,8 @@ var NAVTREEINDEX101 =
 "d3/d46/trial__of__the__champion_8cpp.html#ae9c2d09ae83ee52e37980b134d67f164af1834042b38498aba7a5f96a1ad45c8a":[8,0,0,0,1,3,5,2,0,4,1,3],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[7,0,6,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,21,6],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[7,0,6,6,0],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,21,6,0],
+"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[7,0,6,6,0],
 "d3/d48/classgo__tele__to__violet__stand.html":[7,0,1229],
 "d3/d48/classgo__tele__to__violet__stand.html#a4d075584f065501a2c3be9ef82387f43":[7,0,1229,1],
 "d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[7,0,1229,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d48/structBoundsTrait_3_01VMAP_1_1ModelSpawn_01_5_01_4.html#a04d9251d9a67affeece303853c2c8a84":[7,0,836,0],
 "d3/d49/Appender_8cpp.html":[8,0,0,0,0,9,0],
 "d3/d49/GameObjectAI_8cpp.html":[8,0,0,0,1,2,3,0,2],
-"d3/d4a/boss__onyxia_8cpp.html":[8,0,0,0,1,3,4,4,0],
-"d3/d4a/boss__onyxia_8cpp.html#a2b339896f762dc448176a5f8ca0a5b59":[8,0,0,0,1,3,4,4,0,15],
-"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[8,0,0,0,1,3,4,4,0,11]
+"d3/d4a/boss__onyxia_8cpp.html":[8,0,0,0,1,3,4,4,0]
 };
