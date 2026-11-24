@@ -1,5 +1,8 @@
 var NAVTREEINDEX417 =
 {
+"df/d5c/classnpc__commandscript.html#a16fe889389b58c80f75a96f522440460":[7,0,1742,34],
+"df/d5c/classnpc__commandscript.html#a1b7bbdb0a4408030da97e233cd4bb46c":[7,0,1742,35],
+"df/d5c/classnpc__commandscript.html#a24d43a72ee428246de161ec13ab18a24":[7,0,1742,2],
 "df/d5c/classnpc__commandscript.html#a265fbd601b08b2265f58a4301093ff7d":[7,0,1742,31],
 "df/d5c/classnpc__commandscript.html#a2b6ee43b9f9295a47d3445a1f09c6d0f":[7,0,1742,37],
 "df/d5c/classnpc__commandscript.html#a30052a3759151fb2c99f13bd83a0bc6e":[7,0,1742,38],
@@ -246,8 +249,5 @@ var NAVTREEINDEX417 =
 "df/d6f/namespaceAcore_1_1Module.html":[5,0,0,9],
 "df/d6f/namespaceAcore_1_1Module.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7":[5,0,0,9,0],
 "df/d6f/namespaceAcore_1_1Module.html#ac16569c9333f642e54fa7a4ec6a948e3":[5,0,0,9,1],
-"df/d6f/structboss__eydis_1_1boss__eydisAI.html":[7,0,471,0],
-"df/d6f/structboss__eydis_1_1boss__eydisAI.html#a0e97e184b2a2f610730cd3d455702955":[7,0,471,0,0],
-"df/d6f/structboss__eydis_1_1boss__eydisAI.html#aa5ae64cfe003a25859364a12cb871199":[7,0,471,0,1],
-"df/d6f/structboss__thorim__arena__npcs.html":[7,0,752]
+"df/d6f/structboss__eydis_1_1boss__eydisAI.html":[7,0,471,0]
 };

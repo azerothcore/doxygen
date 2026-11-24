@@ -334,38 +334,38 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 6113</span>    {</div>
-<div class="line"><span class="lineno"> 6114</span>        <a class="code hl_class" href="../../d1/d16/classSpell.html">Spell</a> <span class="keyword">const</span>* spell = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a4fc02fb30c7c964a4fa804e69c47c9a2">GetProcSpell</a>();</div>
-<div class="line"><span class="lineno"> 6115</span>        <span class="keywordflow">if</span> (!spell)</div>
-<div class="line"><span class="lineno"> 6116</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 6117</span> </div>
-<div class="line"><span class="lineno"> 6118</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = spell-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a021b62f9cbeedf1a3101cac30197aa07">GetSpellInfo</a>();</div>
-<div class="line"><span class="lineno"> 6119</span> </div>
-<div class="line"><span class="lineno"> 6120</span>        <span class="comment">// totems cast by Call of the Elements are triggered</span></div>
-<div class="line"><span class="lineno"> 6121</span>        <span class="keywordflow">if</span> (!spell-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ac4a65258ce0c7848ef6d4a528e6f599e">IsTriggered</a>() || spellInfo-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a25ff5d34ce79433dfc852484cef1d47da41cd94ae13ff44883ff857f66d32bb1b">SPELL_ATTR7_CAN_BE_MULTI_CAST</a>))</div>
-<div class="line"><span class="lineno"> 6122</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/da9/classspell__item__meteoric__inspiration.html#a951452680451b435b622b9ccb0de535c">HasManaCost</a>(spellInfo);</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6119</span>    {</div>
+<div class="line"><span class="lineno"> 6120</span>        <a class="code hl_class" href="../../d1/d16/classSpell.html">Spell</a> <span class="keyword">const</span>* spell = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a4fc02fb30c7c964a4fa804e69c47c9a2">GetProcSpell</a>();</div>
+<div class="line"><span class="lineno"> 6121</span>        <span class="keywordflow">if</span> (!spell)</div>
+<div class="line"><span class="lineno"> 6122</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 6123</span> </div>
-<div class="line"><span class="lineno"> 6124</span>        <span class="keywordflow">if</span> (!spellInfo-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a6f95d0d447e8085b1097ac9965af2a81a0ab6879b3ecf27e26177fb7ef8fe678f">SPELL_ATTR3_NOT_A_PROC</a>))</div>
-<div class="line"><span class="lineno"> 6125</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 6126</span> </div>
-<div class="line"><span class="lineno"> 6127</span>        <span class="keywordflow">switch</span> (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a49bc14059c2bd3785231c52e0d54d382">Id</a>)</div>
-<div class="line"><span class="lineno"> 6128</span>        {</div>
-<div class="line"><span class="lineno"> 6129</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea89811b7d04b0b5373cfaf84f804d6601">SPELL_BEACON_OF_LIGHT_HOLY_LIGHT</a>:</div>
-<div class="line"><span class="lineno"> 6130</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea75762c3ba54c39de7c655895b112f631">SPELL_BEACON_OF_LIGHT_FLASH_OF_LIGHT</a>:</div>
-<div class="line"><span class="lineno"> 6131</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ead9ef96ad36997770acd6a4115b2be49e">SPELL_BEACON_OF_LIGHT_HOLY_SHOCK</a>:</div>
-<div class="line"><span class="lineno"> 6132</span>            {</div>
-<div class="line"><span class="lineno"> 6133</span>                <span class="comment">// copy is cast inside the source heal&#39;s hit, so the generic slot still holds that heal.</span></div>
-<div class="line"><span class="lineno"> 6134</span>                <span class="comment">// 53654 also copies Lay on Hands, so the copy&#39;s id alone can&#39;t tell</span></div>
-<div class="line"><span class="lineno"> 6135</span>                <a class="code hl_class" href="../../d1/d16/classSpell.html">Spell</a> <span class="keyword">const</span>* origin = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#affc5148f2c60051706b4e85a29eb4d45">GetCurrentSpell</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#ab791040bd6d685b1fd2cfd12c96d0a1fa9cbac6c5133585dece51a40e9c1908b0">CURRENT_GENERIC_SPELL</a>);</div>
-<div class="line"><span class="lineno"> 6136</span>                <span class="keywordflow">return</span> origin &amp;&amp; <a class="code hl_function" href="../../dc/da9/classspell__item__meteoric__inspiration.html#a951452680451b435b622b9ccb0de535c">HasManaCost</a>(origin-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a021b62f9cbeedf1a3101cac30197aa07">GetSpellInfo</a>());</div>
-<div class="line"><span class="lineno"> 6137</span>            }</div>
-<div class="line"><span class="lineno"> 6138</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 6139</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 6140</span>        }</div>
-<div class="line"><span class="lineno"> 6141</span> </div>
-<div class="line"><span class="lineno"> 6142</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* channel = spell-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a13613310ed7a4940022def4a4fd34864">GetTriggeredByAuraSpellInfo</a>();</div>
-<div class="line"><span class="lineno"> 6143</span>        <span class="keywordflow">return</span> channel &amp;&amp; channel-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a93b51808183b35049d7e5847acee0390">IsChanneled</a>() &amp;&amp; (<a class="code hl_function" href="../../dc/da9/classspell__item__meteoric__inspiration.html#a951452680451b435b622b9ccb0de535c">HasManaCost</a>(channel) || <a class="code hl_function" href="../../dc/da9/classspell__item__meteoric__inspiration.html#ab020e0b8e7697b196adca557cf4654c7">IsPenanceChannel</a>(channel));</div>
-<div class="line"><span class="lineno"> 6144</span>    }</div>
+<div class="line"><span class="lineno"> 6124</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = spell-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a021b62f9cbeedf1a3101cac30197aa07">GetSpellInfo</a>();</div>
+<div class="line"><span class="lineno"> 6125</span> </div>
+<div class="line"><span class="lineno"> 6126</span>        <span class="comment">// totems cast by Call of the Elements are triggered</span></div>
+<div class="line"><span class="lineno"> 6127</span>        <span class="keywordflow">if</span> (!spell-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ac4a65258ce0c7848ef6d4a528e6f599e">IsTriggered</a>() || spellInfo-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a25ff5d34ce79433dfc852484cef1d47da41cd94ae13ff44883ff857f66d32bb1b">SPELL_ATTR7_CAN_BE_MULTI_CAST</a>))</div>
+<div class="line"><span class="lineno"> 6128</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/da9/classspell__item__meteoric__inspiration.html#a951452680451b435b622b9ccb0de535c">HasManaCost</a>(spellInfo);</div>
+<div class="line"><span class="lineno"> 6129</span> </div>
+<div class="line"><span class="lineno"> 6130</span>        <span class="keywordflow">if</span> (!spellInfo-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">HasAttribute</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a6f95d0d447e8085b1097ac9965af2a81a0ab6879b3ecf27e26177fb7ef8fe678f">SPELL_ATTR3_NOT_A_PROC</a>))</div>
+<div class="line"><span class="lineno"> 6131</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 6132</span> </div>
+<div class="line"><span class="lineno"> 6133</span>        <span class="keywordflow">switch</span> (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a49bc14059c2bd3785231c52e0d54d382">Id</a>)</div>
+<div class="line"><span class="lineno"> 6134</span>        {</div>
+<div class="line"><span class="lineno"> 6135</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea89811b7d04b0b5373cfaf84f804d6601">SPELL_BEACON_OF_LIGHT_HOLY_LIGHT</a>:</div>
+<div class="line"><span class="lineno"> 6136</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea75762c3ba54c39de7c655895b112f631">SPELL_BEACON_OF_LIGHT_FLASH_OF_LIGHT</a>:</div>
+<div class="line"><span class="lineno"> 6137</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ead9ef96ad36997770acd6a4115b2be49e">SPELL_BEACON_OF_LIGHT_HOLY_SHOCK</a>:</div>
+<div class="line"><span class="lineno"> 6138</span>            {</div>
+<div class="line"><span class="lineno"> 6139</span>                <span class="comment">// copy is cast inside the source heal&#39;s hit, so the generic slot still holds that heal.</span></div>
+<div class="line"><span class="lineno"> 6140</span>                <span class="comment">// 53654 also copies Lay on Hands, so the copy&#39;s id alone can&#39;t tell</span></div>
+<div class="line"><span class="lineno"> 6141</span>                <a class="code hl_class" href="../../d1/d16/classSpell.html">Spell</a> <span class="keyword">const</span>* origin = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#affc5148f2c60051706b4e85a29eb4d45">GetCurrentSpell</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#ab791040bd6d685b1fd2cfd12c96d0a1fa9cbac6c5133585dece51a40e9c1908b0">CURRENT_GENERIC_SPELL</a>);</div>
+<div class="line"><span class="lineno"> 6142</span>                <span class="keywordflow">return</span> origin &amp;&amp; <a class="code hl_function" href="../../dc/da9/classspell__item__meteoric__inspiration.html#a951452680451b435b622b9ccb0de535c">HasManaCost</a>(origin-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a021b62f9cbeedf1a3101cac30197aa07">GetSpellInfo</a>());</div>
+<div class="line"><span class="lineno"> 6143</span>            }</div>
+<div class="line"><span class="lineno"> 6144</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 6145</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 6146</span>        }</div>
+<div class="line"><span class="lineno"> 6147</span> </div>
+<div class="line"><span class="lineno"> 6148</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* channel = spell-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a13613310ed7a4940022def4a4fd34864">GetTriggeredByAuraSpellInfo</a>();</div>
+<div class="line"><span class="lineno"> 6149</span>        <span class="keywordflow">return</span> channel &amp;&amp; channel-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a93b51808183b35049d7e5847acee0390">IsChanneled</a>() &amp;&amp; (<a class="code hl_function" href="../../dc/da9/classspell__item__meteoric__inspiration.html#a951452680451b435b622b9ccb0de535c">HasManaCost</a>(channel) || <a class="code hl_function" href="../../dc/da9/classspell__item__meteoric__inspiration.html#ab020e0b8e7697b196adca557cf4654c7">IsPenanceChannel</a>(channel));</div>
+<div class="line"><span class="lineno"> 6150</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a25ff5d34ce79433dfc852484cef1d47da41cd94ae13ff44883ff857f66d32bb1b"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a25ff5d34ce79433dfc852484cef1d47da41cd94ae13ff44883ff857f66d32bb1b">SPELL_ATTR7_CAN_BE_MULTI_CAST</a></div><div class="ttdeci">@ SPELL_ATTR7_CAN_BE_MULTI_CAST</div><div class="ttdef"><b>Definition</b> SharedDefines.h:634</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a6f95d0d447e8085b1097ac9965af2a81a0ab6879b3ecf27e26177fb7ef8fe678f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a6f95d0d447e8085b1097ac9965af2a81a0ab6879b3ecf27e26177fb7ef8fe678f">SPELL_ATTR3_NOT_A_PROC</a></div><div class="ttdeci">@ SPELL_ATTR3_NOT_A_PROC</div><div class="ttdef"><b>Definition</b> SharedDefines.h:490</div></div>
 <div class="ttc" id="aUnit_8h_html_ab791040bd6d685b1fd2cfd12c96d0a1fa9cbac6c5133585dece51a40e9c1908b0"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#ab791040bd6d685b1fd2cfd12c96d0a1fa9cbac6c5133585dece51a40e9c1908b0">CURRENT_GENERIC_SPELL</a></div><div class="ttdeci">@ CURRENT_GENERIC_SPELL</div><div class="ttdef"><b>Definition</b> Unit.h:564</div></div>
@@ -380,15 +380,15 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpell_html_a13613310ed7a4940022def4a4fd34864"><div class="ttname"><a href="../../d1/d16/classSpell.html#a13613310ed7a4940022def4a4fd34864">Spell::GetTriggeredByAuraSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetTriggeredByAuraSpellInfo() const</div><div class="ttdef"><b>Definition</b> Spell.h:621</div></div>
 <div class="ttc" id="aclassSpell_html_ac4a65258ce0c7848ef6d4a528e6f599e"><div class="ttname"><a href="../../d1/d16/classSpell.html#ac4a65258ce0c7848ef6d4a528e6f599e">Spell::IsTriggered</a></div><div class="ttdeci">bool IsTriggered() const</div><div class="ttdef"><b>Definition</b> Spell.h:568</div></div>
 <div class="ttc" id="aclassUnit_html_affc5148f2c60051706b4e85a29eb4d45"><div class="ttname"><a href="../../df/dd9/classUnit.html#affc5148f2c60051706b4e85a29eb4d45">Unit::GetCurrentSpell</a></div><div class="ttdeci">Spell * GetCurrentSpell(CurrentSpellTypes spellType) const</div><div class="ttdef"><b>Definition</b> Unit.h:1593</div></div>
-<div class="ttc" id="aclassspell__item__meteoric__inspiration_html_a951452680451b435b622b9ccb0de535c"><div class="ttname"><a href="../../dc/da9/classspell__item__meteoric__inspiration.html#a951452680451b435b622b9ccb0de535c">spell_item_meteoric_inspiration::HasManaCost</a></div><div class="ttdeci">static bool HasManaCost(SpellInfo const *spellInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:6100</div></div>
-<div class="ttc" id="aclassspell__item__meteoric__inspiration_html_ab020e0b8e7697b196adca557cf4654c7"><div class="ttname"><a href="../../dc/da9/classspell__item__meteoric__inspiration.html#ab020e0b8e7697b196adca557cf4654c7">spell_item_meteoric_inspiration::IsPenanceChannel</a></div><div class="ttdeci">static bool IsPenanceChannel(SpellInfo const *spellInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:6106</div></div>
+<div class="ttc" id="aclassspell__item__meteoric__inspiration_html_a951452680451b435b622b9ccb0de535c"><div class="ttname"><a href="../../dc/da9/classspell__item__meteoric__inspiration.html#a951452680451b435b622b9ccb0de535c">spell_item_meteoric_inspiration::HasManaCost</a></div><div class="ttdeci">static bool HasManaCost(SpellInfo const *spellInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:6106</div></div>
+<div class="ttc" id="aclassspell__item__meteoric__inspiration_html_ab020e0b8e7697b196adca557cf4654c7"><div class="ttname"><a href="../../dc/da9/classspell__item__meteoric__inspiration.html#ab020e0b8e7697b196adca557cf4654c7">spell_item_meteoric_inspiration::IsPenanceChannel</a></div><div class="ttdeci">static bool IsPenanceChannel(SpellInfo const *spellInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:6112</div></div>
 <div class="ttc" id="aspell__item_8cpp_html_a77f3d9f211165aa9c760eeb3a8c2f89ea75762c3ba54c39de7c655895b112f631"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea75762c3ba54c39de7c655895b112f631">SPELL_BEACON_OF_LIGHT_FLASH_OF_LIGHT</a></div><div class="ttdeci">@ SPELL_BEACON_OF_LIGHT_FLASH_OF_LIGHT</div><div class="ttdef"><b>Definition</b> spell_item.cpp:198</div></div>
 <div class="ttc" id="aspell__item_8cpp_html_a77f3d9f211165aa9c760eeb3a8c2f89ea89811b7d04b0b5373cfaf84f804d6601"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea89811b7d04b0b5373cfaf84f804d6601">SPELL_BEACON_OF_LIGHT_HOLY_LIGHT</a></div><div class="ttdeci">@ SPELL_BEACON_OF_LIGHT_HOLY_LIGHT</div><div class="ttdef"><b>Definition</b> spell_item.cpp:197</div></div>
 <div class="ttc" id="aspell__item_8cpp_html_a77f3d9f211165aa9c760eeb3a8c2f89ead9ef96ad36997770acd6a4115b2be49e"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ead9ef96ad36997770acd6a4115b2be49e">SPELL_BEACON_OF_LIGHT_HOLY_SHOCK</a></div><div class="ttdeci">@ SPELL_BEACON_OF_LIGHT_HOLY_SHOCK</div><div class="ttdef"><b>Definition</b> spell_item.cpp:199</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00564">CURRENT_GENERIC_SPELL</a>, <a class="el" href="../../#l00468">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l01593">Unit::GetCurrentSpell()</a>, <a class="el" href="../../#l00477">ProcEventInfo::GetProcSpell()</a>, <a class="el" href="../../#l00601">Spell::GetSpellInfo()</a>, <a class="el" href="../../#l00621">Spell::GetTriggeredByAuraSpellInfo()</a>, <a class="el" href="../../#l00441">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l06100">HasManaCost()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l01301">SpellInfo::IsChanneled()</a>, <a class="el" href="../../#l06106">IsPenanceChannel()</a>, <a class="el" href="../../#l00568">Spell::IsTriggered()</a>, <a class="el" href="../../#l00490">SPELL_ATTR3_NOT_A_PROC</a>, <a class="el" href="../../#l00634">SPELL_ATTR7_CAN_BE_MULTI_CAST</a>, <a class="el" href="../../#l00198">SPELL_BEACON_OF_LIGHT_FLASH_OF_LIGHT</a>, <a class="el" href="../../#l00197">SPELL_BEACON_OF_LIGHT_HOLY_LIGHT</a>, and <a class="el" href="../../#l00199">SPELL_BEACON_OF_LIGHT_HOLY_SHOCK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00564">CURRENT_GENERIC_SPELL</a>, <a class="el" href="../../#l00468">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l01593">Unit::GetCurrentSpell()</a>, <a class="el" href="../../#l00477">ProcEventInfo::GetProcSpell()</a>, <a class="el" href="../../#l00601">Spell::GetSpellInfo()</a>, <a class="el" href="../../#l00621">Spell::GetTriggeredByAuraSpellInfo()</a>, <a class="el" href="../../#l00441">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l06106">HasManaCost()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l01301">SpellInfo::IsChanneled()</a>, <a class="el" href="../../#l06112">IsPenanceChannel()</a>, <a class="el" href="../../#l00568">Spell::IsTriggered()</a>, <a class="el" href="../../#l00490">SPELL_ATTR3_NOT_A_PROC</a>, <a class="el" href="../../#l00634">SPELL_ATTR7_CAN_BE_MULTI_CAST</a>, <a class="el" href="../../#l00198">SPELL_BEACON_OF_LIGHT_FLASH_OF_LIGHT</a>, <a class="el" href="../../#l00197">SPELL_BEACON_OF_LIGHT_HOLY_LIGHT</a>, and <a class="el" href="../../#l00199">SPELL_BEACON_OF_LIGHT_HOLY_SHOCK</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l06146">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06152">Register()</a>.</p>
 
 </div>
 </div>
@@ -415,14 +415,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 6101</span>    {</div>
-<div class="line"><span class="lineno"> 6102</span>        <span class="keywordflow">return</span> spellInfo-&gt;PowerType == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a> &amp;&amp; (spellInfo-&gt;ManaCost || spellInfo-&gt;ManaCostPercentage);</div>
-<div class="line"><span class="lineno"> 6103</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6107</span>    {</div>
+<div class="line"><span class="lineno"> 6108</span>        <span class="keywordflow">return</span> spellInfo-&gt;PowerType == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a> &amp;&amp; (spellInfo-&gt;ManaCost || spellInfo-&gt;ManaCostPercentage);</div>
+<div class="line"><span class="lineno"> 6109</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a></div><div class="ttdeci">@ POWER_MANA</div><div class="ttdef"><b>Definition</b> SharedDefines.h:257</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00387">SpellInfo::ManaCost</a>, <a class="el" href="../../#l00391">SpellInfo::ManaCostPercentage</a>, <a class="el" href="../../#l00257">POWER_MANA</a>, and <a class="el" href="../../#l00386">SpellInfo::PowerType</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l06112">CheckProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06118">CheckProc()</a>.</p>
 
 </div>
 </div>
@@ -449,17 +449,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 6107</span>    {</div>
-<div class="line"><span class="lineno"> 6108</span>        <span class="keywordflow">return</span> spellInfo-&gt;IsRankOf(<a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;AssertSpellInfo(<a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89eadb82e7630bb089f2992027488732858a">SPELL_PENANCE_R1_HEAL_CHANNEL</a>)) ||</div>
-<div class="line"><span class="lineno"> 6109</span>            spellInfo-&gt;IsRankOf(<a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;AssertSpellInfo(<a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea35e02b2eaa76853ddc53c445958a2a32">SPELL_PENANCE_R1_DAMAGE_CHANNEL</a>));</div>
-<div class="line"><span class="lineno"> 6110</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6113</span>    {</div>
+<div class="line"><span class="lineno"> 6114</span>        <span class="keywordflow">return</span> spellInfo-&gt;IsRankOf(<a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;AssertSpellInfo(<a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89eadb82e7630bb089f2992027488732858a">SPELL_PENANCE_R1_HEAL_CHANNEL</a>)) ||</div>
+<div class="line"><span class="lineno"> 6115</span>            spellInfo-&gt;IsRankOf(<a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;AssertSpellInfo(<a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea35e02b2eaa76853ddc53c445958a2a32">SPELL_PENANCE_R1_DAMAGE_CHANNEL</a>));</div>
+<div class="line"><span class="lineno"> 6116</span>    }</div>
 <div class="ttc" id="aSpellMgr_8h_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition</b> SpellMgr.h:851</div></div>
 <div class="ttc" id="aspell__item_8cpp_html_a77f3d9f211165aa9c760eeb3a8c2f89ea35e02b2eaa76853ddc53c445958a2a32"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea35e02b2eaa76853ddc53c445958a2a32">SPELL_PENANCE_R1_DAMAGE_CHANNEL</a></div><div class="ttdeci">@ SPELL_PENANCE_R1_DAMAGE_CHANNEL</div><div class="ttdef"><b>Definition</b> spell_item.cpp:196</div></div>
 <div class="ttc" id="aspell__item_8cpp_html_a77f3d9f211165aa9c760eeb3a8c2f89eadb82e7630bb089f2992027488732858a"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89eadb82e7630bb089f2992027488732858a">SPELL_PENANCE_R1_HEAL_CHANNEL</a></div><div class="ttdeci">@ SPELL_PENANCE_R1_HEAL_CHANNEL</div><div class="ttdef"><b>Definition</b> spell_item.cpp:195</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l03023">SpellInfo::IsRankOf()</a>, <a class="el" href="../../#l00196">SPELL_PENANCE_R1_DAMAGE_CHANNEL</a>, <a class="el" href="../../#l00195">SPELL_PENANCE_R1_HEAL_CHANNEL</a>, and <a class="el" href="../../#l00851">sSpellMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l06112">CheckProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06118">CheckProc()</a>.</p>
 
 </div>
 </div>
@@ -513,14 +513,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 6147</span>    {</div>
-<div class="line"><span class="lineno"> 6148</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../dc/da9/classspell__item__meteoric__inspiration.html#abc802dd38555c1165e290046418018b6">spell_item_meteoric_inspiration::CheckProc</a>);</div>
-<div class="line"><span class="lineno"> 6149</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6153</span>    {</div>
+<div class="line"><span class="lineno"> 6154</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../dc/da9/classspell__item__meteoric__inspiration.html#abc802dd38555c1165e290046418018b6">spell_item_meteoric_inspiration::CheckProc</a>);</div>
+<div class="line"><span class="lineno"> 6155</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:827</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:826</div></div>
-<div class="ttc" id="aclassspell__item__meteoric__inspiration_html_abc802dd38555c1165e290046418018b6"><div class="ttname"><a href="../../dc/da9/classspell__item__meteoric__inspiration.html#abc802dd38555c1165e290046418018b6">spell_item_meteoric_inspiration::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:6112</div></div>
+<div class="ttc" id="aclassspell__item__meteoric__inspiration_html_abc802dd38555c1165e290046418018b6"><div class="ttname"><a href="../../dc/da9/classspell__item__meteoric__inspiration.html#abc802dd38555c1165e290046418018b6">spell_item_meteoric_inspiration::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:6118</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00827">AuraCheckProcFn</a>, <a class="el" href="../../#l06112">CheckProc()</a>, and <a class="el" href="../../#l00826">AuraScript::DoCheckProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00827">AuraCheckProcFn</a>, <a class="el" href="../../#l06118">CheckProc()</a>, and <a class="el" href="../../#l00826">AuraScript::DoCheckProc</a>.</p>
 
 </div>
 </div>
@@ -549,16 +549,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 6089</span>    {</div>
-<div class="line"><span class="lineno"> 6090</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>(</div>
-<div class="line"><span class="lineno"> 6091</span>        {</div>
-<div class="line"><span class="lineno"> 6092</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89eadb82e7630bb089f2992027488732858a">SPELL_PENANCE_R1_HEAL_CHANNEL</a>,</div>
-<div class="line"><span class="lineno"> 6093</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea35e02b2eaa76853ddc53c445958a2a32">SPELL_PENANCE_R1_DAMAGE_CHANNEL</a>,</div>
-<div class="line"><span class="lineno"> 6094</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea89811b7d04b0b5373cfaf84f804d6601">SPELL_BEACON_OF_LIGHT_HOLY_LIGHT</a>,</div>
-<div class="line"><span class="lineno"> 6095</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea75762c3ba54c39de7c655895b112f631">SPELL_BEACON_OF_LIGHT_FLASH_OF_LIGHT</a>,</div>
-<div class="line"><span class="lineno"> 6096</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ead9ef96ad36997770acd6a4115b2be49e">SPELL_BEACON_OF_LIGHT_HOLY_SHOCK</a></div>
-<div class="line"><span class="lineno"> 6097</span>        });</div>
-<div class="line"><span class="lineno"> 6098</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6095</span>    {</div>
+<div class="line"><span class="lineno"> 6096</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>(</div>
+<div class="line"><span class="lineno"> 6097</span>        {</div>
+<div class="line"><span class="lineno"> 6098</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89eadb82e7630bb089f2992027488732858a">SPELL_PENANCE_R1_HEAL_CHANNEL</a>,</div>
+<div class="line"><span class="lineno"> 6099</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea35e02b2eaa76853ddc53c445958a2a32">SPELL_PENANCE_R1_DAMAGE_CHANNEL</a>,</div>
+<div class="line"><span class="lineno"> 6100</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea89811b7d04b0b5373cfaf84f804d6601">SPELL_BEACON_OF_LIGHT_HOLY_LIGHT</a>,</div>
+<div class="line"><span class="lineno"> 6101</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ea75762c3ba54c39de7c655895b112f631">SPELL_BEACON_OF_LIGHT_FLASH_OF_LIGHT</a>,</div>
+<div class="line"><span class="lineno"> 6102</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a77f3d9f211165aa9c760eeb3a8c2f89ead9ef96ad36997770acd6a4115b2be49e">SPELL_BEACON_OF_LIGHT_HOLY_SHOCK</a></div>
+<div class="line"><span class="lineno"> 6103</span>        });</div>
+<div class="line"><span class="lineno"> 6104</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00198">SPELL_BEACON_OF_LIGHT_FLASH_OF_LIGHT</a>, <a class="el" href="../../#l00197">SPELL_BEACON_OF_LIGHT_HOLY_LIGHT</a>, <a class="el" href="../../#l00199">SPELL_BEACON_OF_LIGHT_HOLY_SHOCK</a>, <a class="el" href="../../#l00196">SPELL_PENANCE_R1_DAMAGE_CHANNEL</a>, <a class="el" href="../../#l00195">SPELL_PENANCE_R1_HEAL_CHANNEL</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -574,7 +574,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/da9/classspell__item__meteoric__inspiration.html">spell_item_meteoric_inspiration</a></li>
-    <li class="footer">Generated on Mon Nov 23 2026 17:15:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Nov 24 2026 16:56:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,8 @@
 var NAVTREEINDEX424 =
 {
+"df/da7/classBattleground.html#a9f9d0e1b5a2acb5467c91d5ebaf2c022":[7,0,330,84],
+"df/da7/classBattleground.html#aa032e84ac5693c0a4f7bbc51ab89e7ff":[7,0,330,249],
+"df/da7/classBattleground.html#aa086c460693a9771645e79d5f69d9efa":[7,0,330,166],
 "df/da7/classBattleground.html#aa0b5122402b27314d7c46e05fec88e1a":[7,0,330,86],
 "df/da7/classBattleground.html#aa1eb8678ca1f6599e497ecce2df37624":[7,0,330,104],
 "df/da7/classBattleground.html#aa24da8c1e9ae0d11941e2ccdf053f022":[7,0,330,225],
@@ -231,8 +234,8 @@ var NAVTREEINDEX424 =
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[7,0,1760,0,0],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[7,0,13,10,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,35,10,8],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[7,0,13,10,8,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,35,10,8,2],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[7,0,13,10,8,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[7,0,13,10,8,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,35,10,8,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[7,0,13,10,8,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX424 =
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,4,1,1,3,4,0],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,4,1,1,3,4,1],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab543380783668ea87e4c4d93d0db622e":[8,0,0,0,1,3,4,1,1,3,4,2],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,1,1,3,3],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca622a15d26392560e20c009189f6d0671":[8,0,0,0,1,3,4,1,1,3,3,0],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,4,1,1,3,3,2],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cabdabcf18eaa10d39312003cf001d4d61":[8,0,0,0,1,3,4,1,1,3,3,1]
+"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,4,1,1,3,3]
 };

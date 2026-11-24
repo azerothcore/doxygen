@@ -1,5 +1,8 @@
 var NAVTREEINDEX402 =
 {
+"de/da9/classnpc__icc__nerubar__broodkeeper.html":[7,0,1923],
+"de/da9/classnpc__icc__nerubar__broodkeeper.html#ad12186da36f7bbf99275a746bc874bfc":[7,0,1923,2],
+"de/da9/classnpc__icc__nerubar__broodkeeper.html#adf9c3bfb444fed50420c2e780b373f34":[7,0,1923,1],
 "de/da9/structBoundInstancesMapWrapper.html":[7,0,833],
 "de/da9/structBoundInstancesMapWrapper.html#ab61920ede22c5109d5cd7263522a7ef4":[7,0,833,0],
 "de/dac/boss__jeklik_8cpp.html":[8,0,0,0,1,3,2,15,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX402 =
 "de/db5/classBattlegroundDS.html#aaef0cac1f3283c56117efcc484a0abfc":[7,0,337,10],
 "de/db5/classBattlegroundDS.html#ab9ab60253daa5318dcdb6675c8919cd5":[7,0,337,7],
 "de/db5/classBattlegroundDS.html#ae008bf979e6984856237938dfe743ec7":[7,0,337,5],
-"de/db5/classBattlegroundDS.html#ae215043c2c10df9f9339e2a6dbcb185e":[7,0,337,6],
-"de/db6/classspell__dk__raise__ally__trigger.html":[7,0,2875],
-"de/db6/classspell__dk__raise__ally__trigger.html#a9472b79a272aff36be657b66883d822f":[7,0,2875,0],
-"de/db6/classspell__dk__raise__ally__trigger.html#ace15e1f5c158f1f203862b40da2cf8fc":[7,0,2875,2]
+"de/db5/classBattlegroundDS.html#ae215043c2c10df9f9339e2a6dbcb185e":[7,0,337,6]
 };

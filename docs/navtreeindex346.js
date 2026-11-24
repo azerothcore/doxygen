@@ -1,5 +1,6 @@
 var NAVTREEINDEX346 =
 {
+"dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a11b411dd0b5a32a7bdd0c44242a42372":[7,0,1938,0,5],
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e":[7,0,1938,0,9],
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a27277d90d4a58a89386a39f4affbaee8":[7,0,1938,0,1],
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a5347858d5da4f0718479b1d702125366":[7,0,1938,0,3],
@@ -94,8 +95,8 @@ var NAVTREEINDEX346 =
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a93818ec97cfd47da1dee454bb0a9318c":[7,0,3273,2],
 "dd/d07/structlfg_1_1LfgReward.html":[7,0,5,15],
 "dd/d07/structlfg_1_1LfgReward.html":[5,0,18,15],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[7,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,18,15,1],
+"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[7,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[7,0,5,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,18,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[7,0,5,15,2],
@@ -145,14 +146,14 @@ var NAVTREEINDEX346 =
 "dd/d0b/instance__vault__of__archavon_8cpp.html":[8,0,0,0,1,3,5,11,4],
 "dd/d0b/instance__vault__of__archavon_8cpp.html#af85fa677904908fe364917364696be77":[8,0,0,0,1,3,5,11,4,2],
 "dd/d0c/ChatCommandArgs_8h.html":[8,0,0,0,1,2,11,1,3],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html":[5,0,35,6,10],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html":[7,0,13,6,10],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a29fc27016b597f051898db7bb30214c8":[5,0,35,6,10,0],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html":[5,0,35,6,10],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a29fc27016b597f051898db7bb30214c8":[7,0,13,6,10,0],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[7,0,13,6,10,3],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a29fc27016b597f051898db7bb30214c8":[5,0,35,6,10,0],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[5,0,35,6,10,3],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[5,0,35,6,10,4],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[7,0,13,6,10,3],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[7,0,13,6,10,4],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[5,0,35,6,10,4],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[7,0,13,6,10,1],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[5,0,35,6,10,1],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[7,0,13,6,10,2],
@@ -185,8 +186,8 @@ var NAVTREEINDEX346 =
 "dd/d0d/classWorldPackets_1_1Instance_1_1SetRaidDifficultyClient.html#a347a86f33f0c31a1c3279028d7dfc46c":[7,0,13,7,8,1],
 "dd/d0d/classWorldPackets_1_1Instance_1_1SetRaidDifficultyClient.html#a445a55f5069f60a184b119c57cfedf9a":[5,0,35,7,8,2],
 "dd/d0d/classWorldPackets_1_1Instance_1_1SetRaidDifficultyClient.html#a445a55f5069f60a184b119c57cfedf9a":[7,0,13,7,8,2],
-"dd/d0d/classWorldPackets_1_1Instance_1_1SetRaidDifficultyClient.html#afba49b9e3994eb461ac1b827d0c0fac7":[5,0,35,7,8,0],
 "dd/d0d/classWorldPackets_1_1Instance_1_1SetRaidDifficultyClient.html#afba49b9e3994eb461ac1b827d0c0fac7":[7,0,13,7,8,0],
+"dd/d0d/classWorldPackets_1_1Instance_1_1SetRaidDifficultyClient.html#afba49b9e3994eb461ac1b827d0c0fac7":[5,0,35,7,8,0],
 "dd/d0d/structGameObjectAddon.html":[7,0,1115],
 "dd/d0d/structGameObjectAddon.html#a5ae35d326afcb1b80847761c0376deaf":[7,0,1115,2],
 "dd/d0d/structGameObjectAddon.html#a8e1741fca7c49f0618a3999e69ae5c81":[7,0,1115,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX346 =
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a78cf4803f0808b401a4afea460db3b14":[7,0,439,0,0],
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a7a64e4cea46c418f5d5bdab375395619":[7,0,439,0,5],
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a83e7662a983666e77ab282a9ec96a93b":[7,0,439,0,22],
-"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a8c97eac67a03f21c86e70ccd86d1cc9e":[7,0,439,0,17],
-"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a8d60450b2e58a1da1e7c77833df80c12":[7,0,439,0,14]
+"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a8c97eac67a03f21c86e70ccd86d1cc9e":[7,0,439,0,17]
 };

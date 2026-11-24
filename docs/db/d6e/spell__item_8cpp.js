@@ -220,6 +220,9 @@ var spell__item_8cpp =
     [ "BlessingOfAncientKings", "db/d6e/spell__item_8cpp.html#a1b800364bfc1b73277d6923c0ad97575", [
       [ "SPELL_PROTECTION_OF_ANCIENT_KINGS", "db/d6e/spell__item_8cpp.html#a1b800364bfc1b73277d6923c0ad97575a798b299fcd9ee6fc32e487f44569fecc", null ]
     ] ],
+    [ "BloodReserve", "db/d6e/spell__item_8cpp.html#a6258b667d4a7b55dfe4cb8b8133c402e", [
+      [ "SPELL_BLOOD_RESERVE_HEAL", "db/d6e/spell__item_8cpp.html#a6258b667d4a7b55dfe4cb8b8133c402ea860ff57dd55e3ab188880fce0d2fa88f", null ]
+    ] ],
     [ "BloodsailAdmiralHat", "db/d6e/spell__item_8cpp.html#aff2050f15a40b8d397df14e9396cf66e", [
       [ "NPC_ADMIRAL_HAT_PARROT", "db/d6e/spell__item_8cpp.html#aff2050f15a40b8d397df14e9396cf66ea4e1954a9154f8fdb8d0367d1dd0422c7", null ]
     ] ],

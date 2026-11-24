@@ -1,5 +1,6 @@
 var NAVTREEINDEX351 =
 {
+"dd/d34/namespaceVMAP.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5":[5,0,32,34,0],
 "dd/d34/namespaceVMAP.html#a70f18a0d29fcdc21e145ab8306987b18":[5,0,32,35],
 "dd/d34/namespaceVMAP.html#a70f18a0d29fcdc21e145ab8306987b18a514fc6255627123117d881d4968bf663":[5,0,32,35,0],
 "dd/d34/namespaceVMAP.html#a70f18a0d29fcdc21e145ab8306987b18a942b44b8a6db80f6d4ab19ebad17192b":[5,0,32,35,1],
@@ -47,14 +48,14 @@ var NAVTREEINDEX351 =
 "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#aa932f572f1a8831ecf4bc5475b7598fb":[8,0,0,0,2,2,0,11,8,1],
 "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#ad8c6026ca0167ae177e227997c8e2388":[8,0,0,0,2,2,0,11,8,5],
 "dd/d37/SpellCritDamageBonusOrderTest_8cpp.html#ae30b40dccd8a24d78d006e8e9ac63f19":[8,0,0,0,2,2,0,11,8,3],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[7,0,0,5,0,31],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[5,0,0,8,0,31],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[7,0,0,5,0,31],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[7,0,0,5,0,31,0],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[5,0,0,8,0,31,0],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[7,0,0,5,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,0,8,0,31,1],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[7,0,0,5,0,31,2],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,0,8,0,31,2],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[7,0,0,5,0,31,2],
 "dd/d39/classspell__hodir__shatter__chest__timer__aura.html":[7,0,3259],
 "dd/d39/classspell__hodir__shatter__chest__timer__aura.html#acacf8df2d00899bed640c1be0d4287f2":[7,0,3259,3],
 "dd/d39/classspell__hodir__shatter__chest__timer__aura.html#acc96d2a38e4da19e6cd6c72037a24202":[7,0,3259,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX351 =
 "dd/d3b/structGameObjectTemplate.html#ac18542c67dd2c691bb69340092ee7811":[7,0,1129,168],
 "dd/d3b/structGameObjectTemplate.html#ac3d37219dab971cd5a9b891d8ce3042b":[7,0,1129,79],
 "dd/d3b/structGameObjectTemplate.html#ac5314d6e2c76eae67b79cd47806958f6":[7,0,1129,34],
-"dd/d3b/structGameObjectTemplate.html#ac742ba457283faf214f1c2b8d8ab6fe1":[7,0,1129,67],
-"dd/d3b/structGameObjectTemplate.html#ac86f73cc86e8edcb9e2c229f52c4a88e":[7,0,1129,93]
+"dd/d3b/structGameObjectTemplate.html#ac742ba457283faf214f1c2b8d8ab6fe1":[7,0,1129,67]
 };

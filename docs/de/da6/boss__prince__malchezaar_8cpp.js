@@ -6,7 +6,6 @@ var boss__prince__malchezaar_8cpp =
     [ "spell_malchezaar_enfeeble", "d4/ded/classspell__malchezaar__enfeeble.html", "d4/ded/classspell__malchezaar__enfeeble" ],
     [ "creatures", "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0", [
       [ "NPC_NETHERSPITE_INFERNAL", "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9", null ],
-      [ "NPC_MALCHEZAARS_AXE", "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0ab5a522f5291ed3fcd44c1f41c7a4c575", null ],
       [ "INFERNAL_MODEL_INVISIBLE", "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0a7629c1224054f7de4aa33f5ece65bc75", null ],
       [ "SPELL_INFERNAL_RELAY", "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0a7d1a2f15238381f52de99c393481d59c", null ],
       [ "SPELL_INFERNAL_RELAY_ONE", "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0a475c5ca74b861485bdea3f78308e3efc", null ],
@@ -26,7 +25,7 @@ var boss__prince__malchezaar_8cpp =
     [ "PrinceSay", "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643", [
       [ "SAY_AGGRO", "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_AXE_TOSS1", "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643ac74b3463adde05b1cf5790c1ea942827", null ],
-      [ "SAY_AXE_TOSS2", "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a28e73bd4ce105114b8dd8e3626bfe762", null ],
+      [ "SAY_SUMMON_AXES", "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a0114c34f4426c63da6e50b39b7350f16", null ],
       [ "SAY_SLAY", "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a9e64f6e600dd42567d18006912811f75", null ],
       [ "SAY_SUMMON", "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643acebbfa1f13b8de4f039f5d550063c7bf", null ],
       [ "SAY_DEATH", "de/da6/boss__prince__malchezaar_8cpp.html#a52abfb56ee1bcf1db5f14b5868e75643a04c962d9b6aaafde54ff92a54369135e", null ]
@@ -40,6 +39,7 @@ var boss__prince__malchezaar_8cpp =
       [ "SPELL_SUNDER_ARMOR", "de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca99eaf912c120c7fa6d85748ebf96aebb", null ],
       [ "SPELL_THRASH_AURA", "de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca641f1429ee148285fea783d5cc5824ad", null ],
       [ "SPELL_EQUIP_AXES", "de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298cabe5ab019f6a8b87d7a35cb114765da43", null ],
+      [ "SPELL_SUMMON_AXES", "de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298caae3ae5eec7edb02fb69b04f5388c99b6", null ],
       [ "SPELL_AMPLIFY_DAMAGE", "de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298cab2339cc4e1c6a8911d1102349bda0765", null ],
       [ "SPELL_CLEAVE", "de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb", null ],
       [ "SPELL_HELLFIRE", "de/da6/boss__prince__malchezaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e89b71161222e725b57fce4f50e0ef4", null ]

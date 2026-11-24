@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"db/dfa/classnpc__barnes.html#aacdc737a94397a90b48b635293fe9c80":[7,0,1688,1],
 "db/dfb/classspell__arcane__chains__character__force__cast.html":[7,0,2687],
 "db/dfb/classspell__arcane__chains__character__force__cast.html#a23d220613a4133e01fb3d7cbacb3aa1c":[7,0,2687,0],
 "db/dfb/classspell__arcane__chains__character__force__cast.html#a73b5af95ee4f593337c3803574d190db":[7,0,2687,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "db/dfe/boss__ayamiss_8cpp.html#a437c726360a62423faa83c5f778682a7":[8,0,0,0,1,3,4,8,0,15],
 "db/dfe/boss__ayamiss_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,4,8,0,10],
 "db/dfe/boss__ayamiss_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0985e2f2e85eb91a8a9618b54c44de71":[8,0,0,0,1,3,4,8,0,10,1],
-"db/dfe/boss__ayamiss_8cpp.html#a50ba2acfd483f395e71abb80f687463ea562f9786bd3b2978337babac1240a22b":[8,0,0,0,1,3,4,8,0,10,0],
-"db/dfe/boss__ayamiss_8cpp.html#a50ba2acfd483f395e71abb80f687463eaa4d13c017e0fc9745738ee9f2c912fa5":[8,0,0,0,1,3,4,8,0,10,2]
+"db/dfe/boss__ayamiss_8cpp.html#a50ba2acfd483f395e71abb80f687463ea562f9786bd3b2978337babac1240a22b":[8,0,0,0,1,3,4,8,0,10,0]
 };

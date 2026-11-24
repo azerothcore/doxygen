@@ -859,7 +859,7 @@ var classUnit =
     [ "SpellHealingBonusDone", "df/dd9/classUnit.html#a511ec62a25ddf784aeb00787a0629b9d", null ],
     [ "SpellHealingBonusTaken", "df/dd9/classUnit.html#aeac23e55488fc69a1b90f0e92eaf1626", null ],
     [ "SpellPctDamageModsDone", "df/dd9/classUnit.html#ab8fb7aa2acf87e3b95ac9a8daf5dbaee", null ],
-    [ "SpellPctHealingModsDone", "df/dd9/classUnit.html#a55be2ad763158f92c6cff801fa92b584", null ],
+    [ "SpellPctHealingModsDone", "df/dd9/classUnit.html#ab2bce497cf360520a4c41d4949969f9c", null ],
     [ "SpellTakenCritChance", "df/dd9/classUnit.html#a19b843f2c35e489dbaf84213288e1bbe", null ],
     [ "StartReactiveTimer", "df/dd9/classUnit.html#a505a85c0031f39293d5ffe5c9cb19abb", null ],
     [ "StopAttackFaction", "df/dd9/classUnit.html#aa655b9b66c027ff7a6e2f1775cc2dfd8", null ],

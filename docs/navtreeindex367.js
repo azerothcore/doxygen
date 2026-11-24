@@ -1,5 +1,8 @@
 var NAVTREEINDEX367 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#ab6a9d4aa08c7d298acf5950f5b97e0b3a8e3cfb1bafbc4a623824d7963a48159a":[8,0,0,0,1,3,5,19,28,0],
+"dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0":[8,0,0,0,1,3,5,19,31],
+"dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a153337d35888c768586b16945aeab0db":[8,0,0,0,1,3,5,19,31,2],
 "dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a446170252bedb99c0f4fd9db5190d599":[8,0,0,0,1,3,5,19,31,0],
 "dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a62bed6e4b0c4231185a0afd795496290":[8,0,0,0,1,3,5,19,31,1],
 "dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a981730ec63bc9362a60905f2c485ba69":[8,0,0,0,1,3,5,19,31,3],
@@ -102,12 +105,12 @@ var NAVTREEINDEX367 =
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[7,0,0,16],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[7,0,0,16,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,0,28,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[7,0,0,16,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,0,28,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,0,28,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[7,0,0,16,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[7,0,0,16,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[7,0,0,16,2],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,0,28,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,0,28,2],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[7,0,0,16,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,0,28,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[7,0,0,16,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[7,0,3208],
@@ -164,8 +167,8 @@ var NAVTREEINDEX367 =
 "dd/ded/structboss__twin__valkyrAI.html#af6127deaa5ff11a4ae2983e34d538bef":[7,0,767,8],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[7,0,13,12,4],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[5,0,35,12,4],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,35,12,4,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[7,0,13,12,4,0],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,35,12,4,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[7,0,13,12,4,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[5,0,35,12,4,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[7,0,13,12,4,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX367 =
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#acac962ba1cb72615772fe8bc81d24f9d":[7,0,3553,0],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#adde6dada6b3012c2650ba9173c6616a0":[7,0,3553,2],
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#aebe1c8083ba09c21125c47843b2949da":[7,0,3553,1],
-"dd/df4/map__extractor_2loadlib_2loadlib_8h.html":[8,0,0,0,3,1,0,0],
-"dd/df4/map__extractor_2loadlib_2loadlib_8h.html#a6fef47739ef9998b00a2523c98cb2315":[8,0,0,0,3,1,0,0,3],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html":[7,0,1895,0],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a02ed3216c8b71e3d2be695866dbc0089":[7,0,1895,0,4]
+"dd/df4/map__extractor_2loadlib_2loadlib_8h.html":[8,0,0,0,3,1,0,0]
 };

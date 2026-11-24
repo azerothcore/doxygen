@@ -247,7 +247,7 @@ var NAVTREEINDEX64 =
 "d2/d4b/classSuckBackEvent.html#a6525e2aefec2680fde20e27ebf962f4c":[7,0,4578,0],
 "d2/d4b/classSuckBackEvent.html#aae1664e6ef9d90ec8a0e12554b991bf0":[7,0,4578,1],
 "d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[7,0,4578,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,35,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[7,0,13,8,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,35,8,0,1]
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,35,8,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[7,0,13,8,0,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX433 =
 {
+"df/de2/classspell__brewfest__main__ram__buff.html#a798c8ddfc71e703bfe1e3c1f2d926cef":[7,0,2762,0],
+"df/de2/classspell__brewfest__main__ram__buff.html#a85cbc44e586330e2adfc0656a428bd7b":[7,0,2762,2],
+"df/de2/classspell__brewfest__main__ram__buff.html#a96ed7366e568b70e82d622586740aa56":[7,0,2762,1],
 "df/de2/classspell__brewfest__main__ram__buff.html#aa3cd85aed063017c4737e7660fa81f37":[7,0,2762,4],
 "df/de2/classspell__brewfest__main__ram__buff.html#abd1f851112a50b79e815cdd894275bab":[7,0,2762,3],
 "df/de2/classspell__brewfest__main__ram__buff.html#ae2980e5f4934ce2ba5b755b7d45fab82":[7,0,2762,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX433 =
 "df/df2/structnpc__darkfallen__noble.html":[7,0,1784],
 "df/df2/structnpc__darkfallen__noble.html#a0f7de7ee2cf7d4eacccd42bd63b8cf6f":[7,0,1784,1],
 "df/df2/structnpc__darkfallen__noble.html#a566c1938cadfb6fd9d171f84529e9495":[7,0,1784,0],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html":[8,0,0,0,1,3,5,6,1],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[8,0,0,0,1,3,5,6,1,24],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,5,6,1,17],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0985e2f2e85eb91a8a9618b54c44de71":[8,0,0,0,1,3,5,6,1,17,2]
+"df/df3/boss__blood__queen__lana__thel_8cpp.html":[8,0,0,0,1,3,5,6,1]
 };

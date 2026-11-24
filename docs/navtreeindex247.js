@@ -1,7 +1,7 @@
 var NAVTREEINDEX247 =
 {
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[7,0,13,10,4,1],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,35,10,4,1],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[7,0,13,10,4,1],
 "d9/d13/classspell__anubisath__mortal__strike.html":[7,0,2679],
 "d9/d13/classspell__anubisath__mortal__strike.html#a3c5a192302ec6d531037f8b5da1565f2":[7,0,2679,2],
 "d9/d13/classspell__anubisath__mortal__strike.html#a5945e24db52c6bacae7221b085dc877b":[7,0,2679,0],

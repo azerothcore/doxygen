@@ -1,5 +1,6 @@
 var NAVTREEINDEX360 =
 {
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[5,0,0,128,1],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html":[7,0,1914,0],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a0f7dd1512694d284c1f83b3403c421e6":[7,0,1914,0,4],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a187efe775b1e2a35637638507e77352e":[7,0,1914,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a1bd85b8b26cfe06cebd01cffed5b5ae9":[8,0,0,0,1,3,5,4,2,5,13,9],
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a73862ae73b0d44a1ec28f28de445ce4e":[8,0,0,0,1,3,5,4,2,5,13,2],
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a7432e3c630ed034bd36086e5a59d0275":[8,0,0,0,1,3,5,4,2,5,13,6],
-"dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a84f204ceca019b1adf3ef84032e68314":[8,0,0,0,1,3,5,4,2,5,13,3],
-"dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a9645234e045b50d2be2e7b6e86f64e56":[8,0,0,0,1,3,5,4,2,5,13,1]
+"dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a84f204ceca019b1adf3ef84032e68314":[8,0,0,0,1,3,5,4,2,5,13,3]
 };

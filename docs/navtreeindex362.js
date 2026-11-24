@@ -1,5 +1,8 @@
 var NAVTREEINDEX362 =
 {
+"dd/db3/classReputationMgr.html#a89cc0607cce518e525c286a8693715c7":[7,0,2561,29],
+"dd/db3/classReputationMgr.html#a8d15ac9b059d6641df0a91ddfaf70d0b":[7,0,2561,27],
+"dd/db3/classReputationMgr.html#a9239092547e4d414ac9acb0efbc9175b":[7,0,2561,42],
 "dd/db3/classReputationMgr.html#a92409ea5f59a8240fa43026b4edd9663":[7,0,2561,37],
 "dd/db3/classReputationMgr.html#a93b3d69fba645e49347825678c8f23f4":[7,0,2561,23],
 "dd/db3/classReputationMgr.html#a9630b6dd11afbe3ce28297a23b1b4c94":[7,0,2561,14],
@@ -113,10 +116,10 @@ var NAVTREEINDEX362 =
 "dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[7,0,642,1],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[7,0,642,10],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[7,0,642,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,0,8,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[7,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,0,8,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[7,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[7,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,0,8,2,1,0],
 "dd/dbc/classspell__warr__vigilance__trigger.html":[7,0,4437],
@@ -246,8 +249,5 @@ var NAVTREEINDEX362 =
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635":[8,0,0,0,1,3,4,6,1,4,2],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405":[8,0,0,0,1,3,4,6,1,4,16],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaaad37e5267c61b3154576082cc5f0d943":[8,0,0,0,1,3,4,6,1,4,6],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5":[8,0,0,0,1,3,4,6,1,4,9],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaab32dce7b44868931f08d3604a802dd44":[8,0,0,0,1,3,4,6,1,4,13],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaab86f59506288a17715a05dc6c3cc9c5e":[8,0,0,0,1,3,4,6,1,4,8],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03":[8,0,0,0,1,3,4,6,1,4,19]
+"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5":[8,0,0,0,1,3,4,6,1,4,9]
 };

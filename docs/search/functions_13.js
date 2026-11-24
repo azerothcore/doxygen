@@ -1626,7 +1626,7 @@ var searchData=
   ['spellmodifier_1623',['SpellModifier',['../d3/d08/structSpellModifier.html#adba5fad6b904d09a43be7302e7eb62bd',1,'SpellModifier']]],
   ['spellnonmeleedamage_1624',['SpellNonMeleeDamage',['../d4/d18/structSpellNonMeleeDamage.html#ad9d6b798f9ed159d847affc5c4b23715',1,'SpellNonMeleeDamage']]],
   ['spellpctdamagemodsdone_1625',['SpellPctDamageModsDone',['../df/dd9/classUnit.html#ab8fb7aa2acf87e3b95ac9a8daf5dbaee',1,'Unit']]],
-  ['spellpcthealingmodsdone_1626',['SpellPctHealingModsDone',['../df/dd9/classUnit.html#a55be2ad763158f92c6cff801fa92b584',1,'Unit']]],
+  ['spellpcthealingmodsdone_1626',['SpellPctHealingModsDone',['../df/dd9/classUnit.html#ab2bce497cf360520a4c41d4949969f9c',1,'Unit']]],
   ['spellperiodicauraloginfo_1627',['SpellPeriodicAuraLogInfo',['../d8/ddd/structSpellPeriodicAuraLogInfo.html#a3c3c5908556cf765c5cbba3ca7034ae9',1,'SpellPeriodicAuraLogInfo']]],
   ['spellprocentrybuilder_1628',['SpellProcEntryBuilder',['../d5/d69/classSpellProcEntryBuilder.html#ad5df1abe27dde6d70c030bd19ed5c928',1,'SpellProcEntryBuilder']]],
   ['spellscriptloader_1629',['SpellScriptLoader',['../d0/dad/classSpellScriptLoader.html#a3b6fe2ba310f95c438b7cf941865fe46',1,'SpellScriptLoader']]],

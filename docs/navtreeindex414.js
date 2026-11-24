@@ -1,5 +1,8 @@
 var NAVTREEINDEX414 =
 {
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a8f3c71a2c0625ba3c99b1e7ee6beffd6":[7,0,1399,0,20],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a934fbf3a27e1ff37b6a8729a75f81329":[7,0,1399,0,5],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a966b65f03a314e72c1e5206e4f1d9886":[7,0,1399,0,2],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a9fc52ebdc0786dd73bdd7ef9ab4f14f5":[7,0,1399,0,16],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#aa3311d5419590e248f7746e1ae8eb1a1":[7,0,1399,0,30],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#ab87f5010b4b8844b25452cb62c90f946":[7,0,1399,0,10],
@@ -151,16 +154,16 @@ var NAVTREEINDEX414 =
 "df/d3d/classBfCapturePoint.html#abd194abc04e9f60d5980a15d121cb13d":[7,0,362,17],
 "df/d3d/classBfCapturePoint.html#adc770791f08285d7bc5a4c59a0b8c542":[7,0,362,19],
 "df/d3d/classBfCapturePoint.html#afd5cbd6dd52834c59e119389b7e8a416":[7,0,362,24],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html":[7,0,13,10,15],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html":[5,0,35,10,15],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[5,0,35,10,15,1],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html":[7,0,13,10,15],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[7,0,13,10,15,1],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[5,0,35,10,15,1],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[7,0,13,10,15,3],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[5,0,35,10,15,3],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[5,0,35,10,15,0],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[7,0,13,10,15,0],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[7,0,13,10,15,2],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[5,0,35,10,15,0],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[5,0,35,10,15,2],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[7,0,13,10,15,2],
 "df/d3d/classspell__pal__item__t6__trinket.html":[7,0,3810],
 "df/d3d/classspell__pal__item__t6__trinket.html#a1ea48d77c2bb5b26c12384e4e11411ff":[7,0,3810,0],
 "df/d3d/classspell__pal__item__t6__trinket.html#a560ade778e046213f60f48364ea3800c":[7,0,3810,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX414 =
 "df/d3e/structBG__SA__RoundScore.html#a4270f34fef655cb9ff9998b36055c3ec":[7,0,369,0],
 "df/d3e/structBG__SA__RoundScore.html#a728a3e4efbae3be9224c70f2d70000cf":[7,0,369,1],
 "df/d3e/structEquipmentInfo.html":[7,0,1058],
-"df/d3e/structEquipmentInfo.html#aa941274a50c076189d0957120ca25e5e":[7,0,1058,0],
-"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html":[7,0,1356,0],
-"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a3a287b97db58c3489815f20ee0d37977":[7,0,1356,0,2],
-"df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a61cb2b2bf09bb997457bc01a41e092e9":[7,0,1356,0,1]
+"df/d3e/structEquipmentInfo.html#aa941274a50c076189d0957120ca25e5e":[7,0,1058,0]
 };

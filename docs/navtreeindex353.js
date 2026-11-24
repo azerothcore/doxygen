@@ -1,5 +1,6 @@
 var NAVTREEINDEX353 =
 {
+"dd/d4c/structnpc__rocknot.html#a21e4490b2a1bcca95b97c6a62dc28b41":[7,0,2151,2],
 "dd/d4c/structnpc__rocknot.html#a243dbf155c31e3cf291f70052c764032":[7,0,2151,23],
 "dd/d4c/structnpc__rocknot.html#a275ed7fa0c4612370c52a18ff1e93948":[7,0,2151,8],
 "dd/d4c/structnpc__rocknot.html#a46f52ea33be20bebcebcf892ef4e38a0":[7,0,2151,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX353 =
 "dd/d59/structMapDifficulty.html":[7,0,1530],
 "dd/d59/structMapDifficulty.html#a227aec55b5b774076882ea34f70d5d88":[7,0,1530,1],
 "dd/d59/structMapDifficulty.html#a7190131620b9eee0897ac7b4dd62949e":[7,0,1530,4],
-"dd/d59/structMapDifficulty.html#a8dd5436eaec4d0e67f8b41c8dd071148":[7,0,1530,2],
-"dd/d59/structMapDifficulty.html#abf514d1105541d5c5aaf52a91330a1e2":[7,0,1530,0]
+"dd/d59/structMapDifficulty.html#a8dd5436eaec4d0e67f8b41c8dd071148":[7,0,1530,2]
 };

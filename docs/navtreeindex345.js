@@ -1,5 +1,6 @@
 var NAVTREEINDEX345 =
 {
+"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eaa875232eda4b6326535c996ac99b8a97":[8,0,0,0,1,3,2,15,15,3,13],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eaac864c8121b5a7e73adfee70c2649dee":[8,0,0,0,1,3,2,15,15,3,24],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eab5cd9c14f92363c8d896d95278069bc5":[8,0,0,0,1,3,2,15,15,3,7],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eab8829cbbceca21eb4169cd8e4e6e4b04":[8,0,0,0,1,3,2,15,15,3,12],
@@ -78,12 +79,12 @@ var NAVTREEINDEX345 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[7,0,4441,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[7,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,0,4,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[7,0,0,2,5,1],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,0,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[7,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,0,4,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,0,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[7,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[7,0,0,2,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,0,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[7,0,777],
@@ -248,6 +249,5 @@ var NAVTREEINDEX345 =
 "dd/d03/structPacketHeader.html#aa5219ee4193cccf913dabf6db5d6f57a":[7,0,2416,6],
 "dd/d03/structPacketHeader.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc":[7,0,2416,4],
 "dd/d03/structPacketHeader.html#abe8700ec99d55a66b22f8fbb28c833fa":[7,0,2416,2],
-"dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html":[7,0,1938,0],
-"dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a11b411dd0b5a32a7bdd0c44242a42372":[7,0,1938,0,5]
+"dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html":[7,0,1938,0]
 };

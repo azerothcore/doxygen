@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dc/d9d/classspell__yogg__saron__destabilization__matrix.html#a3d92ca79a15efaff3c4dd28f0c7ede2c":[7,0,4471,0],
 "dc/d9d/classspell__yogg__saron__destabilization__matrix.html#a7ec441904bc100c6b15ee219617489ff":[7,0,4471,2],
 "dc/d9d/classspell__yogg__saron__destabilization__matrix.html#a85388adbc15d449e687f9f463cce3833":[7,0,4471,4],
 "dc/d9d/classspell__yogg__saron__destabilization__matrix.html#afbf3aab6724d12426ab0197fb9459562":[7,0,4471,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a5c62cc125907a273eb107e2a0ea9f1ee":[8,0,0,0,1,3,4,9,8,10,2],
 "dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219aa1e61c1060b8bd09030ca6eb82320fbf":[8,0,0,0,1,3,4,9,8,10,1],
 "dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ae7c625b2cce28981b9c6609da9c6a94c":[8,0,0,0,1,3,4,9,8,10,0],
-"dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd":[8,0,0,0,1,3,4,9,8,9],
-"dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdac8ca49b75dcb00ab09580e7f6aab2d48":[8,0,0,0,1,3,4,9,8,9,0]
+"dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd":[8,0,0,0,1,3,4,9,8,9]
 };

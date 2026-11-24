@@ -1,5 +1,6 @@
 var NAVTREEINDEX361 =
 {
+"dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a9645234e045b50d2be2e7b6e86f64e56":[8,0,0,0,1,3,5,4,2,5,13,1],
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50ad1f3af0a14c45e1272c032c3788baf9e":[8,0,0,0,1,3,5,4,2,5,13,5],
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50adad060cb04f62e94f70c8f328a892ce4":[8,0,0,0,1,3,5,4,2,5,13,11],
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50aef6f419526930f9b795d415780af908f":[8,0,0,0,1,3,5,4,2,5,13,7],
@@ -112,9 +113,11 @@ var NAVTREEINDEX361 =
 "dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[7,0,3158,0],
 "dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[7,0,3158,1],
 "dd/db1/classspell__item__blood__draining__enchant.html":[7,0,3395],
-"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[7,0,3395,0],
-"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[7,0,3395,2],
-"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[7,0,3395,1],
+"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[7,0,3395,1],
+"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[7,0,3395,3],
+"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[7,0,3395,2],
+"dd/db1/classspell__item__blood__draining__enchant.html#a53705211974c9e6f0fdbd4aa4dc0f077":[7,0,3395,0],
+"dd/db1/classspell__item__blood__draining__enchant.html#a612cdeca846fb32a994ca4a8433195ac":[7,0,3395,4],
 "dd/db2/classGenericCreatureScript.html":[7,0,1136],
 "dd/db2/classGenericCreatureScript.html#a52157430320e253a5897612623eb796c":[7,0,1136,0],
 "dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[7,0,1136,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX361 =
 "dd/db3/classReputationMgr.html#a70ef6efe36480b64a639a1a016ee6b6b":[7,0,2561,35],
 "dd/db3/classReputationMgr.html#a7237076b0c82406fdaf401bb8100f8b5":[7,0,2561,5],
 "dd/db3/classReputationMgr.html#a840258781abe2d2143525c7467c71258":[7,0,2561,2],
-"dd/db3/classReputationMgr.html#a89774eff29d5c2e692ac215fce6d138a":[7,0,2561,9],
-"dd/db3/classReputationMgr.html#a89cc0607cce518e525c286a8693715c7":[7,0,2561,29],
-"dd/db3/classReputationMgr.html#a8d15ac9b059d6641df0a91ddfaf70d0b":[7,0,2561,27],
-"dd/db3/classReputationMgr.html#a9239092547e4d414ac9acb0efbc9175b":[7,0,2561,42]
+"dd/db3/classReputationMgr.html#a89774eff29d5c2e692ac215fce6d138a":[7,0,2561,9]
 };

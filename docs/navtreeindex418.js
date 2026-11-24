@@ -1,5 +1,8 @@
 var NAVTREEINDEX418 =
 {
+"df/d6f/structboss__eydis_1_1boss__eydisAI.html#a0e97e184b2a2f610730cd3d455702955":[7,0,471,0,0],
+"df/d6f/structboss__eydis_1_1boss__eydisAI.html#aa5ae64cfe003a25859364a12cb871199":[7,0,471,0,1],
+"df/d6f/structboss__thorim__arena__npcs.html":[7,0,752],
 "df/d6f/structboss__thorim__arena__npcs.html#a2f23cddcf5a0db42ba24730dfbe54976":[7,0,752,2],
 "df/d6f/structboss__thorim__arena__npcs.html#a3fa38189c886a486aabb39a372834938":[7,0,752,4],
 "df/d6f/structboss__thorim__arena__npcs.html#a6a8489763ca223c749aa71c2da05b3cf":[7,0,752,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX418 =
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a71ef70c1b504be2b00be1a70e85bc18a":[7,0,774,0,9],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a76ab9327e04b82b534a9b3ea59b377d1":[7,0,774,0,1],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a9ba6e2620a25728bf30d4d813a82b781":[7,0,774,0,2],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ab410ed8d64cd91bd6c4b78b2ed678eab":[7,0,774,0,5],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#abde00baf4099361b8c26e6e0cf6c1517":[7,0,774,0,3],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ac5994c76a9d84cf303021a9298673d68":[7,0,774,0,6],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ada061b4363340602fd1f4744433d9cf9":[7,0,774,0,0]
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#ab410ed8d64cd91bd6c4b78b2ed678eab":[7,0,774,0,5]
 };

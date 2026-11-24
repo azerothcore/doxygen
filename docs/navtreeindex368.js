@@ -1,5 +1,8 @@
 var NAVTREEINDEX368 =
 {
+"dd/df4/map__extractor_2loadlib_2loadlib_8h.html#a6fef47739ef9998b00a2523c98cb2315":[8,0,0,0,3,1,0,0,3],
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html":[7,0,1895,0],
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a02ed3216c8b71e3d2be695866dbc0089":[7,0,1895,0,4],
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a1048c558b825b58dbc7a3d97869a3e88":[7,0,1895,0,3],
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a36d1993262eb0a7200e2bec625f5b4d1":[7,0,1895,0,7],
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a77a978fdb0ba0de506f66ec0b2906229":[7,0,1895,0,1],
@@ -16,20 +19,20 @@ var NAVTREEINDEX368 =
 "dd/df6/classLootValidatorRefMgr.html#aee3a4701c5bc51f4028fe53f18675989":[7,0,1502,1],
 "dd/df6/classLootValidatorRefMgr.html#af68f1d93a80e13976798dfed0063a1e4":[7,0,1502,5],
 "dd/df6/structContainerUnorderedMap_3_01TypeNull_00_01KEY__TYPE_01_4.html":[7,0,936],
-"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[5,0,0,18],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[7,0,0,6],
+"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[5,0,0,18],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a30283854715c90496e14d260f913f5fa":[7,0,0,6,0],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a30283854715c90496e14d260f913f5fa":[5,0,0,18,0],
-"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[7,0,0,6,1],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[5,0,0,18,1],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[5,0,0,53,0],
+"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[7,0,0,6,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[7,0,0,41,0],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[5,0,0,53,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,0,53,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[7,0,0,41,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a21f4b8baf1c80cc8c5f029be8daa63e2":[7,0,0,41,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a21f4b8baf1c80cc8c5f029be8daa63e2":[5,0,0,53,0,0],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[5,0,0,53,0,2],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[7,0,0,41,0,2],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[5,0,0,53,0,2],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a47837894025e1fa4e114f5efb5ec83bc":[5,0,0,53,0,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a47837894025e1fa4e114f5efb5ec83bc":[7,0,0,41,0,1],
 "dd/df8/SRP6_8h.html":[8,0,0,0,0,3,0,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX368 =
 "de/d02/classToCloud9Sidecar.html#accf7d35797dd41733e0aacf21ce652fb":[7,0,4622,19],
 "de/d02/classToCloud9Sidecar.html#ae220b9c9ea580e1d597b366dd7832a90":[7,0,4622,18],
 "de/d02/classToCloud9Sidecar.html#ae578039d549561009894ab1449b9e4c5":[7,0,4622,2],
-"de/d02/classToCloud9Sidecar.html#aed5bde100a87de663bea3171ee39755e":[7,0,4622,21],
-"de/d02/classToCloud9Sidecar.html#af2f0fa733ac543aba10f9156955bddd6":[7,0,4622,15],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html":[7,0,1761,0],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a0698a3297da669fd5440743be200c378":[7,0,1761,0,16]
+"de/d02/classToCloud9Sidecar.html#aed5bde100a87de663bea3171ee39755e":[7,0,4622,21]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX341 =
 {
+"dc/dc0/structBattlegroundAVScore.html":[7,0,334],
 "dc/dc0/structBattlegroundAVScore.html#a09038f1133996849064da1b09983be82":[7,0,334,16],
 "dc/dc0/structBattlegroundAVScore.html#a13edee0d2da9b539eeab5d5d7a15dcc9":[7,0,334,6],
 "dc/dc0/structBattlegroundAVScore.html#a17e5ba885b1dd8d4f4f1992b3503a31f":[7,0,334,14],
@@ -230,12 +231,12 @@ var NAVTREEINDEX341 =
 "dc/dcc/structnpc__shattrath__daily__quest.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c":[7,0,2174,1],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html":[5,0,0,7,0,3],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html":[7,0,0,4,0,3],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[7,0,0,4,0,3,2],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[5,0,0,7,0,3,2],
+"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a3939942eb76690646ee204e87af12205":[7,0,0,4,0,3,2],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[7,0,0,4,0,3,0],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a76992ebab6be3e3745a751e01fd323be":[5,0,0,7,0,3,0],
-"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[5,0,0,7,0,3,1],
 "dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[7,0,0,4,0,3,1],
+"dc/dce/structAcore_1_1Hyperlinks_1_1LinkTags_1_1found.html#a8a35f087389146989768ad157471fd71":[5,0,0,7,0,3,1],
 "dc/dcf/classVerasEnvenom.html":[7,0,4694],
 "dc/dcf/classVerasEnvenom.html#a4b7853bb835cf28aefe2d5b955372d70":[7,0,4694,1],
 "dc/dcf/classVerasEnvenom.html#a90d62907c775565765fa87903adb94ea":[7,0,4694,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX341 =
 "dc/dd0/classWhoListCacheMgr.html#a3db2ef832cf1413fb2e565ca0d922a80":[7,0,4732,8],
 "dc/dd0/classWhoListCacheMgr.html#a4dec6544342fdc5052b69dcc61148453":[7,0,4732,4],
 "dc/dd0/classWhoListCacheMgr.html#a75495cb910c6de65d60a5080248e1e25":[7,0,4732,9],
-"dc/dd0/classWhoListCacheMgr.html#a80615aa0a66ac29765f27598e605c712":[7,0,4732,6],
-"dc/dd0/classWhoListCacheMgr.html#ab8aff37f9e66aef40ccb794928bc001c":[7,0,4732,7]
+"dc/dd0/classWhoListCacheMgr.html#a80615aa0a66ac29765f27598e605c712":[7,0,4732,6]
 };

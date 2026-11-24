@@ -1,5 +1,8 @@
 var NAVTREEINDEX404 =
 {
+"de/dc3/classspell__systems__shutdown__aura.html#af1db6ca387cf0733ba4b9c324172d692":[7,0,4235,3],
+"de/dc4/CircularBuffer_8h.html":[8,0,0,0,0,15,4],
+"de/dc6/structInstanceMapLoadRows_1_1BindRow.html":[7,0,1402,0],
 "de/dc6/structInstanceMapLoadRows_1_1BindRow.html#a3f4f3f829d354ccc92491445d1efd1b2":[7,0,1402,0,2],
 "de/dc6/structInstanceMapLoadRows_1_1BindRow.html#a6cd2390616ebbc07b0fa55886d1e545d":[7,0,1402,0,0],
 "de/dc6/structInstanceMapLoadRows_1_1BindRow.html#a6d6358cd25aaf909fb02e01b994a6a92":[7,0,1402,0,1],
@@ -23,18 +26,18 @@ var NAVTREEINDEX404 =
 "de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[7,0,308,7],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,0,2,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[7,0,0,1,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,0,2,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[7,0,0,1,3,0],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,0,2,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,0,2,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[7,0,0,1,3,2],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[7,0,0,1,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,0,2,3,5],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[7,0,0,1,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,0,2,3,1],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[7,0,0,1,3,1],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[7,0,0,1,3,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[5,0,0,2,3,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,0,2,3,6],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[7,0,0,1,3,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[7,0,0,1,3,6],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,0,2,3,6],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[5,0,0,2,3,4],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[7,0,0,1,3,4],
 "de/dcb/classspell__gen__bonked.html":[7,0,3058],
@@ -246,8 +249,5 @@ var NAVTREEINDEX404 =
 "de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c":[8,0,0,0,1,2,0,1,7,4],
 "de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4":[8,0,0,0,1,2,0,1,7,1],
 "de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c":[8,0,0,0,1,2,0,1,7,2],
-"de/dd9/AccountMgr_8h.html#a1296774e1021cb68d7829832d153b2e3":[8,0,0,0,1,2,0,1,6],
-"de/dd9/AccountMgr_8h.html#a134ebf22666a6525929447b2d869d400":[8,0,0,0,1,2,0,1,1],
-"de/dd9/AccountMgr_8h.html#a45827712253b6d66092106cef5ae724b":[8,0,0,0,1,2,0,1,3],
-"de/dd9/AccountMgr_8h.html#ac0b6edf00d4a9c1e3c496e98fdf865aa":[8,0,0,0,1,2,0,1,5]
+"de/dd9/AccountMgr_8h.html#a1296774e1021cb68d7829832d153b2e3":[8,0,0,0,1,2,0,1,6]
 };

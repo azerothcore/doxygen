@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dc/d10/classbg__commandscript.html#a911ccd6445b08c05069f7f196556c891":[7,0,368,1],
 "dc/d10/classbg__commandscript.html#a92347e90c2f78d0dfeb41eb033366319":[7,0,368,2],
 "dc/d10/structboss__high__nethermancer__zerevor.html":[7,0,550],
 "dc/d10/structboss__high__nethermancer__zerevor.html#a270961bd3af6ce65eebc79130f4e3d47":[7,0,550,1],
@@ -214,14 +215,14 @@ var NAVTREEINDEX324 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[7,0,3981,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[7,0,3981,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[7,0,3981,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,26],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[7,0,0,14],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,0,26],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[7,0,0,14,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,0,26,2],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[7,0,0,14,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[7,0,0,14,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,0,26,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,0,26,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[7,0,0,14,1],
 "dc/d20/DBCStore_8h.html":[8,0,0,0,1,4,0,6],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[8,0,0,0,1,3,2,1,0,4],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a0d335438c9186ebcca3c79be7156018f":[8,0,0,0,1,3,2,1,0,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "dc/d21/structResultIterator.html#aa5abd2b7fa1dc64ac1eb085521b27d6f":[7,0,2569,0],
 "dc/d21/structResultIterator.html#acaafbe30e2be9953852968b633d8237f":[7,0,2569,1],
 "dc/d21/structResultIterator.html#ad836e2cc7742bdb3b77dc8f6c19c4ad9":[7,0,2569,6],
-"dc/d21/structResultIterator.html#ae66f3f0e1fd5af21ff0854826fb37075":[7,0,2569,8],
-"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html":[7,0,13,7,2]
+"dc/d21/structResultIterator.html#ae66f3f0e1fd5af21ff0854826fb37075":[7,0,2569,8]
 };

@@ -1654,7 +1654,7 @@ var searchData=
   ['portalloc_1651',['PortalLoc',['../df/ddb/structviolet__hold__trashAI.html#a17d81d130cfeff5b5ae0ee30c594f5ca',1,'violet_hold_trashAI']]],
   ['portallocation_1652',['PortalLocation',['../d0/d68/instance__the__black__morass_8cpp.html#a744b7235a198467a51550de127971bb1',1,'instance_the_black_morass.cpp']]],
   ['portallocations_1653',['PortalLocations',['../da/d4c/violet__hold_8h.html#a08092587c172c89ac657ede7056068ec',1,'violet_hold.h']]],
-  ['portalpos_1654',['portalpos',['../dd/dac/pit__of__saron_8h.html#aea2213095cde4f989f5b9c5f4bcecee1',1,'PortalPos:&#160;pit_of_saron.h'],['../df/d71/boss__sartharion_8cpp.html#a3b3febc31b192eee159695acba35ed8f',1,'portalPos:&#160;boss_sartharion.cpp']]],
+  ['portalpos_1654',['portalpos',['../df/d71/boss__sartharion_8cpp.html#a3b3febc31b192eee159695acba35ed8f',1,'portalPos:&#160;boss_sartharion.cpp'],['../dd/dac/pit__of__saron_8h.html#aea2213095cde4f989f5b9c5f4bcecee1',1,'PortalPos:&#160;pit_of_saron.h']]],
   ['portals_1655',['Portals',['../de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89',1,'boss_netherspite.cpp']]],
   ['portalvisual_1656',['PortalVisual',['../de/d87/boss__netherspite_8cpp.html#af50db85296b6cc3bcfbdbe8943087500',1,'boss_netherspite.cpp']]],
   ['porthome_5ftimer_1657',['Porthome_Timer',['../de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#aeb17b772324aa2d985606659a2aee895',1,'npc_sergeant_bly::npc_sergeant_blyAI']]],

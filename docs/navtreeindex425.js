@@ -1,5 +1,8 @@
 var NAVTREEINDEX425 =
 {
+"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca622a15d26392560e20c009189f6d0671":[8,0,0,0,1,3,4,1,1,3,3,0],
+"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,4,1,1,3,3,2],
+"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cabdabcf18eaa10d39312003cf001d4d61":[8,0,0,0,1,3,4,1,1,3,3,1],
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,4,1,1,3,2],
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a007991056a3ae1396d0b1454ecdf9ae8":[8,0,0,0,1,3,4,1,1,3,2,2],
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0cc2c2b12f9fa479587dc32164d55d56":[8,0,0,0,1,3,4,1,1,3,2,0],
@@ -76,8 +79,8 @@ var NAVTREEINDEX425 =
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[7,0,13,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,35,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[7,0,13,6,50,1],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,35,6,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[7,0,13,6,50,2],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,35,6,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,35,6,50,0],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[7,0,13,6,50,0],
 "df/db9/structAddonInfo.html":[7,0,135],
@@ -246,8 +249,5 @@ var NAVTREEINDEX425 =
 "df/dc3/classspell__apothecary__throw__perfume.html#a8bf22d62d6e7f50315e4c14714b8457f":[7,0,2684,1],
 "df/dc3/classspell__apothecary__throw__perfume.html#ab705220b48be16090107135f9e2272cf":[7,0,2684,0],
 "df/dc3/classspell__apothecary__throw__perfume.html#ac969bf9f37d02f2b3d78d31d7f8c4625":[7,0,2684,2],
-"df/dc3/classspell__apothecary__throw__perfume.html#ad1d90693a427a52fa728e5ae455932a3":[7,0,2684,3],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html":[7,0,2831],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#a1194d2bd96632cbc3eab58300a5f9a46":[7,0,2831,1],
-"df/dc3/classspell__dk__anti__magic__shell__raid.html#a49277dbcc2d7cc79f29226e9b242120b":[7,0,2831,2]
+"df/dc3/classspell__apothecary__throw__perfume.html#ad1d90693a427a52fa728e5ae455932a3":[7,0,2684,3]
 };
