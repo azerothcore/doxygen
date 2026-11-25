@@ -1,5 +1,7 @@
 var NAVTREEINDEX217 =
 {
+"d7/db0/classMap.html#a93137bdd833540e5c698d3890c47f413":[7,0,1523,148],
+"d7/db0/classMap.html#a937ecbcdf1b70e81187a56bcacd3324c":[7,0,1523,77],
 "d7/db0/classMap.html#a93f4c4cfb7c162986153ecc83ccc6bb3":[7,0,1523,35],
 "d7/db0/classMap.html#a9495f71196f1c34aea63d85c5fd81c05":[7,0,1523,28],
 "d7/db0/classMap.html#a95d6cce117504b56200b703c935c538e":[7,0,1523,157],
@@ -188,13 +190,13 @@ var NAVTREEINDEX217 =
 "d7/db3/structboss__olm__the__summoner.html#a967f330966fdb29f26ab24e8f40d2152":[7,0,659,5],
 "d7/db3/structboss__olm__the__summoner.html#aa8fe3804d4e2a1a1150975f5e9832ce6":[7,0,659,0],
 "d7/db3/structboss__olm__the__summoner.html#ae9187928c74fa1cfafaea4df25a55e41":[7,0,659,8],
-"d7/db4/classspell__shield__of__bones__aura.html":[7,0,4185],
-"d7/db4/classspell__shield__of__bones__aura.html#a0856d66c801715f16cd251ddf9b25a59":[7,0,4185,1],
-"d7/db4/classspell__shield__of__bones__aura.html#a4af67c41afd7843a5cfe2b2e2e9e8055":[7,0,4185,0],
-"d7/db4/classspell__shield__of__bones__aura.html#a55ec42ce316978220103a3a39f3939a3":[7,0,4185,3],
-"d7/db4/classspell__shield__of__bones__aura.html#a69d8dfebb981b51592770b7b5807bc80":[7,0,4185,2],
-"d7/db4/classspell__shield__of__bones__aura.html#a7ba87a7f6c45b4f138f3dc3e6fe07514":[7,0,4185,4],
-"d7/db4/classspell__shield__of__bones__aura.html#ad73f5372a6c431dd56079a9c8440d2a6":[7,0,4185,5],
+"d7/db4/classspell__shield__of__bones__aura.html":[7,0,4184],
+"d7/db4/classspell__shield__of__bones__aura.html#a0856d66c801715f16cd251ddf9b25a59":[7,0,4184,1],
+"d7/db4/classspell__shield__of__bones__aura.html#a4af67c41afd7843a5cfe2b2e2e9e8055":[7,0,4184,0],
+"d7/db4/classspell__shield__of__bones__aura.html#a55ec42ce316978220103a3a39f3939a3":[7,0,4184,3],
+"d7/db4/classspell__shield__of__bones__aura.html#a69d8dfebb981b51592770b7b5807bc80":[7,0,4184,2],
+"d7/db4/classspell__shield__of__bones__aura.html#a7ba87a7f6c45b4f138f3dc3e6fe07514":[7,0,4184,4],
+"d7/db4/classspell__shield__of__bones__aura.html#ad73f5372a6c431dd56079a9c8440d2a6":[7,0,4184,5],
 "d7/db4/firework__show_8h.html":[8,0,0,0,1,3,3,0,1],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1ef":[8,0,0,0,1,3,3,0,1,3],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa07470be1382b761cebae5516586f3e44":[8,0,0,0,1,3,3,0,1,3,32],
@@ -247,7 +249,5 @@ var NAVTREEINDEX217 =
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#a8b9b632e2e26ef8d0e8c122d28530e81":[7,0,1865,0,0],
 "d7/db5/structnpc__gluttonous__abomination_1_1npc__gluttonous__abominationAI.html#abc0dd71bbaf85786f34367acc3a849e9":[7,0,1865,0,1],
 "d7/db6/OpenSSLCrypto_8h.html":[8,0,0,0,0,3,16],
-"d7/db6/OpenSSLCrypto_8h.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[8,0,0,0,0,3,16,1],
-"d7/db6/OpenSSLCrypto_8h.html#af868d9171650614810772c5675c47fd3":[8,0,0,0,0,3,16,0],
-"d7/db6/classspell__gen__ethereal__pet__aura.html":[7,0,3092]
+"d7/db6/OpenSSLCrypto_8h.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[8,0,0,0,0,3,16,1]
 };

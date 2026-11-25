@@ -2,7 +2,6 @@ var boss__sapphiron_8cpp =
 [
     [ "boss_sapphiron", "d9/d34/classboss__sapphiron.html", "d9/d34/classboss__sapphiron" ],
     [ "boss_sapphiron::boss_sapphironAI", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI" ],
-    [ "spell_sapphiron_frost_explosion", "d8/d38/classspell__sapphiron__frost__explosion.html", "d8/d38/classspell__sapphiron__frost__explosion" ],
     [ "Events", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_BERSERK", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266", null ],
       [ "EVENT_CLEAVE", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -14,7 +13,6 @@ var boss__sapphiron_8cpp =
       [ "EVENT_FLIGHT_ICEBOLT", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa01791719f85184f63a33a611a915e2b", null ],
       [ "EVENT_FLIGHT_BREATH", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a24042a9ec5330bd014bada105a8a2afe", null ],
       [ "EVENT_FLIGHT_SPELL_EXPLOSION", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa4c535acb8c4322e059df4a57b14bf11", null ],
-      [ "EVENT_FLIGHT_START_LAND", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac6daafb50ca151d594546783ae4044e6", null ],
       [ "EVENT_LAND", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da", null ],
       [ "EVENT_GROUND", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a63f66cb197f5cc43c231cd4758fcc228", null ],
       [ "EVENT_HUNDRED_CLUB", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a444abf4004297df94ed200e223ab5155", null ]
@@ -33,8 +31,10 @@ var boss__sapphiron_8cpp =
       [ "SPELL_BERSERK", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_ICEBOLT_CAST", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caa3d23300dbc2574a11981b6aac1ddf51", null ],
       [ "SPELL_ICEBOLT_TRIGGER", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca0da708c83d8321142ad79ababb74393c", null ],
+      [ "SPELL_ICEBOLT_IMMUNITY", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cad5800ded472f93fb4f48d61848c75f7b", null ],
       [ "SPELL_FROST_MISSILE", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cace9ccdb83b868b64c6d32698148b04b9", null ],
       [ "SPELL_FROST_EXPLOSION", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cac6acbf11d05843e56c9048a89bd6fd12", null ],
+      [ "SPELL_FROST_BREATH_ANTICHEAT", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca22a327ae885bc0dffa58a37e26c6773c", null ],
       [ "SPELL_SAPPHIRON_DIES", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca73e465881589fa02b898ab6929c2c977", null ]
     ] ],
     [ "Yells", "dc/d49/boss__sapphiron_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [

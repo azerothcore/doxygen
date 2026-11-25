@@ -1,8 +1,5 @@
 var NAVTREEINDEX278 =
 {
-"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adc2b6e77f55d6d76aaedf3f893b5dbcd":[8,0,0,0,1,3,5,6,10,77,20],
-"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ae71303047bb2e125eb7e59b55686c7b9":[8,0,0,0,1,3,5,6,10,77,24],
-"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aff1eb0cc2288bc3b19ffa162f126106f":[8,0,0,0,1,3,5,6,10,77,26],
 "da/d78/boss__the__lich__king_8cpp.html#ab2cb971d4187e38d192355bc444cd305":[8,0,0,0,1,3,5,6,10,69],
 "da/d78/boss__the__lich__king_8cpp.html#ac49be0ea0e458117d08dcf114393c2e3":[8,0,0,0,1,3,5,6,10,78],
 "da/d78/boss__the__lich__king_8cpp.html#ad6af8790756d9e08db1cc80a45ed446a":[8,0,0,0,1,3,5,6,10,88],
@@ -82,14 +79,14 @@ var NAVTREEINDEX278 =
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae473b3ffeef20cbb9d61a70f66598c9f":[8,0,0,0,1,3,5,6,10,72,19],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff6d1325e3e2cd0077e376988d8cd859":[8,0,0,0,1,3,5,6,10,72,70],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff7ee4bd2a3d0493e491afac2e180aec":[8,0,0,0,1,3,5,6,10,72,30],
-"da/d79/classspell__threatening__gaze__charge.html":[7,0,4300],
-"da/d79/classspell__threatening__gaze__charge.html#a10bb54a1a0cd992e9e944870684f3a21":[7,0,4300,0],
-"da/d79/classspell__threatening__gaze__charge.html#a19c6111ea0c3506ddc2d8459c192f04f":[7,0,4300,2],
-"da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[7,0,4300,1],
+"da/d79/classspell__threatening__gaze__charge.html":[7,0,4299],
+"da/d79/classspell__threatening__gaze__charge.html#a10bb54a1a0cd992e9e944870684f3a21":[7,0,4299,0],
+"da/d79/classspell__threatening__gaze__charge.html#a19c6111ea0c3506ddc2d8459c192f04f":[7,0,4299,2],
+"da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[7,0,4299,1],
 "da/d7b/MapMgr_8h.html":[8,0,0,0,1,2,26,10],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[8,0,0,0,1,2,26,10,1],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[7,0,9,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,30,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[7,0,9,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,30,0,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[7,0,9,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[8,0,0,0,1,3,2,11,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX278 =
 "da/d7e/classspell__pri__penance.html#a7f79495525687fba6229f48935b2558a":[7,0,3878,1],
 "da/d7e/classspell__pri__penance.html#a9b9d5f862e9910f1a12780ff54b067ca":[7,0,3878,5],
 "da/d7e/classspell__pri__penance.html#ab9f09394ab301350a2abaefde90632fe":[7,0,3878,4],
-"da/d7e/classspell__pri__penance.html#ad6b60c449d57503508c9a94ca6e919f9":[7,0,3878,0]
+"da/d7e/classspell__pri__penance.html#ad6b60c449d57503508c9a94ca6e919f9":[7,0,3878,0],
+"da/d7e/classspell__rog__cut__to__the__chase.html":[7,0,4063],
+"da/d7e/classspell__rog__cut__to__the__chase.html#a88c2793fb6043d4d4e970a99df38681a":[7,0,4063,0],
+"da/d7e/classspell__rog__cut__to__the__chase.html#a9e69ca6fa962ccf17c090243a91b4d51":[7,0,4063,2]
 };

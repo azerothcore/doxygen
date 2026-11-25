@@ -1,5 +1,7 @@
 var NAVTREEINDEX116 =
 {
+"d3/dd1/DBCEnums_8h.html#ab8e24c5cd27834059bb62c245412fe72a2db0aaf9680f852290081f4767ce03f3":[8,0,0,0,1,4,0,2,18,18],
+"d3/dd1/DBCEnums_8h.html#ab8e24c5cd27834059bb62c245412fe72a2fc6333348169ce9d6b2a126ec9468b0":[8,0,0,0,1,4,0,2,18,1],
 "d3/dd1/DBCEnums_8h.html#ab8e24c5cd27834059bb62c245412fe72a30fd692362654518af2a4f2c7720391b":[8,0,0,0,1,4,0,2,18,27],
 "d3/dd1/DBCEnums_8h.html#ab8e24c5cd27834059bb62c245412fe72a43006ea844134dcfbbf7b75f29b7825c":[8,0,0,0,1,4,0,2,18,26],
 "d3/dd1/DBCEnums_8h.html#ab8e24c5cd27834059bb62c245412fe72a4426b681fcd2e568886312680c91e9e3":[8,0,0,0,1,4,0,2,18,0],
@@ -160,15 +162,15 @@ var NAVTREEINDEX116 =
 "d3/dd1/classspell__q13086__last__line__of__defence.html#a9c1dadd5a3e2e039b50a414ac589ebf4":[7,0,4012,1],
 "d3/dd1/classspell__q13086__last__line__of__defence.html#ac08e632064c407346649f525d030d335":[7,0,4012,0],
 "d3/dd1/classspell__q13086__last__line__of__defence.html#aed99b07a53068b19bddb4daff3449a52":[7,0,4012,3],
-"d3/dd1/structWMOLiquidHeader.html":[7,0,4744],
-"d3/dd1/structWMOLiquidHeader.html#a183ec8ec2d8d30726494c6b3d3b8606a":[7,0,4744,3],
-"d3/dd1/structWMOLiquidHeader.html#a6cd85f2a674d732e88371ffce5e46077":[7,0,4744,2],
-"d3/dd1/structWMOLiquidHeader.html#a7079e8817a9684602084eb224f2540fc":[7,0,4744,0],
-"d3/dd1/structWMOLiquidHeader.html#a9901a7e9828ac840bc290b0768831d66":[7,0,4744,6],
-"d3/dd1/structWMOLiquidHeader.html#aa5ad7ff660f7f0b5ddfd2d186496d928":[7,0,4744,5],
-"d3/dd1/structWMOLiquidHeader.html#abf24042b85692cd0df05d65d734dd99e":[7,0,4744,7],
-"d3/dd1/structWMOLiquidHeader.html#ac4d971cc46506be14716124afbb5ad9c":[7,0,4744,1],
-"d3/dd1/structWMOLiquidHeader.html#aca34dfa64624cfe04c314c13bbed0062":[7,0,4744,4],
+"d3/dd1/structWMOLiquidHeader.html":[7,0,4743],
+"d3/dd1/structWMOLiquidHeader.html#a183ec8ec2d8d30726494c6b3d3b8606a":[7,0,4743,3],
+"d3/dd1/structWMOLiquidHeader.html#a6cd85f2a674d732e88371ffce5e46077":[7,0,4743,2],
+"d3/dd1/structWMOLiquidHeader.html#a7079e8817a9684602084eb224f2540fc":[7,0,4743,0],
+"d3/dd1/structWMOLiquidHeader.html#a9901a7e9828ac840bc290b0768831d66":[7,0,4743,6],
+"d3/dd1/structWMOLiquidHeader.html#aa5ad7ff660f7f0b5ddfd2d186496d928":[7,0,4743,5],
+"d3/dd1/structWMOLiquidHeader.html#abf24042b85692cd0df05d65d734dd99e":[7,0,4743,7],
+"d3/dd1/structWMOLiquidHeader.html#ac4d971cc46506be14716124afbb5ad9c":[7,0,4743,1],
+"d3/dd1/structWMOLiquidHeader.html#aca34dfa64624cfe04c314c13bbed0062":[7,0,4743,4],
 "d3/dd3/ItemRecovery_8cpp.html":[8,0,0,0,1,2,16,4,6],
 "d3/dd3/classgo__midsummer__music.html":[7,0,1200],
 "d3/dd3/classgo__midsummer__music.html#a1baf09bdbf67c0a85219454c1cd61d2b":[7,0,1200,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX116 =
 "d3/dd4/BattlegroundAV_8h.html#a23824ee1e7417b878a226ed31bdf1972ad0310d629f0b7389ae8c344d11763f87":[8,0,0,0,1,2,8,1,3,30,1],
 "d3/dd4/BattlegroundAV_8h.html#a282d6afe49da687717bc54fe3c0201cd":[8,0,0,0,1,2,8,1,3,12],
 "d3/dd4/BattlegroundAV_8h.html#a3337b9a14beaca8ae9232cfcaa8f6e4f":[8,0,0,0,1,2,8,1,3,41],
-"d3/dd4/BattlegroundAV_8h.html#a333f1c045e3883c4f54cc0de87aa6dc3":[8,0,0,0,1,2,8,1,3,3],
-"d3/dd4/BattlegroundAV_8h.html#a3864f63a19a39505b3a45326ddb31d21":[8,0,0,0,1,2,8,1,3,5],
-"d3/dd4/BattlegroundAV_8h.html#a3917afeeab3648052e9b297e78183caa":[8,0,0,0,1,2,8,1,3,40]
+"d3/dd4/BattlegroundAV_8h.html#a333f1c045e3883c4f54cc0de87aa6dc3":[8,0,0,0,1,2,8,1,3,3]
 };

@@ -4660,7 +4660,6 @@ var annotated_dup =
     [ "spell_rotface_unstable_ooze_explosion_init", "da/d65/classspell__rotface__unstable__ooze__explosion__init.html", "da/d65/classspell__rotface__unstable__ooze__explosion__init" ],
     [ "spell_rotface_unstable_ooze_explosion_suicide_aura", "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html", "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura" ],
     [ "spell_ruby_sanctum_rallying_shout", "d9/d82/classspell__ruby__sanctum__rallying__shout.html", "d9/d82/classspell__ruby__sanctum__rallying__shout" ],
-    [ "spell_sapphiron_frost_explosion", "d8/d38/classspell__sapphiron__frost__explosion.html", "d8/d38/classspell__sapphiron__frost__explosion" ],
     [ "spell_saronite_vapors_damage", "de/dd4/classspell__saronite__vapors__damage.html", "de/dd4/classspell__saronite__vapors__damage" ],
     [ "spell_saronite_vapors_dummy_aura", "d9/dad/classspell__saronite__vapors__dummy__aura.html", "d9/dad/classspell__saronite__vapors__dummy__aura" ],
     [ "spell_sartharion_lava_strike", "df/d6c/classspell__sartharion__lava__strike.html", "df/d6c/classspell__sartharion__lava__strike" ],

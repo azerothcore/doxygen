@@ -1,7 +1,5 @@
 var NAVTREEINDEX400 =
 {
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7abb1a9ae6c733a4c7b6fba7a98db4b832":[8,0,0,0,1,1,0,0,1,1,216],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7abb2cf11b4380dec94beac7d502f6ac8c":[8,0,0,0,1,1,0,0,1,1,247],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7abbe2f7941b7aadf2daebb6b02373a368":[8,0,0,0,1,1,0,0,1,1,123],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7abbf6f96ca06e7e092f9735091cb734ee":[8,0,0,0,1,1,0,0,1,1,180],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7abc2db87141a5587f78f9c8e703a5bc22":[8,0,0,0,1,1,0,0,1,1,471],
@@ -155,10 +153,10 @@ var NAVTREEINDEX400 =
 "de/da5/classinstance__ragefire__chasm.html":[7,0,1366],
 "de/da5/classinstance__ragefire__chasm.html#a0568996a61ef91688b9f223cb3782e5a":[7,0,1366,2],
 "de/da5/classinstance__ragefire__chasm.html#ab7f27d3e73b24d16dcf9b114f7dd4b36":[7,0,1366,1],
-"de/da5/classspell__valkyr__bullet__summon__trigger.html":[7,0,4337],
-"de/da5/classspell__valkyr__bullet__summon__trigger.html#a40c3408d5266af93cf56c012297b5ee4":[7,0,4337,2],
-"de/da5/classspell__valkyr__bullet__summon__trigger.html#a52270c535c5c14777f5b024c5058b4d8":[7,0,4337,1],
-"de/da5/classspell__valkyr__bullet__summon__trigger.html#aa929181f28cc0d7ea222460896663d6d":[7,0,4337,0],
+"de/da5/classspell__valkyr__bullet__summon__trigger.html":[7,0,4336],
+"de/da5/classspell__valkyr__bullet__summon__trigger.html#a40c3408d5266af93cf56c012297b5ee4":[7,0,4336,2],
+"de/da5/classspell__valkyr__bullet__summon__trigger.html#a52270c535c5c14777f5b024c5058b4d8":[7,0,4336,1],
+"de/da5/classspell__valkyr__bullet__summon__trigger.html#aa929181f28cc0d7ea222460896663d6d":[7,0,4336,0],
 "de/da5/vmapexport_8cpp.html":[8,0,0,0,3,4,12],
 "de/da5/vmapexport_8cpp.html#a12b965536bcabf2e2edd7db2196630cd":[8,0,0,0,3,4,12,17],
 "de/da5/vmapexport_8cpp.html#a17b22c7645963c9e5c277b72605a4966":[8,0,0,0,3,4,12,22],
@@ -249,5 +247,7 @@ var NAVTREEINDEX400 =
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a0ad06fc903b0610cd411ed52093bfaca":[8,0,0,0,1,3,5,18,47,69],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a0b01e80ab436825da27bb002cfe8cf37":[8,0,0,0,1,3,5,18,47,60],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a0b38cb184ecbd709b17ce61f7d15c981":[8,0,0,0,1,3,5,18,47,63],
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a0f414d5bcf3d7399211d22a6f3918ce1":[8,0,0,0,1,3,5,18,47,50]
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a0f414d5bcf3d7399211d22a6f3918ce1":[8,0,0,0,1,3,5,18,47,50],
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a116b8c4d05c6a990479f66c17da31695":[8,0,0,0,1,3,5,18,47,26],
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a12f4a85d88af0f55f0c34399078eaf96":[8,0,0,0,1,3,5,18,47,23]
 };

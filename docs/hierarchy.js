@@ -1645,7 +1645,6 @@ var hierarchy =
         [ "spell_rotface_unstable_ooze_explosion", "d9/d89/classspell__rotface__unstable__ooze__explosion.html", null ],
         [ "spell_rotface_unstable_ooze_explosion_init", "da/d65/classspell__rotface__unstable__ooze__explosion__init.html", null ],
         [ "spell_ruby_sanctum_rallying_shout", "d9/d82/classspell__ruby__sanctum__rallying__shout.html", null ],
-        [ "spell_sapphiron_frost_explosion", "d8/d38/classspell__sapphiron__frost__explosion.html", null ],
         [ "spell_saronite_vapors_damage", "de/dd4/classspell__saronite__vapors__damage.html", null ],
         [ "spell_sartharion_lava_strike", "df/d6c/classspell__sartharion__lava__strike.html", null ],
         [ "spell_saviana_conflagration_init", "d0/dde/classspell__saviana__conflagration__init.html", null ],

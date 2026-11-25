@@ -5,7 +5,6 @@ var structboss__sapphiron_1_1boss__sapphironAI =
     [ "EnterCombatSelfFunction", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a62e6b1482b2fa791813b9a5520a234e4", null ],
     [ "InitializeAI", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a38c4586095aeaf404914369ae5414351", null ],
     [ "IsInRoom", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a18ae5aa0e2fa5a5a37359fed5a16f4be", null ],
-    [ "IsValidExplosionTarget", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a0b147e8392fba250499e0cdd7d9ff39b", null ],
     [ "JustDied", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#aebb211a381a74128489986e32954c089", null ],
     [ "JustEngagedWith", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a197b4add6d328ebdfb3f0c051f216cd5", null ],
     [ "KilledUnit", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a7e4fd2ad6735419b34484c46ec2ef421", null ],

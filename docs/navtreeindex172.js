@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"d5/dfb/classObjectMgr.html#a977f3fd04522f3d1f8e6cd308b6849d2":[7,0,2367,83],
+"d5/dfb/classObjectMgr.html#a987d39af137402fb9b8c5a21bbea6ec5":[7,0,2367,147],
 "d5/dfb/classObjectMgr.html#a9a535696ec7fbb7e362f5158f768b666":[7,0,2367,218],
 "d5/dfb/classObjectMgr.html#a9b332f815ed541700906256c5cee370b":[7,0,2367,254],
 "d5/dfb/classObjectMgr.html#a9b3c151c19fad5a242782f2824bf8b8c":[7,0,2367,130],
@@ -172,12 +174,12 @@ var NAVTREEINDEX172 =
 "d5/dfb/classspell__brewfest__apple__trap.html#a3498c9eb96bf1a6a85ded114e995850c":[7,0,2760,0],
 "d5/dfb/classspell__brewfest__apple__trap.html#a3985ca8b79a234e44d9f46ffe6d5b232":[7,0,2760,1],
 "d5/dfb/classspell__brewfest__apple__trap.html#a9af46e5f2fdb4719d65bb96f2b68a7f8":[7,0,2760,3],
-"d5/dfb/classspell__uk__second__wind.html":[7,0,4315],
-"d5/dfb/classspell__uk__second__wind.html#a04df3b39b6a80592b6b2afe76e85a1e0":[7,0,4315,3],
-"d5/dfb/classspell__uk__second__wind.html#a55ce8f27fa326da9b68db7f4cd4bc334":[7,0,4315,2],
-"d5/dfb/classspell__uk__second__wind.html#a8641ddd1b6722a30b167d170adb47fd8":[7,0,4315,1],
-"d5/dfb/classspell__uk__second__wind.html#a93a45a442c2527468a5bfd4136bb53a0":[7,0,4315,0],
-"d5/dfb/classspell__uk__second__wind.html#ad4176f188412053b9205820fb6183d38":[7,0,4315,4],
+"d5/dfb/classspell__uk__second__wind.html":[7,0,4314],
+"d5/dfb/classspell__uk__second__wind.html#a04df3b39b6a80592b6b2afe76e85a1e0":[7,0,4314,3],
+"d5/dfb/classspell__uk__second__wind.html#a55ce8f27fa326da9b68db7f4cd4bc334":[7,0,4314,2],
+"d5/dfb/classspell__uk__second__wind.html#a8641ddd1b6722a30b167d170adb47fd8":[7,0,4314,1],
+"d5/dfb/classspell__uk__second__wind.html#a93a45a442c2527468a5bfd4136bb53a0":[7,0,4314,0],
+"d5/dfb/classspell__uk__second__wind.html#ad4176f188412053b9205820fb6183d38":[7,0,4314,4],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html":[7,0,1774,0],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0cbf5aaf1cb2f234e725074de0acc7e6":[7,0,1774,0,8],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0d1122895c25211ca4c71cb651f13cef":[7,0,1774,0,7],
@@ -228,8 +230,8 @@ var NAVTREEINDEX172 =
 "d5/dfc/classaccount__commandscript.html#afba345af5a9da1ff68c7333015730ef3":[7,0,24,11],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[7,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,0,8,0,21],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,0,8,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[7,0,0,5,0,21,0],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,0,8,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[8,0,0,0,1,3,5,10,1,2],
 "d6/d00/boss__svala_8cpp.html#a195da0593c7dcda5b370c27054549a29":[8,0,0,0,1,3,5,10,1,2,8],
 "d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,10,1,2,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a773ab2d711b2cf2061e2a722b70aa23b":[8,0,0,0,1,3,5,10,1,2,7,22],
 "d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7b9b55d4534958ec997c7340f390d9c1":[8,0,0,0,1,3,5,10,1,2,7,19],
 "d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8834c7cb3bf7887836b7eb86eab56c19":[8,0,0,0,1,3,5,10,1,2,7,15],
-"d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a959580d69e96f5b9370909c40ca5bca9":[8,0,0,0,1,3,5,10,1,2,7,3],
-"d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9695a4c93b402363fc965a6ddcd5d595":[8,0,0,0,1,3,5,10,1,2,7,10],
-"d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9b347a4bdea53ecd8ed92c5747265a87":[8,0,0,0,1,3,5,10,1,2,7,12]
+"d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a959580d69e96f5b9370909c40ca5bca9":[8,0,0,0,1,3,5,10,1,2,7,3]
 };

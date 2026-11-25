@@ -1,5 +1,7 @@
 var NAVTREEINDEX101 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8f98d3f2bda474d465c3a5c17a89955e":[8,0,0,0,1,2,49,7,0,141],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba912eaf62827621aba1f1b59ec4b4871d":[8,0,0,0,1,2,49,7,0,241],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba91db98bf30a24f568cce83ebd40e3be0":[8,0,0,0,1,2,49,7,0,32],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9289f25bd9d4395cee7ac1c47d5f010a":[8,0,0,0,1,2,49,7,0,427],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba92cd2acd2858d2163698c0b446b52b14":[8,0,0,0,1,2,49,7,0,345],
@@ -247,7 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[7,0,1229,0],
 "d3/d48/structBoundsTrait_3_01VMAP_1_1ModelSpawn_01_5_01_4.html":[7,0,836],
 "d3/d48/structBoundsTrait_3_01VMAP_1_1ModelSpawn_01_5_01_4.html#a04d9251d9a67affeece303853c2c8a84":[7,0,836,0],
-"d3/d49/Appender_8cpp.html":[8,0,0,0,0,9,0],
-"d3/d49/GameObjectAI_8cpp.html":[8,0,0,0,1,2,3,0,2],
-"d3/d4a/boss__onyxia_8cpp.html":[8,0,0,0,1,3,4,4,0]
+"d3/d49/Appender_8cpp.html":[8,0,0,0,0,9,0]
 };

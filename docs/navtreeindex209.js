@@ -1,8 +1,10 @@
 var NAVTREEINDEX209 =
 {
-"d7/d96/classspell__venture__pilot__summon.html#a0bffbc57932a2efe33a9912d608eb79d":[7,0,4350,2],
-"d7/d96/classspell__venture__pilot__summon.html#a306252bb3bc9af689400981b198f66e8":[7,0,4350,1],
-"d7/d96/classspell__venture__pilot__summon.html#a87014fc73af805b7ad052d1f4f45d7cd":[7,0,4350,0],
+"d7/d96/classboss__ysondre.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d":[7,0,822,1],
+"d7/d96/classspell__venture__pilot__summon.html":[7,0,4349],
+"d7/d96/classspell__venture__pilot__summon.html#a0bffbc57932a2efe33a9912d608eb79d":[7,0,4349,2],
+"d7/d96/classspell__venture__pilot__summon.html#a306252bb3bc9af689400981b198f66e8":[7,0,4349,1],
+"d7/d96/classspell__venture__pilot__summon.html#a87014fc73af805b7ad052d1f4f45d7cd":[7,0,4349,0],
 "d7/d96/structnpc__frozen__core.html":[7,0,1852],
 "d7/d96/structnpc__frozen__core.html#a3a5efec3279644ef713722e1556a3c84":[7,0,1852,5],
 "d7/d96/structnpc__frozen__core.html#a476e086b0379e0cef3a44d250b020d6a":[7,0,1852,3],
@@ -243,11 +245,9 @@ var NAVTREEINDEX209 =
 "d7/d9e/classboss__drakkari__colossus.html":[7,0,445],
 "d7/d9e/classboss__drakkari__colossus.html#a75c6c9c56fe11342dd8aece031059e77":[7,0,445,2],
 "d7/d9e/classboss__drakkari__colossus.html#abe1bf28b9147b72c81e5c5efcdeeaf84":[7,0,445,1],
-"d7/d9e/structWMO_1_1MODS.html":[5,0,34,1],
 "d7/d9e/structWMO_1_1MODS.html":[7,0,12,1],
-"d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[5,0,34,1,3],
+"d7/d9e/structWMO_1_1MODS.html":[5,0,34,1],
 "d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[7,0,12,1,3],
-"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[5,0,34,1,1],
-"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1],
-"d7/d9e/structWMO_1_1MODS.html#ad6e8aff776dfb6fa95c30d0318b3af25":[5,0,34,1,0]
+"d7/d9e/structWMO_1_1MODS.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa":[5,0,34,1,3],
+"d7/d9e/structWMO_1_1MODS.html#ac90dd584efc679554d4cee31c988c7c8":[7,0,12,1,1]
 };

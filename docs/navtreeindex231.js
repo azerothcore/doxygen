@@ -1,8 +1,6 @@
 var NAVTREEINDEX231 =
 {
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,35,10,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,35,10,9,0],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[7,0,13,10,9,0],
 "d8/d60/structSavedItem.html":[7,0,2580],
 "d8/d60/structSavedItem.html#a7261d44eefdbd56df651a57a71f5af6e":[7,0,2580,0],
 "d8/d60/structSavedItem.html#af844c8b955858b1ead94798c6326fa03":[7,0,2580,1],
@@ -141,8 +139,8 @@ var NAVTREEINDEX231 =
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[7,0,2658,2],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[7,0,13,15,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,35,15,0],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[7,0,13,15,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,35,15,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[7,0,13,15,0,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html":[7,0,3590],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a4484cf33e423f23cad9559a6a16ed9b4":[7,0,3590,0],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#a6fa407996b59d98d0eeef877ee89784d":[7,0,3590,1],
@@ -229,11 +227,11 @@ var NAVTREEINDEX231 =
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a72463db57f87387aa3ff3175c45ca9df":[7,0,3863,0],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a798f51ee6333d3ebb2bbb617ea88ea2b":[7,0,3863,3],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#ae158b4b624b50ad984b2c5e9c16d7670":[7,0,3863,1],
-"d8/d71/classspell__sindragosa__icy__grip.html":[7,0,4195],
-"d8/d71/classspell__sindragosa__icy__grip.html#a0eb2d734ac99d3a036b95b6daa39b9f5":[7,0,4195,2],
-"d8/d71/classspell__sindragosa__icy__grip.html#a5fbb1d26c4e7d5d21745004e477b3c1e":[7,0,4195,0],
-"d8/d71/classspell__sindragosa__icy__grip.html#a7e6b56f426be7925255da3ebc239f909":[7,0,4195,1],
-"d8/d71/classspell__sindragosa__icy__grip.html#a86b4296eab73fc63b38558871f16a889":[7,0,4195,3],
+"d8/d71/classspell__sindragosa__icy__grip.html":[7,0,4194],
+"d8/d71/classspell__sindragosa__icy__grip.html#a0eb2d734ac99d3a036b95b6daa39b9f5":[7,0,4194,2],
+"d8/d71/classspell__sindragosa__icy__grip.html#a5fbb1d26c4e7d5d21745004e477b3c1e":[7,0,4194,0],
+"d8/d71/classspell__sindragosa__icy__grip.html#a7e6b56f426be7925255da3ebc239f909":[7,0,4194,1],
+"d8/d71/classspell__sindragosa__icy__grip.html#a86b4296eab73fc63b38558871f16a889":[7,0,4194,3],
 "d8/d72/classBattlegroundQueue.html":[7,0,350],
 "d8/d72/classBattlegroundQueue.html#a0c13aac123c7e10764784a314684aee3":[7,0,350,23],
 "d8/d72/classBattlegroundQueue.html#a1c0726698cae6065abc2e180d0d755fb":[7,0,350,12],
@@ -249,5 +247,7 @@ var NAVTREEINDEX231 =
 "d8/d72/classBattlegroundQueue.html#a6121371548913f7d71a22884fc17a259":[7,0,350,11],
 "d8/d72/classBattlegroundQueue.html#a6197f159dd1684dee91e5731e437c765":[7,0,350,3],
 "d8/d72/classBattlegroundQueue.html#a61c5491ac53b40ebb128a68607a3e8d4":[7,0,350,24],
-"d8/d72/classBattlegroundQueue.html#a67b0786459174fcf370c4ab148a5492f":[7,0,350,15]
+"d8/d72/classBattlegroundQueue.html#a67b0786459174fcf370c4ab148a5492f":[7,0,350,15],
+"d8/d72/classBattlegroundQueue.html#a6d4c7fefec53bb1491f865075b55c6d3":[7,0,350,16],
+"d8/d72/classBattlegroundQueue.html#a6f28d9b711fcbbefeab5391c14e4e519":[7,0,350,29]
 };

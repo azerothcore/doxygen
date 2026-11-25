@@ -1,7 +1,5 @@
 var NAVTREEINDEX386 =
 {
-"de/d25/ObjectMgr_8h.html#ae0061fb890317fec4256af76d67272bda00844b0c2b1d7ad346a98bb2e1c4d980":[8,0,0,0,1,2,18,3,94,3],
-"de/d25/ObjectMgr_8h.html#ae0061fb890317fec4256af76d67272bda0402530f674771ed374c5d6745400e3f":[8,0,0,0,1,2,18,3,94,0],
 "de/d25/ObjectMgr_8h.html#ae0061fb890317fec4256af76d67272bda1962508e9a154073ebdd62dec764dcb5":[8,0,0,0,1,2,18,3,94,2],
 "de/d25/ObjectMgr_8h.html#ae0061fb890317fec4256af76d67272bda604b727cddbbea4da351ba9b20333c13":[8,0,0,0,1,2,18,3,94,1],
 "de/d25/ObjectMgr_8h.html#ae0061fb890317fec4256af76d67272bdafb82a5a18b51f286c3746af87f8c3f97":[8,0,0,0,1,2,18,3,94,4],
@@ -164,10 +162,10 @@ var NAVTREEINDEX386 =
 "de/d2d/namespaceObjectAccessor.html#ad7a6a08850b890d65a5e38a77ef92502":[5,0,24,6],
 "de/d2d/namespaceObjectAccessor.html#ae98f0c5bc69acfddbb05d43599b07195":[5,0,24,8],
 "de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,24,5],
-"de/d2e/classspell__svala__ritual__strike__aura.html":[7,0,4230],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[7,0,4230,1],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[7,0,4230,0],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[7,0,4230,2],
+"de/d2e/classspell__svala__ritual__strike__aura.html":[7,0,4229],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[7,0,4229,1],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[7,0,4229,0],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[7,0,4229,2],
 "de/d2f/CreatureData_8h.html":[8,0,0,0,1,2,16,1,2],
 "de/d2f/CreatureData_8h.html#a064cb5a850ff499a14bcf97b361ce6af":[8,0,0,0,1,2,16,1,2,28],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6ae":[8,0,0,0,1,2,16,1,2,33],
@@ -249,5 +247,7 @@ var NAVTREEINDEX386 =
 "de/d2f/CreatureData_8h.html#ada6042a73a1120d894eaf5d81ef7aa1a":[8,0,0,0,1,2,16,1,2,18],
 "de/d2f/CreatureData_8h.html#ade6a94c0d4f388a0394d648ed7663a29":[8,0,0,0,1,2,16,1,2,21],
 "de/d2f/CreatureData_8h.html#ade72c22c956598b6544cf254bdf9e975":[8,0,0,0,1,2,16,1,2,30],
-"de/d2f/CreatureData_8h.html#aec385f62258c23b8c755b8e78a0e1873":[8,0,0,0,1,2,16,1,2,37]
+"de/d2f/CreatureData_8h.html#aec385f62258c23b8c755b8e78a0e1873":[8,0,0,0,1,2,16,1,2,37],
+"de/d2f/CreatureData_8h.html#aec385f62258c23b8c755b8e78a0e1873a2e939d2dbf075bfb7c86e3e971beb228":[8,0,0,0,1,2,16,1,2,37,2],
+"de/d2f/CreatureData_8h.html#aec385f62258c23b8c755b8e78a0e1873a3e409a2141cd78fb1bdd83d36c2388e7":[8,0,0,0,1,2,16,1,2,37,1]
 };

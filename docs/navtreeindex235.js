@@ -1,7 +1,5 @@
 var NAVTREEINDEX235 =
 {
-"d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[7,0,1001,0],
-"d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[7,0,1001,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,35,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[7,0,13,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,35,6,31,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX235 =
 "d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa407ab878051e2e3b810c6216f78bf876":[8,0,0,0,1,3,2,1,2,0,8,5],
 "d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa5b266dce7529da7022dd16216bf22e4d":[8,0,0,0,1,3,2,1,2,0,8,6],
 "d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa94173a98d77a9d0054977805b4e8d62d":[8,0,0,0,1,3,2,1,2,0,8,4],
-"d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa9d9f0f0070821d807bb6488ba9cdf689":[8,0,0,0,1,3,2,1,2,0,8,3]
+"d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080fa9d9f0f0070821d807bb6488ba9cdf689":[8,0,0,0,1,3,2,1,2,0,8,3],
+"d8/d83/blackwing__lair_8h.html#a1adac81d8f2075505fecfde91953080faf176da20fc5a7d4386a131e38b386e06":[8,0,0,0,1,3,2,1,2,0,8,0],
+"d8/d83/blackwing__lair_8h.html#a66b27efa7158211c2d644ec17579976e":[8,0,0,0,1,3,2,1,2,0,9]
 };

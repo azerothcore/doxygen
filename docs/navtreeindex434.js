@@ -1,7 +1,5 @@
 var NAVTREEINDEX434 =
 {
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a2993b3b195b6880d2cbc3cdf7215a56a":[8,0,0,0,1,3,5,6,1,24],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,5,6,1,17],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea0985e2f2e85eb91a8a9618b54c44de71":[8,0,0,0,1,3,5,6,1,17,2],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea35c48d5f51bc05447105b2cfb112e69f":[8,0,0,0,1,3,5,6,1,17,0],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a50ba2acfd483f395e71abb80f687463ea562f9786bd3b2978337babac1240a22b":[8,0,0,0,1,3,5,6,1,17,1],
@@ -209,10 +207,10 @@ var NAVTREEINDEX434 =
 "df/dfc/classspell__item__pet__healing.html#a61a84072d467596b8b2b2704ecbca03a":[7,0,3495,1],
 "df/dfc/classspell__item__pet__healing.html#aa1d3ef35912daa094bd9527280d0064b":[7,0,3495,3],
 "df/dfc/classspell__item__pet__healing.html#ad96085df198965575061ab989195983a":[7,0,3495,0],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[7,0,4272],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[7,0,4272,2],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[7,0,4272,1],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[7,0,4272,0],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[7,0,4271],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[7,0,4271,2],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[7,0,4271,1],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[7,0,4271,0],
 "df/dff/classinstance__old__hillsbrad.html":[7,0,1363],
 "df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[7,0,1363,2],
 "df/dff/classinstance__old__hillsbrad.html#a1ba2d39ae8f9209055de4b944cc535d8":[7,0,1363,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX434 =
 "dir_212cab7aa189befb69033d54678b54b0.html":[8,0,0,0,1,3,2,13],
 "dir_21848b791f33e40a23e6d092548069d2.html":[8,0,0,0,1,3,4,5],
 "dir_22de0d38c781b430619603c756a2179f.html":[8,0,0,0,1,3,7,2],
-"dir_23d74cf01fe3f1f57e5987f77f0efe4c.html":[8,0,0,0,1,3,5,1,1]
+"dir_23d74cf01fe3f1f57e5987f77f0efe4c.html":[8,0,0,0,1,3,5,1,1],
+"dir_2519615cc1c93425dacf3aa6e071da7e.html":[8,0,0,0,1,3,0],
+"dir_2520e02461832f009bb34cab9ff8023f.html":[8,0,0,0,1,1,2]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX310 =
 {
-"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a58a447b847f98fdf065f6c2177921195":[8,0,0,0,1,3,10,14,56,10],
-"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a644554d2c59c93f146665ecd2935dad8":[8,0,0,0,1,3,10,14,56,25],
-"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a6b6199606f7e8c2252179891dfc8397b":[8,0,0,0,1,3,10,14,56,17],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a6d34405f4268188f4709fddd135879a1":[8,0,0,0,1,3,10,14,56,0],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a6f7a20543235e228a26a33cfd57c0341":[8,0,0,0,1,3,10,14,56,19],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a72d295e229e24eae17687c2364096624":[8,0,0,0,1,3,10,14,56,7],
@@ -187,10 +184,10 @@ var NAVTREEINDEX310 =
 "db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8":[8,0,0,0,1,2,11,2,0,1],
 "db/db2/Chat_8cpp.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7":[8,0,0,0,1,2,11,2,0,2],
 "db/db2/Chat_8cpp.html#ae39447b85bcee503ddb354d2950d638a":[8,0,0,0,1,2,11,2,2],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html":[7,0,4116],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a1dd967ad59159faf694b8e0bfcd369ac":[7,0,4116,2],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[7,0,4116,0],
-"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[7,0,4116,1],
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html":[7,0,4115],
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a1dd967ad59159faf694b8e0bfcd369ac":[7,0,4115,2],
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[7,0,4115,0],
+"db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[7,0,4115,1],
 "db/db4/SpellProcCooldownTest_8cpp.html":[8,0,0,0,2,2,0,11,16],
 "db/db4/SpellProcCooldownTest_8cpp.html#a370529a902674d7c3d85a958b68f014a":[8,0,0,0,2,2,0,11,16,4],
 "db/db4/SpellProcCooldownTest_8cpp.html#a46fee264bedefac5bf751dc80e5175ca":[8,0,0,0,2,2,0,11,16,3],
@@ -203,8 +200,8 @@ var NAVTREEINDEX310 =
 "db/db4/SpellProcCooldownTest_8cpp.html#ac30c03da32748e0bf7f658b9eff19f67":[8,0,0,0,2,2,0,11,16,1],
 "db/db4/SpellProcCooldownTest_8cpp.html#af3b499c25e76cc981b8b7c898e661285":[8,0,0,0,2,2,0,11,16,6],
 "db/db4/SpellProcCooldownTest_8cpp.html#afba7de9d87f646093469d0f6820b2217":[8,0,0,0,2,2,0,11,16,8],
-"db/db4/classSQLQueryHolder.html":[7,0,4566],
-"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[7,0,4566,0],
+"db/db4/classSQLQueryHolder.html":[7,0,4565],
+"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[7,0,4565,0],
 "db/db5/structboss__hydross__the__unstable.html":[7,0,557],
 "db/db5/structboss__hydross__the__unstable.html#a0bcad41c74800ab58df8b5ea54d2ec8e":[7,0,557,6],
 "db/db5/structboss__hydross__the__unstable.html#a219094dc5a81acb7d7ae86d5d7945da8":[7,0,557,11],
@@ -249,5 +246,8 @@ var NAVTREEINDEX310 =
 "db/db7/instance__trial__of__the__champion_8cpp.html#ae2295e61db9911f53f911c1589bc7d75a59864c154a6e423577211fc47aaaa8a0":[8,0,0,0,1,3,5,2,0,3,3,3],
 "db/db7/instance__trial__of__the__champion_8cpp.html#ae2295e61db9911f53f911c1589bc7d75a5dc5ef412157a47f77b2d9ab8a5f11db":[8,0,0,0,1,3,5,2,0,3,3,24],
 "db/db7/instance__trial__of__the__champion_8cpp.html#ae2295e61db9911f53f911c1589bc7d75a61256d8a330609868745f74ee024138c":[8,0,0,0,1,3,5,2,0,3,3,10],
-"db/db7/instance__trial__of__the__champion_8cpp.html#ae2295e61db9911f53f911c1589bc7d75a660a3dfe26663c82dffa5834ba6b4685":[8,0,0,0,1,3,5,2,0,3,3,18]
+"db/db7/instance__trial__of__the__champion_8cpp.html#ae2295e61db9911f53f911c1589bc7d75a660a3dfe26663c82dffa5834ba6b4685":[8,0,0,0,1,3,5,2,0,3,3,18],
+"db/db7/instance__trial__of__the__champion_8cpp.html#ae2295e61db9911f53f911c1589bc7d75a7580d94c8d38f2f0a634a1c952680c96":[8,0,0,0,1,3,5,2,0,3,3,2],
+"db/db7/instance__trial__of__the__champion_8cpp.html#ae2295e61db9911f53f911c1589bc7d75a75fc2d14edbaac1b55b1b98cf7effd8e":[8,0,0,0,1,3,5,2,0,3,3,4],
+"db/db7/instance__trial__of__the__champion_8cpp.html#ae2295e61db9911f53f911c1589bc7d75a90a26bbb677a472587e64d6a1539b3e2":[8,0,0,0,1,3,5,2,0,3,3,8]
 };

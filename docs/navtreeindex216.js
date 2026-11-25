@@ -1,5 +1,7 @@
 var NAVTREEINDEX216 =
 {
+"d7/da7/classspell__dispel__freed__soldier__debuff.html#a0c6b2f8713f59b3048224f0cb7786913":[7,0,2827,0],
+"d7/da7/classspell__dispel__freed__soldier__debuff.html#aaecfe98d6c72c2675bf83d586588dbc0":[7,0,2827,3],
 "d7/da7/classspell__dispel__freed__soldier__debuff.html#acef977e377c9d6e638056223256da4ef":[7,0,2827,2],
 "d7/da7/classspell__dispel__freed__soldier__debuff.html#adf4c5fb99c1ea11c984bffd9b54ee7ce":[7,0,2827,1],
 "d7/da7/classspell__q11396__11399__scourging__crystal__controller__dummy.html":[7,0,3953],
@@ -247,7 +249,5 @@ var NAVTREEINDEX216 =
 "d7/db0/classMap.html#a8fa628c3677cf75dd81d8eb4b58ea431":[7,0,1523,146],
 "d7/db0/classMap.html#a8fc6fda79e88f5335cb330332ef3e04d":[7,0,1523,93],
 "d7/db0/classMap.html#a90d917e995b780193a0820798fe4e2fa":[7,0,1523,247],
-"d7/db0/classMap.html#a91cf9a3e5c88348f3fb5e7fb013a8c68":[7,0,1523,249],
-"d7/db0/classMap.html#a93137bdd833540e5c698d3890c47f413":[7,0,1523,148],
-"d7/db0/classMap.html#a937ecbcdf1b70e81187a56bcacd3324c":[7,0,1523,77]
+"d7/db0/classMap.html#a91cf9a3e5c88348f3fb5e7fb013a8c68":[7,0,1523,249]
 };

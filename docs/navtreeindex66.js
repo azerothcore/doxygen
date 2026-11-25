@@ -1,5 +1,7 @@
 var NAVTREEINDEX66 =
 {
+"d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad789ba74c3c36b8b21df4b21ad582d9d":[8,0,0,0,1,3,5,3,1,7,5],
+"d2/d5b/boss__novos_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae7043d2f29c97f69fc58f5b8aacce70c":[8,0,0,0,1,3,5,3,1,7,3],
 "d2/d5b/boss__novos_8cpp.html#a41d20f762f0da533723959a12ef8e635":[8,0,0,0,1,3,5,3,1,9],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,5,3,1,6],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e":[8,0,0,0,1,3,5,3,1,6,11],
@@ -241,13 +243,11 @@ var NAVTREEINDEX66 =
 "d2/d5c/classspell__karazhan__wrath__titans__aura.html#a42ae1d2f846815480dc02e7e5f92527e":[7,0,3582,4],
 "d2/d5c/classspell__karazhan__wrath__titans__aura.html#ad4db3b85cab89e4922ac4935b0cdcbd5":[7,0,3582,3],
 "d2/d5c/classspell__karazhan__wrath__titans__aura.html#ae5c0f54c072fa5f4bb69af0acd74053c":[7,0,3582,1],
-"d2/d5c/structSpellTargetSelector.html":[7,0,4557],
-"d2/d5c/structSpellTargetSelector.html#a309ed04630cfb92810b7f51376b3917c":[7,0,4557,3],
-"d2/d5c/structSpellTargetSelector.html#a53c27c23f2d9846903e1ff9b479a36b1":[7,0,4557,1],
-"d2/d5c/structSpellTargetSelector.html#a9f1f441e542500dc43c58b97729f7f51":[7,0,4557,0],
-"d2/d5c/structSpellTargetSelector.html#ac5b0844c975a6b3ff3c14a843fd28fba":[7,0,4557,2],
+"d2/d5c/structSpellTargetSelector.html":[7,0,4556],
+"d2/d5c/structSpellTargetSelector.html#a309ed04630cfb92810b7f51376b3917c":[7,0,4556,3],
+"d2/d5c/structSpellTargetSelector.html#a53c27c23f2d9846903e1ff9b479a36b1":[7,0,4556,1],
+"d2/d5c/structSpellTargetSelector.html#a9f1f441e542500dc43c58b97729f7f51":[7,0,4556,0],
+"d2/d5c/structSpellTargetSelector.html#ac5b0844c975a6b3ff3c14a843fd28fba":[7,0,4556,2],
 "d2/d5d/structEnchStoreItem.html":[7,0,1051],
-"d2/d5d/structEnchStoreItem.html#a2d3d0cd28c79402b3625694d4676ed8b":[7,0,1051,2],
-"d2/d5d/structEnchStoreItem.html#a89019e156774c5b978251479264e5463":[7,0,1051,0],
-"d2/d5d/structEnchStoreItem.html#ac2346b6c6c5c09bb63676d72c798d848":[7,0,1051,3]
+"d2/d5d/structEnchStoreItem.html#a2d3d0cd28c79402b3625694d4676ed8b":[7,0,1051,2]
 };

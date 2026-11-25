@@ -1,7 +1,5 @@
 var NAVTREEINDEX384 =
 {
-"de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44":[5,0,21,17,0],
-"de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88":[5,0,21,17,2],
 "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a":[5,0,21,17,1],
 "de/d19/namespaceMMAP.html#a32c90e1638c0f8693e2fc95201d2ec3f":[5,0,21,37],
 "de/d19/namespaceMMAP.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab":[5,0,21,21],
@@ -249,5 +247,7 @@ var NAVTREEINDEX384 =
 "de/d1d/structnpc__phalanx.html#a2a1a7cfa3cacc589eb5738a930cc2b18":[7,0,2089,2],
 "de/d1d/structnpc__phalanx.html#a2b2d00c25d151343c37d8f6f94c04ba9":[7,0,2089,10],
 "de/d1d/structnpc__phalanx.html#a2ff0b9735de4b974f4a4e93229749b4a":[7,0,2089,11],
-"de/d1d/structnpc__phalanx.html#a372daade038903dc7915302ecedd77d6":[7,0,2089,3]
+"de/d1d/structnpc__phalanx.html#a372daade038903dc7915302ecedd77d6":[7,0,2089,3],
+"de/d1d/structnpc__phalanx.html#a4cf720f877635af20dc95bab41073df1":[7,0,2089,12],
+"de/d1d/structnpc__phalanx.html#a4ee89eef74f0e14b9e0416e59dc0c77b":[7,0,2089,1]
 };

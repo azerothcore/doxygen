@@ -1,7 +1,5 @@
 var NAVTREEINDEX240 =
 {
-"d8/dbf/boss__ichoron_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0af79cfc4321afabb4a953755504a91ce5":[8,0,0,0,1,3,5,12,2,8,0],
-"d8/dbf/boss__ichoron_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0af7f18e2c61094d39b008da938c3f77ca":[8,0,0,0,1,3,5,12,2,8,6],
 "d8/dbf/classspell__hallows__end__base__fire.html":[7,0,3239],
 "d8/dbf/classspell__hallows__end__base__fire.html#a1d4b1c43305b3133e4ac7f8b6ce70727":[7,0,3239,4],
 "d8/dbf/classspell__hallows__end__base__fire.html#a3f23e4a8fecf83ba580c904f15e1e98b":[7,0,3239,2],
@@ -10,8 +8,8 @@ var NAVTREEINDEX240 =
 "d8/dbf/classspell__hallows__end__base__fire.html#ae2ce9c161a25385c6de1f4b7607c9935":[7,0,3239,0],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[5,0,0,8,0,10],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html":[7,0,0,5,0,10],
-"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[7,0,0,5,0,10,0],
 "d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[5,0,0,8,0,10,0],
+"d8/dbf/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1string_00_01void_01_4.html#afb6bc0250c190a2b52c031e3540ddf78":[7,0,0,5,0,10,0],
 "d8/dbf/structLFGDungeonEntry.html":[7,0,1454],
 "d8/dbf/structLFGDungeonEntry.html#a17ae5fe60486c54a3becb2b14d5953c9":[7,0,1454,8],
 "d8/dbf/structLFGDungeonEntry.html#a2e6456d16cce98666b0ac63cebf0eb82":[7,0,1454,10],
@@ -72,12 +70,12 @@ var NAVTREEINDEX240 =
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696abc14babecb1b3543b4defc07667831b7":[8,0,0,0,1,3,2,14,1,4,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[7,0,0,80],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[5,0,0,92],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,0,92,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[7,0,0,80,1],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[7,0,0,80,6],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,0,92,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[5,0,0,92,6],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[7,0,0,80,3],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[7,0,0,80,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,0,92,3],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[7,0,0,80,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[7,0,0,80,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,0,92,5],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa9f15d071efe7ca7bb975489fec2afbd":[7,0,0,80,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX240 =
 "d8/dd2/boss__warp__splinter_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,7,5,1,4,1,1],
 "d8/dd2/boss__warp__splinter_8cpp.html#a16774215bba3b38580ea51987d64cff1acebbfa1f13b8de4f039f5d550063c7bf":[8,0,0,0,1,3,7,5,1,4,1,2],
 "d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,5,1,4,2],
-"d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca00b6c66776a6dde5a70cf1d0849302b1":[8,0,0,0,1,3,7,5,1,4,2,3]
+"d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca00b6c66776a6dde5a70cf1d0849302b1":[8,0,0,0,1,3,7,5,1,4,2,3],
+"d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d3027bd3bcdc06e0ea4f687afdb22a8":[8,0,0,0,1,3,7,5,1,4,2,2],
+"d8/dd2/boss__warp__splinter_8cpp.html#a5bd342133be8c2137b831460acc9298ca6e5929f7725cfd1dc8c5f093c75fc25a":[8,0,0,0,1,3,7,5,1,4,2,1]
 };

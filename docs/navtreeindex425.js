@@ -1,7 +1,5 @@
 var NAVTREEINDEX425 =
 {
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca622a15d26392560e20c009189f6d0671":[8,0,0,0,1,3,4,1,1,3,3,0],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[8,0,0,0,1,3,4,1,1,3,3,2],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cabdabcf18eaa10d39312003cf001d4d61":[8,0,0,0,1,3,4,1,1,3,3,1],
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,4,1,1,3,2],
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a007991056a3ae1396d0b1454ecdf9ae8":[8,0,0,0,1,3,4,1,1,3,2,2],
@@ -159,9 +157,9 @@ var NAVTREEINDEX425 =
 "df/dbc/structMalleableGooSelector.html#a5adb1e89ab7d5733514a8fefc5de6a35":[7,0,1521,0],
 "df/dbc/structMalleableGooSelector.html#a6cd991b360895b4b3405f0cd9e63879f":[7,0,1521,2],
 "df/dbc/structMalleableGooSelector.html#adf73957539fdcc604f849944473e0015":[7,0,1521,1],
-"df/dbc/structSpellDifficultyEntry.html":[7,0,4505],
-"df/dbc/structSpellDifficultyEntry.html#a0272b3c1130508a2681035c91ee416e6":[7,0,4505,0],
-"df/dbc/structSpellDifficultyEntry.html#a231d22a763ddcd9f1fbdab81521dcf67":[7,0,4505,1],
+"df/dbc/structSpellDifficultyEntry.html":[7,0,4504],
+"df/dbc/structSpellDifficultyEntry.html#a0272b3c1130508a2681035c91ee416e6":[7,0,4504,0],
+"df/dbc/structSpellDifficultyEntry.html#a231d22a763ddcd9f1fbdab81521dcf67":[7,0,4504,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[7,0,0,79],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[5,0,0,91],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[5,0,0,91,5],
@@ -191,11 +189,11 @@ var NAVTREEINDEX425 =
 "df/dbe/CreatureAISelector_8h.html#a10fef1ff3335f4642179ee423b1ff0d6":[8,0,0,0,1,2,3,10,0],
 "df/dbe/CreatureAISelector_8h.html#a203d17bf72c42c0d3fdb77626b01b679":[8,0,0,0,1,2,3,10,2],
 "df/dbe/CreatureAISelector_8h.html#a2ce404e9b85f551638d8783c01a19860":[8,0,0,0,1,2,3,10,1],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html":[7,0,4400],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html#a0eb7295583f2c45c88ae266d66813b5b":[7,0,4400,1],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html#a28f109c403d3bb46dd4f9c18057cfcd9":[7,0,4400,0],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html#ab8848a011ec8397bc5712ced54e09432":[7,0,4400,2],
-"df/dbe/classspell__warl__t4__2p__bonus__fire.html#ae35703b7d676fde170241dd64c3c5411":[7,0,4400,3],
+"df/dbe/classspell__warl__t4__2p__bonus__fire.html":[7,0,4399],
+"df/dbe/classspell__warl__t4__2p__bonus__fire.html#a0eb7295583f2c45c88ae266d66813b5b":[7,0,4399,1],
+"df/dbe/classspell__warl__t4__2p__bonus__fire.html#a28f109c403d3bb46dd4f9c18057cfcd9":[7,0,4399,0],
+"df/dbe/classspell__warl__t4__2p__bonus__fire.html#ab8848a011ec8397bc5712ced54e09432":[7,0,4399,2],
+"df/dbe/classspell__warl__t4__2p__bonus__fire.html#ae35703b7d676fde170241dd64c3c5411":[7,0,4399,3],
 "df/dbe/structBuildValuesCachedBuffer.html":[7,0,841],
 "df/dbe/structBuildValuesCachedBuffer.html#a87a3167ae060c8556700e4a137294053":[7,0,841,0],
 "df/dbe/structBuildValuesCachedBuffer.html#add7150533a48434b0e606add9cff04d2":[7,0,841,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX425 =
 "df/dc3/classspell__apothecary__throw__perfume.html#a8bf22d62d6e7f50315e4c14714b8457f":[7,0,2684,1],
 "df/dc3/classspell__apothecary__throw__perfume.html#ab705220b48be16090107135f9e2272cf":[7,0,2684,0],
 "df/dc3/classspell__apothecary__throw__perfume.html#ac969bf9f37d02f2b3d78d31d7f8c4625":[7,0,2684,2],
-"df/dc3/classspell__apothecary__throw__perfume.html#ad1d90693a427a52fa728e5ae455932a3":[7,0,2684,3]
+"df/dc3/classspell__apothecary__throw__perfume.html#ad1d90693a427a52fa728e5ae455932a3":[7,0,2684,3],
+"df/dc3/classspell__dk__anti__magic__shell__raid.html":[7,0,2831],
+"df/dc3/classspell__dk__anti__magic__shell__raid.html#a1194d2bd96632cbc3eab58300a5f9a46":[7,0,2831,1]
 };

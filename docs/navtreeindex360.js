@@ -1,7 +1,5 @@
 var NAVTREEINDEX360 =
 {
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[5,0,0,128,1],
-"dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html":[7,0,1914,0],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a0f7dd1512694d284c1f83b3403c421e6":[7,0,1914,0,4],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a187efe775b1e2a35637638507e77352e":[7,0,1914,0,3],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a5003e3a1ccb955b209c1ab91a49d217f":[7,0,1914,0,1],
@@ -14,10 +12,10 @@ var NAVTREEINDEX360 =
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a428d1251465cc9947e7474eab83494e3":[7,0,3253,0],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a7d4ede9af946be71bbc5531164ed3f17":[7,0,3253,3],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#aa6bfb37f305531f67fa5fad67c83acb9":[7,0,3253,1],
-"dd/da9/classspell__threatening__gaze__aura.html":[7,0,4299],
-"dd/da9/classspell__threatening__gaze__aura.html#a01eb4b37925b9c2fb8ce82d9808c270f":[7,0,4299,1],
-"dd/da9/classspell__threatening__gaze__aura.html#a2a745fd8afa0d3d18684a9b8b091eb7e":[7,0,4299,0],
-"dd/da9/classspell__threatening__gaze__aura.html#ad2ae9bfa13c625608af9042584a9bfb8":[7,0,4299,2],
+"dd/da9/classspell__threatening__gaze__aura.html":[7,0,4298],
+"dd/da9/classspell__threatening__gaze__aura.html#a01eb4b37925b9c2fb8ce82d9808c270f":[7,0,4298,1],
+"dd/da9/classspell__threatening__gaze__aura.html#a2a745fd8afa0d3d18684a9b8b091eb7e":[7,0,4298,0],
+"dd/da9/classspell__threatening__gaze__aura.html#ad2ae9bfa13c625608af9042584a9bfb8":[7,0,4298,2],
 "dd/daa/classOPvPCapturePointHP.html":[7,0,2381],
 "dd/daa/classOPvPCapturePointHP.html#a0191bec2d9492e21957ed9b4e0fed484":[7,0,2381,6],
 "dd/daa/classOPvPCapturePointHP.html#a42528a90eda9ec28dd00df3f0ec78a15":[7,0,2381,5],
@@ -84,11 +82,11 @@ var NAVTREEINDEX360 =
 "dd/dac/classspell__black__knight__ghoul__explode.html#a11b9bb078e5c38b8db8b3e3fcd5114d8":[7,0,2718,0],
 "dd/dac/classspell__black__knight__ghoul__explode.html#a75a2441ca6b4fb7928c4d14f44c08ba3":[7,0,2718,1],
 "dd/dac/classspell__black__knight__ghoul__explode.html#a9322b834fadc89b4fbc19dbbc762f205":[7,0,2718,2],
-"dd/dac/classspell__valkyr__touch__aura.html":[7,0,4341],
-"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[7,0,4341,2],
-"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[7,0,4341,1],
-"dd/dac/classspell__valkyr__touch__aura.html#a9dbc9361f083d217de4f9a9e39c6d873":[7,0,4341,0],
-"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[7,0,4341,3],
+"dd/dac/classspell__valkyr__touch__aura.html":[7,0,4340],
+"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[7,0,4340,2],
+"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[7,0,4340,1],
+"dd/dac/classspell__valkyr__touch__aura.html#a9dbc9361f083d217de4f9a9e39c6d873":[7,0,4340,0],
+"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[7,0,4340,3],
 "dd/dac/pit__of__saron_8h.html":[8,0,0,0,1,3,5,4,2,5],
 "dd/dac/pit__of__saron_8h.html#a0288c2dc7d0ed3fbee5efbd09d05b03b":[8,0,0,0,1,3,5,4,2,5,31],
 "dd/dac/pit__of__saron_8h.html#a04fcbcddd6f18eec4e502905c8130d75":[8,0,0,0,1,3,5,4,2,5,42],
@@ -249,5 +247,7 @@ var NAVTREEINDEX360 =
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a1bd85b8b26cfe06cebd01cffed5b5ae9":[8,0,0,0,1,3,5,4,2,5,13,9],
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a73862ae73b0d44a1ec28f28de445ce4e":[8,0,0,0,1,3,5,4,2,5,13,2],
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a7432e3c630ed034bd36086e5a59d0275":[8,0,0,0,1,3,5,4,2,5,13,6],
-"dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a84f204ceca019b1adf3ef84032e68314":[8,0,0,0,1,3,5,4,2,5,13,3]
+"dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a84f204ceca019b1adf3ef84032e68314":[8,0,0,0,1,3,5,4,2,5,13,3],
+"dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a9645234e045b50d2be2e7b6e86f64e56":[8,0,0,0,1,3,5,4,2,5,13,1],
+"dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50ad1f3af0a14c45e1272c032c3788baf9e":[8,0,0,0,1,3,5,4,2,5,13,5]
 };

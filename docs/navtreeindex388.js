@@ -1,7 +1,5 @@
 var NAVTREEINDEX388 =
 {
-"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3893c541596a829d5bc2dcbe9af2ecb7":[8,0,0,0,1,2,41,9,67,8],
-"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce":[8,0,0,0,1,2,41,9,67,19],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a4ef079da228b08645ef20ead47c22a73":[8,0,0,0,1,2,41,9,67,32],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc":[8,0,0,0,1,2,41,9,67,3],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a6d718a09392612753a07abe19d65299c":[8,0,0,0,1,2,41,9,67,30],
@@ -149,9 +147,9 @@ var NAVTREEINDEX388 =
 "de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[7,0,840,5],
 "de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[7,0,840,4],
 "de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[7,0,840,10],
-"de/d34/structSpellDurationEntry.html":[7,0,4507],
-"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[7,0,4507,1],
-"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[7,0,4507,0],
+"de/d34/structSpellDurationEntry.html":[7,0,4506],
+"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[7,0,4506,1],
+"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[7,0,4506,0],
 "de/d36/classnpc__mrfloppy.html":[7,0,2027],
 "de/d36/classnpc__mrfloppy.html#a0515ca75aba9b7f6f5577b53e7520f6e":[7,0,2027,1],
 "de/d36/classnpc__mrfloppy.html#a88590566309f3fc155eb6dc26055a161":[7,0,2027,2],
@@ -210,10 +208,10 @@ var NAVTREEINDEX388 =
 "de/d3a/classat__karazhan__mirkblood__approach.html":[7,0,239],
 "de/d3a/classat__karazhan__mirkblood__approach.html#a032600991e9fc1aaf026adf2e63314e5":[7,0,239,0],
 "de/d3a/classat__karazhan__mirkblood__approach.html#aaece848faa4f1086ac0b16802a1e765e":[7,0,239,1],
-"de/d3a/classspell__warlords__rage.html":[7,0,4404],
-"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[7,0,4404,0],
-"de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[7,0,4404,2],
-"de/d3a/classspell__warlords__rage.html#ac0d686490ff37810e0116dea4d0b6077":[7,0,4404,1],
+"de/d3a/classspell__warlords__rage.html":[7,0,4403],
+"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[7,0,4403,0],
+"de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[7,0,4403,2],
+"de/d3a/classspell__warlords__rage.html#ac0d686490ff37810e0116dea4d0b6077":[7,0,4403,1],
 "de/d3b/MapBuilder_8h.html":[8,0,0,0,3,2,5],
 "de/d3b/MapBuilder_8h.html#aa2aae6f254337f29866a5d240d5ec2b1":[8,0,0,0,3,2,5,5],
 "de/d3b/classMotionMaster.html":[7,0,1579],
@@ -249,5 +247,7 @@ var NAVTREEINDEX388 =
 "de/d3b/classMotionMaster.html#a42159811c7ba2ec5ff785f50c6bd6268":[7,0,1579,66],
 "de/d3b/classMotionMaster.html#a48a7732160d5a64aa32a82f976f2aeb4":[7,0,1579,47],
 "de/d3b/classMotionMaster.html#a4ac4ff518be1d03d8c2d3293951bf4d5":[7,0,1579,65],
-"de/d3b/classMotionMaster.html#a4ca387e0a59497eaca8ac4880f3a1970":[7,0,1579,53]
+"de/d3b/classMotionMaster.html#a4ca387e0a59497eaca8ac4880f3a1970":[7,0,1579,53],
+"de/d3b/classMotionMaster.html#a55a28a0fc727f5f9895c64f75f7dd7cf":[7,0,1579,10],
+"de/d3b/classMotionMaster.html#a5b0e5db1d2928a182c647b47a42d17f7":[7,0,1579,72]
 };

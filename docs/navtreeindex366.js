@@ -1,7 +1,5 @@
 var NAVTREEINDEX366 =
 {
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[8,0,0,0,1,3,5,1,1,2,33,7],
-"dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adcdfd71b7de351ef0e2e87cff50204e3":[8,0,0,0,1,3,5,1,1,2,33,8],
 "dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af36380e9fbb9b058a04bd6ac1c423770":[8,0,0,0,1,3,5,1,1,2,33,12],
 "dd/dd6/boss__halion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,5,1,1,2,33,1],
 "dd/dd6/boss__halion_8cpp.html#abc5005c32589bbd3476dfdb8838aaa69":[8,0,0,0,1,3,5,1,1,2,34],
@@ -84,20 +82,20 @@ var NAVTREEINDEX366 =
 "dd/dd6/structboss__falric.html#addda2f3fe13801f533069c8e5b83cdbd":[7,0,475,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,35,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[7,0,13,6,6],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[7,0,13,6,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,35,6,6,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[7,0,13,6,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[7,0,13,6,6,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,35,6,6,2],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[7,0,13,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,35,6,6,4],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[7,0,13,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[7,0,13,6,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,35,6,6,1],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[7,0,13,6,6,3],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,35,6,6,3],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[7,0,13,6,6,5],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[7,0,13,6,6,3],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[5,0,35,6,6,5],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[5,0,35,6,6,0],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[7,0,13,6,6,5],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[7,0,13,6,6,0],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[5,0,35,6,6,0],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html":[7,0,1636],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a063fc935bc8f46f5487e9c338e497ec4":[7,0,1636,8],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a41791aaa24102383fe4d3f43c714c3bb":[7,0,1636,9],
@@ -249,5 +247,7 @@ var NAVTREEINDEX366 =
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a942902449244f40dbe31e3aede7da07d":[8,0,0,0,1,3,5,19,22,14],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8ac0fa400226b2f4b7b50046653adaf4ec":[8,0,0,0,1,3,5,19,22,1],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8ac9851e1644bf34924fc12e14ab97ade3":[8,0,0,0,1,3,5,19,22,15],
-"dd/de1/zone__grizzly__hills_8cpp.html#ab6a9d4aa08c7d298acf5950f5b97e0b3":[8,0,0,0,1,3,5,19,28]
+"dd/de1/zone__grizzly__hills_8cpp.html#ab6a9d4aa08c7d298acf5950f5b97e0b3":[8,0,0,0,1,3,5,19,28],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab6a9d4aa08c7d298acf5950f5b97e0b3a8e3cfb1bafbc4a623824d7963a48159a":[8,0,0,0,1,3,5,19,28,0],
+"dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0":[8,0,0,0,1,3,5,19,31]
 };

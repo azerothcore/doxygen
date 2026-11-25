@@ -1,8 +1,5 @@
 var NAVTREEINDEX276 =
 {
-"da/d6d/structboss__selin__fireheart.html#ad414ec34127bffbae1b6b5f9a794f28c":[7,0,707,3],
-"da/d6d/structboss__selin__fireheart.html#ae3270a227550391fd752d3f241e5ea46":[7,0,707,0],
-"da/d6d/structboss__selin__fireheart.html#afe01bdf64e5f84c7aa5ee0f164ac29c0":[7,0,707,8],
 "da/d6e/Totem_8cpp.html":[8,0,0,0,1,2,16,8,0],
 "da/d6e/classgo__enchanted__scarlet__thread.html":[7,0,1179],
 "da/d6e/classgo__enchanted__scarlet__thread.html#a2bc933979fdbdd2dc740b93f50f0524b":[7,0,1179,0],
@@ -40,8 +37,8 @@ var NAVTREEINDEX276 =
 "da/d70/classat__icc__saurfang__portal.html#a8980fe0e67aa33335f0fdb947a294213":[7,0,233,1],
 "da/d70/classspell__gen__petrified__bark.html":[7,0,3141],
 "da/d70/classspell__gen__petrified__bark.html#a514ba9c8222312bb213fcebb418d2499":[7,0,3141,1],
-"da/d70/classspell__gen__petrified__bark.html#a87508c28fead56ca60c947d78ff8bae2":[7,0,3141,0],
 "da/d70/classspell__gen__petrified__bark.html#a9888b4bf71e8bb9e4b1c3caf74c48b31":[7,0,3141,3],
+"da/d70/classspell__gen__petrified__bark.html#aca4e099b508f493422226eb74054307b":[7,0,3141,0],
 "da/d70/classspell__gen__petrified__bark.html#aebe4db9304449686a544c8e4c4f26b81":[7,0,3141,2],
 "da/d71/classFleeingMovementGenerator.html":[7,0,1090],
 "da/d71/classFleeingMovementGenerator.html#a0e84bc32b599040c7f8ed9cdf92679e8":[7,0,1090,4],
@@ -64,10 +61,10 @@ var NAVTREEINDEX276 =
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[7,0,0,4,5,7],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[5,0,0,7,5,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[7,0,0,4,5,6],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[5,0,0,7,5,8],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[7,0,0,4,5,8],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[7,0,0,4,5,3],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[5,0,0,7,5,8],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,0,7,5,3],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[7,0,0,4,5,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[5,0,0,7,5,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[7,0,0,4,5,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[7,0,0,4,5,4],
@@ -76,8 +73,8 @@ var NAVTREEINDEX276 =
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a834ac95bb310f6653208026e203e065f":[5,0,0,7,5,2],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[7,0,0,4,5,0],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#aa61aad1a1e2cf1a699ff67ee25cc474b":[5,0,0,7,5,0],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[5,0,0,7,5,1],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[7,0,0,4,5,1],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#ac08518b3afb878fc7979807d764b7872":[5,0,0,7,5,1],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html":[7,0,1916,0],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#a158589b567d22c8f6e0be462bad8299d":[7,0,1916,0,2],
 "da/d71/structnpc__hyjal__tyrande_1_1hyjalTyrandeAI.html#a5ea52a1ee3730630d1efbdac4ad24c80":[7,0,1916,0,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX276 =
 "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a2ae30e5eb5612a4c5d3e4c2192622214":[8,0,0,0,1,3,2,4,15,8,33],
 "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a38ec7dfb7c2498d7453f47d53c1c0ae3":[8,0,0,0,1,3,2,4,15,8,16],
 "da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a39ba7b188f4550553037dcd4032d9899":[8,0,0,0,1,3,2,4,15,8,13],
-"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641":[8,0,0,0,1,3,2,4,15,8,0]
+"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a3d9ae12bd492b28ff4cce04e5d32e641":[8,0,0,0,1,3,2,4,15,8,0],
+"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a40248422d79a7c0dddc3797bb431bd50":[8,0,0,0,1,3,2,4,15,8,18],
+"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a423649c075618715f7b4e5ab821bf492":[8,0,0,0,1,3,2,4,15,8,4],
+"da/d76/karazhan_8h.html#ac1c8b8b6be9767f56555c40adf01ee94a428e94125fd4312ba1329315a980718c":[8,0,0,0,1,3,2,4,15,8,31]
 };

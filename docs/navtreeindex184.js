@@ -1,5 +1,7 @@
 var NAVTREEINDEX184 =
 {
+"d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da8830dd443251198606307ce6fac9c1b7":[8,0,0,0,1,3,2,1,0,15,4,14],
+"d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da91d3c74f14a8b1c561b784a5b5fe1d60":[8,0,0,0,1,3,2,1,0,15,4,8],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da9b8228d10e6c6ceedb8584b443aad500":[8,0,0,0,1,3,2,1,0,15,4,22],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da9c8d9260941b3d5afd00d20f77424173":[8,0,0,0,1,3,2,1,0,15,4,3],
 "d6/d61/instance__blackrock__depths_8cpp.html#a11b4fe9f4efc221e06a058a1b6650e3da9fad4d2f68fdc1d04d865354612bea88":[8,0,0,0,1,3,2,1,0,15,4,0],
@@ -87,14 +89,14 @@ var NAVTREEINDEX184 =
 "d6/d66/classGameObjectAI.html#ae6a065b7a8b73583c2a3afdd6c143e94":[7,0,1116,15],
 "d6/d66/classGameObjectAI.html#af395c6ba94990377e219e5bf610a59b5":[7,0,1116,5],
 "d6/d66/classGameObjectAI.html#afc78344df8960b50913bc434fd01351f":[7,0,1116,2],
-"d6/d66/classspell__vehicle__warhead__fuse.html":[7,0,4347],
-"d6/d66/classspell__vehicle__warhead__fuse.html#a38efc59fcbb40469521419723a1dceb3":[7,0,4347,2],
-"d6/d66/classspell__vehicle__warhead__fuse.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e":[7,0,4347,3],
-"d6/d66/classspell__vehicle__warhead__fuse.html#ab5d9f8125c75bbd8fbb2717516d3eddd":[7,0,4347,1],
-"d6/d66/classspell__vehicle__warhead__fuse.html#abb5726c8afa66a946eefc8767094ea9b":[7,0,4347,0],
-"d6/d67/classSpellProcPipelineTest.html":[7,0,4541],
-"d6/d67/classSpellProcPipelineTest.html#a00b4e88a208a6e930244a37d4257d971":[7,0,4541,0],
-"d6/d67/classSpellProcPipelineTest.html#a39b6b0e42a22735909b0edf6de29d5f1":[7,0,4541,1],
+"d6/d66/classspell__vehicle__warhead__fuse.html":[7,0,4346],
+"d6/d66/classspell__vehicle__warhead__fuse.html#a38efc59fcbb40469521419723a1dceb3":[7,0,4346,2],
+"d6/d66/classspell__vehicle__warhead__fuse.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e":[7,0,4346,3],
+"d6/d66/classspell__vehicle__warhead__fuse.html#ab5d9f8125c75bbd8fbb2717516d3eddd":[7,0,4346,1],
+"d6/d66/classspell__vehicle__warhead__fuse.html#abb5726c8afa66a946eefc8767094ea9b":[7,0,4346,0],
+"d6/d67/classSpellProcPipelineTest.html":[7,0,4540],
+"d6/d67/classSpellProcPipelineTest.html#a00b4e88a208a6e930244a37d4257d971":[7,0,4540,0],
+"d6/d67/classSpellProcPipelineTest.html#a39b6b0e42a22735909b0edf6de29d5f1":[7,0,4540,1],
 "d6/d68/HMAC_8h.html":[8,0,0,0,0,3,14],
 "d6/d68/HMAC_8h.html#a5186a2a02e2301ec3ea7b37d8b41097f":[8,0,0,0,0,3,14,1],
 "d6/d68/HMAC_8h.html#a80d906d20826d6c963f50eba5f7c4c2a":[8,0,0,0,0,3,14,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX184 =
 "d6/d6e/structboss__malchezaar.html#a5cfd1284c572f72ecde9d9ad94922d2b":[7,0,626,5],
 "d6/d6e/structboss__malchezaar.html#a68adb0f05177316f9e39a48669f60829":[7,0,626,0],
 "d6/d6e/structboss__malchezaar.html#a72b54fd786c064114df3b8a09835e841":[7,0,626,9],
-"d6/d6e/structboss__malchezaar.html#a7695c12779ada381cb04085dcf8dbb2c":[7,0,626,15],
-"d6/d6e/structboss__malchezaar.html#a7fcaec7c991f9d6df816aef650e53855":[7,0,626,2],
-"d6/d6e/structboss__malchezaar.html#a94be6cf7bb8cd7857fe82638d0d0e853":[7,0,626,13]
+"d6/d6e/structboss__malchezaar.html#a7695c12779ada381cb04085dcf8dbb2c":[7,0,626,15]
 };

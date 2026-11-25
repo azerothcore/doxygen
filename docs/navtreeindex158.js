@@ -1,5 +1,7 @@
 var NAVTREEINDEX158 =
 {
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04af445506a014510926856e2a8bf91d27a":[8,0,0,0,1,2,0,3,4,45],
+"d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04af46e1b0c323a7f7e794280aee29a57c2":[8,0,0,0,1,2,0,3,4,289],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04af48aa8db83ae0f7c1169c6d7cbd705d5":[8,0,0,0,1,2,0,3,4,254],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04af57d3beed16a7e02655de7cf4d575b23":[8,0,0,0,1,2,0,3,4,126],
 "d5/d73/RBAC_8h.html#aa12620253ec88ac8516c1341cf7d8e04af5805668f0e915a7d33a97aa90a667ed":[8,0,0,0,1,2,0,3,4,581],
@@ -229,14 +231,14 @@ var NAVTREEINDEX158 =
 "d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778":[7,0,948,21],
 "d5/d79/classCreatureAI.html#afe73fad7f8eeedeb636cb77790bffff4":[7,0,948,25],
 "d5/d79/classCreatureAI.html#affb58f71126f78106d39a142d962210f":[7,0,948,7],
-"d5/d79/classspell__warhead__fuse__aura.html":[7,0,4359],
-"d5/d79/classspell__warhead__fuse__aura.html#a242faa8822f9cdb7762d8ec3b6245b30":[7,0,4359,2],
-"d5/d79/classspell__warhead__fuse__aura.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51":[7,0,4359,0],
-"d5/d79/classspell__warhead__fuse__aura.html#af415e4d7ea0b4b881af94eb7ea0c3f4c":[7,0,4359,1],
-"d5/d79/classspell__warr__bloodthirst__heal.html":[7,0,4406],
-"d5/d79/classspell__warr__bloodthirst__heal.html#a03afbdbdc8555fc2d558a5e48f7340a0":[7,0,4406,0],
-"d5/d79/classspell__warr__bloodthirst__heal.html#a61a601108cd59e5d87634c02b002e20d":[7,0,4406,1],
-"d5/d79/classspell__warr__bloodthirst__heal.html#ae46c965fc77aa61aaa3c426c8ecc585c":[7,0,4406,2],
+"d5/d79/classspell__warhead__fuse__aura.html":[7,0,4358],
+"d5/d79/classspell__warhead__fuse__aura.html#a242faa8822f9cdb7762d8ec3b6245b30":[7,0,4358,2],
+"d5/d79/classspell__warhead__fuse__aura.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51":[7,0,4358,0],
+"d5/d79/classspell__warhead__fuse__aura.html#af415e4d7ea0b4b881af94eb7ea0c3f4c":[7,0,4358,1],
+"d5/d79/classspell__warr__bloodthirst__heal.html":[7,0,4405],
+"d5/d79/classspell__warr__bloodthirst__heal.html#a03afbdbdc8555fc2d558a5e48f7340a0":[7,0,4405,0],
+"d5/d79/classspell__warr__bloodthirst__heal.html#a61a601108cd59e5d87634c02b002e20d":[7,0,4405,1],
+"d5/d79/classspell__warr__bloodthirst__heal.html#ae46c965fc77aa61aaa3c426c8ecc585c":[7,0,4405,2],
 "d5/d79/structnpc__inner__demon.html":[7,0,1947],
 "d5/d79/structnpc__inner__demon.html#a12063a0125e0e9b5ba5a73f669bfcd84":[7,0,1947,0],
 "d5/d79/structnpc__inner__demon.html#a15ab3cd6576055ec7ba29a5ed44e73db":[7,0,1947,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX158 =
 "d5/d79/structnpc__inner__demon.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2":[7,0,1947,3],
 "d5/d79/structnpc__inner__demon.html#a977a76b54c4eae6461559d7b15cfc4b2":[7,0,1947,9],
 "d5/d79/structnpc__inner__demon.html#aa40ee81a4456e1a1f7254d2169f50e88":[7,0,1947,8],
-"d5/d79/structnpc__inner__demon.html#ae95022548b44b23ef93fae24729b5af5":[7,0,1947,6],
-"d5/d79/structnpc__telonicus.html":[7,0,2220],
-"d5/d79/structnpc__telonicus.html#a49501a607aeb901aa99e94d9dd0e161b":[7,0,2220,1]
+"d5/d79/structnpc__inner__demon.html#ae95022548b44b23ef93fae24729b5af5":[7,0,1947,6]
 };

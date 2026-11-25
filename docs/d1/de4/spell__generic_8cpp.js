@@ -395,6 +395,9 @@ var spell__generic_8cpp =
     [ "ParalyticPoison", "d1/de4/spell__generic_8cpp.html#af267de29cc246d78c69d002987a0d390", [
       [ "SPELL_PARALYSIS", "d1/de4/spell__generic_8cpp.html#af267de29cc246d78c69d002987a0d390a62b62ee700c42cd4b681146f102a4592", null ]
     ] ],
+    [ "PetrifiedBarkSpells", "d1/de4/spell__generic_8cpp.html#ae79d3c01b30520dfa44e162a7bcd4955", [
+      [ "SPELL_PETRIFIED_BARK_DAMAGE", "d1/de4/spell__generic_8cpp.html#ae79d3c01b30520dfa44e162a7bcd4955a3faef6fc86d93f1dc1cf9dd12977689f", null ]
+    ] ],
     [ "PvPTrinketTriggeredSpells", "d1/de4/spell__generic_8cpp.html#a155ff1af7ce3a813622a1986e88fd17a", [
       [ "SPELL_WILL_OF_THE_FORSAKEN_COOLDOWN_TRIGGER", "d1/de4/spell__generic_8cpp.html#a155ff1af7ce3a813622a1986e88fd17aa03b198598a26ecb9a189e07fb9da793a", null ],
       [ "SPELL_WILL_OF_THE_FORSAKEN_COOLDOWN_TRIGGER_WOTF", "d1/de4/spell__generic_8cpp.html#a155ff1af7ce3a813622a1986e88fd17aa39d39a3feebafdabd3a804d5d02b3745", null ],

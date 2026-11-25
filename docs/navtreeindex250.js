@@ -1,7 +1,5 @@
 var NAVTREEINDEX250 =
 {
-"d9/d48/classspell__gahzranka__slam.html":[7,0,3025],
-"d9/d48/classspell__gahzranka__slam.html#a2bbcce83bffebc509e9ec54778e82639":[7,0,3025,1],
 "d9/d48/classspell__gahzranka__slam.html#a3405b21202d423c649e0b8d341b42d9c":[7,0,3025,0],
 "d9/d48/classspell__gahzranka__slam.html#a59948484b528cab69c695f08b39b886d":[7,0,3025,2],
 "d9/d48/classspell__gahzranka__slam.html#ab5293e50bd670c0d350f190f1c9892b3":[7,0,3025,4],
@@ -19,10 +17,10 @@ var NAVTREEINDEX250 =
 "d9/d48/structnpc__medivh__bm.html#aa5a54d0b2b069947dd59eee77cbdf21b":[7,0,2010,2],
 "d9/d48/structnpc__medivh__bm.html#ad6dbbef1b6fbccd9dd224af1a15a6c90":[7,0,2010,3],
 "d9/d48/structnpc__medivh__bm.html#aefc693d7be0c06c5056cae18d4e4eb1e":[7,0,2010,8],
-"d9/d49/classTriggerAI.html":[7,0,4645],
-"d9/d49/classTriggerAI.html#a0bcffd9eab068e35d71e3176c33359f1":[7,0,4645,1],
-"d9/d49/classTriggerAI.html#aa979e7a4774b35bf83ed137543d517b1":[7,0,4645,2],
-"d9/d49/classTriggerAI.html#ad8cc7eae28b11af049db88e0d8ff149b":[7,0,4645,0],
+"d9/d49/classTriggerAI.html":[7,0,4644],
+"d9/d49/classTriggerAI.html#a0bcffd9eab068e35d71e3176c33359f1":[7,0,4644,1],
+"d9/d49/classTriggerAI.html#aa979e7a4774b35bf83ed137543d517b1":[7,0,4644,2],
+"d9/d49/classTriggerAI.html#ad8cc7eae28b11af049db88e0d8ff149b":[7,0,4644,0],
 "d9/d4a/EscortMovementGenerator_8cpp.html":[8,0,0,0,1,2,31,0,2],
 "d9/d4a/classinstance__ruins__of__ahnqiraj.html":[7,0,1370],
 "d9/d4a/classinstance__ruins__of__ahnqiraj.html#a6a661e961c2599498de0ccd41c0763b4":[7,0,1370,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX250 =
 "d9/d56/structgo__empowering__blood__orb.html#a40cf117590ac657c216478cb43725bf5":[7,0,1178,6],
 "d9/d56/structgo__empowering__blood__orb.html#a4d6719a0ba25b25ca61baa7e1785636b":[7,0,1178,0],
 "d9/d56/structgo__empowering__blood__orb.html#a4fffcbe7526951562cfc063fe7b39255":[7,0,1178,2],
-"d9/d56/structgo__empowering__blood__orb.html#a70721a6c8f1a27e6fa31ad52184883f3":[7,0,1178,7]
+"d9/d56/structgo__empowering__blood__orb.html#a70721a6c8f1a27e6fa31ad52184883f3":[7,0,1178,7],
+"d9/d56/structgo__empowering__blood__orb.html#ab5eb2c24e81600a6f295e38a32324f2d":[7,0,1178,4],
+"d9/d57/classspell__freezing__cloud__damage.html":[7,0,3013]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX303 =
 {
-"db/d80/structinstance__blackrock__spire.html#a250ce756e997f6cea3ca2151d91205f4":[7,0,1333,5],
-"db/d80/structinstance__blackrock__spire.html#a3d8e27c83c6fee69e07f222e4a726fca":[7,0,1333,16],
-"db/d80/structinstance__blackrock__spire.html#a419db224480f2a401501b661d80e62f8":[7,0,1333,23],
 "db/d80/structinstance__blackrock__spire.html#a4856ef7d3806368a3746210080cc00df":[7,0,1333,25],
 "db/d80/structinstance__blackrock__spire.html#a57602f1532872956e69188f4464dfd75":[7,0,1333,8],
 "db/d80/structinstance__blackrock__spire.html#a587565781adfd9118fd8a2bde4a72884":[7,0,1333,11],
@@ -88,11 +85,11 @@ var NAVTREEINDEX303 =
 "db/d82/classspell__azjol__nerub__web__wrap__aura.html#a985ad6d7eca06fbaf869e591136f46a3":[7,0,2712,2],
 "db/d82/classspell__azjol__nerub__web__wrap__aura.html#aa794b76c4d9590b867dda57f02724d95":[7,0,2712,3],
 "db/d82/classspell__azjol__nerub__web__wrap__aura.html#afb0821bc8774e634eefdd87efe6af945":[7,0,2712,0],
-"db/d82/classspell__the__lich__king__jump.html":[7,0,4271],
-"db/d82/classspell__the__lich__king__jump.html#a8f371bdbc57624c295efb14e2ca067c5":[7,0,4271,3],
-"db/d82/classspell__the__lich__king__jump.html#acbfd8657da20f2e91a9ef43cab7c4113":[7,0,4271,1],
-"db/d82/classspell__the__lich__king__jump.html#ad83d563da98ad189f2198a061b1cd50f":[7,0,4271,2],
-"db/d82/classspell__the__lich__king__jump.html#aef02c7f9ee2a5dda9f6b18d8aa386759":[7,0,4271,0],
+"db/d82/classspell__the__lich__king__jump.html":[7,0,4270],
+"db/d82/classspell__the__lich__king__jump.html#a8f371bdbc57624c295efb14e2ca067c5":[7,0,4270,3],
+"db/d82/classspell__the__lich__king__jump.html#acbfd8657da20f2e91a9ef43cab7c4113":[7,0,4270,1],
+"db/d82/classspell__the__lich__king__jump.html#ad83d563da98ad189f2198a061b1cd50f":[7,0,4270,2],
+"db/d82/classspell__the__lich__king__jump.html#aef02c7f9ee2a5dda9f6b18d8aa386759":[7,0,4270,0],
 "db/d84/WorldModel_8cpp.html":[8,0,0,0,0,1,2,5],
 "db/d84/WorldModel_8cpp.html#a1dfba6966e499a368a393b5b52e5c6f8":[8,0,0,0,0,1,2,5,5],
 "db/d84/WorldModel_8cpp.html#af71b89398ed4323940f67baaf58f2cd7":[8,0,0,0,0,1,2,5,6],
@@ -249,5 +246,8 @@ var NAVTREEINDEX303 =
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccae6b4c4922a00d82fba3baa8762d92a4a":[8,0,0,0,1,3,5,8,0,0,17,30],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccae9865db1c8e4d39c5d7a7678130880da":[8,0,0,0,1,3,5,8,0,0,17,20],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccafac9211b03f6843b5c3c37b990af5546":[8,0,0,0,1,3,5,8,0,0,17,5],
-"db/d86/boss__malygos_8cpp.html#ae09b5e2028ed2dfe3f3c10532cf5dadc":[8,0,0,0,1,3,5,8,0,0,14]
+"db/d86/boss__malygos_8cpp.html#ae09b5e2028ed2dfe3f3c10532cf5dadc":[8,0,0,0,1,3,5,8,0,0,14],
+"db/d88/classspell__mc__play__dead__aura.html":[7,0,3706],
+"db/d88/classspell__mc__play__dead__aura.html#a201bafab6c483b08a6ae27054392dea9":[7,0,3706,4],
+"db/d88/classspell__mc__play__dead__aura.html#a8259745e21c561e4eedabc87ca8bdf73":[7,0,3706,2]
 };

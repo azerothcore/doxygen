@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"d4/dd8/structAchievementCriteriaData.html#a0d3fc06f57718915428227a946c018af":[7,0,117,10],
+"d4/dd8/structAchievementCriteriaData.html#a0fc858d0a27adde6685e00b1ad073fa8":[7,0,117,27],
 "d4/dd8/structAchievementCriteriaData.html#a10abf16cc22c72aac4cadb6910457207":[7,0,117,17],
 "d4/dd8/structAchievementCriteriaData.html#a180c58322031bb3f00e6cf034fb29a1d":[7,0,117,45],
 "d4/dd8/structAchievementCriteriaData.html#a1aea048080854abb69165056688e9637":[7,0,117,25],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "d4/dde/classnpc__elder__clearwater.html#aae382c0a386b8bacd39c6e7a586519e4":[7,0,1811,3],
 "d4/dde/classnpc__elder__clearwater.html#abeee1650938a71762bb0c148ea9834d1":[7,0,1811,1],
 "d4/dde/classspell__dk__rune__tap__party.html":[7,0,2879],
-"d4/dde/classspell__dk__rune__tap__party.html#a4ce2790448bd39c19daf8caae7ef5a9d":[7,0,2879,1],
-"d4/dde/classspell__dk__rune__tap__party.html#abb6ffb41731b05b868f82498b373d8b9":[7,0,2879,0],
-"d4/dde/classspell__dk__rune__tap__party.html#aeefc7910c2960dbf3a49da6ed3c15523":[7,0,2879,2]
+"d4/dde/classspell__dk__rune__tap__party.html#a4ce2790448bd39c19daf8caae7ef5a9d":[7,0,2879,1]
 };

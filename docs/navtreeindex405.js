@@ -1,7 +1,5 @@
 var NAVTREEINDEX405 =
 {
-"de/dd9/AccountMgr_8h.html#a134ebf22666a6525929447b2d869d400":[8,0,0,0,1,2,0,1,1],
-"de/dd9/AccountMgr_8h.html#a45827712253b6d66092106cef5ae724b":[8,0,0,0,1,2,0,1,3],
 "de/dd9/AccountMgr_8h.html#ac0b6edf00d4a9c1e3c496e98fdf865aa":[8,0,0,0,1,2,0,1,5],
 "de/dd9/AccountMgr_8h.html#ad64d9bd18bac10ab1af09b042d734c64":[8,0,0,0,1,2,0,1,2],
 "de/dd9/AccountMgr_8h.html#aea3ae93168116461b6c0a7a984112175":[8,0,0,0,1,2,0,1,4],
@@ -42,11 +40,11 @@ var NAVTREEINDEX405 =
 "de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[7,0,3172,3],
 "de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[7,0,3172,0],
 "de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[7,0,3172,2],
-"de/de0/structSpellClickInfo.html":[7,0,4499],
-"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[7,0,4499,1],
-"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[7,0,4499,2],
-"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[7,0,4499,0],
-"de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[7,0,4499,3],
+"de/de0/structSpellClickInfo.html":[7,0,4498],
+"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[7,0,4498,1],
+"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[7,0,4498,2],
+"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[7,0,4498,0],
+"de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[7,0,4498,3],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html":[7,0,798,0],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#a2ea62154c0932e5cd34bd4b858829ffe":[7,0,798,0,0],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#acfaacee2a97212eb15056c1552b9e06b":[7,0,798,0,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX405 =
 "de/deb/LogCommon_8h.html":[8,0,0,0,0,9,10],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803":[8,0,0,0,0,9,10,0],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b":[8,0,0,0,0,9,10,0,0],
-"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2":[8,0,0,0,0,9,10,0,5]
+"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2":[8,0,0,0,0,9,10,0,5],
+"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3":[8,0,0,0,0,9,10,0,4],
+"de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46":[8,0,0,0,0,9,10,0,1]
 };

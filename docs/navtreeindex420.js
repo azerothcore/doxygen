@@ -1,7 +1,5 @@
 var NAVTREEINDEX420 =
 {
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ab0894d46cb2148828318903683a96a31":[8,0,0,0,1,3,5,9,2,4,16,23],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ac83a119b23ae87cccc7929c8c04c5d53":[8,0,0,0,1,3,5,9,2,4,16,16],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ad368067ec54a5e606d3cb580962d3d94":[8,0,0,0,1,3,5,9,2,4,16,7],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289adc26914d7abc7416416d0fae1cbf7074":[8,0,0,0,1,3,5,9,2,4,16,15],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289af37113ead37577563b27855f8327c5ce":[8,0,0,0,1,3,5,9,2,4,16,6],
@@ -160,10 +158,10 @@ var NAVTREEINDEX420 =
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a475d0bab96e226853368be3b68c5a2d3":[7,0,3951,0],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a91e75a059828a30d509fd22be19048f8":[7,0,3951,3],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[7,0,3951,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html":[7,0,4487],
-"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[7,0,4487,2],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[7,0,4487,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[7,0,4487,0],
+"df/d8c/classspell__yogg__saron__target__selectors.html":[7,0,4486],
+"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[7,0,4486,2],
+"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[7,0,4486,1],
+"df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[7,0,4486,0],
 "df/d8c/namespaceAcore_1_1Banner.html":[5,0,0,1],
 "df/d8c/namespaceAcore_1_1Banner.html#af6170962feecf3d126a80593221a357d":[5,0,0,1,0],
 "df/d8d/GlobalScript_8cpp.html":[8,0,0,0,1,2,38,0,53],
@@ -249,5 +247,7 @@ var NAVTREEINDEX420 =
 "df/d8e/classMMAP_1_1MMapMgr.html#ace3265c248ccf2a34ca4b7c43f294e43":[5,0,21,5,5],
 "df/d8e/classMMAP_1_1MMapMgr.html#aead5607e8f61161464c388c889ca9938":[7,0,6,5,3],
 "df/d8e/classMMAP_1_1MMapMgr.html#aead5607e8f61161464c388c889ca9938":[5,0,21,5,3],
-"df/d8e/classMMAP_1_1MMapMgr.html#affca526b45b63f9c827a52baa212f02c":[7,0,6,5,2]
+"df/d8e/classMMAP_1_1MMapMgr.html#affca526b45b63f9c827a52baa212f02c":[7,0,6,5,2],
+"df/d8e/classMMAP_1_1MMapMgr.html#affca526b45b63f9c827a52baa212f02c":[5,0,21,5,2],
+"df/d8e/classspell__mage__burnout__trigger.html":[7,0,3640]
 };

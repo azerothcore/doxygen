@@ -1,8 +1,5 @@
 var NAVTREEINDEX324 =
 {
-"dc/d10/classbg__commandscript.html#a911ccd6445b08c05069f7f196556c891":[7,0,368,1],
-"dc/d10/classbg__commandscript.html#a92347e90c2f78d0dfeb41eb033366319":[7,0,368,2],
-"dc/d10/structboss__high__nethermancer__zerevor.html":[7,0,550],
 "dc/d10/structboss__high__nethermancer__zerevor.html#a270961bd3af6ce65eebc79130f4e3d47":[7,0,550,1],
 "dc/d10/structboss__high__nethermancer__zerevor.html#a2d3ce1a6d972c0b58efe5aad31014c09":[7,0,550,0],
 "dc/d10/structboss__high__nethermancer__zerevor.html#a390f939ba01ee189fc55670eb4ff1a7e":[7,0,550,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX324 =
 "dc/d21/structResultIterator.html#aa5abd2b7fa1dc64ac1eb085521b27d6f":[7,0,2569,0],
 "dc/d21/structResultIterator.html#acaafbe30e2be9953852968b633d8237f":[7,0,2569,1],
 "dc/d21/structResultIterator.html#ad836e2cc7742bdb3b77dc8f6c19c4ad9":[7,0,2569,6],
-"dc/d21/structResultIterator.html#ae66f3f0e1fd5af21ff0854826fb37075":[7,0,2569,8]
+"dc/d21/structResultIterator.html#ae66f3f0e1fd5af21ff0854826fb37075":[7,0,2569,8],
+"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html":[7,0,13,7,2],
+"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html":[5,0,35,7,2],
+"dc/d22/classWorldPackets_1_1Instance_1_1InstanceResetFailed.html#a246b4ab5e9567b99ba83b2a3c9b6c039":[5,0,35,7,2,0]
 };

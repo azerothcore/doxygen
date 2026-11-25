@@ -1,7 +1,5 @@
 var NAVTREEINDEX361 =
 {
-"dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50a9645234e045b50d2be2e7b6e86f64e56":[8,0,0,0,1,3,5,4,2,5,13,1],
-"dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50ad1f3af0a14c45e1272c032c3788baf9e":[8,0,0,0,1,3,5,4,2,5,13,5],
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50adad060cb04f62e94f70c8f328a892ce4":[8,0,0,0,1,3,5,4,2,5,13,11],
 "dd/dac/pit__of__saron_8h.html#aeebf4d19fedc258431e9d89994f4be50aef6f419526930f9b795d415780af908f":[8,0,0,0,1,3,5,4,2,5,13,7],
 "dd/dac/pit__of__saron_8h.html#af360482189ba8786abecc5fb17f68020":[8,0,0,0,1,3,5,4,2,5,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX361 =
 "dd/db3/classReputationMgr.html#a70ef6efe36480b64a639a1a016ee6b6b":[7,0,2561,35],
 "dd/db3/classReputationMgr.html#a7237076b0c82406fdaf401bb8100f8b5":[7,0,2561,5],
 "dd/db3/classReputationMgr.html#a840258781abe2d2143525c7467c71258":[7,0,2561,2],
-"dd/db3/classReputationMgr.html#a89774eff29d5c2e692ac215fce6d138a":[7,0,2561,9]
+"dd/db3/classReputationMgr.html#a89774eff29d5c2e692ac215fce6d138a":[7,0,2561,9],
+"dd/db3/classReputationMgr.html#a89cc0607cce518e525c286a8693715c7":[7,0,2561,29],
+"dd/db3/classReputationMgr.html#a8d15ac9b059d6641df0a91ddfaf70d0b":[7,0,2561,27]
 };

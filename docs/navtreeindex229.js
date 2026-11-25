@@ -1,7 +1,5 @@
 var NAVTREEINDEX229 =
 {
-"d8/d45/classAuraStub.html#ab6b28446bdd9c33405e4cb9d8a275329":[7,0,301,36],
-"d8/d45/classAuraStub.html#aba9190e03016c9c5071f32270df2f6cd":[7,0,301,15],
 "d8/d45/classAuraStub.html#ac27c3e75a2d9b369a4d2bdd8e895970b":[7,0,301,42],
 "d8/d45/classAuraStub.html#ac3a1bd9e766b61bc8704ae052243687e":[7,0,301,44],
 "d8/d45/classAuraStub.html#ac4162740db23c4984dfa65352ec6ebc0":[7,0,301,28],
@@ -39,20 +37,20 @@ var NAVTREEINDEX229 =
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a1d434373ccc7dd54c5de7bc99487170a":[7,0,617,0,1],
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82":[7,0,617,0,2],
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a54081ebfc0df639b7e18b5f079802c92":[7,0,617,0,4],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,35,8,9],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[7,0,13,8,9],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,35,8,9],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[5,0,35,8,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[7,0,13,8,9,4],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[7,0,13,8,9,2],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[5,0,35,8,9,2],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[5,0,35,8,9,5],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[7,0,13,8,9,2],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[7,0,13,8,9,5],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[7,0,13,8,9,1],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[5,0,35,8,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,35,8,9,1],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[7,0,13,8,9,0],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[7,0,13,8,9,1],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[5,0,35,8,9,0],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[5,0,35,8,9,3],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[7,0,13,8,9,0],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[7,0,13,8,9,3],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[5,0,35,8,9,3],
 "d8/d48/classspell__rog__cold__blood.html":[7,0,4061],
 "d8/d48/classspell__rog__cold__blood.html#a24faa9992523bc87df7f5ebccfb42233":[7,0,4061,2],
 "d8/d48/classspell__rog__cold__blood.html#a2e564758a050827108955f73a08e72e7":[7,0,4061,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX229 =
 "d8/d4d/isle__of__conquest_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9389148b86e9e2a94baea80e990720df":[8,0,0,0,1,3,5,13,18,0],
 "d8/d4d/isle__of__conquest_8cpp.html#adaf2e7c1bbd2dc3cb5b21ae0b9e5ae7b":[8,0,0,0,1,3,5,13,16],
 "d8/d4d/isle__of__conquest_8cpp.html#adaf2e7c1bbd2dc3cb5b21ae0b9e5ae7ba419dd1febeae7200574b048c68dc104c":[8,0,0,0,1,3,5,13,16,0],
-"d8/d4d/isle__of__conquest_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,13,17]
+"d8/d4d/isle__of__conquest_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,13,17],
+"d8/d4d/isle__of__conquest_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a37c22b84c74c36e2af467a6bd1047f15":[8,0,0,0,1,3,5,13,17,1],
+"d8/d4d/isle__of__conquest_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad8d5fcaf7b3bfdd91e6337d222c1620f":[8,0,0,0,1,3,5,13,17,0]
 };

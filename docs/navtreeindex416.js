@@ -1,7 +1,5 @@
 var NAVTREEINDEX416 =
 {
-"df/d52/classAuraApplicationStub.html#a97383d45b0a015579a0f315474ecfcc5":[7,0,294,6],
-"df/d52/classAuraApplicationStub.html#aa4afd58cae5bcfd203d61a1044d72d57":[7,0,294,12],
 "df/d52/classAuraApplicationStub.html#ad4040b722b12e54aa630abfa78cdaabd":[7,0,294,4],
 "df/d52/classAuraApplicationStub.html#ad74cccf28b56c1fe88988df229319dae":[7,0,294,2],
 "df/d52/classAuraApplicationStub.html#ada36445f6f090c6652e0567a5333bb53":[7,0,294,1],
@@ -19,9 +17,9 @@ var NAVTREEINDEX416 =
 "df/d52/structmap__fileheader.html#abe722f653ba057fbba84401acbaffbfa":[7,0,1525,10],
 "df/d52/structmap__fileheader.html#ac62deafcc7b435caf4a0f6aafd3d85be":[7,0,1525,7],
 "df/d52/structmap__fileheader.html#adfbbb622974b7942f47dd16d2300246f":[7,0,1525,1],
-"df/d53/classThreatReferenceImpl.html":[7,0,4611],
-"df/d53/classThreatReferenceImpl.html#a500806ed499b69bcae1d9a05071dea2c":[7,0,4611,1],
-"df/d53/classThreatReferenceImpl.html#ae69492bf301cc65e2554ac6d46039086":[7,0,4611,0],
+"df/d53/classThreatReferenceImpl.html":[7,0,4610],
+"df/d53/classThreatReferenceImpl.html#a500806ed499b69bcae1d9a05071dea2c":[7,0,4610,1],
+"df/d53/classThreatReferenceImpl.html#ae69492bf301cc65e2554ac6d46039086":[7,0,4610,0],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html":[5,0,0,7,0],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a0803de4bbc9edad4f5bb2afc3c242dca":[5,0,0,7,0,11],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a321da5d63921d41c561a1460929ac730":[5,0,0,7,0,13],
@@ -69,10 +67,10 @@ var NAVTREEINDEX416 =
 "df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#aa8578390d7d9379328c02ceb209e94ed":[7,0,3736,2],
 "df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#ab89ab441f022ee017548ba49d128b92e":[7,0,3736,1],
 "df/d55/classspell__mother__shahraz__fatal__attraction__dummy.html#ad5d695978794d796eb7139fce1530d57":[7,0,3736,4],
-"df/d55/classspell__sindragosa__icy__grip__jump.html":[7,0,4196],
-"df/d55/classspell__sindragosa__icy__grip__jump.html#a9472211ffdaa33802099b22b2a721645":[7,0,4196,1],
-"df/d55/classspell__sindragosa__icy__grip__jump.html#ab868b10372ff2ef401d19b126acf00c6":[7,0,4196,2],
-"df/d55/classspell__sindragosa__icy__grip__jump.html#afa540e8c748ca3083667528e2449bc65":[7,0,4196,0],
+"df/d55/classspell__sindragosa__icy__grip__jump.html":[7,0,4195],
+"df/d55/classspell__sindragosa__icy__grip__jump.html#a9472211ffdaa33802099b22b2a721645":[7,0,4195,1],
+"df/d55/classspell__sindragosa__icy__grip__jump.html#ab868b10372ff2ef401d19b126acf00c6":[7,0,4195,2],
+"df/d55/classspell__sindragosa__icy__grip__jump.html#afa540e8c748ca3083667528e2449bc65":[7,0,4195,0],
 "df/d56/classAreaBoundary.html":[7,0,167],
 "df/d56/classAreaBoundary.html#a1d407f77ce0388263fc0ee6224734213":[7,0,167,4],
 "df/d56/classAreaBoundary.html#a6050e91b3d485e75186a2df9a56e8d38":[7,0,167,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX416 =
 "df/d5c/classnpc__commandscript.html#a0b63867896d7979cd73016b499d2b0b4":[7,0,1742,3],
 "df/d5c/classnpc__commandscript.html#a0bad5809380706d0569a3c0235f14af2":[7,0,1742,15],
 "df/d5c/classnpc__commandscript.html#a0d2565ece36041bc6c07d1ccdbfdc7fa":[7,0,1742,5],
-"df/d5c/classnpc__commandscript.html#a14ae3d6ba855b81e0a31aa700dbe09d5":[7,0,1742,25]
+"df/d5c/classnpc__commandscript.html#a14ae3d6ba855b81e0a31aa700dbe09d5":[7,0,1742,25],
+"df/d5c/classnpc__commandscript.html#a16fe889389b58c80f75a96f522440460":[7,0,1742,34],
+"df/d5c/classnpc__commandscript.html#a1b7bbdb0a4408030da97e233cd4bb46c":[7,0,1742,35]
 };
