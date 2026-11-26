@@ -2,6 +2,8 @@ var PetDefines_8h =
 [
     [ "PetStable", "d6/d8c/classPetStable.html", "d6/d8c/classPetStable" ],
     [ "PetStable::PetInfo", "d8/d99/structPetStable_1_1PetInfo.html", "d8/d99/structPetStable_1_1PetInfo" ],
+    [ "PetAutocastState", "d7/df1/structPetAutocastState.html", "d7/df1/structPetAutocastState" ],
+    [ "PetAutocastPreferences", "dc/d4d/classPetAutocastPreferences.html", "dc/d4d/classPetAutocastPreferences" ],
     [ "ActionFeedback", "d6/d9a/PetDefines_8h.html#aeb5551b3f37a2573e008d2d5d865359d", [
       [ "FEEDBACK_NONE", "d6/d9a/PetDefines_8h.html#aeb5551b3f37a2573e008d2d5d865359dac70a05f4ef81ef0dd1eb55ab74779fba", null ],
       [ "FEEDBACK_PET_DEAD", "d6/d9a/PetDefines_8h.html#aeb5551b3f37a2573e008d2d5d865359da482a5e311921dbd1dfab7521309f18c1", null ],

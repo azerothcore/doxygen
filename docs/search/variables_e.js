@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['n_0',['n',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a5e1619df2fd1dd9fa5ebba195c7adf2a',1,'Acore::Crypto::SRP6::N'],['../d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245',1,'Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::N'],['../dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63',1,'tf_tower_world_state::n']]],
+  ['n_0',['n',['../d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aa2c2048ce2e64b2398eeea3f0d789245',1,'Acore::Impl::ChatCommands::ArgInfo&lt; Acore::ChatCommands::Variant&lt; Ts... &gt; &gt;::N'],['../dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63',1,'tf_tower_world_state::n'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a5e1619df2fd1dd9fa5ebba195c7adf2a',1,'Acore::Crypto::SRP6::N']]],
   ['na_5fbuff_5fzone_1',['NA_BUFF_ZONE',['../df/d9a/OutdoorPvPNA_8h.html#ae9287f13e383331fe53c5a514989ca99',1,'OutdoorPvPNA.h']]],
   ['na_5fcredit_5fmarker_2',['NA_CREDIT_MARKER',['../df/d9a/OutdoorPvPNA_8h.html#a8c04516b1462a78d64563849fe3136a1',1,'OutdoorPvPNA.h']]],
   ['na_5fguard_5fcheck_5ftime_3',['NA_GUARD_CHECK_TIME',['../df/d9a/OutdoorPvPNA_8h.html#a0f69597d7fce786cae5202cb06be06cf',1,'OutdoorPvPNA.h']]],

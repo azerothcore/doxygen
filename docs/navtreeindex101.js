@@ -1,5 +1,10 @@
 var NAVTREEINDEX101 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8c796a1fb1834da6baccd0e66c7ce7b9":[8,0,0,0,1,2,49,7,0,111],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8ce7d01220deb5fce5a946c0a9820dfd":[8,0,0,0,1,2,49,7,0,131],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8e0072eb4563260ba047c896ed6e13d5":[8,0,0,0,1,2,49,7,0,272],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8e6e62eb1dbaf577f193ee86c76ed31e":[8,0,0,0,1,2,49,7,0,423],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8ed2b4c2f4ac25d2ff20259116b9b7d2":[8,0,0,0,1,2,49,7,0,36],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8f98d3f2bda474d465c3a5c17a89955e":[8,0,0,0,1,2,49,7,0,141],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba912eaf62827621aba1f1b59ec4b4871d":[8,0,0,0,1,2,49,7,0,241],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba91db98bf30a24f568cce83ebd40e3be0":[8,0,0,0,1,2,49,7,0,32],
@@ -222,11 +227,11 @@ var NAVTREEINDEX101 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafeb95eb352794e22f94e4e90db422a29":[8,0,0,0,1,2,49,7,0,330],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[8,0,0,0,1,2,49,7,0,113],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafff6cc7a5b2a1da25fd15f8fb3df2380":[8,0,0,0,1,2,49,7,0,204],
-"d3/d46/classspell__mage__mirror__image.html":[7,0,3669],
-"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[7,0,3669,0],
-"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[7,0,3669,2],
-"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[7,0,3669,1],
-"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[7,0,3669,3],
+"d3/d46/classspell__mage__mirror__image.html":[7,0,3671],
+"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[7,0,3671,0],
+"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[7,0,3671,2],
+"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[7,0,3671,1],
+"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[7,0,3671,3],
 "d3/d46/trial__of__the__champion_8cpp.html":[8,0,0,0,1,3,5,2,0,4],
 "d3/d46/trial__of__the__champion_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[8,0,0,0,1,3,5,2,0,4,2],
 "d3/d46/trial__of__the__champion_8cpp.html#ae9c2d09ae83ee52e37980b134d67f164":[8,0,0,0,1,3,5,2,0,4,1],
@@ -242,12 +247,7 @@ var NAVTREEINDEX101 =
 "d3/d46/trial__of__the__champion_8cpp.html#ae9c2d09ae83ee52e37980b134d67f164af1834042b38498aba7a5f96a1ad45c8a":[8,0,0,0,1,3,5,2,0,4,1,3],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,21,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[7,0,6,6],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,21,6,0],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[7,0,6,6,0],
-"d3/d48/classgo__tele__to__violet__stand.html":[7,0,1229],
-"d3/d48/classgo__tele__to__violet__stand.html#a4d075584f065501a2c3be9ef82387f43":[7,0,1229,1],
-"d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[7,0,1229,0],
-"d3/d48/structBoundsTrait_3_01VMAP_1_1ModelSpawn_01_5_01_4.html":[7,0,836],
-"d3/d48/structBoundsTrait_3_01VMAP_1_1ModelSpawn_01_5_01_4.html#a04d9251d9a67affeece303853c2c8a84":[7,0,836,0],
-"d3/d49/Appender_8cpp.html":[8,0,0,0,0,9,0]
+"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,21,6,0],
+"d3/d48/classgo__tele__to__violet__stand.html":[7,0,1229]
 };

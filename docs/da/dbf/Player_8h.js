@@ -398,6 +398,7 @@ var Player_8h =
       [ "PLAYER_LOGIN_QUERY_LOAD_CHARACTER_SETTINGS", "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642a1abb0ff4a0fbc5f54a87fb01ec162ff1", null ],
       [ "PLAYER_LOGIN_QUERY_LOAD_PET_SLOTS", "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642a6796b2b4b6ce39c865e4a545445926f7", null ],
       [ "PLAYER_LOGIN_QUERY_LOAD_OFFLINE_ACHIEVEMENTS_UPDATES", "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642aa7fa236460753ca152d546a9397f89e2", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_PET_AUTOCAST", "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642aac514c4314764e43b5016f5032472e75", null ],
       [ "MAX_PLAYER_LOGIN_QUERY", "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642a13e3b1b23530ab3ae516dd6b39df0164", null ]
     ] ],
     [ "PlayerMovementType", "da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91", [

@@ -4,6 +4,8 @@ var boss__razuvious_8cpp =
     [ "boss_razuvious::boss_razuviousAI", "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html", "dc/d0a/structboss__razuvious_1_1boss__razuviousAI" ],
     [ "boss_razuvious_minion", "dc/da0/classboss__razuvious__minion.html", "dc/da0/classboss__razuvious__minion" ],
     [ "boss_razuvious_minion::boss_razuvious_minionAI", "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html", "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI" ],
+    [ "spell_razuvious_force_obedience", "da/dbb/classspell__razuvious__force__obedience.html", "da/dbb/classspell__razuvious__force__obedience" ],
+    [ "spell_razuvious_force_obedience_aura", "df/df4/classspell__razuvious__force__obedience__aura.html", "df/df4/classspell__razuvious__force__obedience__aura" ],
     [ "Actions", "de/d5b/boss__razuvious_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_FACE_ME", "de/d5b/boss__razuvious_8cpp.html#a250372292659bed7ae290d8621f88ccfae52e734f84a20910f9015362a49ffdfa", null ],
       [ "ACTION_TALK", "de/d5b/boss__razuvious_8cpp.html#a250372292659bed7ae290d8621f88ccfac1373e35c19bc9afe8a7239b4e2e6830", null ],
@@ -22,7 +24,8 @@ var boss__razuvious_8cpp =
     ] ],
     [ "NPCs", "de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_DEATH_KNIGHT_UNDERSTUDY", "de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5caa7e8eb68e5742a1cd819e9998a6b08bd", null ],
-      [ "NPC_TARGET_DUMMY", "de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca46bb06b240b458c1122572a9032e7fba", null ]
+      [ "NPC_TARGET_DUMMY", "de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca46bb06b240b458c1122572a9032e7fba", null ],
+      [ "NPC_OBEDIENCE_CRYSTAL", "de/d5b/boss__razuvious_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca8e60fe779f0d1e0b0f84940a7fa6c9e9", null ]
     ] ],
     [ "Says", "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_AGGRO", "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe", null ],
@@ -38,7 +41,8 @@ var boss__razuvious_8cpp =
       [ "SPELL_DISRUPTING_SHOUT", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca71a114ba1872e143a0487be9ab6495d5", null ],
       [ "SPELL_JAGGED_KNIFE", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca235a0027b0c4aea5f9516f8cf998327f", null ],
       [ "SPELL_HOPELESS", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca11f59134b19776a777bda031d371c938", null ],
-      [ "SPELL_TAUNT", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca672fdbc1701385758a8b76f2301a7318", null ]
+      [ "SPELL_TAUNT", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca672fdbc1701385758a8b76f2301a7318", null ],
+      [ "SPELL_OBEDIENCE_CHAINS", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298cab08ca53d35b237872cdb82bebf50e86e", null ]
     ] ],
     [ "AddSC_boss_razuvious", "de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227", null ]
 ];

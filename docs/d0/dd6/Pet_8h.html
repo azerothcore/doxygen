@@ -109,11 +109,13 @@ $(document).ready(function(){initNavTree('d0/dd6/Pet_8h.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
+<a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">Pet.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">CharmInfo.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseEnvFwd.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">PetDefines.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code><br />
 </div>
@@ -132,6 +134,17 @@ Typedefs</h2></td></tr>
 <tr class="separator:a5b33058abef8c309621a9029df331c0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a85baf40bd776b1c20b66ba7ad78e0356" id="r_a85baf40bd776b1c20b66ba7ad78e0356"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd6/Pet_8h.html#a85baf40bd776b1c20b66ba7ad78e0356">AutoSpellList</a></td></tr>
 <tr class="separator:a85baf40bd776b1c20b66ba7ad78e0356"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ad5cc027e1781ce4a547a0032e339cd2f" id="r_ad5cc027e1781ce4a547a0032e339cd2f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd6/Pet_8h.html#ad5cc027e1781ce4a547a0032e339cd2f">SummonSavesPetAutocast</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *summon)</td></tr>
+<tr class="memdesc:ad5cc027e1781ce4a547a0032e339cd2f"><td class="mdescLeft">&#160;</td><td class="mdescRight">True when the summon's SummonProperties row carries SUMMON_PROP_FLAG_SAVE_PET_AUTOCAST.  <br /></td></tr>
+<tr class="separator:ad5cc027e1781ce4a547a0032e339cd2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af825622d1705f061dddc13a54e9c12da" id="r_af825622d1705f061dddc13a54e9c12da"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd6/Pet_8h.html#af825622d1705f061dddc13a54e9c12da">ApplySavedPetAutocast</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *owner, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> *summon)</td></tr>
+<tr class="memdesc:af825622d1705f061dddc13a54e9c12da"><td class="mdescLeft">&#160;</td><td class="mdescRight">Overwrites the summon's default autocast state with the one its owner last chose.  <br /></td></tr>
+<tr class="separator:af825622d1705f061dddc13a54e9c12da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3e07849393ee4ac7cfa8cb5d8c9ac9b" id="r_ab3e07849393ee4ac7cfa8cb5d8c9ac9b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd6/Pet_8h.html#ab3e07849393ee4ac7cfa8cb5d8c9ac9b">SavePetAutocast</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *owner, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> *summon)</td></tr>
+<tr class="separator:ab3e07849393ee4ac7cfa8cb5d8c9ac9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
@@ -166,6 +179,214 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="af825622d1705f061dddc13a54e9c12da" name="af825622d1705f061dddc13a54e9c12da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af825622d1705f061dddc13a54e9c12da">&#9670;&#160;</a></span>ApplySavedPetAutocast()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ApplySavedPetAutocast </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>owner</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>summon</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Overwrites the summon's default autocast state with the one its owner last chose. </p>
+<div class="fragment"><div class="line"><span class="lineno"> 2592</span>{</div>
+<div class="line"><span class="lineno"> 2593</span>    <span class="keywordflow">if</span> (!owner || !summon || !<a class="code hl_function" href="../../d3/d69/Pet_8cpp.html#ad5cc027e1781ce4a547a0032e339cd2f">SummonSavesPetAutocast</a>(summon))</div>
+<div class="line"><span class="lineno"> 2594</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2595</span> </div>
+<div class="line"><span class="lineno"> 2596</span>    std::vector&lt;PetAutocastState&gt; <span class="keyword">const</span>&amp; states = owner-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a1f5745e49e65255e8987b178ac2e4045">GetPetAutocastPreferences</a>().<a class="code hl_function" href="../../dc/d4d/classPetAutocastPreferences.html#a74ac39320f7054d9ba4fee4823cd8e19">GetStates</a>();</div>
+<div class="line"><span class="lineno"> 2597</span>    <a class="code hl_struct" href="../../dd/d80/structCharmInfo.html">CharmInfo</a>* charmInfo = summon-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a66f99d0d7cdf9c7013788fe6265a5c3b">GetCharmInfo</a>();</div>
+<div class="line"><span class="lineno"> 2598</span>    <span class="keywordflow">if</span> (states.empty() || !charmInfo)</div>
+<div class="line"><span class="lineno"> 2599</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2600</span> </div>
+<div class="line"><span class="lineno"> 2601</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../d7/df1/structPetAutocastState.html">PetAutocastState</a> <span class="keyword">const</span>&amp; state : states)</div>
+<div class="line"><span class="lineno"> 2602</span>    {</div>
+<div class="line"><span class="lineno"> 2603</span>        <span class="keywordflow">if</span> (state.Entry != summon-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
+<div class="line"><span class="lineno"> 2604</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 2605</span> </div>
+<div class="line"><span class="lineno"> 2606</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(state.Spell);</div>
+<div class="line"><span class="lineno"> 2607</span>        <span class="keywordflow">if</span> (!spellInfo)</div>
+<div class="line"><span class="lineno"> 2608</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 2609</span> </div>
+<div class="line"><span class="lineno"> 2610</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/d14/classPet.html">Pet</a>* pet = summon-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a16c186b19f846fbce1252427943caefc">ToPet</a>())</div>
+<div class="line"><span class="lineno"> 2611</span>            pet-&gt;ToggleAutocast(spellInfo, state.Autocast);                 <span class="comment">// keeps m_autospells and m_spells in sync</span></div>
+<div class="line"><span class="lineno"> 2612</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 2613</span>            charmInfo-&gt;<a class="code hl_function" href="../../dd/d80/structCharmInfo.html#acbe8fa42ba765bd480589fc3429ddbc0">ToggleCreatureAutocast</a>(spellInfo, state.Autocast);   <span class="comment">// drives the guardian&#39;s autocast</span></div>
+<div class="line"><span class="lineno"> 2614</span> </div>
+<div class="line"><span class="lineno"> 2615</span>        charmInfo-&gt;<a class="code hl_function" href="../../dd/d80/structCharmInfo.html#aa4d8fb58ad411b58e00f017e294c18e0">SetSpellAutocast</a>(spellInfo, state.Autocast);             <span class="comment">// the action bar the client displays</span></div>
+<div class="line"><span class="lineno"> 2616</span>    }</div>
+<div class="line"><span class="lineno"> 2617</span>}</div>
+<div class="ttc" id="aPet_8cpp_html_ad5cc027e1781ce4a547a0032e339cd2f"><div class="ttname"><a href="../../d3/d69/Pet_8cpp.html#ad5cc027e1781ce4a547a0032e339cd2f">SummonSavesPetAutocast</a></div><div class="ttdeci">bool SummonSavesPetAutocast(Unit const *summon)</div><div class="ttdoc">True when the summon's SummonProperties row carries SUMMON_PROP_FLAG_SAVE_PET_AUTOCAST.</div><div class="ttdef"><b>Definition</b> Pet.cpp:2565</div></div>
+<div class="ttc" id="aSpellMgr_8h_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition</b> SpellMgr.h:851</div></div>
+<div class="ttc" id="aclassObject_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition</b> Object.h:123</div></div>
+<div class="ttc" id="aclassPetAutocastPreferences_html_a74ac39320f7054d9ba4fee4823cd8e19"><div class="ttname"><a href="../../dc/d4d/classPetAutocastPreferences.html#a74ac39320f7054d9ba4fee4823cd8e19">PetAutocastPreferences::GetStates</a></div><div class="ttdeci">std::vector&lt; PetAutocastState &gt; const &amp; GetStates() const</div><div class="ttdoc">Every state remembered for the character, in no particular order: one character owns a handful of the...</div><div class="ttdef"><b>Definition</b> PetDefines.h:268</div></div>
+<div class="ttc" id="aclassPet_html"><div class="ttname"><a href="../../df/d14/classPet.html">Pet</a></div><div class="ttdef"><b>Definition</b> Pet.h:52</div></div>
+<div class="ttc" id="aclassPlayer_html_a1f5745e49e65255e8987b178ac2e4045"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a1f5745e49e65255e8987b178ac2e4045">Player::GetPetAutocastPreferences</a></div><div class="ttdeci">PetAutocastPreferences &amp; GetPetAutocastPreferences()</div><div class="ttdef"><b>Definition</b> Player.h:1231</div></div>
+<div class="ttc" id="aclassSpellInfo_html"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html">SpellInfo</a></div><div class="ttdef"><b>Definition</b> SpellInfo.h:340</div></div>
+<div class="ttc" id="aclassUnit_html_a16c186b19f846fbce1252427943caefc"><div class="ttname"><a href="../../df/dd9/classUnit.html#a16c186b19f846fbce1252427943caefc">Unit::ToPet</a></div><div class="ttdeci">Pet * ToPet()</div><div class="ttdef"><b>Definition</b> Unit.h:735</div></div>
+<div class="ttc" id="aclassUnit_html_a66f99d0d7cdf9c7013788fe6265a5c3b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a66f99d0d7cdf9c7013788fe6265a5c3b">Unit::GetCharmInfo</a></div><div class="ttdeci">CharmInfo * GetCharmInfo()</div><div class="ttdef"><b>Definition</b> Unit.h:1298</div></div>
+<div class="ttc" id="astructCharmInfo_html"><div class="ttname"><a href="../../dd/d80/structCharmInfo.html">CharmInfo</a></div><div class="ttdef"><b>Definition</b> CharmInfo.h:127</div></div>
+<div class="ttc" id="astructCharmInfo_html_aa4d8fb58ad411b58e00f017e294c18e0"><div class="ttname"><a href="../../dd/d80/structCharmInfo.html#aa4d8fb58ad411b58e00f017e294c18e0">CharmInfo::SetSpellAutocast</a></div><div class="ttdeci">void SetSpellAutocast(SpellInfo const *spellInfo, bool state)</div><div class="ttdef"><b>Definition</b> CharmInfo.cpp:281</div></div>
+<div class="ttc" id="astructCharmInfo_html_acbe8fa42ba765bd480589fc3429ddbc0"><div class="ttname"><a href="../../dd/d80/structCharmInfo.html#acbe8fa42ba765bd480589fc3429ddbc0">CharmInfo::ToggleCreatureAutocast</a></div><div class="ttdeci">void ToggleCreatureAutocast(SpellInfo const *spellInfo, bool apply)</div><div class="ttdef"><b>Definition</b> CharmInfo.cpp:220</div></div>
+<div class="ttc" id="astructPetAutocastState_html"><div class="ttname"><a href="../../d7/df1/structPetAutocastState.html">PetAutocastState</a></div><div class="ttdoc">The autocast on/off state a player set on one spell of one temporary pet.</div><div class="ttdef"><b>Definition</b> PetDefines.h:250</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01298">Unit::GetCharmInfo()</a>, <a class="el" href="../../#l00123">Object::GetEntry()</a>, <a class="el" href="../../#l01231">Player::GetPetAutocastPreferences()</a>, <a class="el" href="../../#l00268">PetAutocastPreferences::GetStates()</a>, <a class="el" href="../../#l00281">CharmInfo::SetSpellAutocast()</a>, <a class="el" href="../../#l00851">sSpellMgr</a>, <a class="el" href="../../#l02565">SummonSavesPetAutocast()</a>, <a class="el" href="../../#l00220">CharmInfo::ToggleCreatureAutocast()</a>, and <a class="el" href="../../#l00735">Unit::ToPet()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00935">spell_mage_summon_water_elemental::HandleDummy()</a>, and <a class="el" href="../../#l00439">Guardian::InitStats()</a>.</p>
+
+</div>
+</div>
+<a id="ab3e07849393ee4ac7cfa8cb5d8c9ac9b" name="ab3e07849393ee4ac7cfa8cb5d8c9ac9b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab3e07849393ee4ac7cfa8cb5d8c9ac9b">&#9670;&#160;</a></span>SavePetAutocast()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void SavePetAutocast </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>owner</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>summon</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Records the autocast state the summon currently has, so the next summon of the same creature restores it. Called before the summon leaves the world: the state the player chose has to outlive the summon itself. </p>
+<div class="fragment"><div class="line"><span class="lineno"> 2620</span>{</div>
+<div class="line"><span class="lineno"> 2621</span>    <span class="keywordflow">if</span> (!owner || !summon || !<a class="code hl_function" href="../../d3/d69/Pet_8cpp.html#ad5cc027e1781ce4a547a0032e339cd2f">SummonSavesPetAutocast</a>(summon))</div>
+<div class="line"><span class="lineno"> 2622</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2623</span> </div>
+<div class="line"><span class="lineno"> 2624</span>    <span class="comment">// a Pet keeps its state in pet_spell.active, which its own row already saves</span></div>
+<div class="line"><span class="lineno"> 2625</span>    <span class="keywordflow">if</span> (summon-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a16c186b19f846fbce1252427943caefc">ToPet</a>())</div>
+<div class="line"><span class="lineno"> 2626</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2627</span> </div>
+<div class="line"><span class="lineno"> 2628</span>    <a class="code hl_struct" href="../../dd/d80/structCharmInfo.html">CharmInfo</a>* charmInfo = summon-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a66f99d0d7cdf9c7013788fe6265a5c3b">GetCharmInfo</a>();</div>
+<div class="line"><span class="lineno"> 2629</span>    <span class="keywordflow">if</span> (!charmInfo)</div>
+<div class="line"><span class="lineno"> 2630</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2631</span> </div>
+<div class="line"><span class="lineno"> 2632</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../da/d1e/CharmInfo_8h.html#a05307279d313f131c83ace9bf30d5722">MAX_SPELL_CHARM</a>; ++i)</div>
+<div class="line"><span class="lineno"> 2633</span>    {</div>
+<div class="line"><span class="lineno"> 2634</span>        <a class="code hl_struct" href="../../dd/d00/structUnitActionBarEntry.html">CharmSpellInfo</a> <span class="keyword">const</span>* charmSpell = charmInfo-&gt;<a class="code hl_function" href="../../dd/d80/structCharmInfo.html#a66a0a03b7dff00d97c091b49de5e5292">GetCharmSpell</a>(i);</div>
+<div class="line"><span class="lineno"> 2635</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = charmSpell-&gt;<a class="code hl_function" href="../../dd/d00/structUnitActionBarEntry.html#afd77e2f64ec856059759d05ddf77876e">GetAction</a>();</div>
+<div class="line"><span class="lineno"> 2636</span>        <span class="keywordflow">if</span> (!spellId)</div>
+<div class="line"><span class="lineno"> 2637</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 2638</span> </div>
+<div class="line"><span class="lineno"> 2639</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(spellId);</div>
+<div class="line"><span class="lineno"> 2640</span>        <span class="keywordflow">if</span> (!spellInfo || !spellInfo-&gt;<a class="code hl_function" href="../../d2/de9/classSpellInfo.html#a243b5bc4eb72b1c64695f8b10be3801c">IsAutocastable</a>())</div>
+<div class="line"><span class="lineno"> 2641</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 2642</span> </div>
+<div class="line"><span class="lineno"> 2643</span>        owner-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a1f5745e49e65255e8987b178ac2e4045">GetPetAutocastPreferences</a>().<a class="code hl_function" href="../../dc/d4d/classPetAutocastPreferences.html#a2bfdb8462333e5c0d2e216fcd66f3e9e">Set</a>(owner-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>(), summon-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>(), spellId,</div>
+<div class="line"><span class="lineno"> 2644</span>                                               charmSpell-&gt;<a class="code hl_function" href="../../dd/d00/structUnitActionBarEntry.html#a0615e6ad9cf5523d6dc85bd529e65f32">GetType</a>() == <a class="code hl_enumvalue" href="../../da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952">ACT_ENABLED</a>);</div>
+<div class="line"><span class="lineno"> 2645</span>    }</div>
+<div class="line"><span class="lineno"> 2646</span>}</div>
+<div class="ttc" id="aCharmInfo_8h_html_a05307279d313f131c83ace9bf30d5722"><div class="ttname"><a href="../../da/d1e/CharmInfo_8h.html#a05307279d313f131c83ace9bf30d5722">MAX_SPELL_CHARM</a></div><div class="ttdeci">#define MAX_SPELL_CHARM</div><div class="ttdef"><b>Definition</b> CharmInfo.h:24</div></div>
+<div class="ttc" id="aCharmInfo_8h_html_aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952"><div class="ttname"><a href="../../da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952">ACT_ENABLED</a></div><div class="ttdeci">@ ACT_ENABLED</div><div class="ttdef"><b>Definition</b> CharmInfo.h:63</div></div>
+<div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
+<div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
+<div class="ttc" id="aclassObjectGuid_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:149</div></div>
+<div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:120</div></div>
+<div class="ttc" id="aclassPetAutocastPreferences_html_a2bfdb8462333e5c0d2e216fcd66f3e9e"><div class="ttname"><a href="../../dc/d4d/classPetAutocastPreferences.html#a2bfdb8462333e5c0d2e216fcd66f3e9e">PetAutocastPreferences::Set</a></div><div class="ttdeci">void Set(ObjectGuid::LowType ownerGuid, uint32 entry, uint32 spell, bool autocast)</div><div class="ttdoc">Remembers the state and writes it back to the characters database.</div><div class="ttdef"><b>Definition</b> Pet.cpp:2543</div></div>
+<div class="ttc" id="aclassSpellInfo_html_a243b5bc4eb72b1c64695f8b10be3801c"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#a243b5bc4eb72b1c64695f8b10be3801c">SpellInfo::IsAutocastable</a></div><div class="ttdeci">bool IsAutocastable() const</div><div class="ttdef"><b>Definition</b> SpellInfo.cpp:1148</div></div>
+<div class="ttc" id="astructCharmInfo_html_a66a0a03b7dff00d97c091b49de5e5292"><div class="ttname"><a href="../../dd/d80/structCharmInfo.html#a66a0a03b7dff00d97c091b49de5e5292">CharmInfo::GetCharmSpell</a></div><div class="ttdeci">CharmSpellInfo * GetCharmSpell(uint8 index)</div><div class="ttdef"><b>Definition</b> CharmInfo.h:158</div></div>
+<div class="ttc" id="astructUnitActionBarEntry_html"><div class="ttname"><a href="../../dd/d00/structUnitActionBarEntry.html">UnitActionBarEntry</a></div><div class="ttdef"><b>Definition</b> CharmInfo.h:95</div></div>
+<div class="ttc" id="astructUnitActionBarEntry_html_a0615e6ad9cf5523d6dc85bd529e65f32"><div class="ttname"><a href="../../dd/d00/structUnitActionBarEntry.html#a0615e6ad9cf5523d6dc85bd529e65f32">UnitActionBarEntry::GetType</a></div><div class="ttdeci">ActiveStates GetType() const</div><div class="ttdef"><b>Definition</b> CharmInfo.h:101</div></div>
+<div class="ttc" id="astructUnitActionBarEntry_html_afd77e2f64ec856059759d05ddf77876e"><div class="ttname"><a href="../../dd/d00/structUnitActionBarEntry.html#afd77e2f64ec856059759d05ddf77876e">UnitActionBarEntry::GetAction</a></div><div class="ttdeci">uint32 GetAction() const</div><div class="ttdef"><b>Definition</b> CharmInfo.h:102</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00063">ACT_ENABLED</a>, <a class="el" href="../../#l00102">UnitActionBarEntry::GetAction()</a>, <a class="el" href="../../#l01298">Unit::GetCharmInfo()</a>, <a class="el" href="../../#l00158">CharmInfo::GetCharmSpell()</a>, <a class="el" href="../../#l00149">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00123">Object::GetEntry()</a>, <a class="el" href="../../#l00120">Object::GetGUID()</a>, <a class="el" href="../../#l01231">Player::GetPetAutocastPreferences()</a>, <a class="el" href="../../#l00101">UnitActionBarEntry::GetType()</a>, <a class="el" href="../../#l01148">SpellInfo::IsAutocastable()</a>, <a class="el" href="../../#l00024">MAX_SPELL_CHARM</a>, <a class="el" href="../../#l02543">PetAutocastPreferences::Set()</a>, <a class="el" href="../../#l00851">sSpellMgr</a>, <a class="el" href="../../#l02565">SummonSavesPetAutocast()</a>, and <a class="el" href="../../#l00735">Unit::ToPet()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00379">Minion::RemoveFromWorld()</a>.</p>
+
+</div>
+</div>
+<a id="ad5cc027e1781ce4a547a0032e339cd2f" name="ad5cc027e1781ce4a547a0032e339cd2f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5cc027e1781ce4a547a0032e339cd2f">&#9670;&#160;</a></span>SummonSavesPetAutocast()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool SummonSavesPetAutocast </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *&#160;</td>
+          <td class="paramname"><em>summon</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>True when the summon's SummonProperties row carries SUMMON_PROP_FLAG_SAVE_PET_AUTOCAST. </p>
+<div class="fragment"><div class="line"><span class="lineno"> 2566</span>{</div>
+<div class="line"><span class="lineno"> 2567</span>    <span class="comment">// a guardian keeps the SummonProperties row it was created with</span></div>
+<div class="line"><span class="lineno"> 2568</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d88/classTempSummon.html">TempSummon</a> <span class="keyword">const</span>* tempSummon = summon-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">ToTempSummon</a>())</div>
+<div class="line"><span class="lineno"> 2569</span>        <span class="keywordflow">if</span> (tempSummon-&gt;m_Properties)</div>
+<div class="line"><span class="lineno"> 2570</span>            <span class="keywordflow">return</span> (tempSummon-&gt;m_Properties-&gt;Flags &amp; <a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a3cd8070d9b609b098c34c22d9120f2afaee56f51bbdd48bc9a935b4eea11a07fb">SUMMON_PROP_FLAG_SAVE_PET_AUTOCAST</a>) != 0;</div>
+<div class="line"><span class="lineno"> 2571</span> </div>
+<div class="line"><span class="lineno"> 2572</span>    <span class="comment">// a Pet is built with no properties: fall back to the summon spell it records</span></div>
+<div class="line"><span class="lineno"> 2573</span>    <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* summonSpell = <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(summon-&gt;GetUInt32Value(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af6ab95e21ce3e6cd8f5f7ec4a3c5d24a">UNIT_CREATED_BY_SPELL</a>));</div>
+<div class="line"><span class="lineno"> 2574</span>    <span class="keywordflow">if</span> (!summonSpell)</div>
+<div class="line"><span class="lineno"> 2575</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2576</span> </div>
+<div class="line"><span class="lineno"> 2577</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#ac5733f5b58bf8a23a1919a005b5ec895">MAX_SPELL_EFFECTS</a>; ++i)</div>
+<div class="line"><span class="lineno"> 2578</span>    {</div>
+<div class="line"><span class="lineno"> 2579</span>        <a class="code hl_class" href="../../da/db9/classSpellEffectInfo.html">SpellEffectInfo</a> <span class="keyword">const</span>&amp; effect = summonSpell-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[i];</div>
+<div class="line"><span class="lineno"> 2580</span>        <span class="keywordflow">if</span> (!effect.<a class="code hl_function" href="../../da/db9/classSpellEffectInfo.html#a8fdc256219d8581c07b357317fdbf9de">IsEffect</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97aa7be476935ce81144c2b383b7af7bf47">SPELL_EFFECT_SUMMON</a>) &amp;&amp; !effect.<a class="code hl_function" href="../../da/db9/classSpellEffectInfo.html#a8fdc256219d8581c07b357317fdbf9de">IsEffect</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a0e77fe9c0e808131a2440afe38a856af">SPELL_EFFECT_SUMMON_PET</a>))</div>
+<div class="line"><span class="lineno"> 2581</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 2582</span> </div>
+<div class="line"><span class="lineno"> 2583</span>        <a class="code hl_struct" href="../../d0/df2/structSummonPropertiesEntry.html">SummonPropertiesEntry</a> <span class="keyword">const</span>* properties = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#a2c376fed2083a632a4d59389d8dc2dda">sSummonPropertiesStore</a>.LookupEntry(<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(effect.<a class="code hl_variable" href="../../da/db9/classSpellEffectInfo.html#a2b6cbc859682b07c66a68cf283b56ed3">MiscValueB</a>));</div>
+<div class="line"><span class="lineno"> 2584</span>        <span class="keywordflow">if</span> (properties &amp;&amp; (properties-&gt;<a class="code hl_variable" href="../../d0/df2/structSummonPropertiesEntry.html#a8b41ed573eae71196664a61bac83fe3e">Flags</a> &amp; <a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a3cd8070d9b609b098c34c22d9120f2afaee56f51bbdd48bc9a935b4eea11a07fb">SUMMON_PROP_FLAG_SAVE_PET_AUTOCAST</a>))</div>
+<div class="line"><span class="lineno"> 2585</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2586</span>    }</div>
+<div class="line"><span class="lineno"> 2587</span> </div>
+<div class="line"><span class="lineno"> 2588</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2589</span>}</div>
+<div class="ttc" id="aDBCEnums_8h_html_a3cd8070d9b609b098c34c22d9120f2afaee56f51bbdd48bc9a935b4eea11a07fb"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a3cd8070d9b609b098c34c22d9120f2afaee56f51bbdd48bc9a935b4eea11a07fb">SUMMON_PROP_FLAG_SAVE_PET_AUTOCAST</a></div><div class="ttdeci">@ SUMMON_PROP_FLAG_SAVE_PET_AUTOCAST</div><div class="ttdef"><b>Definition</b> DBCEnums.h:438</div></div>
+<div class="ttc" id="aDBCStores_8cpp_html_a2c376fed2083a632a4d59389d8dc2dda"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#a2c376fed2083a632a4d59389d8dc2dda">sSummonPropertiesStore</a></div><div class="ttdeci">DBCStorage&lt; SummonPropertiesEntry &gt; sSummonPropertiesStore(SummonPropertiesfmt)</div></div>
+<div class="ttc" id="aDBCStructure_8h_html_ac5733f5b58bf8a23a1919a005b5ec895"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#ac5733f5b58bf8a23a1919a005b5ec895">MAX_SPELL_EFFECTS</a></div><div class="ttdeci">#define MAX_SPELL_EFFECTS</div><div class="ttdef"><b>Definition</b> DBCStructure.h:1673</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a0e77fe9c0e808131a2440afe38a856af"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a0e77fe9c0e808131a2440afe38a856af">SPELL_EFFECT_SUMMON_PET</a></div><div class="ttdeci">@ SPELL_EFFECT_SUMMON_PET</div><div class="ttdef"><b>Definition</b> SharedDefines.h:822</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97aa7be476935ce81144c2b383b7af7bf47"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97aa7be476935ce81144c2b383b7af7bf47">SPELL_EFFECT_SUMMON</a></div><div class="ttdeci">@ SPELL_EFFECT_SUMMON</div><div class="ttdef"><b>Definition</b> SharedDefines.h:794</div></div>
+<div class="ttc" id="aUpdateFields_8h_html_a0e42dc606678c9df7884e1aad621e881af6ab95e21ce3e6cd8f5f7ec4a3c5d24a"><div class="ttname"><a href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af6ab95e21ce3e6cd8f5f7ec4a3c5d24a">UNIT_CREATED_BY_SPELL</a></div><div class="ttdeci">@ UNIT_CREATED_BY_SPELL</div><div class="ttdef"><b>Definition</b> UpdateFields.h:138</div></div>
+<div class="ttc" id="aclassSpellEffectInfo_html"><div class="ttname"><a href="../../da/db9/classSpellEffectInfo.html">SpellEffectInfo</a></div><div class="ttdef"><b>Definition</b> SpellInfo.h:270</div></div>
+<div class="ttc" id="aclassSpellEffectInfo_html_a2b6cbc859682b07c66a68cf283b56ed3"><div class="ttname"><a href="../../da/db9/classSpellEffectInfo.html#a2b6cbc859682b07c66a68cf283b56ed3">SpellEffectInfo::MiscValueB</a></div><div class="ttdeci">int32 MiscValueB</div><div class="ttdef"><b>Definition</b> SpellInfo.h:285</div></div>
+<div class="ttc" id="aclassSpellEffectInfo_html_a8fdc256219d8581c07b357317fdbf9de"><div class="ttname"><a href="../../da/db9/classSpellEffectInfo.html#a8fdc256219d8581c07b357317fdbf9de">SpellEffectInfo::IsEffect</a></div><div class="ttdeci">bool IsEffect() const</div><div class="ttdef"><b>Definition</b> SpellInfo.cpp:353</div></div>
+<div class="ttc" id="aclassSpellInfo_html_aa5bb0d7d6df03526d011d9cbfa3734e0"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">SpellInfo::Effects</a></div><div class="ttdeci">std::array&lt; SpellEffectInfo, MAX_SPELL_EFFECTS &gt; Effects</div><div class="ttdef"><b>Definition</b> SpellInfo.h:417</div></div>
+<div class="ttc" id="aclassTempSummon_html"><div class="ttname"><a href="../../dc/d88/classTempSummon.html">TempSummon</a></div><div class="ttdef"><b>Definition</b> TemporarySummon.h:50</div></div>
+<div class="ttc" id="aclassUnit_html_a6649e9ba10948d634bc0ac9c4a5800e5"><div class="ttname"><a href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">Unit::ToTempSummon</a></div><div class="ttdeci">TempSummon * ToTempSummon()</div><div class="ttdef"><b>Definition</b> Unit.h:737</div></div>
+<div class="ttc" id="astructSummonPropertiesEntry_html"><div class="ttname"><a href="../../d0/df2/structSummonPropertiesEntry.html">SummonPropertiesEntry</a></div><div class="ttdef"><b>Definition</b> DBCStructure.h:1945</div></div>
+<div class="ttc" id="astructSummonPropertiesEntry_html_a8b41ed573eae71196664a61bac83fe3e"><div class="ttname"><a href="../../d0/df2/structSummonPropertiesEntry.html#a8b41ed573eae71196664a61bac83fe3e">SummonPropertiesEntry::Flags</a></div><div class="ttdeci">uint32 Flags</div><div class="ttdef"><b>Definition</b> DBCStructure.h:1951</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00417">SpellInfo::Effects</a>, <a class="el" href="../../#l01951">SummonPropertiesEntry::Flags</a>, <a class="el" href="../../#l00303">Object::GetUInt32Value()</a>, <a class="el" href="../../#l00353">SpellEffectInfo::IsEffect()</a>, <a class="el" href="../../#l01673">MAX_SPELL_EFFECTS</a>, <a class="el" href="../../#l00285">SpellEffectInfo::MiscValueB</a>, <a class="el" href="../../#l00794">SPELL_EFFECT_SUMMON</a>, <a class="el" href="../../#l00822">SPELL_EFFECT_SUMMON_PET</a>, <a class="el" href="../../#l00851">sSpellMgr</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#a2c376fed2083a632a4d59389d8dc2dda">sSummonPropertiesStore</a>, <a class="el" href="../../#l00438">SUMMON_PROP_FLAG_SAVE_PET_AUTOCAST</a>, <a class="el" href="../../#l00737">Unit::ToTempSummon()</a>, and <a class="el" href="../../#l00138">UNIT_CREATED_BY_SPELL</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02591">ApplySavedPetAutocast()</a>, <a class="el" href="../../#l00955">WorldSession::HandlePetSpellAutocastOpcode()</a>, and <a class="el" href="../../#l02619">SavePetAutocast()</a>.</p>
 
 </div>
 </div>
@@ -224,7 +445,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_ad2e777a6187183a8e6ee76e3ed26133.html">Pet</a></li><li class="navelem"><a class="el" href="../../d0/dd6/Pet_8h.html">Pet.h</a></li>
-    <li class="footer">Generated on Wed Nov 25 2026 16:41:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Nov 26 2026 16:15:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

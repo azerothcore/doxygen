@@ -2,6 +2,7 @@ var boss__sapphiron_8cpp =
 [
     [ "boss_sapphiron", "d9/d34/classboss__sapphiron.html", "d9/d34/classboss__sapphiron" ],
     [ "boss_sapphiron::boss_sapphironAI", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html", "d9/d69/structboss__sapphiron_1_1boss__sapphironAI" ],
+    [ "spell_sapphiron_frost_explosion", "d8/d38/classspell__sapphiron__frost__explosion.html", "d8/d38/classspell__sapphiron__frost__explosion" ],
     [ "Events", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_BERSERK", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266", null ],
       [ "EVENT_CLEAVE", "dc/d49/boss__sapphiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

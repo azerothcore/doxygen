@@ -1,6 +1,6 @@
 var NAVTREEINDEX18 =
 {
-"d0/db6/classspell__explode__trigger.html#abf5a21f1c88241024e6d3b3c5bffe449":[7,0,2990,0],
+"d0/db6/classspell__explode__trigger.html#abf5a21f1c88241024e6d3b3c5bffe449":[7,0,2992,0],
 "d0/db6/structGameobjectModelData.html":[7,0,1123],
 "d0/db6/structGameobjectModelData.html#a7d259df5a5541f95e0f548674d023fc8":[7,0,1123,0],
 "d0/db6/structGameobjectModelData.html#ab133a32c9eefff0a35acaa4e157a3f05":[7,0,1123,1],
