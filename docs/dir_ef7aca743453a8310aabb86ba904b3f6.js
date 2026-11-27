@@ -5,6 +5,8 @@ var dir_ef7aca743453a8310aabb86ba904b3f6 =
     [ "Spell.h", "d0/d78/Spell_8h.html", "d0/d78/Spell_8h" ],
     [ "SpellDefines.h", "d0/d60/SpellDefines_8h.html", "d0/d60/SpellDefines_8h" ],
     [ "SpellEffects.cpp", "d5/d43/SpellEffects_8cpp.html", "d5/d43/SpellEffects_8cpp" ],
+    [ "SpellHistory.cpp", "d0/d9b/SpellHistory_8cpp.html", "d0/d9b/SpellHistory_8cpp" ],
+    [ "SpellHistory.h", "df/dd1/SpellHistory_8h.html", "df/dd1/SpellHistory_8h" ],
     [ "SpellInfo.cpp", "d0/d3c/SpellInfo_8cpp.html", "d0/d3c/SpellInfo_8cpp" ],
     [ "SpellInfo.h", "d0/dba/SpellInfo_8h.html", "d0/dba/SpellInfo_8h" ],
     [ "SpellInfoCorrections.cpp", "de/df0/SpellInfoCorrections_8cpp.html", "de/df0/SpellInfoCorrections_8cpp" ],

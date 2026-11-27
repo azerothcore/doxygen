@@ -3,7 +3,6 @@ var Player_8h =
     [ "PlayerSpell", "dc/da3/structPlayerSpell.html", "dc/da3/structPlayerSpell" ],
     [ "PlayerTalent", "d0/d19/structPlayerTalent.html", "d0/d19/structPlayerTalent" ],
     [ "SpellModifier", "d3/d08/structSpellModifier.html", "d3/d08/structSpellModifier" ],
-    [ "SpellCooldown", "da/def/structSpellCooldown.html", "da/def/structSpellCooldown" ],
     [ "ActionButton", "db/de4/structActionButton.html", "db/de4/structActionButton" ],
     [ "PlayerCreateInfoItem", "da/dbd/structPlayerCreateInfoItem.html", "da/dbd/structPlayerCreateInfoItem" ],
     [ "PlayerClassLevelInfo", "d6/dcb/structPlayerClassLevelInfo.html", "d6/dcb/structPlayerClassLevelInfo" ],
@@ -81,7 +80,6 @@ var Player_8h =
     [ "QuestStatusSaveMap", "da/dbf/Player_8h.html#a5945409582f17231499dc3e5e942ac75", null ],
     [ "RewardedQuestSet", "da/dbf/Player_8h.html#a59ae2084b25805b47224ad24aa9c54d0", null ],
     [ "SkillStatusMap", "da/dbf/Player_8h.html#a7c3902b77dffac17f56d2f990967f5a7", null ],
-    [ "SpellCooldowns", "da/dbf/Player_8h.html#a4e67032f6ccb88a3ffc6fb32196c31ce", null ],
     [ "SpellModContainer", "da/dbf/Player_8h.html#a4795ba50eea28136ac7b2d404498f9bc", null ],
     [ "WhisperListContainer", "da/dbf/Player_8h.html#afa0804038132bea4c032ad84ed052831", null ],
     [ "ActionButtonType", "da/dbf/Player_8h.html#a6ae74597b52b61e76f80036480d4a9f9", [

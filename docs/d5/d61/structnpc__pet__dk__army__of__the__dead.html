@@ -483,7 +483,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  336</span>: <a class="code hl_class" href="../../d4/d4f/classAggressorAI.html">AggressorAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  337</span>: <a class="code hl_class" href="../../d4/d4f/classAggressorAI.html">AggressorAI</a>(creature) { }</div>
 <div class="ttc" id="aclassAggressorAI_html"><div class="ttname"><a href="../../d4/d4f/classAggressorAI.html">AggressorAI</a></div><div class="ttdef"><b>Definition</b> CombatAI.h:29</div></div>
 </div><!-- fragment -->
 </div>
@@ -514,20 +514,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a5a2ee2c8c34726e0dd7d2e7a25047690">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  341</span>    {</div>
-<div class="line"><span class="lineno">  342</span>        <span class="keywordflow">if</span> (!target)</div>
-<div class="line"><span class="lineno">  343</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  344</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b">GetOwner</a>();</div>
-<div class="line"><span class="lineno">  345</span>        <span class="keywordflow">if</span> (owner &amp;&amp; !target-&gt;IsInCombatWith(owner))</div>
-<div class="line"><span class="lineno">  346</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  347</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a5a2ee2c8c34726e0dd7d2e7a25047690">AggressorAI::CanAIAttack</a>(target);</div>
-<div class="line"><span class="lineno">  348</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  342</span>    {</div>
+<div class="line"><span class="lineno">  343</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno">  344</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  345</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b">GetOwner</a>();</div>
+<div class="line"><span class="lineno">  346</span>        <span class="keywordflow">if</span> (owner &amp;&amp; !target-&gt;IsInCombatWith(owner))</div>
+<div class="line"><span class="lineno">  347</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  348</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a5a2ee2c8c34726e0dd7d2e7a25047690">AggressorAI::CanAIAttack</a>(target);</div>
+<div class="line"><span class="lineno">  349</span>    }</div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aclassUnitAI_html_a5a2ee2c8c34726e0dd7d2e7a25047690"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a5a2ee2c8c34726e0dd7d2e7a25047690">UnitAI::CanAIAttack</a></div><div class="ttdeci">virtual bool CanAIAttack(Unit const *) const</div><div class="ttdef"><b>Definition</b> UnitAI.h:205</div></div>
-<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:670</div></div>
-<div class="ttc" id="aclassUnit_html_a16a73fea59a6ef3595093aa29225b37b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b">Unit::GetOwner</a></div><div class="ttdeci">Unit * GetOwner() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:7534</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:669</div></div>
+<div class="ttc" id="aclassUnit_html_a16a73fea59a6ef3595093aa29225b37b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b">Unit::GetOwner</a></div><div class="ttdeci">Unit * GetOwner() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:7539</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00205">UnitAI::CanAIAttack()</a>, <a class="el" href="../../#l07534">Unit::GetOwner()</a>, <a class="el" href="../../#l16828">Unit::IsInCombatWith()</a>, and <a class="el" href="../../#l00071">CreatureAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00205">UnitAI::CanAIAttack()</a>, <a class="el" href="../../#l07539">Unit::GetOwner()</a>, <a class="el" href="../../#l16833">Unit::IsInCombatWith()</a>, and <a class="el" href="../../#l00071">CreatureAI::me</a>.</p>
 
 </div>
 </div>
@@ -556,19 +556,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a48a05eee4e4b8bf6a6256368bb7bcb5e">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  354</span>    {</div>
-<div class="line"><span class="lineno">  355</span>        <span class="keywordflow">if</span> (!target || !<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a46a7576522c3b964bd50388091f95951">HasReactState</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>))</div>
-<div class="line"><span class="lineno">  356</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  357</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(target))</div>
-<div class="line"><span class="lineno">  358</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(target);</div>
-<div class="line"><span class="lineno">  359</span>    }</div>
-<div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:574</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  355</span>    {</div>
+<div class="line"><span class="lineno">  356</span>        <span class="keywordflow">if</span> (!target || !<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a46a7576522c3b964bd50388091f95951">HasReactState</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>))</div>
+<div class="line"><span class="lineno">  357</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  358</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(target))</div>
+<div class="line"><span class="lineno">  359</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(target);</div>
+<div class="line"><span class="lineno">  360</span>    }</div>
+<div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:573</div></div>
 <div class="ttc" id="aclassCreature_html_a46a7576522c3b964bd50388091f95951"><div class="ttname"><a href="../../db/dd5/classCreature.html#a46a7576522c3b964bd50388091f95951">Creature::HasReactState</a></div><div class="ttdeci">bool HasReactState(ReactStates state) const</div><div class="ttdef"><b>Definition</b> Creature.h:101</div></div>
 <div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:29</div></div>
-<div class="ttc" id="aclassUnit_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition</b> Unit.h:1812</div></div>
-<div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10553</div></div>
+<div class="ttc" id="aclassUnit_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition</b> Unit.h:1804</div></div>
+<div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10558</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00029">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00101">Creature::HasReactState()</a>, <a class="el" href="../../#l01812">Unit::IsAlive()</a>, <a class="el" href="../../#l10553">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00574">REACT_PASSIVE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00029">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00101">Creature::HasReactState()</a>, <a class="el" href="../../#l01804">Unit::IsAlive()</a>, <a class="el" href="../../#l10558">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00573">REACT_PASSIVE</a>.</p>
 
 </div>
 </div>
@@ -597,14 +597,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#ab55568d181b4b424e51293f6e8618807">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  363</span>    {</div>
-<div class="line"><span class="lineno">  364</span>        <span class="keywordflow">if</span> (!attacker || !<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a46a7576522c3b964bd50388091f95951">HasReactState</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>))</div>
-<div class="line"><span class="lineno">  365</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  366</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(attacker))</div>
-<div class="line"><span class="lineno">  367</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(attacker);</div>
-<div class="line"><span class="lineno">  368</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  364</span>    {</div>
+<div class="line"><span class="lineno">  365</span>        <span class="keywordflow">if</span> (!attacker || !<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a46a7576522c3b964bd50388091f95951">HasReactState</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>))</div>
+<div class="line"><span class="lineno">  366</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  367</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(attacker))</div>
+<div class="line"><span class="lineno">  368</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(attacker);</div>
+<div class="line"><span class="lineno">  369</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00029">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00101">Creature::HasReactState()</a>, <a class="el" href="../../#l01812">Unit::IsAlive()</a>, <a class="el" href="../../#l10553">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00574">REACT_PASSIVE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00029">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00101">Creature::HasReactState()</a>, <a class="el" href="../../#l01804">Unit::IsAlive()</a>, <a class="el" href="../../#l10558">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00573">REACT_PASSIVE</a>.</p>
 
 </div>
 </div>
@@ -635,30 +635,30 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d4/d4f/classAggressorAI.html#ace9bc9ff47a463ceb05217ae77b5782b">AggressorAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  371</span>    {</div>
-<div class="line"><span class="lineno">  372</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  373</span>        {</div>
-<div class="line"><span class="lineno">  374</span>            <span class="comment">// Re-engage if we still have a valid victim but lost engagement</span></div>
-<div class="line"><span class="lineno">  375</span>            <span class="comment">// (e.g., combat reference expired during CC like knockback)</span></div>
-<div class="line"><span class="lineno">  376</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victim = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">  377</span>            {</div>
-<div class="line"><span class="lineno">  378</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(victim))</div>
-<div class="line"><span class="lineno">  379</span>                {</div>
-<div class="line"><span class="lineno">  380</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a9fe4066ee863cfc8934e1f06dbe42bfc">EngageWithTarget</a>(victim);</div>
-<div class="line"><span class="lineno">  381</span>                    <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  382</span>                }</div>
-<div class="line"><span class="lineno">  383</span>            }</div>
-<div class="line"><span class="lineno">  384</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  385</span>        }</div>
-<div class="line"><span class="lineno">  386</span> </div>
-<div class="line"><span class="lineno">  387</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  388</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  372</span>    {</div>
+<div class="line"><span class="lineno">  373</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  374</span>        {</div>
+<div class="line"><span class="lineno">  375</span>            <span class="comment">// Re-engage if we still have a valid victim but lost engagement</span></div>
+<div class="line"><span class="lineno">  376</span>            <span class="comment">// (e.g., combat reference expired during CC like knockback)</span></div>
+<div class="line"><span class="lineno">  377</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victim = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">  378</span>            {</div>
+<div class="line"><span class="lineno">  379</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(victim))</div>
+<div class="line"><span class="lineno">  380</span>                {</div>
+<div class="line"><span class="lineno">  381</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a9fe4066ee863cfc8934e1f06dbe42bfc">EngageWithTarget</a>(victim);</div>
+<div class="line"><span class="lineno">  382</span>                    <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  383</span>                }</div>
+<div class="line"><span class="lineno">  384</span>            }</div>
+<div class="line"><span class="lineno">  385</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  386</span>        }</div>
+<div class="line"><span class="lineno">  387</span> </div>
+<div class="line"><span class="lineno">  388</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  389</span>    }</div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:350</div></div>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:41</div></div>
-<div class="ttc" id="aclassUnit_html_a9fe4066ee863cfc8934e1f06dbe42bfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#a9fe4066ee863cfc8934e1f06dbe42bfc">Unit::EngageWithTarget</a></div><div class="ttdeci">void EngageWithTarget(Unit *who)</div><div class="ttdef"><b>Definition</b> Unit.cpp:7353</div></div>
-<div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:910</div></div>
+<div class="ttc" id="aclassUnit_html_a9fe4066ee863cfc8934e1f06dbe42bfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#a9fe4066ee863cfc8934e1f06dbe42bfc">Unit::EngageWithTarget</a></div><div class="ttdeci">void EngageWithTarget(Unit *who)</div><div class="ttdef"><b>Definition</b> Unit.cpp:7358</div></div>
+<div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:909</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l07353">Unit::EngageWithTarget()</a>, <a class="el" href="../../#l00910">Unit::GetVictim()</a>, <a class="el" href="../../#l10553">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00350">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l07358">Unit::EngageWithTarget()</a>, <a class="el" href="../../#l00909">Unit::GetVictim()</a>, <a class="el" href="../../#l10558">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00071">CreatureAI::me</a>, and <a class="el" href="../../#l00350">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -671,7 +671,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d61/structnpc__pet__dk__army__of__the__dead.html">npc_pet_dk_army_of_the_dead</a></li>
-    <li class="footer">Generated on Thu Nov 26 2026 16:15:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Nov 27 2026 16:01:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

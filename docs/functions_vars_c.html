@@ -147,7 +147,6 @@ $(document).ready(function(){initNavTree('functions_vars_c.html',''); initResiza
 <li>CapturePoints&#160;:&#160;<a class="el" href="d6/d26/classBattlefield.html#a01ee9fbc2466679c049ab67855ceccd8">Battlefield</a></li>
 <li>cast&#160;:&#160;<a class="el" href="dd/d27/structSmartAction.html#a8c3bca8cd1e925fd700d792c60513feb">SmartAction</a></li>
 <li>cast_spell&#160;:&#160;<a class="el" href="d4/dd9/structAchievementCriteriaEntry.html#ac295467cd7015e399e3b82ac3e1145c3">AchievementCriteriaEntry</a></li>
-<li>cast_time&#160;:&#160;<a class="el" href="d8/da3/structGlobalCooldown.html#a7e2fe46367bad59669b0f2fd33736b30">GlobalCooldown</a></li>
 <li>CastBarCaption&#160;:&#160;<a class="el" href="d3/d01/structGameObjectLocale.html#ae78195bdc8edd6f4996c617e7a541e12">GameObjectLocale</a></li>
 <li>castBarCaption&#160;:&#160;<a class="el" href="dd/d3b/structGameObjectTemplate.html#ac5314d6e2c76eae67b79cd47806958f6">GameObjectTemplate</a></li>
 <li>castCount&#160;:&#160;<a class="el" href="d4/dd9/structAchievementCriteriaEntry.html#a8beb033ea60b355c824ac3d4988d2ab7">AchievementCriteriaEntry</a></li>
@@ -172,12 +171,13 @@ $(document).ready(function(){initNavTree('functions_vars_c.html',''); initResiza
 <li>CastTime&#160;:&#160;<a class="el" href="d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e">SpellCastTimesEntry</a></li>
 <li>CastTimeEntry&#160;:&#160;<a class="el" href="d2/de9/classSpellInfo.html#acddf8f822e7406c4cad0a444ef29cc98">SpellInfo</a></li>
 <li>CastTimer&#160;:&#160;<a class="el" href="de/dd4/structnpc__mature__netherwing__drake_1_1npc__mature__netherwing__drakeAI.html#a630312f70a2f22683311a66e5a4f9ec6">npc_mature_netherwing_drake::npc_mature_netherwing_drakeAI</a></li>
-<li>category&#160;:&#160;<a class="el" href="d6/dc0/structCreatureSpellCooldown.html#a27330a80d711087f1894b2ce816c33b8">CreatureSpellCooldown</a></li>
 <li>Category&#160;:&#160;<a class="el" href="d9/d16/structMetricData.html#a6a7956fedac99271428968ba339f464f">MetricData</a></li>
-<li>category&#160;:&#160;<a class="el" href="dc/d33/structPendingSpellCastRequest.html#a51a702f257b784dac4556397dd1c0be4">PendingSpellCastRequest</a>, <a class="el" href="da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933">SpellCooldown</a></li>
+<li>category&#160;:&#160;<a class="el" href="dc/d33/structPendingSpellCastRequest.html#a51a702f257b784dac4556397dd1c0be4">PendingSpellCastRequest</a></li>
 <li>Category&#160;:&#160;<a class="el" href="d5/dc7/structSpellEntry.html#ac553667d97b29d8ad7e682d4c55e4263">SpellEntry</a>, <a class="el" href="d0/df2/structSummonPropertiesEntry.html#acd933f251a1faa1f705420307136681d">SummonPropertiesEntry</a></li>
+<li>CategoryEnd&#160;:&#160;<a class="el" href="d7/de1/structSpellHistory_1_1CooldownEntry.html#aa30d341620f7505d75019cef71f7ab0d">SpellHistory::CooldownEntry</a></li>
 <li>CategoryEntry&#160;:&#160;<a class="el" href="d2/de9/classSpellInfo.html#aa514878adc99503658ff251f089d64bf">SpellInfo</a></li>
 <li>categoryId&#160;:&#160;<a class="el" href="d6/d78/structAchievementEntry.html#a1de0e4302757f18c08b90b40e059737b">AchievementEntry</a>, <a class="el" href="d8/d11/structSkillLineEntry.html#abf285e69e8e2a90626a157cb0c50d158">SkillLineEntry</a></li>
+<li>CategoryId&#160;:&#160;<a class="el" href="d7/de1/structSpellHistory_1_1CooldownEntry.html#a93b1a98a05f207d3423d35a156971fc7">SpellHistory::CooldownEntry</a></li>
 <li>categoryMask&#160;:&#160;<a class="el" href="d3/d88/structTotemCategoryEntry.html#abd8816e5dda7bda455ccd6932647c4be">TotemCategoryEntry</a></li>
 <li>CategoryRecoveryTime&#160;:&#160;<a class="el" href="d1/d1d/structSpellCooldownOverride.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd">SpellCooldownOverride</a>, <a class="el" href="d5/dc7/structSpellEntry.html#a297f6633f55b314bfb761473ce8bf40d">SpellEntry</a>, <a class="el" href="d2/de9/classSpellInfo.html#a7f41763dc08f0ec7435bbbfc9c30ac2b">SpellInfo</a></li>
 <li>categoryType&#160;:&#160;<a class="el" href="d3/d88/structTotemCategoryEntry.html#a954f9fca8d0d84d5aec66f4a3f642f96">TotemCategoryEntry</a></li>
@@ -361,15 +361,18 @@ $(document).ready(function(){initNavTree('functions_vars_c.html',''); initResiza
 <li>cooldown&#160;:&#160;<a class="el" href="d7/db6/structAISpellInfoType.html#a6ea49fdc98ece29ceee63352424e9366">AISpellInfoType</a>, <a class="el" href="d0/d7b/structCreatureTextOptions.html#affc13f6cd029447df6cb1db56df42147">CreatureTextOptions</a>, <a class="el" href="dd/d3b/structGameObjectTemplate.html#a95b2b251bc1ececa0fa9c1361224f5b2">GameObjectTemplate</a>, <a class="el" href="d1/d85/structPlayerAbilityStruct.html#aaf4772a0ac55280355e61d8c50198b3f">PlayerAbilityStruct</a></li>
 <li>Cooldown&#160;:&#160;<a class="el" href="d0/d80/structRuneInfo.html#a8eeb0f5208c29d43ab493a22f73eb0a6">RuneInfo</a>, <a class="el" href="d2/d63/structSlotInfo.html#ac2f21814be8269023a2069f3eb03dfe2">SlotInfo</a>, <a class="el" href="dd/da3/structSpellProcEntry.html#a4e6185aea35599a3efc2e806145cb1d2">SpellProcEntry</a>, <a class="el" href="d4/d07/structSpellProcTestEntry.html#a8ae054e7700edebf204b6b9d5285b570">SpellProcTestEntry</a></li>
 <li>cooldown_ms&#160;:&#160;<a class="el" href="d5/db9/classSeveredEssenceSpellInfo.html#acfcb10f019ebaf4d2130bcdbc059c7e7">SeveredEssenceSpellInfo</a></li>
+<li>CooldownEnd&#160;:&#160;<a class="el" href="d7/de1/structSpellHistory_1_1CooldownEntry.html#a62bbecbc1c8a685c7d2195c9286d54e4">SpellHistory::CooldownEntry</a></li>
 <li>cooldownMax&#160;:&#160;<a class="el" href="d4/d02/structSmartEvent.html#a3b8cb31529b98a72d6bd7a87c4eda3cc">SmartEvent</a></li>
 <li>cooldownMin&#160;:&#160;<a class="el" href="d4/d02/structSmartEvent.html#acb468d4ec2595262bee6c9ee355ef600">SmartEvent</a></li>
+<li>CooldownsDeleteStatement&#160;:&#160;<a class="el" href="d3/d2a/structSpellHistory_1_1PersistenceHelper_3_01Pet_01_4.html#a389be5f0df3599a7eb9aae929ea5e34b">SpellHistory::PersistenceHelper&lt; Pet &gt;</a>, <a class="el" href="d9/dcc/structSpellHistory_1_1PersistenceHelper_3_01Player_01_4.html#a5dff5db409fe998527427fd1d27c3944">SpellHistory::PersistenceHelper&lt; Player &gt;</a></li>
 <li>cooldownSet&#160;:&#160;<a class="el" href="dc/dc9/structProcTestResult.html#a60219087858953e3ea124b1b784516b2">ProcTestResult</a></li>
+<li>CooldownsInsertStatement&#160;:&#160;<a class="el" href="d3/d2a/structSpellHistory_1_1PersistenceHelper_3_01Pet_01_4.html#a91491cb039a24462760b542a6a79910c">SpellHistory::PersistenceHelper&lt; Pet &gt;</a>, <a class="el" href="d9/dcc/structSpellHistory_1_1PersistenceHelper_3_01Player_01_4.html#a8146212da01e084f3223a3267f970000">SpellHistory::PersistenceHelper&lt; Player &gt;</a></li>
 <li>Coord&#160;:&#160;<a class="el" href="d3/de8/structnpc__injured__patient_1_1npc__injured__patientAI.html#af5a6f87c0379edd07a8756018b0c8661">npc_injured_patient::npc_injured_patientAI</a></li>
 <li>Coordinates&#160;:&#160;<a class="el" href="dd/d74/structnpc__doctor_1_1npc__doctorAI.html#acda1ada9d7868bfd93ceaaa39f82731b">npc_doctor::npc_doctorAI</a></li>
 <li>coords&#160;:&#160;<a class="el" href="d8/d38/structadt__MFBO_1_1plane.html#a6de1e0be070d552f8002bff7675bb9cf">adt_MFBO::plane</a></li>
 <li>copyGUID&#160;:&#160;<a class="el" href="d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#add68894964681b8345c3751510f7e48c">npc_hourglass_of_eternity::npc_hourglass_of_eternityAI</a></li>
 <li>CorenGUID&#160;:&#160;<a class="el" href="d3/dd6/structinstance__blackrock__depths.html#abf04a0b9fc252ea4a4789d0b52d5f742">instance_blackrock_depths</a></li>
-<li>corpseDelay&#160;:&#160;<a class="el" href="dd/d27/structSmartAction.html#ab70f1b66be1d3306da73ff6574def936">SmartAction</a></li>
+<li>corpseDelay&#160;:&#160;<a class="el" href="dd/d27/structSmartAction.html#a1f50569858eca3900c2198f7d97674af">SmartAction</a></li>
 <li>cosAngle&#160;:&#160;<a class="el" href="d3/d77/structMovementInfo_1_1JumpInfo.html#a37f49fc816f37dff8c1947f4de7f04d5">MovementInfo::JumpInfo</a></li>
 <li>Cost&#160;:&#160;<a class="el" href="d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#a6de1eebdd222f71e874a46e5daa354a4">FlightPathMovementGenerator::TaxiNodeChangeInfo</a></li>
 <li>cost&#160;:&#160;<a class="el" href="dd/d7b/structGtBarberShopCostBaseEntry.html#a624313c8b56b9755593b2f4bacd306d7">GtBarberShopCostBaseEntry</a></li>
@@ -466,7 +469,7 @@ $(document).ready(function(){initNavTree('functions_vars_c.html',''); initResiza
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Thu Nov 26 2026 16:16:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Nov 27 2026 16:02:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

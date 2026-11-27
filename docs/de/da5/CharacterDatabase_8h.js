@@ -360,6 +360,7 @@ var CharacterDatabase_8h =
       [ "CHAR_UPD_CHAR_TITLES_FACTION_CHANGE", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7abc90df2e7b6a5ae4ae8633102f9d8917", null ],
       [ "CHAR_RES_CHAR_TITLES_FACTION_CHANGE", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acaa5e57606c31e226b4a546c247b5c92", null ],
       [ "CHAR_DEL_CHAR_SPELL_COOLDOWN", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ad761d498799c702b37d1a71fdd6f3cdc", null ],
+      [ "CHAR_INS_CHAR_SPELL_COOLDOWN", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a835b5de54ce44bfccf4f27f334fff4be", null ],
       [ "CHAR_DEL_CHARACTER", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ad5367db81d1cf52f7dfa8b8ddcc6d2bd", null ],
       [ "CHAR_DEL_CHAR_ACTION", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa6127825f1f704e54eb2291471826d01", null ],
       [ "CHAR_DEL_CHAR_AURA", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7aa5aca23146a555db409bbf23b7e9ce3c", null ],

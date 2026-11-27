@@ -31,7 +31,7 @@ var searchData=
   ['get_5fnth_5ft_28',['get_nth_t',['../dc/d89/namespaceAcore_1_1Impl_1_1ChatCommands.html#acf7271fa50990dbd40fd90f127b9fb3b',1,'Acore::Impl::ChatCommands']]],
   ['getheightptr_29',['GetHeightPtr',['../de/d5e/classGridTerrainData.html#a347927f9d7df887b2a6fd89d841e004c',1,'GridTerrainData']]],
   ['getliquidflagsfn_30',['GetLiquidFlagsFn',['../df/d56/classVMAP_1_1VMapMgr2.html#a172996acb562d916b51132e7e0072140',1,'VMAP::VMapMgr2']]],
-  ['globalcooldownlist_31',['GlobalCooldownList',['../da/d1e/CharmInfo_8h.html#a2f37b877a5fc8dc31f4543660a5b1af9',1,'CharmInfo.h']]],
+  ['globalcooldownstoragetype_31',['GlobalCooldownStorageType',['../de/d60/classSpellHistory.html#a65444b9f084f26d72c837d4cd227d980',1,'SpellHistory']]],
   ['gmticketlist_32',['GmTicketList',['../d5/da0/TicketMgr_8h.html#a697d75cf06a963bad84903696288001a',1,'TicketMgr.h']]],
   ['goeventflag_33',['goEventFlag',['../d2/de5/GameObject_8h.html#a5d69fabbfa5abca4bb03fba46cd1bef0',1,'GameObject.h']]],
   ['goscriptpair_34',['GoScriptPair',['../d2/dd6/classOutdoorPvP.html#ad8351fe5ddc285f8d71f9b978d11ab2a',1,'OutdoorPvP']]],

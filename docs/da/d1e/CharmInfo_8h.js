@@ -1,7 +1,5 @@
 var CharmInfo_8h =
 [
-    [ "GlobalCooldown", "d8/da3/structGlobalCooldown.html", "d8/da3/structGlobalCooldown" ],
-    [ "GlobalCooldownMgr", "d5/d33/classGlobalCooldownMgr.html", "d5/d33/classGlobalCooldownMgr" ],
     [ "UnitActionBarEntry", "dd/d00/structUnitActionBarEntry.html", "dd/d00/structUnitActionBarEntry" ],
     [ "CharmInfo", "dd/d80/structCharmInfo.html", "dd/d80/structCharmInfo" ],
     [ "MAKE_UNIT_ACTION_BUTTON", "da/d1e/CharmInfo_8h.html#aa4580ef0cb84c2cc5983e75cb92e3ed1", null ],
@@ -13,7 +11,6 @@ var CharmInfo_8h =
     [ "UNIT_ACTION_BUTTON_ACTION", "da/d1e/CharmInfo_8h.html#a374f41406d42023d52c29bb269ccb2b3", null ],
     [ "UNIT_ACTION_BUTTON_TYPE", "da/d1e/CharmInfo_8h.html#ab00914d5fa4caf6cad7209786ffaf17c", null ],
     [ "CharmSpellInfo", "da/d1e/CharmInfo_8h.html#a127d601b79cebafada7224b7b4e0c4a2", null ],
-    [ "GlobalCooldownList", "da/d1e/CharmInfo_8h.html#a2f37b877a5fc8dc31f4543660a5b1af9", null ],
     [ "ActionBarIndex", "da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724", [
       [ "ACTION_BAR_INDEX_START", "da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724ac963f447654b9785c3236c79ea310b09", null ],
       [ "ACTION_BAR_INDEX_PET_SPELL_START", "da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724a1b9025dc7f8331f6ca9fd0cfce1b0ae9", null ],

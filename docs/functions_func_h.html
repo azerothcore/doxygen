@@ -465,6 +465,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HandleContestedNodes()&#160;:&#160;<a class="el" href="dc/de8/classBattlegroundIC.html#a8e82886d2fdbbd7fbc0e187aaf9a23ee">BattlegroundIC</a></li>
 <li>HandleCoolDownCheatCommand()&#160;:&#160;<a class="el" href="d8/dc6/classcheat__commandscript.html#ab31a1cfe2567b0f597c689f44ab9fd6d">cheat_commandscript</a></li>
 <li>HandleCooldownCommand()&#160;:&#160;<a class="el" href="d9/d4d/classmisc__commandscript.html#a592e80af21baa35581795350ab7ca976">misc_commandscript</a></li>
+<li>HandleCooldowns()&#160;:&#160;<a class="el" href="de/d60/classSpellHistory.html#adfd93d5a076096ee3473e88338e0b7e4">SpellHistory</a></li>
 <li>HandleCorpseExplosion()&#160;:&#160;<a class="el" href="d3/d9a/classspell__dk__corpse__explosion.html#a201de2ee86d0cf954117df0e5343ee69">spell_dk_corpse_explosion</a></li>
 <li>HandleCorpseMapPositionQuery()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a747dfd3c316a0fb6056544aceacf7c93">WorldSession</a></li>
 <li>HandleCorpseQueryOpcode()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a91706613e6d80951c92581eb5ac5924e">WorldSession</a></li>
@@ -611,7 +612,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HandleForceSpeedChangeAck()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a86c0973e9766a36a7a250027c286aa6d">WorldSession</a></li>
 <li>HandleFreezeCommand()&#160;:&#160;<a class="el" href="d9/d4d/classmisc__commandscript.html#ae63e89580f430cffe62afdf4fb2ff882">misc_commandscript</a></li>
 <li>HandleFused()&#160;:&#160;<a class="el" href="d6/d87/classspell__razorscale__fuse__armor.html#ab5ea77be32486664ff6c5ff7dc01f7dd">spell_razorscale_fuse_armor</a></li>
-<li>HandleGameObject()&#160;:&#160;<a class="el" href="d2/d1e/classInstanceScript.html#a1961c04a44bb8d0fc3e5c6dc0c39790f">InstanceScript</a>, <a class="el" href="d7/df6/structnpc__grimstone.html#a66240c764417e9d5750e3dcce8167384">npc_grimstone</a></li>
+<li>HandleGameObject()&#160;:&#160;<a class="el" href="d2/d1e/classInstanceScript.html#a44e323e8f12d4c6e3e53b7321a43c246">InstanceScript</a>, <a class="el" href="d7/df6/structnpc__grimstone.html#a66240c764417e9d5750e3dcce8167384">npc_grimstone</a></li>
 <li>HandleGameObjectActivateCommand()&#160;:&#160;<a class="el" href="d1/da2/classgobject__commandscript.html#a2512dfca6b1ae8a2476551a02caa202a">gobject_commandscript</a></li>
 <li>HandleGameObjectAddCommand()&#160;:&#160;<a class="el" href="d1/da2/classgobject__commandscript.html#a23717867956cc0da99e3640d2b790346">gobject_commandscript</a></li>
 <li>HandleGameObjectAddTempCommand()&#160;:&#160;<a class="el" href="d1/da2/classgobject__commandscript.html#a49908d7c180d778c43702563add17d2d">gobject_commandscript</a></li>
@@ -1418,7 +1419,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HandleSetChannelWatch()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a8835756cfc4897a8c3b86a49707aadeb">WorldSession</a></li>
 <li>HandleSetContactNotesOpcode()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#aa47b29f93c889f8934845b9806180456">WorldSession</a></li>
 <li>HandleSetDungeonDifficultyOpcode()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#af9a2c9ee32b4cae61a3de7f92f7726d5">WorldSession</a></li>
-<li>HandleSetEmblem()&#160;:&#160;<a class="el" href="de/d79/classGuild.html#aaefe22bdcfd844332b13f6c45f7175fd">Guild</a></li>
+<li>HandleSetEmblem()&#160;:&#160;<a class="el" href="de/d79/classGuild.html#ac2ea0c51f95a781281a11927376aa895">Guild</a></li>
 <li>HandleSetFactionAtWar()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a22e4aadc741520f028443d5d51c7e466">WorldSession</a></li>
 <li>HandleSetFactionCheat()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a5c003cca7d9d28739dc182cdfcb7c9f5">WorldSession</a></li>
 <li>HandleSetFactionInactiveOpcode()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a421b36a71ee8f4ae7d06b180f5503b12">WorldSession</a></li>
@@ -1605,7 +1606,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasArrived()&#160;:&#160;<a class="el" href="db/d82/classFlightPathMovementGenerator.html#ad4a14cf3b7497cf30e6305d52d94ecdb">FlightPathMovementGenerator</a></li>
 <li>HasAtLoginFlag()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#acab761654ec528fb7c3bc77fc28a25bd">Player</a></li>
 <li>HasAttackerSpellCritChanceAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a7dc74f07ff52aa4f563ea3c5e798bb2e">Unit</a></li>
-<li>HasAttribute()&#160;:&#160;<a class="el" href="d2/de9/classSpellInfo.html#a975746d6b737abb063ea037327abfc5a">SpellInfo</a></li>
+<li>HasAttribute()&#160;:&#160;<a class="el" href="d2/de9/classSpellInfo.html#a94eda8ee2088025443e0724f159f17f6">SpellInfo</a></li>
 <li>HasAura()&#160;:&#160;<a class="el" href="d2/de9/classSpellInfo.html#aefe1e81c5922419ada55844bdb30e269">SpellInfo</a>, <a class="el" href="df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit</a>, <a class="el" href="dc/d3b/classUnitStub.html#a0096bd8b110bb563ccb435a25f9cfbb7">UnitStub</a></li>
 <li>HasAuraEffect()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a8fd18d697ea7e2c7fbbf4a2d1a93bfef">Unit</a></li>
 <li>HasAuras()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#aedcd0cc38b6647bd96ce5730dee2cc2e">Unit</a></li>
@@ -1632,6 +1633,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>hasCommandSucceeded()&#160;:&#160;<a class="el" href="d5/dfc/classSOAPCommand.html#a251a0999a4b74ca8db7bbaa634f1d361">SOAPCommand</a></li>
 <li>HasConfuseAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a6a1e5ecd978a3ec3df4595034bcfeb00">Unit</a></li>
 <li>HasControlVehicleAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#ab15810c95e86909140cd4bc4bc1199e8">Unit</a></li>
+<li>HasCooldown()&#160;:&#160;<a class="el" href="de/d60/classSpellHistory.html#ae1cfd41096a39c256a58d9db263eb5d8">SpellHistory</a></li>
 <li>HasCorpse()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a50ace1b08f9b78f9c1f4def8e29c3d9e">Player</a></li>
 <li>HasCreatureActiveEventExcept()&#160;:&#160;<a class="el" href="d3/d92/classGameEventMgr.html#a8e112f75a7cd24dfe6207d0f7b7fee15">GameEventMgr</a></li>
 <li>HasCreatureQuestActiveEventExcept()&#160;:&#160;<a class="el" href="d3/d92/classGameEventMgr.html#a225a232fc9a6fce9dcac7c9864af4485">GameEventMgr</a></li>
@@ -1652,7 +1654,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasEnchantRequiredSkill()&#160;:&#160;<a class="el" href="d0/dae/classItem.html#a8f2b36b50a6a8c249373b46d9615e024">Item</a></li>
 <li>HasEnoughMoney()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a77b52bf6fc7a0ac6ad37bf836aaf5c7b">Player</a></li>
 <li>HasEnoughWater()&#160;:&#160;<a class="el" href="d7/db0/classMap.html#a6ab58ada562dad3844ad7728765d7447">Map</a></li>
-<li>HasEntry()&#160;:&#160;<a class="el" href="d0/d0a/classObjectGuid.html#a668a16dbef717790a9114de080cda505">ObjectGuid</a>, <a class="el" href="d6/df5/classSummonList.html#a1d3372abcb785493a5f363893c038b31">SummonList</a></li>
+<li>HasEntry()&#160;:&#160;<a class="el" href="d0/d0a/classObjectGuid.html#ac33a7138c8b1631484e324671da06f28">ObjectGuid</a>, <a class="el" href="d6/df5/classSummonList.html#a1d3372abcb785493a5f363893c038b31">SummonList</a></li>
 <li>HasErrorMessage()&#160;:&#160;<a class="el" href="db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a74f331d2e68ddf7cefc14b4c47369311">Acore::Impl::ChatCommands::ChatCommandResult</a></li>
 <li>HasEscortState()&#160;:&#160;<a class="el" href="d2/ddc/structnpc__escortAI.html#a19a101aa424360959c09220f8a67bbe5">npc_escortAI</a>, <a class="el" href="da/ddc/classSmartAI.html#a464aa991b3e43f4fc6e0a08cb08c47cb">SmartAI</a></li>
 <li>HasEvents()&#160;:&#160;<a class="el" href="d2/d58/classEventProcessor.html#a5f09366ac8e595f24b0c095f4127b9e7">EventProcessor</a></li>
@@ -1677,7 +1679,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasGameObjectFlag()&#160;:&#160;<a class="el" href="de/d1c/classGameObject.html#ac7430ba1890f44cd50253ae177bc748a">GameObject</a></li>
 <li>HasGameObjectQuestActiveEventExcept()&#160;:&#160;<a class="el" href="d3/d92/classGameEventMgr.html#a6c843d3098a8ca9b40198f0460749160">GameEventMgr</a></li>
 <li>HasGhostAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a64a682baf7ad56615c6ddb4c2ffe3835">Unit</a></li>
-<li>HasGlobalCooldown()&#160;:&#160;<a class="el" href="d5/d33/classGlobalCooldownMgr.html#a7487d19ae8c59e5c5e871b2e1afabfba">GlobalCooldownMgr</a>, <a class="el" href="d1/d16/classSpell.html#af5b979f4290c2172523aae0d2d09077a">Spell</a></li>
+<li>HasGlobalCooldown()&#160;:&#160;<a class="el" href="d1/d16/classSpell.html#af5b979f4290c2172523aae0d2d09077a">Spell</a>, <a class="el" href="de/d60/classSpellHistory.html#a345973f16c687a7fd2ba782d0e636505">SpellHistory</a></li>
 <li>HasGrantedPermission()&#160;:&#160;<a class="el" href="de/d28/classrbac_1_1RBACData.html#aa193ac16969b1b66f05195a85173601c">rbac::RBACData</a></li>
 <li>HasGroupFlag()&#160;:&#160;<a class="el" href="d1/dc4/structFormationInfo.html#afc612acf30e8d0a047aac5b0fc2dc07b">FormationInfo</a></li>
 <li>hasGuid()&#160;:&#160;<a class="el" href="da/de4/classlfg_1_1Lfg5Guids.html#adddd27d8a9faefc2ad26c34770d9061c">lfg::Lfg5Guids</a></li>
@@ -1700,6 +1702,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasInvisibilityDetectAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#aebb129d6e22e20b704e420957d23a809">Unit</a></li>
 <li>hasInvolvedQuest()&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#a8be835ff19d38759cece98685a26526a">Creature</a>, <a class="el" href="de/d1c/classGameObject.html#a2591bcee950c708fe556a71062cfcf64">GameObject</a>, <a class="el" href="d0/dae/classItem.html#a03f661f667579010cb480129b690ea7f">Item</a>, <a class="el" href="d8/d4b/classObject.html#ada61cb59931e3c02624a63161997bf20">Object</a></li>
 <li>HasItem()&#160;:&#160;<a class="el" href="d8/df1/classObjectRegistry.html#a3c95897734a780c1f299d24a058b3595">ObjectRegistry&lt; T, Key &gt;</a>, <a class="el" href="dc/dfe/classQuestMenu.html#a7fe36e4a4acfc66a00f08034c470b5e3">QuestMenu</a>, <a class="el" href="d8/d94/classTradeData.html#a420249fcbb7394f16009861ccdb6962a">TradeData</a></li>
+<li>HasItemCooldown()&#160;:&#160;<a class="el" href="de/d60/classSpellHistory.html#a2615df5dd08622d57ee79b4f30b1446b">SpellHistory</a></li>
 <li>HasItemCount()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a3b6b7692a9496e07088b96315decc78c">Player</a></li>
 <li>HasItemDeletionConfig()&#160;:&#160;<a class="el" href="dd/d8b/classitem__commandscript.html#a28d0b4083bf3352f80b6210f9ac00692">item_commandscript</a></li>
 <li>HasItemFitToSpellRequirements()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a1bfb6e6768526acdbc2f6cf52cdc240b">Player</a></li>
@@ -1718,8 +1721,8 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasLowerSecurity()&#160;:&#160;<a class="el" href="d6/d38/classChatHandler.html#afacb4b59756372ec32810be0d46da49c">ChatHandler</a></li>
 <li>HasLowerSecurityAccount()&#160;:&#160;<a class="el" href="d6/d38/classChatHandler.html#aedf236510ed1d2b75305b49243af84c4">ChatHandler</a></li>
 <li>HasMainhandWeapon()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#af8454dc2cdff77f66954f13f0e4c6c6c">Unit</a></li>
-<li>HasMainhandWeaponForAttack()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#abfa289b04f9cd62d0ef5457b078fdd83">Unit</a></li>
 <li>hasMainhandWeaponForAttack()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#aab7fe92591712206a22aea2b7eb8dc13">Unit</a></li>
+<li>HasMainhandWeaponForAttack()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#abfa289b04f9cd62d0ef5457b078fdd83">Unit</a></li>
 <li>HasManaCost()&#160;:&#160;<a class="el" href="dc/da9/classspell__item__meteoric__inspiration.html#a951452680451b435b622b9ccb0de535c">spell_item_meteoric_inspiration</a></li>
 <li>HasMechanicTemplateImmunity()&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#a8e7b54fd59b12f4f10c19b24627a5dd3">Creature</a></li>
 <li>HasMeleeSpec()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a336633d1a73d1ccb1a546e5b0c38ae79">Player</a></li>
@@ -1787,10 +1790,9 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasSpell()&#160;:&#160;<a class="el" href="de/d95/structAuctionHouseUsablePlayerInfo.html#a3400ad05d8423ae6878fab815521ec6f">AuctionHouseUsablePlayerInfo</a>, <a class="el" href="db/dd5/classCreature.html#a0740d9c891653ddbeb0fd797464eaef6">Creature</a>, <a class="el" href="df/d14/classPet.html#ac7fbb6ab06f140e8843b0a8af83229e0">Pet</a>, <a class="el" href="d2/d4b/classPlayer.html#ad0b702ec9df9626312843eb9a44742df">Player</a>, <a class="el" href="df/dd9/classUnit.html#a745ede574ea561dcfdd7f32f2f2a6c7e">Unit</a></li>
 <li>HasSpellCastItem()&#160;:&#160;<a class="el" href="d8/d94/classTradeData.html#a27981abf9bddbfe87bf81836b57e0780">TradeData</a></li>
 <li>HasSpellClassMask()&#160;:&#160;<a class="el" href="d7/d46/classAuraEffect.html#ac47f45d58ef676d9e242852a80c96b01">AuraEffect</a></li>
-<li>HasSpellCooldown()&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#a223db1b78a3dc2730c1096f7d2ca3675">Creature</a>, <a class="el" href="d2/d4b/classPlayer.html#a6b5d9a18a5a03f4e55b7ff90479acee9">Player</a>, <a class="el" href="df/dd9/classUnit.html#a1f133c042285f311c455f73e7cdff3fb">Unit</a>, <a class="el" href="dc/d3b/classUnitStub.html#a1962f1814c51133caa67a49eb13bda41">UnitStub</a></li>
+<li>HasSpellCooldown()&#160;:&#160;<a class="el" href="dc/d3b/classUnitStub.html#a1962f1814c51133caa67a49eb13bda41">UnitStub</a></li>
 <li>HasSpellCooldownOverride()&#160;:&#160;<a class="el" href="da/d90/classSpellMgr.html#aff0216d5ca025b8fb37a0feb3d4097b6">SpellMgr</a></li>
 <li>HasSpellFocus()&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#aef2b71f49792162b95ae610310a39a08">Creature</a></li>
-<li>HasSpellItemCooldown()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a966fc3946c56b7b3659bbe9ca10bb20d">Player</a>, <a class="el" href="df/dd9/classUnit.html#a3dadb0a2e59f9214635f0e943d36e48c">Unit</a></li>
 <li>HasSpellMagnetAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#af0744924d2e9fe6e33da1d6f99ef7104">Unit</a></li>
 <li>HasSpellMod()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#ad2a088f6d678a60ac7998394b1c9e82f">Player</a></li>
 <li>HasSpellModApplied()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a3fc19401caecdc49c0e70ad6b7313956">Player</a></li>
@@ -1833,7 +1835,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasWithdrawRights()&#160;:&#160;<a class="el" href="d6/d86/classGuild_1_1BankMoveItemData.html#ae9d8f497b4459c982ac73ee8b5742aad">Guild::BankMoveItemData</a>, <a class="el" href="db/de2/classGuild_1_1MoveItemData.html#a9a3a415b8449669b8b738bed068997a2">Guild::MoveItemData</a></li>
 <li>HatchAllEggs()&#160;:&#160;<a class="el" href="dc/dda/structboss__janalai.html#a7caee2554fe4f6211589e3346d1865fd">boss_janalai</a></li>
 <li>HatchNearestEgg()&#160;:&#160;<a class="el" href="d1/d88/structboss__onyxia.html#a4c5436268c8fa41ded9f2577475c0662">boss_onyxia</a></li>
-<li>HaveAtClient()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a3f14db9604cd251d30cbab5afa1877af">Player</a></li>
+<li>HaveAtClient()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a20ce8867ad56a1a0c096b9aa6e786f33">Player</a></li>
 <li>HaveInDiet()&#160;:&#160;<a class="el" href="df/d14/classPet.html#a69eeefed774785abea1b9d36b2cd30a6">Pet</a></li>
 <li>HaveLootFor()&#160;:&#160;<a class="el" href="d1/de0/classLootStore.html#abd45358d22bbb44f54743792a7fd0039">LootStore</a></li>
 <li>haveOffhandWeapon()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a49f1cea0b739be746cdb0ab0986f4a88">Unit</a></li>
@@ -1846,7 +1848,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HealBySpell()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a62382ca15ef5f687651acd024efa1714">Unit</a></li>
 <li>HealDone()&#160;:&#160;<a class="el" href="d0/ddd/classUnitAI.html#acd135c95a0d2a1a8c58073edbaa5a5bd">UnitAI</a></li>
 <li>HealInfo()&#160;:&#160;<a class="el" href="db/df2/classHealInfo.html#a25fe1984f6c3ef5eeb90049ef4749437">HealInfo</a></li>
-<li>HealInfoStub()&#160;:&#160;<a class="el" href="de/d07/classHealInfoStub.html#afa2b7c6e93b387f16e2b545adc4fa05c">HealInfoStub</a></li>
+<li>HealInfoStub()&#160;:&#160;<a class="el" href="de/d07/classHealInfoStub.html#ae011c5a0f72cd5581e661793c3ac2fdc">HealInfoStub</a></li>
 <li>HealInfoStubBuilder()&#160;:&#160;<a class="el" href="d9/dfc/classHealInfoStubBuilder.html#a57945de96ad065451cadb47edba287c8">HealInfoStubBuilder</a></li>
 <li>HealReceived()&#160;:&#160;<a class="el" href="d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a348be00901f9e6daea7868e4f9a97fda">boss_valithria_dreamwalker::boss_valithria_dreamwalkerAI</a>, <a class="el" href="da/ddc/classSmartAI.html#ab787e7902668b6f68932cf3fa9df73a8">SmartAI</a>, <a class="el" href="d0/ddd/classUnitAI.html#a042779745a27ea5099ac60fd79a9dc6a">UnitAI</a></li>
 <li>HealthAbovePct()&#160;:&#160;<a class="el" href="db/dc8/structScriptedAI.html#a63cc63198b59f5cd7c5301ad02eabed0">ScriptedAI</a>, <a class="el" href="df/dd9/classUnit.html#a0a250126bc1ae99a1b9e2a4310a124b5">Unit</a></li>
@@ -1886,7 +1888,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Thu Nov 26 2026 16:16:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Nov 27 2026 16:02:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
