@@ -623,7 +623,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> ms / 1000.f;</div>
 <div class="line"><span class="lineno">   44</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00081">Movement::MoveSpline::computeFallElevation()</a>, <a class="el" href="../../#l00068">Movement::MoveSpline::computeParabolicElevation()</a>, <a class="el" href="../../#l13859">Player::HandleFall()</a>, and <a class="el" href="../../#l00158">Movement::MoveSpline::Initialize()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">Movement::MoveSpline::computeFallElevation()</a>, <a class="el" href="../../#l00068">Movement::MoveSpline::computeParabolicElevation()</a>, <a class="el" href="../../#l13859">Player::HandleFall()</a>, and <a class="el" href="../../#l00157">Movement::MoveSpline::Initialize()</a>.</p>
 
 </div>
 </div>
@@ -1083,27 +1083,30 @@ template&lt;class Flags , int N&gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  127</span>    {</div>
-<div class="line"><span class="lineno">  128</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#aec270291a46b401ba59f367a94eaf565">getPointCount</a>() - 3;</div>
-<div class="line"><span class="lineno">  129</span>        data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(count + 1);</div>
-<div class="line"><span class="lineno">  130</span>        <span class="keywordflow">if</span> (flying)</div>
-<div class="line"><span class="lineno">  131</span>        {</div>
-<div class="line"><span class="lineno">  132</span>            data &lt;&lt; spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#a9bc79d2c5d81db22c95d51b449343b41">getPoint</a>(1); <span class="comment">// fake point, client will erase it from the spline after first cycle done</span></div>
+<div class="fragment"><div class="line"><span class="lineno">  126</span>    {</div>
+<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">if</span> (flying)</div>
+<div class="line"><span class="lineno">  128</span>        {</div>
+<div class="line"><span class="lineno">  129</span>            <span class="comment">// The first vertex is the leg into the cycle: it is sent as the packet&#39;s start position and dropped</span></div>
+<div class="line"><span class="lineno">  130</span>            <span class="comment">// after the first cycle, so it is not part of the spline points.</span></div>
+<div class="line"><span class="lineno">  131</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#aec270291a46b401ba59f367a94eaf565">getPointCount</a>() - 4;</div>
+<div class="line"><span class="lineno">  132</span>            data &lt;&lt; count;</div>
 <div class="line"><span class="lineno">  133</span>            data.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#a5811e6da355e8c3d0f45997a557a666b">append</a>&lt;Vector3&gt;(&amp;spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#a9bc79d2c5d81db22c95d51b449343b41">getPoint</a>(2), count);</div>
 <div class="line"><span class="lineno">  134</span>        }</div>
 <div class="line"><span class="lineno">  135</span>        <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  136</span>        {</div>
-<div class="line"><span class="lineno">  137</span>            data.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#a5811e6da355e8c3d0f45997a557a666b">append</a>&lt;Vector3&gt;(&amp;spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#a9bc79d2c5d81db22c95d51b449343b41">getPoint</a>(2), count);</div>
-<div class="line"><span class="lineno">  138</span>            data &lt;&lt; Vector3::zero(); <span class="comment">//Xinef: fake point</span></div>
-<div class="line"><span class="lineno">  139</span>        }</div>
-<div class="line"><span class="lineno">  140</span>    }</div>
+<div class="line"><span class="lineno">  137</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#aec270291a46b401ba59f367a94eaf565">getPointCount</a>() - 3;</div>
+<div class="line"><span class="lineno">  138</span>            data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(count + 1);</div>
+<div class="line"><span class="lineno">  139</span>            data.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#a5811e6da355e8c3d0f45997a557a666b">append</a>&lt;Vector3&gt;(&amp;spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#a9bc79d2c5d81db22c95d51b449343b41">getPoint</a>(2), count);</div>
+<div class="line"><span class="lineno">  140</span>            data &lt;&lt; Vector3::zero(); <span class="comment">//Xinef: fake point</span></div>
+<div class="line"><span class="lineno">  141</span>        }</div>
+<div class="line"><span class="lineno">  142</span>    }</div>
 <div class="ttc" id="aclassByteBuffer_html_a5811e6da355e8c3d0f45997a557a666b"><div class="ttname"><a href="../../da/d07/classByteBuffer.html#a5811e6da355e8c3d0f45997a557a666b">ByteBuffer::append</a></div><div class="ttdeci">void append(T value)</div><div class="ttdef"><b>Definition</b> ByteBuffer.h:129</div></div>
 <div class="ttc" id="aclassMovement_1_1SplineBase_html_a9bc79d2c5d81db22c95d51b449343b41"><div class="ttname"><a href="../../d4/d2d/classMovement_1_1SplineBase.html#a9bc79d2c5d81db22c95d51b449343b41">Movement::SplineBase::getPoint</a></div><div class="ttdeci">Vector3 const &amp; getPoint(index_type i) const</div><div class="ttdef"><b>Definition</b> Spline.h:117</div></div>
 <div class="ttc" id="aclassMovement_1_1SplineBase_html_aec270291a46b401ba59f367a94eaf565"><div class="ttname"><a href="../../d4/d2d/classMovement_1_1SplineBase.html#aec270291a46b401ba59f367a94eaf565">Movement::SplineBase::getPointCount</a></div><div class="ttdeci">index_type getPointCount() const</div><div class="ttdef"><b>Definition</b> Spline.h:116</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00129">ByteBuffer::append()</a>, <a class="el" href="../../#l00117">Movement::SplineBase::getPoint()</a>, and <a class="el" href="../../#l00116">Movement::SplineBase::getPointCount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00142">Movement::PacketBuilder::WriteMonsterMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00144">Movement::PacketBuilder::WriteMonsterMove()</a>.</p>
 
 </div>
 </div>
@@ -1132,15 +1135,15 @@ template&lt;class Flags , int N&gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  120</span>    {</div>
-<div class="line"><span class="lineno">  121</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#aec270291a46b401ba59f367a94eaf565">getPointCount</a>() - 3;</div>
-<div class="line"><span class="lineno">  122</span>        data &lt;&lt; count;</div>
-<div class="line"><span class="lineno">  123</span>        data.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#a5811e6da355e8c3d0f45997a557a666b">append</a>&lt;Vector3&gt;(&amp;spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#a9bc79d2c5d81db22c95d51b449343b41">getPoint</a>(2), count);</div>
-<div class="line"><span class="lineno">  124</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  119</span>    {</div>
+<div class="line"><span class="lineno">  120</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#aec270291a46b401ba59f367a94eaf565">getPointCount</a>() - 3;</div>
+<div class="line"><span class="lineno">  121</span>        data &lt;&lt; count;</div>
+<div class="line"><span class="lineno">  122</span>        data.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#a5811e6da355e8c3d0f45997a557a666b">append</a>&lt;Vector3&gt;(&amp;spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#a9bc79d2c5d81db22c95d51b449343b41">getPoint</a>(2), count);</div>
+<div class="line"><span class="lineno">  123</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00129">ByteBuffer::append()</a>, <a class="el" href="../../#l00117">Movement::SplineBase::getPoint()</a>, and <a class="el" href="../../#l00116">Movement::SplineBase::getPointCount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00142">Movement::PacketBuilder::WriteMonsterMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00144">Movement::PacketBuilder::WriteMonsterMove()</a>.</p>
 
 </div>
 </div>
@@ -1169,29 +1172,29 @@ template&lt;class Flags , int N&gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  100</span>    {</div>
-<div class="line"><span class="lineno">  101</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> last_idx = spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#aec270291a46b401ba59f367a94eaf565">getPointCount</a>() - 3;</div>
-<div class="line"><span class="lineno">  102</span>        Vector3 <span class="keyword">const</span>* real_path = &amp;spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#a9bc79d2c5d81db22c95d51b449343b41">getPoint</a>(1);</div>
-<div class="line"><span class="lineno">  103</span> </div>
-<div class="line"><span class="lineno">  104</span>        data &lt;&lt; last_idx;</div>
-<div class="line"><span class="lineno">  105</span>        data &lt;&lt; real_path[last_idx];   <span class="comment">// destination</span></div>
-<div class="line"><span class="lineno">  106</span>        <span class="keywordflow">if</span> (last_idx &gt; 1)</div>
-<div class="line"><span class="lineno">  107</span>        {</div>
-<div class="line"><span class="lineno">  108</span>            Vector3 middle = (real_path[0] + real_path[last_idx]) / 2.f;</div>
-<div class="line"><span class="lineno">  109</span>            Vector3 offset;</div>
-<div class="line"><span class="lineno">  110</span>            <span class="comment">// first and last points already appended</span></div>
-<div class="line"><span class="lineno">  111</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 1; i &lt; last_idx; ++i)</div>
-<div class="line"><span class="lineno">  112</span>            {</div>
-<div class="line"><span class="lineno">  113</span>                offset = middle - real_path[i];</div>
-<div class="line"><span class="lineno">  114</span>                data.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#a1c3b7fe10221e5c32f3b542b37d453cf">appendPackXYZ</a>(offset.x, offset.y, offset.z);</div>
-<div class="line"><span class="lineno">  115</span>            }</div>
-<div class="line"><span class="lineno">  116</span>        }</div>
-<div class="line"><span class="lineno">  117</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   99</span>    {</div>
+<div class="line"><span class="lineno">  100</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> last_idx = spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#aec270291a46b401ba59f367a94eaf565">getPointCount</a>() - 3;</div>
+<div class="line"><span class="lineno">  101</span>        Vector3 <span class="keyword">const</span>* real_path = &amp;spline.<a class="code hl_function" href="../../d4/d2d/classMovement_1_1SplineBase.html#a9bc79d2c5d81db22c95d51b449343b41">getPoint</a>(1);</div>
+<div class="line"><span class="lineno">  102</span> </div>
+<div class="line"><span class="lineno">  103</span>        data &lt;&lt; last_idx;</div>
+<div class="line"><span class="lineno">  104</span>        data &lt;&lt; real_path[last_idx];   <span class="comment">// destination</span></div>
+<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">if</span> (last_idx &gt; 1)</div>
+<div class="line"><span class="lineno">  106</span>        {</div>
+<div class="line"><span class="lineno">  107</span>            Vector3 middle = (real_path[0] + real_path[last_idx]) / 2.f;</div>
+<div class="line"><span class="lineno">  108</span>            Vector3 offset;</div>
+<div class="line"><span class="lineno">  109</span>            <span class="comment">// first and last points already appended</span></div>
+<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 1; i &lt; last_idx; ++i)</div>
+<div class="line"><span class="lineno">  111</span>            {</div>
+<div class="line"><span class="lineno">  112</span>                offset = middle - real_path[i];</div>
+<div class="line"><span class="lineno">  113</span>                data.<a class="code hl_function" href="../../da/d07/classByteBuffer.html#a1c3b7fe10221e5c32f3b542b37d453cf">appendPackXYZ</a>(offset.x, offset.y, offset.z);</div>
+<div class="line"><span class="lineno">  114</span>            }</div>
+<div class="line"><span class="lineno">  115</span>        }</div>
+<div class="line"><span class="lineno">  116</span>    }</div>
 <div class="ttc" id="aclassByteBuffer_html_a1c3b7fe10221e5c32f3b542b37d453cf"><div class="ttname"><a href="../../da/d07/classByteBuffer.html#a1c3b7fe10221e5c32f3b542b37d453cf">ByteBuffer::appendPackXYZ</a></div><div class="ttdeci">void appendPackXYZ(float x, float y, float z)</div><div class="ttdef"><b>Definition</b> ByteBuffer.h:494</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00494">ByteBuffer::appendPackXYZ()</a>, <a class="el" href="../../#l00117">Movement::SplineBase::getPoint()</a>, and <a class="el" href="../../#l00116">Movement::SplineBase::getPointCount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00142">Movement::PacketBuilder::WriteMonsterMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00144">Movement::PacketBuilder::WriteMonsterMove()</a>.</p>
 
 </div>
 </div>
@@ -1342,7 +1345,7 @@ template&lt;class Flags , int N&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00173">Movement::MoveSplineInit::MoveSplineInit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00174">Movement::MoveSplineInit::MoveSplineInit()</a>.</p>
 
 </div>
 </div>
@@ -1450,7 +1453,7 @@ template&lt;class Flags , int N&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/db7/namespaceMovement.html">Movement</a></li>
-    <li class="footer">Generated on Fri Nov 27 2026 16:02:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 28 2026 14:59:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

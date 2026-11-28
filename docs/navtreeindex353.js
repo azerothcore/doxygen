@@ -1,5 +1,14 @@
 var NAVTREEINDEX353 =
 {
+"dd/d4c/structnpc__rocknot.html#a243dbf155c31e3cf291f70052c764032":[7,0,2148,23],
+"dd/d4c/structnpc__rocknot.html#a275ed7fa0c4612370c52a18ff1e93948":[7,0,2148,8],
+"dd/d4c/structnpc__rocknot.html#a46f52ea33be20bebcebcf892ef4e38a0":[7,0,2148,24],
+"dd/d4c/structnpc__rocknot.html#a4fccfed7a0f7d1e0832ddeb86dab79b0":[7,0,2148,12],
+"dd/d4c/structnpc__rocknot.html#a5ba6b36a8757dcba9fba20f8debe54e7":[7,0,2148,25],
+"dd/d4c/structnpc__rocknot.html#a60f162031b22a4d723a7fc4087675aba":[7,0,2148,6],
+"dd/d4c/structnpc__rocknot.html#a7d416069c92b45f4198fa3e3b2f3aaf7":[7,0,2148,21],
+"dd/d4c/structnpc__rocknot.html#a890eaac55162130b05c7d2dba26cc872":[7,0,2148,0],
+"dd/d4c/structnpc__rocknot.html#a8d4b1ee7abd210f00db3e49154a6f729":[7,0,2148,17],
 "dd/d4c/structnpc__rocknot.html#a9435a45a4f4bf73355f339a737fb4540":[7,0,2148,27],
 "dd/d4c/structnpc__rocknot.html#aa5cf4c54ccef4e0800f537cdeac163a7":[7,0,2148,20],
 "dd/d4c/structnpc__rocknot.html#ab13c0b098679c30da4b642bab7200d99":[7,0,2148,26],
@@ -240,14 +249,5 @@ var NAVTREEINDEX353 =
 "dd/d59/structMapDifficulty.html#a227aec55b5b774076882ea34f70d5d88":[7,0,1527,1],
 "dd/d59/structMapDifficulty.html#a7190131620b9eee0897ac7b4dd62949e":[7,0,1527,4],
 "dd/d59/structMapDifficulty.html#a8dd5436eaec4d0e67f8b41c8dd071148":[7,0,1527,2],
-"dd/d59/structMapDifficulty.html#abf514d1105541d5c5aaf52a91330a1e2":[7,0,1527,0],
-"dd/d59/structMapDifficulty.html#af82ad844bc4ac9585cb9df1963697e1b":[7,0,1527,3],
-"dd/d5a/LFGGroupData_8cpp.html":[8,0,0,0,1,2,15,2],
-"dd/d5a/structBfWGGameObjectBuilding.html":[7,0,366],
-"dd/d5a/structBfWGGameObjectBuilding.html#a038bd5a89eddff137fc085371f9d1888":[7,0,366,19],
-"dd/d5a/structBfWGGameObjectBuilding.html#a1747bf381279251232b35cd8ba47c381":[7,0,366,14],
-"dd/d5a/structBfWGGameObjectBuilding.html#a26ecb2ff29a81d8bad2e5070e39a9f22":[7,0,366,10],
-"dd/d5a/structBfWGGameObjectBuilding.html#a2f1e928509a53a7024bff2c10be306c3":[7,0,366,17],
-"dd/d5a/structBfWGGameObjectBuilding.html#a343e1dede32e1b3d89561f002355c172":[7,0,366,20],
-"dd/d5a/structBfWGGameObjectBuilding.html#a48e7cf336d213225b79c2aaab57dfa8b":[7,0,366,1]
+"dd/d59/structMapDifficulty.html#abf514d1105541d5c5aaf52a91330a1e2":[7,0,1527,0]
 };

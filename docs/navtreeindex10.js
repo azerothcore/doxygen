@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d76/classBattlefieldWG.html#acfd810936e75b65fe3adc9f43e7eac03":[7,0,329,26],
 "d0/d76/classBattlefieldWG.html#ad3f0346dd291e421a5adcd57eb079760":[7,0,329,2],
 "d0/d76/classBattlefieldWG.html#ad40fb6e7319111ee509f38fad409cda8":[7,0,329,5],
 "d0/d76/classBattlefieldWG.html#ae8e7987a52d49b1cba9bd65656959cad":[7,0,329,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d7e/SpellProcConditionsTest_8cpp.html#a79d9aeeff5918b9e0a81fbd57f4e7ccb":[8,0,0,0,2,2,0,11,15,4],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#a7da16546ae468c0e8be892d0ae770371":[8,0,0,0,2,2,0,11,15,12],
 "d0/d7e/SpellProcConditionsTest_8cpp.html#a82bf0bf6fb1a95996b9d00907b610bb6":[8,0,0,0,2,2,0,11,15,16],
-"d0/d7e/SpellProcConditionsTest_8cpp.html#a87f31f52d43e136e5e74b40c468b0f18":[8,0,0,0,2,2,0,11,15,20],
-"d0/d7e/SpellProcConditionsTest_8cpp.html#a9e868b54de80516c769a4167222f1de8":[8,0,0,0,2,2,0,11,15,10]
+"d0/d7e/SpellProcConditionsTest_8cpp.html#a87f31f52d43e136e5e74b40c468b0f18":[8,0,0,0,2,2,0,11,15,20]
 };

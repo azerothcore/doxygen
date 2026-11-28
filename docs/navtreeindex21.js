@@ -1,5 +1,6 @@
 var NAVTREEINDEX21 =
 {
+"d0/dd6/classspell__hun__t9__4p__bonus.html#adbd524ef767a8b5cde13a5358969e344":[7,0,3304,0],
 "d0/dd7/classspell__ayamiss__swarmer__teleport__trigger.html":[7,0,2703],
 "d0/dd7/classspell__ayamiss__swarmer__teleport__trigger.html#a53e1a8632ca51beefe4fc97a3e471ad7":[7,0,2703,1],
 "d0/dd7/classspell__ayamiss__swarmer__teleport__trigger.html#a6ffcf81642f31ee93f3ec213cdc8f92e":[7,0,2703,3],
@@ -24,10 +25,10 @@ var NAVTREEINDEX21 =
 "d0/dda/classgo__fel__crystalforge.html#aa44708a617edd51651da49918ab776e5":[7,0,1182,0],
 "d0/dda/classgo__fel__crystalforge.html#aae9f4beff251efb7b29e1988ddd51eaf":[7,0,1182,1],
 "d0/ddc/WardenPayloadMgr_8h.html":[8,0,0,0,1,2,47,9],
-"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[7,0,0,5,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[5,0,0,8,0,30],
-"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,0,8,0,30,0],
+"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[7,0,0,5,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[7,0,0,5,0,30,0],
+"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,0,8,0,30,0],
 "d0/ddd/PlayerTaxi_8h.html":[8,0,0,0,1,2,16,7,13],
 "d0/ddd/classMinion.html":[7,0,1551],
 "d0/ddd/classMinion.html#a02806f2eae429a33e0d2b0c115892c77":[7,0,1551,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX21 =
 "d0/de7/classBIH.html#a9f8131b465f8c22ffc5a9bea62010101":[7,0,375,8],
 "d0/de7/classBIH.html#aaadd241734ed9ad9b7464ae39911bcb2":[7,0,375,10],
 "d0/de7/classBIH.html#aaf6e9dc5afbd32e0f4c7e77de463d0da":[7,0,375,9],
-"d0/de7/classBIH.html#acab234e905d313accddff297c2679add":[7,0,375,11],
-"d0/de7/classBIH.html#acb45fb62e7f5b814f054c68dba5f7479":[7,0,375,4]
+"d0/de7/classBIH.html#acab234e905d313accddff297c2679add":[7,0,375,11]
 };

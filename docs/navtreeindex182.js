@@ -1,5 +1,7 @@
 var NAVTREEINDEX182 =
 {
+"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a6f21b9607c2701363c769f1964fdeb6a":[8,0,0,0,1,2,7,0,1,18,2],
+"d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a80f9ca9982968bc7ffcf03e15a629144":[8,0,0,0,1,2,7,0,1,18,5],
 "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6a9cadd06d9220ea562a99e2db01d41d9f":[8,0,0,0,1,2,7,0,1,18,1],
 "d6/d4f/BattlefieldWG_8h.html#ab78e6300991b4a13ac5da170e957cca6af5476383b969c2e41d0e4a7342ceaf2b":[8,0,0,0,1,2,7,0,1,18,6],
 "d6/d4f/BattlefieldWG_8h.html#abb6996a69386df29e93a79344097c719":[8,0,0,0,1,2,7,0,1,36],
@@ -247,7 +249,5 @@ var NAVTREEINDEX182 =
 "d6/d58/classspell__item__unusual__compass.html#a9530db7f75987879285d224fb8381c2b":[7,0,3551,0],
 "d6/d58/classspell__item__unusual__compass.html#ad1c1bdb577739f769802127960aaf9e5":[7,0,3551,1],
 "d6/d58/classspell__item__unusual__compass.html#ae3a340132caf3f8839631c92015d47a0":[7,0,3551,2],
-"d6/d58/classspell__load__into__catapult__aura.html":[7,0,3621],
-"d6/d58/classspell__load__into__catapult__aura.html#a3f2ef4882bcd52e091a0bcfabfc352cd":[7,0,3621,0],
-"d6/d58/classspell__load__into__catapult__aura.html#a63a3e30704b282a430dcdbb9073a66df":[7,0,3621,3]
+"d6/d58/classspell__load__into__catapult__aura.html":[7,0,3621]
 };

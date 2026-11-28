@@ -1,8 +1,9 @@
 var NAVTREEINDEX5 =
 {
+"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a08d2992816ee94b6757c2811b54ed437":[5,0,35,0,1,2],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a08d2992816ee94b6757c2811b54ed437":[7,0,13,0,1,2],
-"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a1cdb7e9c7da7e646af14ac4ac3b7e950":[7,0,13,0,1,0],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a1cdb7e9c7da7e646af14ac4ac3b7e950":[5,0,35,0,1,0],
+"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a1cdb7e9c7da7e646af14ac4ac3b7e950":[7,0,13,0,1,0],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a2a482b716f537866a815085ead9cfd38":[7,0,13,0,1,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a2a482b716f537866a815085ead9cfd38":[5,0,35,0,1,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#aaf2cd8c1c3d67301cc40af78f138daa0":[5,0,35,0,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "d0/d52/classspell__item__summon__or__dismiss.html#a4974a3687df394d51db322210ebb5ddb":[7,0,3529,1],
 "d0/d52/classspell__item__summon__or__dismiss.html#a89146ab41d1408c18ce2bff403ae8e4e":[7,0,3529,2],
 "d0/d52/classspell__item__summon__or__dismiss.html#aadfea4a2238754473a8abbc487fd7f7b":[7,0,3529,0],
-"d0/d54/classCaptainSurviveTalk.html":[7,0,854],
-"d0/d54/classCaptainSurviveTalk.html#a43a1b1da17ed41ae765aabc47c858f80":[7,0,854,0]
+"d0/d54/classCaptainSurviveTalk.html":[7,0,854]
 };

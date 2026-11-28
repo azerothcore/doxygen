@@ -1,5 +1,8 @@
 var NAVTREEINDEX319 =
 {
+"db/de4/structActionButton.html":[7,0,130],
+"db/de4/structActionButton.html#a29d804ed78d79f64e868e9741b37d7be":[7,0,130,3],
+"db/de4/structActionButton.html#a2a34a116c4890a12255f9ebe24c1cba8":[7,0,130,4],
 "db/de4/structActionButton.html#a6384e73650da93c96d3b4cc42b151b63":[7,0,130,5],
 "db/de4/structActionButton.html#a78f4e95d921fb997647f89c67c2a66b7":[7,0,130,0],
 "db/de4/structActionButton.html#a7c10f6089fab30179cfe8175b740477a":[7,0,130,1],
@@ -76,8 +79,8 @@ var NAVTREEINDEX319 =
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[5,0,0,8,13,8],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[7,0,0,5,13,1],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[5,0,0,8,13,1],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[5,0,0,8,13,4],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[7,0,0,5,13,4],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[5,0,0,8,13,4],
 "db/de9/classspell__pursue.html":[7,0,3893],
 "db/de9/classspell__pursue.html#a3d864f0428b7e53774d06069037ca5b2":[7,0,3893,0],
 "db/de9/classspell__pursue.html#aafbd4751a01b4ce62dc94eee2e47f64f":[7,0,3893,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX319 =
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ead3961ef5de734ba9384c7c21b78b88a3":[8,0,0,0,1,3,9,3,42,10],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ead3b1ddda51ad79293797b6f433d999e2":[8,0,0,0,1,3,9,3,42,32],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002":[8,0,0,0,1,3,9,3,42,28],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eae4017a2262529adaf18e0cfcc81ca052":[8,0,0,0,1,3,9,3,42,6],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eaeb7d4bc294fe32b38f00fc1b82d777a3":[8,0,0,0,1,3,9,3,42,38],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eaee85f457192462a79325e34dd2af7f45":[8,0,0,0,1,3,9,3,42,37],
-"db/dee/spell__hunter_8cpp.html#aa03e659157155f974790d5937ff68238":[8,0,0,0,1,3,9,3,41]
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eae4017a2262529adaf18e0cfcc81ca052":[8,0,0,0,1,3,9,3,42,6]
 };

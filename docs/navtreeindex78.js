@@ -1,5 +1,7 @@
 var NAVTREEINDEX78 =
 {
+"d2/de0/classspell__yogg__saron__lunatic__gaze.html#a4d2c901a32f526673e968aa5b7ca9117":[7,0,4480,2],
+"d2/de0/classspell__yogg__saron__lunatic__gaze.html#a67da98b94fe491afa06b7a0cfa92982a":[7,0,4480,1],
 "d2/de0/classspell__yogg__saron__lunatic__gaze.html#a7efa78a7991b7ca859c7d622f973265d":[7,0,4480,0],
 "d2/de1/classlearn__commandscript.html":[7,0,1447],
 "d2/de1/classlearn__commandscript.html#a1e08e9289a6dccde021f3712db106c64":[7,0,1447,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX78 =
 "d2/de9/classSpellInfo.html#a872cb18421b8e2ebde89d3f0a4a18b49":[7,0,4515,137],
 "d2/de9/classSpellInfo.html#a889b32138b72e5e9fabfc03d9cd3b97a":[7,0,4515,108],
 "d2/de9/classSpellInfo.html#a8a627136cf1624b944f8c12702e1e7ed":[7,0,4515,146],
-"d2/de9/classSpellInfo.html#a8ab6fe71653fb500057fe9ab86025315":[7,0,4515,61],
-"d2/de9/classSpellInfo.html#a8b0406b9d3923cb0f92099f9c12822cb":[7,0,4515,5],
-"d2/de9/classSpellInfo.html#a8ba2153277635fd4503d833931591684":[7,0,4515,8]
+"d2/de9/classSpellInfo.html#a8ab6fe71653fb500057fe9ab86025315":[7,0,4515,61]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX136 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97fae4056733c3ac81847baf38144c86e5ea":[8,0,0,0,1,3,5,2,1,1,51,6],
+"d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97faff7b7175905076f5844de02e303cb12a":[8,0,0,0,1,3,5,2,1,1,51,4],
 "d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162":[8,0,0,0,1,3,5,2,1,1,60],
 "d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162a2fbda2e8eaca516b13c34fc8162feaf3":[8,0,0,0,1,3,5,2,1,1,60,0],
 "d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162a5fd7be997bc2cd3b4ca83129bf323c60":[8,0,0,0,1,3,5,2,1,1,60,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX136 =
 "d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[7,0,2735,2],
 "d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[7,0,2735,0],
 "d4/d82/structboss__ambassador__hellmaw.html":[7,0,391],
-"d4/d82/structboss__ambassador__hellmaw.html#a35579b31dec1d0c110b459230ee129e4":[7,0,391,2],
-"d4/d82/structboss__ambassador__hellmaw.html#a3cbd58fb11fe8d297907bb40d69e4ccb":[7,0,391,3],
-"d4/d82/structboss__ambassador__hellmaw.html#a44dae5d6517e22dd2be399d08fa67a71":[7,0,391,12]
+"d4/d82/structboss__ambassador__hellmaw.html#a35579b31dec1d0c110b459230ee129e4":[7,0,391,2]
 };

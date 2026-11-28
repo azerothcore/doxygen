@@ -346,7 +346,7 @@ Private Member Functions</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00057">Signatures::signatureMap</a>, and <a class="el" href="../../#l00097">SignatureStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00077">LoadSignatures()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00078">LoadSignatures()</a>.</p>
 
 </div>
 </div>
@@ -668,38 +668,39 @@ Private Member Functions</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
 <div class="line"><span class="lineno">   42</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
 <div class="line"><span class="lineno">   43</span>    <a class="code hl_variable" href="../../de/d80/classPetitionMgr.html#a49bb11e33b39fa77f5394130e8405537">PetitionStore</a>.clear();</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_variable" href="../../de/d80/classPetitionMgr.html#a09d887738b93816dc68df39f3294b063">PetitionIdToItemGuid</a>.clear();</div>
-<div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT ownerguid, petitionguid, name, type, petition_id FROM petition&quot;</span>);</div>
-<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">   48</span>    {</div>
-<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 Petitions!&quot;</span>);</div>
-<div class="line"><span class="lineno">   50</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   52</span>    }</div>
-<div class="line"><span class="lineno">   53</span> </div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxId = 0;</div>
-<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">   57</span>    {</div>
-<div class="line"><span class="lineno">   58</span>        <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">   59</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> itemLow = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">   60</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> petitionId = fields[4].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">   61</span>        <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> itemGuid = ObjectGuid::Create&lt;HighGuid::Item&gt;(itemLow);</div>
-<div class="line"><span class="lineno">   62</span>        <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> ownerGuid = ObjectGuid::Create&lt;HighGuid::Player&gt;(fields[0].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">   63</span>        <a class="code hl_function" href="../../de/d80/classPetitionMgr.html#a396e38c3e63d544d5b9bf56413fa28f0">AddPetition</a>(itemGuid, ownerGuid, fields[2].Get&lt;std::string&gt;(), fields[3].Get&lt;uint8&gt;(), petitionId);</div>
-<div class="line"><span class="lineno">   64</span>        <a class="code hl_variable" href="../../de/d80/classPetitionMgr.html#a09d887738b93816dc68df39f3294b063">PetitionIdToItemGuid</a>[petitionId] = itemGuid;</div>
-<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">if</span> (petitionId &gt; maxId)</div>
-<div class="line"><span class="lineno">   66</span>            maxId = petitionId;</div>
-<div class="line"><span class="lineno">   67</span>        ++count;</div>
-<div class="line"><span class="lineno">   68</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">   69</span> </div>
-<div class="line"><span class="lineno">   70</span>    <span class="comment">// initialize next id (keep within 31-bit safe range)</span></div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_variable" href="../../de/d80/classPetitionMgr.html#a9fd355d25fbfb54c6e48334280adafae">_nextPetitionId</a> = std::min&lt;uint32&gt;(std::max&lt;uint32&gt;(maxId + 1, 1), 0x7FFFFFFFu);</div>
-<div class="line"><span class="lineno">   72</span> </div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Petitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   75</span>}</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_variable" href="../../de/d80/classPetitionMgr.html#a784ff7990f17d4cfdc4f24b6f863e88e">SignatureStore</a>.clear();</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_variable" href="../../de/d80/classPetitionMgr.html#a09d887738b93816dc68df39f3294b063">PetitionIdToItemGuid</a>.clear();</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT ownerguid, petitionguid, name, type, petition_id FROM petition&quot;</span>);</div>
+<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">if</span> (!result)</div>
+<div class="line"><span class="lineno">   49</span>    {</div>
+<div class="line"><span class="lineno">   50</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 Petitions!&quot;</span>);</div>
+<div class="line"><span class="lineno">   51</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   53</span>    }</div>
+<div class="line"><span class="lineno">   54</span> </div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxId = 0;</div>
+<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">do</span></div>
+<div class="line"><span class="lineno">   58</span>    {</div>
+<div class="line"><span class="lineno">   59</span>        <a class="code hl_class" href="../../d7/d24/classField.html">Field</a>* fields = result-&gt;Fetch();</div>
+<div class="line"><span class="lineno">   60</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> itemLow = fields[1].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   61</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> petitionId = fields[4].<a class="code hl_function" href="../../d7/d24/classField.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   62</span>        <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> itemGuid = ObjectGuid::Create&lt;HighGuid::Item&gt;(itemLow);</div>
+<div class="line"><span class="lineno">   63</span>        <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> ownerGuid = ObjectGuid::Create&lt;HighGuid::Player&gt;(fields[0].Get&lt;uint32&gt;());</div>
+<div class="line"><span class="lineno">   64</span>        <a class="code hl_function" href="../../de/d80/classPetitionMgr.html#a396e38c3e63d544d5b9bf56413fa28f0">AddPetition</a>(itemGuid, ownerGuid, fields[2].Get&lt;std::string&gt;(), fields[3].Get&lt;uint8&gt;(), petitionId);</div>
+<div class="line"><span class="lineno">   65</span>        <a class="code hl_variable" href="../../de/d80/classPetitionMgr.html#a09d887738b93816dc68df39f3294b063">PetitionIdToItemGuid</a>[petitionId] = itemGuid;</div>
+<div class="line"><span class="lineno">   66</span>        <span class="keywordflow">if</span> (petitionId &gt; maxId)</div>
+<div class="line"><span class="lineno">   67</span>            maxId = petitionId;</div>
+<div class="line"><span class="lineno">   68</span>        ++count;</div>
+<div class="line"><span class="lineno">   69</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
+<div class="line"><span class="lineno">   70</span> </div>
+<div class="line"><span class="lineno">   71</span>    <span class="comment">// initialize next id (keep within 31-bit safe range)</span></div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_variable" href="../../de/d80/classPetitionMgr.html#a9fd355d25fbfb54c6e48334280adafae">_nextPetitionId</a> = std::min&lt;uint32&gt;(std::max&lt;uint32&gt;(maxId + 1, 1), 0x7FFFFFFFu);</div>
+<div class="line"><span class="lineno">   73</span> </div>
+<div class="line"><span class="lineno">   74</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Petitions in {} ms&quot;</span>, count, <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   76</span>}</div>
 <div class="ttc" id="aDatabaseEnvFwd_8h_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition</b> DatabaseEnvFwd.h:27</div></div>
 <div class="ttc" id="aDatabaseEnv_8cpp_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aLog_8h_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:153</div></div>
@@ -711,7 +712,7 @@ Private Member Functions</h2></td></tr>
 <div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:121</div></div>
 <div class="ttc" id="aclassPetitionMgr_html_a396e38c3e63d544d5b9bf56413fa28f0"><div class="ttname"><a href="../../de/d80/classPetitionMgr.html#a396e38c3e63d544d5b9bf56413fa28f0">PetitionMgr::AddPetition</a></div><div class="ttdeci">void AddPetition(ObjectGuid petitionGUID, ObjectGuid ownerGuid, std::string const &amp;name, uint8 type, uint32 petitionId)</div><div class="ttdef"><b>Definition</b> PetitionMgr.cpp:106</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00101">_nextPetitionId</a>, <a class="el" href="../../#l00106">AddPetition()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, <a class="el" href="../../#l00099">PetitionIdToItemGuid</a>, and <a class="el" href="../../#l00096">PetitionStore</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00101">_nextPetitionId</a>, <a class="el" href="../../#l00106">AddPetition()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, <a class="el" href="../../#l00099">PetitionIdToItemGuid</a>, <a class="el" href="../../#l00096">PetitionStore</a>, and <a class="el" href="../../#l00097">SignatureStore</a>.</p>
 
 </div>
 </div>
@@ -729,9 +730,8 @@ Private Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   78</span>{</div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">   80</span>    <a class="code hl_variable" href="../../de/d80/classPetitionMgr.html#a784ff7990f17d4cfdc4f24b6f863e88e">SignatureStore</a>.clear();</div>
+<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
 <div class="line"><span class="lineno">   81</span> </div>
 <div class="line"><span class="lineno">   82</span>    <a class="code hl_typedef" href="../../d0/d5e/DatabaseEnvFwd_8h.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT petition_id, playerguid, player_account FROM petition_sign&quot;</span>);</div>
 <div class="line"><span class="lineno">   83</span>    <span class="keywordflow">if</span> (!result)</div>
@@ -758,7 +758,7 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  104</span>}</div>
 <div class="ttc" id="aclassPetitionMgr_html_a00f47487f06ced804371e63427f4afdb"><div class="ttname"><a href="../../de/d80/classPetitionMgr.html#a00f47487f06ced804371e63427f4afdb">PetitionMgr::AddSignature</a></div><div class="ttdeci">void AddSignature(ObjectGuid petitionGUID, uint32 accountId, ObjectGuid playerGuid)</div><div class="ttdef"><b>Definition</b> PetitionMgr.cpp:186</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00186">AddSignature()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, <a class="el" href="../../#l00099">PetitionIdToItemGuid</a>, and <a class="el" href="../../#l00097">SignatureStore</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00186">AddSignature()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00113">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, and <a class="el" href="../../#l00099">PetitionIdToItemGuid</a>.</p>
 
 </div>
 </div>
@@ -967,7 +967,7 @@ Private Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00224">GeneratePetitionId()</a>, <a class="el" href="../../#l00250">GetItemGuidByPetitionId()</a>, <a class="el" href="../../#l00168">GetPetitionById()</a>, <a class="el" href="../../#l00040">LoadPetitions()</a>, <a class="el" href="../../#l00077">LoadSignatures()</a>, and <a class="el" href="../../#l00120">RemovePetition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00224">GeneratePetitionId()</a>, <a class="el" href="../../#l00250">GetItemGuidByPetitionId()</a>, <a class="el" href="../../#l00168">GetPetitionById()</a>, <a class="el" href="../../#l00040">LoadPetitions()</a>, <a class="el" href="../../#l00078">LoadSignatures()</a>, and <a class="el" href="../../#l00120">RemovePetition()</a>.</p>
 
 </div>
 </div>
@@ -1015,7 +1015,7 @@ Private Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00106">AddPetition()</a>, <a class="el" href="../../#l00186">AddSignature()</a>, <a class="el" href="../../#l00192">GetSignature()</a>, <a class="el" href="../../#l00089">GetSignatureStore()</a>, <a class="el" href="../../#l00077">LoadSignatures()</a>, <a class="el" href="../../#l00120">RemovePetition()</a>, <a class="el" href="../../#l00133">RemovePetitionByOwnerAndType()</a>, <a class="el" href="../../#l00200">RemoveSignaturesByPlayer()</a>, and <a class="el" href="../../#l00210">RemoveSignaturesByPlayerAndType()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00106">AddPetition()</a>, <a class="el" href="../../#l00186">AddSignature()</a>, <a class="el" href="../../#l00192">GetSignature()</a>, <a class="el" href="../../#l00089">GetSignatureStore()</a>, <a class="el" href="../../#l00040">LoadPetitions()</a>, <a class="el" href="../../#l00120">RemovePetition()</a>, <a class="el" href="../../#l00133">RemovePetitionByOwnerAndType()</a>, <a class="el" href="../../#l00200">RemoveSignaturesByPlayer()</a>, and <a class="el" href="../../#l00210">RemoveSignaturesByPlayerAndType()</a>.</p>
 
 </div>
 </div>
@@ -1029,7 +1029,7 @@ Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d80/classPetitionMgr.html">PetitionMgr</a></li>
-    <li class="footer">Generated on Fri Nov 27 2026 16:01:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 28 2026 14:59:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

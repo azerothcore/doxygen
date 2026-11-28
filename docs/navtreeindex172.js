@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"d5/dfb/classObjectMgr.html#aa39f46754ed5294b58138cabd8f9d51c":[7,0,2364,264],
+"d5/dfb/classObjectMgr.html#aa5427f05b4b3506d3fe327a968a84b33":[7,0,2364,201],
 "d5/dfb/classObjectMgr.html#aa5d59bb526ab6378650ef656ecf3f4aa":[7,0,2364,39],
 "d5/dfb/classObjectMgr.html#aa612aa8373f2c4f37ea62498f31f30fc":[7,0,2364,191],
 "d5/dfb/classObjectMgr.html#aa7a855ec14472960883d4f399f8758bf":[7,0,2364,427],
@@ -216,8 +218,8 @@ var NAVTREEINDEX172 =
 "d5/dfc/classaccount__commandscript.html#afba345af5a9da1ff68c7333015730ef3":[7,0,24,11],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,0,8,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[7,0,0,5,0,21],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[7,0,0,5,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,0,8,0,21,0],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[7,0,0,5,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[8,0,0,0,1,3,5,10,1,2],
 "d6/d00/boss__svala_8cpp.html#a195da0593c7dcda5b370c27054549a29":[8,0,0,0,1,3,5,10,1,2,8],
 "d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[8,0,0,0,1,3,5,10,1,2,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae1ceb8b32b052fe8b07d0d5b088324d2":[8,0,0,0,1,3,5,10,1,2,7,21],
 "d6/d00/boss__svala_8cpp.html#a63dcbd403d2085f41f78ea6b55e0aebe":[8,0,0,0,1,3,5,10,1,2,9],
 "d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,10,1,2,6],
-"d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a00b8077971e08dba4a313fb98f53b2be":[8,0,0,0,1,3,5,10,1,2,6,6],
-"d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0b71c7eb60422dc6df58d353e77798af":[8,0,0,0,1,3,5,10,1,2,6,0],
-"d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a154790b1dc7e43d55354d34ea4511fb6":[8,0,0,0,1,3,5,10,1,2,6,13]
+"d6/d00/boss__svala_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a00b8077971e08dba4a313fb98f53b2be":[8,0,0,0,1,3,5,10,1,2,6,6]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX70 =
 {
+"d2/d73/classScriptMgr.html#acccdeba202630c869ecd19442286a687":[7,0,2586,418],
+"d2/d73/classScriptMgr.html#acd2f68eaea8392472e5b04f95409b48e":[7,0,2586,383],
 "d2/d73/classScriptMgr.html#acd4cf08ec750106ff5a0e9dabbb8d876":[7,0,2586,316],
 "d2/d73/classScriptMgr.html#acddb442ee8694d98eb852d05d6389761":[7,0,2586,222],
 "d2/d73/classScriptMgr.html#acddcea724e75be81ce4fabae5ba97274":[7,0,2586,510],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d7d/structLockEntry.html":[7,0,1481],
 "d2/d7d/structLockEntry.html#a39b0b548efd795c162926bddcdd301b5":[7,0,1481,3],
 "d2/d7d/structLockEntry.html#a3af48dd3f6b92ad7f5950d99ca6dd379":[7,0,1481,0],
-"d2/d7d/structLockEntry.html#aa58e046529aae0d1d6201c08ec8107e2":[7,0,1481,1],
-"d2/d7d/structLockEntry.html#aed5e58cf605d3c28cd0d26015722be03":[7,0,1481,2],
-"d2/d7e/boss__pandemonius_8cpp.html":[8,0,0,0,1,3,7,0,1,1]
+"d2/d7d/structLockEntry.html#aa58e046529aae0d1d6201c08ec8107e2":[7,0,1481,1]
 };

@@ -12,8 +12,9 @@ var structboss__sartharion__dragonAI =
     [ "MovementInform", "d9/df5/structboss__sartharion__dragonAI.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
     [ "RemoveTwilightPortal", "d9/df5/structboss__sartharion__dragonAI.html#a26aff742f99b04bfaf56fa46158ce306", null ],
     [ "Reset", "d9/df5/structboss__sartharion__dragonAI.html#a86acfe30f898bd6b709c4743ae808867", null ],
+    [ "StartPatrolLoop", "d9/df5/structboss__sartharion__dragonAI.html#a32910ea9099a2fab2de9f9ebeecb6860", null ],
     [ "UpdateAI", "d9/df5/structboss__sartharion__dragonAI.html#a0e9382d8dce8251336d81539b7d82e15", null ],
-    [ "currentPatrolPoint", "d9/df5/structboss__sartharion__dragonAI.html#a308e282df080758c41c70f49f8977098", null ],
+    [ "_startLandingDescent", "d9/df5/structboss__sartharion__dragonAI.html#a8851f53e018a34d11664a07ebab87078", null ],
     [ "extraEvents", "d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
     [ "isCalledBySartharion", "d9/df5/structboss__sartharion__dragonAI.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
     [ "portalGUID", "d9/df5/structboss__sartharion__dragonAI.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]

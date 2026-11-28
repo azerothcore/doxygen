@@ -1,5 +1,8 @@
 var NAVTREEINDEX293 =
 {
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a6351d79ac2a9fbf63cca0fee0dcb670e":[8,0,0,0,1,3,5,4,0,1,6,3],
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa3cdca173c6ef467405d6b051b353a03":[8,0,0,0,1,3,5,4,0,1,6,5],
+"db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa6464091ba95df048d18c93e4cc19816":[8,0,0,0,1,3,5,4,0,1,6,9],
 "db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aad34a5e4555dd59573760cdfd0c0a7f8":[8,0,0,0,1,3,5,4,0,1,6,2],
 "db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab142d6a2fefa77506cdca07ae01215a4":[8,0,0,0,1,3,5,4,0,1,6,6],
 "db/d09/boss__devourer__of__souls_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afb91ec7a452209d34726fd67b9984bbd":[8,0,0,0,1,3,5,4,0,1,6,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX293 =
 "db/d14/structnpc__necrotic__shard.html#a65e2066192fa7c7fadc4aeaf8b0a9dd2":[7,0,2034,3],
 "db/d14/structnpc__necrotic__shard.html#a83e16b403c352c29a4274d3641876e72":[7,0,2034,6],
 "db/d14/structnpc__necrotic__shard.html#a86289f7c8ec1f3a52c7d88b1be15201d":[7,0,2034,1],
-"db/d14/structnpc__necrotic__shard.html#a9a3dfceaa896a63cbf4b517acc243468":[7,0,2034,5],
-"db/d14/structnpc__necrotic__shard.html#aa38be6224d7712e710861a4b3ba0424e":[7,0,2034,17],
-"db/d14/structnpc__necrotic__shard.html#aa456d50b6e77bc86ecf0399474ced4d3":[7,0,2034,20],
-"db/d14/structnpc__necrotic__shard.html#aa71daa74d312f6da03ccd64a8141624b":[7,0,2034,10]
+"db/d14/structnpc__necrotic__shard.html#a9a3dfceaa896a63cbf4b517acc243468":[7,0,2034,5]
 };

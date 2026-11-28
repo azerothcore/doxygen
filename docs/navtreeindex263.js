@@ -1,5 +1,7 @@
 var NAVTREEINDEX263 =
 {
+"d9/df2/classnpc__q24545__vegard.html#ac12e2f143fab6b93950eaea06f5f7d85":[7,0,2121,1],
+"d9/df2/classspell__najentus__remove__spines.html":[7,0,3747],
 "d9/df2/classspell__najentus__remove__spines.html#a076b056328ba6181a6ec907f21258f9d":[7,0,3747,2],
 "d9/df2/classspell__najentus__remove__spines.html#a7e03b63174511ed4c3e78c99b781f8f2":[7,0,3747,0],
 "d9/df2/classspell__najentus__remove__spines.html#aaed4b5d67dbd06cb0a1adc91aa873247":[7,0,3747,1],
@@ -138,19 +140,20 @@ var NAVTREEINDEX263 =
 "d9/df5/structboss__sartharion.html#aedd7e43d6d0a0a51f19cb57d8d47a3c5":[7,0,699,7],
 "d9/df5/structboss__sartharion.html#aef30845772ce56ad04091eda58b143ec":[7,0,699,13],
 "d9/df5/structboss__sartharion__dragonAI.html":[7,0,700],
-"d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836":[7,0,700,14],
+"d9/df5/structboss__sartharion__dragonAI.html#a0018fdf6e4567a74e5b16e4e09a00836":[7,0,700,15],
 "d9/df5/structboss__sartharion__dragonAI.html#a09428ec63c8589a527accf8b024f6666":[7,0,700,7],
-"d9/df5/structboss__sartharion__dragonAI.html#a0e9382d8dce8251336d81539b7d82e15":[7,0,700,12],
+"d9/df5/structboss__sartharion__dragonAI.html#a0e9382d8dce8251336d81539b7d82e15":[7,0,700,13],
 "d9/df5/structboss__sartharion__dragonAI.html#a152126a6deb6b79943f667e1dccfe7e5":[7,0,700,3],
 "d9/df5/structboss__sartharion__dragonAI.html#a16582179f25ddc130f97bb70fe80316f":[7,0,700,6],
 "d9/df5/structboss__sartharion__dragonAI.html#a26aff742f99b04bfaf56fa46158ce306":[7,0,700,10],
 "d9/df5/structboss__sartharion__dragonAI.html#a2988e9a5a8edd9aa807d8b13867fe6d7":[7,0,700,5],
-"d9/df5/structboss__sartharion__dragonAI.html#a308e282df080758c41c70f49f8977098":[7,0,700,13],
-"d9/df5/structboss__sartharion__dragonAI.html#a45a92a0754572b8d619fddbd1bdb234f":[7,0,700,15],
+"d9/df5/structboss__sartharion__dragonAI.html#a32910ea9099a2fab2de9f9ebeecb6860":[7,0,700,12],
+"d9/df5/structboss__sartharion__dragonAI.html#a45a92a0754572b8d619fddbd1bdb234f":[7,0,700,16],
 "d9/df5/structboss__sartharion__dragonAI.html#a6870b91b1d36c79add8bd86a8e1fac4d":[7,0,700,9],
 "d9/df5/structboss__sartharion__dragonAI.html#a75cd7f27019e4013adde104e7663e5bc":[7,0,700,8],
-"d9/df5/structboss__sartharion__dragonAI.html#a852ab0dabe5b6d8e6b0a53e6425ff085":[7,0,700,16],
+"d9/df5/structboss__sartharion__dragonAI.html#a852ab0dabe5b6d8e6b0a53e6425ff085":[7,0,700,17],
 "d9/df5/structboss__sartharion__dragonAI.html#a86acfe30f898bd6b709c4743ae808867":[7,0,700,11],
+"d9/df5/structboss__sartharion__dragonAI.html#a8851f53e018a34d11664a07ebab87078":[7,0,700,14],
 "d9/df5/structboss__sartharion__dragonAI.html#a9c664ff661a3e83b98e1a28c81d662b0":[7,0,700,4],
 "d9/df5/structboss__sartharion__dragonAI.html#a9e1fb29994441dd2d41aeb2c04205d7b":[7,0,700,1],
 "d9/df5/structboss__sartharion__dragonAI.html#ac77eaacb9a5360802e862c95e54ec8ef":[7,0,700,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX263 =
 "d9/df7/ulduar_8h.html#a3e8561c1ec3cb8ae0fe64d2361bf379f":[8,0,0,0,1,3,5,9,2,16,4],
 "d9/df7/ulduar_8h.html#a3e8561c1ec3cb8ae0fe64d2361bf379fa2c2e5ea2f9823a249c2d8e44bb4966aa":[8,0,0,0,1,3,5,9,2,16,4,2],
 "d9/df7/ulduar_8h.html#a3e8561c1ec3cb8ae0fe64d2361bf379fa3c9e6cea739bb1eb05cea7e425b56c13":[8,0,0,0,1,3,5,9,2,16,4,0],
-"d9/df7/ulduar_8h.html#a3e8561c1ec3cb8ae0fe64d2361bf379fa662074617cb51c00a6119b2d0197ee66":[8,0,0,0,1,3,5,9,2,16,4,3],
-"d9/df7/ulduar_8h.html#a3e8561c1ec3cb8ae0fe64d2361bf379fa7ad35fe0801baa670dc016f0a05e166f":[8,0,0,0,1,3,5,9,2,16,4,1],
-"d9/df7/ulduar_8h.html#a3e8561c1ec3cb8ae0fe64d2361bf379fa88c0c7271ad18ceee95208be79ac9368":[8,0,0,0,1,3,5,9,2,16,4,4],
-"d9/df7/ulduar_8h.html#a578eceaac26622326c101b3ef711d392":[8,0,0,0,1,3,5,9,2,16,6]
+"d9/df7/ulduar_8h.html#a3e8561c1ec3cb8ae0fe64d2361bf379fa662074617cb51c00a6119b2d0197ee66":[8,0,0,0,1,3,5,9,2,16,4,3]
 };

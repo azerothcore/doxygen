@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621":[8,0,0,0,1,2,3,4,7],
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3":[8,0,0,0,1,2,3,4,7,7],
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38":[8,0,0,0,1,2,3,4,7,6],
 "d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508":[8,0,0,0,1,2,3,4,7,4],
@@ -96,14 +97,14 @@ var NAVTREEINDEX52 =
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae907325621c0c0a40fc1e7761b81e832":[7,0,2382,10],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[5,0,35,12,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[7,0,13,12,2],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,35,12,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[7,0,13,12,2,2],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,35,12,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,35,12,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[7,0,13,12,2,3],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,35,12,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[7,0,13,12,2,1],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[7,0,13,12,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,35,12,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,35,12,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[7,0,13,12,2,0],
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html":[7,0,3539],
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html#a19094a96e052ec5b1b82aa9a124b30cc":[7,0,3539,2],
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html#a29dfea997f49052f683cabdf01295126":[7,0,3539,1],
@@ -128,12 +129,12 @@ var NAVTREEINDEX52 =
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02":[8,0,0,0,1,2,38,0,19,1,4],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0":[8,0,0,0,1,2,38,0,19,1,3],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa":[8,0,0,0,1,2,38,0,19,1,0],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,0,102],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[7,0,0,90],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,0,102],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[7,0,0,90,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,0,102,3],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,0,102,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[7,0,0,90,1],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,0,102,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[7,0,0,90,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,0,102,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[7,0,0,90,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d12/classUnitScript.html#a8d04617af120a1e23ad57a45440744bb":[7,0,4666,17],
 "d2/d12/classUnitScript.html#a95d2e7dd7074494fdd4f530f9684c1bf":[7,0,4666,1],
 "d2/d12/classUnitScript.html#a9df6f81297f53007f1227778466e912f":[7,0,4666,18],
-"d2/d12/classUnitScript.html#ac2f40d7ca52538ae874f60a7acbf443b":[7,0,4666,5],
-"d2/d12/classUnitScript.html#acacf12c000646710abf931429a0852c0":[7,0,4666,20]
+"d2/d12/classUnitScript.html#ac2f40d7ca52538ae874f60a7acbf443b":[7,0,4666,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"d0/d54/classCaptainSurviveTalk.html#a43a1b1da17ed41ae765aabc47c858f80":[7,0,854,0],
 "d0/d54/classCaptainSurviveTalk.html#a871cf08e8c7fced2971cae8abbc20454":[7,0,854,1],
 "d0/d54/classCaptainSurviveTalk.html#ac8de506afb4688560ea637918d07b01e":[7,0,854,2],
 "d0/d55/AllCommandScript_8h.html":[8,0,0,0,1,2,38,0,11],
@@ -84,14 +85,14 @@ var NAVTREEINDEX6 =
 "d0/d58/structSpellEnchantProcEntry.html#a6bbb4046cd4c068c990aa28844e4588b":[7,0,4509,0],
 "d0/d58/structSpellEnchantProcEntry.html#ac5d048f7ee803d61d5d3c59bb80a015d":[7,0,4509,1],
 "d0/d58/structSpellEnchantProcEntry.html#adb76c11f0073a2738374c98c01fda009":[7,0,4509,2],
-"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html":[5,0,35,10,6],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html":[7,0,13,10,6],
+"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html":[5,0,35,10,6],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a23500c61c0653f39c8c8a96ab34d0bf0":[5,0,35,10,6,0],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a23500c61c0653f39c8c8a96ab34d0bf0":[7,0,13,10,6,0],
-"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a7ee57120fc5221ccf1e18d877d5bccff":[7,0,13,10,6,1],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a7ee57120fc5221ccf1e18d877d5bccff":[5,0,35,10,6,1],
-"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#abd8640cb98238f339218c3b945885c97":[7,0,13,10,6,3],
+"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#a7ee57120fc5221ccf1e18d877d5bccff":[7,0,13,10,6,1],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#abd8640cb98238f339218c3b945885c97":[5,0,35,10,6,3],
+"d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#abd8640cb98238f339218c3b945885c97":[7,0,13,10,6,3],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#ad4ff3977c260035145d6acd00429d81e":[7,0,13,10,6,2],
 "d0/d59/classWorldPackets_1_1Misc_1_1MinimapPingClient.html#ad4ff3977c260035145d6acd00429d81e":[5,0,35,10,6,2],
 "d0/d59/classspell__item__dementia.html":[7,0,3416],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "d0/d5b/classPlayerScript.html#aa78bd0f92ec5282196d3723fe0488d64":[7,0,2463,81],
 "d0/d5b/classPlayerScript.html#aa8049d8f999c983d032c4a83f44d384d":[7,0,2463,177],
 "d0/d5b/classPlayerScript.html#aaa5e48e7d6efe680151c5fb43da1f396":[7,0,2463,162],
-"d0/d5b/classPlayerScript.html#aad0970e43dcd43a47f10e366cb330157":[7,0,2463,107],
-"d0/d5b/classPlayerScript.html#aad9c53f38209b82f76e73a8bf847c452":[7,0,2463,137]
+"d0/d5b/classPlayerScript.html#aad0970e43dcd43a47f10e366cb330157":[7,0,2463,107]
 };

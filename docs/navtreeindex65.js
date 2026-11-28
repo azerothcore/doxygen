@@ -1,5 +1,6 @@
 var NAVTREEINDEX65 =
 {
+"d2/d4c/classspell__malygos__vortex__visual.html#a1d9a8a8b289f565712ab79e9857f6eb7":[7,0,3687,1],
 "d2/d4c/classspell__malygos__vortex__visual.html#a7bb0a7c71fb3b9958226069ed6e3399b":[7,0,3687,0],
 "d2/d4c/classspell__malygos__vortex__visual.html#aa2c970e4e5b84d79960023c79e95f9c3":[7,0,3687,3],
 "d2/d4c/classspell__malygos__vortex__visual.html#aae6c3a215b09fd2270976190600e2cc4":[7,0,3687,2],
@@ -210,8 +211,8 @@ var NAVTREEINDEX65 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[7,0,4288,2],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[7,0,4288,1],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[7,0,4288,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,35,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[7,0,13,0,3],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,35,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,35,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[7,0,13,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,35,0,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX65 =
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298cac95df81f3d783f0a3b0e67ccb07223fb":[8,0,0,0,1,3,5,3,1,6,5],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298cadce11109ff01a68c5c7c8d3ed00127f7":[8,0,0,0,1,3,5,3,1,6,9],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298cae3f2667b591e742f5ecdfbd70392fee2":[8,0,0,0,1,3,5,3,1,6,8],
-"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803":[8,0,0,0,1,3,5,3,1,6,1],
-"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298caf61006dc3f13afb869ca56c4cf8f03ee":[8,0,0,0,1,3,5,3,1,6,12]
+"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803":[8,0,0,0,1,3,5,3,1,6,1]
 };

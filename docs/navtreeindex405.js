@@ -1,5 +1,16 @@
 var NAVTREEINDEX405 =
 {
+"de/dd5/classspell__sorlofs__booty__big__gun__assault.html":[7,0,4210],
+"de/dd5/classspell__sorlofs__booty__big__gun__assault.html#a3a0f6a1c3bad060c209e869c7c4dcd15":[7,0,4210,0],
+"de/dd5/classspell__sorlofs__booty__big__gun__assault.html#a4649e83f5a8449d6b17dbb5b5c56cd00":[7,0,4210,1],
+"de/dd5/classspell__sorlofs__booty__big__gun__assault.html#a9e272ccbcda76df669b2c15e6d2de061":[7,0,4210,2],
+"de/dd5/classspell__sorlofs__booty__big__gun__assault.html#aec08efe15452819d923c40030e464392":[7,0,4210,3],
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html":[7,0,1683,0],
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a30dc40f8922f8f34d6ad7ec3053413e4":[7,0,1683,0,7],
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a34d51c96005f620c0010948acb6c89ec":[7,0,1683,0,1],
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a508a5e3f0acafa98956bba6eb41f28fb":[7,0,1683,0,10],
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a724de41f7b14755d704d5de335da380b":[7,0,1683,0,8],
+"de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a7bb96de89b9dc6b6f97443e9aec3ad61":[7,0,1683,0,4],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#a90314990bc6404bf2a4005bb94213926":[7,0,1683,0,0],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#ab18870c29224fc3fa5e7b76c1aa981f4":[7,0,1683,0,5],
 "de/dd5/structnpc__ball__of__flame_1_1npc__ball__of__flameAI.html#ab82ac6ffc7f946428c26f5bd6585f95c":[7,0,1683,0,6],
@@ -238,16 +249,5 @@ var NAVTREEINDEX405 =
 "de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[7,0,2219,2],
 "de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[7,0,2219,1],
 "de/de5/classspell__capacitus__polarity__charge__aura.html":[7,0,2779],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[7,0,2779,1],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[7,0,2779,2],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[7,0,2779,0],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html":[7,0,1368,0],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a07d9bcc1b1daa29f31be146aaa85993c":[7,0,1368,0,1],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1abdafc284def7ab4069a17c0aeda535":[7,0,1368,0,6],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1c9c74f06b2e1db77d5e6c75e720290c":[7,0,1368,0,9],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a49ac1088399ef71b1fcd7c90c6a34fac":[7,0,1368,0,2],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a4abdd53f735be815cb2d43497d1531e0":[7,0,1368,0,0],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a5e90e8cadff18b19c9a1d451dbe675c9":[7,0,1368,0,4],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a71fcfc166f945325a4ee149645a9ccef":[7,0,1368,0,3],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a9d025f0d9740eaec42fe4f45971a6cf9":[7,0,1368,0,10]
+"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[7,0,2779,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"d4/dd8/structAchievementCriteriaData.html#a1bda3570b1adb636a60d8d94995adbcf":[7,0,117,26],
+"d4/dd8/structAchievementCriteriaData.html#a23373b6f321d0e144e30658cc335def9":[7,0,117,49],
 "d4/dd8/structAchievementCriteriaData.html#a2717c7a9fb6847531af042f2d9f7af03":[7,0,117,13],
 "d4/dd8/structAchievementCriteriaData.html#a29e57710f249dd8ee11d56fbd8ed09cd":[7,0,117,28],
 "d4/dd8/structAchievementCriteriaData.html#a2a78429a1c7476635c4974bb38011361":[7,0,117,40],
@@ -181,10 +183,10 @@ var NAVTREEINDEX145 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[7,0,1084,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[7,0,1084,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[7,0,1084,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,35,21],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,35,21,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[7,0,13,21],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[7,0,13,21,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,35,21,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[7,0,1942,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[7,0,1942,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[7,0,1942,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "d4/dde/classspell__dk__rune__tap__party.html#aeefc7910c2960dbf3a49da6ed3c15523":[7,0,2878,2],
 "d4/dde/classspell__sha__t10__restoration__4p__bonus.html":[7,0,4166],
 "d4/dde/classspell__sha__t10__restoration__4p__bonus.html#a91ee1b654a3a26e027407635a45b80b3":[7,0,4166,1],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#aa03bd8b92debda29f0b236fdbef73f16":[7,0,4166,0],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#ab06a732203303d5533bdc4b217640d2d":[7,0,4166,3],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#ad2796a924fbe36dc9cd1c9de60eb9b16":[7,0,4166,2]
+"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#aa03bd8b92debda29f0b236fdbef73f16":[7,0,4166,0]
 };

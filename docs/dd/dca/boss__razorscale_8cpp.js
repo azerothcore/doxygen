@@ -26,7 +26,8 @@ var boss__razorscale_8cpp =
       [ "SAY_COMMANDER_GROUND_PHASE", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92a2303554806651ada7e0c826ce34d7e10", null ],
       [ "SAY_COMMANDER_ENGINEERS_DEAD", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92ad4e2a2237c699c048aed272ed67283e3", null ],
       [ "SAY_ENGINEER_PREPARE", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92a7afe88469973c4fab2dd494d988e8739", null ],
-      [ "SAY_ENGINEER_START_REPAIR", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92a699d3ee3e2f11ff6bd90904bdeb665e4", null ]
+      [ "SAY_ENGINEER_START_REPAIR", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92a699d3ee3e2f11ff6bd90904bdeb665e4", null ],
+      [ "SAY_ENGINEER_FIRES_OUT", "dd/dca/boss__razorscale_8cpp.html#a6c7be375aa54e7ac02e614beb143ed92aad4cb4740d5bca47ebd06c6a11b633cb", null ]
     ] ],
     [ "RazorscaleActions", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4", [
       [ "ACTION_START_FIGHT", "dd/dca/boss__razorscale_8cpp.html#a4adf0f9c33f5fc3f400143d7a9d89dd4afd2662e5ad45793954d7eca931443e2a", null ],
@@ -74,6 +75,7 @@ var boss__razorscale_8cpp =
       [ "POINT_RAZORSCALE_TAKEOFF", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a15fd7b600d339247a2ea7dab78c486ed", null ],
       [ "POINT_RAZORSCALE_FLIGHT_2", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a1cf42794c2d51247c1ddeabb9ff41f93", null ],
       [ "POINT_DEFENDER_ATTACK", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a883ef561701d263a7b9297927385d73a", null ],
+      [ "POINT_TRAPPER_HOLD", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815aec8d3a644df4d5bb2181fcf33d429421", null ],
       [ "WORLD_STATE_RAZORSCALE_MUSIC", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a31b28cbd105aa5e5c6c8fef561ec7b40", null ],
       [ "DATA_PERMA_GROUND", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a3acf810c5d0cbddb612eb2c5567d26fa", null ],
       [ "FIRE_STATE_REPAIR", "dd/dca/boss__razorscale_8cpp.html#a887e134a57a640b4473105b6d4481815a14f6ada1d37b61c8ea68d7912479e2ab", null ],

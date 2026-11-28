@@ -1,7 +1,8 @@
 var structnpc__expedition__engineer =
 [
     [ "npc_expedition_engineer", "d0/d31/structnpc__expedition__engineer.html#a4466b777c0018535ab36101a0ac15c1f", null ],
-    [ "AnnounceRepairs", "d0/d31/structnpc__expedition__engineer.html#a2b847a01ea31f4b4fd3acdf7a95c25a9", null ],
+    [ "AnnounceRebuild", "d0/d31/structnpc__expedition__engineer.html#a67775bc82f60052e67bad2b7aa936dd1", null ],
+    [ "AnnounceRepairs", "d0/d31/structnpc__expedition__engineer.html#afcffd4b7b5828d6774c0543551f16f44", null ],
     [ "DoAction", "d0/d31/structnpc__expedition__engineer.html#a3d6ae901e36064d9530c53a81f3283c4", null ],
     [ "IsEast", "d0/d31/structnpc__expedition__engineer.html#aaad4dea3d9d22df71cb0aa9a362ee89d", null ],
     [ "Reset", "d0/d31/structnpc__expedition__engineer.html#a52036cb7114c752dee00a0eeab247c1c", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/ddf/structFinder.html#a89d852a64429ad8ad78872ad32173a14":[7,0,1078,3],
 "d1/ddf/structFinder.html#a8f8d606fdd53a2af6d20cf30d1660686":[7,0,1078,2],
 "d1/de0/WeatherMgr_8cpp.html":[4,2,2],
 "d1/de0/classLootStore.html":[7,0,1495],
@@ -31,8 +32,8 @@ var NAVTREEINDEX49 =
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[7,0,13,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,35,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[7,0,13,6,26,2],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[7,0,13,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,35,6,26,0],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[7,0,13,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,35,6,26,1],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[7,0,13,6,26,1],
 "d1/de0/classnpc__stable__master.html":[7,0,2191],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d1/de4/spell__generic_8cpp.html#a7fab1edbf00ed5ee23f9597fb60e9929":[8,0,0,0,1,3,9,2,173],
 "d1/de4/spell__generic_8cpp.html#a7fab1edbf00ed5ee23f9597fb60e9929a050c75ea520c3cd27a673681fc15fbed":[8,0,0,0,1,3,9,2,173,0],
 "d1/de4/spell__generic_8cpp.html#a83a98052375575fe13836138a6134720":[8,0,0,0,1,3,9,2,194],
-"d1/de4/spell__generic_8cpp.html#a83a98052375575fe13836138a6134720a5e004e090ce4bb16a1328cc8423247ae":[8,0,0,0,1,3,9,2,194,0],
-"d1/de4/spell__generic_8cpp.html#a84fbf25f9671e758649ef0b0b2ebb93c":[8,0,0,0,1,3,9,2,192]
+"d1/de4/spell__generic_8cpp.html#a83a98052375575fe13836138a6134720a5e004e090ce4bb16a1328cc8423247ae":[8,0,0,0,1,3,9,2,194,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX102 =
 {
+"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3abbf2a44fca45825ba4bfd186fefde815":[8,0,0,0,1,3,4,4,0,11,3],
+"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad089ecf6b1860e0cf125942c8697880d":[8,0,0,0,1,3,4,4,0,11,5],
 "d3/d4a/boss__onyxia_8cpp.html#a50ba2acfd483f395e71abb80f687463e":[8,0,0,0,1,3,4,4,0,7],
 "d3/d4a/boss__onyxia_8cpp.html#a50ba2acfd483f395e71abb80f687463ea1c6e632d42e6df5451aed43bb661d6f0":[8,0,0,0,1,3,4,4,0,7,1],
 "d3/d4a/boss__onyxia_8cpp.html#a50ba2acfd483f395e71abb80f687463ea858ba1dc5b34b3ff5f41a194feea519f":[8,0,0,0,1,3,4,4,0,7,2],
@@ -175,8 +177,8 @@ var NAVTREEINDEX102 =
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[7,0,1071,4],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,35,9,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[7,0,13,9,1],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,35,9,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[7,0,13,9,1,0],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,35,9,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[7,0,13,9,1,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,35,9,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[7,0,3711],
@@ -247,7 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d5d/classinstance__naxxramas.html#a80abb9d906e9de39bd747346de46ddd7":[7,0,1356,21],
 "d3/d5d/classinstance__naxxramas.html#a855ef835268e11e55152fe11daf4af44":[7,0,1356,9],
 "d3/d5d/classinstance__naxxramas.html#a871bdbd665d47b526e498a79e4bcdaa8":[7,0,1356,8],
-"d3/d5d/classinstance__naxxramas.html#a8d7a7ac214db0e22f7fadaf79e26ca6e":[7,0,1356,7],
-"d3/d5d/classinstance__naxxramas.html#a8dca8b55ebc52c27389658df92b3f944":[7,0,1356,25],
-"d3/d5d/classinstance__naxxramas.html#aacb46e34e3e6cb6b179c73df06a9a813":[7,0,1356,23]
+"d3/d5d/classinstance__naxxramas.html#a8d7a7ac214db0e22f7fadaf79e26ca6e":[7,0,1356,7]
 };

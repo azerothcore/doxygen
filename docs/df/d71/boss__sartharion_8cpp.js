@@ -17,7 +17,6 @@ var boss__sartharion_8cpp =
       [ "EVENT_MINIBOSS_SPAWN_HELPERS", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa0f48eb71475a09fc15e50ec0ebb216", null ],
       [ "EVENT_MINIBOSS_RESPOND", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e32ad5ac07b499ea8433d2ea86eba74", null ],
       [ "EVENT_DRAGON_START_PATROL", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a78583c8747e404417df801053ca06338", null ],
-      [ "EVENT_DRAGON_PATROL_WAYPOINT", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a13ec41b55f76d5690a058aea5c6861bc", null ],
       [ "EVENT_SARTHARION_CAST_CLEAVE", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a859e0907cf7afb553a4e513dd7b69160", null ],
       [ "EVENT_SARTHARION_CAST_FLAME_BREATH", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e8e661302d7248dbe4a907ba41efd24", null ],
       [ "EVENT_SARTHARION_CAST_TAIL_LASH", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f52ea1716b8d41f8038d3601833ba55", null ],
@@ -36,6 +35,8 @@ var boss__sartharion_8cpp =
       [ "ACTION_CALL_DRAGON", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae24feedc5f9a0b43427d226a5a63177d", null ],
       [ "ACTION_DRAKE_DIED", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af14f3bbece9082440193c74782cf1ccd", null ],
       [ "POINT_LANDING", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac51cbbc78a1757644fb55c8d15f1024e", null ],
+      [ "POINT_LANDING_APPROACH", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92dc8b61b91fd69272ffbfa5d70ade2b", null ],
+      [ "POINT_TAKEOFF", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1c6e632d42e6df5451aed43bb661d6f0", null ],
       [ "LAVA_LEFT_SIDE", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab44b07487a6c045cb7cbde1214e4e10e", null ],
       [ "LAVA_RIGHT_SIDE", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae276bdf91e4d8befe7034adb57ed4683", null ],
       [ "MAX_LEFT_LAVA_TSUNAMIS", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9aa762cae05ae8289fad74620f7eb952", null ],
@@ -43,7 +44,8 @@ var boss__sartharion_8cpp =
       [ "MAX_DRAGONS", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6077dbe2bcc84af04eefbc813fd7373d", null ],
       [ "MAX_AREA_TRIGGER_COUNT", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a244f05bb61f2bdd96ebdc94c1d47b5b9", null ],
       [ "MAX_CYCLONE_COUNT", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ca2b24731fb3131900d8eadbc449646", null ],
-      [ "MAX_TENEBORN_EGGS_SUMMONS", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adf6a77369a2753ebbf1e0b0f654b7af1", null ]
+      [ "MAX_TENEBORN_EGGS_SUMMONS", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adf6a77369a2753ebbf1e0b0f654b7af1", null ],
+      [ "MAX_PATROL_POINTS", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88f14564e5241008343acf1487e74812", null ]
     ] ],
     [ "NPCs", "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_TWILIGHT_EGG", "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca7d2d663e0fd0f7e37fdd04eb045c5c6c", null ],
@@ -120,7 +122,9 @@ var boss__sartharion_8cpp =
       [ "SPELL_FULL_HEAL", "df/d71/boss__sartharion_8cpp.html#a5bd342133be8c2137b831460acc9298cac5cb10c3d24688bd7cbd6fb2ba4c9ad5", null ]
     ] ],
     [ "AddSC_boss_sartharion", "df/d71/boss__sartharion_8cpp.html#a5f565ff039a329e2e69da179cc7152ac", null ],
+    [ "GetDragonLandingApproachPos", "df/d71/boss__sartharion_8cpp.html#a6b6c8f7052dd6201cc11c08ae690f1c7", null ],
     [ "GetDragonLandingPos", "df/d71/boss__sartharion_8cpp.html#a652af89c526306be62c634b9f03db993", null ],
+    [ "GetDragonPatrolPath", "df/d71/boss__sartharion_8cpp.html#a28f322620ca1e4254ff9d24e5804b11d", null ],
     [ "AreaTriggerSummonPos", "df/d71/boss__sartharion_8cpp.html#a99ab829ba7f384a769ae94da078aa9df", null ],
     [ "bigIslandMiddlePos", "df/d71/boss__sartharion_8cpp.html#a818921054ff5bea8d1030013c546b60c", null ],
     [ "CycloneSummonPos", "df/d71/boss__sartharion_8cpp.html#a81b294ca8a159dc71b8b8a254f36a937", null ],
@@ -128,9 +132,14 @@ var boss__sartharion_8cpp =
     [ "dragons", "df/d71/boss__sartharion_8cpp.html#a187ea6ec7d8c9b5ca662d70bb7f03d33", null ],
     [ "FlameTsunamiLeftOffsets", "df/d71/boss__sartharion_8cpp.html#a16e282c892201d37cc8cb653e1959b3c", null ],
     [ "FlameTsunamiRightOffsets", "df/d71/boss__sartharion_8cpp.html#a54c36c08e5af0526cdf68a8bcf184318", null ],
+    [ "GLIDE_SPEED", "df/d71/boss__sartharion_8cpp.html#a37a4d7440f5e61e4df79277efcef24c2", null ],
+    [ "LANDING_APPROACH_HEIGHT", "df/d71/boss__sartharion_8cpp.html#a3d70601320e263451a72f0714be25690", null ],
+    [ "PATROL_SPEED", "df/d71/boss__sartharion_8cpp.html#ae1c6c92d7a301ed1a28592abeaa604da", null ],
     [ "portalPos", "df/d71/boss__sartharion_8cpp.html#a3b3febc31b192eee159695acba35ed8f", null ],
-    [ "ShadronPatrolPath", "df/d71/boss__sartharion_8cpp.html#a910e8f676e81db2660e8dce974a33f7b", null ],
+    [ "ShadronPatrolPath", "df/d71/boss__sartharion_8cpp.html#a0d5d86d23c471b85372706209b1e0a35", null ],
+    [ "TAKEOFF_RISE", "df/d71/boss__sartharion_8cpp.html#a890730c444b0e5bb3ee7f94dcfded1aa", null ],
     [ "TenebronEggsPos", "df/d71/boss__sartharion_8cpp.html#abd520a29ab6e7fb834942fe165bd483a", null ],
-    [ "TenebronPatrolPath", "df/d71/boss__sartharion_8cpp.html#a13fbc56bcad2ea316b9238eab480e53a", null ],
-    [ "VesperonPatrolPath", "df/d71/boss__sartharion_8cpp.html#a246583ee5e73a186704f589c35e9edf5", null ]
+    [ "TenebronPatrolPath", "df/d71/boss__sartharion_8cpp.html#a93c0d4efdeb61fd5bba8d036a17603f3", null ],
+    [ "TRANSITION_SPEED", "df/d71/boss__sartharion_8cpp.html#ab2b1213b256a757d53b9f49e2146ba6b", null ],
+    [ "VesperonPatrolPath", "df/d71/boss__sartharion_8cpp.html#abe283521812ee4f603ef3c1e77a05d94", null ]
 ];

@@ -1,5 +1,7 @@
 var NAVTREEINDEX168 =
 {
+"d5/dd8/structCreatureAddon.html#aedf06568867bbb5db5ca8017727dab9d":[7,0,947,2],
+"d5/dd9/structArenaSeasonRewardGroup.html":[7,0,195],
 "d5/dd9/structArenaSeasonRewardGroup.html#a0574cf3fc910f13413ea7eb1c0f08166":[7,0,195,9],
 "d5/dd9/structArenaSeasonRewardGroup.html#a07507bd59265508a463aa328f343afa0":[7,0,195,7],
 "d5/dd9/structArenaSeasonRewardGroup.html#a128e78db84f099d91e21da77b2147e82":[7,0,195,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX168 =
 "d5/de9/AppenderDB_8cpp.html":[8,0,0,0,1,1,1,0],
 "d5/de9/classspell__gen__profession__research.html":[7,0,3149],
 "d5/de9/classspell__gen__profession__research.html#a89d053e0ee793017c74188aac32d99d5":[7,0,3149,4],
-"d5/de9/classspell__gen__profession__research.html#a9dfb5501ad6324a25966af44f233b5fb":[7,0,3149,2],
-"d5/de9/classspell__gen__profession__research.html#aa89b60b2d757ef1ceacebae38aa5d9d9":[7,0,3149,1],
-"d5/de9/classspell__gen__profession__research.html#ace75db8a6e5628df6e2edba91cd2852f":[7,0,3149,3]
+"d5/de9/classspell__gen__profession__research.html#a9dfb5501ad6324a25966af44f233b5fb":[7,0,3149,2]
 };

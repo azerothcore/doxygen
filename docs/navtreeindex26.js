@@ -1,5 +1,6 @@
 var NAVTREEINDEX26 =
 {
+"d1/d14/authserver_2resource_8h.html":[8,0,0,0,1,0,0,4],
 "d1/d14/classTypeContainerVisitor.html":[7,0,4652],
 "d1/d14/classTypeContainerVisitor.html#a1dd5b1ac8e4703358a32431efed8faa2":[7,0,4652,0],
 "d1/d14/classTypeContainerVisitor.html#a433135ffb18fed8cc61b85cbb2033cfe":[7,0,4652,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d16/classSpell.html#a97990e101e35e9198c9540ee969996cc":[7,0,2651,217],
 "d1/d16/classSpell.html#a97b5b2cf4526b875426d30f1a3be0d4f":[7,0,2651,206],
 "d1/d16/classSpell.html#a987ed6b9754005e13e2321b26708cc29":[7,0,2651,42],
-"d1/d16/classSpell.html#a98e6d38fef38925272ed77fae54903b2":[7,0,2651,220],
-"d1/d16/classSpell.html#a9b60a7a9298c8d008ba2092c87a36e98":[7,0,2651,327]
+"d1/d16/classSpell.html#a98e6d38fef38925272ed77fae54903b2":[7,0,2651,220]
 };

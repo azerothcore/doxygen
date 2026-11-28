@@ -1,5 +1,8 @@
 var NAVTREEINDEX317 =
 {
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada1b6ababa67dd94004d8e5dbc0d95f5c4":[8,0,0,0,1,3,2,30,27,2],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada2178a809edb68d68eeb4d31a81960475":[8,0,0,0,1,3,2,30,27,17],
+"db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada22886499e40cc285f93048b373a8a92a":[8,0,0,0,1,3,2,30,27,41],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada229c62645be46fde0643ea7ed6bc800f":[8,0,0,0,1,3,2,30,27,51],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada2a24ce4fa104b38b9e180002ad67029b":[8,0,0,0,1,3,2,30,27,1],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada308579da4f1b2f6e73ee995fb4d8af60":[8,0,0,0,1,3,2,30,27,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX317 =
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,0,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[7,0,0,5,0,7,0],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,0,8,0,7,0],
-"db/ddb/classConfigException.html":[7,0,923],
-"db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[7,0,923,0],
-"db/ddb/classTaskContext.html":[7,0,4593],
-"db/ddb/classTaskContext.html#a0a8b54efb0dca1b279ba5a042e8e953f":[7,0,4593,20]
+"db/ddb/classConfigException.html":[7,0,923]
 };

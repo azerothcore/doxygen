@@ -220,8 +220,8 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1369</span>                                                         : <a class="code hl_class" href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a>(go)</div>
-<div class="line"><span class="lineno"> 1370</span>        { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1403</span>                                                         : <a class="code hl_class" href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a>(go)</div>
+<div class="line"><span class="lineno"> 1404</span>        { }</div>
 <div class="ttc" id="aclassGameObjectAI_html"><div class="ttname"><a href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a></div><div class="ttdef"><b>Definition</b> GameObjectAI.h:33</div></div>
 </div><!-- fragment -->
 </div>
@@ -251,22 +251,22 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d66/classGameObjectAI.html#ae2f0f24cae721a75e4df8e7aa1c75b7c">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1373</span>        {</div>
-<div class="line"><span class="lineno"> 1374</span>            <a class="code hl_variable" href="../../d7/d01/structgo__razorscale__harpoon_1_1go__razorscale__harpoonAI.html#a6f6e325b1b1599f90173e8c8a68c7956">_scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a>)</div>
-<div class="line"><span class="lineno"> 1375</span>            {</div>
-<div class="line"><span class="lineno"> 1376</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* controller = <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a7a7dcdd199fa130ecf0e1f4aa731fc29">NPC_RAZORSCALE_CONTROLLER</a>, 10.0f))</div>
-<div class="line"><span class="lineno"> 1377</span>                    controller-&gt;AI()-&gt;Talk(0);</div>
-<div class="line"><span class="lineno"> 1378</span>            });</div>
-<div class="line"><span class="lineno"> 1379</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1407</span>        {</div>
+<div class="line"><span class="lineno"> 1408</span>            <a class="code hl_variable" href="../../d7/d01/structgo__razorscale__harpoon_1_1go__razorscale__harpoonAI.html#a6f6e325b1b1599f90173e8c8a68c7956">_scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a>)</div>
+<div class="line"><span class="lineno"> 1409</span>            {</div>
+<div class="line"><span class="lineno"> 1410</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* controller = <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a7a7dcdd199fa130ecf0e1f4aa731fc29">NPC_RAZORSCALE_CONTROLLER</a>, 10.0f))</div>
+<div class="line"><span class="lineno"> 1411</span>                    controller-&gt;AI()-&gt;Talk(0);</div>
+<div class="line"><span class="lineno"> 1412</span>            });</div>
+<div class="line"><span class="lineno"> 1413</span>        }</div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassGameObjectAI_html_a22a51a980875ccae8a285d7804967747"><div class="ttname"><a href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">GameObjectAI::me</a></div><div class="ttdeci">GameObject *const me</div><div class="ttdef"><b>Definition</b> GameObjectAI.h:35</div></div>
 <div class="ttc" id="aclassTaskContext_html"><div class="ttname"><a href="../../db/ddb/classTaskContext.html">TaskContext</a></div><div class="ttdef"><b>Definition</b> TaskScheduler.h:422</div></div>
 <div class="ttc" id="aclassTaskScheduler_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:233</div></div>
-<div class="ttc" id="aclassWorldObject_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2565</div></div>
-<div class="ttc" id="astructgo__razorscale__harpoon_1_1go__razorscale__harpoonAI_html_a6f6e325b1b1599f90173e8c8a68c7956"><div class="ttname"><a href="../../d7/d01/structgo__razorscale__harpoon_1_1go__razorscale__harpoonAI.html#a6f6e325b1b1599f90173e8c8a68c7956">go_razorscale_harpoon::go_razorscale_harpoonAI::_scheduler</a></div><div class="ttdeci">TaskScheduler _scheduler</div><div class="ttdef"><b>Definition</b> boss_razorscale.cpp:1387</div></div>
+<div class="ttc" id="aclassWorldObject_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2573</div></div>
+<div class="ttc" id="astructgo__razorscale__harpoon_1_1go__razorscale__harpoonAI_html_a6f6e325b1b1599f90173e8c8a68c7956"><div class="ttname"><a href="../../d7/d01/structgo__razorscale__harpoon_1_1go__razorscale__harpoonAI.html#a6f6e325b1b1599f90173e8c8a68c7956">go_razorscale_harpoon::go_razorscale_harpoonAI::_scheduler</a></div><div class="ttdeci">TaskScheduler _scheduler</div><div class="ttdef"><b>Definition</b> boss_razorscale.cpp:1421</div></div>
 <div class="ttc" id="aulduar_8h_html_abfe5de1fd9db676abc952fa6839d50b2a7a7dcdd199fa130ecf0e1f4aa731fc29"><div class="ttname"><a href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a7a7dcdd199fa130ecf0e1f4aa731fc29">NPC_RAZORSCALE_CONTROLLER</a></div><div class="ttdeci">@ NPC_RAZORSCALE_CONTROLLER</div><div class="ttdef"><b>Definition</b> ulduar.h:187</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01387">_scheduler</a>, <a class="el" href="../../#l02565">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00187">NPC_RAZORSCALE_CONTROLLER</a>, and <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01421">_scheduler</a>, <a class="el" href="../../#l02573">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00187">NPC_RAZORSCALE_CONTROLLER</a>, and <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>.</p>
 
 </div>
 </div>
@@ -295,12 +295,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d66/classGameObjectAI.html#aa9b59a4ec7d95a0702689fad902d956a">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1382</span>        {</div>
-<div class="line"><span class="lineno"> 1383</span>            <a class="code hl_variable" href="../../d7/d01/structgo__razorscale__harpoon_1_1go__razorscale__harpoonAI.html#a6f6e325b1b1599f90173e8c8a68c7956">_scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
-<div class="line"><span class="lineno"> 1384</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1416</span>        {</div>
+<div class="line"><span class="lineno"> 1417</span>            <a class="code hl_variable" href="../../d7/d01/structgo__razorscale__harpoon_1_1go__razorscale__harpoonAI.html#a6f6e325b1b1599f90173e8c8a68c7956">_scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
+<div class="line"><span class="lineno"> 1418</span>        }</div>
 <div class="ttc" id="aclassTaskScheduler_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition</b> TaskScheduler.cpp:27</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01387">_scheduler</a>, and <a class="el" href="../../#l00027">TaskScheduler::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01421">_scheduler</a>, and <a class="el" href="../../#l00027">TaskScheduler::Update()</a>.</p>
 
 </div>
 </div>
@@ -325,7 +325,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01372">Reset()</a>, and <a class="el" href="../../#l01381">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01406">Reset()</a>, and <a class="el" href="../../#l01415">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -338,7 +338,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/ddf/classgo__razorscale__harpoon.html">go_razorscale_harpoon</a></li><li class="navelem"><a class="el" href="../../d7/d01/structgo__razorscale__harpoon_1_1go__razorscale__harpoonAI.html">go_razorscale_harpoonAI</a></li>
-    <li class="footer">Generated on Fri Nov 27 2026 16:01:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 28 2026 14:59:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

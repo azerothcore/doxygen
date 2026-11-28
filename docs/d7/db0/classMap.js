@@ -233,7 +233,7 @@ var classMap =
     [ "SpawnGroupSpawn", "d7/db0/classMap.html#a004402aaa7db66ff1348552b2c2b2652", null ],
     [ "StartPlayersRedirectKickTimer", "d7/db0/classMap.html#aee8361ee2df816c4b190726883995a8b", null ],
     [ "StopPlayersRedirectKickTimer", "d7/db0/classMap.html#af9cbf67534302cf8f6e1a979c279c3d4", null ],
-    [ "SummonCreature", "d7/db0/classMap.html#aedda73139371bda3ce643b02d1a7cbb8", null ],
+    [ "SummonCreature", "d7/db0/classMap.html#a0375bd5a50d28d8c81f53777fb00aa28", null ],
     [ "SummonCreatureGroup", "d7/db0/classMap.html#a8f5d95bf620fdcd0b9ca80c2ba45e731", null ],
     [ "SummonGameObject", "d7/db0/classMap.html#a7b9aad695426871abbbbc29f362a8f71", null ],
     [ "SummonGameObject", "d7/db0/classMap.html#afcd54ac86c6ed6ab8b9d7bd5ffdce594", null ],

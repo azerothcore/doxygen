@@ -1,5 +1,6 @@
 var NAVTREEINDEX55 =
 {
+"d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa9584a3c8eb1d6a3c1a4915c5bed65c8c":[8,0,0,0,1,3,2,4,0,10,22],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa98cd4d4fa8d7399ebc6202975ec3974a":[8,0,0,0,1,3,2,4,0,10,14],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffa9bff823be62e141f0b7adffb1ebcc3ba":[8,0,0,0,1,3,2,4,0,10,0],
 "d2/d22/boss__chess__event_8cpp.html#ae4e70411a252b8e3bb17ea3631378cffaaa5fa1741404ae60f7e22ab967818a28":[8,0,0,0,1,3,2,4,0,10,2],
@@ -19,8 +20,8 @@ var NAVTREEINDEX55 =
 "d2/d22/classspell__pri__mana__burn.html#a2a780069022e62b14992a7b69626ac3d":[7,0,3871,2],
 "d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[7,0,3871,0],
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[7,0,3871,1],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,0,8,0,27],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[7,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,0,8,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[7,0,0,5,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[7,0,1362,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX55 =
 "d2/d27/structboss__viscidus.html#a12ee60a91dab2f95aab6e9914351344a":[7,0,786,10],
 "d2/d27/structboss__viscidus.html#a1a194c161b485d2abbb862506b6c239f":[7,0,786,9],
 "d2/d27/structboss__viscidus.html#a24357bfc552ecb5205e50241cadb05f4":[7,0,786,3],
-"d2/d27/structboss__viscidus.html#a321f1f96af51d3d70de0cca89512d965":[7,0,786,11],
-"d2/d27/structboss__viscidus.html#a41dd3ce982a180a2ad415b559508f0ff":[7,0,786,0]
+"d2/d27/structboss__viscidus.html#a321f1f96af51d3d70de0cca89512d965":[7,0,786,11]
 };

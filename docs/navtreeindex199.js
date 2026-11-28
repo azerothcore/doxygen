@@ -1,5 +1,7 @@
 var NAVTREEINDEX199 =
 {
+"d7/d17/classspell__pal__spiritual__attunement.html#ac564fc88a0cfe410b7caaeed639b5258":[7,0,3829,1],
+"d7/d17/classspell__pal__spiritual__attunement.html#ac5bb4e949f4a7b86b41861777f86bd7a":[7,0,3829,3],
 "d7/d17/classspell__pal__spiritual__attunement.html#af67336b40e69f72f8cd5aa1776490bad":[7,0,3829,4],
 "d7/d18/MapMgr_8cpp.html":[8,0,0,0,1,2,26,9],
 "d7/d19/classArenaTeamFilterByTypes.html":[7,0,201],
@@ -76,8 +78,8 @@ var NAVTREEINDEX199 =
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,0,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,0,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[7,0,0,1,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,0,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[7,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[8,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a154010b82ac66d0f04b4b8daf9ae6d6d":[8,0,0,0,1,3,5,25,20],
 "d7/d1f/zone__zuldrak_8cpp.html#a3c8d2add617bd8d88247b94804d3b558":[8,0,0,0,1,3,5,25,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX199 =
 "d7/d23/structboss__magus__telestra.html#ac8ee0c8ac0bafa479ef6c3669c8aa430":[7,0,621,0],
 "d7/d23/structboss__magus__telestra.html#acd365d6bcc1e526e59344c1a907d0eeb":[7,0,621,9],
 "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html":[7,0,715,0],
-"d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#a53127766553d1bee4d7331e6f4fcda05":[7,0,715,0,0],
-"d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#a5c3c31c5be424795e4e96291c910c73c":[7,0,715,0,7],
-"d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c":[7,0,715,0,6]
+"d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#a53127766553d1bee4d7331e6f4fcda05":[7,0,715,0,0]
 };

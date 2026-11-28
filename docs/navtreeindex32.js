@@ -1,5 +1,6 @@
 var NAVTREEINDEX32 =
 {
+"d1/d40/classCommandScript.html#a225db9ee7234067f2a55d7a18aa5f9f1":[7,0,915,0],
 "d1/d40/classCommandScript.html#a97dc7d00b78e0030ba2a950d23b2ebd2":[7,0,915,1],
 "d1/d40/classModuleDatabasePool.html":[7,0,1570],
 "d1/d40/classModuleDatabasePool.html#a00493e51d5423167b2408c7ff4d31b07":[7,0,1570,24],
@@ -49,22 +50,22 @@ var NAVTREEINDEX32 =
 "d1/d40/classPlayerAI.html#a70a995521c55fb3d73d14e6be883eccc":[7,0,2449,2],
 "d1/d40/classPlayerAI.html#a880c670caddc1f24e42f229457039c67":[7,0,2449,0],
 "d1/d40/classPlayerAI.html#adf7ab64ed2a81c932730e39d885e4c67":[7,0,2449,1],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html":[5,0,0,2,1],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html":[7,0,0,1,1],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html":[5,0,0,2,1],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a3b9ea3963b82697cbe5d6ca86ff29847":[7,0,0,1,1,7],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a3b9ea3963b82697cbe5d6ca86ff29847":[5,0,0,2,1,7],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4315363c5d25bb157481cbbd3fa0286f":[5,0,0,2,1,9],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4315363c5d25bb157481cbbd3fa0286f":[7,0,0,1,1,9],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa":[5,0,0,2,1,4],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa":[7,0,0,1,1,4],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa":[5,0,0,2,1,4],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a894f6ae19d715d9d3f395736bf7cdb41":[5,0,0,2,1,2],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a894f6ae19d715d9d3f395736bf7cdb41":[7,0,0,1,1,2],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9a01b487be01e84573f7ebe99620541b":[5,0,0,2,1,1],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9a01b487be01e84573f7ebe99620541b":[7,0,0,1,1,1],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[5,0,0,2,1,6],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#a9ecbebaa3c839f57a90dcccca1473913":[7,0,0,1,1,6],
-"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[7,0,0,1,1,5],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[5,0,0,2,1,5],
+"d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ac2c8cc88865de637f322b54bf6a47e13":[7,0,0,1,1,5],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ad9b8a40b28eb5944512b6f3033b3a933":[5,0,0,2,1,3],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#ad9b8a40b28eb5944512b6f3033b3a933":[7,0,0,1,1,3],
 "d1/d40/structAcore_1_1ChatCommands_1_1ChatCommandBuilder.html#aff0a8c833c04f98abf46aaba4fbf9374":[5,0,0,2,1,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX32 =
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05":[8,0,0,0,1,3,5,4,2,0,7,0],
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a03fe0c5423ab07068a6b914afcf521b3":[8,0,0,0,1,3,5,4,2,0,7,2],
 "d1/d43/boss__forgemaster__garfrost_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219af3dfbef4a58bd77f43dec2dca34a9f6a":[8,0,0,0,1,3,5,4,2,0,7,1],
-"d1/d43/boss__forgemaster__garfrost_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd":[8,0,0,0,1,3,5,4,2,0,6],
-"d1/d43/boss__forgemaster__garfrost_8cpp.html#a7833023af5dd1196e6ec1567d0102cfda74363cf91b5bc7af169cf381bdffe4ae":[8,0,0,0,1,3,5,4,2,0,6,0]
+"d1/d43/boss__forgemaster__garfrost_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd":[8,0,0,0,1,3,5,4,2,0,6]
 };

@@ -1,6 +1,7 @@
 var structboss__razorscale =
 [
     [ "boss_razorscale", "d2/d5b/structboss__razorscale.html#aa60eb42c00c6d801a7b716cea40412d2", null ],
+    [ "CanAIAttack", "d2/d5b/structboss__razorscale.html#a74112462f10b15ae2a400a708da5cb1c", null ],
     [ "DamageTaken", "d2/d5b/structboss__razorscale.html#a7dc864d3e60c786cc8153121b39938c5", null ],
     [ "DoAction", "d2/d5b/structboss__razorscale.html#a63e951ce71137869004732cfbecc6db3", null ],
     [ "EnterEvadeMode", "d2/d5b/structboss__razorscale.html#acc55c1b00fbf1cdea8761eabe29a55d2", null ],

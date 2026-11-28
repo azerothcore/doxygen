@@ -1,5 +1,7 @@
 var NAVTREEINDEX152 =
 {
+"d5/d41/boss__gruul_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab9eb8f4d4045b8d34928378cb15f3d4a":[8,0,0,0,1,3,7,3,0,8,2],
+"d5/d41/boss__gruul_8cpp.html#a4ddca9f06c8da72f936897f2de29786a":[8,0,0,0,1,3,7,3,0,9],
 "d5/d41/boss__gruul_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,3,0,7],
 "d5/d41/boss__gruul_8cpp.html#a5bd342133be8c2137b831460acc9298ca0551e5288ecfab0790d931b6695e497f":[8,0,0,0,1,3,7,3,0,7,3],
 "d5/d41/boss__gruul_8cpp.html#a5bd342133be8c2137b831460acc9298ca177370465de01427727fa67d44575577":[8,0,0,0,1,3,7,3,0,7,14],
@@ -93,8 +95,8 @@ var NAVTREEINDEX152 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#a7877187ad7afb2dfbd28fb7c74d40478":[7,0,3239,1],
 "d5/d46/classspell__hallows__end__bucket__lands.html#acf3a9296a36f131f852afbf60beb7ea4":[7,0,3239,4],
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[7,0,3239,2],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[7,0,0,5,0,13],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,0,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[7,0,0,5,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,0,8,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[7,0,1850],
@@ -247,7 +249,5 @@ var NAVTREEINDEX152 =
 "d5/d4d/classIWorld.html":[7,0,1437],
 "d5/d4d/classIWorld.html#a034bf9dc24db0c667f9aaeb4e3862eae":[7,0,1437,3],
 "d5/d4d/classIWorld.html#a08e6163c632e0025a596469bf7e1e1ca":[7,0,1437,19],
-"d5/d4d/classIWorld.html#a0ac63e3f37963ccdc41f794a84367175":[7,0,1437,38],
-"d5/d4d/classIWorld.html#a1784b2a89b77dc3078582b78cd957968":[7,0,1437,42],
-"d5/d4d/classIWorld.html#a1c88b825902f5caa4ec0f80e8f464463":[7,0,1437,44]
+"d5/d4d/classIWorld.html#a0ac63e3f37963ccdc41f794a84367175":[7,0,1437,38]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX23 =
 {
+"d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a50089ac4a423a96da00a5c6ad65567a4":[8,0,0,0,1,2,8,1,9,13,31],
 "d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a51913d6c83ff2e13727307a225776b10":[8,0,0,0,1,2,8,1,9,13,4],
 "d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a5aafe9358b89f725948de6201d4c0170":[8,0,0,0,1,2,8,1,9,13,11],
 "d0/df3/BattlegroundEY_8h.html#a0ad00beff668acf9ce01743739858d41a5c4533663d8989f0da679a96c64c132f":[8,0,0,0,1,2,8,1,9,13,22],
@@ -211,14 +212,14 @@ var NAVTREEINDEX23 =
 "d0/df4/structPosition.html#afbbbf953e0cc505fbc596ff7cee17be0":[7,0,2483,20],
 "d0/df4/structPosition.html#afce8d9c4d5ec07f0d11d5fc96032f0c9":[7,0,2483,59],
 "d0/df4/structPosition.html#afdbf0a257fcd7a48066fd92c4eacae3b":[7,0,2483,54],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[7,0,13,2,6],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[5,0,35,2,6],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[7,0,13,2,6],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[7,0,13,2,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[5,0,35,2,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[5,0,35,2,6,1],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[7,0,13,2,6,1],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[7,0,13,2,6,0],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[5,0,35,2,6,0],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[7,0,13,2,6,0],
 "d0/df6/classspell__allergies.html":[7,0,2668],
 "d0/df6/classspell__allergies.html#a290913502dfe3dfb42b44a964468b97c":[7,0,2668,1],
 "d0/df6/classspell__allergies.html#ab3bdb3a14c6d130d295553e635acb47c":[7,0,2668,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX23 =
 "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#a98165fc96861c9080a7cea70d5b7f0af":[7,0,2104,0,7],
 "d0/df8/structnpc__pos__martin__or__gorkun__second_1_1npc__pos__martin__or__gorkun__secondAI.html#ad22fbcd52404c1e9c1fc71f3bc6b7525":[7,0,2104,0,5],
 "d0/df9/structboss__thorim__gauntlet__npcs.html":[7,0,753],
-"d0/df9/structboss__thorim__gauntlet__npcs.html#a1562e3ba5a7559f6eba9c3a0240a1e20":[7,0,753,4],
-"d0/df9/structboss__thorim__gauntlet__npcs.html#a22fcffcc05f155524cadade389ec3607":[7,0,753,2]
+"d0/df9/structboss__thorim__gauntlet__npcs.html#a1562e3ba5a7559f6eba9c3a0240a1e20":[7,0,753,4]
 };

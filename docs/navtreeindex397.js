@@ -1,5 +1,16 @@
 var NAVTREEINDEX397 =
 {
+"de/d8f/boss__krickandick_8cpp.html#a5bd342133be8c2137b831460acc9298caadf96c24ab807d28af2bc15a860be156":[8,0,0,0,1,3,5,4,2,1,8,0],
+"de/d8f/boss__krickandick_8cpp.html#a5bd342133be8c2137b831460acc9298cab1c90a5ac49ca9b3954e4fc77ad4b295":[8,0,0,0,1,3,5,4,2,1,8,7],
+"de/d8f/boss__krickandick_8cpp.html#a5bd342133be8c2137b831460acc9298cac61bbc3682c68719ccd7fdbc1dfa322f":[8,0,0,0,1,3,5,4,2,1,8,8],
+"de/d8f/boss__krickandick_8cpp.html#a5bd342133be8c2137b831460acc9298cac94f6b3488def983ee3ae8c1b532092e":[8,0,0,0,1,3,5,4,2,1,8,1],
+"de/d8f/boss__krickandick_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[8,0,0,0,1,3,5,4,2,1,8,4],
+"de/d8f/boss__krickandick_8cpp.html#a5bd342133be8c2137b831460acc9298cafc971130d155cce6932826126ce51819":[8,0,0,0,1,3,5,4,2,1,8,5],
+"de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[8,0,0,0,1,3,5,4,2,1,7],
+"de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0bfbd081413459cbc293e182a748fedb":[8,0,0,0,1,3,5,4,2,1,7,5],
+"de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0f07010be11be3a8cd07590ed09a5817":[8,0,0,0,1,3,5,4,2,1,7,6],
+"de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a10cba673bb5b63031a7667c10a5ac549":[8,0,0,0,1,3,5,4,2,1,7,12],
+"de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a23f12f795736a646034072280e121a1d":[8,0,0,0,1,3,5,4,2,1,7,3],
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ebb9bb766d2865af1f20343474ca77e":[8,0,0,0,1,3,5,4,2,1,7,16],
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2efbd9744da4105979f1135ac54e88fd":[8,0,0,0,1,3,5,4,2,1,7,1],
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a303b4e4bcd2624ca952ec6b97d3a3502":[8,0,0,0,1,3,5,4,2,1,7,11],
@@ -238,16 +249,5 @@ var NAVTREEINDEX397 =
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04bac423f9b18e207f967d09024c8ca3b5a1":[8,0,0,0,1,3,7,14,3,15],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04baca440048b4dedbe24fac2eb6e11206ec":[8,0,0,0,1,3,7,14,3,20],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04bae4faba91f216dc9ffa804d762e82e09a":[8,0,0,0,1,3,7,14,3,0],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04bae9410c89c708e35f9531019383f2d600":[8,0,0,0,1,3,7,14,3,16],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04baef3c3e796294616518e675a60c198971":[8,0,0,0,1,3,7,14,3,11],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04baf89d06dca0c2fe813bca58dc8f7c8d5c":[8,0,0,0,1,3,7,14,3,7],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04bafd2a43fb93b5220847f6af4016724718":[8,0,0,0,1,3,7,14,3,13],
-"de/d98/zone__shattrath__city_8cpp.html#a48333af9544088068e574ea5dad8ccea":[8,0,0,0,1,3,7,14,5],
-"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31":[8,0,0,0,1,3,7,14,4],
-"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a022f344a987e6d0d52ce11b59dc70a09":[8,0,0,0,1,3,7,14,4,7],
-"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a0d5757b63fcb3c39042c1cbd6da4e377":[8,0,0,0,1,3,7,14,4,27],
-"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a199697361e9df438f94b8b8b408fa004":[8,0,0,0,1,3,7,14,4,8],
-"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a1e5488e704368dac9d9b2bef56535dd4":[8,0,0,0,1,3,7,14,4,3],
-"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a234ce36e5d6eb7a707e5fb680ca34c84":[8,0,0,0,1,3,7,14,4,23],
-"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a25f5325817667cf2fabf195b8c55c84e":[8,0,0,0,1,3,7,14,4,12]
+"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04bae9410c89c708e35f9531019383f2d600":[8,0,0,0,1,3,7,14,3,16]
 };

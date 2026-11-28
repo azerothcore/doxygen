@@ -1,5 +1,7 @@
 var NAVTREEINDEX223 =
 {
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ae122f3cacfbbd7b91297fd427fdfa602":[8,0,0,0,1,2,16,10,6,5,7],
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ae1bb7b9e3ed002517b2a8756d473f2e6":[8,0,0,0,1,2,16,10,6,5,13],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2aee8ff901aca85eef5e74e278c4e7c083":[8,0,0,0,1,2,16,10,6,5,5],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2aef868440d7c3da43fe9cde0cea10385f":[8,0,0,0,1,2,16,10,6,5,19],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2af5789ff5df78d3483e816ce1933ea4e3":[8,0,0,0,1,2,16,10,6,5,16],
@@ -247,7 +249,5 @@ var NAVTREEINDEX223 =
 "d7/df9/classspell__the__lich__king__play__movie.html#a598baad08c685bba54ad5306e0d521b4":[7,0,4279,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[5,0,0,58],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[7,0,0,46],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,0,58,2],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[7,0,0,46,2],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[5,0,0,58,1]
+"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[7,0,0,46,2]
 };

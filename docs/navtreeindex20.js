@@ -1,5 +1,6 @@
 var NAVTREEINDEX20 =
 {
+"d0/dca/boss__epoch_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[8,0,0,0,1,3,4,1,1,0,4,1],
 "d0/dca/boss__epoch_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a8cedbefc6968637387ac9d910c55855e":[8,0,0,0,1,3,4,1,1,0,4,2],
 "d0/dca/boss__epoch_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[8,0,0,0,1,3,4,1,1,0,4,3],
 "d0/dca/boss__epoch_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af5bc3db04213b3bf118af6ce85b5a637":[8,0,0,0,1,3,4,1,1,0,4,0],
@@ -191,12 +192,12 @@ var NAVTREEINDEX20 =
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a1105dd396e4fe8c366fc453b5a4bec02":[7,0,0,60,2],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[5,0,0,72,1],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[7,0,0,60,1],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[7,0,0,60,0],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[5,0,0,72,0],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[7,0,0,60,3],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[7,0,0,60,0],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[5,0,0,72,3],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[5,0,0,72,5],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[7,0,0,60,3],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[7,0,0,60,5],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[5,0,0,72,5],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[7,0,0,60,4],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[5,0,0,72,4],
 "d0/dd5/boss__lady__vashj_8cpp.html":[8,0,0,0,1,3,7,2,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX20 =
 "d0/dd6/classspell__hun__t9__4p__bonus.html#a779b560a877ac0e731fe50c25af3d4d9":[7,0,3304,4],
 "d0/dd6/classspell__hun__t9__4p__bonus.html#a834868e504beece0ce5e1e1745f96f63":[7,0,3304,3],
 "d0/dd6/classspell__hun__t9__4p__bonus.html#ab208e39ea63158688a6a028696b9adc5":[7,0,3304,1],
-"d0/dd6/classspell__hun__t9__4p__bonus.html#ad078ad76f0d0f88b9d52c88127d1aae7":[7,0,3304,2],
-"d0/dd6/classspell__hun__t9__4p__bonus.html#adbd524ef767a8b5cde13a5358969e344":[7,0,3304,0]
+"d0/dd6/classspell__hun__t9__4p__bonus.html#ad078ad76f0d0f88b9d52c88127d1aae7":[7,0,3304,2]
 };

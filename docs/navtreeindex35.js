@@ -1,5 +1,6 @@
 var NAVTREEINDEX35 =
 {
+"d1/d57/structboss__fankriss.html#ab6b0ee6c1605aaf148dddd6a6f4788b9":[7,0,476,0],
 "d1/d57/structboss__fankriss.html#ada23537921c3a11195450db89eb8fcfe":[7,0,476,4],
 "d1/d57/structboss__fankriss.html#af84010ee103eb81c1e269b03fc640f81":[7,0,476,2],
 "d1/d58/boss__the__beast_8cpp.html":[8,0,0,0,1,3,2,1,1,12],
@@ -227,14 +228,14 @@ var NAVTREEINDEX35 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a234135e6bea0d91611fbdbae4dec2ea1":[7,0,2100,0,2],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a76818ee5fcfcc5678fa9d0957a424d9b":[7,0,2100,0,1],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[7,0,2100,0,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[7,0,13,16,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,35,16,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[7,0,13,16,1,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[7,0,13,16,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,35,16,1,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[7,0,13,16,1,0],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[7,0,13,16,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,35,16,1,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,35,16,1,2],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[7,0,13,16,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[7,0,13,16,1,2],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,35,16,1,2],
 "d1/d63/GameTime_8h.html":[8,0,0,0,1,2,45,1],
 "d1/d63/GameTime_8h.html#a443eccf314fe436192278d425d6d8220":[8,0,0,0,1,2,45,1,4],
 "d1/d63/GameTime_8h.html#a45712735241c9563a12fc3da54fb144d":[8,0,0,0,1,2,45,1,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX35 =
 "d1/d63/structargentPonyBanner.html":[7,0,210],
 "d1/d63/structargentPonyBanner.html#a740f9162b10d31d1677a4ac4f5926db6":[7,0,210,1],
 "d1/d63/structargentPonyBanner.html#ab8c1bedac4bccf5c47eda591c9e5e9d1":[7,0,210,2],
-"d1/d63/structargentPonyBanner.html#abb6071e172abbcbc65020a0ad9554a03":[7,0,210,0],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,0,90]
+"d1/d63/structargentPonyBanner.html#abb6071e172abbcbc65020a0ad9554a03":[7,0,210,0]
 };

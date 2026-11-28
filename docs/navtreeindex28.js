@@ -1,5 +1,6 @@
 var NAVTREEINDEX28 =
 {
+"d1/d1a/classBattlegroundMgr.html#a244c995eed195cee4d82a4d55c388d4a":[7,0,347,7],
 "d1/d1a/classBattlegroundMgr.html#a25b2d7705c7e6af7f0f7a4ef35913a85":[7,0,347,59],
 "d1/d1a/classBattlegroundMgr.html#a3597287df2905e6d26a6d27f648720d3":[7,0,347,21],
 "d1/d1a/classBattlegroundMgr.html#a39a3df56419899ec00e557804f421404":[7,0,347,54],
@@ -248,6 +249,5 @@ var NAVTREEINDEX28 =
 "d1/d25/classspell__igb__rocket__artillery__explosion.html#aa698d016ae58d665c081976f20ec0385":[7,0,3347,1],
 "d1/d25/classspell__igb__rocket__artillery__explosion.html#ab8836babdea1fd963fdd53415db0a3ba":[7,0,3347,2],
 "d1/d25/classspell__igb__rocket__artillery__explosion.html#ae80cd93b2f01ddb83493f9f818fc0ea1":[7,0,3347,3],
-"d1/d27/classspell__gen__spirit__of__competition__participant.html":[7,0,3169],
-"d1/d27/classspell__gen__spirit__of__competition__participant.html#a0cfbc2dcb836e7c37dd03cb3d0728621":[7,0,3169,3]
+"d1/d27/classspell__gen__spirit__of__competition__participant.html":[7,0,3169]
 };

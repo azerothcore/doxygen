@@ -1,5 +1,8 @@
 var NAVTREEINDEX296 =
 {
+"db/d2d/enuminfo__CreatureAI_8cpp.html":[8,0,0,0,1,2,3,11],
+"db/d2d/structLastPhaseIceTombTargetSelector.html":[7,0,1446],
+"db/d2d/structLastPhaseIceTombTargetSelector.html#a92a846ff557334b1f30d8e062a2c64e9":[7,0,1446,1],
 "db/d2d/structLastPhaseIceTombTargetSelector.html#ab10d10dd0de7717078d31ac026d4c933":[7,0,1446,2],
 "db/d2d/structLastPhaseIceTombTargetSelector.html#ac01f20b199bb0ee63b9c8f8206321057":[7,0,1446,0],
 "db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html":[7,0,1719,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX296 =
 "db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a335d606fe2b988eedc4359047f7aaa27":[8,0,0,0,1,3,7,0,3,3,4,2],
 "db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a466186dd00aac675adc19bbcb79ffad0":[8,0,0,0,1,3,7,0,3,3,4,1],
 "db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aaf85560beac4309bd7674acafda9e6fe":[8,0,0,0,1,3,7,0,3,3,4,0],
-"db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,0,3,3,6],
-"db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca050f6345b07f3ae0e044b08c9fd84f03":[8,0,0,0,1,3,7,0,3,3,6,11],
-"db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca3917f87779ff3a60876e0373a10855d5":[8,0,0,0,1,3,7,0,3,3,6,4],
-"db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca5163ffc8d1207088c0a8a47bcc7c707f":[8,0,0,0,1,3,7,0,3,3,6,8]
+"db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298c":[8,0,0,0,1,3,7,0,3,3,6]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX254 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52a3f90077f9d647e6477c92e0f1eb4b233":[8,0,0,0,1,3,5,6,13,11,3],
+"d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52a94102e476bb2e12cceb2d89c467cb18b":[8,0,0,0,1,3,5,6,13,11,1],
 "d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52aadb63a1c52fd60e237f8eefd24417844":[8,0,0,0,1,3,5,6,13,11,2],
 "d9/d6a/icecrown__citadel_8h.html#ab3bc739f6357b75de6423c1b259d2f8a":[8,0,0,0,1,3,5,6,13,24],
 "d9/d6a/icecrown__citadel_8h.html#ad6af8790756d9e08db1cc80a45ed446a":[8,0,0,0,1,3,5,6,13,22],
@@ -247,7 +249,5 @@ var NAVTREEINDEX254 =
 "d9/d6e/classSmartWaypointMgr.html#a7299029b0e2063740fd2fe9d9b218749":[7,0,2638,1],
 "d9/d6e/classSmartWaypointMgr.html#a7ae477d4d210d938e167453d9085e520":[7,0,2638,3],
 "d9/d6e/classSmartWaypointMgr.html#a9b5cdb29d31e7de0a407f600aef482af":[7,0,2638,4],
-"d9/d6e/classSmartWaypointMgr.html#ab3fb0cb109b9bf28ee09173f4340c351":[7,0,2638,2],
-"d9/d6e/classSmartWaypointMgr.html#ac34eb4bd79106db2574cce0208a785e5":[7,0,2638,5],
-"d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[7,0,2638,0]
+"d9/d6e/classSmartWaypointMgr.html#ab3fb0cb109b9bf28ee09173f4340c351":[7,0,2638,2]
 };

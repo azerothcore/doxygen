@@ -1,5 +1,6 @@
 var NAVTREEINDEX15 =
 {
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a1cfcf5c2a217e89728fcd8e3bfc36354":[8,0,0,0,1,2,8,1,11,15,0],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a239d48dcf636b831b5312fc4f5258a38":[8,0,0,0,1,2,8,1,11,15,53],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a2457cf011017828bba1768272df4bdd5":[8,0,0,0,1,2,8,1,11,15,89],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a247675ed22d89c8239eac550a98e1a1e":[8,0,0,0,1,2,8,1,11,15,55],
@@ -248,6 +249,5 @@ var NAVTREEINDEX15 =
 "d0/d99/structWaspTeleportData.html":[7,0,4710],
 "d0/d99/structWaspTeleportData.html#aefd9fa5c6e7f45047994c7cc47e5967c":[7,0,4710,0],
 "d0/d99/structWaspTeleportData.html#af495f984d5b81baeaa61ddca127a9508":[7,0,4710,1],
-"d0/d9a/classspell__warl__glyph__of__shadowflame.html":[7,0,4379],
-"d0/d9a/classspell__warl__glyph__of__shadowflame.html#a2a1d6c4a6fdcfbb0ab34769649dbe321":[7,0,4379,0]
+"d0/d9a/classspell__warl__glyph__of__shadowflame.html":[7,0,4379]
 };

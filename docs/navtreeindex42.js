@@ -1,5 +1,6 @@
 var NAVTREEINDEX42 =
 {
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea2520001e4fe2a621d4b6b232413b5a73":[8,0,0,0,1,2,16,10,5,52,20],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea258aae10f381a608fa0ea602c9db7e81":[8,0,0,0,1,2,16,10,5,52,27],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea2820ab7c24d9ae9e7c2522c5cd60da32":[8,0,0,0,1,2,16,10,5,52,14],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea2ca084c2061b3ebd16a486bd8e64a0d2":[8,0,0,0,1,2,16,10,5,52,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX42 =
 "d1/db4/boss__thekal_8cpp.html#a5bd342133be8c2137b831460acc9298cafa4e2a4c2a24bc29010bc0903e35ee22":[8,0,0,0,1,3,2,15,10,5,12],
 "d1/db4/boss__thekal_8cpp.html#a5bd342133be8c2137b831460acc9298cafbd2315db151a6840a9721c58617f3fc":[8,0,0,0,1,3,2,15,10,5,14],
 "d1/db4/classinstance__sunken__temple.html":[7,0,1377],
-"d1/db4/classinstance__sunken__temple.html#a123b052c1cd1487588c88bf2611bc53b":[7,0,1377,1],
-"d1/db4/classinstance__sunken__temple.html#a1a783056b681f1f3b90e2e33e6a4a86d":[7,0,1377,2]
+"d1/db4/classinstance__sunken__temple.html#a123b052c1cd1487588c88bf2611bc53b":[7,0,1377,1]
 };

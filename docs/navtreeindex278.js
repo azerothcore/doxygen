@@ -1,5 +1,8 @@
 var NAVTREEINDEX278 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ae71303047bb2e125eb7e59b55686c7b9":[8,0,0,0,1,3,5,6,10,77,24],
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aff1eb0cc2288bc3b19ffa162f126106f":[8,0,0,0,1,3,5,6,10,77,26],
+"da/d78/boss__the__lich__king_8cpp.html#ab2cb971d4187e38d192355bc444cd305":[8,0,0,0,1,3,5,6,10,69],
 "da/d78/boss__the__lich__king_8cpp.html#ac49be0ea0e458117d08dcf114393c2e3":[8,0,0,0,1,3,5,6,10,78],
 "da/d78/boss__the__lich__king_8cpp.html#ad6af8790756d9e08db1cc80a45ed446a":[8,0,0,0,1,3,5,6,10,88],
 "da/d78/boss__the__lich__king_8cpp.html#ad87376e6ca5b12d8996ebb4e9fe119b9":[8,0,0,0,1,3,5,6,10,82],
@@ -246,8 +249,5 @@ var NAVTREEINDEX278 =
 "da/d7e/classspell__pri__penance.html#a9b9d5f862e9910f1a12780ff54b067ca":[7,0,3877,5],
 "da/d7e/classspell__pri__penance.html#ab9f09394ab301350a2abaefde90632fe":[7,0,3877,4],
 "da/d7e/classspell__pri__penance.html#ad6b60c449d57503508c9a94ca6e919f9":[7,0,3877,0],
-"da/d7e/classspell__rog__cut__to__the__chase.html":[7,0,4064],
-"da/d7e/classspell__rog__cut__to__the__chase.html#a88c2793fb6043d4d4e970a99df38681a":[7,0,4064,0],
-"da/d7e/classspell__rog__cut__to__the__chase.html#a9e69ca6fa962ccf17c090243a91b4d51":[7,0,4064,2],
-"da/d7e/classspell__rog__cut__to__the__chase.html#aa2b2e8a0b209d96828ad8c5dd84726b6":[7,0,4064,1]
+"da/d7e/classspell__rog__cut__to__the__chase.html":[7,0,4064]
 };

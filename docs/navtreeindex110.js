@@ -1,5 +1,7 @@
 var NAVTREEINDEX110 =
 {
+"d3/d9f/classObjectVisibilityContainer.html#aa12e3794e004f994f02263251d611708":[7,0,2367,17],
+"d3/d9f/classObjectVisibilityContainer.html#ab6901d45f3920457bf6fbe6a89987375":[7,0,2367,13],
 "d3/d9f/classObjectVisibilityContainer.html#ab719a4d7551d0166419d6ea2f036e610":[7,0,2367,3],
 "d3/d9f/classObjectVisibilityContainer.html#ab744b89b7d10ab3fe55acb5f35a2c9c3":[7,0,2367,11],
 "d3/d9f/classObjectVisibilityContainer.html#abf9656ab1132b64e991bcf267fc10c7f":[7,0,2367,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX110 =
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34ca90f1ce9eb7e79af7a348559d2d731a15":[8,0,0,0,1,2,8,1,17,1,1],
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34cabd4e313e8dca8e6cd60540a49cab8733":[8,0,0,0,1,2,8,1,17,1,2],
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34caecbfbc0c2c667f1549323a8f96e601b5":[8,0,0,0,1,2,8,1,17,1,0],
-"d3/da6/DatabaseWorkerPoolAdapter_8h.html":[8,0,0,0,1,1,0,13],
-"d3/da6/classspell__gen__oracle__wolvar__reputation.html":[7,0,3133],
-"d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4098aa621012c5e3623ee905d2d2c8eb":[7,0,3133,1]
+"d3/da6/DatabaseWorkerPoolAdapter_8h.html":[8,0,0,0,1,1,0,13]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX51 =
 {
+"d1/df0/classspell__dk__presence.html":[7,0,2871],
 "d1/df0/classspell__dk__presence.html#a020c0ae1f74856ae070ab2104232a079":[7,0,2871,1],
 "d1/df0/classspell__dk__presence.html#a262bfd40ee2f2d8ed793f999f660ba28":[7,0,2871,2],
 "d1/df0/classspell__dk__presence.html#a3b43cfcbbfa8fdbf170c76dd12b72074":[7,0,2871,0],
@@ -103,16 +104,16 @@ var NAVTREEINDEX51 =
 "d1/df9/classspell__kelthuzad__void__blast.html#a75d2e4bc16170348893654d53c1bb6d7":[7,0,3586,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[7,0,0,61],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,0,73],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,0,73,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[7,0,0,61,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,0,73,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[7,0,0,61,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,0,73,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[7,0,0,61,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,0,73,3],
-"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[7,0,0,61,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[7,0,0,61,3],
 "d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[5,0,0,73,4],
+"d1/df9/structAcore_1_1GameObjectWorker.html#accfe66385f5bbfb461d0493c22fde20e":[7,0,0,61,4],
 "d1/df9/structnpc__azure__raider.html":[7,0,1677],
 "d1/df9/structnpc__azure__raider.html#a3579986a1769467cb17d3b15242e0551":[7,0,1677,1],
 "d1/df9/structnpc__azure__raider.html#a7aa0c785e976167ef384d7c4dac3294f":[7,0,1677,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX51 =
 "d2/d04/classspell__capacitus__polarity__charge.html#a8873614ae22c908cb2cf49129fc53be2":[7,0,2778,3],
 "d2/d04/classspell__capacitus__polarity__charge.html#ac9e455d4ef5cc7b7ce424b70b4387c78":[7,0,2778,1],
 "d2/d04/classspell__capacitus__polarity__charge.html#add7e78111217d00bfa3dfa5b3eb490f9":[7,0,2778,0],
-"d2/d05/CreatureAI_8h.html":[8,0,0,0,1,2,3,4],
-"d2/d05/CreatureAI_8h.html#a09291ebbaa06245b9f65d046a8b67621":[8,0,0,0,1,2,3,4,7]
+"d2/d05/CreatureAI_8h.html":[8,0,0,0,1,2,3,4]
 };

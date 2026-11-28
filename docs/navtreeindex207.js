@@ -1,5 +1,7 @@
 var NAVTREEINDEX207 =
 {
+"d7/d80/classboss__thaddius.html":[7,0,741],
+"d7/d80/classboss__thaddius.html#acf841c6897396f517a74932fc3480e69":[7,0,741,2],
 "d7/d80/classboss__thaddius.html#aff97b030b861feb646e1b22f60ee3605":[7,0,741,1],
 "d7/d80/structCreatureBaseStats.html":[7,0,950],
 "d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c":[7,0,950,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX207 =
 "d7/d8f/boss__loatheb_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa71097ab3d0e9698e7871b80cb7e11bc":[8,0,0,0,1,3,5,7,8,2,2],
 "d7/d8f/structWardenInitModuleRequest.html":[7,0,4704],
 "d7/d8f/structWardenInitModuleRequest.html#a0f618ae1204586a6332008223bf09808":[7,0,4704,23],
-"d7/d8f/structWardenInitModuleRequest.html#a113c63e21a55c4854780ebbddcd05f46":[7,0,4704,20],
-"d7/d8f/structWardenInitModuleRequest.html#a165f8a36446fcce8b7a062293df0bf5f":[7,0,4704,18],
-"d7/d8f/structWardenInitModuleRequest.html#a1ab1f531e78a9d9470927761e46064b7":[7,0,4704,14]
+"d7/d8f/structWardenInitModuleRequest.html#a113c63e21a55c4854780ebbddcd05f46":[7,0,4704,20]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX362 =
 {
+"dd/db3/classReputationMgr.html#a92409ea5f59a8240fa43026b4edd9663":[7,0,2560,37],
+"dd/db3/classReputationMgr.html#a93b3d69fba645e49347825678c8f23f4":[7,0,2560,23],
+"dd/db3/classReputationMgr.html#a9630b6dd11afbe3ce28297a23b1b4c94":[7,0,2560,14],
+"dd/db3/classReputationMgr.html#a9ae73ca846cc87d0af038414f76af880":[7,0,2560,47],
+"dd/db3/classReputationMgr.html#aa1771208a72c53e3700357e75aca4108":[7,0,2560,43],
+"dd/db3/classReputationMgr.html#aa2ea3e3ae0aa30330c53663a87395ce1":[7,0,2560,44],
+"dd/db3/classReputationMgr.html#aa7f0691fbc9758e8170967df0093aaf8":[7,0,2560,51],
+"dd/db3/classReputationMgr.html#aa9df2e895c320ee722dbcd0265bb0178":[7,0,2560,0],
+"dd/db3/classReputationMgr.html#ab0e0bb0621dfc8d41c802130642834db":[7,0,2560,36],
 "dd/db3/classReputationMgr.html#ab67626904e51d2b94d825f24ce457bcc":[7,0,2560,12],
 "dd/db3/classReputationMgr.html#aba695c05cd0e5c2190e8cebc24c14004":[7,0,2560,20],
 "dd/db3/classReputationMgr.html#ac45cfd285d11d13b1795e72aedb6fc70":[7,0,2560,48],
@@ -240,14 +249,5 @@ var NAVTREEINDEX362 =
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5":[8,0,0,0,1,3,4,6,1,4,9],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaab32dce7b44868931f08d3604a802dd44":[8,0,0,0,1,3,4,6,1,4,13],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaab86f59506288a17715a05dc6c3cc9c5e":[8,0,0,0,1,3,4,6,1,4,8],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03":[8,0,0,0,1,3,4,6,1,4,19],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaabdc6cc62f4c38145542e5be0485df2fc":[8,0,0,0,1,3,4,6,1,4,5],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaac918f6177e0a19d346c351646dc8e53a":[8,0,0,0,1,3,4,6,1,4,7],
-"dd/dc8/GmVisibleCommandTest_8cpp.html":[8,0,0,0,2,2,0,3,0],
-"dd/dc8/classspell__warl__demonic__knowledge.html":[7,0,4370],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a09ea5265d7105a4bd487d383948901a0":[7,0,4370,4],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a42770d7f7e5bd41cd3f0a283c544c642":[7,0,4370,0],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a4c75f793388b533d00a52ad18f18bc6e":[7,0,4370,2],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a525009acb345d6b0a9857c30cfce2230":[7,0,4370,1],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a5627212e48a3044a9a7480851787a839":[7,0,4370,3]
+"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03":[8,0,0,0,1,3,4,6,1,4,19]
 };

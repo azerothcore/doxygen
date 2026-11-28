@@ -1,5 +1,8 @@
 var NAVTREEINDEX294 =
 {
+"db/d14/structnpc__necrotic__shard.html#aa38be6224d7712e710861a4b3ba0424e":[7,0,2034,17],
+"db/d14/structnpc__necrotic__shard.html#aa456d50b6e77bc86ecf0399474ced4d3":[7,0,2034,20],
+"db/d14/structnpc__necrotic__shard.html#aa71daa74d312f6da03ccd64a8141624b":[7,0,2034,10],
 "db/d14/structnpc__necrotic__shard.html#acf6c33a5b342e5a6a97e5f7565d8dc87":[7,0,2034,19],
 "db/d14/structnpc__necrotic__shard.html#aecc545eefc308b525052f86bfab5b390":[7,0,2034,9],
 "db/d14/structnpc__necrotic__shard.html#aeea71f3ba1e79722280da9b7adf5c212":[7,0,2034,14],
@@ -246,8 +249,5 @@ var NAVTREEINDEX294 =
 "db/d1d/structboss__ouro.html#aff594fd1558ac0c150ef7dc44b185863":[7,0,664,15],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html":[7,0,2127,0],
 "db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a16ab37be9e31dcfc159b5c78b196b847":[7,0,2127,0,1],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a1c85351ae62d5f45381214373e64aec4":[7,0,2127,0,0],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a64beac4aafa9e9bb2089a7c1e35fe8a5":[7,0,2127,0,6],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a64fa46f05861d8736d881aa3687f4320":[7,0,2127,0,2],
-"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a821377a2c29b4180db00f2c4f4268fe7":[7,0,2127,0,4]
+"db/d1d/structnpc__raging__spirit_1_1npc__raging__spiritAI.html#a1c85351ae62d5f45381214373e64aec4":[7,0,2127,0,0]
 };

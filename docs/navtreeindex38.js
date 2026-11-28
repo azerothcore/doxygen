@@ -1,13 +1,14 @@
 var NAVTREEINDEX38 =
 {
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,0,24,0],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,0,24],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[7,0,0,12,0],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,0,24,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[7,0,0,12,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,0,24,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,0,24,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[7,0,0,12,1],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,0,24,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[7,0,0,12,4],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,0,24,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[7,0,0,12,3],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,0,24,3],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html":[8,0,0,0,1,3,7,5,1,1],
@@ -182,8 +183,8 @@ var NAVTREEINDEX38 =
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[5,0,35,6,18,0],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[5,0,35,6,18,2],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[7,0,13,6,18,2],
-"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[5,0,35,6,18,1],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[7,0,13,6,18,1],
+"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[5,0,35,6,18,1],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#ae78c1d1b802e12efd058987117158ec3":[7,0,13,6,18,3],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#ae78c1d1b802e12efd058987117158ec3":[5,0,35,6,18,3],
 "d1/d88/structTurretAI.html":[7,0,4651],
@@ -248,6 +249,5 @@ var NAVTREEINDEX38 =
 "d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a07172004263a6b92b72d245a194dbf7c":[8,0,0,0,1,3,4,9,6,2,2],
 "d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0e311cfe6a9201aa9a624e05d14185f2":[8,0,0,0,1,3,4,9,6,2,5],
 "d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a58ba43f76463f2e50d8003bb53cce562":[8,0,0,0,1,3,4,9,6,2,4],
-"d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a77555109b1c145d26a3e4e3faa3e37a5":[8,0,0,0,1,3,4,9,6,2,0],
-"d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a80c7f5121acd88b5e03ee019030e0ca2":[8,0,0,0,1,3,4,9,6,2,3]
+"d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a77555109b1c145d26a3e4e3faa3e37a5":[8,0,0,0,1,3,4,9,6,2,0]
 };

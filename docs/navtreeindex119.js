@@ -1,5 +1,7 @@
 var NAVTREEINDEX119 =
 {
+"d3/dd6/structinstance__blackrock__depths.html#a9de6fb7f43f4abd0d295e0f9210b99a3":[7,0,1329,19],
+"d3/dd6/structinstance__blackrock__depths.html#aac5ce1d1832d3eefa462fabc22bbfb86":[7,0,1329,41],
 "d3/dd6/structinstance__blackrock__depths.html#aacde8b6e3400a6ad29ab48e8a48c8fab":[7,0,1329,28],
 "d3/dd6/structinstance__blackrock__depths.html#aae0c0472c96936794c083a12f035562b":[7,0,1329,54],
 "d3/dd6/structinstance__blackrock__depths.html#ab0a2bb921728b0881675f2cc7e826aac":[7,0,1329,30],
@@ -247,7 +249,5 @@ var NAVTREEINDEX119 =
 "d3/de2/classbf__commandscript.html#ab2e116060bb747e9ae9237c49b8cc2c9":[7,0,361,4],
 "d3/de2/classbf__commandscript.html#abe18a8f6f91de5a1984f09c711136919":[7,0,361,3],
 "d3/de2/classbf__commandscript.html#ae942a3c7f13cc77b3cf36078d798e0fe":[7,0,361,6],
-"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html":[7,0,3841],
-"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#a11f2c759a5587eb865560eceff5b8414":[7,0,3841,9],
-"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#a26c15c411ff09d8107dfc360b71dbc0a":[7,0,3841,5]
+"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html":[7,0,3841]
 };

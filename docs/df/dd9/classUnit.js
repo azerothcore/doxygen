@@ -162,6 +162,7 @@ var classUnit =
     [ "EnergizeBySpell", "df/dd9/classUnit.html#a1ed7bebb7769f200cc2625ae2a1988b0", null ],
     [ "EngageWithTarget", "df/dd9/classUnit.html#a9fe4066ee863cfc8934e1f06dbe42bfc", null ],
     [ "EnterVehicle", "df/dd9/classUnit.html#a008966d0caec959bee0e00910870804d", null ],
+    [ "EnterVehicleBeforeCreate", "df/dd9/classUnit.html#a7a273de849e16e714d63266f288df12d", null ],
     [ "EnterVehicleUnattackable", "df/dd9/classUnit.html#a4c59a88f398d83f3fb5f6a1a3922b8d5", null ],
     [ "ExecuteDelayedUnitAINotifyEvent", "df/dd9/classUnit.html#a5fc8dd15cf71ac4dd53d05eeec0f1ef5", null ],
     [ "ExecuteDelayedUnitRelocationEvent", "df/dd9/classUnit.html#a57dc9e3e046d387869e00757cb0f47bf", null ],

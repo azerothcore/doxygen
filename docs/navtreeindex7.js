@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d5b/classPlayerScript.html#aad9c53f38209b82f76e73a8bf847c452":[7,0,2463,137],
 "d0/d5b/classPlayerScript.html#aaf088b928f0bf7a9c69dd6c852daa2be":[7,0,2463,12],
 "d0/d5b/classPlayerScript.html#aafaf3841ad2715c85e4fb1e4a34a25c5":[7,0,2463,153],
 "d0/d5b/classPlayerScript.html#ab1aa7309009b5fa7422d0358e659ccc5":[7,0,2463,147],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a1e22e2a008987f157bb07b148ad32b80":[8,0,0,0,1,2,41,3,12,20],
 "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a271b7467df43e47688e14011b8cc82d6":[8,0,0,0,1,2,41,3,12,2],
 "d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a2b701966e9212827566ad5b8e41e7ca2":[8,0,0,0,1,2,41,3,12,8],
-"d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a3ab7cedf4f334dafece5849da2e0a4d1":[8,0,0,0,1,2,41,3,12,12],
-"d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a44f37ad9a82f4864c3d79e6469fcd52e":[8,0,0,0,1,2,41,3,12,5]
+"d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a3ab7cedf4f334dafece5849da2e0a4d1":[8,0,0,0,1,2,41,3,12,12]
 };

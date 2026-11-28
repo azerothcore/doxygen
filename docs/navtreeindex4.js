@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"d0/d34/structboss__ignis.html#a90c4bf03b702264356f5826030ac16de":[7,0,561,3],
 "d0/d34/structboss__ignis.html#ab3519e58bcf9feb942412a370fa0e205":[7,0,561,9],
 "d0/d34/structboss__ignis.html#ae82a27c0483beae93d2386ff9af3377f":[7,0,561,4],
 "d0/d34/structboss__ignis.html#af5873189f7e2d8c27e709d04a4cbee13":[7,0,561,8],
@@ -89,10 +90,10 @@ var NAVTREEINDEX4 =
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html":[5,0,35,6,20],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a349f8608d589ac3a5697c7c1cf73723e":[5,0,35,6,20,3],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a349f8608d589ac3a5697c7c1cf73723e":[7,0,13,6,20,3],
-"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a420aac24befdc5ac26171faa15c3c350":[7,0,13,6,20,1],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a420aac24befdc5ac26171faa15c3c350":[5,0,35,6,20,1],
-"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a68f9a4191c349702881774bff4069f03":[7,0,13,6,20,2],
+"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a420aac24befdc5ac26171faa15c3c350":[7,0,13,6,20,1],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a68f9a4191c349702881774bff4069f03":[5,0,35,6,20,2],
+"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a68f9a4191c349702881774bff4069f03":[7,0,13,6,20,2],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a7bd310d1fa4fb332cd815a259de3ef2d":[5,0,35,6,20,0],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a7bd310d1fa4fb332cd815a259de3ef2d":[7,0,13,6,20,0],
 "d0/d38/classspell__ayamiss__swarmer__start__loop.html":[7,0,2701],
@@ -149,14 +150,14 @@ var NAVTREEINDEX4 =
 "d0/d3d/classinstance__the__underbog.html":[7,0,1385],
 "d0/d3d/classinstance__the__underbog.html#ace939fb7fd89e7c9c84c17d3ca31208b":[7,0,1385,2],
 "d0/d3d/classinstance__the__underbog.html#afaf8740a3e367a1a54eaa3e76ffa483e":[7,0,1385,1],
-"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html":[7,0,0,21],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html":[5,0,0,33],
+"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html":[7,0,0,21],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a2b38f9e66b1ba3bb678d763937852e02":[5,0,0,33,1],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a2b38f9e66b1ba3bb678d763937852e02":[7,0,0,21,1],
-"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a65245ce627d5ccfde557f2d7e744ead6":[7,0,0,21,3],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a65245ce627d5ccfde557f2d7e744ead6":[5,0,0,33,3],
-"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf":[7,0,0,21,0],
+"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a65245ce627d5ccfde557f2d7e744ead6":[7,0,0,21,3],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf":[5,0,0,33,0],
+"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf":[7,0,0,21,0],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aed6fe2e6d17e2076a373b32de071cd18":[7,0,0,21,2],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aed6fe2e6d17e2076a373b32de071cd18":[5,0,0,33,2],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aff91ead572f2ed0d1912dbd0180196d5":[7,0,0,21,4],
@@ -247,7 +248,6 @@ var NAVTREEINDEX4 =
 "d0/d40/structnpc__pet__gen__imp__in__a__bottle.html#a982ec923536c2c33353a3673aa425b6a":[7,0,2072,3],
 "d0/d40/structnpc__pet__gen__imp__in__a__bottle.html#a9fde3fd30d48068a3ad1a19f65c61bf2":[7,0,2072,1],
 "d0/d40/structnpc__pet__gen__imp__in__a__bottle.html#aa32b7770c2719d77d46fcf6d22989284":[7,0,2072,0],
-"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html":[7,0,13,0,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html":[5,0,35,0,1],
-"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a08d2992816ee94b6757c2811b54ed437":[5,0,35,0,1,2]
+"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html":[7,0,13,0,1]
 };

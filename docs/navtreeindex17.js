@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"d0/dad/molten__core_8h.html#a9dd93200f9bd6f102e42110053662da8":[8,0,0,0,1,3,2,1,3,12,9],
 "d0/dad/molten__core_8h.html#aa6c7e3af3690d3417a05ad828ceb5bbd":[8,0,0,0,1,3,2,1,3,12,2],
 "d0/dad/molten__core_8h.html#aa76fba906db49052d8411f60d42ae5c4":[8,0,0,0,1,3,2,1,3,12,7],
 "d0/dad/molten__core_8h.html#aa76fba906db49052d8411f60d42ae5c4a74ce4560d134cfd9c5a3e3c430a4015d":[8,0,0,0,1,3,2,1,3,12,7,0],
@@ -193,8 +194,8 @@ var NAVTREEINDEX17 =
 "d0/dae/structboss__leotheras__the__blind.html#a89deeb1888046d1f4756bcb6447d8f0d":[7,0,608,7],
 "d0/dae/structboss__leotheras__the__blind.html#a9229850f996812366a20508931965a87":[7,0,608,0],
 "d0/dae/structboss__leotheras__the__blind.html#af62091f4c045b1a85ef022fdc81b6d30":[7,0,608,2],
-"d0/db0/classAcore_1_1AhoCorasick.html":[5,0,0,21],
 "d0/db0/classAcore_1_1AhoCorasick.html":[7,0,0,9],
+"d0/db0/classAcore_1_1AhoCorasick.html":[5,0,0,21],
 "d0/db0/classAcore_1_1AhoCorasick.html#a190468425cf4a0621df5dc11462a005d":[5,0,0,21,1],
 "d0/db0/classAcore_1_1AhoCorasick.html#a190468425cf4a0621df5dc11462a005d":[7,0,0,9,1],
 "d0/db0/classAcore_1_1AhoCorasick.html#a1a08a72b3dcb19b69dff27f570352249":[5,0,0,21,8],
@@ -203,14 +204,14 @@ var NAVTREEINDEX17 =
 "d0/db0/classAcore_1_1AhoCorasick.html#a2a1f1025a714e141f17031bdcc5014ab":[7,0,0,9,5],
 "d0/db0/classAcore_1_1AhoCorasick.html#a3bffdd73d3b80a5709bab0c14d510b76":[7,0,0,9,2],
 "d0/db0/classAcore_1_1AhoCorasick.html#a3bffdd73d3b80a5709bab0c14d510b76":[5,0,0,21,2],
-"d0/db0/classAcore_1_1AhoCorasick.html#a4dc282eb219843ea3ec64802a0a99397":[7,0,0,9,3],
 "d0/db0/classAcore_1_1AhoCorasick.html#a4dc282eb219843ea3ec64802a0a99397":[5,0,0,21,3],
+"d0/db0/classAcore_1_1AhoCorasick.html#a4dc282eb219843ea3ec64802a0a99397":[7,0,0,9,3],
 "d0/db0/classAcore_1_1AhoCorasick.html#a776d8978db1f9fe958bd271d51ad7cf6":[7,0,0,9,7],
 "d0/db0/classAcore_1_1AhoCorasick.html#a776d8978db1f9fe958bd271d51ad7cf6":[5,0,0,21,7],
-"d0/db0/classAcore_1_1AhoCorasick.html#a8454549daa1da98e8e0579acac2f4915":[5,0,0,21,9],
 "d0/db0/classAcore_1_1AhoCorasick.html#a8454549daa1da98e8e0579acac2f4915":[7,0,0,9,9],
-"d0/db0/classAcore_1_1AhoCorasick.html#acadbe68a1fac7c78d834e3e41e90c03c":[7,0,0,9,4],
+"d0/db0/classAcore_1_1AhoCorasick.html#a8454549daa1da98e8e0579acac2f4915":[5,0,0,21,9],
 "d0/db0/classAcore_1_1AhoCorasick.html#acadbe68a1fac7c78d834e3e41e90c03c":[5,0,0,21,4],
+"d0/db0/classAcore_1_1AhoCorasick.html#acadbe68a1fac7c78d834e3e41e90c03c":[7,0,0,9,4],
 "d0/db0/classAcore_1_1AhoCorasick.html#adc4ef2a2b7484c5f7423c5227391166d":[7,0,0,9,6],
 "d0/db0/classAcore_1_1AhoCorasick.html#adc4ef2a2b7484c5f7423c5227391166d":[5,0,0,21,6],
 "d0/db0/classSpellProcIntegrationTest.html":[7,0,4541],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "d0/db3/structCurrencyTypesEntry.html#a55fdf966aec0ca687cd6074683af6e7f":[7,0,976,0],
 "d0/db3/structCurrencyTypesEntry.html#a998c1f6dadb823fbba56bb2154396635":[7,0,976,1],
 "d0/db5/WorldStatePackets_8cpp.html":[8,0,0,0,1,2,39,0,35],
-"d0/db6/classspell__explode__trigger.html":[7,0,2989],
-"d0/db6/classspell__explode__trigger.html#a1e608d67914c0071a913d96d70c625d6":[7,0,2989,2]
+"d0/db6/classspell__explode__trigger.html":[7,0,2989]
 };
